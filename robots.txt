@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pocketkorean.com/sitemap.xml
