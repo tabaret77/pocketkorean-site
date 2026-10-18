@@ -1,0 +1,53 @@
+# Pages CMS (https://pagescms.org) – lets you write blog posts in a web editor.
+media:
+  input: media
+  output: /media
+content:
+  - name: posts
+    label: Blog posts
+    type: collection
+    path: content/blog
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      fields: [title, lang, date, draft]
+      primary: title
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: lang
+        label: Language
+        type: select
+        required: true
+        default: en
+        options:
+          values:
+            - { value: en, label: English }
+            - { value: es, label: Español }
+            - { value: vi, label: Tiếng Việt }
+            - { value: th, label: ภาษาไทย }
+            - { value: id, label: Bahasa Indonesia }
+            - { value: zh-hk, label: 廣東話（香港） }
+            - { value: zh-tw, label: 國語（台灣） }
+      - name: date
+        label: Date
+        type: date
+        required: true
+      - name: description
+        label: Short description (for search results and the post list)
+        type: text
+      - name: cover
+        label: Cover image (optional)
+        type: image
+      - name: draft
+        label: Draft (not published yet)
+        type: boolean
+        default: false
+      - name: body
+        label: Content
+        type: rich-text
