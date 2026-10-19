@@ -34,14 +34,19 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
     langmenu = ''.join(f'<a href="/{uu}/{rel if alts else ""}"{" aria-current=\"true\"" if dd == d else ""} lang="{hh}">{nn}</a>'
                        for dd, uu, hh, nn in LANGS)
     img = image or f'{BASE}/icon-512.png'
+    ld = ''
+    if rel == '':
+        ld = ('<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite",'
+              f'"name":"Pocket Korean","alternateName":["PocketKorean","Pocket Korean – 11,000 Words, Grammar & TOPIK"],"url":"{BASE}/","inLanguage":"{HL[d]}"'
+              '}</script>')
     return f'''<!doctype html><html lang="{HL[d]}"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><meta name="description" content="{E(desc)}">
 <link rel="canonical" href="{canon}">{links}
 <meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}">
-<meta property="og:type" content="{og_type}"><meta property="og:url" content="{canon}"><meta property="og:image" content="{E(img)}">
+<meta property="og:site_name" content="Pocket Korean"><meta property="og:type" content="{og_type}"><meta property="og:url" content="{canon}"><meta property="og:image" content="{E(img)}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/icon-180.png">
-<meta name="theme-color" content="#0047A0"><link rel="stylesheet" href="/assets/site.css">
+<meta name="theme-color" content="#0047A0"><link rel="stylesheet" href="/assets/site.css">{ld}
 </head><body>
 <header class="top"><div class="wrap">
 <a class="brand" href="/{u}/">{LOGO}<span>Pocket <b>Korean</b></span></a>
