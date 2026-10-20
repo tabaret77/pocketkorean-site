@@ -71,6 +71,8 @@ def main():
     cpath = os.path.join(ROOT, 'credits.json')
     credits = json.load(open(cpath)) if os.path.exists(cpath) else []
     have = {c['title'] for c in credits}
+    xp = os.path.join(ROOT, 'excluded.json')
+    if os.path.exists(xp): have |= set(json.load(open(xp)))  # reviewed and removed (off-topic, logos, ads)
     for group, qs in cfg['groups'].items():
         os.makedirs(os.path.join(ROOT, group), exist_ok=True)
         for q in qs:
