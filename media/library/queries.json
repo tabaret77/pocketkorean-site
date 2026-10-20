@@ -1,0 +1,12 @@
+{
+  "per_query": 6,
+  "width": 1600,
+  "groups": {
+    "travel": ["Gyeongbokgung", "Changdeokgung", "Bukchon Hanok Village", "N Seoul Tower", "Haeundae Beach", "Gamcheon Culture Village", "Seongsan Ilchulbong", "Jeonju Hanok Village", "Bulguksa", "Gwangjang Market", "Myeongdong", "Cheonggyecheon", "Yeouido cherry blossoms", "Han River Seoul park", "Nami Island"],
+    "life": ["Seoul Metropolitan Subway train", "T-money card", "Korean convenience store", "KTX train Korea", "Seoul bus", "Korean apartment complex", "Korean street sign hangul"],
+    "food": ["Korean barbecue samgyeopsal", "Bibimbap", "Kimchi", "Tteokbokki", "Korean fried chicken", "Kimbap", "Naengmyeon", "Korean street food", "Hotteok", "Soju bottles"],
+    "culture": ["Hanbok", "Lotus Lantern Festival Seoul", "Chuseok", "Seollal Korea", "Changing of the guard Gyeongbokgung", "Korean temple stay", "Hangul Day", "Taekwondo demonstration"],
+    "kpop": ["BTS (band)", "Blackpink", "Twice (group)", "Seventeen (South Korean band)", "Stray Kids", "NewJeans", "IU (singer)", "Aespa", "K-pop concert", "KCON"],
+    "kdrama": ["Korean drama filming location", "Lee Min-ho", "Song Hye-kyo", "Park Seo-joon", "Kim Soo-hyun", "Bae Suzy", "Gong Yoo"]
+  }
+}
