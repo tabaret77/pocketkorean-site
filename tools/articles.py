@@ -73,15 +73,28 @@ def acard(p, d, lead=False):
         else f'<span class="gfx" lang="ko">{E(p["phrase"] or "가")}</span>'
     phrase = (f'<span class="phrase"><b>{T("phrase_story", d)}:</b> <b lang="ko">{E(p["phrase"])}</b>'
               f'{" = " + E(p["pmean"]) if p["pmean"] else ""}</span>') if p['phrase'] else ''
-    return (f'<a class="acard{" lead" if lead else ""}" href="{url(p)}"><div class="ph">{ph}</div><div class="bd">'
+    return (f'<a class="acard c-{p["sec"]}{" lead" if lead else ""}" href="{url(p)}"><div class="ph">{ph}</div><div class="bd">'
             f'<span class="cat">{E(T(CATS[p["cat"]][1], d))}</span><h3>{E(p["title"])}</h3><p>{E(p["desc"])}</p>{phrase}</div></a>')
+
+def _ph(p):
+    return (f'<img src="{E(p["cover"])}" alt="" loading="lazy">' + (f'<small>{E(p["credit"])}</small>' if p['credit'] else '')) if p['cover'] \
+        else f'<span class="gfx" lang="ko">{E(p["phrase"] or "가")}</span>'
+
+def lead_story(p, d):
+    phrase = (f'<span class="phrase"><b lang="ko">{E(p["phrase"])}</b>{E(p["pmean"])}</span>') if p['phrase'] else ''
+    return (f'<a class="lead-story c-{p["sec"]}" href="{url(p)}"><div class="ph">{_ph(p)}</div>'
+            f'<h3>{E(p["title"])}</h3><p>{E(p["desc"])}</p>{phrase}</a>')
+
+def row(p, d):
+    return (f'<a class="row c-{p["sec"]}" href="{url(p)}"><div class="ph">{_ph(p)}</div><div>'
+            f'<span class="cat">{E(T(CATS[p["cat"]][1], d))}</span><h3>{E(p["title"])}</h3><p>{E(p["desc"])}</p></div></a>')
 
 def placeholder(d, cat, href=None):
     """empty-state card for a category (photo + category name), used until articles exist"""
     ph = CATPHOTO.get(cat)
     img = f'<img src="{ph[0]}" alt="" loading="lazy"><small>{E(ph[1])}</small>' if ph else ''
     sec = CATS[cat][0]
-    return (f'<a class="acard" href="{href or L(d, sec + "/" + cat + "/")}"><div class="ph">{img}</div><div class="bd">'
+    return (f'<a class="acard soon c-{sec}" href="{href or L(d, sec + "/" + cat + "/")}"><div class="ph">{img}</div><div class="bd">'
             f'<span class="cat">{E(T(SEC[sec][1], d))}</span><h3>{E(T(CATS[cat][1], d))}</h3><p>{T("no_articles", d)}</p></div></a>')
 
 def chips(d, sec, cur=None):
@@ -121,29 +134,30 @@ def build():
                 return f'<div class="grid">{"".join(placeholder(d, c) for c in cs)}</div>'
             extra = ''
             if sec == 'learn':
-                extra = (f'<div class="grid g4" style="margin-top:28px"><a class="tile" href="{L(d, "topik/")}" style="--bg-t:#FFF4CC;--fg-t:#8A5E00"><small>TOPIK</small><b>{T("nav_topik", d)}</b><span>{T("dict_bylevel", d)}</span></a>'
-                         f'<a class="tile" href="{L(d, "grammar/")}" style="--bg-t:#E8FBF2;--fg-t:#0B6B43"><small>{T("nav_grammar", d)}</small><b>{T("grammar_h", d)}</b><span>{T("q_grammar_d", d)}</span></a>'
-                         f'<a class="tile" href="{L(d, "dictionary/")}" style="--bg-t:#E6EAFF;--fg-t:#1F3BD1"><small>{T("sec_dict", d)}</small><b>{T("dict_search", d)}</b><span>{T("dict_hint", d)}</span></a>'
-                         f'<a class="tile" href="{L(d, "level-test/")}" style="--bg-t:#FFE6E6;--fg-t:#B42323"><small>{T("lt_nav", d)}</small><b>{T("lt_cta", d)}</b><span>{T("q_level_d", d)}</span></a></div>')
-            body = phead(d, T(key, d), T(key, d), T(key + '_p', d), col, chips(d, sec)) + f'<div class="wrap" style="padding-top:36px;padding-bottom:64px">{listing(secposts)}{extra}</div>'
+                extra = (f'<div class="lessons" style="margin-top:44px"><a class="lesson" href="{L(d, "topik/")}"><img class="topik-mark sm" src="/assets/topik-mark.svg" width="92" height="24" alt="TOPIK"><span></span><span>{T("dict_bylevel", d)}</span></a>'
+                         f'<a class="lesson" href="{L(d, "grammar/")}"><b>{T("grammar_h", d)}</b><span></span><span>{T("q_grammar_d", d)}</span></a>'
+                         f'<a class="lesson" href="{L(d, "dictionary/")}"><b>{T("dict_search", d)}</b><span></span><span>{T("dict_hint", d)}</span></a>'
+                         f'<a class="lesson" href="{L(d, "level-test/")}"><b>{T("lt_cta", d)}</b><span></span><span>{T("q_level_d", d)}</span></a></div>')
+            body = phead(d, T(key, d), T(key, d), T(key + '_p', d), col, chips(d, sec), key=sec) + f'<div class="wrap" style="padding-top:36px;padding-bottom:64px">{listing(secposts)}{extra}</div>'
             write(f'/{u}/{sec}/', page(d, f'{sec}/', f'{T(key, d)} | Pocket Korean', T(key + '_p', d), body, wide=True, cur=sec))
             urls.append(f'{BASE}/{u}/{sec}/')
             for c, ck in cats:
                 cp = [p for p in secposts if p['cat'] == c]
                 crumbs = f'<p class="crumbs"><a href="{L(d, sec + "/")}">{T(key, d)}</a></p>'
-                body = phead(d, T(key, d), T(ck, d), T(key + '_p', d), col, chips(d, sec, c), crumbs) + f'<div class="wrap" style="padding-top:36px;padding-bottom:64px">{listing(cp, c)}</div>'
+                body = phead(d, T(key, d), T(ck, d), T(key + '_p', d), col, chips(d, sec, c), crumbs, key=sec) + f'<div class="wrap" style="padding-top:36px;padding-bottom:64px">{listing(cp, c)}</div>'
                 write(f'/{u}/{sec}/{c}/', page(d, f'{sec}/{c}/', f'{T(ck, d)} – {T(key, d)} | Pocket Korean', T(key + '_p', d), body, wide=True, cur=sec))
                 urls.append(f'{BASE}/{u}/{sec}/{c}/')
         for p in mine:
             key, col = SEC[p['sec']][1], SEC[p['sec']][2]
             cover = (f'<img class="cover" src="{E(p["cover"])}" alt="">' + (f'<p class="credit">{E(p["credit"])}</p>' if p['credit'] else '')) if p['cover'] else ''
             phrase = (f'<div class="phrasebox"><b>{T("phrase_story", d)}:</b> <b lang="ko">{E(p["phrase"])}</b>{" = " + E(p["pmean"]) if p["pmean"] else ""}'
-                      f'<a style="margin-left:auto" href="{L(d, "dictionary/")}?q={E(p["phrase"])}">{T("dict_search", d)} →</a></div>') if p['phrase'] else ''
+                      f'<a class="more" style="margin-left:auto" href="{L(d, "dictionary/")}?q={E(p["phrase"])}">{T("dict_search", d)}</a></div>') if p['phrase'] else ''
             rel = [q for q in mine if q['sec'] == p['sec'] and q is not p][:3]
-            more = (f'<section style="margin-top:48px"><h2 style="font-size:26px">{T("more", d)}</h2><div class="grid">{"".join(acard(q, d) for q in rel)}</div></section>') if rel else ''
-            body = (f'<div class="wrap" style="padding-top:36px;padding-bottom:64px"><p class="crumbs"><a href="{L(d, p["sec"] + "/")}">{T(key, d)}</a> › '
+            more = (f'<div class="box"><span class="kicker">{T("more", d)}</span><div class="rows">{"".join(row(q, d) for q in rel)}</div></div>') if rel else ''
+            body = (f'<div class="wrap layout2"><div class="main"><p class="crumbs"><a href="{L(d, p["sec"] + "/")}">{T(key, d)}</a> › '
                     f'<a href="{L(d, p["sec"] + "/" + p["cat"] + "/")}">{T(CATS[p["cat"]][1], d)}</a></p><article class="post">'
-                    f'<h1>{E(p["title"])}</h1><p class="meta">{p["date"]}</p>{cover}{phrase}{p["html"]}</article>{cta_box(d)}{more}</div>')
+                    f'<h1>{E(p["title"])}</h1><p class="meta">{p["date"]}</p>{cover}{phrase}{p["html"]}</article></div>'
+                    f'<aside class="sticky">{cta_box(d)}{more}</aside></div>')
             canon = BASE + url(p)
             img = (BASE + p['cover']) if p['cover'].startswith('/') else (p['cover'] or None)
             write(url(p), page(d, f'{p["sec"]}/{p["slug"]}/', f'{p["title"]} | Pocket Korean', p['desc'], body, alts=False,
@@ -166,8 +180,8 @@ def home_slots(d, mine, en):
     if not os.path.exists(fp): return
     s = open(fp, encoding='utf-8').read()
     pick = lambda sec, k: ([p for p in mine if p['sec'] == sec] or [p for p in en if p['sec'] == sec])[:k]
-    today = pick('korea-today', 3)
-    t_html = (f'<div class="grid">{"".join(acard(p, d, lead=i == 0) for i, p in enumerate(today))}</div>' if today
+    today = pick('korea-today', 4)
+    t_html = (f'<div class="news">{lead_story(today[0], d)}<div class="rows">{"".join(row(p, d) for p in today[1:])}</div></div>' if today
               else f'<div class="grid">{"".join(placeholder(d, c) for c, _ in SEC["korea-today"][3])}</div>')
     life = pick('life-travel', 4)
     l_html = (f'<div class="grid g4">{"".join(acard(p, d) for p in life)}</div>' if life
@@ -177,12 +191,14 @@ def home_slots(d, mine, en):
     dl = ([p for p in mine if p['cat'] == 'drama-lines'] or [p for p in en if p['cat'] == 'drama-lines'])[:1]
     if dl:
         p = dl[0]
+        others = [q for q in (mine or en) if q['sec'] == 'words' and q is not p][:3] or [q for q in en if q['sec'] == 'words' and q is not p][:3]
+        wl = ''.join(f'<a class="wl" href="{url(q)}"><b lang="ko">{E(q["phrase"] or q["title"])}</b><span class="tag">{E(T(CATS[q["cat"]][1], d))}</span></a>' for q in others)
         dr = (f'<div class="drama"><div class="l"><span class="pill">{T("drama_h", d)}</span><p class="line" lang="ko">“{E(p["phrase"] or p["title"])}”</p>'
-              f'<p class="tr">{E(p["pmean"])}</p><p style="color:#E1E4FA">{E(p["desc"])}</p><a class="btn yellow" href="{url(p)}">{T("read_more", d)} →</a></div>'
-              f'<div class="r"><span class="kicker">{T("cat_drama", d)}</span><a class="wl" href="{L(d, "words/drama-lines/")}"><span>{T("see_all", d)}</span><span>→</span></a></div></div>')
+              f'<p class="tr">{E(p["pmean"])}</p><p style="color:#E1E4FA">{E(p["desc"])}</p><a class="btn yellow" href="{url(p)}">{T("read_more", d)}</a></div>'
+              f'<div class="r"><span class="kicker">{T("sec_words", d)}</span>{wl}<a class="more" style="color:#fff" href="{L(d, "words/")}">{T("see_all", d)}</a></div></div>')
     else:
         dr = (f'<div class="drama"><div class="l"><span class="pill">{T("drama_h", d)}</span><p class="line" lang="ko">“괜찮아요?”</p>'
-              f'<p class="tr">{T("no_articles", d)}</p><a class="btn yellow" href="{L(d, "words/drama-lines/")}">{T("cat_drama", d)} →</a></div>'
+              f'<p class="tr">{T("no_articles", d)}</p><a class="btn yellow" href="{L(d, "words/drama-lines/")}">{T("cat_drama", d)}</a></div>'
               f'<div class="r"><span class="kicker">{T("words_in_line", d)}</span><a class="wl" href="{L(d, "dictionary/")}?q=괜찮다"><b lang="ko">괜찮다</b><span class="tag">T1</span></a></div></div>')
     for name, html in (('TODAY', t_html), ('LIFE', l_html), ('LEARN', le_html), ('DRAMA', dr)):
         s = re.sub(rf'<!--{name}-->.*?<!--/{name}-->', lambda m: f'<!--{name}-->{html}<!--/{name}-->', s, flags=re.S)

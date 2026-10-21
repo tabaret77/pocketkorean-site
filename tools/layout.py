@@ -25,6 +25,12 @@ SECTIONS = [
                                       ('polite-casual', 'cat_polite')]),
 ]
 SEC = {s[0]: s for s in SECTIONS}
+# each section's hangul badge (what the section is called in Korean) and colour
+BADGE = {'korea-today': ('오늘', 'coral'), 'life-travel': ('생활', 'sky'), 'learn': ('공부', 'mint'), 'words': ('단어', 'violet'),
+         'dictionary': ('사전', 'blue'), 'name': ('이름', 'yellow'), 'level-test': ('실력', 'blue'), 'app': ('앱', 'blue'), 'about': ('소개', 'violet')}
+def badge(key, big=False):
+    k, c = BADGE.get(key, ('한', 'blue'))
+    return f'<span class="badge b-{c}{" big" if big else ""}" lang="ko" aria-hidden="true">{k}</span>'
 CATS = {c: (s[0], k) for s in SECTIONS for c, k in s[3]}
 
 import hashlib, os as _os
@@ -108,9 +114,9 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
 <meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}">
 <meta property="og:site_name" content="Pocket Korean"><meta property="og:type" content="{og_type}"><meta property="og:url" content="{canon}"><meta property="og:image" content="{E(img)}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/icon-180.png">
-<meta name="theme-color" content="#2D4BFF">
+<meta name="theme-color" content="#2446F0">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&amp;family=Noto+Sans+KR:wght@400;500;700;900&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&amp;family=Atkinson+Hyperlegible:wght@400;700&amp;family=Nanum+Myeongjo:wght@700;800&amp;family=Noto+Sans+KR:wght@400;500;700&amp;display=swap">
 <link rel="stylesheet" href="/assets/site-{CSSV}.css">{ld}
 </head><body data-lang="{d}" data-u="{u}">
 <a class="sr" href="#main">Skip to content</a>
@@ -131,14 +137,16 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
 </header>
 <main id="main">{main}</main>
 <footer class="site"><div class="wrap"><div class="cols">{foot}</div>
-<div class="bottom"><span>© 2026 Pocket Korean · <a href="/privacy/">{T('privacy', d)}</a></span><span id="credits"></span></div></div></footer>
+<div class="bottom"><span>© 2026 Pocket Korean <a style="margin-left:14px" href="/privacy/">{T('privacy', d)}</a></span><span id="credits"></span></div></div></footer>
 <script src="/assets/site-{JSV}.js" defer></script>
 </body></html>'''
 
 def cta_box(d):
-    return (f'<aside class="cta"><div><h2>{T("cta_box_h", d)}</h2><p>{T("cta_box_p", d)}</p></div>'
-            f'<a class="btn" href="{APP}/?lang={d}">{T("cta_app", d)}</a></aside>')
+    return (f'<div class="cta"><div><h2>{T("cta_box_h", d)}</h2><p>{T("cta_box_p", d)}</p></div>'
+            f'<a class="btn" href="{APP}/?lang={d}">{T("cta_app", d)}</a></div>')
 
-def phead(d, kicker, h1, lead, colour='blue', chips='', crumbs=''):
-    return (f'<section class="phead c-{colour}"><div class="wrap">{crumbs}<span class="kicker">{E(kicker)}</span><h1>{E(h1)}</h1>'
+def phead(d, kicker, h1, lead, colour='blue', chips='', crumbs='', key=None):
+    b = badge(key, True) if key else ''
+    k = f'<p class="kicker">{E(kicker)}</p>' if kicker and kicker != h1 else ''
+    return (f'<section class="phead c-{colour}"><div class="wrap">{crumbs}<div class="ph-t">{b}<div>{k}<h1>{E(h1)}</h1></div></div>'
             f'<p class="lead">{E(lead)}</p>{chips}</div></section>')

@@ -42,7 +42,7 @@
   if (wod) getJSON(wod.getAttribute('data-src')).then(function (list) {
     var w = list[dayIndex(list.length)], f = function (k) { return wod.querySelector('[data-f="' + k + '"]'); };
     var tip = f('t'); var tb = tip.querySelector('b'); var lab = tb ? tb.outerHTML : '';
-    f('de').textContent = w.de; f('rom').textContent = w.rom + ' · ' + w.pos; f('m').textContent = w.m;
+    f('de').innerHTML = Array.from(w.de).map(function (ch) { return '<span>' + esc(ch) + '</span>'; }).join(''); f('de').setAttribute('aria-label', w.de); f('rom').textContent = w.rom; f('pos').textContent = w.pos; f('m').textContent = w.m;
     f('ex').textContent = w.ex; f('x').textContent = w.x; tip.innerHTML = lab + ' ' + esc(w.t || w.e);
     f('lv').textContent = 'TOPIK ' + w.lv.slice(1); f('lv').className = 'tag t' + w.lv.slice(1);
     f('link').href = '/' + U + '/dictionary/?q=' + encodeURIComponent(w.de);
