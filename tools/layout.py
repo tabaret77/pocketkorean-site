@@ -102,7 +102,7 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
               '}</script>')
     social = ''.join(f'<a class="sns" href="{E(v)}" aria-label="{n}" rel="noopener">{ICON[k]}</a>'
                      for k, n in (('ig', 'Instagram'), ('yt', 'YouTube'), ('tt', 'TikTok')) if (v := SOCIAL.get(k)))
-    top = [(s[0], s[1]) for s in SECTIONS] + [('dictionary', 'sec_dict'), ('level-test', 'lt_nav')]
+    top = [(s[0], s[1]) for s in SECTIONS] + [('dictionary', 'sec_dict'), ('name', 'name_nav'), ('level-test', 'lt_nav')]
     navlinks = ''.join(f'<a href="{L(d, p + "/")}"{" aria-current=\"page\"" if cur == p else ""}>{T(k, d)}</a>' for p, k in top)
     mega = ''.join(f'<div class="col" style="--c:{c}"><p>{E(h)}</p>{ls}</div>' for h, c, ls in nav_cols(d))
     foot = ''.join(f'<div><p>{E(h)}</p>{ls}</div>' for h, c, ls in nav_cols(d))

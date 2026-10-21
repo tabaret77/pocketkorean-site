@@ -5,6 +5,8 @@ section: korea-today
 category: k-drama
 date: 2026-10-19
 description: SBS medical drama "Doctor X" starring Kim Ji-won hit 18.5% with its fourth episode. Here's the story so far, plus the Korean behind it.
+official_url: https://programs.sbs.co.kr/drama/doctorx
+official_label: "SBS – 닥터X: 하얀 마피아의 시대"
 phrase: 시청률
 phrase_meaning: TV ratings
 draft: false

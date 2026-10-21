@@ -16,7 +16,7 @@
   --my:"Nanum Myeongjo","Noto Serif KR","AppleMyungjo",serif;
 }
 *{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%;scroll-padding-top:90px}
+html{-webkit-text-size-adjust:100%;scroll-padding-top:130px}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:17px;line-height:1.6}
 [lang=ko]{font-family:var(--kr)}
 img{max-width:100%;display:block}
@@ -66,13 +66,16 @@ p{margin:0 0 1em}
 
 /* header + full menu */
 header.top{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.97);-webkit-backdrop-filter:saturate(1.4) blur(10px);backdrop-filter:saturate(1.4) blur(10px);border-bottom:1px solid var(--line)}
-header.top .bar{display:flex;align-items:center;gap:12px 22px;min-height:68px}
+header.top .bar{padding-top:6px;display:flex;flex-wrap:wrap;align-items:center;gap:0 22px;min-height:68px}
 .brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink);flex:none}
 .brand svg{width:38px;height:38px}
 .brand span{font-family:var(--display);font-size:21px;font-weight:800;letter-spacing:-.02em}
 .brand:hover{color:var(--ink)}
-nav.main{flex:1 1 auto;display:flex;flex-wrap:wrap;gap:2px}
-nav.main a{display:inline-flex;align-items:center;padding:10px 12px;border-radius:10px;color:var(--ink);text-decoration:none;font-weight:700;font-size:16px}
+nav.main{order:3;flex:1 0 100%;display:flex;flex-wrap:nowrap;gap:2px;min-width:0;overflow-x:auto;scrollbar-width:none;margin:0 -10px;padding:2px 0 8px}
+nav.main::-webkit-scrollbar{display:none}
+nav.main a{display:inline-flex;align-items:center;padding:9px 10px;border-radius:10px;color:var(--ink);text-decoration:none;font-weight:700;font-size:15.5px;white-space:nowrap}
+nav.main a[href$="/name/"]{background:var(--yellow-l)}nav.main a[href$="/name/"]:hover{background:var(--yellow)}
+header.top .acts .btn{white-space:nowrap}
 nav.main a:hover{background:var(--soft)}
 nav.main [aria-current]{color:var(--blue);background:var(--blue-l)}
 header.top .acts{display:flex;align-items:center;gap:8px;margin-left:auto}
@@ -92,7 +95,7 @@ header.top.open .mega{display:block}
 .chip{display:inline-flex;align-items:center;gap:6px;min-height:40px;padding:0 14px;border-radius:999px;background:#fff;box-shadow:inset 0 0 0 1px var(--line2);border:0;color:var(--ink);text-decoration:none;font:inherit;font-weight:700;font-size:15px;cursor:pointer}
 .chip:hover{box-shadow:inset 0 0 0 1.5px var(--ink);color:var(--ink)}
 .chip[aria-current],.chip.on{background:var(--ink);box-shadow:none;color:#fff}
-@media (max-width:1100px){nav.main{display:none}.mega .cols{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.mega{max-height:calc(100vh - 68px);overflow:auto}}
+@media (max-width:1100px){.mega .cols{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.mega{max-height:calc(100vh - 68px);overflow:auto}}
 @media (max-width:520px){.mega .cols{grid-template-columns:1fr}.brand span{font-size:18px}header.top .acts .btn{display:none}}
 
 /* section heads on the home page */
@@ -360,3 +363,18 @@ body.root{background:var(--soft)}
 aside .row{grid-template-columns:64px minmax(0,1fr);gap:12px;padding:12px 0}
 aside .row h3{font-size:16px}aside .row p{display:none}aside .row .gfx{font-size:14px}
 aside .cta{flex-direction:column;align-items:stretch;margin:0}
+
+/* name page: why it matters */
+#nres:empty{display:none}
+.why{background:var(--soft);margin-top:40px}
+.why .wrap{padding-top:56px;padding-bottom:60px}
+.why .lead{color:var(--ink2);max-width:60ch;margin-bottom:28px}
+.why-g{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px}
+.why-c{background:#fff;border-radius:20px;padding:14px 14px 22px;box-shadow:inset 0 0 0 1px var(--line)}
+.why-c svg{width:100%;height:auto;display:block;margin-bottom:14px}
+.why-c h3{margin:0 8px 6px}.why-c p{margin:0 8px;color:var(--ink2);font-size:16px}
+@media (max-width:700px){nav.main a[href$="/name/"]{order:-1}}
+.official{display:flex;align-items:center;justify-content:space-between;gap:16px;margin:0 0 24px;padding:16px 20px;border-radius:16px;text-decoration:none;color:var(--ink);box-shadow:inset 0 0 0 1.5px var(--line2)}
+.official:hover{box-shadow:inset 0 0 0 1.5px var(--ink);color:var(--ink)}
+.official b{display:block;font-size:17px}.official small{display:block;color:var(--muted);font-size:14px}
+.official .ext{font-size:22px;color:var(--blue)}

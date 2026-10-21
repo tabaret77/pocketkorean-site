@@ -89,6 +89,12 @@ content:
       - name: cover_credit
         label: "Photo credit (needed for Wikimedia / CC photos, e.g. Name / CC BY 2.0)"
         type: string
+      - name: official_url
+        label: "Official page link (broadcaster / Netflix / agency page with the poster and trailer)"
+        type: string
+      - name: official_label
+        label: "Name for that link, e.g. tvN – 100 Days of Deception"
+        type: string
       - name: phrase
         label: Korean phrase from this story (optional)
         type: string

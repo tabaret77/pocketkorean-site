@@ -64,7 +64,21 @@ def read(fp):
     return dict(d=d, sec=sec, cat=cat, slug=slug, title=str(meta.get('title') or slug), date=date, desc=desc,
                 cover=str(meta.get('cover') or ''), credit=str(meta.get('cover_credit') or ''),
                 phrase=str(meta.get('phrase') or ''), pmean=str(meta.get('phrase_meaning') or ''),
+                off=str(meta.get('official_url') or '').strip(), offl=str(meta.get('official_label') or '').strip(),
                 html=html_body, legacy='/blog/' in fp.replace(os.sep, '/'), name=name)
+
+OFFICIAL = {'en': ('Official page', 'Poster, trailer and episode info'), 'es': ('Página oficial', 'Póster, tráiler e información de episodios'),
+ 'vi': ('Trang chính thức', 'Poster, trailer và thông tin các tập'), 'th': ('หน้าเว็บทางการ', 'โปสเตอร์ ตัวอย่าง และข้อมูลแต่ละตอน'),
+ 'id': ('Halaman resmi', 'Poster, trailer, dan info episode'), 'yue': ('官方網頁', '海報、預告片同每集資料'), 'tw': ('官方網頁', '海報、預告片與每集資訊'),
+ 'ja': ('公式ページ', 'ポスター、予告編、各話の情報'), 'zh': ('官方网页', '海报、预告片和每集信息'), 'pt': ('Página oficial', 'Pôster, trailer e informações dos episódios'),
+ 'ru': ('Официальная страница', 'Постер, трейлер и информация о сериях'), 'mn': ('Албан ёсны хуудас', 'Постер, трейлер, ангийн мэдээлэл')}
+
+def official(p, d):
+    if not p['off'].startswith('http'): return ''
+    h, sub = OFFICIAL.get(d, OFFICIAL['en'])
+    host = re.sub(r'^https?://(www\.)?', '', p['off']).split('/')[0]
+    return (f'<a class="official" href="{E(p["off"])}" target="_blank" rel="noopener"><span><b>{h}</b>'
+            f'<small>{E(p["offl"] or host)}</small><small>{sub}</small></span><span aria-hidden="true" class="ext">↗</span></a>')
 
 def url(p): return f'/{URL[p["d"]]}/{p["sec"]}/{p["slug"]}/'
 
@@ -118,6 +132,8 @@ def build():
             if p: posts.append(p)
     posts.sort(key=lambda p: p['date'], reverse=True)
     urls = []; redirects = []
+    have = {(p['d'], p['sec'], p['slug']) for p in posts}
+    full = lambda p: all((dd, p['sec'], p['slug']) in have for dd, *_ in LANGS)
     for d, u, h, n in LANGS:
         mine = [p for p in posts if p['d'] == d]
         en = [p for p in posts if p['d'] == 'en']
@@ -156,11 +172,11 @@ def build():
             more = (f'<div class="box"><span class="kicker">{T("more", d)}</span><div class="rows">{"".join(row(q, d) for q in rel)}</div></div>') if rel else ''
             body = (f'<div class="wrap layout2"><div class="main"><p class="crumbs"><a href="{L(d, p["sec"] + "/")}">{T(key, d)}</a> › '
                     f'<a href="{L(d, p["sec"] + "/" + p["cat"] + "/")}">{T(CATS[p["cat"]][1], d)}</a></p><article class="post">'
-                    f'<h1>{E(p["title"])}</h1><p class="meta">{p["date"]}</p>{cover}{phrase}{p["html"]}</article></div>'
+                    f'<h1>{E(p["title"])}</h1><p class="meta">{p["date"]}</p>{cover}{phrase}{official(p, d)}{p["html"]}</article></div>'
                     f'<aside class="sticky">{cta_box(d)}{more}</aside></div>')
             canon = BASE + url(p)
             img = (BASE + p['cover']) if p['cover'].startswith('/') else (p['cover'] or None)
-            write(url(p), page(d, f'{p["sec"]}/{p["slug"]}/', f'{p["title"]} | Pocket Korean', p['desc'], body, alts=False,
+            write(url(p), page(d, f'{p["sec"]}/{p["slug"]}/', f'{p["title"]} | Pocket Korean', p['desc'], body, alts=full(p),
                                canonical=canon, image=img, og_type='article', wide=True, cur=p['sec']))
             urls.append(canon)
             if p['legacy']: redirects.append(f'/{u}/blog/{p["slug"]}/ {url(p)} 301')

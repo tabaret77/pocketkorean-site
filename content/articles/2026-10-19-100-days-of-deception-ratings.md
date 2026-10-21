@@ -5,6 +5,8 @@ section: korea-today
 category: k-drama
 date: 2026-10-19
 description: Kim You-jung and Park Jin-young's period spy drama on tvN rose from 5.3% to 9.0% in its first two weekends. Here's what it's about.
+official_url: https://tvn.cjenm.com/ko/100-Days-of-Deception/
+official_label: "tvN – 100일의 거짓말"
 phrase: 첫 방송
 phrase_meaning: premiere, first broadcast
 draft: false
