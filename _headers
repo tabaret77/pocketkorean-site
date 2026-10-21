@@ -1,4 +1,8 @@
 /assets/*
+  Cache-Control: public, max-age=86400
+/data/*
+  Cache-Control: public, max-age=86400
+/media/*
   Cache-Control: public, max-age=604800
 /*
   X-Content-Type-Options: nosniff

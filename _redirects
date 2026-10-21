@@ -1,0 +1,14 @@
+/en/blog/ /en/learn/ 301
+/en/blog/* /en/learn/ 301
+/es/blog/ /es/learn/ 301
+/es/blog/* /es/learn/ 301
+/vi/blog/ /vi/learn/ 301
+/vi/blog/* /vi/learn/ 301
+/th/blog/ /th/learn/ 301
+/th/blog/* /th/learn/ 301
+/id/blog/ /id/learn/ 301
+/id/blog/* /id/learn/ 301
+/zh-hk/blog/ /zh-hk/learn/ 301
+/zh-hk/blog/* /zh-hk/learn/ 301
+/zh-tw/blog/ /zh-tw/learn/ 301
+/zh-tw/blog/* /zh-tw/learn/ 301

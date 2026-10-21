@@ -1,15 +1,15 @@
-# Pages CMS (https://pagescms.org) – lets you write blog posts in a web editor.
+# Pages CMS (https://pagescms.org) – write articles in a web editor.
 media:
-  input: media
-  output: /media
+  input: media/uploads
+  output: /media/uploads
 content:
-  - name: posts
-    label: Blog posts
+  - name: articles
+    label: Articles
     type: collection
-    path: content/blog
+    path: content/articles
     filename: "{year}-{month}-{day}-{primary}.md"
     view:
-      fields: [title, lang, date, draft]
+      fields: [title, lang, section, category, date, draft]
       primary: title
       sort: [date, title]
       default:
@@ -34,16 +34,62 @@ content:
             - { value: id, label: Bahasa Indonesia }
             - { value: zh-hk, label: 廣東話（香港） }
             - { value: zh-tw, label: 國語（台灣） }
+      - name: section
+        label: Section
+        type: select
+        required: true
+        default: korea-today
+        options:
+          values:
+            - { value: korea-today, label: Korea Today (news) }
+            - { value: life-travel, label: Life & Travel }
+            - { value: learn, label: Learn (TOPIK, grammar) }
+            - { value: words, label: Words & Talk }
+      - name: category
+        label: Category (must belong to the section)
+        type: select
+        required: true
+        default: culture
+        options:
+          values:
+            - { value: k-drama, label: "Korea Today · K-drama & film" }
+            - { value: k-pop, label: "Korea Today · K-pop" }
+            - { value: culture, label: "Korea Today · Culture" }
+            - { value: trends, label: "Korea Today · Trends" }
+            - { value: living, label: "Life & Travel · Living in Korea" }
+            - { value: places, label: "Life & Travel · Places to go" }
+            - { value: food, label: "Life & Travel · Food" }
+            - { value: transport, label: "Life & Travel · Transport" }
+            - { value: festivals, label: "Life & Travel · Festivals & events" }
+            - { value: survival-korean, label: "Life & Travel · Survival Korean" }
+            - { value: topik-guide, label: "Learn · TOPIK guide" }
+            - { value: grammar-lessons, label: "Learn · Grammar lessons" }
+            - { value: topic-words, label: "Learn · Words by topic" }
+            - { value: hangul, label: "Learn · Hangul basics" }
+            - { value: word-of-the-day, label: "Words & Talk · Word of the day" }
+            - { value: drama-lines, label: "Words & Talk · Drama lines" }
+            - { value: phrases, label: "Words & Talk · Everyday phrases" }
+            - { value: slang, label: "Words & Talk · Slang & new words" }
+            - { value: polite-casual, label: "Words & Talk · Polite vs casual" }
       - name: date
         label: Date
         type: date
         required: true
       - name: description
-        label: Short description (for search results and the post list)
+        label: Short description (card text and search results)
         type: text
       - name: cover
         label: Cover image (optional)
         type: image
+      - name: cover_credit
+        label: "Photo credit (needed for Wikimedia / CC photos, e.g. Name / CC BY 2.0)"
+        type: string
+      - name: phrase
+        label: Korean phrase from this story (optional)
+        type: string
+      - name: phrase_meaning
+        label: Meaning of the phrase
+        type: string
       - name: draft
         label: Draft (not published yet)
         type: boolean

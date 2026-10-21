@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://pocketkorean.com/sitemap.xml
-Sitemap: https://pocketkorean.com/sitemap-blog.xml
+Sitemap: https://pocketkorean.com/sitemap-articles.xml

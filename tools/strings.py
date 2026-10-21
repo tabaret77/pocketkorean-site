@@ -83,3 +83,9 @@ S.update({
 'all_posts': {'en': 'All posts', 'es': 'Todos los artículos', 'vi': 'Tất cả bài viết', 'th': 'บทความทั้งหมด', 'id': 'Semua artikel', 'yue': '全部文章', 'tw': '所有文章'},
 'latest_posts': {'en': 'Latest from the blog', 'es': 'Lo último del blog', 'vi': 'Bài mới trên blog', 'th': 'บทความล่าสุด', 'id': 'Terbaru di blog', 'yue': '網誌最新文章', 'tw': '部落格最新文章'},
 })
+
+try:
+    from strings_new import S2
+    S.update(S2)
+except ImportError:
+    pass
