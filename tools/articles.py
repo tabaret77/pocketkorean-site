@@ -32,7 +32,17 @@ COL = {'coral': '#B42323', 'sky': '#0B5A9A', 'mint': '#0B6B43', 'yellow': '#8A5E
 def read(fp):
     raw = open(fp, encoding='utf-8').read()
     m = re.match(r'^---\s*\n(.*?)\n---\s*\n?(.*)$', raw, re.S)
-    meta, body = (yaml.safe_load(m.group(1)) or {}, m.group(2)) if m else ({}, raw)
+    if not m: return None
+    try:
+        meta = yaml.safe_load(m.group(1)) or {}
+    except Exception:  # e.g. an unquoted colon in a value: fall back to simple "key: value" lines
+        meta = {}
+        for line in m.group(1).splitlines():
+            k, _, v = line.partition(':')
+            if k.strip() and _:
+                v = v.strip().strip('"').strip("'")
+                meta[k.strip()] = {'true': True, 'false': False}.get(v.lower(), v)
+    body = m.group(2)
     if meta.get('draft'): return None
     lang = str(meta.get('lang') or 'en').strip().lower()
     d = BY_URL.get(lang) or {'yue': 'yue', 'tw': 'tw', 'zh': 'zh', 'zh-hans': 'zh', 'pt-br': 'pt'}.get(lang)
