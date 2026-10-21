@@ -166,7 +166,7 @@ def home_slots(d, mine, en):
     if not os.path.exists(fp): return
     s = open(fp, encoding='utf-8').read()
     pick = lambda sec, k: ([p for p in mine if p['sec'] == sec] or [p for p in en if p['sec'] == sec])[:k]
-    today = pick('korea-today', 4)
+    today = pick('korea-today', 3)
     t_html = (f'<div class="grid">{"".join(acard(p, d, lead=i == 0) for i, p in enumerate(today))}</div>' if today
               else f'<div class="grid">{"".join(placeholder(d, c) for c, _ in SEC["korea-today"][3])}</div>')
     life = pick('life-travel', 4)
