@@ -8,6 +8,7 @@ date: 2026-10-16
 description: "「ヒョンベクコア」という新しいスタイル名が韓国のSNSで広がっています。その意味と、背景にある韓国語のスラングを紹介します。"
 phrase: 현백 코어
 phrase_meaning: 現代百貨店コア（さりげないお金持ちスタイル）
+cover: /media/covers/hyunbaek-core-trend.jpg
 draft: false
 ---
 

@@ -6,10 +6,9 @@ section: words
 category: drama-lines
 date: 2026-10-21
 description: "De 밥 먹었어? a 정신 차려: aprende diez frases cotidianas que aparecen en casi todos los dramas coreanos, con notas sobre matices y nivel de cortesía."
-cover: /media/library/travel/han-river-seoul-park-6.jpg
-cover_credit: "TurnOnTheNight / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 밥 먹었어?
 phrase_meaning: ¿Ya comiste? (informal)
+cover: /media/covers/10-lines-every-k-drama.jpg
 draft: false
 ---
 

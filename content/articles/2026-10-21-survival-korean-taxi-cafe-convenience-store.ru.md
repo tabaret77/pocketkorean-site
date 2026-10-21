@@ -6,10 +6,9 @@ section: life-travel
 category: survival-korean
 date: 2026-10-21
 description: "Короткие вежливые корейские фразы, которые можно использовать уже сегодня в такси, у стойки кафе и в круглосуточном магазине, а также что вам, скорее всего, ответят."
-cover: /media/library/life/korean-convenience-store-2.jpg
-cover_credit: "Startandstar / CC0 (Wikimedia Commons)"
 phrase: 카드 돼요?
 phrase_meaning: Можно оплатить картой?
+cover: /media/covers/survival-korean-taxi-cafe-convenience-store.jpg
 draft: false
 ---
 

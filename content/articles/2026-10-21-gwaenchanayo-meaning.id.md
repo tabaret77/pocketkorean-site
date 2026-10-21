@@ -6,10 +6,9 @@ section: words
 category: word-of-the-day
 date: 2026-10-21
 description: "Satu kata, empat fungsi. Pelajari cara orang Korea memakai 괜찮아요 untuk bilang mereka baik-baik saja, memaafkan, menolak dengan sopan, dan memuji secara halus."
-cover: /media/library/travel/gamcheon-culture-village-1.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 괜찮아요
 phrase_meaning: nggak apa-apa / aku baik-baik saja
+cover: /media/covers/gwaenchanayo-meaning.jpg
 draft: false
 ---
 

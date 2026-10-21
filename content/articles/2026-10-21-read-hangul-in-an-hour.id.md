@@ -6,10 +6,9 @@ section: learn
 category: hangul
 date: 2026-10-21
 description: "Pelajari 14 konsonan dan 10 vokal alfabet Korea serta cara menyusunnya menjadi blok suku kata, supaya kamu bisa mulai membaca hari ini."
-cover: /media/library/life/korean-street-sign-hangul-2.jpg
-cover_credit: "hyolee2 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 한글
 phrase_meaning: hangul, alfabet Korea
+cover: /media/covers/read-hangul-in-an-hour.jpg
 draft: false
 ---
 

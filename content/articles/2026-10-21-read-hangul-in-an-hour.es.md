@@ -6,10 +6,9 @@ section: learn
 category: hangul
 date: 2026-10-21
 description: "Aprende las 14 consonantes y las 10 vocales del alfabeto coreano y cómo se agrupan en bloques silábicos, para que empieces a leer hoy mismo."
-cover: /media/library/life/korean-street-sign-hangul-2.jpg
-cover_credit: "hyolee2 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 한글
 phrase_meaning: hangul, el alfabeto coreano
+cover: /media/covers/read-hangul-in-an-hour.jpg
 draft: false
 ---
 

@@ -6,10 +6,9 @@ section: learn
 category: hangul
 date: 2026-10-21
 description: "Выучите 14 согласных и 10 гласных корейского алфавита и узнайте, как они складываются в слоговые блоки, — и начните читать уже сегодня."
-cover: /media/library/life/korean-street-sign-hangul-2.jpg
-cover_credit: "hyolee2 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 한글
 phrase_meaning: хангыль, корейский алфавит
+cover: /media/covers/read-hangul-in-an-hour.jpg
 draft: false
 ---
 

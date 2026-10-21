@@ -6,10 +6,9 @@ section: life-travel
 category: living
 date: 2026-10-21
 description: "Tinggal di Korea lebih dari 90 hari? Begini cara membuat janji, mengajukan, dan mengambil kartu izin tinggalmu, lengkap dengan bahasa Korea yang kamu perlukan di kantor imigrasi."
-cover: /media/library/life/korean-apartment-complex-5.jpg
-cover_credit: "Ox1997cow / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 외국인등록증
 phrase_meaning: kartu izin tinggal (kartu registrasi orang asing)
+cover: /media/covers/residence-card-korea-guide.jpg
 draft: false
 ---
 

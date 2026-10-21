@@ -6,10 +6,9 @@ section: words
 category: polite-casual
 date: 2026-10-21
 description: "韓国人がいつ丁寧な言葉を使い、いつやめるのか。반말に切り替えようと提案する言い方や、そのときに変わる小さな言葉の違いを学びましょう。"
-cover: /media/library/culture/chuseok-4.jpg
-cover_credit: "Namwon030 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 말 놓을까요?
 phrase_meaning: タメ口で話しましょうか？
+cover: /media/covers/jondaenmal-vs-banmal.jpg
 draft: false
 ---
 

@@ -6,10 +6,9 @@ section: learn
 category: grammar-lessons
 date: 2026-10-21
 description: "一步步学会-아요/어요词尾，从基本规则到가요、해요这样的缩约形式，附例句和小练习。"
-cover: /media/library/travel/jeonju-hanok-village-1.jpg
-cover_credit: "Bernard Gagnon / CC0 (Wikimedia Commons)"
 phrase: 해요
 phrase_meaning: "（我/你）做——하다的敬语现在时形式"
+cover: /media/covers/ayo-eoyo-polite-ending.jpg
 draft: false
 ---
 

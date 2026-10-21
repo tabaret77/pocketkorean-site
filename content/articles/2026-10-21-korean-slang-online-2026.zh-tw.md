@@ -6,10 +6,9 @@ section: words
 category: slang
 date: 2026-10-21
 description: "ㅋㅋ、헐、갓생、킹받다 等等：留言和聊天室裡會遇到的韓國網路流行語，附上意思和每個詞的失禮程度。"
-cover: /media/library/travel/han-river-seoul-park-4.jpg
-cover_credit: "heecheol890102 (Pixabay) / CC0 (Wikimedia Commons)"
 phrase: 신조어
 phrase_meaning: 新詞、流行語
+cover: /media/covers/korean-slang-online-2026.jpg
 draft: false
 ---
 

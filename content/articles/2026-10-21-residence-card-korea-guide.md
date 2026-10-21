@@ -5,10 +5,9 @@ section: life-travel
 category: living
 date: 2026-10-21
 description: Staying in Korea longer than 90 days? Here is how to book, apply for and collect your residence card, with the Korean you need at the immigration office.
-cover: /media/library/life/korean-apartment-complex-5.jpg
-cover_credit: "Ox1997cow / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 외국인등록증
 phrase_meaning: residence card (alien registration card)
+cover: /media/covers/residence-card-korea-guide.jpg
 draft: false
 ---
 

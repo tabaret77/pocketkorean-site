@@ -6,10 +6,9 @@ section: words
 category: word-of-the-day
 date: 2026-10-21
 description: "一個字，四種用法。學會韓國人怎樣用괜찮아요表示自己沒事、原諒對方、禮貌地拒絕，以及含蓄地稱讚。"
-cover: /media/library/travel/gamcheon-culture-village-1.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 괜찮아요
 phrase_meaning: 不要緊／我沒事
+cover: /media/covers/gwaenchanayo-meaning.jpg
 draft: false
 ---
 

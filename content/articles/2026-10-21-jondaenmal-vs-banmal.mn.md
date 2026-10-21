@@ -6,10 +6,9 @@ section: words
 category: polite-casual
 date: 2026-10-21
 description: "Солонгосчууд хэзээ эелдэг яриа хэрэглэж, хэзээ орхидог, 반말 руу шилжихийг хэрхэн санал болгох, түүнийг дагалдах жижиг үгийн өөрчлөлтүүдийг сураарай."
-cover: /media/library/culture/chuseok-4.jpg
-cover_credit: "Namwon030 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 말 놓을까요?
 phrase_meaning: Энгийнээр ярих уу?
+cover: /media/covers/jondaenmal-vs-banmal.jpg
 draft: false
 ---
 

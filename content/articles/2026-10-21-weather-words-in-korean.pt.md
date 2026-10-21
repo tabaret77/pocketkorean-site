@@ -6,10 +6,9 @@ section: learn
 category: topic-words
 date: 2026-10-21
 description: "Fale sobre sol, chuva, neve, poeira fina e a temporada de chuvas em coreano, com 26 palavras do dia a dia sobre o tempo e frases de exemplo."
-cover: /media/library/travel/seongsan-ilchulbong-2.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 날씨
 phrase_meaning: tempo, clima
+cover: /media/covers/weather-words-in-korean.jpg
 draft: false
 ---
 

@@ -6,10 +6,9 @@ section: words
 category: slang
 date: 2026-10-21
 description: "ㅋㅋ, 헐, 갓생, 킹받다 và nhiều hơn nữa: tiếng lóng mạng Hàn Quốc bạn sẽ gặp trong bình luận và tin nhắn, kèm ý nghĩa và mức độ thô lỗ của từng từ."
-cover: /media/library/travel/han-river-seoul-park-4.jpg
-cover_credit: "heecheol890102 (Pixabay) / CC0 (Wikimedia Commons)"
 phrase: 신조어
 phrase_meaning: từ mới, tiếng lóng
+cover: /media/covers/korean-slang-online-2026.jpg
 draft: false
 ---
 

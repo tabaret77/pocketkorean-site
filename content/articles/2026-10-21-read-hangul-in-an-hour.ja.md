@@ -6,10 +6,9 @@ section: learn
 category: hangul
 date: 2026-10-21
 description: "韓国語の文字の子音14個と母音10個、そしてそれらを組み合わせて音節のブロックを作る方法を覚えて、今日から読み始めましょう。"
-cover: /media/library/life/korean-street-sign-hangul-2.jpg
-cover_credit: "hyolee2 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 한글
 phrase_meaning: ハングル（韓国語の文字）
+cover: /media/covers/read-hangul-in-an-hour.jpg
 draft: false
 ---
 

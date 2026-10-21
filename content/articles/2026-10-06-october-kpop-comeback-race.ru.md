@@ -6,10 +6,9 @@ section: korea-today
 category: k-pop
 date: 2026-10-06
 description: "Октябрь 2026 года забит K-pop релизами, а главный день — 26 октября: новую музыку одновременно выпускают IVE, ILLIT и RIIZE. Вот календарь."
-cover: /media/library/kpop/k-pop-concert-1.jpg
-cover_credit: "Korea.net / KOCIS / CC BY-SA 2.0 (Wikimedia Commons)"
 phrase: 컴백
 phrase_meaning: камбэк, новый релиз
+cover: /media/covers/october-kpop-comeback-race.jpg
 draft: false
 ---
 

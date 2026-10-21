@@ -6,10 +6,9 @@ section: learn
 category: grammar-lessons
 date: 2026-10-21
 description: "Pelajari akhiran -아요/어요 langkah demi langkah, dari aturan dasar sampai bentuk singkat seperti 가요 dan 해요, lengkap dengan contoh dan latihan singkat."
-cover: /media/library/travel/jeonju-hanok-village-1.jpg
-cover_credit: "Bernard Gagnon / CC0 (Wikimedia Commons)"
 phrase: 해요
 phrase_meaning: (aku/kamu) melakukan – bentuk sopan masa kini dari 하다
+cover: /media/covers/ayo-eoyo-polite-ending.jpg
 draft: false
 ---
 

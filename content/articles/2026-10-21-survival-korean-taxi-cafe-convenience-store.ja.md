@@ -6,10 +6,9 @@ section: life-travel
 category: survival-korean
 date: 2026-10-21
 description: "タクシーの中、カフェのカウンター、コンビニで今日から使える短くて丁寧な韓国語と、スタッフから返ってきそうな言葉を紹介します。"
-cover: /media/library/life/korean-convenience-store-2.jpg
-cover_credit: "Startandstar / CC0 (Wikimedia Commons)"
 phrase: 카드 돼요?
 phrase_meaning: カードで払えますか？
+cover: /media/covers/survival-korean-taxi-cafe-convenience-store.jpg
 draft: false
 ---
 

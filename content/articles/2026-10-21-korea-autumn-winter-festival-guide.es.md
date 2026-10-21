@@ -6,10 +6,9 @@ section: life-travel
 category: festivals
 date: 2026-10-21
 description: "Hojas de otoño, fuegos artificiales sobre Busan, la temporada del kimchi y luces de invierno. Qué hay en Corea de finales de octubre a diciembre de 2026, mes a mes."
-cover: /media/library/travel/cheonggyecheon-1.jpg
-cover_credit: "kallerna / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 단풍
 phrase_meaning: hojas de otoño, follaje otoñal
+cover: /media/covers/korea-autumn-winter-festival-guide.jpg
 draft: false
 ---
 

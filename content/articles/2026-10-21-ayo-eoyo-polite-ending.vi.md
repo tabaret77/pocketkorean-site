@@ -6,10 +6,9 @@ section: learn
 category: grammar-lessons
 date: 2026-10-21
 description: "Học đuôi câu -아요/어요 từng bước, từ quy tắc cơ bản đến các dạng rút gọn như 가요 và 해요, kèm ví dụ và bài luyện tập ngắn."
-cover: /media/library/travel/jeonju-hanok-village-1.jpg
-cover_credit: "Bernard Gagnon / CC0 (Wikimedia Commons)"
 phrase: 해요
 phrase_meaning: làm – dạng hiện tại lịch sự của 하다
+cover: /media/covers/ayo-eoyo-polite-ending.jpg
 draft: false
 ---
 

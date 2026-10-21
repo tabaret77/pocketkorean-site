@@ -6,10 +6,9 @@ section: learn
 category: hangul
 date: 2026-10-21
 description: "เรียนพยัญชนะ 14 ตัวและสระ 10 ตัวของตัวอักษรเกาหลี และวิธีนำมาซ้อนกันเป็นบล็อกพยางค์ เพื่อให้เริ่มอ่านได้ตั้งแต่วันนี้"
-cover: /media/library/life/korean-street-sign-hangul-2.jpg
-cover_credit: "hyolee2 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 한글
 phrase_meaning: ฮันกึล ตัวอักษรเกาหลี
+cover: /media/covers/read-hangul-in-an-hour.jpg
 draft: false
 ---
 

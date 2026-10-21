@@ -6,10 +6,9 @@ section: words
 category: polite-casual
 date: 2026-10-21
 description: "เรียนรู้ว่าคนเกาหลีใช้ภาษาสุภาพเมื่อไหร่ และเลิกใช้เมื่อไหร่ วิธีชวนอีกฝ่ายเปลี่ยนมาพูด 반말 และคำเล็กๆ ที่เปลี่ยนไปด้วย"
-cover: /media/library/culture/chuseok-4.jpg
-cover_credit: "Namwon030 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 말 놓을까요?
 phrase_meaning: พูดกันเองดีไหม?
+cover: /media/covers/jondaenmal-vs-banmal.jpg
 draft: false
 ---
 

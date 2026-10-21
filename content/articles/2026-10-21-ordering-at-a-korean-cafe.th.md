@@ -6,10 +6,9 @@ section: words
 category: phrases
 date: 2026-10-21
 description: "สั่งกาแฟเป็นภาษาเกาหลีอย่างมั่นใจ ตั้งแต่ 아이스 아메리카노 한 잔 주세요 ไปจนถึงการสั่งกลับบ้าน เพิ่มช็อต และเครื่องสั่นที่พนักงานยื่นให้"
-cover: /media/library/travel/bukchon-hanok-village-3.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 주세요
 phrase_meaning: ขอ...หน่อย (กรุณาให้...)
+cover: /media/covers/ordering-at-a-korean-cafe.jpg
 draft: false
 ---
 

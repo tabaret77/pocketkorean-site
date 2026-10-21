@@ -6,10 +6,9 @@ section: korea-today
 category: k-pop
 date: 2026-10-06
 description: "Tháng 10/2026 dày đặc các bản phát hành K-pop, và ngày 26/10 là ngày lớn nhất khi IVE, ILLIT và RIIZE cùng tung nhạc mới. Đây là lịch chi tiết."
-cover: /media/library/kpop/k-pop-concert-1.jpg
-cover_credit: "Korea.net / KOCIS / CC BY-SA 2.0 (Wikimedia Commons)"
 phrase: 컴백
 phrase_meaning: comeback, phát hành sản phẩm mới
+cover: /media/covers/october-kpop-comeback-race.jpg
 draft: false
 ---
 

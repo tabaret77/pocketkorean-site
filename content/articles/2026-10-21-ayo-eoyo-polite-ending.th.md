@@ -6,10 +6,9 @@ section: learn
 category: grammar-lessons
 date: 2026-10-21
 description: "เรียนคำลงท้าย -아요/어요 ทีละขั้น ตั้งแต่กฎพื้นฐานไปจนถึงการหดรูปอย่าง 가요 และ 해요 พร้อมตัวอย่างและแบบฝึกหัดสั้นๆ"
-cover: /media/library/travel/jeonju-hanok-village-1.jpg
-cover_credit: "Bernard Gagnon / CC0 (Wikimedia Commons)"
 phrase: 해요
 phrase_meaning: ทำ – รูปปัจจุบันแบบสุภาพของ 하다
+cover: /media/covers/ayo-eoyo-polite-ending.jpg
 draft: false
 ---
 

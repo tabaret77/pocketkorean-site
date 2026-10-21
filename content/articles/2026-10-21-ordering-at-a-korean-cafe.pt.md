@@ -6,10 +6,9 @@ section: words
 category: phrases
 date: 2026-10-21
 description: "Peça café em coreano com confiança, de 아이스 아메리카노 한 잔 주세요 a pedidos para viagem, shots extras e o pager que vão te entregar."
-cover: /media/library/travel/bukchon-hanok-village-3.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 주세요
 phrase_meaning: me dá, por favor
+cover: /media/covers/ordering-at-a-korean-cafe.jpg
 draft: false
 ---
 

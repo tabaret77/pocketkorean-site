@@ -6,10 +6,9 @@ section: life-travel
 category: survival-korean
 date: 2026-10-21
 description: "簡短又有禮貌的韓語，今天就可以在的士上、咖啡店櫃枱和便利店用，還有店員可能會怎樣回應你。"
-cover: /media/library/life/korean-convenience-store-2.jpg
-cover_credit: "Startandstar / CC0 (Wikimedia Commons)"
 phrase: 카드 돼요?
 phrase_meaning: 可以碌卡嗎？
+cover: /media/covers/survival-korean-taxi-cafe-convenience-store.jpg
 draft: false
 ---
 

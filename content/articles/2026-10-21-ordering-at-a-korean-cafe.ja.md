@@ -6,10 +6,9 @@ section: words
 category: phrases
 date: 2026-10-21
 description: "아이스 아메리카노 한 잔 주세요からテイクアウト、ショット追加、渡される呼び出しベルまで、韓国語で自信をもってコーヒーを注文しましょう。"
-cover: /media/library/travel/bukchon-hanok-village-3.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 주세요
 phrase_meaning: ください
+cover: /media/covers/ordering-at-a-korean-cafe.jpg
 draft: false
 ---
 

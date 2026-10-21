@@ -6,10 +6,9 @@ section: words
 category: polite-casual
 date: 2026-10-21
 description: "Когда корейцы говорят вежливо, а когда переходят на неформальную речь, как предложить перейти на 반말 и какие слова при этом меняются."
-cover: /media/library/culture/chuseok-4.jpg
-cover_credit: "Namwon030 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 말 놓을까요?
 phrase_meaning: Может, перейдём на «ты»?
+cover: /media/covers/jondaenmal-vs-banmal.jpg
 draft: false
 ---
 

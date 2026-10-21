@@ -6,10 +6,9 @@ section: life-travel
 category: festivals
 date: 2026-10-21
 description: "紅葉、釜山煙花、醃泡菜季節和冬日燈飾。2026年10月下旬至12月韓國有甚麼好去處，逐月為你整理。"
-cover: /media/library/travel/cheonggyecheon-1.jpg
-cover_credit: "kallerna / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 단풍
 phrase_meaning: 紅葉
+cover: /media/covers/korea-autumn-winter-festival-guide.jpg
 draft: false
 ---
 

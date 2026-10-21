@@ -5,10 +5,9 @@ section: learn
 category: grammar-lessons
 date: 2026-10-21
 description: Learn the -아요/어요 ending step by step, from the basic rule to contractions like 가요 and 해요, with examples and a short practice.
-cover: /media/library/travel/jeonju-hanok-village-1.jpg
-cover_credit: "Bernard Gagnon / CC0 (Wikimedia Commons)"
 phrase: 해요
 phrase_meaning: (I/you) do – polite present form of 하다
+cover: /media/covers/ayo-eoyo-polite-ending.jpg
 draft: false
 ---
 

@@ -6,10 +6,9 @@ section: life-travel
 category: survival-korean
 date: 2026-10-21
 description: "Coreano curto e educado que você pode usar hoje mesmo num táxi, no balcão de um café e na loja de conveniência, mais o que os atendentes provavelmente vão responder."
-cover: /media/library/life/korean-convenience-store-2.jpg
-cover_credit: "Startandstar / CC0 (Wikimedia Commons)"
 phrase: 카드 돼요?
 phrase_meaning: Aceita cartão?
+cover: /media/covers/survival-korean-taxi-cafe-convenience-store.jpg
 draft: false
 ---
 

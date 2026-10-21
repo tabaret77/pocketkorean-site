@@ -6,10 +6,9 @@ section: words
 category: drama-lines
 date: 2026-10-21
 description: "Dari 밥 먹었어? sampai 정신 차려, pelajari sepuluh kalimat sehari-hari yang muncul di hampir setiap drama Korea, lengkap dengan nuansa dan catatan tingkat kesopanannya."
-cover: /media/library/travel/han-river-seoul-park-6.jpg
-cover_credit: "TurnOnTheNight / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 밥 먹었어?
 phrase_meaning: Sudah makan? (santai)
+cover: /media/covers/10-lines-every-k-drama.jpg
 draft: false
 ---
 

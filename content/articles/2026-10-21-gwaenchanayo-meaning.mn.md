@@ -6,10 +6,9 @@ section: words
 category: word-of-the-day
 date: 2026-10-21
 description: "Нэг үг, дөрвөн үүрэг. Солонгосчууд 괜찮아요-г зүгээр гэж хэлэх, уучлах, эелдэгээр татгалзах, даруухан магтахад хэрхэн хэрэглэдгийг сураарай."
-cover: /media/library/travel/gamcheon-culture-village-1.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 괜찮아요
 phrase_meaning: зүгээр ээ / би зүгээр
+cover: /media/covers/gwaenchanayo-meaning.jpg
 draft: false
 ---
 

@@ -8,6 +8,7 @@ date: 2026-10-16
 description: "韓國社交媒體上興起一個新的風格標籤「現百core」。這裏為你拆解它的意思，以及背後的韓語潮語。"
 phrase: 현백 코어
 phrase_meaning: 現代百貨core（不經意的富貴風）
+cover: /media/covers/hyunbaek-core-trend.jpg
 draft: false
 ---
 

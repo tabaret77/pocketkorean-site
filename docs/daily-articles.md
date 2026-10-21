@@ -54,9 +54,13 @@ Body, 450–800 words: a plain, friendly opening paragraph with the facts → 2�
 - Romanization: Revised Romanization, and check pronunciation changes (e.g. 시청률 sicheongnyul).
 - Sentence case, no ALL CAPS, no emoji.
 
+## Covers
+
+Preferred: an original illustration in the site style. Add a `COVERS['<slug>']` entry to `tools/covers.py` (copy the patterns already there: manuscript-grid background in the section's light colour, hangul in manuscript cells, simple flat objects that show the topic, Korean text only – no English, no real people's likeness, no logos), then run `npm i --prefix /tmp/pkfonts @fontsource/nanum-myeongjo@5 && python3 tools/covers.py <slug>`, open the JPG to check it, and set `cover: /media/covers/<slug>.jpg` with no `cover_credit`. Commit the JPG and the covers.py change with the articles.
+
 ## Photos
 
-Use only photos from `media/library/` (all free-licence Wikimedia Commons, with credits in `media/library/credits.json` – use its `attribution` field as `cover_credit`). Pick one that fits the topic (a place, food, a general K-pop concert photo for a K-pop story is fine; never imply a photo shows a specific person if it doesn't). If nothing fits, leave `cover` out – the card shows the Korean phrase instead. Never hotlink, download, screenshot or re-photograph press/agency photos, posters, drama stills, video frames or album art.
+A photo may be used instead when it clearly shows the topic (a place, a dish, the subway). Use only photos from `media/library/` (all free-licence Wikimedia Commons, with credits in `media/library/credits.json` – use its `attribution` field as `cover_credit`). Pick one that fits the topic (a place, food, a general K-pop concert photo for a K-pop story is fine; never imply a photo shows a specific person if it doesn't). If nothing fits, leave `cover` out – the card shows the Korean phrase instead. Never hotlink, download, screenshot or re-photograph press/agency photos, posters, drama stills, video frames or album art.
 
 Instead, for a story about a specific drama, show, film or release, set `official_url` to its official page where readers can see the poster and trailer: the broadcaster's programme page (tvN/SBS/KBS/MBC/JTBC/ENA…), the Netflix/Disney+/TVING title page, or the agency/label's official page or YouTube channel. Open the URL to confirm it is the right, working, official page; if you can't find one, leave the field out. The article page shows it as an "Official page" box.
 

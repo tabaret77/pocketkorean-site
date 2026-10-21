@@ -6,10 +6,9 @@ section: learn
 category: grammar-lessons
 date: 2026-10-21
 description: "Разбираем окончание -아요/어요 шаг за шагом: от базового правила до слияний вроде 가요 и 해요, с примерами и небольшой практикой."
-cover: /media/library/travel/jeonju-hanok-village-1.jpg
-cover_credit: "Bernard Gagnon / CC0 (Wikimedia Commons)"
 phrase: 해요
 phrase_meaning: делаю/делаете — вежливая форма настоящего времени от 하다
+cover: /media/covers/ayo-eoyo-polite-ending.jpg
 draft: false
 ---
 

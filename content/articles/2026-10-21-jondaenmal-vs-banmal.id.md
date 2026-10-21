@@ -6,10 +6,9 @@ section: words
 category: polite-casual
 date: 2026-10-21
 description: "Pelajari kapan orang Korea memakai bahasa sopan dan kapan mereka meninggalkannya, cara mengajak beralih ke 반말, dan perubahan kecil pada kata-kata yang menyertainya."
-cover: /media/library/culture/chuseok-4.jpg
-cover_credit: "Namwon030 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 말 놓을까요?
 phrase_meaning: Bagaimana kalau kita bicara santai saja?
+cover: /media/covers/jondaenmal-vs-banmal.jpg
 draft: false
 ---
 

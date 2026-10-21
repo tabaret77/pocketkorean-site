@@ -6,10 +6,9 @@ section: learn
 category: hangul
 date: 2026-10-21
 description: "Học 14 phụ âm và 10 nguyên âm của bảng chữ cái tiếng Hàn và cách chúng ghép thành khối âm tiết, để bạn có thể bắt đầu đọc ngay hôm nay."
-cover: /media/library/life/korean-street-sign-hangul-2.jpg
-cover_credit: "hyolee2 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 한글
 phrase_meaning: hangul, bảng chữ cái tiếng Hàn
+cover: /media/covers/read-hangul-in-an-hour.jpg
 draft: false
 ---
 

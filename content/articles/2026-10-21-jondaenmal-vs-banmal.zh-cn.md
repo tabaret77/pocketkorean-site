@@ -6,10 +6,9 @@ section: words
 category: polite-casual
 date: 2026-10-21
 description: "了解韩国人什么时候说敬语、什么时候不用敬语，怎样提议改说반말，以及随之而来的一些小词变化。"
-cover: /media/library/culture/chuseok-4.jpg
-cover_credit: "Namwon030 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 말 놓을까요?
 phrase_meaning: "我们说话随意一点好吗？"
+cover: /media/covers/jondaenmal-vs-banmal.jpg
 draft: false
 ---
 

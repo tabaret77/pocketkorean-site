@@ -6,10 +6,9 @@ section: words
 category: polite-casual
 date: 2026-10-21
 description: "Aprenda quando os coreanos usam a fala educada e quando a deixam de lado, como propor a mudança para o 반말 e as pequenas mudanças de palavras que vêm junto."
-cover: /media/library/culture/chuseok-4.jpg
-cover_credit: "Namwon030 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 말 놓을까요?
 phrase_meaning: Vamos falar de forma informal?
+cover: /media/covers/jondaenmal-vs-banmal.jpg
 draft: false
 ---
 

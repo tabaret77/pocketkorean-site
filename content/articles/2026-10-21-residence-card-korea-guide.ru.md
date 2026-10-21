@@ -6,10 +6,9 @@ section: life-travel
 category: living
 date: 2026-10-21
 description: "Остаётесь в Корее дольше 90 дней? Рассказываем, как записаться, подать заявление и получить карту резидента, и какой корейский пригодится в иммиграционной службе."
-cover: /media/library/life/korean-apartment-complex-5.jpg
-cover_credit: "Ox1997cow / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 외국인등록증
 phrase_meaning: карта резидента (регистрационная карта иностранца)
+cover: /media/covers/residence-card-korea-guide.jpg
 draft: false
 ---
 

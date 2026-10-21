@@ -6,10 +6,9 @@ section: life-travel
 category: festivals
 date: 2026-10-21
 description: "Lá mùa thu, pháo hoa trên bầu trời Busan, mùa muối kimchi và đèn mùa đông. Hàn Quốc có gì từ cuối tháng 10 đến tháng 12/2026, theo từng tháng."
-cover: /media/library/travel/cheonggyecheon-1.jpg
-cover_credit: "kallerna / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 단풍
 phrase_meaning: lá mùa thu, lá phong đỏ
+cover: /media/covers/korea-autumn-winter-festival-guide.jpg
 draft: false
 ---
 

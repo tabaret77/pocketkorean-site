@@ -6,10 +6,9 @@ section: words
 category: word-of-the-day
 date: 2026-10-21
 description: "ひとつの言葉に4つの役割。韓国人が괜찮아요を使って、大丈夫だと伝えたり、相手を許したり、丁寧に断ったり、控えめにほめたりする方法を学びましょう。"
-cover: /media/library/travel/gamcheon-culture-village-1.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 괜찮아요
 phrase_meaning: 大丈夫です
+cover: /media/covers/gwaenchanayo-meaning.jpg
 draft: false
 ---
 

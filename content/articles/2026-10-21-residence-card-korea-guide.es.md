@@ -6,10 +6,9 @@ section: life-travel
 category: living
 date: 2026-10-21
 description: "¿Vas a quedarte en Corea más de 90 días? Te explicamos cómo reservar cita, solicitar y recoger tu tarjeta de residencia, con el coreano que necesitas en la oficina de inmigración."
-cover: /media/library/life/korean-apartment-complex-5.jpg
-cover_credit: "Ox1997cow / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 외국인등록증
 phrase_meaning: tarjeta de residencia (tarjeta de registro de extranjeros)
+cover: /media/covers/residence-card-korea-guide.jpg
 draft: false
 ---
 

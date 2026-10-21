@@ -6,10 +6,9 @@ section: learn
 category: grammar-lessons
 date: 2026-10-21
 description: "-아요/어요の語尾を、基本のルールから가요や해요のような縮約形まで、例文とミニ練習問題でステップごとに学びましょう。"
-cover: /media/library/travel/jeonju-hanok-village-1.jpg
-cover_credit: "Bernard Gagnon / CC0 (Wikimedia Commons)"
 phrase: 해요
 phrase_meaning: します（하다の丁寧な現在形）
+cover: /media/covers/ayo-eoyo-polite-ending.jpg
 draft: false
 ---
 

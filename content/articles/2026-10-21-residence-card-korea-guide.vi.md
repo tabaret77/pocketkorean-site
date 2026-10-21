@@ -6,10 +6,9 @@ section: life-travel
 category: living
 date: 2026-10-21
 description: "Ở Hàn Quốc hơn 90 ngày? Đây là cách đặt lịch, nộp hồ sơ và nhận thẻ cư trú, kèm những câu tiếng Hàn cần dùng ở văn phòng xuất nhập cảnh."
-cover: /media/library/life/korean-apartment-complex-5.jpg
-cover_credit: "Ox1997cow / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 외국인등록증
 phrase_meaning: thẻ cư trú (thẻ đăng ký người nước ngoài)
+cover: /media/covers/residence-card-korea-guide.jpg
 draft: false
 ---
 

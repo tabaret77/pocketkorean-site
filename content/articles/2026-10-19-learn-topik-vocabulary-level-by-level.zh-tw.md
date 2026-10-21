@@ -6,6 +6,7 @@ section: learn
 category: topik-guide
 date: 2026-10-19
 description: "從TOPIK 1級到6級累積韓語單字的簡單計畫：目標要背多少字、怎麼複習，以及如何每天持續下去。"
+cover: /media/covers/learn-topik-vocabulary-level-by-level.jpg
 draft: false
 ---
 單字是TOPIK中最能穩定準備的部分。文法和閱讀技巧當然也重要，但幾乎每一道聽力和閱讀題，都取決於你認不認得題目裡的單字。以下是按級數累積單字量的簡單方法。

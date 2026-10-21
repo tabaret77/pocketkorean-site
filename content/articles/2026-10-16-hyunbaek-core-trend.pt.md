@@ -8,6 +8,7 @@ date: 2026-10-16
 description: "Um novo rótulo de estilo, o \"Hyunbaek core\", está se espalhando nas redes sociais coreanas. Veja o que ele significa e a gíria coreana por trás dele."
 phrase: 현백 코어
 phrase_meaning: "core" da loja de departamentos Hyundai (visual rico sem esforço)
+cover: /media/covers/hyunbaek-core-trend.jpg
 draft: false
 ---
 

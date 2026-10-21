@@ -6,10 +6,9 @@ section: life-travel
 category: festivals
 date: 2026-10-21
 description: "楓葉、釜山上空的煙火、醃泡菜季和冬季燈飾。按月份帶你看2026年10月下旬到12月的韓國有什麼活動。"
-cover: /media/library/travel/cheonggyecheon-1.jpg
-cover_credit: "kallerna / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 단풍
 phrase_meaning: 楓葉、秋天的紅葉
+cover: /media/covers/korea-autumn-winter-festival-guide.jpg
 draft: false
 ---
 

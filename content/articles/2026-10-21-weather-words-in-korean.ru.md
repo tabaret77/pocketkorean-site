@@ -6,10 +6,9 @@ section: learn
 category: topic-words
 date: 2026-10-21
 description: "Говорим о солнце, дожде, снеге, мелкодисперсной пыли и сезоне дождей по-корейски: 26 повседневных слов о погоде и примеры предложений."
-cover: /media/library/travel/seongsan-ilchulbong-2.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 날씨
 phrase_meaning: погода
+cover: /media/covers/weather-words-in-korean.jpg
 draft: false
 ---
 

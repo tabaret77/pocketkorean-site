@@ -6,10 +6,9 @@ section: learn
 category: topic-words
 date: 2026-10-21
 description: "用韩语聊晴天、下雨、下雪、雾霾和梅雨季，26个日常天气词汇加例句。"
-cover: /media/library/travel/seongsan-ilchulbong-2.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 날씨
 phrase_meaning: "天气"
+cover: /media/covers/weather-words-in-korean.jpg
 draft: false
 ---
 

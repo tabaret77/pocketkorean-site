@@ -6,10 +6,9 @@ section: words
 category: word-of-the-day
 date: 2026-10-21
 description: "Uma palavra, quatro funções. Aprenda como os coreanos usam 괜찮아요 para dizer que estão bem, perdoar, recusar com educação e fazer um elogio discreto."
-cover: /media/library/travel/gamcheon-culture-village-1.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 괜찮아요
 phrase_meaning: tudo bem / estou bem
+cover: /media/covers/gwaenchanayo-meaning.jpg
 draft: false
 ---
 

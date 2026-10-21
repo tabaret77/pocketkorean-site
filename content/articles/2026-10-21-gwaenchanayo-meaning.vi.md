@@ -6,10 +6,9 @@ section: words
 category: word-of-the-day
 date: 2026-10-21
 description: "Một từ, bốn công dụng. Học cách người Hàn dùng 괜찮아요 để nói mình ổn, bỏ qua lỗi, từ chối lịch sự và khen một cách nhẹ nhàng."
-cover: /media/library/travel/gamcheon-culture-village-1.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 괜찮아요
 phrase_meaning: không sao / tôi ổn
+cover: /media/covers/gwaenchanayo-meaning.jpg
 draft: false
 ---
 

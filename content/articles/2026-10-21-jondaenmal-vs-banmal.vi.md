@@ -6,10 +6,9 @@ section: words
 category: polite-casual
 date: 2026-10-21
 description: "Tìm hiểu khi nào người Hàn dùng lối nói lịch sự và khi nào bỏ nó, cách đề nghị chuyển sang 반말, và những thay đổi nhỏ về từ ngữ đi kèm."
-cover: /media/library/culture/chuseok-4.jpg
-cover_credit: "Namwon030 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 말 놓을까요?
 phrase_meaning: Mình nói chuyện thoải mái nhé?
+cover: /media/covers/jondaenmal-vs-banmal.jpg
 draft: false
 ---
 

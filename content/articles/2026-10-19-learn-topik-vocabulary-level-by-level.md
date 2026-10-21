@@ -5,6 +5,7 @@ section: learn
 category: topik-guide
 date: 2026-10-19
 description: A simple plan for building Korean vocabulary from TOPIK level 1 to level 6 — how many words to aim for, how to review them, and how to keep going every day.
+cover: /media/covers/learn-topik-vocabulary-level-by-level.jpg
 draft: false
 ---
 Vocabulary is the part of TOPIK you can prepare for most steadily. Grammar and reading strategy matter too, but almost every listening and reading question depends on knowing the words in it. Here is a simple way to build your vocabulary level by level.

@@ -6,10 +6,9 @@ section: words
 category: phrases
 date: 2026-10-21
 description: "有自信地用韓語點咖啡，由아이스 아메리카노 한 잔 주세요到外賣、加濃縮和店員遞給你的取餐震動器。"
-cover: /media/library/travel/bukchon-hanok-village-3.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 주세요
 phrase_meaning: 請給我
+cover: /media/covers/ordering-at-a-korean-cafe.jpg
 draft: false
 ---
 

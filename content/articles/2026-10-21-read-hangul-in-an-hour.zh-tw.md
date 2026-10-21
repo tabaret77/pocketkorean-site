@@ -6,10 +6,9 @@ section: learn
 category: hangul
 date: 2026-10-21
 description: "學會韓文的14個子音和10個母音，以及它們如何組成音節方塊，今天就開始讀韓文。"
-cover: /media/library/life/korean-street-sign-hangul-2.jpg
-cover_credit: "hyolee2 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 한글
 phrase_meaning: 韓文字母
+cover: /media/covers/read-hangul-in-an-hour.jpg
 draft: false
 ---
 

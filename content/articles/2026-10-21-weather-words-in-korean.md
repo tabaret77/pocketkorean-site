@@ -5,10 +5,9 @@ section: learn
 category: topic-words
 date: 2026-10-21
 description: Talk about sun, rain, snow, fine dust and the rainy season in Korean, with 26 everyday weather words and example sentences.
-cover: /media/library/travel/seongsan-ilchulbong-2.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 날씨
 phrase_meaning: weather
+cover: /media/covers/weather-words-in-korean.jpg
 draft: false
 ---
 

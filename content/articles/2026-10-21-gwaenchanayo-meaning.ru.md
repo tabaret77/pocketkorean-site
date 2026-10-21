@@ -6,10 +6,9 @@ section: words
 category: word-of-the-day
 date: 2026-10-21
 description: "Одно слово — четыре задачи. Узнайте, как корейцы используют 괜찮아요, чтобы сказать, что они в порядке, простить, вежливо отказаться и сдержанно похвалить."
-cover: /media/library/travel/gamcheon-culture-village-1.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 괜찮아요
 phrase_meaning: всё в порядке / я в порядке
+cover: /media/covers/gwaenchanayo-meaning.jpg
 draft: false
 ---
 

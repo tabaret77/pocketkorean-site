@@ -6,10 +6,9 @@ section: words
 category: drama-lines
 date: 2026-10-21
 description: "从밥 먹었어?到정신 차려，学会几乎每部韩剧都会出现的10句日常台词，附语感和敬语说明。"
-cover: /media/library/travel/han-river-seoul-park-6.jpg
-cover_credit: "TurnOnTheNight / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 밥 먹었어?
 phrase_meaning: "吃饭了吗？（非敬语）"
+cover: /media/covers/10-lines-every-k-drama.jpg
 draft: false
 ---
 

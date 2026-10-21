@@ -6,10 +6,9 @@ section: words
 category: drama-lines
 date: 2026-10-21
 description: "밥 먹었어?-аас 정신 차려 хүртэл, солонгос драм бүрт гардаг өдөр тутмын арван хэллэгийг утгын нарийн ялгаа, эелдгийн түвшний тайлбартай нь сураарай."
-cover: /media/library/travel/han-river-seoul-park-6.jpg
-cover_credit: "TurnOnTheNight / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 밥 먹었어?
 phrase_meaning: Хоол идсэн үү? (энгийн)
+cover: /media/covers/10-lines-every-k-drama.jpg
 draft: false
 ---
 

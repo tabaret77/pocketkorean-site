@@ -8,6 +8,7 @@ date: 2026-10-16
 description: "Una nueva etiqueta de estilo, \"Hyunbaek core\", se está extendiendo por las redes sociales coreanas. Te contamos qué significa y la jerga coreana que hay detrás."
 phrase: 현백 코어
 phrase_meaning: "\"core\" de Hyundai Department Store (look de rica sin esfuerzo)"
+cover: /media/covers/hyunbaek-core-trend.jpg
 draft: false
 ---
 

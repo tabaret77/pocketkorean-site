@@ -5,10 +5,9 @@ section: learn
 category: hangul
 date: 2026-10-21
 description: Learn the 14 consonants and 10 vowels of the Korean alphabet and how they stack into syllable blocks, so you can start reading today.
-cover: /media/library/life/korean-street-sign-hangul-2.jpg
-cover_credit: "hyolee2 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 한글
 phrase_meaning: hangul, the Korean alphabet
+cover: /media/covers/read-hangul-in-an-hour.jpg
 draft: false
 ---
 

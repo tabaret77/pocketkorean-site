@@ -5,10 +5,9 @@ section: life-travel
 category: festivals
 date: 2026-10-21
 description: Autumn leaves, fireworks over Busan, kimchi-making season and winter lights. What's on in Korea from late October to December 2026, month by month.
-cover: /media/library/travel/cheonggyecheon-1.jpg
-cover_credit: "kallerna / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 단풍
 phrase_meaning: autumn leaves
+cover: /media/covers/korea-autumn-winter-festival-guide.jpg
 draft: false
 ---
 

@@ -6,10 +6,9 @@ section: words
 category: slang
 date: 2026-10-21
 description: "ㅋㅋ、헐、갓생、킹받다など、コメント欄やチャットで出会う韓国のネットスラングを、意味とどのくらい失礼かと一緒に紹介します。"
-cover: /media/library/travel/han-river-seoul-park-4.jpg
-cover_credit: "heecheol890102 (Pixabay) / CC0 (Wikimedia Commons)"
 phrase: 신조어
 phrase_meaning: 新語、スラング
+cover: /media/covers/korean-slang-online-2026.jpg
 draft: false
 ---
 

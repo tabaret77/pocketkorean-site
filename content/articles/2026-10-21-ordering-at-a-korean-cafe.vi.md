@@ -6,10 +6,9 @@ section: words
 category: phrases
 date: 2026-10-21
 description: "Tự tin gọi cà phê bằng tiếng Hàn, từ 아이스 아메리카노 한 잔 주세요 đến mang đi, thêm shot và chiếc chuông rung bạn sẽ được đưa."
-cover: /media/library/travel/bukchon-hanok-village-3.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 주세요
 phrase_meaning: cho tôi, làm ơn đưa tôi
+cover: /media/covers/ordering-at-a-korean-cafe.jpg
 draft: false
 ---
 

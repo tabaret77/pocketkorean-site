@@ -6,10 +6,9 @@ section: words
 category: polite-casual
 date: 2026-10-21
 description: "了解韓國人甚麼時候用敬語、甚麼時候不用，怎樣提議改用반말，以及隨之而來的用字變化。"
-cover: /media/library/culture/chuseok-4.jpg
-cover_credit: "Namwon030 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 말 놓을까요?
 phrase_meaning: 我們說半語好嗎？
+cover: /media/covers/jondaenmal-vs-banmal.jpg
 draft: false
 ---
 

@@ -6,10 +6,9 @@ section: words
 category: polite-casual
 date: 2026-10-21
 description: "Aprende cuándo usan los coreanos el habla cortés y cuándo la dejan de lado, cómo proponer pasar al 반말 y los pequeños cambios de palabras que eso implica."
-cover: /media/library/culture/chuseok-4.jpg
-cover_credit: "Namwon030 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 말 놓을까요?
 phrase_meaning: ¿Nos hablamos con confianza?
+cover: /media/covers/jondaenmal-vs-banmal.jpg
 draft: false
 ---
 

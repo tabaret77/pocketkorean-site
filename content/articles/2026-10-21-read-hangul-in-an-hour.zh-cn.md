@@ -6,10 +6,9 @@ section: learn
 category: hangul
 date: 2026-10-21
 description: "学会韩文的14个辅音和10个元音，以及它们怎样拼成音节方块，今天就能开始读韩语。"
-cover: /media/library/life/korean-street-sign-hangul-2.jpg
-cover_credit: "hyolee2 / CC BY-SA 3.0 (Wikimedia Commons)"
 phrase: 한글
 phrase_meaning: "韩文，韩语字母"
+cover: /media/covers/read-hangul-in-an-hour.jpg
 draft: false
 ---
 

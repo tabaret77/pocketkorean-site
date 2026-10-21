@@ -6,10 +6,9 @@ section: words
 category: phrases
 date: 2026-10-21
 description: "Pesan kopi dalam bahasa Korea dengan percaya diri, dari 아이스 아메리카노 한 잔 주세요 sampai bawa pulang, tambahan shot, dan bel getar yang akan diberikan kepadamu."
-cover: /media/library/travel/bukchon-hanok-village-3.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 주세요
 phrase_meaning: tolong berikan
+cover: /media/covers/ordering-at-a-korean-cafe.jpg
 draft: false
 ---
 

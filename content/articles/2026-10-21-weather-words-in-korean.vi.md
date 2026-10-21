@@ -6,10 +6,9 @@ section: learn
 category: topic-words
 date: 2026-10-21
 description: "Nói về nắng, mưa, tuyết, bụi mịn và mùa mưa bằng tiếng Hàn, với 26 từ vựng thời tiết thông dụng và câu ví dụ."
-cover: /media/library/travel/seongsan-ilchulbong-2.jpg
-cover_credit: "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
 phrase: 날씨
 phrase_meaning: thời tiết
+cover: /media/covers/weather-words-in-korean.jpg
 draft: false
 ---
 
