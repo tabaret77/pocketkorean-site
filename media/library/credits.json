@@ -5215,7 +5215,9 @@
   "restrictions": "",
   "group": "travel",
   "file": "media/library/travel/bukchon-hanok-village-7.jpg",
-  "attribution": "Basile Morin / CC BY-SA 4.0 / Wikimedia Commons"
+  "attribution": "Basile Morin / CC BY-SA 4.0 / Wikimedia Commons",
+  "width": 1600,
+  "height": 1067
  },
  {
   "title": "File:Seongsan Ilchulbong 02.jpg",
@@ -5231,7 +5233,9 @@
   "restrictions": "",
   "group": "travel",
   "file": "media/library/travel/seongsan-ilchulbong-7.jpg",
-  "attribution": "Bernard Gagnon / CC0 / Wikimedia Commons"
+  "attribution": "Bernard Gagnon / CC0 / Wikimedia Commons",
+  "width": 1600,
+  "height": 927
  },
  {
   "title": "File:Jeonju Hanok Village 20230408 002.jpg",
@@ -5247,7 +5251,9 @@
   "restrictions": "",
   "group": "travel",
   "file": "media/library/travel/jeonju-hanok-village-7.jpg",
-  "attribution": "Mobius6 / CC BY-SA 4.0 / Wikimedia Commons"
+  "attribution": "Mobius6 / CC BY-SA 4.0 / Wikimedia Commons",
+  "width": 1600,
+  "height": 1067
  },
  {
   "title": "File:Seoul Bus 761.jpg",
@@ -5263,7 +5269,9 @@
   "restrictions": "",
   "group": "life",
   "file": "media/library/life/seoul-bus-7.jpg",
-  "attribution": "Wikiwater2020 / CC BY-SA 3.0 / Wikimedia Commons"
+  "attribution": "Wikiwater2020 / CC BY-SA 3.0 / Wikimedia Commons",
+  "width": 1600,
+  "height": 1200
  },
  {
   "title": "File:Seoul City Tour Bus, Gwanghwamun Stop 20200115.jpg",
@@ -5279,7 +5287,9 @@
   "restrictions": "",
   "group": "life",
   "file": "media/library/life/seoul-bus-8.jpg",
-  "attribution": "Exj / CC BY-SA 4.0 / Wikimedia Commons"
+  "attribution": "Exj / CC BY-SA 4.0 / Wikimedia Commons",
+  "width": 1600,
+  "height": 1200
  },
  {
   "title": "File:Seoul Bus 7211.jpg",
@@ -5295,7 +5305,9 @@
   "restrictions": "",
   "group": "life",
   "file": "media/library/life/seoul-bus-9.jpg",
-  "attribution": "Wikiwater2020 / CC BY-SA 3.0 / Wikimedia Commons"
+  "attribution": "Wikiwater2020 / CC BY-SA 3.0 / Wikimedia Commons",
+  "width": 1600,
+  "height": 1200
  },
  {
   "title": "File:Seoul Bus 7017.jpg",
@@ -5311,7 +5323,9 @@
   "restrictions": "",
   "group": "life",
   "file": "media/library/life/seoul-bus-10.jpg",
-  "attribution": "Wikiwater2020 / CC BY-SA 3.0 / Wikimedia Commons"
+  "attribution": "Wikiwater2020 / CC BY-SA 3.0 / Wikimedia Commons",
+  "width": 1600,
+  "height": 1076
  },
  {
   "title": "File:Seoul Bus 775.jpg",
@@ -5327,23 +5341,9 @@
   "restrictions": "",
   "group": "life",
   "file": "media/library/life/seoul-bus-11.jpg",
-  "attribution": "Wikiwater2020 / CC BY-SA 3.0 / Wikimedia Commons"
- },
- {
-  "title": "File:Watetsu-WK11-Konaka-station-sign-20250505-113104.jpg",
-  "query": "Korean street sign hangul",
-  "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Watetsu-WK11-Konaka-station-sign-20250505-113104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Watetsu-WK11-Konaka-station-sign-20250505-113104.jpg/1920px-Watetsu-WK11-Konaka-station-sign-20250505-113104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Watetsu-WK11-Konaka-station-sign-20250505-113104.jpg",
-  "author": "LERK",
-  "credit": "Self-photographed",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "description": "A station sign board at the Konaka Station on the Watarase Keikoku Railway in Midori city, Gunma prefecture, Japan",
-  "restrictions": "",
-  "group": "life",
-  "file": "media/library/life/korean-street-sign-hangul-6.jpg",
-  "attribution": "LERK / CC BY-SA 4.0 / Wikimedia Commons"
+  "attribution": "Wikiwater2020 / CC BY-SA 3.0 / Wikimedia Commons",
+  "width": 1408,
+  "height": 1056
  },
  {
   "title": "File:Korean barbecue-Samgyeopsal-01.jpg",
@@ -5359,7 +5359,9 @@
   "restrictions": "",
   "group": "food",
   "file": "media/library/food/korean-barbecue-samgyeopsal-7.jpg",
-  "attribution": "Norris Wong / CC BY 2.0 / Wikimedia Commons"
+  "attribution": "Norris Wong / CC BY 2.0 / Wikimedia Commons",
+  "width": 1600,
+  "height": 1200
  },
  {
   "title": "File:Tteokbokki making process step 3.jpg",
@@ -5375,7 +5377,9 @@
   "restrictions": "",
   "group": "food",
   "file": "media/library/food/tteokbokki-7.jpg",
-  "attribution": "Teemeah / CC BY-SA 4.0 / Wikimedia Commons"
+  "attribution": "Teemeah / CC BY-SA 4.0 / Wikimedia Commons",
+  "width": 1600,
+  "height": 1200
  },
  {
   "title": "File:Gimbap 02.jpg",
@@ -5391,7 +5395,9 @@
   "restrictions": "",
   "group": "food",
   "file": "media/library/food/kimbap-7.jpg",
-  "attribution": "최광모 / CC0 / Wikimedia Commons"
+  "attribution": "최광모 / CC0 / Wikimedia Commons",
+  "width": 1067,
+  "height": 1600
  },
  {
   "title": "File:Gimbap 8.jpg",
@@ -5407,7 +5413,9 @@
   "restrictions": "",
   "group": "food",
   "file": "media/library/food/kimbap-8.jpg",
-  "attribution": "Jordi Sanchez / CC BY-SA 2.0 / Wikimedia Commons"
+  "attribution": "Jordi Sanchez / CC BY-SA 2.0 / Wikimedia Commons",
+  "width": 1600,
+  "height": 1063
  },
  {
   "title": "File:Yanji-style Mul-Naengmyeon at Naegohyang, Beijing (20211005113851).jpg",
@@ -5423,7 +5431,9 @@
   "restrictions": "",
   "group": "food",
   "file": "media/library/food/naengmyeon-7.jpg",
-  "attribution": "N509FZ / CC BY-SA 4.0 / Wikimedia Commons"
+  "attribution": "N509FZ / CC BY-SA 4.0 / Wikimedia Commons",
+  "width": 1600,
+  "height": 1067
  },
  {
   "title": "File:Hanbok Day 2016 35 (29871497173).jpg",
@@ -5439,7 +5449,9 @@
   "restrictions": "",
   "group": "culture",
   "file": "media/library/culture/hanbok-7.jpg",
-  "attribution": "Republic of  Korea from Seoul, Republic of Korea / CC BY-SA 2.0 / Wikimedia Commons"
+  "attribution": "Republic of  Korea from Seoul, Republic of Korea / CC BY-SA 2.0 / Wikimedia Commons",
+  "width": 1199,
+  "height": 1600
  },
  {
   "title": "File:Korea 2013 Seollal 04.jpg",
@@ -5455,7 +5467,9 @@
   "restrictions": "",
   "group": "culture",
   "file": "media/library/culture/seollal-korea-7.jpg",
-  "attribution": "KOREA.NET - Official page of the Republic of Korea / CC BY-SA 2.0 / Wikimedia Commons"
+  "attribution": "KOREA.NET - Official page of the Republic of Korea / CC BY-SA 2.0 / Wikimedia Commons",
+  "width": 1115,
+  "height": 1600
  },
  {
   "title": "File:Korea 2013 Seollal 11.jpg",
@@ -5471,7 +5485,9 @@
   "restrictions": "",
   "group": "culture",
   "file": "media/library/culture/seollal-korea-8.jpg",
-  "attribution": "Korea.net / Korean Culture and Information Service (Jeon Han) / CC BY-SA 2.0 / Wikimedia Commons"
+  "attribution": "Korea.net / Korean Culture and Information Service (Jeon Han) / CC BY-SA 2.0 / Wikimedia Commons",
+  "width": 1600,
+  "height": 1027
  },
  {
   "title": "File:Korea HangulDay 07 (8329124888).jpg",
@@ -5487,7 +5503,9 @@
   "restrictions": "",
   "group": "culture",
   "file": "media/library/culture/hangul-day-7.jpg",
-  "attribution": "Korea.net / Korean Culture and Information Service (Jeon Han) / CC BY-SA 2.0 / Wikimedia Commons"
+  "attribution": "Korea.net / Korean Culture and Information Service (Jeon Han) / CC BY-SA 2.0 / Wikimedia Commons",
+  "width": 1600,
+  "height": 843
  },
  {
   "title": "File:BTS performing at KCON 2014, 10 August 2014 04.jpg",
@@ -5503,7 +5521,9 @@
   "restrictions": "personality",
   "group": "kpop",
   "file": "media/library/kpop/bts-band-7.jpg",
-  "attribution": "mduangdara / CC BY 2.0 / Wikimedia Commons"
+  "attribution": "mduangdara / CC BY 2.0 / Wikimedia Commons",
+  "width": 1600,
+  "height": 1067
  },
  {
   "title": "File:Aespa - 55580761453.jpg",
@@ -5519,22 +5539,8 @@
   "restrictions": "",
   "group": "kpop",
   "file": "media/library/kpop/aespa-7.jpg",
-  "attribution": "davidjlee / CC BY 4.0 / Wikimedia Commons"
- },
- {
-  "title": "File:20211203 Park Seo-joon 박서준 Photoshoot for Marie Claire Korea (6).jpg",
-  "query": "Park Seo-joon",
-  "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/20211203_Park_Seo-joon_%EB%B0%95%EC%84%9C%EC%A4%80_Photoshoot_for_Marie_Claire_Korea_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/20211203_Park_Seo-joon_%EB%B0%95%EC%84%9C%EC%A4%80_Photoshoot_for_Marie_Claire_Korea_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "source_page": "https://commons.wikimedia.org/wiki/File:20211203_Park_Seo-joon_%EB%B0%95%EC%84%9C%EC%A4%80_Photoshoot_for_Marie_Claire_Korea_(6).jpg",
-  "author": "Marie Claire Korea",
-  "credit": "YouTube: https://www.youtube.com/watch?v=j7EUApTymmk – View/save archived versions on archive.org",
-  "license": "CC BY 3.0",
-  "license_url": "https://creativecommons.org/licenses/by/3.0",
-  "description": "Park Seo-joon during a photoshoot for Marie Claire Korea in December 2021",
-  "restrictions": "",
-  "group": "kdrama",
-  "file": "media/library/kdrama/park-seo-joon-7.jpg",
-  "attribution": "Marie Claire Korea / CC BY 3.0 / Wikimedia Commons"
+  "attribution": "davidjlee / CC BY 4.0 / Wikimedia Commons",
+  "width": 1600,
+  "height": 1280
  }
 ]

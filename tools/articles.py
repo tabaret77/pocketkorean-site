@@ -35,7 +35,7 @@ def read(fp):
     meta, body = (yaml.safe_load(m.group(1)) or {}, m.group(2)) if m else ({}, raw)
     if meta.get('draft'): return None
     lang = str(meta.get('lang') or 'en').strip().lower()
-    d = BY_URL.get(lang) or ('yue' if lang in ('yue', 'zh-hk') else 'tw' if lang in ('tw', 'zh-tw') else None)
+    d = BY_URL.get(lang) or {'yue': 'yue', 'tw': 'tw', 'zh': 'zh', 'zh-hans': 'zh', 'pt-br': 'pt'}.get(lang)
     if not d: print('skip (unknown lang):', fp, lang); return None
     sec = str(meta.get('section') or 'learn').strip()
     cat = str(meta.get('category') or '').strip()

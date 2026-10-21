@@ -84,8 +84,11 @@ S.update({
 'latest_posts': {'en': 'Latest from the blog', 'es': 'Lo último del blog', 'vi': 'Bài mới trên blog', 'th': 'บทความล่าสุด', 'id': 'Terbaru di blog', 'yue': '網誌最新文章', 'tw': '部落格最新文章'},
 })
 
-try:
-    from strings_new import S2
-    S.update(S2)
-except ImportError:
-    pass
+# extra string files (merged into S): S2 = portal UI, S3 = name maker + level test, S5 = ja/zh/pt/ru/mn for all keys
+for _mod, _var in (('strings_new', 'S2'), ('strings_3', 'S3'), ('strings_5', 'S5')):
+    try:
+        _d = getattr(__import__(_mod), _var)
+    except ImportError:
+        continue
+    for _k, _v in _d.items():
+        S.setdefault(_k, {}).update(_v)

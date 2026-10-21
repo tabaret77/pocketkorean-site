@@ -7,7 +7,9 @@ APP = 'https://app.pocketkorean.com'
 # (data code, url code, hreflang, name)
 LANGS = [('en', 'en', 'en', 'English'), ('es', 'es', 'es', 'Español'), ('vi', 'vi', 'vi', 'Tiếng Việt'),
          ('th', 'th', 'th', 'ภาษาไทย'), ('id', 'id', 'id', 'Bahasa Indonesia'),
-         ('yue', 'zh-hk', 'zh-HK', '廣東話（香港）'), ('tw', 'zh-tw', 'zh-TW', '國語（台灣）')]
+         ('yue', 'zh-hk', 'zh-HK', '廣東話（香港）'), ('tw', 'zh-tw', 'zh-TW', '國語（台灣）'),
+         ('ja', 'ja', 'ja', '日本語'), ('zh', 'zh-cn', 'zh-CN', '简体中文'), ('pt', 'pt', 'pt-BR', 'Português (Brasil)'),
+         ('ru', 'ru', 'ru', 'Русский'), ('mn', 'mn', 'mn', 'Монгол')]
 URL = {d: u for d, u, h, n in LANGS}
 HL = {d: h for d, u, h, n in LANGS}
 BY_URL = {u: d for d, u, h, n in LANGS}

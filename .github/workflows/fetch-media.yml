@@ -1,9 +1,5 @@
 name: Fetch free photos
 on:
-  push:
-    paths:
-      - 'media/library/queries.json'
-      - 'tools/fetch_media.py'
   workflow_dispatch:
 permissions:
   contents: write

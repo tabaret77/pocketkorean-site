@@ -12,3 +12,13 @@
 /zh-hk/blog/* /zh-hk/learn/ 301
 /zh-tw/blog/ /zh-tw/learn/ 301
 /zh-tw/blog/* /zh-tw/learn/ 301
+/ja/blog/ /ja/learn/ 301
+/ja/blog/* /ja/learn/ 301
+/zh-cn/blog/ /zh-cn/learn/ 301
+/zh-cn/blog/* /zh-cn/learn/ 301
+/pt/blog/ /pt/learn/ 301
+/pt/blog/* /pt/learn/ 301
+/ru/blog/ /ru/learn/ 301
+/ru/blog/* /ru/learn/ 301
+/mn/blog/ /mn/learn/ 301
+/mn/blog/* /mn/learn/ 301
