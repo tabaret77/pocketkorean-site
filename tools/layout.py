@@ -111,7 +111,7 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
 <meta name="theme-color" content="#2D4BFF">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&amp;family=Noto+Sans+KR:wght@400;500;700;900&amp;display=swap">
-<link rel="stylesheet" href="/assets/site.css?v={CSSV}">{ld}
+<link rel="stylesheet" href="/assets/site-{CSSV}.css">{ld}
 </head><body data-lang="{d}" data-u="{u}">
 <a class="sr" href="#main">Skip to content</a>
 <div class="util"><div class="wrap"><p>{T('util_tag', d)}</p><div class="r">{social}{'<span class="sep" aria-hidden="true"></span>' if social else ''}
@@ -132,7 +132,7 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
 <main id="main">{main}</main>
 <footer class="site"><div class="wrap"><div class="cols">{foot}</div>
 <div class="bottom"><span>© 2026 Pocket Korean · <a href="/privacy/">{T('privacy', d)}</a></span><span id="credits"></span></div></div></footer>
-<script src="/assets/site.js?v={JSV}" defer></script>
+<script src="/assets/site-{JSV}.js" defer></script>
 </body></html>'''
 
 def cta_box(d):
