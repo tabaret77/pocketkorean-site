@@ -29,6 +29,15 @@ SRCS = [os.path.join(ROOT, 'content', 'articles'), os.path.join(ROOT, 'content',
 CATPHOTO = json.load(open(os.path.join(ROOT, 'data', 'catphoto.json'))) if os.path.exists(os.path.join(ROOT, 'data', 'catphoto.json')) else {}
 COL = {'coral': '#B42323', 'sky': '#0B5A9A', 'mint': '#0B6B43', 'yellow': '#8A5E00'}
 
+from urllib.parse import quote, unquote
+try:
+    _SPELL = {r[1].replace('/', '-') for r in json.load(open(os.path.join(ROOT, 'data', 'en', 'dict.json')))}
+except Exception:
+    _SPELL = set()
+def _wordlink(m):
+    w = unquote(m.group(2)).strip().replace('/', '-')
+    return f'href="/{m.group(1)}/word/{quote(w)}/"' if w in _SPELL else m.group(0)
+
 def read(fp):
     raw = open(fp, encoding='utf-8').read()
     m = re.match(r'^---\s*\n(.*?)\n---\s*\n?(.*)$', raw, re.S)
@@ -59,6 +68,7 @@ def read(fp):
     if isinstance(date, (datetime.date, datetime.datetime)): date = date.strftime('%Y-%m-%d')
     date = str(date)[:10]
     html_body = markdown.markdown(body, extensions=['extra', 'sane_lists'])
+    html_body = re.sub(r'href="/([a-z-]+)/dictionary/\?q=([^"&#]+)"', _wordlink, html_body)
     text = re.sub(r'<[^>]+>', ' ', html_body)
     desc = str(meta.get('description') or re.sub(r'\s+', ' ', text).strip()[:160])
     return dict(d=d, sec=sec, cat=cat, slug=slug, title=str(meta.get('title') or slug), date=date, desc=desc,

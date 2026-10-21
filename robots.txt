@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://pocketkorean.com/sitemap.xml
-Sitemap: https://pocketkorean.com/sitemap-articles.xml
+Disallow: /tpl/
+Sitemap: https://pocketkorean.com/sitemap-index.xml

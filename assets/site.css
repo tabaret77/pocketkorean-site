@@ -378,3 +378,19 @@ aside .cta{flex-direction:column;align-items:stretch;margin:0}
 .official:hover{box-shadow:inset 0 0 0 1.5px var(--ink);color:var(--ink)}
 .official b{display:block;font-size:17px}.official small{display:block;color:var(--muted);font-size:14px}
 .official .ext{font-size:22px;color:var(--blue)}
+
+/* word & name pages */
+.nlinks{display:flex;flex-wrap:wrap;gap:6px 14px}
+.nlinks a{text-decoration:none;font-weight:700}.nlinks a:hover{text-decoration:underline}
+.nlinks a[lang],.nlinks a span[lang]{font-family:var(--kr)}
+.nlinks a span{color:var(--muted);font-weight:400}
+.naz{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px}
+.naz details{border-radius:14px;box-shadow:inset 0 0 0 1px var(--line);padding:12px 16px;background:#fff}
+.naz details[open]{grid-column:1/-1}
+.naz summary{cursor:pointer;font-family:var(--display);font-weight:800;font-size:20px}
+.naz .nlinks{margin:12px 0 4px}
+.nsyls{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
+.nsyl{border-radius:18px;padding:16px;text-align:center;box-shadow:inset 0 0 0 1.5px var(--line2)}
+.nsyl p{margin:0}.nsyl p:first-child{font-size:48px;font-weight:900;line-height:1.1}.nsyl .j{margin-top:6px;font-size:18px;color:var(--blue);font-weight:700}.nsyl .muted{font-size:14px}
+.rel a{display:inline-block;padding:8px 14px;background:var(--soft);border-radius:12px;text-decoration:none;color:var(--ink)}
+.rel a:hover{background:var(--blue-l)}

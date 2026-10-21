@@ -32,6 +32,11 @@
       .catch(function () {})
       .then(function () { if (btn) btn.disabled = false; });
   }
+  var fnv = function (s) { var h = 2166136261; for (var i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 16777619) >>> 0; } return h % 256; };
+  var wslug = function (de) { return de.replace(/\//g, '-'); };
+  var wurl = function (de) { return '/' + U + '/word/' + encodeURIComponent(wslug(de)) + '/'; };
+  /* word pages: play buttons carry their audio slice */
+  document.querySelectorAll('[data-pa]').forEach(function (b) { b.addEventListener('click', function () { try { play(JSON.parse(b.getAttribute('data-pa')), b.getAttribute('data-which'), b); } catch (e) {} }); });
   var SPK = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4z" fill="currentColor"/><path d="M15.5 8.5a5 5 0 0 1 0 7M18.5 5.5a9 9 0 0 1 0 13"/></svg>';
 
   var getJSON = (function () { var c = {}; return function (u) { return c[u] || (c[u] = fetch(u).then(function (r) { return r.json(); })); }; })();
@@ -83,7 +88,7 @@
       var parts = (w.parts || []).filter(function (p) { return p[0]; }).map(function (p) { return '<span><b lang="ko">' + esc(p[0]) + '</b>' + (p[1] ? ' ' + esc(p[1]) : '') + '</span>'; }).join('<em aria-hidden="true">+</em>');
       var rel = (w.rel || []).map(function (r) { return '<button type="button" data-q="' + esc(r[0]) + '"><b lang="ko">' + esc(r[0]) + '</b> <span class="muted">' + esc(r[1]) + '</span></button>'; }).join('');
       return '<article class="card"><div class="hd"><div><p style="margin:0 0 6px;display:flex;gap:8px;align-items:center"><span class="tag t' + w.lv.slice(1) + '">TOPIK ' + w.lv.slice(1) + '</span><span class="muted">' + esc(w.pos) + '</span></p>' +
-        '<h2 lang="ko">' + esc(w.de) + '</h2><p class="muted" style="margin:6px 0 0">' + esc(w.rom) + (w.pr ? ' · <span lang="ko">[' + esc(w.pr) + ']</span>' : '') + '</p></div>' +
+        '<h2 lang="ko"><a href="' + wurl(w.de) + '" style="color:inherit;text-decoration:none">' + esc(w.de) + '</a></h2><p class="muted" style="margin:6px 0 0">' + esc(w.rom) + (w.pr ? ' <span lang="ko">[' + esc(w.pr) + ']</span>' : '') + '</p></div>' +
         (w.a ? '<button class="play" data-w aria-label="' + esc(D('l-listen')) + '">' + SPK + '</button>' : '') + '</div><div class="bd">' +
         '<div>' + (w.forms ? '<p class="muted" lang="ko" style="margin:0 0 2px">' + esc(w.forms) + '</p>' : '') + '<p class="mean">' + esc(w.m) + '</p></div>' +
         (w.ex ? '<div><p style="margin:0 0 8px;display:flex;align-items:center;gap:10px"><span class="hl">' + esc(D('l-ex')) + '</span>' + (w.a && w.a[3] >= 0 ? '<button class="play sm" data-e aria-label="' + esc(D('l-listen')) + '">' + SPK + '</button>' : '') + '</p><p lang="ko" style="margin:0;font-size:21px;font-weight:700">' + esc(w.ex) + '</p><p class="muted" style="margin:2px 0 0;font-size:17px">' + esc(w.x) + '</p></div>' : '') +
@@ -94,8 +99,10 @@
     }
     function show(id) {
       var lv = idx.byId[id][4];
-      getJSON('/data/' + U + '/T' + lv + '.json').then(function (det) {
-        var w = det[id], el = dict.querySelector('.cardslot'); el.innerHTML = card(w);
+      var sl = wslug(idx.byId[id][1]);
+      getJSON('/data/' + U + '/w/' + ('0' + fnv(sl).toString(16)).slice(-2) + '.json').then(function (b) {
+        var w = (b[sl] || []).filter(function (x) { return x.id === id; })[0]; if (!w) return;
+        var el = dict.querySelector('.cardslot'); el.innerHTML = card(w);
         var bw = el.querySelector('[data-w]'), be = el.querySelector('[data-e]');
         if (bw) bw.onclick = function () { play(w.a, 'w', bw); };
         if (be) be.onclick = function () { play(w.a, 'ex', be); };
@@ -282,11 +289,11 @@
     }
     function go() {
       var name = nin.value.trim(); if (!name) { nmsg.textContent = t('name_enter'); return; }
-      nmsg.textContent = ''; history.replaceState(null, '', '?n=' + encodeURIComponent(name));
+      nmsg.textContent = ''; if (!nres.getAttribute('data-n')) history.replaceState(null, '', '?n=' + encodeURIComponent(name));
       getNames().then(function (d) { var e = find(d, name, nlang.value); render(name.charAt(0).toUpperCase() + name.slice(1), e, !e, d); });
     }
     nform.addEventListener('submit', function (e) { e.preventDefault(); go(); });
-    var n0 = new URLSearchParams(location.search).get('n'); if (n0) { nin.value = n0; go(); }
+    var n0 = new URLSearchParams(location.search).get('n') || nres.getAttribute('data-n'); if (n0) { nin.value = n0; go(); }
   }
 
   /* ---- level test ---- */
