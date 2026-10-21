@@ -27,6 +27,12 @@ SECTIONS = [
 SEC = {s[0]: s for s in SECTIONS}
 CATS = {c: (s[0], k) for s in SECTIONS for c, k in s[3]}
 
+import hashlib, os as _os
+def _ver(f):
+    try: return hashlib.md5(open(_os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))), 'assets', f), 'rb').read()).hexdigest()[:8]
+    except OSError: return '1'
+CSSV, JSV = _ver('site.css'), _ver('site.js')
+
 def E(s): return html.escape(str(s or ''), quote=True)
 def T(k, l, **kw):
     v = S[k].get(l) or S[k]['en']
@@ -105,7 +111,7 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
 <meta name="theme-color" content="#2D4BFF">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&amp;family=Noto+Sans+KR:wght@400;500;700;900&amp;display=swap">
-<link rel="stylesheet" href="/assets/site.css">{ld}
+<link rel="stylesheet" href="/assets/site.css?v={CSSV}">{ld}
 </head><body data-lang="{d}" data-u="{u}">
 <a class="sr" href="#main">Skip to content</a>
 <div class="util"><div class="wrap"><p>{T('util_tag', d)}</p><div class="r">{social}{'<span class="sep" aria-hidden="true"></span>' if social else ''}
@@ -126,7 +132,7 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
 <main id="main">{main}</main>
 <footer class="site"><div class="wrap"><div class="cols">{foot}</div>
 <div class="bottom"><span>© 2026 Pocket Korean · <a href="/privacy/">{T('privacy', d)}</a></span><span id="credits"></span></div></div></footer>
-<script src="/assets/site.js" defer></script>
+<script src="/assets/site.js?v={JSV}" defer></script>
 </body></html>'''
 
 def cta_box(d):
