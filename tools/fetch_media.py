@@ -84,7 +84,10 @@ def main():
                 if it['title'] in have:
                     continue
                 ext = '.png' if it['thumb_url'].lower().endswith('.png') else '.jpg'
-                name = f"{slug(q)}-{k}{ext}"
+                k2 = k
+                while any(os.path.exists(os.path.join(ROOT, group, f"{slug(q)}-{k2}{e}")) for e in ('.jpg', '.png')):
+                    k2 += 1
+                name = f"{slug(q)}-{k2}{ext}"
                 path = os.path.join(ROOT, group, name)
                 try:
                     data = get(it['thumb_url'], binary=True)
