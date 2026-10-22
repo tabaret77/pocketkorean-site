@@ -22,7 +22,7 @@ sitemap-articles.xml and _redirects (old /blog/ URLs).
 import os, re, sys, glob, json, shutil, datetime
 sys.path.insert(0, os.path.dirname(__file__))
 import yaml, markdown
-from layout import LANGS, URL, BY_URL, BASE, APP, E, T, page, cta_box, phead, L, SECTIONS, SEC, CATS, ICON
+from layout import LANGS, URL, BY_URL, BASE, APP, E, T, page, cta_box, phead, L, SECTIONS, SEC, CATS, ICON, rimg
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRCS = [os.path.join(ROOT, 'content', 'articles'), os.path.join(ROOT, 'content', 'blog')]
@@ -72,7 +72,7 @@ def read(fp):
     text = re.sub(r'<[^>]+>', ' ', html_body)
     desc = str(meta.get('description') or re.sub(r'\s+', ' ', text).strip()[:160])
     return dict(d=d, sec=sec, cat=cat, slug=slug, title=str(meta.get('title') or slug), date=date, desc=desc,
-                cover=str(meta.get('cover') or ''), credit=str(meta.get('cover_credit') or ''),
+                cover=str(meta.get('cover') or ''), thumb=str(meta.get('thumb') or meta.get('cover') or ''), credit=str(meta.get('cover_credit') or ''),
                 phrase=str(meta.get('phrase') or ''), pmean=str(meta.get('phrase_meaning') or ''),
                 off=str(meta.get('official_url') or '').strip(), offl=str(meta.get('official_label') or '').strip(),
                 html=html_body, legacy='/blog/' in fp.replace(os.sep, '/'), name=name)
@@ -93,20 +93,21 @@ def official(p, d):
 def url(p): return f'/{URL[p["d"]]}/{p["sec"]}/{p["slug"]}/'
 
 def acard(p, d, lead=False):
-    ph = (f'<img src="{E(p["cover"])}" alt="" loading="lazy">' + (f'<small>{E(p["credit"])}</small>' if p['credit'] else '')) if p['cover'] \
+    ph = (rimg(p['thumb'], '(max-width:640px) 92vw, 380px') + (f'<small>{E(p["credit"])}</small>' if p['credit'] else '')) if p['cover'] \
         else f'<span class="gfx" lang="ko">{E(p["phrase"] or "가")}</span>'
     phrase = (f'<span class="phrase"><b>{T("phrase_story", d)}:</b> <b lang="ko">{E(p["phrase"])}</b>'
               f'{" = " + E(p["pmean"]) if p["pmean"] else ""}</span>') if p['phrase'] else ''
     return (f'<a class="acard c-{p["sec"]}{" lead" if lead else ""}" href="{url(p)}"><div class="ph">{ph}</div><div class="bd">'
             f'<span class="cat">{E(T(CATS[p["cat"]][1], d))}</span><h3>{E(p["title"])}</h3><p>{E(p["desc"])}</p>{phrase}</div></a>')
 
-def _ph(p):
-    return (f'<img src="{E(p["cover"])}" alt="" loading="lazy">' + (f'<small>{E(p["credit"])}</small>' if p['credit'] else '')) if p['cover'] \
-        else f'<span class="gfx" lang="ko">{E(p["phrase"] or "가")}</span>'
+def _ph(p, sizes='(max-width:640px) 40vw, 160px', lead=False):
+    if not p['cover']: return f'<span class="gfx" lang="ko">{E(p["phrase"] or "가")}</span>'
+    src = p['cover'] if lead else p['thumb']
+    return rimg(src, sizes, eager=lead) + (f'<small>{E(p["credit"])}</small>' if p['credit'] else '')
 
 def lead_story(p, d):
     phrase = (f'<span class="phrase"><b lang="ko">{E(p["phrase"])}</b>{E(p["pmean"])}</span>') if p['phrase'] else ''
-    return (f'<a class="lead-story c-{p["sec"]}" href="{url(p)}"><div class="ph">{_ph(p)}</div>'
+    return (f'<a class="lead-story c-{p["sec"]}" href="{url(p)}"><div class="ph">{_ph(p, "(max-width:900px) 92vw, 720px", lead=True)}</div>'
             f'<h3>{E(p["title"])}</h3><p>{E(p["desc"])}</p>{phrase}</a>')
 
 def row(p, d):
@@ -116,7 +117,7 @@ def row(p, d):
 def placeholder(d, cat, href=None):
     """empty-state card for a category (photo + category name), used until articles exist"""
     ph = CATPHOTO.get(cat)
-    img = f'<img src="{ph[0]}" alt="" loading="lazy"><small>{E(ph[1])}</small>' if ph else ''
+    img = (rimg(ph[0], '(max-width:640px) 92vw, 380px') + f'<small>{E(ph[1])}</small>') if ph else ''
     sec = CATS[cat][0]
     return (f'<a class="acard soon c-{sec}" href="{href or L(d, sec + "/" + cat + "/")}"><div class="ph">{img}</div><div class="bd">'
             f'<span class="cat">{E(T(SEC[sec][1], d))}</span><h3>{E(T(CATS[cat][1], d))}</h3><p>{T("no_articles", d)}</p></div></a>')
@@ -175,7 +176,7 @@ def build():
                 urls.append(f'{BASE}/{u}/{sec}/{c}/')
         for p in mine:
             key, col = SEC[p['sec']][1], SEC[p['sec']][2]
-            cover = (f'<img class="cover" src="{E(p["cover"])}" alt="">' + (f'<p class="credit">{E(p["credit"])}</p>' if p['credit'] else '')) if p['cover'] else ''
+            cover = (rimg(p['cover'], '(max-width:760px) 94vw, 720px', cls='cover', eager=True) + (f'<p class="credit">{E(p["credit"])}</p>' if p['credit'] else '')) if p['cover'] else ''
             phrase = (f'<div class="phrasebox"><b>{T("phrase_story", d)}:</b> <b lang="ko">{E(p["phrase"])}</b>{" = " + E(p["pmean"]) if p["pmean"] else ""}'
                       f'<a class="more" style="margin-left:auto" href="{L(d, "dictionary/")}?q={E(p["phrase"])}">{T("dict_search", d)}</a></div>') if p['phrase'] else ''
             rel = [q for q in mine if q['sec'] == p['sec'] and q is not p][:3]

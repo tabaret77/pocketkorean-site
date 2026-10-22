@@ -9,6 +9,7 @@ description: "Folhas de outono, fogos de artifício em Busan, temporada de fazer
 phrase: 단풍
 phrase_meaning: folhas de outono
 cover: /media/covers/korea-autumn-winter-festival-guide-v2.jpg
+thumb: /media/covers/korea-autumn-winter-festival-guide-v2-t.jpg
 draft: false
 ---
 

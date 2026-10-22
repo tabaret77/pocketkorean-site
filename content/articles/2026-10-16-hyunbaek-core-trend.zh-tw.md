@@ -9,6 +9,7 @@ description: "「現百風」（Hyunbaek core）這個新的穿搭標籤正在�
 phrase: 현백 코어
 phrase_meaning: 現代百貨風（不費力的有錢感穿搭）
 cover: /media/covers/hyunbaek-core-trend-v2.jpg
+thumb: /media/covers/hyunbaek-core-trend-v2-t.jpg
 draft: false
 ---
 

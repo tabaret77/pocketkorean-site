@@ -11,6 +11,7 @@ official_label: "tvN – 100일의 거짓말"
 phrase: 첫 방송
 phrase_meaning: penayangan perdana
 cover: /media/covers/100-days-of-deception-ratings-v2.jpg
+thumb: /media/covers/100-days-of-deception-ratings-v2-t.jpg
 draft: false
 ---
 

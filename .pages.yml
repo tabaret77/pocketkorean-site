@@ -86,6 +86,9 @@ content:
       - name: cover
         label: Cover image (optional)
         type: image
+      - name: thumb
+        label: "List thumbnail without text (optional; the cover is used when empty)"
+        type: image
       - name: cover_credit
         label: "Photo credit (needed for Wikimedia / CC photos, e.g. Name / CC BY 2.0)"
         type: string

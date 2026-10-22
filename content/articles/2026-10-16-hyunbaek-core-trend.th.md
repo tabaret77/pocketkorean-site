@@ -9,6 +9,7 @@ description: "คำนิยามสไตล์ใหม่ \"ฮยอนแ
 phrase: 현백 코어
 phrase_meaning: ฮุนไดดีพาร์ตเมนต์สโตร์คอร์ (ลุครวยแบบสบายๆ ไม่พยายาม)
 cover: /media/covers/hyunbaek-core-trend-v2.jpg
+thumb: /media/covers/hyunbaek-core-trend-v2-t.jpg
 draft: false
 ---
 

@@ -9,6 +9,7 @@ description: "Una nueva etiqueta de estilo, \"Hyunbaek core\", se está extendie
 phrase: 현백 코어
 phrase_meaning: "\"core\" de Hyundai Department Store (look de rica sin esfuerzo)"
 cover: /media/covers/hyunbaek-core-trend-v2.jpg
+thumb: /media/covers/hyunbaek-core-trend-v2-t.jpg
 draft: false
 ---
 

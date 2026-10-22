@@ -8,6 +8,7 @@ description: Autumn leaves, fireworks over Busan, kimchi-making season and winte
 phrase: 단풍
 phrase_meaning: autumn leaves
 cover: /media/covers/korea-autumn-winter-festival-guide-v2.jpg
+thumb: /media/covers/korea-autumn-winter-festival-guide-v2-t.jpg
 draft: false
 ---
 

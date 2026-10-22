@@ -194,12 +194,20 @@ def photo_page(photo, big, small, accent, pos='center'):
  <div style="font-size:52px;font-weight:700;margin-top:26px;color:#E6E9FF">{small}</div>
 </div></body></html>"""
 
+def only_ok(slug):
+    import sys
+    a = sys.argv[1:]
+    return not a or slug in a
+
 async def main():
     os.makedirs(OUT, exist_ok=True)
     async with async_playwright() as p:
         b = await p.chromium.launch()
         pg = await b.new_page(viewport={'width': 1600, 'height': 1000})
         for slug, (ph, big, small, acc, pos) in PHOTO.items(): COVERS[slug] = photo_page(ph, big, small, acc, pos)
+        for slug, (ph, *_r) in PHOTO.items():   # text-free version for list thumbnails
+            if not only_ok(slug): continue
+            im = Image.open(ph).convert('RGB'); im.thumbnail((1600, 1000)); im.save(f'{OUT}/{slug}-t.jpg', quality=86, optimize=True, progressive=True)
         import sys
         only = sys.argv[1:]
         for slug, html in COVERS.items():
@@ -215,3 +223,7 @@ async def main():
 
 if __name__ == '__main__':
     asyncio.run(main())
+    import subprocess, os
+    iv = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'imgvariants.py')
+    if os.path.exists(iv): subprocess.run(['python3', iv, 'media/covers'])
+    elif os.path.exists('/home/claude/pocketkorean-site/tools/imgvariants.py'): subprocess.run(['python3', '/home/claude/pocketkorean-site/tools/imgvariants.py', 'media/covers'])

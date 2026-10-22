@@ -9,6 +9,7 @@ description: "楓葉、釜山上空的煙火、醃泡菜季和冬季燈飾。按
 phrase: 단풍
 phrase_meaning: 楓葉、秋天的紅葉
 cover: /media/covers/korea-autumn-winter-festival-guide-v2.jpg
+thumb: /media/covers/korea-autumn-winter-festival-guide-v2-t.jpg
 draft: false
 ---
 

@@ -9,6 +9,7 @@ description: "Lá mùa thu, pháo hoa trên bầu trời Busan, mùa muối kimc
 phrase: 단풍
 phrase_meaning: lá mùa thu, lá phong đỏ
 cover: /media/covers/korea-autumn-winter-festival-guide-v2.jpg
+thumb: /media/covers/korea-autumn-winter-festival-guide-v2-t.jpg
 draft: false
 ---
 

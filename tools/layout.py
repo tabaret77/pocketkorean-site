@@ -28,6 +28,21 @@ SEC = {s[0]: s for s in SECTIONS}
 # each section's hangul badge (what the section is called in Korean) and colour
 BADGE = {'korea-today': ('오늘', 'coral'), 'life-travel': ('생활', 'sky'), 'learn': ('공부', 'mint'), 'words': ('단어', 'violet'),
          'dictionary': ('사전', 'blue'), 'name': ('이름', 'yellow'), 'level-test': ('실력', 'blue'), 'app': ('앱', 'blue'), 'about': ('소개', 'violet')}
+_ROOTDIR = _os_root = __import__('os').path.dirname(__import__('os').path.dirname(__import__('os').path.abspath(__file__)))
+def rimg(src, sizes='100vw', cls='', alt='', eager=False, w=1600, h=1000):
+    """<img> with WebP srcset when size variants exist next to the file (see tools/imgvariants.py)."""
+    import os
+    src = str(src or '')
+    attrs = f' class="{cls}"' if cls else ''
+    attrs += f' width="{w}" height="{h}"' if w else ''
+    attrs += ' fetchpriority="high"' if eager else ' loading="lazy"'
+    srcset = ''
+    if src.startswith('/media/'):
+        base = src.rsplit('.', 1)[0]
+        have = [x for x in (480, 800, 1600) if os.path.exists(os.path.join(_ROOTDIR, (base + f'.w{x}.webp').lstrip('/')))]
+        if have: srcset = ' srcset="' + ', '.join(f'{base}.w{x}.webp {x}w' for x in have) + f'" sizes="{sizes}"'
+    return f'<img src="{E(src)}"{srcset} alt="{E(alt)}"{attrs} decoding="async">'
+
 def badge(key, big=False):
     k, c = BADGE.get(key, ('한', 'blue'))
     return f'<span class="badge b-{c}{" big" if big else ""}" lang="ko" aria-hidden="true">{k}</span>'
@@ -116,7 +131,7 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/icon-180.png">
 <meta name="theme-color" content="#2446F0">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&amp;family=Atkinson+Hyperlegible:wght@400;700&amp;family=Nanum+Myeongjo:wght@700;800&amp;family=Noto+Sans+KR:wght@400;500;700&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&amp;family=Atkinson+Hyperlegible:wght@400;700&amp;family=Nanum+Myeongjo:wght@700;800&amp;display=swap">
 <link rel="stylesheet" href="/assets/site-{CSSV}.css">{ld}
 </head><body data-lang="{d}" data-u="{u}">
 <a class="sr" href="#main">Skip to content</a>

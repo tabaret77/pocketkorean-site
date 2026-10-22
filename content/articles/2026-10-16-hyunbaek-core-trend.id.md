@@ -9,6 +9,7 @@ description: "Label gaya baru, \"Hyunbaek core\", sedang menyebar di media sosia
 phrase: 현백 코어
 phrase_meaning: Hyundai Department Store core (gaya kaya yang santai)
 cover: /media/covers/hyunbaek-core-trend-v2.jpg
+thumb: /media/covers/hyunbaek-core-trend-v2-t.jpg
 draft: false
 ---
 

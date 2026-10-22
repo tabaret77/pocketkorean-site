@@ -9,6 +9,7 @@ description: "Осенняя листва, фейерверки над Пуса�
 phrase: 단풍
 phrase_meaning: осенняя листва
 cover: /media/covers/korea-autumn-winter-festival-guide-v2.jpg
+thumb: /media/covers/korea-autumn-winter-festival-guide-v2-t.jpg
 draft: false
 ---
 

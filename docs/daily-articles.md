@@ -52,13 +52,13 @@ Body, 450–800 words: a plain, friendly opening paragraph with the facts → 2�
 
 ## Covers
 
-News (korea-today) pieces: an original scene illustration that captures the mood of the story (the drama's setting and era, the place behind a trend, a stage for a K-pop story) – people only from behind or as silhouettes, never a real person's face, no logos, and never traced from a press photo. Add a scene function to `tools/scenes2.py` (see `operating`, `atrium`, `maple`; layered flat shapes, gradients, the `paint` and `blur` filters), register it in `SCENES` in `tools/illus.py`, render with `python3 tools/illus.py <scene>` (writes `media/photos/<scene>.png`; keep the left-bottom area calm for the title), then add `PHOTO['<slug>'] = (MEDIA + 'photos/<scene>.png', '<Korean key phrase>', '<short Korean line>', C['coral'], 'center')` in `tools/covers.py`. No `cover_credit`.
+News (korea-today) pieces: an original scene illustration that captures the mood of the story (the drama's setting and era, the place behind a trend, a stage for a K-pop story) – people only from behind or as silhouettes, never a real person's face, no logos, and never traced from a press photo. Add a scene function to `tools/scenes2.py` (see `operating`, `atrium`, `maple`; layered flat shapes, gradients, the `paint` and `blur` filters), register it in `SCENES` in `tools/illus.py`, render with `python3 tools/illus.py <scene>` (writes `media/photos/<scene>.png`; keep the left-bottom area calm for the title), then add `PHOTO['<slug>'] = (MEDIA + 'photos/<scene>.png', '<Korean key phrase>', '<short Korean line>', C['coral'], 'center')` in `tools/covers.py`. No `cover_credit`. `tools/covers.py` also writes a text-free `<slug>-t.jpg`; set it as `thumb: /media/covers/<slug>-t.jpg` (list cards use it so the title text is never cropped).
 
 Learning and life pieces: an original illustration – add a `COVERS['<slug>']` entry to `tools/covers.py` following the existing ones (manuscript-grid background in the section's light colour, hangul in manuscript cells, simple flat objects that show the topic, Korean text only, no logos, no real people), no `cover_credit`.
 
 When you replace an existing cover, save it under a new file name (e.g. `<slug>-v2.jpg`): images are cached for a week, so a changed file with the same name would keep showing the old picture.
 
-Render with `npm i --prefix /tmp/pkfonts @fontsource/nanum-myeongjo@5 && python3 tools/covers.py <slug>`, open the JPG to check it, set `cover: /media/covers/<slug>.jpg`, and commit the JPG (and photo) with the articles.
+Render with `npm i --prefix /tmp/pkfonts @fontsource/nanum-myeongjo@5 && python3 tools/covers.py <slug>`, open the JPG to check it, set `cover: /media/covers/<slug>.jpg`, and commit the JPG, its `.w480/.w800/.w1600.webp` size variants (made automatically; run `python3 tools/imgvariants.py` after adding any other image) and the scene PNG with the articles.
 
 ## Photos
 

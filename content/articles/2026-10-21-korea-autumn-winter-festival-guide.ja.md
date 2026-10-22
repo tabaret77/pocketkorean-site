@@ -9,6 +9,7 @@ description: "紅葉、釜山の花火、キムジャンの季節、冬のイル
 phrase: 단풍
 phrase_meaning: 紅葉
 cover: /media/covers/korea-autumn-winter-festival-guide-v2.jpg
+thumb: /media/covers/korea-autumn-winter-festival-guide-v2-t.jpg
 draft: false
 ---
 

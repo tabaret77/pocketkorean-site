@@ -9,6 +9,7 @@ description: "一个新的风格标签“现百Core”正在韩国社交媒体�
 phrase: 현백 코어
 phrase_meaning: "现代百货Core（不费力的富家风）"
 cover: /media/covers/hyunbaek-core-trend-v2.jpg
+thumb: /media/covers/hyunbaek-core-trend-v2-t.jpg
 draft: false
 ---
 

@@ -10,16 +10,16 @@
   --sky:#1E8DE0;--sky-l:#E4F2FD;--sky-t:#0A5A9A;
   --mint:#12A57A;--mint-l:#E3F7F0;--mint-t:#0A6B4F;
   --violet:#7C5CFF;--violet-l:#EFEAFF;--violet-t:#5233CC;
-  --sans:"Atkinson Hyperlegible","Noto Sans KR","Apple SD Gothic Neo",system-ui,sans-serif;
+  --sans:"Atkinson Hyperlegible","Apple SD Gothic Neo","Noto Sans KR","Noto Sans CJK KR","Malgun Gothic",system-ui,sans-serif;
   --display:"Bricolage Grotesque","Noto Sans KR",system-ui,sans-serif;
-  --kr:"Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  --kr:"Apple SD Gothic Neo","Noto Sans KR","Noto Sans CJK KR","Malgun Gothic",sans-serif;
   --my:"Nanum Myeongjo","Noto Serif KR","AppleMyungjo",serif;
 }
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%;scroll-padding-top:130px}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:17px;line-height:1.6}
 [lang=ko]{font-family:var(--kr)}
-img{max-width:100%;display:block}
+img{max-width:100%;height:auto;display:block}
 a{color:var(--blue);text-underline-offset:3px}a:hover{color:var(--blue-d)}
 a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid var(--blue);outline-offset:3px;border-radius:6px}
 h1,h2,h3{font-family:var(--display);line-height:1.12;letter-spacing:-.02em;margin:0 0 .4em;font-weight:750}

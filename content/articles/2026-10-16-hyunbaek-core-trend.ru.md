@@ -9,6 +9,7 @@ description: "В корейских соцсетях набирает попул
 phrase: 현백 코어
 phrase_meaning: «кор» универмага Hyundai (непринуждённый образ богатой девушки)
 cover: /media/covers/hyunbaek-core-trend-v2.jpg
+thumb: /media/covers/hyunbaek-core-trend-v2-t.jpg
 draft: false
 ---
 
