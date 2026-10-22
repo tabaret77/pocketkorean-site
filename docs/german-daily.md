@@ -73,3 +73,5 @@ Write the news in your own words (no copied sentences; at most one short quote p
 - Some news sites refuse connections from the workspace (tagesschau.de, spiegel.de, rbb24.de, dw.com, n-tv.de, deutschlandfunk.de). zdfheute.de, t-online.de, lto.de, wetter.com and wetter.net work. Try others (rbb24 via search results, berlin.de, bz-berlin.de, tagesspiegel.de) when they load.
 - `docs/german-daily-example-images.py` is the script that made the 22 Oct images — copy and adapt it.
 - Present older decisions (e.g. a price change announced weeks ago) as background, not as today's news.
+
+- Images are cached for a long time. If you ever change an image that is already published, save it under a **new file name** (e.g. add `-2`) and update the references — never overwrite a published file.
