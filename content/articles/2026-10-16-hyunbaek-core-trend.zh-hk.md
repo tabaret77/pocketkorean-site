@@ -9,7 +9,6 @@ description: "韓國社交媒體上興起一個新的風格標籤「現百core�
 phrase: 현백 코어
 phrase_meaning: 現代百貨core（不經意的富貴風）
 cover: /media/covers/hyunbaek-core-trend.jpg
-cover_credit: "Photo: kallerna / CC BY-SA 4.0 (Wikimedia Commons), text added"
 draft: false
 ---
 

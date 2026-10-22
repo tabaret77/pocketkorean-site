@@ -11,7 +11,6 @@ official_label: "tvN – 100일의 거짓말"
 phrase: 첫 방송
 phrase_meaning: нээлтийн анги, анхны цацалт
 cover: /media/covers/100-days-of-deception-ratings.jpg
-cover_credit: "Photo: View from Keijo Post Office, c. 1936 / Public domain (Wikimedia Commons)"
 draft: false
 ---
 

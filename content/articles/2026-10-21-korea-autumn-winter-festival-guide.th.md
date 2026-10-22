@@ -9,7 +9,6 @@ description: "ใบไม้เปลี่ยนสี พลุเหนื�
 phrase: 단풍
 phrase_meaning: ใบไม้เปลี่ยนสี
 cover: /media/covers/korea-autumn-winter-festival-guide.jpg
-cover_credit: "Photo: RedMosQ / Public domain (Wikimedia Commons)"
 draft: false
 ---
 

@@ -9,7 +9,6 @@ description: "Daun musim gugur, kembang api di langit Busan, musim membuat kimch
 phrase: 단풍
 phrase_meaning: daun musim gugur
 cover: /media/covers/korea-autumn-winter-festival-guide.jpg
-cover_credit: "Photo: RedMosQ / Public domain (Wikimedia Commons)"
 draft: false
 ---
 

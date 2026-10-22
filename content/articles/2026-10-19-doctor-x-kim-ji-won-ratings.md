@@ -10,7 +10,6 @@ official_label: "SBS – 닥터X: 하얀 마피아의 시대"
 phrase: 시청률
 phrase_meaning: TV ratings
 cover: /media/covers/doctor-x-kim-ji-won-ratings.jpg
-cover_credit: "Photo: Tyler Frew MD / CC BY-SA 4.0 (Wikimedia Commons), text added"
 draft: false
 ---
 

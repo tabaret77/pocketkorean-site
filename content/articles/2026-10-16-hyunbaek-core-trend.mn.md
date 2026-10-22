@@ -9,7 +9,6 @@ description: "\"Хёнбэк кор\" хэмээх шинэ стилийн нэ�
 phrase: 현백 코어
 phrase_meaning: Хёндэ их дэлгүүрийн кор (санаа зоволтгүй баян төрх)
 cover: /media/covers/hyunbaek-core-trend.jpg
-cover_credit: "Photo: kallerna / CC BY-SA 4.0 (Wikimedia Commons), text added"
 draft: false
 ---
 

@@ -9,7 +9,6 @@ description: "紅葉、釜山煙花、醃泡菜季節和冬日燈飾。2026年10
 phrase: 단풍
 phrase_meaning: 紅葉
 cover: /media/covers/korea-autumn-winter-festival-guide.jpg
-cover_credit: "Photo: RedMosQ / Public domain (Wikimedia Commons)"
 draft: false
 ---
 
