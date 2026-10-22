@@ -12,7 +12,7 @@ Run: python3 tools/german.py   (after german_audio.py has built german/app/audio
 """
 import datetime, hashlib, html, json, os, re, shutil, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from layout import PG_LOGO, PG_NAME, PG_BASE, PG_MENU, E, LOGO
+from layout import PG_LOGO, PG_NAME, PG_BASE, PG_MENU, PG_MARK, E, LOGO
 
 SRC = '/home/claude/pgsrc'
 OUT = '/home/claude/pocketkorean-site'
@@ -194,12 +194,12 @@ def page(g, rel, title, desc, body, cur=None, alts=True):
 <link rel="stylesheet" href="/german/assets/pg-{CSSV}.css"></head>
 <body class="pg" data-g="{g}" data-base="{url(g)}">
 <header class="pgtop"><div class="pgw pgbar">
-<a class="pgbrand" href="{url(g)}">{PG_LOGO}<span>{E(PG_NAME[g])}</span></a>
+<a class="pgbrand" href="{url(g)}">{PG_LOGO}<span>{PG_MARK[g]}</span></a>
 <nav class="pgnav" aria-label="{E(PG_NAME[g])}">{nav}</nav>
 <div class="pgact"><nav class="pglang" aria-label="{s["langs"]}">{lsw}</nav><a class="pgpk" href="{pk}">{LOGO}<span>Pocket Korean</span></a></div>
 </div></header>
 <main id="main">{body}</main>
-<footer class="pgfoot"><div class="pgw"><div class="pgfb"><a class="pgbrand" href="{url(g)}">{PG_LOGO}<span>{E(PG_NAME[g])}</span></a><p>{E(s["foot"])}</p></div>
+<footer class="pgfoot"><div class="pgw"><div class="pgfb"><a class="pgbrand" href="{url(g)}">{PG_LOGO}<span>{PG_MARK[g]}</span></a><p>{E(s["foot"])}</p></div>
 <nav>{"".join(f'<a href="{url(g, p)}">{E(t)}</a>' for p, t in PG_MENU[g])}</nav>
 <p class="pgcopy">© 2026 {E(PG_NAME[g])} · <a href="{pk}">Pocket Korean</a> · <a href="/privacy/">Privacy</a></p></div></footer>
 <script src="/german/assets/pg-{JSV}.js" defer></script></body></html>'''

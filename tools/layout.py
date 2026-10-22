@@ -75,6 +75,8 @@ PG_LOGO = ('<svg class="logo pglogo" viewBox="0 0 100 100" aria-hidden="true"><r
            '<path d="M22 54H78V67Q78 83 50 85Q22 83 22 67Z" fill="none" stroke="#151515" stroke-width="2" stroke-dasharray="3 3"/></svg>')
 PG_NAME = {'ko': '포켓독일어', 'en': 'Pocket German', 'ja': 'ポケットドイツ語'}
 PG_BASE = {'ko': '/german/', 'en': '/german/en/', 'ja': '/german/ja/'}
+# wordmark as in the app: 'Pocket' in ink, 'German' in red
+PG_MARK = {'ko': '포켓<em class="pgred">독일어</em>', 'en': 'Pocket <em class="pgred">German</em>', 'ja': 'ポケット<em class="pgred">ドイツ語</em>'}
 # (path inside the language folder, label)
 PG_MENU = {
     'ko': [('today/', '오늘의 독일어'), ('life/', '독일 이야기'), ('/german/web/', '앱 체험하기')],
@@ -170,7 +172,7 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
     navlinks = ''.join(_ni(i, p, k) for i, (p, k) in enumerate(top))
     g = pg_lang(d)
     navlinks += (f'<div class="ni has pgni" style="--c:#DD0000"><a href="{PG_BASE['ko']}" lang="{g}" title="{E(PG_NAME[g])}"{" aria-current=\"page\"" if cur == "german" else ""}>'
-                 f'{PG_LOGO}<span>{E(PG_NAME[g])}</span></a><div class="sub"><div class="sl" lang="{g}"><a href="{PG_BASE['ko']}">{E(PG_NAME[g])}</a>{pg_links(g, 'ko')}{PG_LANGS}</div></div></div>')
+                 f'{PG_LOGO}<span>{PG_MARK[g]}</span></a><div class="sub"><div class="sl" lang="{g}"><a href="{PG_BASE['ko']}">{E(PG_NAME[g])}</a>{pg_links(g, 'ko')}{PG_LANGS}</div></div></div>')
     mega = ''.join(f'<div class="col" style="--c:{c}"><p>{E(h)}</p>{ls}</div>' for h, c, ls in nav_cols(d))
     foot = ''.join(f'<div><p>{E(h)}</p>{ls}</div>' for h, c, ls in nav_cols(d))
     main = body if wide else f'<div class="wrap legacy">{body}</div>'
