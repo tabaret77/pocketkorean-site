@@ -34,7 +34,27 @@
       }).catch(function () {});
     });
   }
+  /* German text in posts: pre-generated pack slice (data-tp="file,offset,length") or /api/tts?l=de */
+  function playBuf(p, btn) {
+    p.then(function (buf) {
+      if (playing) try { playing.stop(); } catch (x) {}
+      var src = ctx.createBufferSource(); src.buffer = buf; src.connect(ctx.destination); src.start(0); playing = src;
+      if (btn) { btn.classList.add("on"); src.onended = function () { btn.classList.remove("on"); }; }
+    }).catch(function () { if (btn) btn.classList.remove("on"); });
+  }
+  function sayDe(btn) {
+    ctx = ctx || new (window.AudioContext || window.webkitAudioContext)();
+    if (ctx.state === "suspended") ctx.resume();
+    var dec = function (ab) { return new Promise(function (ok, no) { ctx.decodeAudioData(ab, ok, no); }); }, tp = btn.dataset.tp;
+    if (tp) {
+      var a = tp.split(","), f = "/german/media/tts/" + a[0], s = +a[1], n = +a[2];
+      playBuf((files[f] || (files[f] = fetch(f).then(function (r) { return r.arrayBuffer(); }))).then(function (ab) { return dec(ab.slice(s, s + n)); }), btn);
+    } else {
+      playBuf(fetch("/api/tts?l=de&t=" + encodeURIComponent(btn.dataset.tts)).then(function (r) { if (!r.ok) throw 0; return r.arrayBuffer(); }).then(dec), btn);
+    }
+  }
   document.addEventListener("click", function (ev) {
+    var d = ev.target.closest("[data-tts]"); if (d) { ev.preventDefault(); sayDe(d); return; }
     var b = ev.target.closest("[data-say]"); if (!b) return;
     ev.preventDefault(); play(b.dataset.say, +(b.dataset.part || 0), b);
   });

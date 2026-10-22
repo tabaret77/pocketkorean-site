@@ -13,6 +13,7 @@ Run: python3 tools/german.py   (after german_audio.py has built german/app/audio
 import datetime, hashlib, html, json, os, re, shutil, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from layout import PG_LOGO, PG_NAME, PG_BASE, PG_MENU, PG_MARK, E, LOGO
+import german_say
 
 SRC = '/home/claude/pgsrc'
 OUT = '/home/claude/pocketkorean-site'
@@ -38,7 +39,7 @@ S = {
  'ko': dict(
    htitle='포켓독일어 · 그림과 발음으로 외우는 독일어 단어 17,780개',
    hdesc='A1부터 C2까지 독일어 단어 17,780개를 그림, 원어민 발음, 예문, 어원과 함께. 매일 바뀌는 오늘의 단어와 오늘의 한 문장, 웹에서 바로 써 보는 포켓독일어.',
-   kick='A1–C2 · 17,780단어', h1='독일어 단어를<br>주머니에 넣고 다니세요',
+   kick='A1–C2 · 17,780단어', h1='괴테 레벨에 맞춘<br>독일어 단어장',
    lead='단어 카드 한 장에 뜻과 그림, 원어민 발음, 예문, 어원까지. 하루 10분 미션으로 A1에서 C2까지 차근차근 올라가요.',
    ph='독일어·한국어로 찾기 (예: Haus, 집)', go='찾기', try_='웹에서 체험하기', soon='App Store 곧 출시',
    free='웹 체험판에서는 A1 단어와 주제별 단어를 무료로 볼 수 있어요.',
@@ -59,7 +60,7 @@ S = {
  'en': dict(
    htitle='Pocket German · 17,780 German words with pictures and native audio',
    hdesc='17,780 German words from A1 to C2 with pictures, native audio, examples and word origins. A new topic and a new sentence every day, and an app you can try on the web.',
-   kick='A1–C2 · 17,780 words', h1='German words<br>that fit in your pocket',
+   kick='A1–C2 · 17,780 words', h1='German vocabulary<br>by Goethe level',
    lead='One card per word: meaning, picture, native audio, an example and where the word comes from. Ten minutes a day takes you from A1 to C2.',
    ph='Search in German or English (e.g. Haus, house)', go='Search', try_='Try it on the web', soon='Coming soon to the App Store',
    free='The web version opens all A1 words and the topic word lists for free.',
@@ -80,7 +81,7 @@ S = {
  'ja': dict(
    htitle='ポケットドイツ語 · 絵と音声で覚えるドイツ語単語 17,780語',
    hdesc='A1からC2までのドイツ語単語17,780語を、イラスト・ネイティブ音声・例文・語源とともに。毎日変わる今日の単語と今日のひとこと、ウェブですぐ試せるポケットドイツ語。',
-   kick='A1–C2 · 17,780語', h1='ドイツ語の単語を、<br>いつもポケットに',
+   kick='A1–C2 · 17,780語', h1='ゲーテのレベルに合わせた<br>ドイツ語単語帳',
    lead='1枚の単語カードに意味、イラスト、ネイティブ音声、例文、語源まで。1日10分のミッションでA1からC2まで一歩ずつ。',
    ph='ドイツ語か日本語で検索（例: Haus, 家）', go='検索', try_='ウェブで試す', soon='App Store 近日公開',
    free='ウェブ版ではA1の単語とテーマ別単語を無料で使えます。',
@@ -150,6 +151,7 @@ try:
 except OSError:
     AUD = {}
 NWORDS = len(W['ko'])
+german_say.lexicon(W['ko'].values())
 
 def art(de):
     m = re.match(r'(der|die|das)\s', de)
@@ -270,7 +272,7 @@ def load_articles(g):
                     k, v = line.split(':', 1); meta[k.strip()] = v.strip().strip('"')
         if meta.get('draft') == 'true': continue
         meta['slug'] = f[:-3]
-        meta['html'] = markdown.markdown(body, extensions=['extra'])
+        meta['html'] = german_say.mark(markdown.markdown(body, extensions=['extra']), g)
         meta['dt'] = datetime.date.fromisoformat(meta.get('date', '2026-01-01'))
         out.append(meta)
     return sorted(out, key=lambda a: a['dt'], reverse=True)
@@ -435,21 +437,22 @@ def post_body(g, key, P, d=None, tomorrow=None, posts=None):
         ex = f'<p class="pex" lang="de">📌 {E(w["ex"])}{say2}</p><p class="pexk">→ {E(w.get("exk", ""))}</p>' if w.get('ex') else ''
         tipp = f'<p class="ptip">💡 {E(tip)}</p>' if tip else ''
         fig = f'<figure class="ppic">{pic}</figure>' if pic else ''
+        tipp, extra = german_say.mark(tipp, g), german_say.mark(extra, g)
         secs += (f'<section class="pword" id="w{k + 1}"><header><span class="pn">{k + 1:02d}</span><div class="ph"><h3 lang="de">{word_html(w["de"])}</h3>{say}'
                  f'{pron}<span class="pm">{E(w["ko"])}</span></div></header>'
                  f'<div class="pb"><div class="pt">{forms}{ex}{tipp}{extra}</div>{fig}</div></section>')
     q = c.get('quiz')
     quiz = ''
     if q:
-        opts = ''.join(f'<li lang="de"><span>{"①②③④"[i]}</span> {E(o)}</li>' for i, o in enumerate(q['o']))
-        quiz = (f'<section class="pbox quiz"><h2>{E(ps["quiz"])}</h2><p class="qq">Q. {E(q["q"])}</p><ol class="qo">{opts}</ol>'
-                f'<details><summary>{E(ps["answer"])}</summary><p><b>{"①②③④"[q["a"]]} {E(q["o"][q["a"]])}</b><br>{E(q.get("why", ""))}</p></details></section>')
+        opts = ''.join(f'<li><span>{"①②③④"[i]}</span> {E(o)}</li>' for i, o in enumerate(q['o']))
+        quiz = german_say.mark(f'<section class="pbox quiz"><h2>{E(ps["quiz"])}</h2><p class="qq">Q. {E(q["q"])}</p><ol class="qo">{opts}</ol>'
+                f'<details><summary>{E(ps["answer"])}</summary><p><b>{"①②③④"[q["a"]]} {E(q["o"][q["a"]])}</b><br>{E(q.get("why", ""))}</p></details></section>', g)
     nxt = ''
     if tomorrow:
         tt = TOPIC[tomorrow]; nm = tt['name'].get(g) or tt['name']['ko']
         inner = f'{tt.get("emoji", "")} {E(nm)}'
         nxt = f'<p class="pnext">{E(ps["next"])}: ' + (f'<a href="{url(g, "words/" + tomorrow + "/")}">{inner}</a>' if posts and tomorrow in posts else f'<b>{inner}</b>') + '</p>'
-    culture = (f'<section class="pbox culture"><h2>{E(ps["culture"])}</h2>' + ''.join(f'<p>{E(x)}</p>' for x in c['culture']) + '</section>') if c.get('culture') else ''
+    culture = german_say.mark((f'<section class="pbox culture"><h2>{E(ps["culture"])}</h2>' + ''.join(f'<p>{E(x)}</p>' for x in c['culture']) + '</section>'), g) if c.get('culture') else ''
     when = f'<time datetime="{d.isoformat()}">{fdate(g, d)}</time>' if d else ''
     return (f'<article class="ppost"><figure class="phero">{hero_svg(t, g)}</figure><div class="pgw pwrap">'
             f'<p class="pkick"><a href="{url(g, "words/")}">{E(ps["kick"])}</a> · {t.get("emoji", "")} {E(t["name"].get(g) or t["name"]["ko"])} {when}</p>'
@@ -516,7 +519,10 @@ def main():
         arts = load_articles(g)
         home(g, d, arts, posts); dictionary(g); today_page(g, d, posts); life(g, arts); word_posts(g, posts, d)
     sitemap()
-    print('german: ok', NWORDS, 'words')
+    texts = sorted(german_say.TEXTS)
+    jdump('data/tts.json', sorted({german_say.h16(t) for t in texts}))
+    jdump('data/tts_texts.json', texts)
+    print('german: ok', NWORDS, 'words,', len(texts), 'German texts with listen buttons')
 
 if __name__ == '__main__':
     main()

@@ -342,3 +342,6 @@ body:has(.feat) .pgfoot{margin-top:72px}
 .pgred{color:#FF5A4E}
 .pgtop .pgred{color:#D9483B}
 .phero{background:none}
+
+.say.xs{display:inline-grid;width:24px;height:24px;margin:0 4px 0 3px;vertical-align:-5px;border-color:var(--line)}
+.say.xs svg{width:14px;height:14px}
