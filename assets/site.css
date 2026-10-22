@@ -74,7 +74,6 @@ header.top .bar{padding-top:6px;display:flex;flex-wrap:wrap;align-items:center;g
 nav.main{order:3;flex:1 0 100%;display:flex;flex-wrap:nowrap;gap:2px;min-width:0;overflow-x:auto;scrollbar-width:none;margin:0 -10px;padding:2px 0 8px}
 nav.main::-webkit-scrollbar{display:none}
 nav.main a{display:inline-flex;align-items:center;padding:9px 10px;border-radius:10px;color:var(--ink);text-decoration:none;font-weight:700;font-size:15.5px;white-space:nowrap}
-nav.main a[href$="/name/"]{background:var(--yellow-l)}nav.main a[href$="/name/"]:hover{background:var(--yellow)}
 header.top .acts .btn{white-space:nowrap}
 nav.main a:hover{background:var(--soft)}
 nav.main [aria-current]{color:var(--blue);background:var(--blue-l)}
@@ -108,7 +107,6 @@ nav.main .sub{display:none}
   nav.main .ni>a::after{content:"";position:absolute;left:14px;right:14px;bottom:-8px;height:4px;border-radius:4px 4px 0 0;background:var(--c);opacity:.55;transition:opacity .15s ease,left .15s ease,right .15s ease}
   nav.main .ni>a:hover,nav.main .ni>a[aria-current]{background:color-mix(in srgb,var(--c) 16%,#fff);color:var(--ink)}
   nav.main .ni>a:hover::after,nav.main .ni>a[aria-current]::after{opacity:1;left:0;right:0}
-  nav.main .ni>a[href$="/name/"]{background:var(--yellow-l)}
   nav.main .sub{display:block;position:absolute;left:0;top:100%;min-width:230px;padding:8px;background:#fff;border:1px solid var(--line);border-top:0;border-radius:0 0 14px 14px;box-shadow:0 24px 48px -24px rgba(20,24,56,.45);visibility:hidden;opacity:0;transform:translateY(-6px);transition:opacity .14s ease,transform .14s ease,visibility 0s linear .14s;pointer-events:none;z-index:5}
   nav.main .has:hover>.sub,nav.main .has:focus-within>.sub{visibility:visible;opacity:1;transform:none;transition-delay:.06s,.06s,0s;pointer-events:auto}
   nav.main .has:hover>a,nav.main .has:focus-within>a{background:color-mix(in srgb,var(--c) 16%,#fff)}
