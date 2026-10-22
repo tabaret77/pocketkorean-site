@@ -24,6 +24,15 @@ def audio_map():
                         _AUDIO.setdefault(norm(w['ex']), (a, 'ex'))
     return _AUDIO
 
+_TIDX = None
+def tts_index():
+    """hash -> [pack path, offset, length]; written by tools/tts_pack.py (GitHub Actions) after articles are published."""
+    global _TIDX
+    if _TIDX is None:
+        try: _TIDX = json.load(open(os.path.join(ROOT, 'media', 'tts', 'index.json'), encoding='utf-8'))
+        except (OSError, ValueError): _TIDX = {}
+    return _TIDX
+
 def norm(s):
     return re.sub(r'\s+', ' ', s).strip().rstrip('.!?').strip()
 
@@ -52,6 +61,9 @@ def attrs(t, tts):
         a, which = hit
         return f' data-pa="{H.escape(json.dumps(a))}" data-which="{which}"'
     tts.add(t)
+    pk = tts_index().get(tts_key(t))
+    if pk:   # pre-generated: a slice of a TTS pack in /media/tts/
+        return f' data-pa="{H.escape(json.dumps([pk[0], pk[1], pk[2], -1, 0]))}" data-which="w" data-t="{H.escape(t)}"'
     return f' data-t="{H.escape(t)}"'
 
 SPK = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">'

@@ -30,7 +30,7 @@
     var off = which === 'ex' ? a[3] : a[1], len = which === 'ex' ? a[4] : a[2];
     if (off < 0 || !len) return;
     if (btn) btn.disabled = true;
-    fetch(AUDIO + a[0], { headers: { Range: 'bytes=' + off + '-' + (off + len - 1) } })
+    fetch((a[0].charAt(0) === '/' ? a[0] : AUDIO + a[0]), { headers: { Range: 'bytes=' + off + '-' + (off + len - 1) } })
       .then(function (r) { if (!r.ok) throw 0; return r.arrayBuffer(); })
       .then(function (buf) {
         if (cur) { try { cur.pause(); } catch (e) {} }
@@ -61,7 +61,7 @@
     cur = a;
     var p = a.play(); if (p && p.catch) p.catch(fail);
   }
-  document.querySelectorAll('[data-t]').forEach(function (el) {
+  document.querySelectorAll('[data-t]:not([data-pa])').forEach(function (el) {
     var go = function (e) { e.preventDefault(); sayTTS(el.getAttribute('data-t'), el); };
     el.addEventListener('click', go);
     if (el.tagName !== 'BUTTON') el.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') go(e); });

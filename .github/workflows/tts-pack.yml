@@ -1,0 +1,30 @@
+name: Pre-generate article audio
+on:
+  push:
+    branches: [main]
+    paths: ['content/articles/**', 'tools/say.py', 'tools/tts_pack.py', '.github/workflows/tts-pack.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tts-pack
+  cancel-in-progress: false
+jobs:
+  pack:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r tools/requirements.txt
+      - run: python3 tools/tts_pack.py
+      - name: Commit audio packs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add media/tts
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -m "Article audio: pre-generated TTS"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
