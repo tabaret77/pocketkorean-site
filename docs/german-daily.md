@@ -32,7 +32,7 @@ The body is Markdown (tables, `## headings`, `![alt](/german/media/life/…jpg)`
 The workspace cannot download photos, so every picture is made with `tools/german_cards.py` (Chromium renders HTML; fonts: Noto Sans CJK, Noto Color Emoji). Make each image **in every language** (text inside the picture is in that language).
 
 - `news_cover(lang, date, hook, items, out, hook_red=…)` — cover of the briefing.
-- `news_card(lang, n, date, headline, out, keyword=…, big=…, big_unit=…, big_label=…, note=…, side=[(point, detail), …])` — one summary card per news item (white index card, number tab, headline with the keyword marked in gold, one key fact on a black tile, 2–3 check points).
+- `news_card(…)` — **not used**: news items have no card images.
 - `life_cover(lang, title, out, kicker=…, emoji=…, emojis=[…])` and `life_card(lang, heading, points=[(emoji, title, line), …], out)` — culture post pictures.
 - `render(html, w, h, out)` — anything else: a weather strip (cities × days with emoji icons and temperatures), a small map-like diagram, a timeline, a chart (or draw a chart with matplotlib and save as JPG). Keep text short and numbers big.
 
@@ -48,7 +48,7 @@ Run from the repository root, e.g. `python3 -c "import sys; sys.path.insert(0,'t
 **Structure** (each language written for its reader, not translated word for word):
 - Title — ko: `오늘의 독일 뉴스 (M/D 요일)｜<hook> + <item> + <item> + <item>` (full-width `｜`, ` + ` between items, hook first, most practical/surprising). en: `Germany today (Thu 22 Oct): <hook>, <item>, <item>`. ja: `今日のドイツニュース（10/22 木）｜<hook>＋<item>＋<item>`.
 - 2–3 friendly lines of intro (the cover from the front matter is shown above the post automatically — don't put it in the body again).
-- One `## n. headline` section per item, its summary card image (`news_card`), then a bold one-sentence summary, then 2–4 short paragraphs (what happened, who is affected, **what it means for you**). Use a small table only when facts are genuinely listable (dates, prices, who is affected); most items need none. End each item with a source line: `<p class="src">Source: <a href="…">tagesschau.de</a></p>` (ko: 출처, ja: 出典).
+- One `## n. headline` section per item, **bullet points only — no card image, no prose paragraphs**: 3–5 bullets, each `- **short key point** — one line of detail`. The first bullet carries the key fact (date, number, who); include one bullet on what it means for the reader (what to do, who is affected). Add a small table only when facts are genuinely listable. End each item with a source line: `<p class="src">Source: <a href="…">tagesschau.de</a></p>` (ko: 출처, ja: 出典).
 - `## 날씨 / Weather / 天気` with the weather image and table.
 - `## 오늘의 독일어 / German from today's news / 今日のニュースのドイツ語`: a table of 4–6 German words from the news (word with article · meaning · example from the news topic).
 - A one-line sign-off.
