@@ -1,0 +1,84 @@
+{
+  "key": "post",
+  "ko": {
+    "title": "택배 쪽지 받고 당황하지 않는 독일어 10",
+    "hook": "독일 우편함에서 노란 쪽지를 발견했다면, 오늘 단어가 바로 필요한 순간이에요.",
+    "intro": [
+      "온라인으로 주문한 택배를 기다리는데, 잠깐 장 보고 온 사이에 우편함에 쪽지 한 장이 들어 있어요. 택배는 어디 갔지? 우체국에 가야 하나? 쪽지에 적힌 독일어가 눈에 하나도 안 들어와요.",
+      "오늘은 편지 보내기부터 택배 찾기까지, 우체국과 택배에 꼭 필요한 단어 10개를 모았어요. 이 10개만 알면 한국으로 소포를 보내는 것도, 무인 보관함에서 택배를 꺼내는 것도 혼자 할 수 있어요. 📦"
+    ],
+    "words": {
+      "A1-217": {"pron": "포스트", "tip": "영어 post와 똑같아요 📮 ‘우체국’도 ‘우편물’도 다 die Post!", "bonus": "Ich gehe zur Post. = 우체국에 가요. · Hast du Post für mich? = 나한테 온 우편 있어?"},
+      "BL-12-02": {"pron": "브리프", "tip": "옛날엔 편지가 짧았나 봐요 ✉️ 라틴어 breve(짧은 글)에서 왔어요.", "warn": "영어 brief(짧은)와 헷갈리지 마세요. Brief는 ‘편지’예요."},
+      "BL-12-03": {"pron": "브리프마르케", "tip": "Brief(편지) + Marke(표) = 편지에 붙이는 표, 우표 🏷️", "bonus": "우편 요금은 das Porto라고 해요."},
+      "BL-12-01": {"pron": "파케트", "tip": "영어 packet이랑 닮았죠? 📦 끝 -et에 힘을 줘서 ‘파케-트’!", "bonus": "작은 소포는 das Päckchen이에요. -chen이 붙으니 das!"},
+      "BL-12-04": {"pron": "쉬켄", "tip": "쉭~ 하고 날려 보내는 느낌 💨 Ich schicke dir die Adresse!", "bonus": "현재완료: Ich habe das Paket geschickt."},
+      "A1-168": {"pron": "아드레세", "tip": "영어 address에서 d 하나 빼고, 끝에 e 하나 더 🏠", "warn": "철자 주의: Adresse는 d 하나, s 두 개예요."},
+      "BL-12-06": {"pron": "엠펭어", "tip": "empfangen(받다) + -er = 받는 사람 🙋 호텔 리셉션도 der Empfang!", "bonus": "반대말: 보내는 사람 = der Absender"},
+      "A2-121": {"pron": "리퍼룽", "tip": "liefern(배달하다) + -ung = 배달 🚚 -ung으로 끝나면 언제나 die!", "bonus": "동사 liefern도 같이: Wann wird das geliefert? = 언제 배달돼요?"},
+      "BL-12-08": {"pron": "압홀렌", "tip": "ab(떼어서) + holen(가져오다) = 찾아오다 🏃‍♀️ 사람을 데리러 갈 때도 써요.", "warn": "분리동사예요: Ich hole das Paket ab."},
+      "BL-12-09": {"pron": "팍슈타치온", "tip": "Pack(짐) + Station(정거장) = 택배가 쉬어 가는 정거장 🔐", "bonus": "보관함 문을 여는 번호는 der Code라고 해요."}
+    },
+    "culture": [
+      "독일에서는 택배 기사가 왔을 때 집에 없으면 이웃(Nachbar)에게 맡기는 경우가 많아요. 그러면 우편함에 ‘누구네 집에 맡겼어요’라는 쪽지가 들어와요. 이웃 택배를 대신 받아 주는 것도 아주 흔한 일이에요.",
+      "이웃에게도 못 맡기면 가까운 우체국 지점이나 택배 보관함으로 가는 경우가 많아요. 이때는 쪽지와 신분증을 챙겨서 abholen 하러 가면 돼요.",
+      "그리고 하나 더! 우편함(Briefkasten)과 초인종에 이름이 없으면 편지나 택배가 아예 안 올 수도 있어요. 이사하면 이름표부터 붙이세요. 🏷️"
+    ],
+    "quiz": {"q": "집에 없는 사이에 택배 쪽지가 왔어요. 오늘 우체국에 가서 뭘 해야 할까요?", "o": ["Ich schicke das Paket.", "Ich hole das Paket ab.", "Ich klebe eine Briefmarke."], "a": 1, "why": "abholen = 찾아오다. 우체국에 맡겨진 택배를 찾으러 가는 거예요."},
+    "outro": "오늘은 ‘Ich möchte dieses Paket nach Korea schicken.’을 소리 내서 세 번 말해 봐요. 다음에 우체국 창구에서 바로 나올 거예요! 📮"
+  },
+  "en": {
+    "title": "Post office German: 10 words for letters and parcels",
+    "hook": "Found a little card in your letterbox instead of your parcel? These are the words you need.",
+    "intro": [
+      "You're waiting for an online order. You pop out for ten minutes, and when you come back there's a card in your letterbox. Where's your parcel? Do you have to go to the post office? The German on the card makes no sense yet.",
+      "Today's ten words cover everything from sending a letter to collecting a parcel. With them you can post a package home, read the delivery card and use a parcel locker on your own. 📦"
+    ],
+    "words": {
+      "A1-217": {"pron": "POST", "tip": "Just like English post 📮 The post office and the mail are both die Post.", "bonus": "Hast du Post für mich? = Is there any post for me?"},
+      "BL-12-02": {"pron": "BREEF", "tip": "Letters used to be short ✉️ It comes from Latin breve, a short document.", "warn": "False friend: Brief = letter, not ‘brief’ (short)."},
+      "BL-12-03": {"pron": "BREEF-mar-kuh", "tip": "Brief (letter) + Marke (token) = the token you stick on a letter 🏷️", "bonus": "Postage is das Porto."},
+      "BL-12-01": {"pron": "pa-KATE", "tip": "Looks like English packet 📦 Stress the end: pa-KATE.", "bonus": "A small parcel is das Päckchen — -chen means das."},
+      "BL-12-04": {"pron": "SHICK-en", "tip": "Whoosh, off it goes 💨 Schick mir die Adresse! = Send me the address!", "bonus": "Perfect tense: Ich habe das Paket geschickt."},
+      "A1-168": {"pron": "a-DRESS-uh", "tip": "English address, minus one d, plus an e on the end 🏠", "warn": "Spelling: one d, double s — Adresse."},
+      "BL-12-06": {"pron": "emp-FENG-er", "tip": "empfangen (to receive) + -er = the receiver 🙋 Hotel reception is der Empfang.", "bonus": "The opposite: the sender = der Absender"},
+      "A2-121": {"pron": "LEE-fer-oong", "tip": "liefern (to deliver) + -ung = delivery 🚚 Words ending in -ung are always die.", "bonus": "Wann wird das geliefert? = When will it be delivered?"},
+      "BL-12-08": {"pron": "AP-hoh-len", "tip": "ab (off) + holen (fetch) = go and get it 🏃‍♀️ Works for people too: Ich hole dich ab.", "warn": "Separable verb: Ich hole das Paket ab."},
+      "BL-12-09": {"pron": "PACK-shta-tsyohn", "tip": "A station where parcels wait for you 🔐 Pack + Station, easy.", "bonus": "The number that opens the locker is der Code."}
+    },
+    "culture": [
+      "If you're not home, German couriers often leave your parcel with a neighbour (Nachbar) and put a card in your letterbox saying who has it. Taking in parcels for the people next door is completely normal.",
+      "If no neighbour can take it, the parcel usually goes to a nearby post office branch or a parcel locker. Take the card and your ID with you when you go to abholen it.",
+      "One more thing: if your name isn't on your letterbox (Briefkasten) and doorbell, your post may not arrive at all. After moving in, put your name up first. 🏷️"
+    ],
+    "quiz": {"q": "You missed a delivery and the card says your parcel is at the post office. What are you going to do?", "o": ["Ich schicke das Paket.", "Ich hole das Paket ab.", "Ich klebe eine Briefmarke."], "a": 1, "why": "abholen = to collect, so you go and pick your parcel up."},
+    "outro": "Say ‘Ich möchte dieses Paket nach Korea schicken.’ out loud three times — then try it with your own country. 📮"
+  },
+  "ja": {
+    "title": "不在票が来ても慌てない！郵便・宅配のドイツ語10",
+    "hook": "郵便受けに荷物ではなく小さなカードが入っていたら、今日の単語の出番です。",
+    "intro": [
+      "ネットで注文した荷物を待っているのに、ちょっと買い物に出たすきに郵便受けにカードが一枚。荷物はどこ？郵便局に行けばいいの？カードのドイツ語がまったく頭に入ってきません。",
+      "今日は手紙を出すところから荷物の受け取りまで、郵便と宅配に欠かせない単語を10個集めました。この10個があれば、日本へ小包を送るのも、宅配ロッカーから荷物を出すのも一人でできます。📦"
+    ],
+    "words": {
+      "A1-217": {"pron": "ポスト", "tip": "英語の post と同じ 📮 郵便局も郵便物も die Post です。", "bonus": "Hast du Post für mich? = 私あての郵便ある？"},
+      "BL-12-02": {"pron": "ブリーフ", "tip": "昔の手紙は短かった？✉️ ラテン語 breve（短い文書）から来ています。", "warn": "英語の brief（短い）とは別物。Brief は「手紙」です。"},
+      "BL-12-03": {"pron": "ブリーフマルケ", "tip": "Brief（手紙）+ Marke（しるし）= 手紙に貼るしるし、切手 🏷️", "bonus": "郵便料金は das Porto といいます。"},
+      "BL-12-01": {"pron": "パケート", "tip": "英語の packet にそっくり 📦 最後の「ケー」を強く！", "bonus": "小さめの小包は das Päckchen。-chen がつくので das です。"},
+      "BL-12-04": {"pron": "シッケン", "tip": "シュッと飛ばして送るイメージ 💨 Schick mir die Adresse! = 住所を送って！", "bonus": "現在完了：Ich habe das Paket geschickt."},
+      "A1-168": {"pron": "アドレッセ", "tip": "英語 address から d をひとつ取って、最後に e をプラス 🏠", "warn": "つづりに注意：d はひとつ、s はふたつで Adresse です。"},
+      "BL-12-06": {"pron": "エンプフェンガー", "tip": "empfangen（受け取る）+ -er = 受け取る人 🙋 ホテルのフロントも der Empfang！", "bonus": "反対は差出人 = der Absender"},
+      "A2-121": {"pron": "リーフェルング", "tip": "liefern（配達する）+ -ung = 配達 🚚 -ung で終わる名詞はいつも die！", "bonus": "Wann wird das geliefert? = いつ届きますか？"},
+      "BL-12-08": {"pron": "アップホーレン", "tip": "ab（離れて）+ holen（取ってくる）= 取りに行く 🏃‍♀️ 人を迎えに行くときにも使えます。", "warn": "分離動詞です：Ich hole das Paket ab."},
+      "BL-12-09": {"pron": "パックシュタツィオーン", "tip": "Pack（荷物）+ Station（駅）= 荷物が待っている駅 🔐", "bonus": "ロッカーを開ける番号は der Code です。"}
+    },
+    "culture": [
+      "ドイツでは留守のとき、配達員が荷物を近所の人（Nachbar）に預けることがよくあります。郵便受けには「〇〇さんに預けました」というカードが入ります。お隣さんの荷物を代わりに受け取るのもごく普通のことです。",
+      "近所に預けられないときは、近くの郵便局の窓口や宅配ロッカーに回されることが多いです。カードと身分証を持って abholen しに行きましょう。",
+      "もうひとつ。郵便受け（Briefkasten）と呼び鈴に名前がないと、手紙や荷物が届かないこともあります。引っ越したら、まず名札をつけましょう。🏷️"
+    ],
+    "quiz": {"q": "留守中に不在票が入っていて、荷物は郵便局にあるそうです。今日することは？", "o": ["Ich schicke das Paket.", "Ich hole das Paket ab.", "Ich klebe eine Briefmarke."], "a": 1, "why": "abholen = 取りに行く。郵便局に預けられた荷物を受け取りに行くことです。"},
+    "outro": "「Ich möchte dieses Paket nach Japan schicken.」を声に出して3回言ってみましょう。郵便局の窓口でさっと出てくるはずです！📮"
+  }
+}

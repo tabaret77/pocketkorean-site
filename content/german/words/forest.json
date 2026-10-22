@@ -1,0 +1,226 @@
+{
+  "key": "forest",
+  "ko": {
+    "title": "독일 숲을 걸으며 배우는 단어 10",
+    "hook": "독일 사람들에게 숲은 그냥 나무가 많은 곳이 아니라, 일요일의 쉼표예요.",
+    "intro": [
+      "베를린에 살아도 지하철 몇 정거장만 가면 숲이 나와요. 일요일 아침, 낙엽을 밟으며 걷다 보면 다람쥐가 나무를 타고 오르고, 길가엔 버섯이 쏙쏙. 같이 걷던 독일 친구가 “Schau mal, ein Reh!” 하는데, Reh가 뭐예요?",
+      "오늘은 숲에서 보고 듣는 단어 10개를 모았어요. 나무와 잎, 버섯과 동물까지 독일어로 이름을 불러 줄 수 있게 될 거예요. 🌳"
+    ],
+    "words": {
+      "A1-275": {
+        "pron": "발트",
+        "tip": "‘발’로 걸어 들어가는 곳 = 숲 🌲 슈바르츠발트(검은 숲)의 그 Wald!",
+        "warn": "복수는 움라우트: die Wälder."
+      },
+      "B2-894": {
+        "pron": "라우프바움",
+        "tip": "Laub(나뭇잎, 영어 leaf) + Baum(나무) = 잎이 넓은 나무 🍂",
+        "bonus": "반대는 der Nadelbaum = 침엽수 (Nadel = 바늘)"
+      },
+      "A2-214": {
+        "pron": "블라트",
+        "tip": "영어 blade처럼 납작한 잎 🍃 종이 한 장도 ein Blatt Papier!",
+        "bonus": "kein Blatt vor den Mund nehmen = 할 말은 거침없이 하다",
+        "warn": "복수는 die Blätter."
+      },
+      "B1-1031": {
+        "pron": "필츠",
+        "tip": "‘필’ 받아서 ‘츠’ 하고 솟아나는 버섯 🍄"
+      },
+      "B1-1886": {
+        "pron": "아스트",
+        "tip": "굵은 가지는 Ast, 가는 가지는 Zweig 🌿"
+      },
+      "B1-789": {
+        "pron": "홀츠",
+        "tip": "Holz로 만든 건 전부 ‘홀츠’하게 단단해요 🪵",
+        "bonus": "Klopf auf Holz! = 부정 타지 않게 나무를 두드리자!",
+        "warn": "살아 있는 나무는 der Baum, 재료로서의 나무는 das Holz예요."
+      },
+      "B2-2789": {
+        "pron": "슈탐",
+        "tip": "영어 stem과 같은 뿌리 🌳 나무를 ‘떠받치는’ 줄기!",
+        "bonus": "der Stammtisch = 단골 손님들의 고정 테이블"
+      },
+      "B2-2795": {
+        "pron": "아이헤",
+        "tip": "영어 oak과 같은 뿌리 🌰 도토리는 die Eichel!"
+      },
+      "B2-2800": {
+        "pron": "레",
+        "tip": "짧고 귀여운 이름처럼 ‘레~’ 🦌 숲 가장자리에서 자주 보여요."
+      },
+      "B2-2799": {
+        "pron": "아이히회른헨",
+        "tip": "Eiche(참나무)에 사는 작은 뿔(Hörnchen)? 귀 모양을 떠올려요 🐿️ -chen이니까 das!",
+        "bonus": "Mühsam ernährt sich das Eichhörnchen. = 조금씩, 꾸준히."
+      }
+    },
+    "culture": [
+      "독일 사람들은 숲 산책(Waldspaziergang)을 정말 좋아해요. 일반적으로 숲은 휴식을 위해 누구나 걸어 들어갈 수 있어요. 대신 정해진 길로 다니고, 쓰레기는 꼭 가져가는 게 기본 매너예요.",
+      "가을에는 버섯을 따러 숲에 가는 사람이 많아요. 하지만 독버섯과 헷갈리기 쉬우니 확실히 아는 것만 따야 해요. 지역에 따라 버섯 상담(Pilzberatung)을 받을 수 있는 곳도 있어요.",
+      "그림 형제 동화 속 헨젤과 그레텔, 빨간 모자도 모두 숲이 무대예요. 독일 숲을 걷다 보면 동화 속에 들어온 기분이 들 거예요. 🍄"
+    ],
+    "quiz": {
+      "q": "숲에서 친구가 나무를 타고 오르는, 꼬리가 복슬복슬한 작은 동물을 가리켜요. “Schau mal, ___!”",
+      "o": [
+        "ein Reh",
+        "ein Pilz",
+        "ein Eichhörnchen"
+      ],
+      "a": 2,
+      "why": "꼬리가 복슬복슬하고 나무를 타는 동물은 das Eichhörnchen, 다람쥐예요."
+    },
+    "outro": "다음 산책 때 나무 한 그루를 골라 Stamm, Ast, Blatt을 하나씩 짚어 보며 소리 내 말해 봐요. 🌿"
+  },
+  "en": {
+    "title": "Into the German woods: 10 words",
+    "hook": "For many Germans, the forest isn't just a lot of trees — it's how Sunday feels.",
+    "intro": [
+      "Even in Berlin, a few train stops take you into the woods. On a Sunday morning you crunch through fallen leaves, a squirrel races up a tree, and mushrooms pop up by the path. Then your German friend whispers, “Schau mal, ein Reh!” — a what?",
+      "Today's ten words are things you see and hear in the forest. You'll be able to name the trees, leaves, mushrooms and animals in German. 🌳"
+    ],
+    "words": {
+      "A1-275": {
+        "pron": "VALT",
+        "tip": "Take a walk in the Wald 🌲 As in Schwarzwald, the Black Forest.",
+        "warn": "Plural with umlaut: die Wälder."
+      },
+      "B2-894": {
+        "pron": "LOWP-bowm",
+        "tip": "Laub (foliage — think leaf) + Baum (tree) = a leafy tree 🍂",
+        "bonus": "The opposite: der Nadelbaum = conifer (Nadel = needle)"
+      },
+      "A2-214": {
+        "pron": "BLAHT",
+        "tip": "Flat like a blade 🍃 A sheet of paper is also ein Blatt Papier.",
+        "bonus": "kein Blatt vor den Mund nehmen = not to mince your words",
+        "warn": "Plural: die Blätter."
+      },
+      "B1-1031": {
+        "pron": "PILTS",
+        "tip": "Mushrooms pop up in piles — Pilze! 🍄"
+      },
+      "B1-1886": {
+        "pron": "AHST",
+        "tip": "A big branch is an Ast, a twig is a Zweig 🌿"
+      },
+      "B1-789": {
+        "pron": "HOLTS",
+        "tip": "Wood holds up houses — Holz 🪵",
+        "bonus": "Klopf auf Holz! = Knock on wood!",
+        "warn": "A living tree is der Baum; wood as a material is das Holz."
+      },
+      "B2-2789": {
+        "pron": "SHTAHM",
+        "tip": "Same root as English stem 🌳 The trunk holds the tree up.",
+        "bonus": "der Stammtisch = the regulars' table at a pub"
+      },
+      "B2-2795": {
+        "pron": "EYE-khuh",
+        "tip": "Same root as oak 🌰 An acorn is die Eichel."
+      },
+      "B2-2800": {
+        "pron": "RAY",
+        "tip": "Like ‘Ray’, a short name for a shy little deer 🦌 Look out at the edge of the forest.",
+        "warn": "das Reh is a roe deer, not a reindeer (das Rentier)."
+      },
+      "B2-2799": {
+        "pron": "EYEKH-hurn-khen",
+        "tip": "A little Hörnchen (horn) in the Eiche (oak)? Picture its pointy ears 🐿️ -chen means das!",
+        "bonus": "Mühsam ernährt sich das Eichhörnchen. = slowly but surely."
+      }
+    },
+    "culture": [
+      "Germans love a walk in the woods (Waldspaziergang). Generally anyone may enter the forest to relax, but people are expected to stay on paths and take their rubbish home.",
+      "In autumn many people go mushroom picking. Poisonous mushrooms are easy to confuse with edible ones, so only pick what you know for sure. Some areas offer mushroom advice (Pilzberatung).",
+      "Hansel and Gretel and Little Red Riding Hood — so many of the Grimm brothers' fairy tales are set in the forest. A walk in the German woods can feel like stepping into one. 🍄"
+    ],
+    "quiz": {
+      "q": "In the forest, your friend points at a small animal with a bushy tail climbing a tree. “Schau mal, ___!”",
+      "o": [
+        "ein Reh",
+        "ein Pilz",
+        "ein Eichhörnchen"
+      ],
+      "a": 2,
+      "why": "A bushy-tailed tree climber is das Eichhörnchen, a squirrel."
+    },
+    "outro": "On your next walk, pick a tree and point to its Stamm, Ast and Blatt, naming each one out loud. 🌿"
+  },
+  "ja": {
+    "title": "ドイツの森を歩きながら覚える10単語",
+    "hook": "ドイツの人にとって森は、木がたくさんある場所というより「日曜日のひと休み」です。",
+    "intro": [
+      "ベルリンに住んでいても、電車で数駅行けば森があります。日曜の朝、落ち葉を踏みながら歩くと、リスが木を駆けのぼり、道ばたにはきのこがちょこん。一緒に歩いていたドイツ人の友だちが「Schau mal, ein Reh!」とささやきます。Reh って何？",
+      "今日は森で見たり聞いたりする単語を10個集めました。木や葉っぱ、きのこや動物の名前をドイツ語で呼べるようになりますよ。🌳"
+    ],
+    "words": {
+      "A1-275": {
+        "pron": "ヴァルト",
+        "tip": "シュヴァルツヴァルト（黒い森）の Wald 🌲 ケーキの名前でもおなじみ！",
+        "warn": "複数形はウムラウト：die Wälder。"
+      },
+      "B2-894": {
+        "pron": "ラウプバウム",
+        "tip": "Laub（葉、英語 leaf）+ Baum（木）= 葉の広い木 🍂",
+        "bonus": "反対は der Nadelbaum = 針葉樹（Nadel = 針）"
+      },
+      "A2-214": {
+        "pron": "ブラット",
+        "tip": "英語の blade のように平たい葉 🍃 紙1枚も ein Blatt Papier！",
+        "bonus": "kein Blatt vor den Mund nehmen = 歯に衣着せない",
+        "warn": "複数形は die Blätter。"
+      },
+      "B1-1031": {
+        "pron": "ピルツ",
+        "tip": "地面から「ピッ」と飛び出すきのこ 🍄"
+      },
+      "B1-1886": {
+        "pron": "アスト",
+        "tip": "太い枝は Ast、細い枝は Zweig 🌿"
+      },
+      "B1-789": {
+        "pron": "ホルツ",
+        "tip": "家を支える（hold）木材 = Holz 🪵",
+        "bonus": "Klopf auf Holz! = 縁起が悪くならないよう木をたたこう！",
+        "warn": "生えている木は der Baum、材料としての木は das Holz です。"
+      },
+      "B2-2789": {
+        "pron": "シュタム",
+        "tip": "英語の stem と同じ語源 🌳 木を支える幹！",
+        "bonus": "der Stammtisch = 常連客の決まったテーブル"
+      },
+      "B2-2795": {
+        "pron": "アイヒェ",
+        "tip": "英語の oak と同じ語源 🌰 どんぐりは die Eichel！"
+      },
+      "B2-2800": {
+        "pron": "レー",
+        "tip": "短くてかわいい「レー」🦌 森のはずれでよく見かけます。"
+      },
+      "B2-2799": {
+        "pron": "アイヒヘルンヒェン",
+        "tip": "Eiche（オーク）にいる小さな角（Hörnchen）？とがった耳を想像して 🐿️ -chen だから das！",
+        "bonus": "Mühsam ernährt sich das Eichhörnchen. = 少しずつ、こつこつと。"
+      }
+    },
+    "culture": [
+      "ドイツの人は森の散歩（Waldspaziergang）が大好きです。一般に、森は休息のために誰でも入って歩けます。そのかわり決められた道を歩き、ごみは必ず持ち帰るのが基本のマナーです。",
+      "秋にはきのこ狩りに森へ行く人がたくさんいます。でも毒きのこと間違えやすいので、確実にわかるものだけを採りましょう。地域によってはきのこ相談（Pilzberatung）を受けられるところもあります。",
+      "ヘンゼルとグレーテル、赤ずきん…グリム童話の多くは森が舞台です。ドイツの森を歩くと、おとぎ話の中に入ったような気分になりますよ。🍄"
+    ],
+    "quiz": {
+      "q": "森で友だちが、ふさふさのしっぽで木をのぼる小さな動物を指さしました。「Schau mal, ___!」",
+      "o": [
+        "ein Reh",
+        "ein Pilz",
+        "ein Eichhörnchen"
+      ],
+      "a": 2,
+      "why": "ふさふさのしっぽで木にのぼる動物は das Eichhörnchen（リス）です。"
+    },
+    "outro": "次の散歩では木を1本選んで、Stamm、Ast、Blatt と指さしながら声に出してみましょう。🌿"
+  }
+}

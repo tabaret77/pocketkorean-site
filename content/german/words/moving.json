@@ -1,0 +1,84 @@
+{
+  "key": "moving",
+  "ko": {
+    "title": "상자 싸고, 나르고, 신고까지! 독일 이사 단어 10",
+    "hook": "독일에서 이사할 때 제일 무거운 건 상자가 아니라 처음 보는 단어들일지도 몰라요.",
+    "intro": [
+      "새 집 계약 완료! 기쁜 것도 잠시, 거실엔 빈 상자가 쌓이고 친구한테 ‘토요일에 이사 좀 도와줄래?’ 메시지를 독일어로 보내야 해요. 이사가 끝나면 관청에 주소 변경 신고도 기다리고 있고요.",
+      "오늘은 이사할 때 꼭 쓰는 단어 10개예요. 짐 싸기, 상자 나르기, 이삿짐 업체 부르기, 짐 풀기, 주소 신고까지 이 단어들로 이사 전 과정을 독일어로 말할 수 있어요. 📦"
+    ],
+    "words": {
+      "A2-053": {"pron": "움치엔", "tip": "um(바꿔서) + ziehen(옮기다) = 사는 곳을 바꿔 옮기기 🚚", "warn": "분리동사 + sein 완료: Wir ziehen um. / Wir sind umgezogen. sich를 붙이면 ‘옷 갈아입다’가 돼요!"},
+      "A2-612": {"pron": "움추크", "tip": "umziehen의 명사형 🏠 Kannst du mir beim Umzug helfen?", "bonus": "카니발 퍼레이드도 Umzug: der Karnevalsumzug"},
+      "A1-328": {"pron": "아우스치엔", "tip": "aus(밖으로) + ziehen(끌다) = 옷을 벗거나, 집에서 나가거나 👟", "warn": "옷을 벗었다는 hat ausgezogen, 이사 나갔다는 ist ausgezogen!"},
+      "A2-162": {"pron": "파켄", "tip": "영어 pack과 똑같아요 🧳 Koffer packen = 캐리어 싸기", "bonus": "Ich muss noch packen. = 아직 짐 싸야 해."},
+      "B2-2314": {"pron": "움축스카르통", "tip": "Umzug + s + Karton(종이상자) = 이사 상자 📦 중간의 s는 이어 붙이는 접착제!", "bonus": "책은 작은 상자에, 이불은 큰 상자에!"},
+      "A1-336": {"pron": "트라겐", "tip": "영어 drag와 같은 뿌리 💪 무거운 걸 질질 끌듯 나르는 tragen!", "warn": "불규칙: du trägst, er trägt. ‘입고 있다’는 뜻도 있어요."},
+      "B2-2315": {"pron": "움축스피르마", "tip": "Umzug + Firma(회사) = 이삿짐 회사 🚛 Firma는 영어 firm!", "bonus": "die Firma의 복수는 die Firmen"},
+      "B2-2394": {"pron": "클레베반트", "tip": "kleben(붙이다) + Band(띠) = 끈적한 띠 🩹 테이프 소리 ‘쫙~’과 함께!", "bonus": "일상에선 상표명으로 Tesa라고도 해요."},
+      "A2-302": {"pron": "아우스파켄", "tip": "aus + packen = 상자 밖으로 꺼내기 🎁 선물 포장 뜯기도 auspacken!", "warn": "분리동사: Ich packe aus. / Ich habe ausgepackt."},
+      "B2-2483": {"pron": "지히 움멜덴", "tip": "um(바꿔서) + melden(신고하다) = 주소를 바꿔 신고 📝 이사의 마지막 퀘스트!", "bonus": "처음 등록은 sich anmelden, 출국할 땐 sich abmelden"}
+    },
+    "culture": [
+      "독일에서는 이사하면 보통 2주 안에 관청(Bürgeramt)에 가서 주소를 신고해야 해요. 이때 집주인에게 받는 입주 확인서(Wohnungsgeberbestätigung)가 필요해요. 큰 도시에서는 예약 잡기가 어려울 수 있으니 미리 알아봐요.",
+      "이사는 친구들이 도와주는 경우가 많아요. 고마움의 표시로 피자나 음료를 대접하는 게 흔한 풍경이에요. 큰 차가 필요하면 이삿짐 차를 빌리기도 하고, 짐이 많으면 Umzugsfirma를 불러요.",
+      "그리고 깜짝 놀랄 수도 있는 사실! 독일 셋집은 부엌 가구가 없는 경우도 있어요. 계약하기 전에 Einbauküche(붙박이 부엌)가 있는지 꼭 확인해요. 🍳"
+    ],
+    "quiz": {"q": "친구가 ‘Am Samstag ziehe ich um. Kannst du mir helfen?’ 하고 문자를 보냈어요. 토요일에 뭘 하게 될까요?", "o": ["Wir gehen ins Kino.", "Wir tragen Umzugskartons.", "Wir ziehen uns um."], "a": 1, "why": "umziehen = 이사하다, 그러니 상자를 나르게 되겠죠. sich umziehen은 옷 갈아입기예요."},
+    "outro": "오늘은 방 안의 물건 세 개를 보며 ‘Das packe ich ein.’ 하고 소리 내 봐요. 이사 갈 일 없어도 연습은 공짜! 📦"
+  },
+  "en": {
+    "title": "Boxes, tape and paperwork: 10 German words for moving house",
+    "hook": "When you move house in Germany, the heaviest thing to carry might be the vocabulary.",
+    "intro": [
+      "You've signed for a new flat! The excitement lasts until the empty boxes pile up and you need to text a friend in German: ‘Can you help me move on Saturday?’ And once you've moved, there's the trip to register your new address.",
+      "Today's ten words take you through the whole move: packing, carrying boxes, booking a removal company, unpacking and registering your new address. 📦"
+    ],
+    "words": {
+      "A2-053": {"pron": "OOM-tsee-en", "tip": "um (change) + ziehen (to move) = change where you live 🚚", "warn": "Separable, perfect with sein: Wir ziehen um. / Wir sind umgezogen. Add sich and it means to get changed!"},
+      "A2-612": {"pron": "OOM-tsook", "tip": "The noun from umziehen 🏠 Kannst du mir beim Umzug helfen?", "bonus": "A carnival parade is also an Umzug: der Karnevalsumzug"},
+      "A1-328": {"pron": "OWSS-tsee-en", "tip": "aus (out, off) + ziehen (to pull) = pull off your clothes, or pull out of a flat 👟", "warn": "Clothes: hat ausgezogen. Moving out: ist ausgezogen."},
+      "A2-162": {"pron": "PACK-en", "tip": "Exactly like English pack 🧳 Koffer packen = to pack a suitcase", "bonus": "Ich muss noch packen. = I still have to pack."},
+      "B2-2314": {"pron": "OOM-tsooks-kar-tong", "tip": "Umzug + s + Karton (cardboard box) = moving box 📦 The s in the middle is the glue.", "bonus": "Books in small boxes, duvets in big ones!"},
+      "A1-336": {"pron": "TRAH-gen", "tip": "Same root as English drag 💪 You drag the heavy stuff, you tragen it.", "warn": "Irregular: du trägst, er trägt. It also means to wear."},
+      "B2-2315": {"pron": "OOM-tsooks-feer-ma", "tip": "Umzug + Firma (company) = removal firm 🚛 Firma ≈ firm.", "bonus": "Plural of die Firma: die Firmen"},
+      "B2-2394": {"pron": "KLAY-buh-bant", "tip": "kleben (to stick) + Band (strip) = a sticky strip 🩹", "bonus": "People often just say Tesa, a brand name."},
+      "A2-302": {"pron": "OWSS-pack-en", "tip": "aus + packen = take things out of the box 🎁 Unwrapping presents is auspacken too.", "warn": "Separable: Ich packe aus. / Ich habe ausgepackt."},
+      "B2-2483": {"pron": "zikh OOM-mel-den", "tip": "um (change) + melden (to register) = register the change 📝 The final boss of moving!", "bonus": "First registration: sich anmelden. Leaving the country: sich abmelden."}
+    },
+    "culture": [
+      "After moving in Germany you usually have to register your new address at the local citizens' office (Bürgeramt) within about two weeks. You'll need a confirmation from your landlord (Wohnungsgeberbestätigung). In big cities appointments can be hard to get, so plan ahead.",
+      "Friends often help each other move, and it's normal to thank them with pizza and drinks. People hire a van for the day, or book an Umzugsfirma if there's a lot to shift.",
+      "One thing that surprises many newcomers: rented flats in Germany don't always come with a kitchen. Before you sign, check whether there's an Einbauküche (fitted kitchen). 🍳"
+    ],
+    "quiz": {"q": "A friend texts: ‘Am Samstag ziehe ich um. Kannst du mir helfen?’ What will you be doing on Saturday?", "o": ["Wir gehen ins Kino.", "Wir tragen Umzugskartons.", "Wir ziehen uns um."], "a": 1, "why": "umziehen means to move house, so you'll be carrying boxes; sich umziehen means getting changed."},
+    "outro": "Look at three things in your room and say ‘Das packe ich ein.’ out loud. No move needed — practice is free! 📦"
+  },
+  "ja": {
+    "title": "荷造りから住所変更まで！ドイツの引っ越しで使う10語",
+    "hook": "ドイツの引っ越しでいちばん重いのは、段ボールより初めて見る単語かもしれません。",
+    "intro": [
+      "新しい部屋の契約完了！喜んだのもつかの間、リビングには空の段ボールが積み上がり、友だちに「土曜日、引っ越し手伝ってくれる？」とドイツ語でメッセージを送らないといけません。引っ越しが終われば、役所での住所変更も待っています。",
+      "今日は引っ越しで必ず使う10語です。荷造り、箱運び、引っ越し業者の手配、荷ほどき、住所の届け出まで、この単語で引っ越しの流れをすべてドイツ語で話せます。📦"
+    ],
+    "words": {
+      "A2-053": {"pron": "ウムツィーエン", "tip": "um（変えて）+ ziehen（移る）= 住む場所を変えて移る 🚚", "warn": "分離動詞で完了は sein：Wir ziehen um. / Wir sind umgezogen. sich を付けると「着替える」になります！"},
+      "A2-612": {"pron": "ウムツーク", "tip": "umziehen の名詞形 🏠 Kannst du mir beim Umzug helfen?", "bonus": "カーニバルのパレードも Umzug：der Karnevalsumzug"},
+      "A1-328": {"pron": "アウスツィーエン", "tip": "aus（外へ）+ ziehen（引く）= 服を脱ぐ、または部屋を出る 👟", "warn": "服を脱いだは hat ausgezogen、引っ越して出たは ist ausgezogen！"},
+      "A2-162": {"pron": "パッケン", "tip": "英語の pack とそっくり 🧳 Koffer packen = スーツケースに荷物を詰める", "bonus": "Ich muss noch packen. = まだ荷造りしなきゃ。"},
+      "B2-2314": {"pron": "ウムツークスカルトン", "tip": "Umzug + s + Karton（段ボール箱）= 引っ越し用の箱 📦 真ん中の s はつなぎの接着剤！", "bonus": "本は小さい箱、布団は大きい箱に！"},
+      "A1-336": {"pron": "トラーゲン", "tip": "英語の drag と同じ語源 💪 重い物をずるずる運ぶイメージで tragen！", "warn": "不規則：du trägst, er trägt。「身に着けている」の意味もあります。"},
+      "B2-2315": {"pron": "ウムツークスフィルマ", "tip": "Umzug + Firma（会社）= 引っ越し業者 🚛 Firma は英語の firm！", "bonus": "die Firma の複数形は die Firmen"},
+      "B2-2394": {"pron": "クレーベバント", "tip": "kleben（貼る）+ Band（帯）= ベタベタの帯 🩹", "bonus": "日常では商品名で Tesa とも呼びます。"},
+      "A2-302": {"pron": "アウスパッケン", "tip": "aus + packen = 箱から出す 🎁 プレゼントを開けるのも auspacken！", "warn": "分離動詞：Ich packe aus. / Ich habe ausgepackt."},
+      "B2-2483": {"pron": "ジッヒ ウムメルデン", "tip": "um（変えて）+ melden（届け出る）= 住所の変更届 📝 引っ越しの最終ミッション！", "bonus": "最初の登録は sich anmelden、出国するときは sich abmelden"}
+    },
+    "culture": [
+      "ドイツでは引っ越したら、ふつう2週間ほどのうちに役所（Bürgeramt）で住所を届け出ます。そのとき大家さんからもらう入居証明（Wohnungsgeberbestätigung）が必要です。大都市では予約が取りにくいこともあるので、早めに調べておきましょう。",
+      "引っ越しは友だち同士で手伝うことが多く、お礼にピザや飲み物をごちそうするのがよくある光景です。荷物が多ければ車を借りたり、Umzugsfirma に頼んだりします。",
+      "そして驚くかもしれないのが、ドイツの賃貸はキッチン家具が付いていないこともあるということ。契約前に Einbauküche（備え付けキッチン）があるか必ず確認しましょう。🍳"
+    ],
+    "quiz": {"q": "友だちから「Am Samstag ziehe ich um. Kannst du mir helfen?」とメッセージが来ました。土曜日は何をすることになりますか？", "o": ["Wir gehen ins Kino.", "Wir tragen Umzugskartons.", "Wir ziehen uns um."], "a": 1, "why": "umziehen は「引っ越す」なので箱を運ぶことに。sich umziehen は「着替える」です。"},
+    "outro": "今日は部屋の物を3つ見ながら「Das packe ich ein.」と声に出してみましょう。引っ越しの予定がなくても練習はタダです！📦"
+  }
+}

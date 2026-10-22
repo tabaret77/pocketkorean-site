@@ -1,0 +1,84 @@
+{
+  "key": "proverbs2",
+  "ko": {
+    "title": "한마디로 분위기 잡는 독일 속담 10",
+    "hook": "독일 사람이 대화 끝에 속담 하나를 툭 던질 때, 이제 웃으면서 받아칠 수 있어요.",
+    "intro": [
+      "회사 점심시간에 동료가 이사한 지 일주일 만에 세탁기까지 고장 났다고 한숨을 쉬었어요. 그러자 다른 동료가 “Ein Unglück kommt selten allein!” 하니까 다들 고개를 끄덕이며 웃더라고요. 저만 무슨 뜻인지 몰라서 따라 웃기만 했어요.",
+      "오늘은 독일 사람들이 일상에서 정말 자주 쓰는 속담 10개예요. 한국어나 영어에 비슷한 속담이 있는 것도 많아서 생각보다 쉽게 외워져요. 이 10개면 대화에 맛을 더할 수 있어요. 📜"
+    ],
+    "words": {
+      "C2-678": {"pron": "보 아인 빌레 이스트, 이스트 아우흐 아인 베크", "tip": "Wille(의지)와 Weg(길)가 둘 다 W로 시작 💪 영어 will, way와도 똑같아요!", "bonus": "의지력 = die Willenskraft"},
+      "C2-646": {"pron": "아인 운글뤼크 콤트 젤텐 알라인", "tip": "‘불행은 혼자 오는 일이 드물다’ ☔ 엎친 데 덮친 격!", "bonus": "가벼운 불운에는 Pech gehabt! (운이 나빴네!)"},
+      "C2-663": {"pron": "클라이더 마헨 로이테", "tip": "옷(Kleider)이 사람(Leute)을 만든다 👔 한국어 ‘옷이 날개’랑 똑같죠?", "bonus": "고트프리트 켈러의 단편 소설 제목으로도 유명해요."},
+      "C2-665": {"pron": "베어 추에어스트 콤트, 말트 추에어스트", "tip": "방앗간에 먼저 온 사람이 먼저 곡식을 빻는다 🌾 선착순!", "warn": "mahlt(빻다)는 malt(그리다)와 발음이 같아요. 철자에 h를 꼭 넣어요."},
+      "C2-4166": {"pron": "롬 이스트 아우흐 니히트 안 아이넴 타크 에어바우트 보르덴", "tip": "영어 Rome wasn't built in a day랑 같아요 🏛️ 독일어 공부에도 딱!", "bonus": "비슷한 속담: Gut Ding will Weile haben. (좋은 일엔 시간이 걸린다)"},
+      "C2-4161": {"pron": "안데레 렌더, 안데레 지텐", "tip": "다른 나라(Länder), 다른 풍습(Sitten) 🌏 앞뒤가 똑같은 리듬이라 외우기 쉬워요.", "bonus": "문화 충격 = der Kulturschock"},
+      "C2-4169": {"pron": "아우스 덴 아우겐, 아우스 뎀 진", "tip": "눈(Augen)에서 나가면 마음(Sinn)에서도 나간다 👀 영어 out of sight, out of mind!", "warn": "Augen은 복수라 den, Sinn은 단수라 dem이에요."},
+      "C2-4164": {"pron": "베어 니히트 바크트, 데어 니히트 게빈트", "tip": "wagen(감히 해 보다) 안 하면 gewinnen(이기다)도 없다 🎲", "bonus": "쉬운 버전으로 Wer nicht wagt, gewinnt nicht.라고도 해요."},
+      "C2-664": {"pron": "리버 덴 슈파츠 인 데어 한트 알스 디 타우베 아우프 뎀 다흐", "tip": "지붕 위 비둘기(Taube)보다 손안의 참새(Spatz) 🐦 확실한 게 최고!", "bonus": "같은 느낌의 표현: auf Nummer sicher gehen (안전하게 가다)"},
+      "C2-652": {"pron": "벤 디 카체 아우스 뎀 하우스 이스트, 탄첸 디 모이제 아우프 뎀 티쉬", "tip": "고양이가 나가면 쥐들이 식탁 위에서 춤춘다 🐭 사장님 휴가 때 사무실 풍경!", "bonus": "보통 앞부분만 말해요: Wenn die Katze aus dem Haus ist …"}
+    },
+    "culture": [
+      "독일 사람들은 대화 중에 속담을 자연스럽게 섞어 써요. 특히 친구가 힘든 이야기를 할 때 Ein Unglück kommt selten allein. 같은 속담으로 공감해 주거나, 맞장구를 칠 때 많이 써요.",
+      "긴 속담은 앞부분만 말하고 끝을 흐리는 경우도 많아요. Wenn die Katze aus dem Haus ist …라고만 해도 다들 뒷부분을 알아들어요. 그래서 속담은 끝까지 외워 두는 게 좋아요.",
+      "새로 독일에 온 사람에게 Andere Länder, andere Sitten.이라고 말해 주는 사람도 많아요. 낯선 문화에 당황할 때 한번 떠올려 보세요. 🌍"
+    ],
+    "quiz": {"q": "이벤트 자리는 예약이 안 되고, 먼저 오는 사람이 앉는대요. 어울리는 속담은?", "o": ["Kleider machen Leute.", "Wer zuerst kommt, mahlt zuerst.", "Aus den Augen, aus dem Sinn."], "a": 1, "why": "Wer zuerst kommt, mahlt zuerst. = 먼저 온 사람이 먼저 차지한다, 선착순이라는 뜻이에요."},
+    "outro": "오늘 속담 중 하나를 골라 이번 주에 꼭 한 번 써 봐요. 어렵다고요? Rom ist auch nicht an einem Tag erbaut worden! 😉"
+  },
+  "en": {
+    "title": "10 German proverbs to drop into any conversation",
+    "hook": "When a German ends a story with a proverb, you'll finally be able to smile and reply.",
+    "intro": [
+      "At lunch, a colleague sighs that a week after moving house, her washing machine has broken too. Someone says, “Ein Unglück kommt selten allein!” and everyone nods and laughs. You laugh along, without a clue what it means.",
+      "Today's ten proverbs are ones Germans really use in everyday life. Many have close English twins, so they're easier to learn than you'd think. They'll add a bit of flavour to your German. 📜"
+    ],
+    "words": {
+      "C2-678": {"pron": "voh ine VIL-uh ist, ist owkh ine VAYK", "tip": "Wille and Weg both start with W 💪 Just like will and way in English!", "bonus": "Willpower = die Willenskraft"},
+      "C2-646": {"pron": "ine OON-glook komt ZEL-ten a-LINE", "tip": "‘Misfortune rarely comes alone’ ☔ It never rains but it pours!", "bonus": "For small bad luck: Pech gehabt! (Bad luck!)"},
+      "C2-663": {"pron": "KLY-der MAKH-en LOY-tuh", "tip": "Clothes (Kleider) make people (Leute) 👔 Dress for the job you want!", "bonus": "Also famous as the title of a novella by Gottfried Keller."},
+      "C2-665": {"pron": "vair tsoo-AIRST komt, MAHLT tsoo-AIRST", "tip": "Whoever reaches the mill first grinds their grain first 🌾 First come, first served!", "warn": "mahlt (grinds) sounds exactly like malt (paints). Don't forget the h."},
+      "C2-4166": {"pron": "rohm ist owkh nikht an INE-em TAHK air-BOWT VOR-den", "tip": "The same as English ‘Rome wasn't built in a day’ 🏛️ Perfect for German learners!", "bonus": "A similar one: Gut Ding will Weile haben. (Good things take time.)"},
+      "C2-4161": {"pron": "AN-duh-ruh LEN-der, AN-duh-ruh ZIT-en", "tip": "Other countries (Länder), other customs (Sitten) 🌏 The matching rhythm makes it stick.", "bonus": "Culture shock = der Kulturschock"},
+      "C2-4169": {"pron": "ows dayn OW-gen, ows daym ZIN", "tip": "Out of the eyes (Augen), out of the mind (Sinn) 👀 Out of sight, out of mind!", "warn": "Augen is plural, so den; Sinn is singular, so dem."},
+      "C2-4164": {"pron": "vair nikht VAHKT, dair nikht guh-VINT", "tip": "If you don't wagen (dare), you don't gewinnen (win) 🎲 Nothing ventured, nothing gained.", "bonus": "A simpler version: Wer nicht wagt, gewinnt nicht."},
+      "C2-664": {"pron": "LEE-ber dayn SHPATS in dair HANT als dee TOW-buh owf daym DAKH", "tip": "Better the sparrow (Spatz) in your hand than the pigeon (Taube) on the roof 🐦", "bonus": "Same spirit: auf Nummer sicher gehen (to play it safe)"},
+      "C2-652": {"pron": "ven dee KAT-suh ows daym HOWS ist, TAN-tsen dee MOY-zuh owf daym TISH", "tip": "When the cat's out, the mice dance on the table 🐭 The office when the boss is on holiday!", "bonus": "People usually say only the first half: Wenn die Katze aus dem Haus ist …"}
+    },
+    "culture": [
+      "Germans mix proverbs into conversation quite naturally. When a friend tells you about a bad week, a proverb like Ein Unglück kommt selten allein. is a common way to show sympathy.",
+      "With long proverbs, people often say just the first half and let it trail off. Wenn die Katze aus dem Haus ist … is enough — everyone knows the rest. So it's worth learning the whole thing.",
+      "Newcomers to Germany often hear Andere Länder, andere Sitten. Keep it in mind when something about the culture surprises you. 🌍"
+    ],
+    "quiz": {"q": "Seats at the event can't be reserved: whoever comes first gets one. Which proverb fits?", "o": ["Kleider machen Leute.", "Wer zuerst kommt, mahlt zuerst.", "Aus den Augen, aus dem Sinn."], "a": 1, "why": "Wer zuerst kommt, mahlt zuerst. means ‘first come, first served’."},
+    "outro": "Pick one of today's proverbs and use it at least once this week. Sounds hard? Rom ist auch nicht an einem Tag erbaut worden! 😉"
+  },
+  "ja": {
+    "title": "会話に効くドイツのことわざ10",
+    "hook": "ドイツ人が話の最後にことわざをひとつ言ったとき、笑って返せるようになります。",
+    "intro": [
+      "会社のランチで、同僚が引っ越して一週間で洗濯機まで壊れたとため息をつきました。すると別の同僚が「Ein Unglück kommt selten allein!」と言い、みんながうなずいて笑います。私だけ意味がわからず、つられて笑うだけでした。",
+      "今日はドイツ人が日常で本当によく使うことわざを10個集めました。日本語や英語に似たことわざがあるものも多く、思ったより覚えやすいです。この10個で会話にちょっと味つけしましょう。📜"
+    ],
+    "words": {
+      "C2-678": {"pron": "ヴォー アイン ヴィレ イスト、イスト アウホ アイン ヴェーク", "tip": "Wille（意志）と Weg（道）はどちらも W で始まる 💪 英語の will と way も同じ！", "bonus": "意志の力 = die Willenskraft"},
+      "C2-646": {"pron": "アイン ウングリュック コムト ゼルテン アライン", "tip": "「不幸はめったに一人では来ない」☔ 泣き面に蜂！", "bonus": "ちょっとした不運には Pech gehabt!（ついてなかったね！）"},
+      "C2-663": {"pron": "クライダー マッヘン ロイテ", "tip": "服（Kleider）が人（Leute）を作る 👔 馬子にも衣装！", "bonus": "ゴットフリート・ケラーの短編小説のタイトルとしても有名です。"},
+      "C2-665": {"pron": "ヴェーア ツエーアスト コムト、マールト ツエーアスト", "tip": "粉ひき小屋に先に来た人が先に穀物をひく 🌾 早い者勝ち！", "warn": "mahlt（ひく）は malt（描く）と同じ発音。つづりの h を忘れずに。"},
+      "C2-4166": {"pron": "ローム イスト アウホ ニヒト アン アイネム ターク エアバウト ヴォルデン", "tip": "日本語の「ローマは一日にして成らず」と同じ 🏛️ ドイツ語の勉強にもぴったり！", "bonus": "似たことわざ：Gut Ding will Weile haben.（よいことには時間がかかる）"},
+      "C2-4161": {"pron": "アンデレ レンダー、アンデレ ズィッテン", "tip": "ちがう国（Länder）、ちがう習慣（Sitten）🌏 前後が同じリズムで覚えやすい！", "bonus": "カルチャーショック = der Kulturschock"},
+      "C2-4169": {"pron": "アウス デン アウゲン、アウス デム ズィン", "tip": "目（Augen）から出れば心（Sinn）からも出る 👀 去る者は日々に疎し！", "warn": "Augen は複数なので den、Sinn は単数なので dem です。"},
+      "C2-4164": {"pron": "ヴェーア ニヒト ヴァークト、デア ニヒト ゲヴィント", "tip": "wagen（思い切ってやる）しなければ gewinnen（勝つ）もない 🎲 虎穴に入らずんば虎子を得ず！", "bonus": "簡単な言い方で Wer nicht wagt, gewinnt nicht. とも言います。"},
+      "C2-664": {"pron": "リーバー デン シュパッツ イン デア ハント アルス ディー タウベ アウフ デム ダッハ", "tip": "屋根の上のハト（Taube）より手の中のスズメ（Spatz）🐦 確実なものがいちばん！", "bonus": "似た表現：auf Nummer sicher gehen（安全策をとる）"},
+      "C2-652": {"pron": "ヴェン ディー カッツェ アウス デム ハウス イスト、タンツェン ディー モイゼ アウフ デム ティッシュ", "tip": "猫が出かけるとネズミがテーブルで踊る 🐭 鬼の居ぬ間に洗濯！", "bonus": "ふつうは前半だけ言います：Wenn die Katze aus dem Haus ist …"}
+    },
+    "culture": [
+      "ドイツ人は会話の中で自然にことわざを使います。友だちが大変だった話をするとき、Ein Unglück kommt selten allein. のようなことわざで共感を示すのはよくあることです。",
+      "長いことわざは前半だけ言って、あとは濁すこともよくあります。Wenn die Katze aus dem Haus ist … と言うだけで、みんな続きがわかります。だからこそ最後まで覚えておくと安心です。",
+      "ドイツに来たばかりの人に Andere Länder, andere Sitten. と声をかける人も多いです。慣れない文化に戸惑ったら、思い出してみてください。🌍"
+    ],
+    "quiz": {"q": "イベントの席は予約できず、先に来た人から座れるそうです。合うことわざは？", "o": ["Kleider machen Leute.", "Wer zuerst kommt, mahlt zuerst.", "Aus den Augen, aus dem Sinn."], "a": 1, "why": "Wer zuerst kommt, mahlt zuerst. は「早い者勝ち」という意味です。"},
+    "outro": "今日のことわざからひとつ選んで、今週中に一度使ってみましょう。難しい？ Rom ist auch nicht an einem Tag erbaut worden! 😉"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "easter",
+  "ko": {
+    "title": "토끼가 달걀을 숨기는 날! 부활절 독일어 10",
+    "hook": "독일에서는 달걀을 닭이 아니라 토끼가 가져온다는 거, 알고 있었나요?",
+    "intro": [
+      "봄이 오면 독일 마트에 갑자기 초콜릿 토끼와 알록달록한 달걀이 가득해져요. 친구 집에 갔더니 아이들이 정원 덤불 속을 뒤지며 달걀을 찾고 있었고요. 다들 ‘Frohe Ostern!’ 하고 인사하는데, 저도 같이 끼고 싶었어요.",
+      "오늘은 부활절에 꼭 듣는 단어 10개예요. 이 10개면 부활절 인사를 하고, 달걀 찾기 놀이에도 끼고, 독일 봄 풍습 이야기도 나눌 수 있어요. 🐣"
+    ],
+    "words": {
+      "A2-685": {"pron": "오스턴", "tip": "영어 Easter랑 같은 뿌리예요 🐰 봄의 여신 Ostara에서 왔다는 설도 있어요.", "warn": "보통 관사 없이 써요: Frohe Ostern! · zu Ostern = 부활절에", "bonus": "부활절 일요일은 der Ostersonntag, 월요일은 der Ostermontag"},
+      "A1-023": {"pron": "아이", "tip": "‘아이’ 하나 ‘아이’ 둘… 아이들이 찾는 게 Ei예요 🥚", "warn": "복수는 die Eier예요.", "bonus": "부활절 달걀 = das Osterei"},
+      "B1-1971": {"pron": "하제", "tip": "영어 hare(산토끼)와 형제예요 🐇 부활절 토끼는 der Osterhase!", "warn": "n-변화 명사: den Hasen, dem Hasen. 집에서 키우는 토끼는 보통 das Kaninchen."},
+      "B1-2337": {"pron": "람", "tip": "영어 lamb에서 b만 m으로 바꾸면 끝 🐑", "warn": "복수는 움라우트 + -er: die Lämmer", "bonus": "부활절엔 양 모양 케이크 das Osterlamm을 굽는 집도 있어요."},
+      "B2-1332": {"pron": "브라우흐", "tip": "brauchen(쓰다)과 같은 뿌리 🏮 늘 써 온 방식이 곧 풍습!", "bonus": "복수는 die Bräuche · 풍습과 전통 = Sitten und Bräuche"},
+      "A2-434": {"pron": "분트", "tip": "라틴어 punctus(점)에서 왔다는 설 🎨 색깔 점이 콕콕 찍힌 느낌!", "bonus": "색연필 = der Buntstift"},
+      "A1-614": {"pron": "프뤼야", "tip": "früh(이른) + Jahr(해) = 한 해의 이른 때 🌷 마지막이 das Jahr라서 das!", "bonus": "같은 뜻으로 der Frühling도 많이 써요."},
+      "B1-1354": {"pron": "지히 페어슈테켄", "tip": "‘숨어서 딱 붙어(stecken) 있기’ 🙈 숨바꼭질은 Verstecken spielen!", "warn": "sich 없이 쓰면 ‘~을 숨기다’예요: Der Osterhase versteckt die Eier."},
+      "B2-2813": {"pron": "네스트", "tip": "영어 nest와 철자까지 똑같아요 🪺", "warn": "복수는 die Nester", "bonus": "das Osternest = 아이들 부활절 선물 바구니"},
+      "B2-3488": {"pron": "퀴켄", "tip": "영어 chicken과 같은 뿌리 🐣 삐약삐약 퀴켄!", "bonus": "모임의 막내도 장난스럽게 das Küken이라고 불러요."}
+    },
+    "culture": [
+      "독일에서는 부활절 전 금요일(Karfreitag)과 부활절 다음 월요일(Ostermontag)이 공휴일이라서 긴 주말이 돼요. 특히 Karfreitag는 조용히 보내는 날이라 지역에 따라 춤 파티 같은 행사가 제한되기도 해요.",
+      "부활절 일요일 아침에는 아이들이 집이나 정원에서 Osterhase가 숨겨 둔 달걀과 초콜릿을 찾아요. 나뭇가지에 색칠한 달걀을 매다는 Osterstrauch도 흔한 장식이에요.",
+      "지역마다 풍습도 달라요. 북부에서는 큰 모닥불(Osterfeuer)을 피우고, 프랑켄 지방에서는 우물을 달걀로 꾸민 Osterbrunnen을 볼 수 있어요. 🔥"
+    ],
+    "quiz": {"q": "아이들이 정원에서 달걀을 찾고 있어요. 빈칸에 알맞은 말은? ‘Der Osterhase hat die Eier ___.’", "o": ["versteckt", "gefeiert", "gelandet"], "a": 0, "why": "verstecken = 숨기다예요. 부활절 토끼가 달걀을 숨겨 놓은 거죠."},
+    "outro": "오늘은 ‘Frohe Ostern!’과 ‘Der Osterhase versteckt die Eier.’를 소리 내서 말해 봐요. 봄이 오면 바로 써먹을 수 있어요! 🌷"
+  },
+  "en": {
+    "title": "Bunnies, eggs and bonfires: 10 German Easter words",
+    "hook": "In Germany it isn't the hen that brings the eggs at Easter — it's a hare.",
+    "intro": [
+      "Come spring, German supermarkets suddenly fill up with chocolate bunnies and brightly coloured eggs. At a friend's place, the kids are digging through the bushes in the garden looking for eggs, and everyone is saying ‘Frohe Ostern!’",
+      "Today's ten words are the ones you'll hear around Easter. With them you can wish people a happy Easter, join in an egg hunt and chat about German spring traditions. 🐣"
+    ],
+    "words": {
+      "A2-685": {"pron": "OHS-tern", "tip": "Same root as English Easter 🐰 It may come from Ostara, a spring goddess.", "warn": "Usually no article: Frohe Ostern! · zu Ostern = at Easter", "bonus": "Easter Sunday = der Ostersonntag · Easter Monday = der Ostermontag"},
+      "A1-023": {"pron": "EYE", "tip": "Keep an ‘eye’ out for the Ei at the egg hunt 🥚", "warn": "The plural is die Eier.", "bonus": "Easter egg = das Osterei"},
+      "B1-1971": {"pron": "HAH-zuh", "tip": "A sibling of English hare 🐇 The Easter bunny is der Osterhase.", "warn": "It's a weak noun: den Hasen, dem Hasen. A pet rabbit is usually das Kaninchen."},
+      "B1-2337": {"pron": "LAHM", "tip": "English lamb, minus the silent b plus an extra m 🐑", "warn": "The plural adds an umlaut and -er: die Lämmer", "bonus": "Some families bake a lamb-shaped cake for Easter: das Osterlamm."},
+      "B2-1332": {"pron": "BROWKH", "tip": "Same root as brauchen (to use) 🏮 A custom is the way things have always been done.", "bonus": "plural: die Bräuche · customs and traditions = Sitten und Bräuche"},
+      "A2-434": {"pron": "BOONT", "tip": "Possibly from Latin punctus (dot) 🎨 Picture dots of every colour.", "bonus": "coloured pencil = der Buntstift"},
+      "A1-614": {"pron": "FREW-yar", "tip": "früh (early) + Jahr (year) = the early part of the year 🌷 Ends in das Jahr, so it's das.", "bonus": "der Frühling means the same and is very common."},
+      "B1-1354": {"pron": "zikh fair-SHTECK-en", "tip": "Think of yourself stuck (stecken) somewhere out of sight 🙈 Hide-and-seek is Verstecken spielen.", "warn": "Without sich it means to hide something: Der Osterhase versteckt die Eier."},
+      "B2-2813": {"pron": "NEST", "tip": "Spelt exactly like English nest 🪺", "warn": "The plural is die Nester.", "bonus": "das Osternest = a child's basket of Easter treats"},
+      "B2-3488": {"pron": "KEW-ken", "tip": "Same root as English chicken 🐣 Cheep cheep, Küken!", "bonus": "The youngest in a group is jokingly called das Küken too."}
+    },
+    "culture": [
+      "In Germany, Good Friday (Karfreitag) and Easter Monday (Ostermontag) are public holidays, so Easter means a long weekend. Karfreitag is a quiet day, and in many states events like dance parties are restricted.",
+      "On Easter Sunday morning, children search the house or garden for eggs and chocolate the Osterhase has hidden. A popular decoration is the Osterstrauch: branches in a vase hung with painted eggs.",
+      "Customs vary by region. In the north people light big Easter bonfires (Osterfeuer), and in Franconia you can see Osterbrunnen — village fountains decorated with eggs. 🔥"
+    ],
+    "quiz": {"q": "The children are searching the garden for eggs. Fill the gap: ‘Der Osterhase hat die Eier ___.’", "o": ["versteckt", "gefeiert", "gelandet"], "a": 0, "why": "verstecken means to hide — the Easter bunny has hidden the eggs."},
+    "outro": "Say ‘Frohe Ostern!’ and ‘Der Osterhase versteckt die Eier.’ out loud today. You'll be ready the moment spring arrives! 🌷"
+  },
+  "ja": {
+    "title": "ウサギが卵を隠す日！イースターのドイツ語10",
+    "hook": "ドイツでは、イースターの卵を持ってくるのはニワトリではなくウサギだって知っていましたか？",
+    "intro": [
+      "春になると、ドイツのスーパーは急にチョコレートのウサギやカラフルな卵でいっぱいに。友だちの家に行くと、子どもたちが庭の茂みをかき分けて卵を探していました。みんなが「Frohe Ostern!」とあいさつしていて、私も仲間に入りたくなりました。",
+      "今日はイースターによく聞く単語を10個集めました。これでイースターのあいさつをして、卵探しにも参加して、ドイツの春の風習について話せます。🐣"
+    ],
+    "words": {
+      "A2-685": {"pron": "オースターン", "tip": "英語の Easter と同じ語源 🐰 春の女神 Ostara から来たという説もあります。", "warn": "ふつう冠詞なしで使います：Frohe Ostern!・zu Ostern = イースターに", "bonus": "イースターの日曜日は der Ostersonntag、月曜日は der Ostermontag"},
+      "A1-023": {"pron": "アイ", "tip": "「アイ」と言えば愛…ではなく卵 🥚 短くてかわいい単語です。", "warn": "複数形は die Eier です。", "bonus": "イースターエッグ = das Osterei"},
+      "B1-1971": {"pron": "ハーゼ", "tip": "英語の hare（ノウサギ）と兄弟 🐇 イースターバニーは der Osterhase！", "warn": "男性弱変化名詞：den Hasen, dem Hasen。ペットのウサギはふつう das Kaninchen。"},
+      "B1-2337": {"pron": "ラム", "tip": "英語の lamb の b を m に変えるだけ 🐑", "warn": "複数形はウムラウト + -er：die Lämmer", "bonus": "イースターに子羊の形のケーキ das Osterlamm を焼く家庭もあります。"},
+      "B2-1332": {"pron": "ブラウホ", "tip": "brauchen（使う）と同じ語源 🏮 ずっと使われてきたやり方が風習！", "bonus": "複数形は die Bräuche・風俗習慣 = Sitten und Bräuche"},
+      "A2-434": {"pron": "ブント", "tip": "ラテン語 punctus（点）からという説 🎨 色の点がぽつぽつ並ぶイメージ！", "bonus": "色鉛筆 = der Buntstift"},
+      "A1-614": {"pron": "フリューヤール", "tip": "früh（早い）+ Jahr（年）= 一年の早い時期 🌷 最後が das Jahr なので das！", "bonus": "同じ意味で der Frühling もよく使います。"},
+      "B1-1354": {"pron": "ズィッヒ フェアシュテッケン", "tip": "どこかにすっぽり差し込まれて（stecken）見えなくなるイメージ 🙈 かくれんぼは Verstecken spielen！", "warn": "sich なしだと「〜を隠す」：Der Osterhase versteckt die Eier."},
+      "B2-2813": {"pron": "ネスト", "tip": "英語の nest とつづりまで同じ 🪺", "warn": "複数形は die Nester", "bonus": "das Osternest = 子どもへのイースターのプレゼントかご"},
+      "B2-3488": {"pron": "キューケン", "tip": "英語の chicken と同じ語源 🐣 ピヨピヨ、キューケン！", "bonus": "グループの最年少も冗談で das Küken と呼びます。"}
+    },
+    "culture": [
+      "ドイツではイースター前の金曜日（Karfreitag）と翌日の月曜日（Ostermontag）が祝日なので、長い週末になります。Karfreitag は静かに過ごす日で、州によってはダンスパーティーなどの催しが制限されます。",
+      "イースターの日曜日の朝、子どもたちは Osterhase が家や庭に隠した卵やチョコレートを探します。枝に色を塗った卵を飾る Osterstrauch もおなじみの飾りです。",
+      "風習は地域によっても違います。北部では大きなたき火（Osterfeuer）をたき、フランケン地方では泉を卵で飾った Osterbrunnen が見られます。🔥"
+    ],
+    "quiz": {"q": "子どもたちが庭で卵を探しています。空欄に入るのは？「Der Osterhase hat die Eier ___.」", "o": ["versteckt", "gefeiert", "gelandet"], "a": 0, "why": "verstecken は「隠す」で、イースターバニーが卵を隠したということです。"},
+    "outro": "今日は「Frohe Ostern!」と「Der Osterhase versteckt die Eier.」を声に出して言ってみましょう。春が来たらすぐに使えますよ！🌷"
+  }
+}

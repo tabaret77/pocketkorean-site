@@ -1,0 +1,84 @@
+{
+  "key": "oktoberfest",
+  "ko": {
+    "title": "Prost! 옥토버페스트를 200% 즐기는 단어 10",
+    "hook": "1리터 맥주잔을 들기 전에, 이 단어들부터 챙겨 가세요.",
+    "intro": [
+      "뮌헨의 거대한 맥주 텐트 안, 브라스 밴드가 연주를 시작하자 다들 벤치 위로 올라가 잔을 부딪쳐요. 옆자리 아저씨가 “Prost!” 하고 웃는데, 뭐라고 답해야 할지 몰라 그냥 웃기만 했어요.",
+      "오늘은 옥토버페스트와 독일 축제에서 꼭 듣는 단어 10개예요. 이 10개면 맥주 주문부터 건배, 다음 날 숙취 고백까지 할 수 있어요. 🍻"
+    ],
+    "words": {
+      "A1-251": {"pron": "비어", "tip": "영어 beer와 거의 같아요 🍺 읽는 법만 ‘비어’!", "warn": "주문할 땐 복수형 없이: Zwei Bier, bitte!"},
+      "B1-1045": {"pron": "프로스트", "tip": "라틴어 prosit(도움이 되기를!)에서 왔어요 🥂 건배는 건강을 비는 말!", "bonus": "잔을 부딪칠 땐 상대 눈을 보는 게 독일 매너예요."},
+      "B2-1333": {"pron": "폴크스페스트", "tip": "Volk(사람들, 영어 folk) + Fest(축제) = 모두의 축제 🎡", "bonus": "축제에 놀이기구, 먹거리가 있으면 거의 다 Volksfest예요."},
+      "A2-224": {"pron": "페스트", "tip": "영어 feast, festival과 같은 뿌리 🎉 축제는 Fest!", "bonus": "크리스마스 인사: Frohes Fest!"},
+      "B1-2050": {"pron": "바이에리슈", "tip": "Bayern(바이에른) + -isch = 바이에른의 🥨 형용사는 -isch!", "bonus": "줄여서 bayrisch라고도 써요."},
+      "B1-130": {"pron": "트라디치온", "tip": "영어 tradition과 철자까지 거의 똑같아요 📜 발음만 ‘트라디치온’!", "warn": "-ion으로 끝나면 언제나 die예요."},
+      "B2-3379": {"pron": "크루크", "tip": "영어 crock(항아리)과 친척 🍺 손잡이 달린 묵직한 잔!", "bonus": "옥토버페스트의 1리터 잔은 der Maßkrug, 그 맥주 한 잔은 die Maß예요."},
+      "B2-3103": {"pron": "카펠레", "tip": "작은 예배당도, 악단도 Kapelle 🎺 축제 텐트에서는 당연히 악단!", "bonus": "관악단 = die Blaskapelle"},
+      "B1-519": {"pron": "베트룽켄", "tip": "trinken(마시다)의 과거분사 모양 🥴 너무 마셔 버린 상태!", "bonus": "살짝 취했을 땐 beschwipst, 귀엽게 말하는 표현이에요."},
+      "C2-1831": {"pron": "카터", "tip": "숙취가 ‘수고양이’라니! 🐈 다음 날 머릿속에서 고양이가 울어요.", "bonus": "Ich habe einen Kater. = 숙취가 있어요."}
+    },
+    "culture": [
+      "옥토버페스트는 이름과 달리 9월에 시작해서 10월 초에 끝나요. 1810년 바이에른 왕세자의 결혼을 축하하던 행사에서 시작됐다고 해요.",
+      "텐트 안에서는 맥주를 보통 1리터짜리 잔(Maß)으로 마셔요. 디른들(Dirndl)과 레더호젠(Lederhosen)을 입은 사람도 정말 많고, 브라스 밴드가 노래하면 다 같이 따라 불러요.",
+      "뮌헨까지 못 가도 괜찮아요. 슈투트가르트의 칸슈타터 바젠(Cannstatter Wasen)처럼 독일 곳곳에 비슷한 Volksfest가 열리거든요. 🎡"
+    ],
+    "quiz": {"q": "맥주 텐트에서 다 같이 잔을 들어 올려요. 뭐라고 말할까요?", "o": ["Prost!", "Gute Besserung!", "Ich habe einen Kater."], "a": 0, "why": "Prost! = 건배! 잔을 부딪칠 때 하는 말이에요."},
+    "outro": "오늘 저녁 음료를 마실 때 Prost! 하고 소리 내서 건배해 봐요. 단, 내일 Kater는 없기로 약속! 🍻"
+  },
+  "en": {
+    "title": "Oktoberfest in 10 words: from Prost to the morning after",
+    "hook": "Before you lift a one-litre beer mug, pack these words.",
+    "intro": [
+      "You're in a huge beer tent in Munich. The brass band strikes up, everyone climbs onto the benches and clinks glasses, and the man next to you grins and shouts ‘Prost!’ You just smile back, not sure what to say.",
+      "Today's ten words are the ones you'll hear at Oktoberfest and other German festivals. With them you can order a beer, raise a toast and confess to a hangover the next day. 🍻"
+    ],
+    "words": {
+      "A1-251": {"pron": "BEER", "tip": "Almost exactly English beer 🍺", "warn": "No plural when ordering: Zwei Bier, bitte!"},
+      "B1-1045": {"pron": "PROHST", "tip": "From Latin prosit, ‘may it do you good’ 🥂 A toast is a wish for good health.", "bonus": "Look the other person in the eye when you clink — it's German etiquette."},
+      "B2-1333": {"pron": "FOLKS-fest", "tip": "Volk (people, folk) + Fest (festival) = a festival for everyone 🎡", "bonus": "If there are rides and food stalls, it's probably a Volksfest."},
+      "A2-224": {"pron": "FEST", "tip": "Same root as feast and festival 🎉", "bonus": "At Christmas: Frohes Fest!"},
+      "B1-2050": {"pron": "BY-er-ish", "tip": "Bayern (Bavaria) + -isch = Bavarian 🥨 Adjectives love -isch.", "bonus": "Also spelt bayrisch."},
+      "B1-130": {"pron": "tra-dee-TSYOHN", "tip": "Spelt almost like English tradition 📜 just say it the German way.", "warn": "Nouns ending in -ion are always die."},
+      "B2-3379": {"pron": "KROOK", "tip": "A relative of English crock 🍺 a heavy mug with a handle.", "bonus": "The one-litre mug at Oktoberfest is der Maßkrug, and a litre of beer is die Maß."},
+      "B2-3103": {"pron": "ka-PEL-uh", "tip": "Both a little chapel and a band 🎺 In a beer tent, it's the band!", "bonus": "brass band = die Blaskapelle"},
+      "B1-519": {"pron": "be-TROONK-en", "tip": "Looks like a past participle of trinken 🥴 You've drunk too much!", "bonus": "Just a bit tipsy? That's beschwipst."},
+      "C2-1831": {"pron": "KAH-ter", "tip": "A hangover is a tomcat 🐈 — yowling in your head the next morning.", "bonus": "Ich habe einen Kater. = I've got a hangover."}
+    },
+    "culture": [
+      "Despite its name, Oktoberfest starts in September and ends in early October. It goes back to celebrations of a Bavarian royal wedding in 1810.",
+      "In the tents, beer usually comes in a one-litre mug (Maß). Lots of people wear Dirndl and Lederhosen, and when the band plays, the whole tent sings along.",
+      "Can't make it to Munich? No problem — there are similar Volksfeste all over Germany, like the Cannstatter Wasen in Stuttgart. 🎡"
+    ],
+    "quiz": {"q": "Everyone in the beer tent raises their glass. What do you say?", "o": ["Prost!", "Gute Besserung!", "Ich habe einen Kater."], "a": 0, "why": "Prost! = Cheers! It's what you say when you clink glasses."},
+    "outro": "Say Prost! out loud with your next drink tonight. Just promise there'll be no Kater tomorrow! 🍻"
+  },
+  "ja": {
+    "title": "Prost! オクトーバーフェストを楽しむドイツ語10",
+    "hook": "1リットルのジョッキを持ち上げる前に、この単語を持っていきましょう。",
+    "intro": [
+      "ミュンヘンの巨大なビールテント。ブラスバンドの演奏が始まると、みんなベンチに立ってジョッキを鳴らします。隣のおじさんが笑顔で「Prost!」と言ってくれたのに、何と返せばいいかわからず、ただ笑うだけでした。",
+      "今日はオクトーバーフェストやドイツのお祭りで必ず聞く単語を10個集めました。ビールの注文から乾杯、翌日の二日酔いの告白まで、この10個でばっちりです。🍻"
+    ],
+    "words": {
+      "A1-251": {"pron": "ビーア", "tip": "英語の beer とほぼ同じ 🍺 読み方だけ「ビーア」！", "warn": "注文するときは複数形にしません：Zwei Bier, bitte!"},
+      "B1-1045": {"pron": "プロースト", "tip": "ラテン語の prosit（役に立ちますように）から 🥂 乾杯は健康を願う言葉！", "bonus": "グラスを合わせるときは相手の目を見るのがドイツ流です。"},
+      "B2-1333": {"pron": "フォルクスフェスト", "tip": "Volk（人々、英語の folk）+ Fest（祭り）= みんなのお祭り 🎡", "bonus": "乗り物や屋台があるお祭りは、たいてい Volksfest です。"},
+      "A2-224": {"pron": "フェスト", "tip": "英語の feast、festival と同じ語源 🎉 お祭りは Fest！", "bonus": "クリスマスのあいさつ：Frohes Fest!"},
+      "B1-2050": {"pron": "バイエリッシュ", "tip": "Bayern（バイエルン）+ -isch = バイエルンの 🥨 形容詞は -isch！", "bonus": "短く bayrisch とも書きます。"},
+      "B1-130": {"pron": "トラディツィオーン", "tip": "英語の tradition とつづりもほぼ同じ 📜 発音だけドイツ風に！", "warn": "-ion で終わる名詞はいつも die です。"},
+      "B2-3379": {"pron": "クルーク", "tip": "英語の crock（つぼ）の親戚 🍺 取っ手のついたどっしりしたジョッキ！", "bonus": "オクトーバーフェストの1リットルジョッキは der Maßkrug、その1杯は die Maß です。"},
+      "B2-3103": {"pron": "カペレ", "tip": "小さな礼拝堂も楽団も Kapelle 🎺 お祭りのテントならもちろん楽団！", "bonus": "吹奏楽団 = die Blaskapelle"},
+      "B1-519": {"pron": "ベトルンケン", "tip": "trinken（飲む）の過去分詞のような形 🥴 飲みすぎちゃった状態！", "bonus": "ほろ酔いなら beschwipst。かわいい言い方です。"},
+      "C2-1831": {"pron": "カーター", "tip": "二日酔いが「オス猫」！🐈 翌朝、頭の中で猫が鳴いています。", "bonus": "Ich habe einen Kater. = 二日酔いです。"}
+    },
+    "culture": [
+      "オクトーバーフェストは名前に反して9月に始まり、10月初めに終わります。1810年、バイエルンの皇太子の結婚を祝った行事が始まりだそうです。",
+      "テントの中では、ビールはふつう1リットルのジョッキ（Maß）で出てきます。ディアンドル（Dirndl）やレーダーホーゼン（Lederhosen）を着た人もたくさんいて、バンドが演奏するとテント中で大合唱になります。",
+      "ミュンヘンまで行けなくても大丈夫。シュトゥットガルトのカンシュタッター・ヴァーゼン（Cannstatter Wasen）のように、ドイツ各地で似た Volksfest が開かれています。🎡"
+    ],
+    "quiz": {"q": "ビールテントでみんながジョッキを持ち上げました。何と言いますか？", "o": ["Prost!", "Gute Besserung!", "Ich habe einen Kater."], "a": 0, "why": "Prost! = 乾杯！グラスを合わせるときに言う言葉です。"},
+    "outro": "今夜の一杯で、Prost! と声に出して乾杯してみましょう。ただし明日の Kater はなしでお願いします！🍻"
+  }
+}

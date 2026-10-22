@@ -1,0 +1,84 @@
+{
+  "key": "supermarket",
+  "ko": {
+    "title": "장보기 전에 챙겨 갈 독일어 10",
+    "hook": "독일 마트 계산대는 생각보다 빨라요. 단어는 미리 장바구니에 담아 가요!",
+    "intro": [
+      "독일에 와서 처음 마트에 간 날, 카트가 줄줄이 묶여 안 빠지더라고요. 겨우 장을 보고 계산대에 섰더니 점원이 뭔가 빠르게 묻고, 뒤에서는 벌써 다음 사람 물건이 밀려와요.",
+      "오늘은 마트에서 꼭 마주치는 단어 10개를 모았어요. 카트 빼기부터 특가 찾기, 계산대 질문, 빈 병 돌려주기까지 이 10개면 당황하지 않고 장 볼 수 있어요. 🛒"
+    ],
+    "words": {
+      "A1-037": {"pron": "주퍼마크트", "tip": "super(초-) + Markt(시장) = 슈퍼마켓 🏪 영어랑 거의 같죠? 단, 독일어는 ‘주퍼’로 읽어요.", "warn": "복수는 움라우트가 붙어요: die Supermärkte."},
+      "A2-245": {"pron": "레벤스미텔", "tip": "Leben(삶) + Mittel(수단) = 살아가게 해 주는 것, 식료품 🥖", "warn": "보통 복수로 써요: die Lebensmittel."},
+      "BL-03-01": {"pron": "아인카우프스바겐", "tip": "einkaufen(장 보다) + Wagen(수레) = 카트 🛒 Wagen은 영어 wagon이랑 친척이에요.", "bonus": "작은 장바구니는 der Korb (Einkaufskorb)"},
+      "B2-2468": {"pron": "아인카우프스리스테", "tip": "Einkauf(장보기) + Liste(목록) 📝 Liste가 die라서 전체도 die!", "bonus": "einkaufen gehen = 장 보러 가다"},
+      "B1-1154": {"pron": "존더안게보트", "tip": "sonder-(특별한) + Angebot(제공) = 특가 🏷️ 노란·빨간 가격표를 찾아봐요.", "bonus": "im Sonderangebot sein = 특가 중이다"},
+      "A2-030": {"pron": "카세", "tip": "영어 cash랑 같은 뿌리예요 💶 돈 넣는 상자 = 계산대!", "bonus": "Kasse는 마트 말고도 매표소, 그리고 die Krankenkasse(건강보험)에도 들어가요."},
+      "BL-03-06": {"pron": "튀테", "tip": "‘튀테~’ 하고 봉지가 바스락거리는 느낌 🛍️ Brauchen Sie eine Tüte?", "bonus": "천 장바구니는 der Beutel 또는 die Tasche"},
+      "BL-03-10": {"pron": "판트", "tip": "영어 pawn(전당 잡히다)과 친척 ♻️ 병을 맡기고 돌려주면 돈이 돌아와요.", "bonus": "빈 병 넣는 기계 = der Pfandautomat"},
+      "B2-2372": {"pron": "판트플라셰", "tip": "Pfand + Flasche(병) = 돈이 되는 병 🍾 버리지 말고 마트로!", "bonus": "기계가 주는 영수증(Pfandbon)은 계산대에서 돈으로 바꿔 줘요."},
+      "B1-1612": {"pron": "할트바카이츠다툼", "tip": "halten(유지하다) + -bar + -keit + Datum(날짜) = 버티는 날짜 📅 -keit이 있어도 마지막 Datum 때문에 das!", "warn": "포장에는 줄여서 MHD(Mindesthaltbarkeitsdatum)라고 쓰여 있어요. 복수는 die Haltbarkeitsdaten."}
+    },
+    "culture": [
+      "독일 마트 카트는 보통 동전이나 카트용 칩을 넣어야 빠져요. 다 쓰고 제자리에 꽂으면 동전이 다시 나와요. 그래서 열쇠고리에 칩을 달고 다니는 사람이 많아요.",
+      "계산대는 정말 빨라요. 점원이 찍는 속도에 맞춰 바로 담아야 해서, 많은 사람이 일단 카트에 다시 넣고 옆 선반에서 천천히 가방에 옮겨 담아요. 봉투는 보통 돈을 내야 해서 장바구니를 들고 다니는 게 기본이에요.",
+      "그리고 일요일에는 대부분의 마트가 문을 닫아요. 큰 기차역 안 가게 정도만 예외라서, 토요일 저녁 마트는 늘 북적여요. 🧺"
+    ],
+    "quiz": {"q": "계산대에서 점원이 이렇게 물어요. 봉투가 필요한지 묻는 말은?", "o": ["Haben Sie Pfand?", "Brauchen Sie eine Tüte?", "Ist das im Sonderangebot?"], "a": 1, "why": "Brauchen Sie eine Tüte? = 봉투 필요하세요? 계산대 단골 질문이에요."},
+    "outro": "다음 장보기 전에 Einkaufsliste를 독일어로 써 보세요. 계산대에서 Nein, danke!까지 자신 있게 말하면 성공이에요! 🥨"
+  },
+  "en": {
+    "title": "Your German shopping list: 10 supermarket words",
+    "hook": "German checkouts are fast, so pack these words before you go.",
+    "intro": [
+      "On your first trip to a German supermarket, the trolleys are all chained together and won't come loose. You finally get to the checkout, the cashier asks you something quickly, and the next person's shopping is already sliding towards you.",
+      "Today's ten words cover the whole trip: getting a trolley, spotting special offers, answering the cashier and returning your empty bottles. With them, you can shop without panic. 🛒"
+    ],
+    "words": {
+      "A1-037": {"pron": "ZOO-per-markt", "tip": "super + Markt (market) = supermarket 🏪 Easy — just start it with a Z sound.", "warn": "The plural gets an umlaut: die Supermärkte."},
+      "A2-245": {"pron": "LAY-bens-mit-el", "tip": "Leben (life) + Mittel (means) = what keeps you alive: food 🥖", "warn": "Usually plural: die Lebensmittel."},
+      "BL-03-01": {"pron": "INE-kowfs-vah-gen", "tip": "einkaufen (to shop) + Wagen (cart, like wagon) = trolley 🛒", "bonus": "A shopping basket is der Korb (Einkaufskorb)."},
+      "B2-2468": {"pron": "INE-kowfs-lis-tuh", "tip": "Einkauf (shopping) + Liste (list) 📝 The last part is die Liste, so the whole word is die.", "bonus": "einkaufen gehen = to go shopping"},
+      "B1-1154": {"pron": "ZON-der-an-guh-boat", "tip": "sonder- (special) + Angebot (offer) = special offer 🏷️ Look for the bright price tags.", "bonus": "im Sonderangebot sein = to be on offer"},
+      "A2-030": {"pron": "KASS-uh", "tip": "Same root as English cash 💶 The box with the money = the till.", "bonus": "You'll also see it in ticket offices and in die Krankenkasse (health insurer)."},
+      "BL-03-06": {"pron": "TUE-tuh", "tip": "Say it and hear the bag rustle 🛍️ Brauchen Sie eine Tüte?", "bonus": "A cloth shopping bag is der Beutel or die Tasche."},
+      "BL-03-10": {"pron": "PFANT", "tip": "Related to English pawn ♻️ You hand over the bottle, you get your money back.", "bonus": "The bottle return machine = der Pfandautomat"},
+      "B2-2372": {"pron": "PFANT-flash-uh", "tip": "Pfand + Flasche (bottle, like flask) = a bottle worth money 🍾 Don't bin it!", "bonus": "The machine prints a receipt (Pfandbon) that you cash in at the till."},
+      "B1-1612": {"pron": "HALT-bar-kites-dah-toom", "tip": "halten (keep) + -bar + -keit + Datum (date) = the keep-until date 📅 It ends in das Datum, so it's das.", "warn": "Packs usually say MHD (Mindesthaltbarkeitsdatum). Plural: die Haltbarkeitsdaten."}
+    },
+    "culture": [
+      "German trolleys are usually locked together, and you free one with a coin or a trolley token. Put it back and the coin pops out again. Lots of people keep a token on their keyring.",
+      "Checkouts move quickly. Many shoppers put everything straight back into the trolley and pack it calmly at a shelf after paying. Bags usually cost money, so most people bring their own.",
+      "Also, most supermarkets close on Sundays. Shops in big railway stations are the main exception, which is why Saturday evenings are always busy. 🧺"
+    ],
+    "quiz": {"q": "At the checkout, which question asks if you need a bag?", "o": ["Haben Sie Pfand?", "Brauchen Sie eine Tüte?", "Ist das im Sonderangebot?"], "a": 1, "why": "Brauchen Sie eine Tüte? means ‘Do you need a bag?’ — you'll hear it at almost every till."},
+    "outro": "Before your next shop, write your Einkaufsliste in German. Bonus points for a confident Nein, danke! at the till. 🥨"
+  },
+  "ja": {
+    "title": "ドイツのスーパーで迷わない単語10",
+    "hook": "ドイツのレジはとにかく速いので、単語は先にかごに入れておきましょう。",
+    "intro": [
+      "ドイツで初めてスーパーに行った日、カートがつながったまま外れませんでした。やっとレジに並ぶと、店員さんに早口で何か聞かれ、後ろの人の商品がもうこちらに流れてきます。",
+      "今日はスーパーで必ず出会う単語を10個集めました。カートの使い方から特売探し、レジでの質問、空き瓶の返却まで、この10個があれば落ち着いて買い物できます。🛒"
+    ],
+    "words": {
+      "A1-037": {"pron": "ズーパーマルクト", "tip": "super（超）+ Markt（市場）= スーパー 🏪 英語とほぼ同じ。ただし読みは「ズーパー」です。", "warn": "複数形はウムラウトがつきます：die Supermärkte。"},
+      "A2-245": {"pron": "レーベンスミッテル", "tip": "Leben（生命）+ Mittel（手段）= 生きるためのもの、食料品 🥖", "warn": "ふつう複数形で使います：die Lebensmittel。"},
+      "BL-03-01": {"pron": "アインカウフスヴァーゲン", "tip": "einkaufen（買い物する）+ Wagen（車、英語 wagon）= カート 🛒", "bonus": "買い物かごは der Korb（Einkaufskorb）"},
+      "B2-2468": {"pron": "アインカウフスリステ", "tip": "Einkauf（買い物）+ Liste（リスト）📝 最後が die Liste なので全体も die！", "bonus": "einkaufen gehen = 買い物に行く"},
+      "B1-1154": {"pron": "ゾンダーアンゲボート", "tip": "sonder-（特別な）+ Angebot（提供）= 特売 🏷️ 目立つ値札を探してみて。", "bonus": "im Sonderangebot sein = 特売中である"},
+      "A2-030": {"pron": "カッセ", "tip": "英語の cash と同じ語源 💶 お金を入れる箱 = レジ！", "bonus": "切符売り場や die Krankenkasse（健康保険）にも出てきます。"},
+      "BL-03-06": {"pron": "テューテ", "tip": "「テューテ」、袋がカサカサいう感じ 🛍️ Brauchen Sie eine Tüte?", "bonus": "布のエコバッグは der Beutel や die Tasche"},
+      "BL-03-10": {"pron": "プファント", "tip": "英語の pawn（質に入れる）の親戚 ♻️ 瓶を返すとお金が戻ってきます。", "bonus": "空き瓶回収機 = der Pfandautomat"},
+      "B2-2372": {"pron": "プファントフラッシェ", "tip": "Pfand + Flasche（瓶）= お金になる瓶 🍾 捨てずにスーパーへ！", "bonus": "機械から出るレシート（Pfandbon）はレジで現金に換えてくれます。"},
+      "B1-1612": {"pron": "ハルトバールカイツダートゥム", "tip": "halten（保つ）+ -bar + -keit + Datum（日付）= もつ日付 📅 最後が das Datum なので das！", "warn": "パッケージには MHD（Mindesthaltbarkeitsdatum）と書かれています。複数形は die Haltbarkeitsdaten。"}
+    },
+    "culture": [
+      "ドイツのカートはたいてい鎖でつながっていて、硬貨かカート用のチップを入れると外れます。元の場所に戻すと硬貨が戻ってくるので、キーホルダーにチップをつけている人も多いです。",
+      "レジは本当に速いです。多くの人は商品をいったんカートに戻し、支払いのあとで台の上でゆっくり袋に詰めます。レジ袋はふつう有料なので、マイバッグを持って行くのが基本です。",
+      "それから、日曜日はほとんどのスーパーが休みです。大きな駅の中のお店くらいが例外なので、土曜の夕方はいつも混んでいます。🧺"
+    ],
+    "quiz": {"q": "レジで店員さんに聞かれました。袋が要るかどうかを聞いているのは？", "o": ["Haben Sie Pfand?", "Brauchen Sie eine Tüte?", "Ist das im Sonderangebot?"], "a": 1, "why": "Brauchen Sie eine Tüte? =「袋はご入用ですか？」レジの定番の質問です。"},
+    "outro": "次の買い物の前に、Einkaufsliste をドイツ語で書いてみましょう。レジで Nein, danke! と自信をもって言えたら大成功です！🥨"
+  }
+}

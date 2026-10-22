@@ -1,0 +1,81 @@
+{
+  "key": "insurance",
+  "ko": {
+    "title": "독일 보험 서류가 읽히는 단어 10",
+    "hook": "독일 사람들은 보험을 정말 좋아해요. 보험 편지를 받기 전에 이 단어부터 챙겨요.",
+    "intro": [
+      "독일에 와서 집을 구하고 나니 친구가 묻더라고요. “Haftpflicht 있어?” 그게 뭐냐고 했더니 깜짝 놀라는 표정. 그날 이후로 보험 단어가 꽤 중요하다는 걸 알았어요.",
+      "오늘은 보험 가입부터 사고 접수까지 꼭 나오는 단어 10개를 모았어요. 이 10개만 알면 보험 계약서와 편지를 훨씬 덜 무섭게 읽을 수 있어요. 🛡️"
+    ],
+    "words": {
+      "A2-019": {"pron": "페어지혀룽", "tip": "sicher(안전한)가 들어 있어요 🛡️ 나를 안전하게 해 주는 게 보험! -ung이라 die예요.", "bonus": "보험 회사 자체도 die Versicherung이라고 불러요."},
+      "B1-1351": {"pron": "페어지현", "tip": "ver- + sicher = 안전하게 만들다 🔒 그래서 ‘보험에 들다’, ‘장담하다’ 둘 다 돼요.", "bonus": "Ich versichere dir, … = 정말이야, 장담해."},
+      "B2-2535": {"pron": "하프트플리히트페어지혀룽", "tip": "Haft(책임) + Pflicht(의무) + Versicherung 🧩 긴 단어도 조각내면 쉬워요!", "bonus": "줄여서 그냥 Haftpflicht라고 많이 말해요."},
+      "B1-034": {"pron": "페어트락", "tip": "vertragen(서로 맞추다)에서 온 말 🤝 서로 합의한 것이 계약이에요.", "warn": "복수는 움라우트가 붙어요: die Verträge."},
+      "B1-127": {"pron": "샤덴", "tip": "영어 옛말 scathe(해치다)와 친척이에요 💥 무언가 깨지면 Schaden!", "bonus": "Schade! = 아쉽다! 도 같은 뿌리예요."},
+      "B2-1137": {"pron": "페어지혀트", "tip": "versichern의 과거분사 = 보험에 든 상태 ✅ 병원 접수대 단골 질문이에요.", "bonus": "Wie sind Sie versichert? – Gesetzlich. / Privat."},
+      "B2-2536": {"pron": "하우스라트페어지혀룽", "tip": "Haus(집) + Rat(살림) = 집 안의 살림살이 🛋️ 그걸 지켜 주는 보험!", "bonus": "도둑이나 화재, 수도관 누수 피해에 자주 쓰여요."},
+      "B2-2542": {"pron": "페어지혀룽스바이트락", "tip": "Beitrag = 내가 보태는 몫 💶 매달 보태는 몫이 바로 보험료예요.", "warn": "der Beitrag 때문에 단어 전체가 der예요. 복수는 die Versicherungsbeiträge."},
+      "B2-2545": {"pron": "젤프스트베타일리궁", "tip": "selbst(스스로) + Beteiligung(참여) = 내가 직접 내는 부분 🙋 -ung이니 die!", "bonus": "ohne Selbstbeteiligung = 자기 부담금 없이"},
+      "B2-2544": {"pron": "샤덴스멜둥", "tip": "Schaden(피해) + melden(알리다) = 피해 신고 📝 사고 나면 제일 먼저 하는 일!", "bonus": "einen Schaden melden = 피해를 신고하다"}
+    },
+    "culture": [
+      "독일에서는 건강보험(Krankenversicherung)이 의무예요. 그리고 의무는 아니지만 거의 모두가 드는 게 개인 배상 책임 보험(Haftpflichtversicherung)이에요. 남의 물건을 실수로 망가뜨렸을 때 대신 물어 줘서, 집주인이나 친구가 있냐고 묻기도 해요.",
+      "보험 계약은 보통 자동으로 연장돼요. 그만두고 싶다면 해지(Kündigung)를 기한 안에 해야 하고, 해지 기한은 계약마다 달라요. 계약서의 Kündigungsfrist 부분을 꼭 확인해 두세요. 📄"
+    ],
+    "quiz": {"q": "병원 접수대에서 “Wie sind Sie versichert?”라고 물어요. 뭐라고 대답할까요?", "o": ["Ich habe einen Schaden.", "Die Selbstbeteiligung ist hoch.", "Ich bin gesetzlich versichert."], "a": 2, "why": "어떤 보험에 들었는지 묻는 질문이라 ‘공보험에 들어 있어요’가 맞는 대답이에요."},
+    "outro": "오늘은 내가 어떤 보험에 들어 있는지 독일어로 한 문장씩 말해 봐요. Ich bin … versichert! 📋"
+  },
+  "en": {
+    "title": "Insurance German in 10 words",
+    "hook": "Germans love insurance — so sooner or later, a letter from an insurer will land in your letterbox.",
+    "intro": [
+      "Right after I found a flat in Germany, a friend asked, “Do you have Haftpflicht?” When I asked what that was, she looked genuinely shocked. That's when I realised insurance words really matter here.",
+      "Today's ten words take you from signing up to reporting damage. With them, insurance contracts and letters will feel a lot less scary. 🛡️"
+    ],
+    "words": {
+      "A2-019": {"pron": "fair-ZIKH-er-oong", "tip": "sicher (safe) is inside 🛡️ Insurance keeps you safe — and -ung makes it die.", "bonus": "The insurance company itself is also called die Versicherung."},
+      "B1-1351": {"pron": "fair-ZIKH-ern", "tip": "ver- + sicher = to make safe or sure 🔒 So it means both ‘to insure’ and ‘to assure’.", "bonus": "Ich versichere dir, … = I promise you, …"},
+      "B2-2535": {"pron": "HAFT-pflikht-fair-zikh-er-oong", "tip": "Haft (liability) + Pflicht (duty) + Versicherung 🧩 Chop a long word into pieces and it's easy.", "bonus": "People usually just say Haftpflicht."},
+      "B1-034": {"pron": "fair-TRAHK", "tip": "From vertragen, to get along 🤝 A contract is what both sides agree on.", "warn": "The plural takes an umlaut: die Verträge."},
+      "B1-127": {"pron": "SHAH-den", "tip": "Related to old English scathe, as in unscathed 💥 Something breaks? Schaden!", "bonus": "Schade! (What a shame!) comes from the same root."},
+      "B2-1137": {"pron": "fair-ZIKH-ert", "tip": "Past participle of versichern = insured ✅ A classic question at the doctor's reception.", "bonus": "Wie sind Sie versichert? – Gesetzlich. / Privat."},
+      "B2-2536": {"pron": "HOWS-raht-fair-zikh-er-oong", "tip": "Haus (house) + Rat (supplies) = everything in your home 🛋️ This insurance protects it.", "bonus": "It typically covers burglary, fire and burst pipes."},
+      "B2-2542": {"pron": "fair-ZIKH-er-oongs-bye-trahk", "tip": "Beitrag = your contribution 💶 What you chip in every month is your premium.", "warn": "The last part decides: der Beitrag, so it's der. Plural: die Versicherungsbeiträge."},
+      "B2-2545": {"pron": "ZELPST-buh-tile-ig-oong", "tip": "selbst (self) + Beteiligung (share) = the part you pay yourself 🙋 -ung, so die.", "bonus": "ohne Selbstbeteiligung = with no excess"},
+      "B2-2544": {"pron": "SHAH-dens-mel-doong", "tip": "Schaden (damage) + melden (to report) = damage report 📝 The first thing you do after an accident.", "bonus": "einen Schaden melden = to report damage"}
+    },
+    "culture": [
+      "Health insurance (Krankenversicherung) is compulsory in Germany. Personal liability insurance (Haftpflichtversicherung) isn't, but almost everyone has it. It pays if you accidentally damage someone else's things, which is why landlords and friends sometimes ask about it.",
+      "Insurance contracts usually renew automatically. If you want to leave, you have to cancel (kündigen) in time, and the notice period depends on the contract. Look for the Kündigungsfrist in the small print. 📄"
+    ],
+    "quiz": {"q": "At the doctor's reception you're asked, “Wie sind Sie versichert?” What do you answer?", "o": ["Ich habe einen Schaden.", "Die Selbstbeteiligung ist hoch.", "Ich bin gesetzlich versichert."], "a": 2, "why": "They're asking how you're insured, so ‘I have statutory health insurance’ is the answer."},
+    "outro": "Try saying one sentence in German about each insurance you have: Ich bin … versichert! 📋"
+  },
+  "ja": {
+    "title": "ドイツの保険書類が読めるようになる10語",
+    "hook": "ドイツ人は保険が大好き。保険会社から手紙が届く前に、この単語を押さえておきましょう。",
+    "intro": [
+      "ドイツで部屋が決まったとき、友だちに「Haftpflicht 入ってる？」と聞かれました。「それ何？」と聞き返したら、本気で驚いた顔。その日から、保険の単語は大事なんだと実感しています。",
+      "今日は保険の加入から事故の届け出まで、必ず出てくる単語を10個集めました。この10個があれば、保険の契約書や手紙がぐっと怖くなくなります。🛡️"
+    ],
+    "words": {
+      "A2-019": {"pron": "フェアズィッヒェルング", "tip": "sicher（安全な）が入っています 🛡️ 安全を守ってくれるのが保険！-ung なので die です。", "bonus": "保険会社そのものも die Versicherung と呼びます。"},
+      "B1-1351": {"pron": "フェアズィッヒャーン", "tip": "ver- + sicher = 安全・確かにする 🔒 だから「保険をかける」と「請け合う」の両方の意味に。", "bonus": "Ich versichere dir, … = 本当だよ、約束する。"},
+      "B2-2535": {"pron": "ハフトプフリヒトフェアズィッヒェルング", "tip": "Haft（責任）+ Pflicht（義務）+ Versicherung 🧩 長い単語も分解すればかんたん！", "bonus": "ふだんは短く Haftpflicht と言います。"},
+      "B1-034": {"pron": "フェアトラーク", "tip": "vertragen（折り合う）から来た言葉 🤝 お互いに合意したものが契約です。", "warn": "複数形はウムラウトがつきます：die Verträge."},
+      "B1-127": {"pron": "シャーデン", "tip": "英語の古い言葉 scathe（傷つける）の親戚 💥 何かが壊れたら Schaden！", "bonus": "Schade!（残念！）も同じ語源です。"},
+      "B2-1137": {"pron": "フェアズィッヒャート", "tip": "versichern の過去分詞 = 保険に入っている ✅ 病院の受付の定番の質問です。", "bonus": "Wie sind Sie versichert? – Gesetzlich. / Privat."},
+      "B2-2536": {"pron": "ハウスラートフェアズィッヒェルング", "tip": "Haus（家）+ Rat（家財）= 家の中の持ち物 🛋️ それを守る保険！", "bonus": "空き巣、火事、水道管の水漏れなどでよく使います。"},
+      "B2-2542": {"pron": "フェアズィッヒェルングスバイトラーク", "tip": "Beitrag = 自分が出す分 💶 毎月出す分が保険料です。", "warn": "最後の der Beitrag で決まるので、全体も der。複数形は die Versicherungsbeiträge."},
+      "B2-2545": {"pron": "ゼルプストベタイリグング", "tip": "selbst（自分）+ Beteiligung（参加・負担）= 自分で払う部分 🙋 -ung なので die！", "bonus": "ohne Selbstbeteiligung = 自己負担なしで"},
+      "B2-2544": {"pron": "シャーデンスメルドゥング", "tip": "Schaden（損害）+ melden（知らせる）= 損害の届け出 📝 事故のあと最初にやること！", "bonus": "einen Schaden melden = 損害を届け出る"}
+    },
+    "culture": [
+      "ドイツでは健康保険（Krankenversicherung）は義務です。個人賠償責任保険（Haftpflichtversicherung）は義務ではありませんが、ほとんどの人が入っています。他人の物をうっかり壊したときに払ってくれるので、大家さんや友だちに入っているか聞かれることもあります。",
+      "保険の契約はふつう自動で更新されます。やめたいときは期限内に解約（Kündigung）する必要があり、その期限は契約によって違います。契約書の Kündigungsfrist の部分を確認しておきましょう。📄"
+    ],
+    "quiz": {"q": "病院の受付で「Wie sind Sie versichert?」と聞かれました。何と答えますか？", "o": ["Ich habe einen Schaden.", "Die Selbstbeteiligung ist hoch.", "Ich bin gesetzlich versichert."], "a": 2, "why": "どの保険に入っているかを聞かれているので、「公的保険に入っています」が正解です。"},
+    "outro": "自分が入っている保険について、ドイツ語で一文ずつ言ってみましょう。Ich bin … versichert！📋"
+  }
+}

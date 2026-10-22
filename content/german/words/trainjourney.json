@@ -1,0 +1,84 @@
+{
+  "key": "trainjourney",
+  "ko": {
+    "title": "독일 기차 여행 필수 단어 10",
+    "hook": "독일 기차 여행, 표만 있으면 될 줄 알았죠? 안내 방송부터 알아들어야 해요.",
+    "intro": [
+      "뮌헨 가는 ICE를 타려고 플랫폼에 섰는데, 갑자기 안내 방송이 나와요. “Der ICE nach München fährt heute in umgekehrter Wagenreihung ab…” 사람들이 우르르 반대쪽으로 걸어가는데 저만 그대로 서 있었어요.",
+      "오늘은 기차 여행에서 꼭 듣고 쓰는 단어 10개예요. 출발·도착 시간 묻기, 예약한 자리 찾기, 식당칸 가기, 승무원과 이야기하기까지 이 10개면 기차 여행이 훨씬 편해져요. 🚄"
+    ],
+    "words": {
+      "BL-14-01": {"pron": "추크", "tip": "ziehen(끌다)에서 왔어요 🚆 기관차가 객차를 끄는 모습 = Zug!", "warn": "복수는 움라우트: die Züge."},
+      "A2-1117": {"pron": "이체에", "tip": "InterCityExpress의 머리글자 ⚡ 영어 ‘아이스’가 아니라 알파벳으로 ‘이-체-에’!", "bonus": "조금 느린 장거리 열차는 der IC, 근거리 열차는 der RE나 die RB"},
+      "A2-055": {"pron": "압파렌", "tip": "ab(떠나) + fahren(타고 가다) = 출발하다 🚉", "warn": "분리동사 + sein 완료: Der Zug fährt um 9 Uhr ab. / Der Zug ist schon abgefahren."},
+      "A2-163": {"pron": "안코멘", "tip": "an(~에) + kommen(오다) = 도착하다 🏁 abfahren의 짝꿍!", "warn": "도착지는 in + 3격: in Berlin ankommen (nach ✗). 완료는 sein: Wir sind angekommen."},
+      "B1-1076": {"pron": "레저비룽", "tip": "reservieren + -ung = 예약 📌 -ung은 언제나 die!", "bonus": "Ich möchte einen Platz reservieren. = 자리 예약하고 싶어요."},
+      "BL-14-05": {"pron": "지츠플라츠", "tip": "sitzen(앉다) + Platz(자리) = 좌석 💺", "bonus": "Ist der Platz noch frei? = 이 자리 비었어요? · 대답은 Ja, frei! 또는 Nein, besetzt."},
+      "BL-14-06": {"pron": "바겐", "tip": "영어 wagon이랑 같은 뿌리 🚃 기차의 칸 하나하나가 Wagen!", "bonus": "복수도 똑같이 die Wagen. 표에 Wagen 12라고 쓰여 있으면 12호차예요."},
+      "B1-1164": {"pron": "슈파이제바겐", "tip": "Speise(음식) + Wagen(칸) = 식당칸 🍝 Speisekarte(메뉴판)의 그 Speise!", "bonus": "작은 매점 칸은 das Bordbistro"},
+      "B2-2635": {"pron": "추크베글라이터", "tip": "Zug + Begleiter(함께 가는 사람) = 기차에 같이 타는 승무원 🧑‍✈️", "bonus": "옛날 말로는 der Schaffner라고도 해요."},
+      "B2-2645": {"pron": "반카르트", "tip": "Bahn(철도) + card(카드) = 철도 할인 카드 🎫 독일어와 영어의 합작!", "bonus": "BahnCard 25, 50, 100처럼 숫자가 할인 정도를 나타내요."}
+    },
+    "culture": [
+      "독일 역에는 개찰구가 없어요. 대신 기차 안에서 승무원이 표를 검사해요(Fahrkartenkontrolle). 표 없이 타면 벌금을 내야 하니, 꼭 타기 전에 표를 사 둬요.",
+      "ICE는 자리 예약이 필수가 아니라서, 예약 없이 빈자리에 앉아도 돼요. 단, 좌석 위 표시에 예약 구간이 떠 있으면 그 사람이 탈 때 비켜 줘야 해요. 조용히 가고 싶다면 Ruhebereich(정숙 구역)를 찾아보세요.",
+      "그리고 독일 기차는 늦을 때가 꽤 많아요. 갈아탈 시간이 짧다면 여유 있게 계획하는 게 좋고, 플랫폼에서는 차량 순서(Wagenreihung) 안내판을 미리 확인해 두면 편해요. 🧳"
+    ],
+    "quiz": {"q": "기차에서 빈자리를 발견했어요. 옆 사람에게 뭐라고 물어볼까요?", "o": ["Wann kommt der Zug an?", "Wo ist der Speisewagen?", "Ist der Platz noch frei?"], "a": 2, "why": "Ist der Platz noch frei? = 이 자리 아직 비었나요? 앉기 전에 묻는 말이에요."},
+    "outro": "다음에 기차를 탈 땐 안내 방송에서 오늘 단어를 몇 개나 알아듣는지 세어 봐요. Gute Reise! 🚆"
+  },
+  "en": {
+    "title": "All aboard! 10 words for German train journeys",
+    "hook": "A ticket isn't enough on German trains. You'll want to understand the announcements too.",
+    "intro": [
+      "You're waiting on the platform for the ICE to Munich when an announcement comes: “Der ICE nach München fährt heute in umgekehrter Wagenreihung ab…” Everyone walks off to the other end of the platform, and you're left standing there.",
+      "Today's ten words are the ones you hear and use on every train trip. With them you can check departure and arrival times, find your reserved seat, visit the dining car and talk to the train staff. 🚄"
+    ],
+    "words": {
+      "BL-14-01": {"pron": "TSOOK", "tip": "From ziehen (to pull), like English tug 🚆 The engine pulls the carriages.", "warn": "Plural with umlaut: die Züge."},
+      "A2-1117": {"pron": "ee-tsay-AY", "tip": "InterCityExpress ⚡ Spell it out the German way — never ‘ice’!", "bonus": "Slower long-distance trains are der IC; regional ones are der RE or die RB."},
+      "A2-055": {"pron": "AP-fah-ren", "tip": "ab (off) + fahren (go) = to depart 🚉", "warn": "Separable, perfect with sein: Der Zug fährt um 9 Uhr ab. / Der Zug ist schon abgefahren."},
+      "A2-163": {"pron": "AN-kom-en", "tip": "an (at) + kommen (come) = to arrive 🏁 The partner of abfahren.", "warn": "Arrive in = in + dative: in Berlin ankommen (not nach). Perfect with sein: Wir sind angekommen."},
+      "B1-1076": {"pron": "reh-zer-VEE-roong", "tip": "reservieren + -ung = reservation 📌 -ung is always die.", "bonus": "Ich möchte einen Platz reservieren. = I'd like to reserve a seat."},
+      "BL-14-05": {"pron": "ZITS-plats", "tip": "sitzen (sit) + Platz (place) = seat 💺", "bonus": "Ist der Platz noch frei? = Is this seat free? · Answers: Ja, frei! or Nein, besetzt."},
+      "BL-14-06": {"pron": "VAH-gen", "tip": "Same root as English wagon 🚃 Each carriage is a Wagen.", "bonus": "Same in the plural: die Wagen. Wagen 12 on your ticket means coach 12."},
+      "B1-1164": {"pron": "SHPY-zuh-vah-gen", "tip": "Speise (food) + Wagen (carriage) = dining car 🍝 Same Speise as in Speisekarte (menu).", "bonus": "The smaller snack car is das Bordbistro."},
+      "B2-2635": {"pron": "TSOOK-buh-gly-ter", "tip": "Zug + Begleiter (companion) = the person who travels with the train 🧑‍✈️", "bonus": "The older word is der Schaffner."},
+      "B2-2645": {"pron": "BAHN-kart", "tip": "Bahn (railway) + English card = rail discount card 🎫 A German-English team-up!", "bonus": "BahnCard 25, 50 and 100 — the number tells you the discount level."}
+    },
+    "culture": [
+      "German stations have no ticket barriers. Instead, staff check tickets on the train (Fahrkartenkontrolle). Riding without a ticket means a fine, so always buy one before you board.",
+      "On the ICE, reservations are optional, so you can sit in any free seat. But if the display above a seat shows it's reserved for part of the route, you'll need to move when that person gets on. For peace and quiet, look for the Ruhebereich (quiet zone).",
+      "German trains are also fairly often late. If your connection is tight, leave extra time, and check the coach order (Wagenreihung) on the platform display before the train comes in. 🧳"
+    ],
+    "quiz": {"q": "You spot an empty seat on the train. What do you ask the person next to it?", "o": ["Wann kommt der Zug an?", "Wo ist der Speisewagen?", "Ist der Platz noch frei?"], "a": 2, "why": "Ist der Platz noch frei? asks whether the seat is free before you sit down."},
+    "outro": "Next time you take a train, count how many of today's words you catch in the announcements. Gute Reise! 🚆"
+  },
+  "ja": {
+    "title": "ドイツの鉄道旅で役立つ単語10",
+    "hook": "ドイツの列車は切符だけでは足りません。車内アナウンスも聞き取りたいところです。",
+    "intro": [
+      "ミュンヘン行きのICEを待っていると、突然アナウンスが流れます。「Der ICE nach München fährt heute in umgekehrter Wagenreihung ab…」みんながホームの反対側へ歩いていくのに、私だけその場に立ったままでした。",
+      "今日は鉄道の旅でよく聞いて使う単語を10個集めました。発車・到着時刻を聞く、予約した席を探す、食堂車に行く、乗務員と話す。この10個で列車の旅がずっと楽になります。🚄"
+    ],
+    "words": {
+      "BL-14-01": {"pron": "ツーク", "tip": "ziehen（引く）から 🚆 機関車が客車を引っぱる姿 = Zug！", "warn": "複数はウムラウト：die Züge。"},
+      "A2-1117": {"pron": "イー ツェー エー", "tip": "InterCityExpress の頭文字 ⚡「アイス」ではなくアルファベット読み！", "bonus": "少し遅い長距離列車は der IC、近距離は der RE や die RB"},
+      "A2-055": {"pron": "アップファーレン", "tip": "ab（離れて）+ fahren（乗って行く）= 発車する 🚉", "warn": "分離動詞で完了は sein：Der Zug fährt um 9 Uhr ab. / Der Zug ist schon abgefahren."},
+      "A2-163": {"pron": "アンコメン", "tip": "an（〜に）+ kommen（来る）= 到着する 🏁 abfahren の相棒！", "warn": "到着地は in + 3格：in Berlin ankommen（nach ではない）。完了は sein：Wir sind angekommen."},
+      "B1-1076": {"pron": "レザヴィールング", "tip": "reservieren + -ung = 予約 📌 -ung はいつも die！", "bonus": "Ich möchte einen Platz reservieren. = 席を予約したいです。"},
+      "BL-14-05": {"pron": "ズィッツプラッツ", "tip": "sitzen（座る）+ Platz（場所）= 座席 💺", "bonus": "Ist der Platz noch frei? = この席空いていますか？・答えは Ja, frei! か Nein, besetzt."},
+      "BL-14-06": {"pron": "ヴァーゲン", "tip": "英語の wagon と同じ語源 🚃 列車の一両一両が Wagen！", "bonus": "複数も同じ die Wagen。切符に Wagen 12 とあれば12号車です。"},
+      "B1-1164": {"pron": "シュパイゼヴァーゲン", "tip": "Speise（料理）+ Wagen（車両）= 食堂車 🍝 Speisekarte（メニュー）の Speise！", "bonus": "軽食コーナーの車両は das Bordbistro"},
+      "B2-2635": {"pron": "ツークベグライター", "tip": "Zug + Begleiter（同行者）= 列車に同乗する乗務員 🧑‍✈️", "bonus": "昔の言い方は der Schaffner"},
+      "B2-2645": {"pron": "バーンカルテ", "tip": "Bahn（鉄道）+ 英語 card = 鉄道割引カード 🎫 ドイツ語と英語の合体！", "bonus": "BahnCard 25、50、100 の数字が割引の度合いを表します。"}
+    },
+    "culture": [
+      "ドイツの駅には改札がありません。そのかわり車内で乗務員が切符を確認します（Fahrkartenkontrolle）。切符なしで乗ると罰金なので、必ず乗る前に買っておきましょう。",
+      "ICEは座席予約が必須ではないので、空いている席に座ってかまいません。ただし座席の上の表示に予約区間が出ていたら、その人が乗ってきたら席を譲ります。静かに過ごしたいなら Ruhebereich（静粛エリア）を探してみてください。",
+      "それから、ドイツの列車はけっこうよく遅れます。乗り換え時間が短いときは余裕をもった計画を。ホームでは車両の並び順（Wagenreihung）の案内を先に確認しておくと便利です。🧳"
+    ],
+    "quiz": {"q": "車内で空いている席を見つけました。隣の人に何と聞きますか？", "o": ["Wann kommt der Zug an?", "Wo ist der Speisewagen?", "Ist der Platz noch frei?"], "a": 2, "why": "Ist der Platz noch frei? =「この席はまだ空いていますか？」座る前に聞く言葉です。"},
+    "outro": "次に列車に乗るときは、アナウンスで今日の単語がいくつ聞き取れるか数えてみましょう。Gute Reise! 🚆"
+  }
+}

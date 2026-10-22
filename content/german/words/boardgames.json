@@ -1,0 +1,84 @@
+{
+  "key": "boardgames",
+  "ko": {
+    "title": "게임의 밤에 꼭 필요한 독일어 10",
+    "hook": "독일 친구 집에 초대받으면, 저녁 식사 다음 코스는 높은 확률로 보드게임이에요.",
+    "intro": [
+      "처음 독일 친구네 ‘Spieleabend’(게임의 밤)에 갔을 때, 테이블 위에는 주사위랑 카드가 가득했어요. 다들 ‘Wer ist dran?’, ‘Du schummelst!’ 하며 깔깔대는데, 저만 규칙도 말도 몰라서 웃기만 했죠.",
+      "오늘은 보드게임과 카드 게임에서 쓰는 단어 10개예요. 이 단어들이면 같이 하자고 끼어들고, 주사위 굴리고, 이기고 지는 것까지 다 독일어로 할 수 있어요. 🎲"
+    ],
+    "words": {
+      "A2-580": {"pron": "슈필", "tip": "spielen(놀다)에서 -en을 뗀 명사 🎮 게임도, 축구 경기도 다 Spiel!", "bonus": "Das ist nur ein Spiel! = 그냥 게임일 뿐이야!"},
+      "B2-1374": {"pron": "브레트슈필", "tip": "Brett(판자) + Spiel = 판 위에서 하는 게임 🟫 영어 board game과 똑같은 구조예요.", "bonus": "보드게임을 하다 = Brettspiele spielen"},
+      "A2-846": {"pron": "카르텐슈필", "tip": "Karte(카드) + Spiel = 카드 게임 🃏 마지막 Spiel이 das라서 전체도 das!", "bonus": "카드 한 벌을 뜻하기도 해요. 카드를 섞다 = die Karten mischen"},
+      "A2-888": {"pron": "미트슈필렌", "tip": "mit(함께) + spielen = 같이 놀기 🙋‍♀️ 끼고 싶을 땐 이 한마디!", "warn": "분리동사: Ich spiele mit. · 질문은 Darf ich mitspielen?"},
+      "A2-862": {"pron": "뷔르펠른", "tip": "Würfel(주사위) + -n = 주사위 굴리기 🎲 요리에선 깍둑썰기도 würfeln!", "bonus": "Du musst würfeln! = 주사위 던져야 해!"},
+      "B2-2762": {"pron": "뷔르펠", "tip": "werfen(던지다)과 관련된 옛말 🎲 던지는 물건이니까 주사위!", "bonus": "카이사르의 명언 독일어판: Die Würfel sind gefallen. = 주사위는 던져졌다."},
+      "A2-902": {"pron": "드란", "tip": "daran을 줄인 말 👉 게임에서 제일 많이 듣는 단어일 거예요.", "bonus": "Wer ist dran? = 누구 차례야? · Du bist dran! = 네 차례야!"},
+      "A2-171": {"pron": "게비넨", "tip": "영어 win이랑 같은 뿌리 🏆 ge-win-nen 가운데 win이 보이죠?", "warn": "완료형이 불규칙: Ich habe gewonnen!"},
+      "A2-170": {"pron": "페어리렌", "tip": "영어 lose, forlorn과 사촌 😭 ver-가 붙으면 뭔가 잃어버리는 느낌!", "warn": "완료형은 verloren: Ich habe schon wieder verloren."},
+      "B2-1264": {"pron": "슘멜른", "tip": "‘슘~’ 하고 몰래 카드 바꿔치기하는 소리 🤫 장난스러운 반칙이에요.", "bonus": "진지한 사기는 betrügen이에요. schummeln은 가벼운 말!"}
+    },
+    "culture": [
+      "독일은 보드게임 강국이에요. 해마다 ‘Spiel des Jahres’(올해의 게임)라는 상이 발표되고, 가을이면 에센(Essen)에서 세계적으로 유명한 보드게임 박람회가 열려요.",
+      "가족끼리 오래 즐겨 온 고전 게임도 많아요. 대표적인 게 ‘Mensch ärgere dich nicht’(사람아, 화내지 마)인데, 이름과 달리 다들 엄청 화를 내면서 해요.",
+      "카드 게임으로는 Skat이나 Doppelkopf가 유명하고, 동네 술집에서 단골들이 모여 카드를 치는 모습도 볼 수 있어요. 규칙은 지역마다 조금씩 달라서 시작 전에 꼭 물어보는 게 좋아요. 🃏"
+    ],
+    "quiz": {"q": "친구들이 거실에서 카드 게임을 하고 있어요. 나도 끼고 싶어요!", "o": ["Darf ich mitspielen?", "Wer hat gewonnen?", "Wer ist dran?"], "a": 0, "why": "mitspielen = 같이 하다, ‘나도 해도 돼?’라고 묻는 말이에요."},
+    "outro": "다음 게임할 땐 한국어 대신 Du bist dran! 하고 외쳐 봐요. 단, schummeln은 금지예요! 🎲"
+  },
+  "en": {
+    "title": "Game night German: 10 words to roll with",
+    "hook": "Get invited to a German friend's for dinner, and there's a good chance a board game comes after dessert.",
+    "intro": [
+      "At my first German Spieleabend (games night), the table was covered with dice and cards. Everyone was laughing and shouting ‘Wer ist dran?’ and ‘Du schummelst!’ — and I just smiled, because I knew neither the rules nor the words.",
+      "Today's ten words are for board games and card games. With them you can ask to join in, roll the dice, and win or lose gracefully — all in German. 🎲"
+    ],
+    "words": {
+      "A2-580": {"pron": "SHPEEL", "tip": "spielen (to play) minus -en 🎮 A game, a football match — all Spiel!", "bonus": "Das ist nur ein Spiel! = It's only a game!"},
+      "B2-1374": {"pron": "BRET-shpeel", "tip": "Brett (board) + Spiel = board game 🟫 Exactly like English.", "bonus": "to play board games = Brettspiele spielen"},
+      "A2-846": {"pron": "KAR-ten-shpeel", "tip": "Karte (card) + Spiel = card game 🃏 Spiel is das, so the whole word is das.", "bonus": "It also means a pack of cards. to shuffle = die Karten mischen"},
+      "A2-888": {"pron": "MIT-shpee-len", "tip": "mit (with) + spielen = play along 🙋‍♀️ Your ticket into any game!", "warn": "Separable: Ich spiele mit. · To ask: Darf ich mitspielen?"},
+      "A2-862": {"pron": "VÜR-feln", "tip": "Würfel (dice) + -n = to roll the dice 🎲 In the kitchen, würfeln means to dice!", "bonus": "Du musst würfeln! = You have to roll!"},
+      "B2-2762": {"pron": "VÜR-fel", "tip": "An old relative of werfen (to throw) 🎲 The thing you throw.", "bonus": "Caesar in German: Die Würfel sind gefallen. = The die is cast."},
+      "A2-902": {"pron": "DRAHN", "tip": "Short for daran 👉 Probably the word you'll hear most at a games night.", "bonus": "Wer ist dran? = Whose turn is it? · Du bist dran! = Your turn!"},
+      "A2-171": {"pron": "guh-VIN-en", "tip": "Same root as English win 🏆 Can you spot win in ge-WIN-nen?", "warn": "Irregular perfect: Ich habe gewonnen!"},
+      "A2-170": {"pron": "fair-LEER-en", "tip": "A cousin of English lose and forlorn 😭", "warn": "Perfect is verloren: Ich habe schon wieder verloren."},
+      "B2-1264": {"pron": "SHOOM-eln", "tip": "Sounds like a sneaky card swap: ‘shoom’ 🤫 Playful, harmless cheating.", "bonus": "Serious fraud is betrügen; schummeln is the light version."}
+    },
+    "culture": [
+      "Germany is a real board game country. Every year the ‘Spiel des Jahres’ (Game of the Year) award is announced, and each autumn Essen hosts one of the world's best-known board game fairs.",
+      "Families have their classics too. The most famous is ‘Mensch ärgere dich nicht’ (Don't get annoyed, man) — and despite the name, everyone gets very annoyed playing it.",
+      "For cards, Skat and Doppelkopf are popular, and you may see regulars playing in a local pub. Rules often vary by region, so it's worth asking before you start. 🃏"
+    ],
+    "quiz": {"q": "Your friends are playing cards in the living room. You'd like to join!", "o": ["Darf ich mitspielen?", "Wer hat gewonnen?", "Wer ist dran?"], "a": 0, "why": "mitspielen means to join in, so you're asking ‘Can I play too?’"},
+    "outro": "At your next game, shout Du bist dran! instead of ‘your turn’. Just no schummeln! 🎲"
+  },
+  "ja": {
+    "title": "ゲームの夜に欠かせないドイツ語10",
+    "hook": "ドイツ人の友だちの家に招かれたら、夕食の次はかなりの確率でボードゲームです。",
+    "intro": [
+      "初めてドイツ人の友だちの「Spieleabend」（ゲームの夜）に行ったとき、テーブルはサイコロとカードでいっぱい。みんな「Wer ist dran?」「Du schummelst!」と大笑いしているのに、私はルールも言葉もわからず、ただニコニコしていました。",
+      "今日はボードゲームとカードゲームで使う単語10個です。これで「入れて！」と声をかけ、サイコロを振り、勝ったり負けたりまで全部ドイツ語でできます。🎲"
+    ],
+    "words": {
+      "A2-580": {"pron": "シュピール", "tip": "spielen（遊ぶ）から -en を取った名詞 🎮 ゲームもサッカーの試合も Spiel！", "bonus": "Das ist nur ein Spiel! = ただのゲームだよ！"},
+      "B2-1374": {"pron": "ブレットシュピール", "tip": "Brett（板）+ Spiel = 板の上で遊ぶゲーム 🟫 英語の board game と同じ作りです。", "bonus": "ボードゲームをする = Brettspiele spielen"},
+      "A2-846": {"pron": "カルテンシュピール", "tip": "Karte（カード）+ Spiel = カードゲーム 🃏 Spiel が das なので全体も das！", "bonus": "トランプ1組の意味も。カードを切る = die Karten mischen"},
+      "A2-888": {"pron": "ミットシュピーレン", "tip": "mit（一緒に）+ spielen = 一緒に遊ぶ 🙋‍♀️ 仲間に入りたいときはこれ！", "warn": "分離動詞：Ich spiele mit. · 聞くときは Darf ich mitspielen?"},
+      "A2-862": {"pron": "ヴュルフェルン", "tip": "Würfel（サイコロ）+ -n = サイコロを振る 🎲 料理ではさいの目切りも würfeln！", "bonus": "Du musst würfeln! = サイコロ振って！"},
+      "B2-2762": {"pron": "ヴュルフェル", "tip": "werfen（投げる）と関係のある古い言葉 🎲 投げるものだからサイコロ！", "bonus": "カエサルの名言のドイツ語版：Die Würfel sind gefallen. = 賽は投げられた。"},
+      "A2-902": {"pron": "ドラン", "tip": "daran の短縮形 👉 ゲームの夜にいちばん聞く言葉かも。", "bonus": "Wer ist dran? = 誰の番？ · Du bist dran! = 君の番だよ！"},
+      "A2-171": {"pron": "ゲヴィネン", "tip": "英語の win と同じ語源 🏆 ge-win-nen の真ん中に win が見えますね。", "warn": "完了形は不規則：Ich habe gewonnen!"},
+      "A2-170": {"pron": "フェアリーレン", "tip": "英語の lose や forlorn の親戚 😭 ver- がつくと何かを失う感じ！", "warn": "完了形は verloren：Ich habe schon wieder verloren."},
+      "B2-1264": {"pron": "シュメルン", "tip": "「シュッ」とこっそりカードをすり替える音 🤫 遊びの中の軽いズルです。", "bonus": "本気の詐欺は betrügen。schummeln は軽い言葉です。"}
+    },
+    "culture": [
+      "ドイツはボードゲーム大国です。毎年「Spiel des Jahres」（年間ゲーム大賞）が発表され、秋にはエッセン（Essen）で世界的に有名なボードゲーム見本市が開かれます。",
+      "家族で長く遊ばれてきた定番もたくさんあります。代表は「Mensch ärgere dich nicht」（怒るなよ、人間）。名前とは裏腹に、みんなものすごく怒りながら遊びます。",
+      "カードゲームでは Skat や Doppelkopf が有名で、地元の酒場で常連さんたちがカードを囲む姿も見られます。ルールは地域で少しずつ違うので、始める前に確認するのがおすすめです。🃏"
+    ],
+    "quiz": {"q": "友だちがリビングでカードゲームをしています。自分も入りたい！", "o": ["Darf ich mitspielen?", "Wer hat gewonnen?", "Wer ist dran?"], "a": 0, "why": "mitspielen は「一緒に遊ぶ」で、「私も入っていい？」と聞く言い方です。"},
+    "outro": "次のゲームでは「Du bist dran!」とドイツ語で言ってみましょう。ただし schummeln は禁止です！🎲"
+  }
+}

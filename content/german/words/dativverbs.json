@@ -1,0 +1,84 @@
+{
+  "key": "dativverbs",
+  "ko": {
+    "title": "mich 말고 mir! 3격 동사 10개 정복하기",
+    "hook": "\"Kannst du mich helfen?\" 이렇게 말해 본 적 있다면, 오늘 글은 딱 여러분을 위한 거예요.",
+    "intro": [
+      "독일 친구에게 \"Kannst du mich helfen?\" 하고 물었더니, 친구가 웃으면서 \"mir!\"라고 고쳐 줬어요. 분명 ‘나를 돕다’인데 왜 mir일까요?",
+      "독일어에는 목적어로 4격이 아니라 3격을 쓰는 동사들이 있어요. 오늘은 그중에서 매일 쓰는 10개를 모았어요. 이 동사들만 익혀 두면 mir/dir, ihm/ihr가 입에서 자연스럽게 나올 거예요. 🎯"
+    ],
+    "words": {
+      "A1-189": {"pron": "헬펜", "tip": "도움은 ‘누구에게’ 주는 것 🤝 그래서 mir, dir!", "warn": "Kannst du mir helfen? (mich ❌) · 불규칙: hilft – hat geholfen"},
+      "A1-324": {"pron": "게팔렌", "tip": "주어가 ‘마음에 드는 것’, 3격이 ‘좋아하는 사람’ 🔄 문장이 뒤집혀요!", "bonus": "Das Kleid gefällt mir. = 그 원피스 마음에 들어요."},
+      "B1-161": {"pron": "게회렌", "tip": "hören(듣다)이 들어 있어요 🔑 원래 ‘~의 말을 듣다, 따르다’ → ~의 것이다", "bonus": "Wem gehört das? – Das gehört mir. = 이거 누구 거야? – 내 거야."},
+      "A2-308": {"pron": "당켄", "tip": "영어 thank, think와 같은 뿌리 🙏 ‘누구에게’ 감사하니까 3격!", "bonus": "감사의 이유는 für + 4격: Ich danke dir für die Blumen."},
+      "A1-182": {"pron": "안트보르텐", "tip": "사람에게 대답하면 3격 💬 Antworte mir!", "warn": "질문에 대답할 때는 auf + 4격: auf die Frage antworten"},
+      "A2-159": {"pron": "그라툴리렌", "tip": "축하는 ‘누구에게’ 하는 것 🎉 라틴어 gratulari에서 왔어요.", "bonus": "무엇을 축하하는지는 zu + 3격: Ich gratuliere dir zum Geburtstag!"},
+      "A2-160": {"pron": "슈메켄", "tip": "음식이 주어, 먹는 사람이 3격 😋 Schmeckt's dir?", "bonus": "식사 전 인사: Lass es dir schmecken! = 맛있게 먹어!"},
+      "A2-351": {"pron": "추회렌", "tip": "zu(~쪽으로) + hören = 누구 쪽으로 귀를 기울이다 👂", "warn": "분리동사 + 3격: Hör mir zu! / hat zugehört"},
+      "B1-177": {"pron": "페어트라우엔", "tip": "영어 trust와 같은 뿌리 🫶 믿음은 ‘누구에게’ 주는 것!", "bonus": "명사: das Vertrauen = 신뢰"},
+      "B1-314": {"pron": "폴겐", "tip": "영어 follow와 같은 뿌리 👣 ‘누구 뒤를’ 따르니까 3격!", "warn": "완료형은 sein: Ich bin ihm gefolgt."}
+    },
+    "culture": [
+      "독일에 온 지 얼마 안 됐다면 \"Wie gefällt dir Deutschland?\"라는 질문을 정말 많이 듣게 돼요. \"Es gefällt mir gut!\" 정도는 바로 대답할 수 있게 준비해 두세요.",
+      "독일에서는 생일 축하를 생일 당일 전에 미리 하면 불운이 온다고 믿는 사람이 많아요. 그래서 Ich gratuliere dir!는 보통 당일이나 그 뒤에 해요. 생일 전날 밤에 모여서 자정에 축하하는 것도 흔해요.",
+      "식사 자리에서는 Guten Appetit! 말고도 Lass es dir schmecken! 이라고 많이 해요. 회사 점심시간에는 그냥 Mahlzeit! 라고 인사하는 곳도 있어요. 🍽️"
+    ],
+    "quiz": {"q": "친구가 만든 수프를 먹고 있어요. 친구가 맛있냐고 묻는다면 뭐라고 할까요?", "o": ["Die Suppe schmeckt mir sehr gut!", "Die Suppe gehört mir.", "Ich folge der Suppe."], "a": 0, "why": "schmecken + 3격 = (누구에게) 맛있다, 그래서 schmeckt mir예요."},
+    "outro": "오늘은 \"Kannst du mir helfen?\", \"Das gefällt mir!\", \"Hör mir zu!\" 세 문장을 소리 내서 세 번씩 말해 봐요. mich 대신 mir가 자동으로 나올 때까지! 💪"
+  },
+  "en": {
+    "title": "Mir, not mich: 10 German verbs that take the dative",
+    "hook": "If you've ever said \"Kannst du mich helfen?\", this one's for you.",
+    "intro": [
+      "You ask a German friend, \"Kannst du mich helfen?\" She smiles and corrects you: \"mir!\" But in English you help me — so why mir?",
+      "Some German verbs take a dative object instead of an accusative one. Today's ten are the ones you'll use every day. Learn them and mir/dir, ihm/ihr will start coming out naturally. 🎯"
+    ],
+    "words": {
+      "A1-189": {"pron": "HEL-fen", "tip": "Help is something you give to someone 🤝 So it's mir, dir!", "warn": "Kannst du mir helfen? (not mich) · Irregular: hilft – hat geholfen"},
+      "A1-324": {"pron": "guh-FAL-en", "tip": "The thing you like is the subject; you're in the dative 🔄 The sentence flips!", "bonus": "Das Kleid gefällt mir. = I like the dress."},
+      "B1-161": {"pron": "guh-HUR-en", "tip": "hören (to hear) is inside 🔑 It once meant ‘to obey’ → to belong to.", "bonus": "Wem gehört das? – Das gehört mir. = Whose is this? – It's mine."},
+      "A2-308": {"pron": "DAHN-ken", "tip": "Same root as English thank and think 🙏 Your thanks go to someone — dative!", "bonus": "The reason takes für + accusative: Ich danke dir für die Blumen."},
+      "A1-182": {"pron": "ANT-vor-ten", "tip": "Answering a person? Dative 💬 Antworte mir!", "warn": "Answering a question takes auf + accusative: auf die Frage antworten"},
+      "A2-159": {"pron": "gra-too-LEE-ren", "tip": "Your congratulations go to someone 🎉 From Latin gratulari.", "bonus": "The occasion takes zu + dative: Ich gratuliere dir zum Geburtstag!"},
+      "A2-160": {"pron": "SHMECK-en", "tip": "The food is the subject, the eater is dative 😋 Schmeckt's dir?", "bonus": "Before a meal: Lass es dir schmecken! = Enjoy your meal!"},
+      "A2-351": {"pron": "TSOO-hur-en", "tip": "zu (towards) + hören = turn your ears towards someone 👂", "warn": "Separable, with dative: Hör mir zu! · hat zugehört"},
+      "B1-177": {"pron": "fair-TROW-en", "tip": "Same root as English trust 🫶 Trust is something you give to someone.", "bonus": "Noun: das Vertrauen = trust"},
+      "B1-314": {"pron": "FOL-gen", "tip": "Same root as English follow 👣 You follow behind someone — dative!", "warn": "Perfect with sein: Ich bin ihm gefolgt."}
+    },
+    "culture": [
+      "If you're new in Germany, you'll hear \"Wie gefällt dir Deutschland?\" again and again. Have \"Es gefällt mir gut!\" ready to go.",
+      "Many Germans believe it's bad luck to wish someone a happy birthday before the day itself. So Ich gratuliere dir! usually comes on the day or after. Gathering the evening before to celebrate at midnight is also popular.",
+      "At the table, besides Guten Appetit!, people often say Lass es dir schmecken! And at some workplaces, colleagues greet each other at lunchtime with a simple Mahlzeit! 🍽️"
+    ],
+    "quiz": {"q": "You're eating soup your friend made. They ask if you like it. What do you say?", "o": ["Die Suppe schmeckt mir sehr gut!", "Die Suppe gehört mir.", "Ich folge der Suppe."], "a": 0, "why": "schmecken takes the dative of the eater, so it's schmeckt mir."},
+    "outro": "Say \"Kannst du mir helfen?\", \"Das gefällt mir!\" and \"Hör mir zu!\" out loud three times each today — until mir comes out instead of mich on autopilot! 💪"
+  },
+  "ja": {
+    "title": "mich じゃなくて mir！3格をとる動詞10",
+    "hook": "「Kannst du mich helfen?」と言ったことがあるなら、今日の記事はあなたのためのものです。",
+    "intro": [
+      "ドイツ人の友だちに「Kannst du mich helfen?」と聞いたら、笑って「mir!」と直されました。「私を助ける」なのに、どうして mir なのでしょう？",
+      "ドイツ語には、目的語に4格ではなく3格をとる動詞があります。今日はその中から毎日使う10個を集めました。これを覚えれば、mir/dir、ihm/ihr が自然に口から出てくるようになります。🎯"
+    ],
+    "words": {
+      "A1-189": {"pron": "ヘルフェン", "tip": "助けは「誰かに」与えるもの 🤝 だから mir, dir！", "warn": "Kannst du mir helfen?（mich ではない）不規則：hilft – hat geholfen"},
+      "A1-324": {"pron": "ゲファレン", "tip": "主語が「気に入られるもの」、3格が「気に入る人」🔄 文がひっくり返ります！", "bonus": "Das Kleid gefällt mir. = そのワンピース、気に入りました。"},
+      "B1-161": {"pron": "ゲヘーレン", "tip": "hören（聞く）が入っています 🔑 もとは「言うことを聞く、従う」→ 〜のものである", "bonus": "Wem gehört das? – Das gehört mir. = これ誰の？ – 私のです。"},
+      "A2-308": {"pron": "ダンケン", "tip": "英語の thank, think と同じ語源 🙏「誰かに」感謝するので3格！", "bonus": "感謝の理由は für + 4格：Ich danke dir für die Blumen."},
+      "A1-182": {"pron": "アントヴォルテン", "tip": "人に答えるなら3格 💬 Antworte mir!", "warn": "質問に答えるときは auf + 4格：auf die Frage antworten"},
+      "A2-159": {"pron": "グラトゥリーレン", "tip": "お祝いは「誰かに」言うもの 🎉 ラテン語 gratulari から。", "bonus": "何を祝うかは zu + 3格：Ich gratuliere dir zum Geburtstag!"},
+      "A2-160": {"pron": "シュメッケン", "tip": "料理が主語、食べる人が3格 😋 Schmeckt's dir?", "bonus": "食事の前に：Lass es dir schmecken! = 召し上がれ！"},
+      "A2-351": {"pron": "ツーヘーレン", "tip": "zu（〜のほうへ）+ hören = 誰かのほうへ耳を傾ける 👂", "warn": "分離動詞 + 3格：Hör mir zu! / hat zugehört"},
+      "B1-177": {"pron": "フェアトラウエン", "tip": "英語の trust と同じ語源 🫶 信頼は「誰かに」寄せるもの！", "bonus": "名詞：das Vertrauen = 信頼"},
+      "B1-314": {"pron": "フォルゲン", "tip": "英語の follow と同じ語源 👣「誰かの後に」ついていくので3格！", "warn": "完了形は sein：Ich bin ihm gefolgt."}
+    },
+    "culture": [
+      "ドイツに来たばかりだと「Wie gefällt dir Deutschland?」と本当によく聞かれます。「Es gefällt mir gut!」はすぐ答えられるようにしておきましょう。",
+      "ドイツでは、誕生日のお祝いを当日より前に言うと縁起が悪いと考える人が多いです。なので Ich gratuliere dir! はふつう当日かその後に言います。前の晩に集まって、夜中の12時にお祝いするのも人気です。",
+      "食事の席では Guten Appetit! のほかに Lass es dir schmecken! もよく言います。職場によっては、お昼どきに Mahlzeit! とだけあいさつするところもあります。🍽️"
+    ],
+    "quiz": {"q": "友だちが作ったスープを食べています。おいしいか聞かれたら何と答えますか？", "o": ["Die Suppe schmeckt mir sehr gut!", "Die Suppe gehört mir.", "Ich folge der Suppe."], "a": 0, "why": "schmecken は食べる人を3格にとるので schmeckt mir です。"},
+    "outro": "今日は「Kannst du mir helfen?」「Das gefällt mir!」「Hör mir zu!」の3文を、それぞれ3回ずつ声に出してみましょう。mich ではなく mir が自然に出てくるまで！💪"
+  }
+}

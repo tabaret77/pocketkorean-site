@@ -1,0 +1,231 @@
+{
+  "key": "laundry",
+  "ko": {
+    "title": "빨래부터 단추 달기까지, 생활 독일어 10",
+    "hook": "독일 집 지하실 세탁기 앞에서 멈칫한 적 있다면, 오늘 단어가 딱이에요.",
+    "intro": [
+      "이사 온 첫 주, 빨래 바구니를 들고 지하실(Keller)로 내려갔어요. 세탁기는 있는데 이웃이 붙여 둔 쪽지가 전부 독일어! 게다가 셔츠에는 커피 얼룩, 코트에는 떨어지기 직전인 단추까지.",
+      "오늘은 빨래하고, 말리고, 다리고, 세탁소에 맡기고, 단추 하나 꿰매는 데 필요한 단어 10개를 모았어요. 이제 세탁소에서도 수선집에서도 당당하게 말할 수 있어요. 👕"
+    ],
+    "words": {
+      "A2-279": {
+        "pron": "배셰",
+        "tip": "waschen(빨다)에 점 두 개 찍으면 Wäsche(빨래) 🧺 빨아야 할 것들 전부예요!",
+        "warn": "복수 없이 써요. 속옷이라는 뜻도 있으니 문맥을 잘 보세요."
+      },
+      "BL-16-05": {
+        "pron": "바셴",
+        "tip": "영어 wash랑 같은 뿌리예요 🫧 wasch-wash, 소리도 비슷하죠?",
+        "warn": "du wäschst, er wäscht처럼 모음이 바뀌어요."
+      },
+      "A2-128": {
+        "pron": "바슈마쉬네",
+        "tip": "waschen + Maschine = 빨래 기계 🌀 그냥 이어 붙이면 끝!",
+        "bonus": "건조기 = der Trockner"
+      },
+      "B1-1389": {
+        "pron": "바슈미텔",
+        "tip": "Mittel은 ‘~하는 약, 수단’ 🧴 빨래하는 Mittel = 세제!",
+        "bonus": "섬유유연제 = der Weichspüler (weich = 부드러운)"
+      },
+      "B1-1271": {
+        "pron": "트로크넨",
+        "tip": "형용사 trocken(마른)에서 왔어요 ☀️ 트로크—하고 바삭 마르는 느낌!",
+        "bonus": "빨래 건조대 = der Wäscheständer"
+      },
+      "B2-2363": {
+        "pron": "뷔겔른",
+        "tip": "옷걸이도 der Bügel이에요 👔 옷걸이에 걸고 쫙 다리는 장면을 떠올려요.",
+        "bonus": "다리미 = das Bügeleisen · 셔츠 라벨의 bügelfrei = 다림질 필요 없음"
+      },
+      "A2-552": {
+        "pron": "라이니궁",
+        "tip": "rein(깨끗한) + -ung = 깨끗하게 하는 곳 ✨ -ung이니까 die!",
+        "warn": "‘청소’라는 뜻도 있어요. 세탁소는 in die Reinigung bringen처럼 써요."
+      },
+      "B1-683": {
+        "pron": "플렉",
+        "tip": "영어 fleck(작은 점)이랑 똑같아요 ☕ 커피 한 방울이면 Fleck 완성!",
+        "warn": "복수는 die Flecken, n이 붙어요."
+      },
+      "B1-974": {
+        "pron": "내엔",
+        "tip": "die Nadel(바늘)과 같은 뿌리 🪡 바늘로 하는 일 = nähen!",
+        "bonus": "단추를 달다 = einen Knopf annähen"
+      },
+      "B1-864": {
+        "pron": "크노프",
+        "tip": "영어 knob과 친척이에요 🔘 하지만 독일어는 K도 소리 내요: 크-노프!",
+        "warn": "복수는 die Knöpfe, 모음에 점이 생겨요."
+      }
+    },
+    "culture": [
+      "독일 아파트에서는 세탁기를 집 안 욕실이나 부엌에 두는 경우도 많지만, 오래된 건물은 지하실에 각자 세탁기를 두거나 공용 세탁실(Waschküche)을 쓰기도 해요. 공용이면 순서표가 붙어 있는 경우가 많아요.",
+      "건조기는 생각보다 덜 흔해서 많은 사람들이 건조대(Wäscheständer)에 빨래를 널어요. 밤늦게나 일요일에 세탁기를 돌리는 걸 싫어하는 이웃도 있으니, 건물 규칙(Hausordnung)을 한 번 읽어 보면 좋아요.",
+      "바지 기장 줄이기나 지퍼 교체는 동네 수선집(Änderungsschneiderei)에 맡기면 돼요. 작은 가게가 많고, 세탁소와 같이 하는 곳도 있어요. 🧵"
+    ],
+    "quiz": {
+      "q": "셔츠에 커피를 쏟았어요. 친구에게 뭐라고 말할까요?",
+      "o": [
+        "Ich habe einen Fleck auf dem Hemd.",
+        "Ich habe einen Knopf auf dem Hemd.",
+        "Ich bügle den Fleck."
+      ],
+      "a": 0,
+      "why": "Fleck = 얼룩이라서 ‘셔츠에 얼룩이 생겼어’가 정답이에요."
+    },
+    "outro": "오늘 빨래할 때 Wäsche, waschen, trocknen을 하나씩 소리 내서 말해 봐요. 빨래도 하고 독일어도 하고, 일석이조예요! 🧺"
+  },
+  "en": {
+    "title": "From laundry day to loose buttons: 10 German words",
+    "hook": "If you've ever stood in a German cellar staring at a washing machine, today's words are for you.",
+    "intro": [
+      "Your first week in a new flat. You carry your laundry basket down to the cellar (Keller), and there's the machine — plus a note from a neighbour, all in German. Your shirt has a coffee stain, and your coat button is hanging by a thread.",
+      "Today's ten words cover washing, drying, ironing, the dry cleaner's and a bit of sewing. With them you can handle laundry day and explain what you need at the cleaner's or the alterations shop. 👕"
+    ],
+    "words": {
+      "A2-279": {
+        "pron": "VESH-uh",
+        "tip": "waschen + two dots = Wäsche 🧺 Everything that needs washing.",
+        "warn": "No plural. It can also mean underwear, so watch the context."
+      },
+      "BL-16-05": {
+        "pron": "VASH-en",
+        "tip": "Same root as English wash 🫧 wasch, wash — you can hear it.",
+        "warn": "The vowel changes: du wäschst, er wäscht."
+      },
+      "A2-128": {
+        "pron": "VASH-ma-shee-nuh",
+        "tip": "waschen + Maschine = washing machine 🌀 Just glue them together.",
+        "bonus": "tumble dryer = der Trockner"
+      },
+      "B1-1389": {
+        "pron": "VASH-mit-tel",
+        "tip": "Mittel means ‘agent, remedy’ 🧴 A washing agent = detergent.",
+        "bonus": "fabric softener = der Weichspüler (weich = soft)"
+      },
+      "B1-1271": {
+        "pron": "TROCK-nen",
+        "tip": "From trocken (dry) ☀️ Think of a dry, crunchy ‘trock’.",
+        "bonus": "clothes horse / drying rack = der Wäscheständer"
+      },
+      "B2-2363": {
+        "pron": "BUE-geln",
+        "tip": "A clothes hanger is also der Bügel 👔 Hang it, then iron it.",
+        "bonus": "an iron = das Bügeleisen · bügelfrei on a label = non-iron"
+      },
+      "A2-552": {
+        "pron": "RYE-ni-goong",
+        "tip": "rein (clean) + -ung = the cleaning place ✨ -ung means die.",
+        "warn": "It also just means ‘cleaning’. For the shop: in die Reinigung bringen."
+      },
+      "B1-683": {
+        "pron": "FLECK",
+        "tip": "Like English fleck ☕ One drop of coffee and you've got a Fleck.",
+        "warn": "The plural adds -en: die Flecken."
+      },
+      "B1-974": {
+        "pron": "NAY-en",
+        "tip": "Same root as die Nadel (needle) 🪡 What do you do with a needle? nähen.",
+        "bonus": "to sew on a button = einen Knopf annähen"
+      },
+      "B1-864": {
+        "pron": "k-NOPF",
+        "tip": "A cousin of English knob 🔘 But in German you say the K: k-nopf!",
+        "warn": "Plural with umlaut: die Knöpfe."
+      }
+    },
+    "culture": [
+      "In many German flats the washing machine sits in the bathroom or kitchen, but in older buildings it's often in the cellar, or there's a shared laundry room (Waschküche). Shared rooms often have a sign-up sheet.",
+      "Tumble dryers are less common than you might expect, so lots of people dry clothes on a rack (Wäscheständer). Some neighbours don't like machines running late at night or on Sundays, so it's worth reading the house rules (Hausordnung).",
+      "For shortening trousers or replacing a zip, look for an alterations shop (Änderungsschneiderei). They're usually small local shops, and some double as dry cleaner's. 🧵"
+    ],
+    "quiz": {
+      "q": "You've spilled coffee on your shirt. What do you tell your friend?",
+      "o": [
+        "Ich habe einen Fleck auf dem Hemd.",
+        "Ich habe einen Knopf auf dem Hemd.",
+        "Ich bügle den Fleck."
+      ],
+      "a": 0,
+      "why": "Fleck means stain, so this says ‘I've got a stain on my shirt’."
+    },
+    "outro": "Next time you do your washing, say Wäsche, waschen and trocknen out loud as you go. Clean clothes and better German! 🧺"
+  },
+  "ja": {
+    "title": "洗濯からボタン付けまで、暮らしのドイツ語10",
+    "hook": "ドイツの地下室で洗濯機の前に立ち尽くしたことがあるなら、今日の単語がぴったりです。",
+    "intro": [
+      "引っ越して最初の週、洗濯かごを持って地下室（Keller）へ。洗濯機はあるけれど、隣の人が貼った張り紙は全部ドイツ語。しかもシャツにはコーヒーのしみ、コートのボタンは今にも取れそう。",
+      "今日は洗う、干す、アイロンをかける、クリーニングに出す、ボタンを付ける、に必要な単語を10個集めました。これでクリーニング店でもお直しの店でも、ちゃんと伝えられます。👕"
+    ],
+    "words": {
+      "A2-279": {
+        "pron": "ヴェッシェ",
+        "tip": "waschen（洗う）に点を2つ付けると Wäsche（洗濯物）🧺 洗うもの全部です！",
+        "warn": "複数形はありません。下着という意味もあるので文脈に注意。"
+      },
+      "BL-16-05": {
+        "pron": "ヴァッシェン",
+        "tip": "英語の wash と同じ語源 🫧 wasch と wash、音も似ていますね。",
+        "warn": "du wäschst, er wäscht と母音が変わります。"
+      },
+      "A2-128": {
+        "pron": "ヴァッシュマシーネ",
+        "tip": "waschen + Maschine = 洗う機械 🌀 つなげるだけ！",
+        "bonus": "乾燥機 = der Trockner"
+      },
+      "B1-1389": {
+        "pron": "ヴァッシュミッテル",
+        "tip": "Mittel は「〜するための剤」🧴 洗うための剤 = 洗剤！",
+        "bonus": "柔軟剤 = der Weichspüler（weich = やわらかい）"
+      },
+      "B1-1271": {
+        "pron": "トロックネン",
+        "tip": "形容詞 trocken（乾いた）から ☀️「トロッ」とカラッと乾くイメージ！",
+        "bonus": "物干しラック = der Wäscheständer"
+      },
+      "B2-2363": {
+        "pron": "ビューゲルン",
+        "tip": "ハンガーも der Bügel 👔 ハンガーに掛けてピシッとアイロン！",
+        "bonus": "アイロン = das Bügeleisen · タグの bügelfrei = アイロン不要"
+      },
+      "A2-552": {
+        "pron": "ライニグング",
+        "tip": "rein（きれいな）+ -ung = きれいにする所 ✨ -ung なので die！",
+        "warn": "「掃除」という意味もあります。店に出すときは in die Reinigung bringen。"
+      },
+      "B1-683": {
+        "pron": "フレック",
+        "tip": "英語の fleck（小さな斑点）とそっくり ☕ コーヒー1滴で Fleck のできあがり！",
+        "warn": "複数形は die Flecken、n が付きます。"
+      },
+      "B1-974": {
+        "pron": "ネーエン",
+        "tip": "die Nadel（針）と同じ語源 🪡 針でする作業 = nähen！",
+        "bonus": "ボタンを付ける = einen Knopf annähen"
+      },
+      "B1-864": {
+        "pron": "クノップフ",
+        "tip": "英語の knob の親戚 🔘 でもドイツ語では K も発音します：ク・ノップフ！",
+        "warn": "複数形は die Knöpfe、ウムラウトが付きます。"
+      }
+    },
+    "culture": [
+      "ドイツのアパートでは洗濯機を浴室や台所に置くことも多いですが、古い建物では地下室に各自の洗濯機を置いたり、共用の洗濯室（Waschküche）を使ったりします。共用の場合は予約表が貼ってあることが多いです。",
+      "乾燥機は意外と少なく、多くの人が物干しラック（Wäscheständer）に干しています。夜遅くや日曜日に洗濯機を回すのを嫌がるご近所さんもいるので、建物の規則（Hausordnung）を一度読んでおくと安心です。",
+      "ズボンの裾上げやファスナー交換は、街のお直し屋さん（Änderungsschneiderei）へ。小さなお店が多く、クリーニング店を兼ねているところもあります。🧵"
+    ],
+    "quiz": {
+      "q": "シャツにコーヒーをこぼしました。友だちに何と言いますか？",
+      "o": [
+        "Ich habe einen Fleck auf dem Hemd.",
+        "Ich habe einen Knopf auf dem Hemd.",
+        "Ich bügle den Fleck."
+      ],
+      "a": 0,
+      "why": "Fleck は「しみ」なので「シャツにしみがついた」が正解です。"
+    },
+    "outro": "今日洗濯するときに、Wäsche、waschen、trocknen をひとつずつ声に出してみましょう。服もきれいに、ドイツ語も上達です！🧺"
+  }
+}

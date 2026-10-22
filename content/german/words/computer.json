@@ -1,0 +1,84 @@
+{
+  "key": "computer",
+  "ko": {
+    "title": "독일 사무실에서 매일 듣는 컴퓨터 단어 10",
+    "hook": "독일 노트북을 처음 열면 z와 y가 바뀌어 있어서 깜짝 놀라요.",
+    "intro": [
+      "독일 회사 첫 출근 날, IT 담당자가 노트북을 건네주며 말해요. ‘Programm installieren, Datei speichern, dann…’ 반쯤 알아듣고 고개를 끄덕였는데, 비밀번호를 치려니 z와 y 자리가 바뀌어 있어요!",
+      "오늘은 컴퓨터를 쓸 때 꼭 나오는 단어 10개예요. 화면, 키보드, 마우스부터 클릭, 저장, 다운로드, 설치까지, 이 단어들이면 독일어 설정 화면도, 동료의 부탁도 겁나지 않아요. 💻"
+    ],
+    "words": {
+      "A1-167": {"pron": "콤퓨터", "tip": "영어 computer 그대로 🖥️ 남성 der만 기억하면 끝!", "warn": "복수도 그대로 die Computer예요. -s를 붙이지 않아요."},
+      "A2-503": {"pron": "렙톱", "tip": "무릎(lap) 위(top)에 올려 쓰는 컴퓨터 💻 영어 그대로예요.", "bonus": "der Laptop, das Laptop 둘 다 써요."},
+      "B1-523": {"pron": "빌트쉬름", "tip": "Bild(그림) + Schirm(가림막, 우산) = 그림이 나오는 막 📺 우산은 Regenschirm!", "bonus": "vor dem Bildschirm sitzen = 화면 앞에 앉아 있다"},
+      "B1-1233": {"pron": "타스타투어", "tip": "Taste(키)가 잔뜩 모인 게 Tastatur ⌨️ 키 하나는 die Taste!", "warn": "독일 키보드는 QWERTZ라서 Y와 Z 자리가 바뀌어 있어요."},
+      "B1-1976": {"pron": "마우스", "tip": "영어 mouse와 같은 단어 🐭 진짜 쥐도, 컴퓨터 마우스도 Maus!", "warn": "복수는 모음이 바뀌어요: die Mäuse"},
+      "B1-853": {"pron": "클리켄", "tip": "‘클릭’ 소리 그대로 동사가 됐어요 🖱️ Klicken Sie hier!", "bonus": "더블클릭은 der Doppelklick"},
+      "A2-443": {"pron": "다타이", "tip": "Daten(데이터) + Kartei(카드 목록)가 합쳐진 말 📁 데이터를 담은 파일 하나!", "warn": "die Daten(데이터)과 헷갈리지 마요. 파일 하나는 die Datei."},
+      "A2-338": {"pron": "슈파이혀른", "tip": "der Speicher는 원래 곡식 창고 🌾 데이터를 창고에 쌓아 두는 게 저장!", "bonus": "반대로 지우기는 löschen"},
+      "A2-315": {"pron": "헤룬터라덴", "tip": "herunter(아래로) + laden(싣다) = download를 그대로 번역 ⬇️", "warn": "분리동사: Ich lade die App herunter. 구어에선 runterladen이라고도 해요."},
+      "B1-807": {"pron": "인스탈리렌", "tip": "영어 install에 -ieren만 붙였어요 ⚙️ -ieren 동사는 완료형에 ge-가 없어요!", "bonus": "완료형: hat installiert"}
+    },
+    "culture": [
+      "독일 키보드는 QWERTZ 배열이에요. Y와 Z가 바뀌어 있고, ä, ö, ü, ß 키가 따로 있어요. 처음엔 오타가 많이 나지만, 익숙해지면 독일어 쓰기가 훨씬 편해져요.",
+      "IT 용어는 영어를 그대로 쓰는 경우가 많아요. herunterladen 대신 downloaden이라고 말하는 사람도 있고, 회사나 사람마다 달라요. 그래도 설정 화면이나 공식 안내문에서는 독일어 단어가 자주 나오니 둘 다 알아 두면 좋아요.",
+      "그리고 독일에서는 Datenschutz(개인정보 보호)를 중요하게 생각하는 사람이 많아요. 사진을 SNS에 올리기 전에 한 번 물어보는 게 매너예요. 🔒"
+    ],
+    "quiz": {"q": "동료가 가진 문서가 필요해요. 뭐라고 부탁할까요?", "o": ["Kannst du die Datei herunterladen?", "Kannst du auf den Bildschirm klicken?", "Kannst du mir die Datei schicken?"], "a": 2, "why": "mir … schicken = 나에게 보내다, 파일을 보내 달라는 부탁이에요."},
+    "outro": "오늘 컴퓨터를 켜면 하나씩 이름을 불러 봐요. der Bildschirm, die Tastatur, die Maus! 그리고 잊지 말고 speichern! 💾"
+  },
+  "en": {
+    "title": "Click, save, download: 10 computer words for a German office",
+    "hook": "Open a German laptop for the first time and you'll find the Z and Y have swapped places.",
+    "intro": [
+      "It's your first day at a German company. The IT person hands you a laptop and says: ‘Programm installieren, Datei speichern, dann…’ You nod along, catching half of it, then try to type your password and find the Z where the Y should be!",
+      "Today's ten words are the ones you meet every time you use a computer. Screen, keyboard and mouse, then clicking, saving, downloading and installing: with these, German settings menus and your colleagues' requests won't scare you. 💻"
+    ],
+    "words": {
+      "A1-167": {"pron": "kom-PYOO-ter", "tip": "Straight from English 🖥️ Just remember it's der.", "warn": "The plural is also die Computer, with no -s."},
+      "A2-503": {"pron": "LEP-top", "tip": "A computer for your lap 💻 Same word as in English.", "bonus": "Both der Laptop and das Laptop are used."},
+      "B1-523": {"pron": "BILT-shirm", "tip": "Bild (picture) + Schirm (screen, shade) = picture screen 📺 An umbrella is a Regenschirm!", "bonus": "vor dem Bildschirm sitzen = to sit in front of a screen"},
+      "B1-1233": {"pron": "tas-ta-TOOR", "tip": "Lots of Tasten (keys) together make a Tastatur ⌨️ One key is die Taste.", "warn": "German keyboards are QWERTZ: Y and Z are swapped."},
+      "B1-1976": {"pron": "mowss", "tip": "Same word as English mouse 🐭 For the animal and the gadget.", "warn": "The plural changes the vowel: die Mäuse"},
+      "B1-853": {"pron": "KLICK-en", "tip": "The click sound turned into a verb 🖱️ Klicken Sie hier!", "bonus": "A double click is der Doppelklick"},
+      "A2-443": {"pron": "da-TIE", "tip": "A blend of Daten (data) + Kartei (card index) 📁 One file full of data.", "warn": "Don't mix it up with die Daten (data). One computer file is die Datei."},
+      "A2-338": {"pron": "SHPY-khern", "tip": "der Speicher was originally a granary 🌾 Saving means storing your data in the barn.", "bonus": "The opposite, to delete: löschen"},
+      "A2-315": {"pron": "heh-ROON-ter-lah-den", "tip": "herunter (down) + laden (to load) = download, translated piece by piece ⬇️", "warn": "Separable: Ich lade die App herunter. In speech, often runterladen."},
+      "B1-807": {"pron": "in-sta-LEE-ren", "tip": "English install + -ieren ⚙️ Verbs ending in -ieren take no ge- in the perfect.", "bonus": "Perfect: hat installiert"}
+    },
+    "culture": [
+      "German keyboards use the QWERTZ layout. Y and Z are swapped, and there are separate keys for ä, ö, ü and ß. You'll make plenty of typos at first, but once you're used to it, typing German gets much easier.",
+      "Plenty of computer vocabulary is simply English. Some people say downloaden instead of herunterladen; it depends on the person and the workplace. Settings menus and official instructions often use the German words, though, so it helps to know both.",
+      "Many people in Germany also take Datenschutz (data protection and privacy) seriously. It's good manners to ask before posting a photo of someone online. 🔒"
+    ],
+    "quiz": {"q": "You need a document your colleague has. What do you ask?", "o": ["Kannst du die Datei herunterladen?", "Kannst du auf den Bildschirm klicken?", "Kannst du mir die Datei schicken?"], "a": 2, "why": "mir … schicken means send to me, so you're asking them to send you the file."},
+    "outro": "When you switch on your computer today, name what you see: der Bildschirm, die Tastatur, die Maus. And don't forget to speichern! 💾"
+  },
+  "ja": {
+    "title": "ドイツのオフィスで毎日聞くパソコン用語10",
+    "hook": "ドイツのノートパソコンを初めて開くと、Z と Y の位置が入れ替わっていてびっくりします。",
+    "intro": [
+      "ドイツの会社への初出勤日。IT担当の人がノートパソコンを渡しながら「Programm installieren, Datei speichern, dann…」と説明してくれます。半分わかったつもりでうなずき、パスワードを打とうとしたら、Z と Y が逆の位置に！",
+      "今日はパソコンを使うときに必ず出てくる10語です。画面、キーボード、マウスから、クリック、保存、ダウンロード、インストールまで。この単語があれば、ドイツ語の設定画面も同僚からの頼みごとも怖くありません。💻"
+    ],
+    "words": {
+      "A1-167": {"pron": "コンピューター", "tip": "英語の computer そのまま 🖥️ 男性名詞 der だけ覚えればOK！", "warn": "複数形もそのまま die Computer。-s は付けません。"},
+      "A2-503": {"pron": "レップトップ", "tip": "ひざ（lap）の上（top）で使うパソコン 💻 英語と同じです。", "bonus": "der Laptop と das Laptop、どちらも使います。"},
+      "B1-523": {"pron": "ビルトシルム", "tip": "Bild（絵）+ Schirm（幕、傘）= 絵が映る幕 📺 傘は Regenschirm！", "bonus": "vor dem Bildschirm sitzen = 画面の前に座っている"},
+      "B1-1233": {"pron": "タスタトゥーア", "tip": "Taste（キー）がたくさん集まって Tastatur ⌨️ キー1つは die Taste！", "warn": "ドイツのキーボードは QWERTZ 配列で、Y と Z が逆です。"},
+      "B1-1976": {"pron": "マウス", "tip": "英語の mouse と同じ単語 🐭 本物のネズミもパソコンのマウスも Maus！", "warn": "複数形は母音が変わります：die Mäuse"},
+      "B1-853": {"pron": "クリッケン", "tip": "「カチッ」というクリック音がそのまま動詞に 🖱️ Klicken Sie hier!", "bonus": "ダブルクリックは der Doppelklick"},
+      "A2-443": {"pron": "ダタイ", "tip": "Daten（データ）+ Kartei（カード目録）が合体 📁 データの入ったファイル1つ！", "warn": "die Daten（データ）と混同しないように。ファイル1つは die Datei です。"},
+      "A2-338": {"pron": "シュパイヒャーン", "tip": "der Speicher はもともと穀物倉庫 🌾 データを倉庫にしまうのが保存！", "bonus": "反対に、消すは löschen"},
+      "A2-315": {"pron": "ヘルンターラーデン", "tip": "herunter（下へ）+ laden（積む）= download をそのまま翻訳 ⬇️", "warn": "分離動詞：Ich lade die App herunter. 口語では runterladen とも言います。"},
+      "B1-807": {"pron": "インスタリーレン", "tip": "英語の install に -ieren を付けただけ ⚙️ -ieren 動詞は完了形に ge- が付きません！", "bonus": "完了形：hat installiert"}
+    },
+    "culture": [
+      "ドイツのキーボードは QWERTZ 配列です。Y と Z が入れ替わっていて、ä、ö、ü、ß のキーが別にあります。最初は打ち間違いが多いですが、慣れるとドイツ語がずっと打ちやすくなります。",
+      "IT用語は英語をそのまま使うことも多く、herunterladen の代わりに downloaden と言う人もいます。人や職場によってさまざまです。ただ、設定画面や公式の案内ではドイツ語の単語がよく出てくるので、両方知っておくと安心です。",
+      "それから、ドイツでは Datenschutz（個人情報保護）を大切に考える人が多いです。人の写真をSNSに載せる前に、ひとこと確認するのがマナーです。🔒"
+    ],
+    "quiz": {"q": "同僚が持っている資料が必要です。何と頼みますか？", "o": ["Kannst du die Datei herunterladen?", "Kannst du auf den Bildschirm klicken?", "Kannst du mir die Datei schicken?"], "a": 2, "why": "mir … schicken は「私に送る」なので、ファイルを送ってほしいというお願いです。"},
+    "outro": "今日パソコンをつけたら、見えるものの名前を言ってみましょう。der Bildschirm、die Tastatur、die Maus！そして忘れずに speichern！💾"
+  }
+}

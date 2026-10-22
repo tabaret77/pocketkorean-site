@@ -1,0 +1,84 @@
+{
+  "key": "love",
+  "ko": {
+    "title": "설렘이 시작될 때 필요한 독일어 10",
+    "hook": "독일어로 „Ich liebe dich“를 말하기 전에, 그 앞 단계 단어부터 알아야 해요.",
+    "intro": [
+      "어학원에서 매일 옆자리에 앉는 그 사람. 오늘은 수업 끝나고 커피 한잔하자고 하네요. 이거 그냥 친구 약속일까, 데이트일까? 독일 친구에게 물어보고 싶은데 단어가 안 떠올라요.",
+      "오늘은 연애할 때 꼭 필요한 단어 10개를 모았어요. 첫눈에 반하는 순간부터 데이트, 연애 관계까지 이 10개로 이야기할 수 있어요. 연애 드라마를 볼 때도 귀에 쏙쏙 들어올 거예요! 💕"
+    ],
+    "words": {
+      "A2-247": {"pron": "리베", "tip": "영어 love와 같은 뿌리 💘 ‘리베~’ 하고 부르면 사랑이 와요!", "bonus": "Liebe auf den ersten Blick = 첫눈에 반한 사랑"},
+      "A1-321": {"pron": "리벤", "tip": "die Liebe에 -n만 붙이면 동사 ❤️ Ich liebe dich. 딱 세 단어!", "warn": "Ich liebe dich는 아주 무거운 말이에요. 가족·친구에게는 보통 Ich hab dich lieb.라고 해요."},
+      "A2-616": {"pron": "지히 페어리벤", "tip": "ver- + lieben, ‘푹 빠져 버리다’ 😍 사랑에 빠지는 것도 재귀동사예요!", "warn": "누구에게 반하면 in + 4격: Ich habe mich in ihn verliebt."},
+      "B1-1335": {"pron": "페어립트", "tip": "sich verlieben의 과거분사 = 이미 빠져 버린 상태 🥰", "bonus": "verliebt sein vs. sich verlieben: 상태냐, 그 순간이냐의 차이예요."},
+      "B2-2144": {"pron": "플뢰르텐", "tip": "영어 flirt를 그대로 빌려 왔어요 😉 발음만 살짝 독일식!", "bonus": "mit jemandem flirten = 누구와 썸 타다, 추파를 던지다"},
+      "B1-1319": {"pron": "페어압레둥", "tip": "ver + ab + reden(말하다) = 미리 말을 맞춘 약속 ☕ -ung이니까 die!", "warn": "의사·업무 약속은 der Termin이에요. 친구·데이트 약속이 Verabredung."},
+      "B1-895": {"pron": "퀴센", "tip": "영어 kiss에 우물 같은 ü 하나 💋 명사는 der Kuss!", "bonus": "Küsschen = 가벼운 뽀뽀 (-chen이라 das)"},
+      "A2-257": {"pron": "파르트너", "tip": "영어 partner와 똑같아요 💑 남녀 상관없이 쓰기 좋은 말!", "bonus": "여성형은 die Partnerin"},
+      "B1-011": {"pron": "베치웅", "tip": "be- + ziehen(당기다) 🧲 서로를 끌어당기는 게 관계!", "bonus": "in einer Beziehung sein = 연애 중이다"},
+      "B1-398": {"pron": "로만티쉬", "tip": "영어 romantic과 쌍둥이 🌹 끝만 -isch로 바꾸면 돼요.", "bonus": "반대로 분위기 깨는 사람은? unromantisch!"}
+    },
+    "culture": [
+      "독일에서는 첫 데이트에서 각자 계산하는 일이 꽤 흔해요. 계산할 때 점원이 „Zusammen oder getrennt?“(같이 하실래요, 따로 하실래요?)라고 물어봐요. 물론 커플마다 다르니까 분위기를 보고 정하면 돼요.",
+      "„Ich liebe dich“는 정말 진지한 고백이라서 사귀고 나서도 한참 뒤에 말하는 사람이 많아요. 그 전에는 „Ich mag dich“나 „Ich hab dich lieb“로 마음을 전하기도 해요.",
+      "연인끼리는 Schatz(보물), Maus(생쥐) 같은 애칭을 많이 써요. 생쥐라니 귀엽죠? 🐭"
+    ],
+    "quiz": {"q": "어학원 친구에게 반해 버렸어요. 독일 친구에게 어떻게 털어놓을까요?", "o": ["Ich habe mich verliebt.", "Ich habe heute einen Termin.", "Er küsst seine Frau zum Abschied."], "a": 0, "why": "sich verlieben은 사랑에 빠지다라서 Ich habe mich verliebt. = 나 사랑에 빠졌어.예요."},
+    "outro": "좋아하는 연애 영화 한 장면을 떠올리고, 오늘 단어로 한 문장씩 만들어 소리 내 봐요. 설렘은 공부에도 좋은 연료예요! 💌"
+  },
+  "en": {
+    "title": "Falling for German: 10 words about love",
+    "hook": "Before you ever say „Ich liebe dich“, you'll need the words for everything that comes before it.",
+    "intro": [
+      "There's someone who always sits next to you at language school. Today they ask if you'd like a coffee after class. Is it just a friendly chat or a date? You want to ask a German friend, but the words won't come.",
+      "Today's ten words are all about dating and love. With them you can talk about falling for someone, going on dates and being in a relationship. Romantic films will suddenly make a lot more sense too! 💕"
+    ],
+    "words": {
+      "A2-247": {"pron": "LEE-buh", "tip": "Same root as English love 💘 Say it softly: LEE-buh.", "bonus": "Liebe auf den ersten Blick = love at first sight"},
+      "A1-321": {"pron": "LEE-ben", "tip": "die Liebe plus -n gives you the verb ❤️ Ich liebe dich. Three little words.", "warn": "Ich liebe dich is heavy. For family and friends, people usually say Ich hab dich lieb."},
+      "A2-616": {"pron": "zikh fair-LEE-ben", "tip": "ver- + lieben, ‘to tumble into love’ 😍 Falling in love is reflexive in German!", "warn": "Fall in love with someone = in + accusative: Ich habe mich in ihn verliebt."},
+      "B1-1335": {"pron": "fair-LEEPT", "tip": "The past participle of sich verlieben — you've already fallen 🥰", "bonus": "verliebt sein = being in love; sich verlieben = the moment it happens."},
+      "B2-2144": {"pron": "FLUR-ten", "tip": "Borrowed straight from English flirt 😉 Just a German ending.", "bonus": "mit jemandem flirten = to flirt with someone"},
+      "B1-1319": {"pron": "fair-AP-ray-doong", "tip": "ver + ab + reden (talk) = something you've agreed on ☕ -ung means die!", "warn": "Doctor or business appointment = der Termin. Meeting a friend or a date = Verabredung."},
+      "B1-895": {"pron": "KISS-en", "tip": "English kiss with a pouty ü 💋 The noun is der Kuss.", "bonus": "Küsschen = a little peck (-chen, so das)"},
+      "A2-257": {"pron": "PART-ner", "tip": "Same as English partner 💑 Handy and neutral.", "bonus": "Female form: die Partnerin"},
+      "B1-011": {"pron": "buh-TSEE-oong", "tip": "be- + ziehen (pull) 🧲 A relationship is two people drawn together.", "bonus": "in einer Beziehung sein = to be in a relationship"},
+      "B1-398": {"pron": "ro-MAN-tish", "tip": "Twin of English romantic 🌹 Just swap the ending for -isch.", "bonus": "The mood-killer? unromantisch!"}
+    },
+    "culture": [
+      "In Germany it's quite common to split the bill on a first date. When you pay, the server will often ask „Zusammen oder getrennt?“ — together or separately? Every couple is different, so read the room.",
+      "„Ich liebe dich“ is a serious declaration, and many people wait a long time into a relationship before saying it. Before that, „Ich mag dich“ or „Ich hab dich lieb“ do the job.",
+      "Couples love pet names like Schatz (treasure) or Maus (mouse). Yes, mouse — it's meant to be sweet! 🐭"
+    ],
+    "quiz": {"q": "You've fallen for someone at language school. How do you tell your German friend?", "o": ["Ich habe mich verliebt.", "Ich habe heute einen Termin.", "Er küsst seine Frau zum Abschied."], "a": 0, "why": "sich verlieben means to fall in love, so Ich habe mich verliebt. = I've fallen in love."},
+    "outro": "Picture a scene from your favourite romantic film and make one sentence for it with each of today's words, out loud. A little romance is great fuel for learning! 💌"
+  },
+  "ja": {
+    "title": "ときめいたら使いたいドイツ語10",
+    "hook": "ドイツ語で「Ich liebe dich」と言う前に、その手前の言葉を知っておきましょう。",
+    "intro": [
+      "語学学校でいつも隣に座るあの人。今日は授業のあとにコーヒーでもどう？と誘われました。これってただの友だちの約束？それともデート？ドイツ人の友だちに聞きたいのに、単語が出てきません。",
+      "今日は恋愛でぜったい役に立つ単語を10個集めました。一目ぼれの瞬間からデート、お付き合いまで、この10個で話せます。恋愛ドラマを見るときも、すっと耳に入ってきますよ！💕"
+    ],
+    "words": {
+      "A2-247": {"pron": "リーベ", "tip": "英語の love と同じ語源 💘「リーベ〜」と呼べば恋がやってくる！", "bonus": "Liebe auf den ersten Blick = 一目ぼれ"},
+      "A1-321": {"pron": "リーベン", "tip": "die Liebe に -n をつけると動詞 ❤️ Ich liebe dich. の3語だけ！", "warn": "Ich liebe dich はとても重い言葉です。家族や友だちにはふつう Ich hab dich lieb. と言います。"},
+      "A2-616": {"pron": "ズィヒ フェアリーベン", "tip": "ver- + lieben で「すっかり恋に落ちる」😍 恋に落ちるのも再帰動詞！", "warn": "誰かに恋をするときは in + 4格：Ich habe mich in ihn verliebt."},
+      "B1-1335": {"pron": "フェアリープト", "tip": "sich verlieben の過去分詞 = もう恋に落ちている状態 🥰", "bonus": "verliebt sein は状態、sich verlieben は恋に落ちる瞬間です。"},
+      "B2-2144": {"pron": "フレーテン", "tip": "英語の flirt をそのまま借りた言葉 😉 語尾だけドイツ風！", "bonus": "mit jemandem flirten = 誰かといちゃつく、気を引く"},
+      "B1-1319": {"pron": "フェアアップレードゥング", "tip": "ver + ab + reden（話す）= 前もって話して決めた約束 ☕ -ung なので die！", "warn": "病院や仕事の予約は der Termin。友だちとの約束やデートが Verabredung です。"},
+      "B1-895": {"pron": "キュッセン", "tip": "英語の kiss に、口をすぼめる ü がひとつ 💋 名詞は der Kuss！", "bonus": "Küsschen = 軽いキス（-chen なので das）"},
+      "A2-257": {"pron": "パルトナー", "tip": "英語の partner と同じ 💑 性別を問わず使いやすい言葉です！", "bonus": "女性形は die Partnerin"},
+      "B1-011": {"pron": "ベツィーウング", "tip": "be- + ziehen（引く）🧲 お互いを引き寄せるのが関係！", "bonus": "in einer Beziehung sein = 付き合っている"},
+      "B1-398": {"pron": "ロマンティッシュ", "tip": "英語の romantic とそっくり 🌹 語尾を -isch にするだけ。", "bonus": "ムードを壊す人は？ unromantisch！"}
+    },
+    "culture": [
+      "ドイツでは、最初のデートで割り勘にすることもよくあります。お会計のとき、店員さんに「Zusammen oder getrennt?」（ご一緒ですか、別々ですか？）と聞かれます。カップルによって違うので、雰囲気を見て決めましょう。",
+      "「Ich liebe dich」はとても真剣な告白なので、付き合ってからしばらくたってから言う人が多いです。それまでは「Ich mag dich」や「Ich hab dich lieb」で気持ちを伝えることもあります。",
+      "恋人同士では Schatz（宝物）や Maus（ネズミ）といった呼び名をよく使います。ネズミなんてかわいいですよね？🐭"
+    ],
+    "quiz": {"q": "語学学校の人を好きになってしまいました。ドイツ人の友だちにどう打ち明けますか？", "o": ["Ich habe mich verliebt.", "Ich habe heute einen Termin.", "Er küsst seine Frau zum Abschied."], "a": 0, "why": "sich verlieben は恋に落ちるという意味なので、Ich habe mich verliebt. = 恋に落ちちゃった、です。"},
+    "outro": "好きな恋愛映画のワンシーンを思い浮かべて、今日の単語で1文ずつ声に出して作ってみましょう。ときめきは勉強のいい燃料です！💌"
+  }
+}

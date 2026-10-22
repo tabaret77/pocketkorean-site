@@ -1,0 +1,84 @@
+{
+  "key": "seinverbs",
+  "ko": {
+    "title": "haben 말고 sein! 완료형 동사 10",
+    "hook": "“Ich habe gegangen.” 이렇게 말해 본 적 있다면, 오늘 글은 딱 당신을 위한 거예요.",
+    "intro": [
+      "독일 친구에게 주말 이야기를 하다가 “Ich habe nach Hamburg gefahren.”이라고 했더니, 친구가 웃으면서 고쳐 줬어요. “Ich BIN gefahren!” 완료형은 다 haben인 줄 알았는데, 아니더라고요.",
+      "오늘은 완료형을 sein으로 만드는 동사 10개예요. 대부분 장소가 바뀌는 움직임이나 상태가 바뀌는 일이에요. 이 10개만 확실히 외워 두면 어제 있었던 일을 훨씬 자신 있게 말할 수 있어요. 🚶"
+    ],
+    "words": {
+      "A1-053": {"pron": "게엔", "tip": "영어 go랑 같은 뿌리 🚶 걸어서 이동하니까 sein!", "warn": "불규칙: Ich bin gegangen. (gegeht ✗)"},
+      "A1-054": {"pron": "코멘", "tip": "영어 come이랑 같은 뿌리 🏃 ‘오는’ 것도 이동이라 sein!", "bonus": "Wann bist du nach Hause gekommen? = 집에 언제 왔어?"},
+      "A1-055": {"pron": "파렌", "tip": "탈것으로 이동하면 fahren 🚗 장소가 바뀌니까 sein!", "warn": "‘차를 운전했다’처럼 목적어가 있으면 haben: Ich habe das Auto gefahren."},
+      "A1-315": {"pron": "플리겐", "tip": "영어 fly랑 같은 뿌리 ✈️ 하늘로 이동해도 sein!", "bonus": "명사: der Flug(비행), das Flugzeug(비행기)"},
+      "A1-193": {"pron": "블라이벤", "tip": "움직이지 않는데 sein?! 🛋️ 예외로 외워 두는 단골 동사예요.", "warn": "가만히 있어도 sein: Ich bin zu Hause geblieben."},
+      "A2-331": {"pron": "파시렌", "tip": "프랑스어 passer(지나가다) 💥 무슨 일이 ‘지나가며 생기는’ 느낌!", "warn": "-ieren 동사라서 ge-가 없어요: Was ist passiert? (gepassiert ✗)"},
+      "A2-053": {"pron": "움치엔", "tip": "um(바꿔서) + ziehen(옮기다) = 사는 곳 바꾸기 🚚 이동이니까 sein!", "warn": "sich umziehen(옷 갈아입다)은 haben: Ich habe mich umgezogen. 이사는 Ich bin umgezogen."},
+      "A2-738": {"pron": "아인슐라펜", "tip": "깨어 있다가 잠든 상태로 바뀌기 😴 상태 변화도 sein!", "bonus": "다리가 저릴 때도: Mein Bein ist eingeschlafen."},
+      "A2-458": {"pron": "팔렌", "tip": "영어 fall이랑 같아요 🍂 아래로 이동하니까 sein!", "warn": "fällen(나무를 베다)은 다른 동사이고 haben을 써요."},
+      "B1-346": {"pron": "슈테르벤", "tip": "영어 starve(굶주리다)와 같은 뿌리 🕯️ 삶에서 죽음으로, 가장 큰 상태 변화라 sein.", "bonus": "‘~로 죽다’는 an + 3격: an Krebs sterben"}
+    },
+    "culture": [
+      "독일 사람들은 말할 때 과거 이야기를 대부분 현재완료로 해요. 특히 남부에서는 Präteritum(단순 과거)을 거의 안 써서, Ich bin gestern ins Kino gegangen.처럼 sein 완료형을 하루에도 몇 번씩 듣게 돼요.",
+      "재미있는 건 지역 차이예요. 남부 독일, 오스트리아, 스위스에서는 sitzen, stehen, liegen도 sein으로 말해요. Ich bin gesessen. 북부에서는 Ich habe gesessen.이라고 하니, 둘 다 들어도 놀라지 마세요.",
+      "그리고 독일 사람들이 자주 하는 작별 인사 Bleib gesund!도 오늘 단어 bleiben이에요. 헤어질 때 한번 써 보세요. 👋"
+    ],
+    "quiz": {"q": "어제 영화 보다가 잠들었다고 말하고 싶어요. 올바른 문장은?", "o": ["Ich bin beim Film eingeschlafen.", "Ich habe beim Film eingeschlafen.", "Ich bin beim Film eingeschlaft."], "a": 0, "why": "einschlafen은 상태가 바뀌는 동사라 sein을 쓰고, 과거분사는 eingeschlafen이에요."},
+    "outro": "오늘은 어제 한 일을 sein 동사로 세 문장 말해 봐요. Ich bin … gegangen, gefahren, geblieben! 💬"
+  },
+  "en": {
+    "title": "Not haben but sein: 10 verbs for the perfect tense",
+    "hook": "If you've ever said “Ich habe gegangen”, this post is for you.",
+    "intro": [
+      "You're telling a German friend about your weekend: “Ich habe nach Hamburg gefahren.” She laughs and corrects you: “Ich BIN gefahren!” You thought the perfect always used haben. It doesn't.",
+      "Today's ten verbs form the perfect with sein. Most of them describe moving from one place to another or changing from one state to another. Learn these ten well and you'll talk about yesterday with much more confidence. 🚶"
+    ],
+    "words": {
+      "A1-053": {"pron": "GAY-en", "tip": "Same root as English go 🚶 Moving on foot, so sein!", "warn": "Irregular: Ich bin gegangen. (not gegeht)"},
+      "A1-054": {"pron": "KOM-en", "tip": "Same root as English come 🏃 Coming is moving too, so sein.", "bonus": "Wann bist du nach Hause gekommen? = When did you get home?"},
+      "A1-055": {"pron": "FAH-ren", "tip": "Travelling by vehicle 🚗 You change place, so sein.", "warn": "With an object it takes haben: Ich habe das Auto gefahren. = I drove the car."},
+      "A1-315": {"pron": "FLEE-gen", "tip": "Same root as English fly ✈️ Moving through the sky — still sein.", "bonus": "Nouns: der Flug (flight), das Flugzeug (plane)"},
+      "A1-193": {"pron": "BLY-ben", "tip": "No movement, but sein anyway 🛋️ The classic exception to memorise.", "warn": "Staying put still takes sein: Ich bin zu Hause geblieben."},
+      "A2-331": {"pron": "pa-SEER-en", "tip": "From French passer (to pass) 💥 Something passes by and happens.", "warn": "-ieren verbs have no ge-: Was ist passiert? (not gepassiert)"},
+      "A2-053": {"pron": "OOM-tsee-en", "tip": "um (change) + ziehen (move) = change your home 🚚 Moving, so sein.", "warn": "sich umziehen (get changed) takes haben: Ich habe mich umgezogen. Moving house: Ich bin umgezogen."},
+      "A2-738": {"pron": "INE-shlah-fen", "tip": "From awake to asleep 😴 A change of state also takes sein.", "bonus": "Also for limbs: Mein Bein ist eingeschlafen. = My leg has gone to sleep."},
+      "A2-458": {"pron": "FAL-en", "tip": "Just like English fall 🍂 Moving downwards, so sein.", "warn": "fällen (to fell a tree) is a different verb and takes haben."},
+      "B1-346": {"pron": "SHTAIR-ben", "tip": "Same root as English starve 🕯️ From life to death, the biggest change of state.", "bonus": "To die of = an + dative: an Krebs sterben"}
+    },
+    "culture": [
+      "When Germans talk about the past, they mostly use the perfect tense. In the south especially, the simple past is rare in speech, so you'll hear sentences like Ich bin gestern ins Kino gegangen. many times a day.",
+      "There's a fun regional twist: in southern Germany, Austria and Switzerland, people also use sein with sitzen, stehen and liegen — Ich bin gesessen. In the north it's Ich habe gesessen. Don't be surprised to hear both.",
+      "And a popular German goodbye, Bleib gesund! (Stay healthy!), uses today's verb bleiben. Try it next time you say goodbye. 👋"
+    ],
+    "quiz": {"q": "You want to say you fell asleep during the film. Which sentence is correct?", "o": ["Ich bin beim Film eingeschlafen.", "Ich habe beim Film eingeschlafen.", "Ich bin beim Film eingeschlaft."], "a": 0, "why": "einschlafen is a change of state, so it takes sein, and its past participle is eingeschlafen."},
+    "outro": "Say three sentences about yesterday using sein: Ich bin … gegangen, gefahren, geblieben! 💬"
+  },
+  "ja": {
+    "title": "haben じゃなくて sein！完了形の動詞10",
+    "hook": "「Ich habe gegangen.」と言ったことがあるなら、今日の記事はまさにあなたのためです。",
+    "intro": [
+      "ドイツ人の友だちに週末の話をしていて「Ich habe nach Hamburg gefahren.」と言ったら、笑いながら直されました。「Ich BIN gefahren!」完了形はみんな haben だと思っていたのに、違ったんです。",
+      "今日は sein で完了形を作る動詞を10個集めました。ほとんどが場所の移動か、状態の変化を表します。この10個をしっかり覚えれば、昨日の出来事をずっと自信をもって話せます。🚶"
+    ],
+    "words": {
+      "A1-053": {"pron": "ゲーエン", "tip": "英語の go と同じ語源 🚶 歩いて移動するから sein！", "warn": "不規則：Ich bin gegangen.（gegeht ではありません）"},
+      "A1-054": {"pron": "コメン", "tip": "英語の come と同じ語源 🏃「来る」も移動なので sein！", "bonus": "Wann bist du nach Hause gekommen? = いつ家に帰ってきたの？"},
+      "A1-055": {"pron": "ファーレン", "tip": "乗り物で移動するのが fahren 🚗 場所が変わるから sein！", "warn": "目的語があると haben：Ich habe das Auto gefahren.（車を運転した）"},
+      "A1-315": {"pron": "フリーゲン", "tip": "英語の fly と同じ語源 ✈️ 空を移動しても sein！", "bonus": "名詞：der Flug（フライト）、das Flugzeug（飛行機）"},
+      "A1-193": {"pron": "ブライベン", "tip": "動かないのに sein！？🛋️ 例外として覚える定番の動詞です。", "warn": "じっとしていても sein：Ich bin zu Hause geblieben."},
+      "A2-331": {"pron": "パスィーレン", "tip": "フランス語 passer（通り過ぎる）から 💥 何かが通り過ぎて起こるイメージ！", "warn": "-ieren 動詞なので ge- がつきません：Was ist passiert?（gepassiert ではない）"},
+      "A2-053": {"pron": "ウムツィーエン", "tip": "um（変えて）+ ziehen（移る）= 住む場所を変える 🚚 移動なので sein！", "warn": "sich umziehen（着替える）は haben：Ich habe mich umgezogen. 引っ越しは Ich bin umgezogen."},
+      "A2-738": {"pron": "アインシュラーフェン", "tip": "起きている状態から眠った状態へ 😴 状態の変化も sein！", "bonus": "足がしびれたときも：Mein Bein ist eingeschlafen."},
+      "A2-458": {"pron": "ファレン", "tip": "英語の fall と同じ 🍂 下へ移動するので sein！", "warn": "fällen（木を切り倒す）は別の動詞で、haben を使います。"},
+      "B1-346": {"pron": "シュテルベン", "tip": "英語の starve（飢える）と同じ語源 🕯️ 生から死へ、いちばん大きな状態の変化なので sein。", "bonus": "「〜で死ぬ」は an + 3格：an Krebs sterben"}
+    },
+    "culture": [
+      "ドイツ人は話すとき、過去のことをほとんど現在完了で言います。特に南部では過去形（Präteritum）を話し言葉であまり使わないので、Ich bin gestern ins Kino gegangen. のような sein の完了形を一日に何度も耳にします。",
+      "おもしろいのは地域差です。南ドイツやオーストリア、スイスでは sitzen、stehen、liegen も sein で言います。Ich bin gesessen. 北部では Ich habe gesessen. なので、両方聞いても驚かないでくださいね。",
+      "それから、ドイツ人がよく使う別れのあいさつ Bleib gesund!（元気でね！）も今日の bleiben です。別れ際にぜひ使ってみてください。👋"
+    ],
+    "quiz": {"q": "昨日、映画を見ながら寝てしまったと言いたいです。正しい文はどれ？", "o": ["Ich bin beim Film eingeschlafen.", "Ich habe beim Film eingeschlafen.", "Ich bin beim Film eingeschlaft."], "a": 0, "why": "einschlafen は状態が変わる動詞なので sein を使い、過去分詞は eingeschlafen です。"},
+    "outro": "昨日したことを sein の動詞で3文言ってみましょう。Ich bin … gegangen, gefahren, geblieben! 💬"
+  }
+}

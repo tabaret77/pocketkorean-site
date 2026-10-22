@@ -1,0 +1,84 @@
+{
+  "key": "classroom",
+  "ko": {
+    "title": "독일어 수업에서 살아남는 표현 10",
+    "hook": "수업에서 제일 무서운 건 문법이 아니라, 못 알아들었는데 말을 못 하는 순간이에요.",
+    "intro": [
+      "어학원 첫날, 선생님이 빠르게 뭔가를 설명하고 다들 고개를 끄덕여요. 저만 못 알아들은 것 같은데… “한 번만 더요”를 독일어로 어떻게 말하지?",
+      "오늘은 수업 시간에 정말 자주 쓰는 단어 10개를 모았어요. 이것만 있으면 다시 말해 달라고, 설명해 달라고, 철자를 불러 달라고 당당하게 부탁할 수 있어요. 질문하는 학생이 제일 빨리 늘어요! ✏️"
+    ],
+    "words": {
+      "A2-154": {"pron": "비더홀렌", "tip": "wieder(다시) + holen(가져오다) = 말을 다시 가져오다 🔁", "warn": "이 뜻일 땐 비분리동사예요: Ich wiederhole. (완료형 hat wiederholt)"},
+      "A2-150": {"pron": "에어클래렌", "tip": "klar(분명한)가 숨어 있어요 💡 모르는 걸 klar하게 만들어 주는 게 erklären!", "bonus": "설명을 듣는 사람은 3격: Kannst du mir das erklären?"},
+      "A1-153": {"pron": "프라게", "tip": "fragen(묻다)의 명사 ❓ -e로 끝나는 명사는 die인 경우가 많아요.", "bonus": "질문하다 = eine Frage stellen (fragen machen 아니에요!)"},
+      "A1-183": {"pron": "페어슈테엔", "tip": "영어 understand처럼 stehen(서다)이 들어 있어요 🧍 이해한 내용 위에 똑바로 서기!", "bonus": "못 알아들었을 땐: Das habe ich nicht verstanden."},
+      "B1-1276": {"pron": "위붕", "tip": "üben(연습하다) + -ung 🏋️ -ung은 언제나 die!", "bonus": "속담: Übung macht den Meister. = 연습이 대가를 만든다."},
+      "A1-154": {"pron": "안트보르트", "tip": "ant-(되돌려) + Wort(말) = 되돌려 주는 말 🗨️ 영어 answer도 같은 구조예요.", "bonus": "~에 대한 대답 = eine Antwort auf + 4격"},
+      "B1-148": {"pron": "베도이텐", "tip": "deuten(가리키다)에서 왔어요 👉 단어가 가리키는 뜻을 묻는 말!", "bonus": "수업 필수 문장: Was bedeutet das?"},
+      "A1-309": {"pron": "부흐슈타비어렌", "tip": "der Buchstabe(글자)를 하나씩 부르는 것 🔤 이름 철자 부를 때 꼭 나와요.", "bonus": "철자를 물을 땐: Wie schreibt man das?"},
+      "A1-474": {"pron": "펠러", "tip": "fehlen(빠지다)에서 왔어요 ❌ 뭔가 빠지면 실수가 되죠.", "bonus": "실수하다 = einen Fehler machen"},
+      "A2-327": {"pron": "지히 멜덴", "tip": "수업에서는 손을 드는 것 🙋 생활에서는 ‘연락하다’라는 뜻도 돼요.", "bonus": "헤어질 때: Ich melde mich! = 연락할게!"}
+    },
+    "culture": [
+      "독일 학교에서는 발표하고 싶을 때 손바닥을 펴는 대신 검지 하나를 세워 손을 드는 경우가 많아요. 이걸 sich melden이라고 해요.",
+      "대학 강의가 끝나면 박수 대신 주먹으로 책상을 똑똑 두드리는 모습을 자주 볼 수 있어요. 처음 보면 깜짝 놀라지만 ‘좋은 수업이었어요’라는 뜻이에요.",
+      "그리고 전화로 이름 철자를 부를 땐 Anton, Berta, Cäsar처럼 단어로 글자를 알려 주기도 해요. 내 이름도 한 번 이렇게 불러 보세요! 📞"
+    ],
+    "quiz": {"q": "선생님이 너무 빨리 말해서 못 알아들었어요. 뭐라고 할까요?", "o": ["Können Sie das bitte wiederholen?", "Ich habe einen Fehler gemacht.", "Melde dich, wenn du angekommen bist!"], "a": 0, "why": "wiederholen = 다시 말하다. 수업에서 제일 많이 쓰는 부탁이에요."},
+    "outro": "다음 수업에서 오늘 표현 중 하나를 꼭 한 번 써 보세요. 첫 질문이 제일 어렵고, 그다음부터는 쉬워요! 🙋"
+  },
+  "en": {
+    "title": "Survive your German class: 10 must-have words",
+    "hook": "The scariest part of a language class isn't grammar — it's not understanding and not knowing how to say so.",
+    "intro": [
+      "First day at language school. The teacher explains something quickly and everyone nods. You seem to be the only one who's lost… so how do you say “one more time, please” in German?",
+      "Today's ten words are the ones you'll use in every lesson. With them you can ask the teacher to repeat, explain or spell something without feeling shy. The students who ask questions learn fastest! ✏️"
+    ],
+    "words": {
+      "A2-154": {"pron": "vee-der-HOH-len", "tip": "wieder (again) + holen (fetch) = fetch the words again 🔁", "warn": "In this sense it's inseparable: Ich wiederhole. (perfect: hat wiederholt)"},
+      "A2-150": {"pron": "air-KLAIR-en", "tip": "klar (clear) is hiding inside 💡 To explain is to make it klar.", "bonus": "The listener is in the dative: Kannst du mir das erklären?"},
+      "A1-153": {"pron": "FRAH-guh", "tip": "The noun from fragen (to ask) ❓ Nouns ending in -e are very often die.", "bonus": "to ask a question = eine Frage stellen (not machen!)"},
+      "A1-183": {"pron": "fair-SHTAY-en", "tip": "Like under-stand, it contains stehen (to stand) 🧍", "bonus": "When you're lost: Das habe ich nicht verstanden."},
+      "B1-1276": {"pron": "UE-boong", "tip": "üben (to practise) + -ung 🏋️ -ung words are always die.", "bonus": "Übung macht den Meister. = Practice makes perfect."},
+      "A1-154": {"pron": "ANT-vort", "tip": "ant- (back) + Wort (word) = a word sent back 🗨️ English answer is built the same way.", "bonus": "an answer to = eine Antwort auf + accusative"},
+      "B1-148": {"pron": "beh-DOY-ten", "tip": "From deuten (to point) 👉 What does this word point to?", "bonus": "Classroom essential: Was bedeutet das?"},
+      "A1-309": {"pron": "bookh-shta-BEE-ren", "tip": "Saying each Buchstabe (letter) one by one 🔤 You'll need it for your name.", "bonus": "How do you write that? = Wie schreibt man das?"},
+      "A1-474": {"pron": "FAY-ler", "tip": "From fehlen (to be missing) ❌ When something's missing, it's a mistake.", "bonus": "to make a mistake = einen Fehler machen"},
+      "A2-327": {"pron": "zikh MEL-den", "tip": "In class it means putting your hand up 🙋 Elsewhere it means getting in touch.", "bonus": "When saying goodbye: Ich melde mich! = I'll be in touch!"}
+    },
+    "culture": [
+      "In German schools, pupils often put up just their index finger rather than a flat hand when they want to answer. That's sich melden.",
+      "At the end of a university lecture, students often knock on their desks instead of clapping. It can be startling the first time, but it simply means “thanks, good lecture”.",
+      "On the phone, people sometimes spell names with words for each letter: Anton, Berta, Cäsar… Try spelling your own name that way! 📞"
+    ],
+    "quiz": {"q": "The teacher spoke too fast and you missed it. What do you say?", "o": ["Können Sie das bitte wiederholen?", "Ich habe einen Fehler gemacht.", "Melde dich, wenn du angekommen bist!"], "a": 0, "why": "wiederholen = to repeat — the request you'll make most in class."},
+    "outro": "Use at least one of today's phrases in your next lesson. The first question is the hardest; after that it gets easy! 🙋"
+  },
+  "ja": {
+    "title": "ドイツ語の授業で困らないための表現10",
+    "hook": "授業でいちばん怖いのは文法ではなく、わからないのにそう言えない瞬間です。",
+    "intro": [
+      "語学学校の初日。先生が早口で何か説明して、みんなうなずいています。わかっていないのは自分だけみたい…。「もう一度お願いします」ってドイツ語で何と言えばいい？",
+      "今日は授業中に本当によく使う単語を10個集めました。これで、もう一度言ってほしい、説明してほしい、つづりを教えてほしい、と堂々とお願いできます。質問する人がいちばん早く上達しますよ！✏️"
+    ],
+    "words": {
+      "A2-154": {"pron": "ヴィーダーホーレン", "tip": "wieder（もう一度）+ holen（取ってくる）= 言葉をもう一度取ってくる 🔁", "warn": "この意味では非分離動詞です：Ich wiederhole.（完了形 hat wiederholt）"},
+      "A2-150": {"pron": "エアクレーレン", "tip": "klar（はっきりした）が隠れています 💡 わからないことを klar にするのが erklären！", "bonus": "説明を受ける人は3格：Kannst du mir das erklären?"},
+      "A1-153": {"pron": "フラーゲ", "tip": "fragen（たずねる）の名詞 ❓ -e で終わる名詞は die のことが多いです。", "bonus": "質問する = eine Frage stellen（machen ではありません！）"},
+      "A1-183": {"pron": "フェアシュテーエン", "tip": "英語の understand と同じく stehen（立つ）が入っています 🧍", "bonus": "聞き取れなかったら：Das habe ich nicht verstanden."},
+      "B1-1276": {"pron": "ユーブング", "tip": "üben（練習する）+ -ung 🏋️ -ung はいつも die！", "bonus": "ことわざ：Übung macht den Meister. = 習うより慣れろ"},
+      "A1-154": {"pron": "アントヴォルト", "tip": "ant-（返して）+ Wort（言葉）= 返す言葉 🗨️ 英語の answer も同じ作りです。", "bonus": "〜への答え = eine Antwort auf + 4格"},
+      "B1-148": {"pron": "ベドイテン", "tip": "deuten（指し示す）から来ています 👉 その単語が指し示す意味は？", "bonus": "授業の必須フレーズ：Was bedeutet das?"},
+      "A1-309": {"pron": "ブーフシュタビーレン", "tip": "Buchstabe（文字）をひとつずつ言うこと 🔤 名前を伝えるときに必ず使います。", "bonus": "どう書くの？= Wie schreibt man das?"},
+      "A1-474": {"pron": "フェーラー", "tip": "fehlen（欠けている）から ❌ 何かが欠けるとミスになります。", "bonus": "ミスをする = einen Fehler machen"},
+      "A2-327": {"pron": "ズィッヒ メルデン", "tip": "授業では手を挙げること 🙋 ふだんは「連絡する」という意味にもなります。", "bonus": "別れぎわに：Ich melde mich! = 連絡するね！"}
+    },
+    "culture": [
+      "ドイツの学校では、発言したいとき手のひらではなく人さし指を1本立てて手を挙げることが多いです。これが sich melden です。",
+      "大学の講義が終わると、拍手の代わりにこぶしで机をコンコンとたたく光景がよく見られます。初めてだと驚きますが、「いい講義でした」という意味です。",
+      "電話で名前のつづりを伝えるときは、Anton, Berta, Cäsar のように単語で文字を伝えることもあります。自分の名前でも試してみてください！📞"
+    ],
+    "quiz": {"q": "先生が早口で聞き取れませんでした。何と言いますか？", "o": ["Können Sie das bitte wiederholen?", "Ich habe einen Fehler gemacht.", "Melde dich, wenn du angekommen bist!"], "a": 0, "why": "wiederholen =「くり返す」。授業でいちばんよく使うお願いです。"},
+    "outro": "次の授業で、今日の表現をひとつは必ず使ってみてください。最初の質問がいちばん難しくて、あとはどんどん楽になります！🙋"
+  }
+}

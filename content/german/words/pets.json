@@ -1,0 +1,84 @@
+{
+  "key": "pets",
+  "ko": {
+    "title": "강아지, 고양이와 함께 배우는 독일어 10",
+    "hook": "독일 공원에서 강아지를 만났을 때, 주인에게 건넬 첫마디부터 배워 봐요.",
+    "intro": [
+      "공원 벤치에 앉아 있는데 귀여운 강아지가 꼬리를 흔들며 다가왔어요. 쓰다듬어도 되냐고 묻고 싶은데 단어가 안 떠올라서 그냥 웃기만 했죠. 독일에는 정말 어디에나 개가 있어요. 지하철에도, 카페에도요.",
+      "오늘은 반려동물에 관한 단어 10개예요. 이걸 알면 개 주인과 이야기도 나누고, 이웃 고양이 밥 주기 부탁도 들어줄 수 있고, 동물병원에 전화도 할 수 있어요. 🐶"
+    ],
+    "words": {
+      "B1-1251": {"pron": "하우스티어", "tip": "Haus(집) + Tier(동물) = 집에 사는 동물 🏠 마지막 Tier가 das니까 das!", "bonus": "‘반려동물 키워요?’ = Hast du ein Haustier?"},
+      "A1-106": {"pron": "훈트", "tip": "영어 hound(사냥개)와 같은 뿌리 🐕 끝의 d는 ‘트’ 소리!", "bonus": "짖다 = bellen · 개 짖는 소리는 독일어로 Wau wau!"},
+      "A1-107": {"pron": "카체", "tip": "cat이 독일에 와서 Katze가 됐어요 🐈 -e로 끝나니까 die!", "warn": "수고양이는 der Kater예요. 근데 Kater에는 숙취라는 뜻도 있어요!"},
+      "B1-2443": {"pron": "카닌헨", "tip": "-chen으로 끝나니까 작고 귀여운 das Kaninchen 🐇", "warn": "집토끼는 das Kaninchen, 들판의 산토끼는 der Hase예요."},
+      "B1-705": {"pron": "퓌턴", "tip": "Futter(먹이)를 주는 게 füttern 🥣 움라우트만 붙이면 동사!", "bonus": "누구에게 뭘 주는지: die Katze mit Trockenfutter füttern"},
+      "B2-2820": {"pron": "가시 게엔", "tip": "Gasse(골목)로 나가는 산책 🦮 개한테 ‘Gassi?’ 하면 꼬리부터 흔들어요!", "warn": "완료형은 sein: Ich bin mit dem Hund Gassi gegangen."},
+      "B2-2819": {"pron": "라이네", "tip": "영어 line(줄)과 같은 뿌리 🪢 빨랫줄도 Leine!", "bonus": "목줄을 채우다 = den Hund anleinen"},
+      "B1-2505": {"pron": "푸터", "tip": "영어 food, fodder와 친척 🦴 Futter → füttern 세트로 외워요!", "warn": "동물 먹이에만 써요. 사람 음식은 das Essen!"},
+      "A2-1086": {"pron": "티어아르츠트", "tip": "Tier(동물) + Arzt(의사) = 동물 의사 🩺 Arzt가 마지막이니까 der!", "bonus": "여자 수의사는 die Tierärztin"},
+      "B2-2854": {"pron": "슈트라이헬른", "tip": "-eln은 ‘살살 여러 번’ 느낌 🤲 쓰담쓰담 = streicheln", "bonus": "개 주인에게: Darf ich ihn streicheln? (쓰다듬어도 돼요?)"}
+    },
+    "culture": [
+      "독일에서는 개를 데리고 다니는 사람을 정말 자주 봐요. 개가 들어갈 수 있는 가게, 식당, 대중교통이 많은 편이에요. 다만 가게마다 다르니 입구에 붙은 표시를 확인하는 게 좋아요.",
+      "많은 도시와 마을에서는 개를 키우면 개 세금(Hundesteuer)을 내요. 금액과 규칙은 지역마다 다르고, 목줄을 꼭 해야 하는 곳도 주나 도시에 따라 달라요.",
+      "반려동물을 들이고 싶을 때는 펫숍보다 동물 보호소(Tierheim)에서 입양하는 사람이 많아요. 상담을 하고 집 환경을 확인하는 경우도 있어요. 🐾"
+    ],
+    "quiz": {"q": "이웃이 여행 가면서 고양이 밥을 부탁하려고 해요. 이웃은 뭐라고 물을까요?", "o": ["Kannst du meine Katze streicheln?", "Kannst du meine Katze füttern?", "Kannst du mit meiner Katze Gassi gehen?"], "a": 1, "why": "füttern = 먹이를 주다예요. 밥을 부탁할 땐 füttern을 써요."},
+    "outro": "오늘 길에서 만나는 동물을 독일어로 불러 봐요. Hund, Katze, Kaninchen! 키우는 아이가 있다면 ‘Gassi?’ 하고 말해 봐요. 🐾"
+  },
+  "en": {
+    "title": "Dogs, cats and more: 10 German pet words",
+    "hook": "Meet a dog in a German park? Here's how to start chatting with its owner.",
+    "intro": [
+      "You're sitting on a park bench when a friendly dog trots over, wagging its tail. You want to ask if you can stroke it, but the words won't come, so you just smile. In Germany dogs are everywhere — on the U-Bahn, in cafés, in shops.",
+      "Today's ten words are all about pets. With them you can chat with dog owners, say yes when a neighbour asks you to feed their cat, and call the vet. 🐶"
+    ],
+    "words": {
+      "B1-1251": {"pron": "HOUSE-teer", "tip": "Haus (house) + Tier (animal) = an animal that lives at home 🏠 Tier makes it das.", "bonus": "Do you have a pet? = Hast du ein Haustier?"},
+      "A1-106": {"pron": "HOONT", "tip": "Same root as English hound 🐕 The final d sounds like t.", "bonus": "to bark = bellen · a dog says Wau wau!"},
+      "A1-107": {"pron": "KAT-suh", "tip": "English cat moved to Germany and became Katze 🐈 -e, so die.", "warn": "A tomcat is der Kater — which also means a hangover!"},
+      "B1-2443": {"pron": "ka-NEEN-khen", "tip": "Ends in -chen, so it's a small, cute das 🐇", "warn": "A pet rabbit is das Kaninchen; a wild hare is der Hase."},
+      "B1-705": {"pron": "FUE-tern", "tip": "Futter (food) + umlaut = to feed 🥣", "bonus": "With what: die Katze mit Trockenfutter füttern"},
+      "B2-2820": {"pron": "GAS-ee GAY-en", "tip": "Going out into the Gasse (lane) 🦮 Say ‘Gassi?’ and watch the tail go!", "warn": "Perfect with sein: Ich bin mit dem Hund Gassi gegangen."},
+      "B2-2819": {"pron": "LY-nuh", "tip": "Same root as English line 🪢 A washing line is a Leine too.", "bonus": "to put a dog on the lead = den Hund anleinen"},
+      "B1-2505": {"pron": "FOOT-er", "tip": "A cousin of English food and fodder 🦴 Learn Futter and füttern as a pair.", "warn": "Only for animals — food for people is das Essen."},
+      "A2-1086": {"pron": "TEER-artst", "tip": "Tier (animal) + Arzt (doctor) = animal doctor 🩺 Arzt makes it der.", "bonus": "A female vet is die Tierärztin."},
+      "B2-2854": {"pron": "SHTRY-kheln", "tip": "-eln adds a gentle, repeated feel 🤲 stroke, stroke, stroke.", "bonus": "Ask the owner: Darf ich ihn streicheln? (Can I stroke him?)"}
+    },
+    "culture": [
+      "You'll see dogs almost everywhere in Germany. Many shops, restaurants and buses and trains allow them, though it varies, so look for a sign at the door.",
+      "In most towns and cities, dog owners pay a dog tax (Hundesteuer). The amount and the rules depend on where you live, and so do the rules about when dogs must be kept on a lead.",
+      "If you want a pet, adopting from an animal shelter (Tierheim) is very popular. Shelters often have a chat with you first and sometimes check that your home is suitable. 🐾"
+    ],
+    "quiz": {"q": "Your neighbour is going on holiday and needs someone to give the cat its food. What do they ask?", "o": ["Kannst du meine Katze streicheln?", "Kannst du meine Katze füttern?", "Kannst du mit meiner Katze Gassi gehen?"], "a": 1, "why": "füttern means to feed, so that's the word for giving the cat its food."},
+    "outro": "Name every animal you see today in German: Hund, Katze, Kaninchen! If you have a dog, try asking it ‘Gassi?’ 🐾"
+  },
+  "ja": {
+    "title": "犬や猫と一緒に覚えるドイツ語10",
+    "hook": "ドイツの公園でワンちゃんに会ったら、飼い主さんへの最初のひとことから覚えましょう。",
+    "intro": [
+      "公園のベンチに座っていたら、かわいい犬がしっぽを振って近づいてきました。なでてもいいか聞きたいのに言葉が出てこなくて、ただ笑うだけ。ドイツでは本当にどこにでも犬がいます。地下鉄にも、カフェにも。",
+      "今日はペットにまつわる単語を10個集めました。これがあれば飼い主さんと話したり、ご近所さんの猫のえさやりを引き受けたり、動物病院に電話したりできます。🐶"
+    ],
+    "words": {
+      "B1-1251": {"pron": "ハウスティーア", "tip": "Haus（家）+ Tier（動物）= 家で暮らす動物 🏠 最後の Tier が das なので das！", "bonus": "ペット飼ってる？ = Hast du ein Haustier?"},
+      "A1-106": {"pron": "フント", "tip": "英語の hound（猟犬）と同じ語源 🐕 語末の d は「ト」の音！", "bonus": "ほえる = bellen。犬の鳴き声はドイツ語で Wau wau!"},
+      "A1-107": {"pron": "カッツェ", "tip": "英語の cat がドイツで Katze に 🐈 -e で終わるので die！", "warn": "雄猫は der Kater。でも Kater には「二日酔い」の意味も！"},
+      "B1-2443": {"pron": "カニーンヒェン", "tip": "-chen で終わるから、小さくてかわいい das 🐇", "warn": "飼いウサギは das Kaninchen、野ウサギは der Hase です。"},
+      "B1-705": {"pron": "フュッターン", "tip": "Futter（えさ）にウムラウトをつけると「えさをやる」🥣", "bonus": "何をあげるか：die Katze mit Trockenfutter füttern"},
+      "B2-2820": {"pron": "ガッスィ ゲーエン", "tip": "Gasse（路地）へ出かけるお散歩 🦮 犬に「Gassi?」と言うとしっぽが大喜び！", "warn": "完了形は sein：Ich bin mit dem Hund Gassi gegangen."},
+      "B2-2819": {"pron": "ライネ", "tip": "英語の line（綱）と同じ語源 🪢 物干し綱も Leine！", "bonus": "リードをつける = den Hund anleinen"},
+      "B1-2505": {"pron": "フッター", "tip": "英語の food、fodder の親戚 🦴 Futter と füttern はセットで！", "warn": "動物のえさだけに使います。人の食べ物は das Essen！"},
+      "A2-1086": {"pron": "ティーアアールツト", "tip": "Tier（動物）+ Arzt（医者）= 動物のお医者さん 🩺 最後が Arzt なので der！", "bonus": "女性の獣医は die Tierärztin"},
+      "B2-2854": {"pron": "シュトライヒェルン", "tip": "-eln は「やさしく何度も」の感じ 🤲 なでなで = streicheln", "bonus": "飼い主さんに：Darf ich ihn streicheln?（なでてもいいですか？）"}
+    },
+    "culture": [
+      "ドイツでは犬を連れている人を本当によく見かけます。犬が入れるお店やレストラン、公共交通機関も多いほうです。ただしお店によって違うので、入口の表示を確認しましょう。",
+      "多くの市町村では、犬を飼うと犬税（Hundesteuer）を払います。金額やルールは地域によって違い、リードが必要な場所についての決まりも州や町によって異なります。",
+      "ペットを迎えたいときは、ペットショップより動物保護施設（Tierheim）から引き取る人が多いです。事前に面談をしたり、住まいの環境を確認したりすることもあります。🐾"
+    ],
+    "quiz": {"q": "ご近所さんが旅行中、猫にごはんをあげてほしいそうです。何と頼むでしょう？", "o": ["Kannst du meine Katze streicheln?", "Kannst du meine Katze füttern?", "Kannst du mit meiner Katze Gassi gehen?"], "a": 1, "why": "füttern は「えさをやる」。ごはんを頼むときは füttern を使います。"},
+    "outro": "今日見かけた動物をドイツ語で呼んでみましょう。Hund、Katze、Kaninchen！犬を飼っているなら「Gassi?」と声をかけてみて。🐾"
+  }
+}

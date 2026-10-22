@@ -1,0 +1,84 @@
+{
+  "key": "packing",
+  "ko": {
+    "title": "캐리어 닫기 전에 확인하는 독일어 10",
+    "hook": "여행 전날 밤, 짐을 싸면서 독일어 단어까지 챙겨 가요.",
+    "intro": [
+      "여행 전날 밤, 캐리어 위에 올라앉아 지퍼를 당기는데 문득 생각나요. 충전기 챙겼나? 여권은? 결국 다시 열어서 하나하나 확인하죠.",
+      "오늘은 짐 쌀 때 꼭 나오는 단어 10개예요. 이 10개로 나만의 독일어 체크리스트를 만들 수 있고, 숙소에서 ‘충전기를 두고 왔어요’ 같은 말도 할 수 있어요. 자, 가방 열어 볼까요? 🧳"
+    ],
+    "words": {
+      "A2-108": {"pron": "코퍼", "tip": "영어 coffer(보물 상자)와 같은 뿌리 💼 내 캐리어도 보물 상자!", "warn": "복수도 똑같아요: die Koffer"},
+      "A2-162": {"pron": "파켄", "tip": "영어 pack 그대로 🎒 Koffer packen = 캐리어 싸기!", "bonus": "반대로 짐을 풀다 = auspacken"},
+      "A2-452": {"pron": "아인파켄", "tip": "ein(안으로) + packen = 안에 넣어 싸기 🎁 선물 포장도 einpacken!", "warn": "분리동사예요: Ich packe das Ladegerät ein."},
+      "A1-228": {"pron": "한트투흐", "tip": "Hand(손) + Tuch(천) = 손 닦는 천 🧺 큰 목욕 수건도 그냥 Handtuch라고 해요.", "warn": "복수형에 움라우트: die Handtücher"},
+      "A2-110": {"pron": "라이제파스", "tip": "Reise(여행) + Pass(통행증) = 여행 통행증 🛂 줄여서 그냥 der Pass라고도 해요.", "bonus": "유효한 = gültig: Ist der Pass noch gültig?"},
+      "A2-559": {"pron": "루크작", "tip": "Rücken(등) + Sack(자루) = 등에 메는 자루 🎒 영어 rucksack이 바로 여기서 왔어요!", "warn": "복수형: die Rucksäcke"},
+      "A2-743": {"pron": "샴푸", "tip": "영어랑 똑같아요 🧴 원래는 힌디어 ‘마사지하다’에서 왔대요.", "bonus": "린스 = die Spülung · 비누 = die Seife"},
+      "B1-1425": {"pron": "찬파스타", "tip": "Zahn(이) + Pasta(반죽) = 이에 바르는 파스타 🍝 스파게티 아니에요!", "bonus": "die Zahncreme라고도 해요 · 칫솔은 die Zahnbürste"},
+      "A2-807": {"pron": "라데게레트", "tip": "laden(충전하다, 영어 load) + Gerät(기기) = 충전 기기 🔌", "bonus": "보조 배터리 = die Powerbank · 케이블 = das Kabel"},
+      "A2-1064": {"pron": "바데안축", "tip": "baden(물놀이하다) + Anzug(한 벌 옷) = 물놀이용 한 벌 👙", "bonus": "남자 수영복(바지)은 die Badehose!"}
+    },
+    "culture": [
+      "독일 유스호스텔이나 저렴한 숙소에서는 수건이 없거나 따로 돈을 받는 경우가 많아요. 사우나에 갈 계획이라면 큰 수건은 꼭 챙기세요. 독일 사우나에서는 보통 수건을 깔고 앉아요.",
+      "독일 콘센트는 동그란 핀 두 개짜리 유럽형이에요. 한국 플러그는 대부분 그대로 맞지만, 다른 나라에서 온다면 어댑터가 필요할 수 있어요.",
+      "그리고 일요일에는 대부분의 가게가 문을 닫아요. 치약이나 샴푸를 깜빡했다면 기차역이나 공항 안 가게가 구세주예요. 짐은 미리미리! 🧴"
+    ],
+    "quiz": {"q": "호텔에 도착했는데 휴대폰 배터리가 0%예요. 리셉션에 뭐라고 할까요?", "o": ["Ich habe mein Handtuch vergessen.", "Ich habe meinen Badeanzug vergessen.", "Ich habe mein Ladegerät vergessen."], "a": 2, "why": "Ladegerät = 충전기예요. 배터리가 없을 때 필요한 건 충전기죠."},
+    "outro": "다음 여행 짐을 쌀 때는 물건 하나 넣을 때마다 독일어로 불러 봐요. ‘Reisepass, check!’ 이렇게요. 즐거운 여행 되세요! ✈️"
+  },
+  "en": {
+    "title": "Before you zip the suitcase: 10 German packing words",
+    "hook": "The night before a trip, pack some German along with your socks.",
+    "intro": [
+      "It's the night before your trip. You're sitting on your suitcase to close the zip when it hits you: did I pack the charger? The passport? So you open it all up again and check.",
+      "Today's ten words are the ones that come up every time you pack. Use them to write your own German packing list — and to say things like ‘I left my charger at home’ at the hotel desk. Let's open that bag! 🧳"
+    ],
+    "words": {
+      "A2-108": {"pron": "KOFF-er", "tip": "Same root as English coffer — your suitcase is a treasure chest 💼", "warn": "The plural looks the same: die Koffer"},
+      "A2-162": {"pron": "PACK-en", "tip": "Just English pack 🎒 Koffer packen = to pack your suitcase.", "bonus": "to unpack = auspacken"},
+      "A2-452": {"pron": "INE-pack-en", "tip": "ein (in) + packen = pack it in 🎁 Shops also use it for gift-wrapping.", "warn": "Separable verb: Ich packe das Ladegerät ein."},
+      "A1-228": {"pron": "HANT-tookh", "tip": "Hand + Tuch (cloth) = hand cloth 🧺 Even a big bath towel is often just a Handtuch.", "warn": "Plural with umlaut: die Handtücher"},
+      "A2-110": {"pron": "RYE-zuh-pass", "tip": "Reise (journey) + Pass = travel pass 🛂 People often just say der Pass.", "bonus": "valid = gültig: Ist der Pass noch gültig?"},
+      "A2-559": {"pron": "ROOK-zak", "tip": "Rücken (back) + Sack = back-sack 🎒 English borrowed rucksack from German!", "warn": "Plural: die Rucksäcke"},
+      "A2-743": {"pron": "SHAM-poo", "tip": "Same as English 🧴 It originally comes from a Hindi word for ‘to massage’.", "bonus": "conditioner = die Spülung · soap = die Seife"},
+      "B1-1425": {"pron": "TSAHN-pas-ta", "tip": "Zahn (tooth) + Pasta (paste) = tooth pasta 🍝 Not spaghetti, promise!", "bonus": "Also called die Zahncreme · toothbrush = die Zahnbürste"},
+      "A2-807": {"pron": "LAH-duh-geh-rayt", "tip": "laden (to load, charge) + Gerät (device) = loading device 🔌", "bonus": "power bank = die Powerbank · cable = das Kabel"},
+      "A2-1064": {"pron": "BAH-duh-an-tsook", "tip": "baden (to bathe) + Anzug (suit) = bathing suit 👙 Word for word!", "bonus": "Men's swimming trunks = die Badehose"}
+    },
+    "culture": [
+      "Many German youth hostels and budget places don't include towels, or charge extra for them. If you're planning a sauna visit, bring a big towel: in German saunas you usually sit or lie on your own towel.",
+      "German sockets take the round two-pin European plug. If you're coming from the UK, the US or elsewhere outside mainland Europe, pack an adapter.",
+      "And remember that most shops close on Sundays. If you've forgotten your toothpaste or shampoo, shops at big train stations and airports are your best friends. Pack early! 🧴"
+    ],
+    "quiz": {"q": "You arrive at the hotel and your phone is at 0%. What do you tell reception?", "o": ["Ich habe mein Handtuch vergessen.", "Ich habe meinen Badeanzug vergessen.", "Ich habe mein Ladegerät vergessen."], "a": 2, "why": "Ladegerät = charger — exactly what you need for a dead phone."},
+    "outro": "Next time you pack, name each thing in German as it goes in: ‘Reisepass — check!’ Have a great trip! ✈️"
+  },
+  "ja": {
+    "title": "スーツケースを閉める前のドイツ語10",
+    "hook": "旅行の前の晩、荷物と一緒にドイツ語の単語も詰めていきましょう。",
+    "intro": [
+      "旅行前夜、スーツケースの上に座ってファスナーを閉めようとした瞬間、ふと不安に。充電器は入れたっけ？パスポートは？結局もう一度開けて、ひとつずつ確認することに。",
+      "今日は荷造りで必ず出てくる単語を10個集めました。この10個で自分だけのドイツ語持ち物リストが作れて、ホテルで「充電器を忘れました」と伝えることもできます。さあ、かばんを開けましょう！🧳"
+    ],
+    "words": {
+      "A2-108": {"pron": "コッファー", "tip": "英語の coffer（宝箱）と同じルーツ 💼 私のスーツケースも宝箱！", "warn": "複数形も同じ形：die Koffer"},
+      "A2-162": {"pron": "パッケン", "tip": "英語の pack そのまま 🎒 Koffer packen = スーツケースに荷物を詰める！", "bonus": "荷ほどきする = auspacken"},
+      "A2-452": {"pron": "アインパッケン", "tip": "ein（中へ）+ packen = 中に入れて包む 🎁 お店のプレゼント包装も einpacken！", "warn": "分離動詞です：Ich packe das Ladegerät ein."},
+      "A1-228": {"pron": "ハントトゥーフ", "tip": "Hand（手）+ Tuch（布）= 手をふく布 🧺 大きなバスタオルもふつう Handtuch と言います。", "warn": "複数形はウムラウト付き：die Handtücher"},
+      "A2-110": {"pron": "ライゼパス", "tip": "Reise（旅行）+ Pass（通行証）= 旅の通行証 🛂 短く der Pass とも言います。", "bonus": "有効な = gültig：Ist der Pass noch gültig?"},
+      "A2-559": {"pron": "ルックザック", "tip": "Rücken（背中）+ Sack（袋）= 背負う袋 🎒 日本語の「リュック」の語源です！", "warn": "複数形：die Rucksäcke"},
+      "A2-743": {"pron": "シャンプー", "tip": "日本語とほぼ同じ 🧴 もとはヒンディー語の「マッサージする」から来ています。", "bonus": "リンス = die Spülung · 石けん = die Seife"},
+      "B1-1425": {"pron": "ツァーンパスタ", "tip": "Zahn（歯）+ Pasta（ペースト）= 歯に塗るパスタ 🍝 スパゲッティではありません！", "bonus": "die Zahncreme とも言います · 歯ブラシは die Zahnbürste"},
+      "A2-807": {"pron": "ラーデゲレート", "tip": "laden（充電する、英語の load）+ Gerät（機器）= 充電する機器 🔌", "bonus": "モバイルバッテリー = die Powerbank · ケーブル = das Kabel"},
+      "A2-1064": {"pron": "バーデアンツーク", "tip": "baden（水浴びする）+ Anzug（ひとそろいの服）= 水遊び用のひとそろい 👙", "bonus": "男性用の水着（パンツ）は die Badehose！"}
+    },
+    "culture": [
+      "ドイツのユースホステルや格安の宿では、タオルがなかったり別料金だったりすることがよくあります。サウナに行く予定なら大きなタオルは必須。ドイツのサウナでは、ふつう自分のタオルを敷いて座ります。",
+      "ドイツのコンセントは丸いピンが2本のヨーロッパ式です。日本のプラグはそのままでは差せないので、変換プラグを忘れずに。",
+      "それから、日曜日はほとんどのお店が閉まっています。歯磨き粉やシャンプーを忘れたら、大きな駅や空港の中のお店が救世主。荷造りは早めに！🧴"
+    ],
+    "quiz": {"q": "ホテルに着いたら、スマホの電池が0%。フロントで何と言いますか？", "o": ["Ich habe mein Handtuch vergessen.", "Ich habe meinen Badeanzug vergessen.", "Ich habe mein Ladegerät vergessen."], "a": 2, "why": "Ladegerät = 充電器。電池切れのときに必要なのは充電器ですね。"},
+    "outro": "次に荷造りするときは、入れるものをひとつずつドイツ語で言ってみましょう。「Reisepass、チェック！」という感じで。楽しい旅を！✈️"
+  }
+}

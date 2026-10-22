@@ -1,0 +1,84 @@
+{
+  "key": "colors",
+  "ko": {
+    "title": "세상을 칠하는 색깔·모양 독일어 10",
+    "hook": "색깔 단어만 알아도 독일 거리 풍경이 훨씬 또렷하게 보여요.",
+    "intro": [
+      "독일 거리를 걷다 보면 노란 우체통, 신호등 속 초록 사람, 집 앞에 줄 선 알록달록 쓰레기통이 눈에 들어와요. 그런데 친구가 ‘파란 통에 넣어’라고 하면 그게 blau였나, gelb였나?",
+      "오늘은 기본 색깔과 모양 단어 10개를 모았어요. 이걸로 물건을 설명하고, 옷 가게에서 다른 색을 찾고, 쓰레기 분리수거도 헷갈리지 않게 할 수 있어요. 🎨"
+    ],
+    "words": {
+      "A1-648": {"pron": "파르베", "tip": "팔레트에 ‘파르르’ 색이 퍼지는 Farbe 🎨", "bonus": "벽에 칠하는 페인트도 Farbe · 알록달록한 = bunt"},
+      "A1-369": {"pron": "로트", "tip": "레드 와인은 Rotwein, 와인 색으로 외워요 🍷", "bonus": "rot werden = 얼굴이 빨개지다"},
+      "A1-370": {"pron": "블라우", "tip": "영어 blue와 거의 같아요 💙", "bonus": "구어로 blau sein = 술에 취하다"},
+      "A1-372": {"pron": "겔프", "tip": "독일 우체통은 노랑, gelb 📯 영어 yellow와 친척이에요.", "bonus": "hell-(밝은)·dunkel-(어두운)을 붙이면: hellgelb, dunkelblau"},
+      "A1-371": {"pron": "그륀", "tip": "영어 green에 움라우트 한 방울 🌿", "bonus": "noch grün hinter den Ohren sein = 아직 풋내기다"},
+      "A1-373": {"pron": "슈바르츠", "tip": "Kaffee schwarz = 우유 없는 블랙커피 ☕", "bonus": "schwarzfahren = 무임승차하다"},
+      "A1-374": {"pron": "바이스", "tip": "눈 내린 겨울은 온통 weiß ❄️", "warn": "ich weiß(나는 안다)와 철자가 똑같아요!", "bonus": "화이트 와인은 der Weißwein"},
+      "B1-691": {"pron": "포름", "tip": "영어 form과 같아요 🔷 모양도, 서류 형식도, 몸 상태도 Form!", "bonus": "in Form sein = 컨디션이 좋다"},
+      "B1-886": {"pron": "크라이스", "tip": "‘크라이스~’ 하고 손가락으로 동그라미 그리기 ⭕", "bonus": "der Freundeskreis = 친구 모임 · 행정구역 ‘군’도 Kreis예요."},
+      "A2-561": {"pron": "룬트", "tip": "영어 round와 같은 뿌리 🟠 둥글둥글 rund!", "bonus": "rund um die Uhr = 24시간 내내 · ‘대략’도 돼요: rund 100 Leute"}
+    },
+    "culture": [
+      "독일에서 색깔은 쓰레기 버릴 때 정말 중요해요. 지역마다 조금씩 다르지만, 보통 노란 통이나 노란 봉투(Gelber Sack)는 포장재, 파란 통은 종이, 갈색 통은 음식물, 검은색이나 회색 통은 일반 쓰레기예요.",
+      "독일 우체국과 우체통은 노란색이라 멀리서도 금방 찾을 수 있어요. 노란 우편 차량도 동네에서 자주 보여요.",
+      "베를린을 비롯한 동독 지역 도시들에서는 모자를 쓴 귀여운 신호등 사람(Ampelmännchen)을 볼 수 있어요. 기념품으로도 인기가 많답니다. 🚦"
+    ],
+    "quiz": {"q": "횡단보도 앞에서 친구가 ‘이제 건너도 돼!’라고 해요. 신호등은 어떤 상태일까요?", "o": ["Die Ampel ist rot.", "Die Ampel ist gelb.", "Die Ampel ist grün."], "a": 2, "why": "grün = 초록. 초록불일 때 건너요."},
+    "outro": "오늘은 주변 물건 다섯 개를 골라 ‘Das ist rot!’처럼 색깔을 독일어로 말해 봐요. 산책하면서 해도 재밌어요! 🌈"
+  },
+  "en": {
+    "title": "Paint the town: 10 German words for colours and shapes",
+    "hook": "Once you know the colour words, German streets suddenly look a lot clearer.",
+    "intro": [
+      "Walk down any German street and you'll spot yellow postboxes, a little green man at the traffic lights and a row of colourful bins outside every house. But when a friend says ‘put it in the blue one’, was that blau or gelb?",
+      "Today's ten words are basic colours and shapes. With them you can describe things, ask for another colour in a clothes shop and sort your rubbish without a second thought. 🎨"
+    ],
+    "words": {
+      "A1-648": {"pron": "FAR-buh", "tip": "Imagine colour spreading far across the page — Farbe 🎨", "bonus": "Wall paint is Farbe too · colourful = bunt"},
+      "A1-369": {"pron": "ROHT", "tip": "Red wine is Rotwein — remember it by the glass 🍷", "bonus": "rot werden = to blush"},
+      "A1-370": {"pron": "BLOW", "tip": "Basically blue, said with a German ‘ow’ 💙", "bonus": "Colloquial: blau sein = to be drunk"},
+      "A1-372": {"pron": "GELP", "tip": "Yellow and gelb are relatives, and German postboxes are gelb 📯", "bonus": "Add hell- (light) or dunkel- (dark): hellgelb, dunkelblau"},
+      "A1-371": {"pron": "GRUEN", "tip": "Green with an umlaut sprinkled on top 🌿", "bonus": "noch grün hinter den Ohren sein = to be still wet behind the ears"},
+      "A1-373": {"pron": "SHVARTS", "tip": "Kaffee schwarz = black coffee, no milk ☕", "bonus": "schwarzfahren = to ride without a ticket"},
+      "A1-374": {"pron": "VICE", "tip": "A snowy winter is all weiß ❄️", "warn": "Same spelling as ich weiß (I know)!", "bonus": "white wine = der Weißwein"},
+      "B1-691": {"pron": "FORM", "tip": "Just like form 🔷 Shape, format or fitness — it's all Form.", "bonus": "in Form sein = to be in good shape"},
+      "B1-886": {"pron": "KRICE", "tip": "Draw a circle in the air as you say ‘KRICE’ ⭕", "bonus": "der Freundeskreis = circle of friends · a rural district is also a Kreis."},
+      "A2-561": {"pron": "ROONT", "tip": "Same root as round 🟠 Nice and rund!", "bonus": "rund um die Uhr = around the clock · also ‘about’: rund 100 Leute"}
+    },
+    "culture": [
+      "In Germany, colours really matter when you take out the rubbish. It varies a bit from place to place, but usually the yellow bin or yellow bag (Gelber Sack) is for packaging, blue is for paper, brown is for food waste and black or grey is for everything else.",
+      "German post offices and postboxes are yellow, so they're easy to spot from a distance. You'll often see yellow post vans driving around too.",
+      "In Berlin and other cities in the former East, look out for the little traffic-light man with a hat (Ampelmännchen). He's a popular souvenir too. 🚦"
+    ],
+    "quiz": {"q": "At a crossing, your friend says ‘We can go now!’. What are the lights showing?", "o": ["Die Ampel ist rot.", "Die Ampel ist gelb.", "Die Ampel ist grün."], "a": 2, "why": "grün means green — that's when you can cross."},
+    "outro": "Pick five things around you today and say their colours in German, like ‘Das ist rot!’. It's fun on a walk too! 🌈"
+  },
+  "ja": {
+    "title": "世界がカラフルになる色と形のドイツ語10",
+    "hook": "色の単語がわかるだけで、ドイツの街並みがぐっと鮮やかに見えてきます。",
+    "intro": [
+      "ドイツの街を歩くと、黄色いポスト、信号の中の緑の人、家の前に並ぶカラフルなゴミ箱が目に入ります。でも友だちに「青いほうに入れて」と言われたら、それは blau？gelb？",
+      "今日は基本の色と形の単語を10個集めました。物の説明をしたり、服屋さんで別の色を探したり、ゴミの分別で迷わないようにしたりできます。🎨"
+    ],
+    "words": {
+      "A1-648": {"pron": "ファルベ", "tip": "パレットに色がファ〜ッと広がる Farbe 🎨", "bonus": "壁に塗るペンキも Farbe · カラフルな = bunt"},
+      "A1-369": {"pron": "ロート", "tip": "赤ワインは Rotwein。ワインの色で覚えましょう 🍷", "bonus": "rot werden = 顔が赤くなる"},
+      "A1-370": {"pron": "ブラウ", "tip": "英語の blue とほぼ同じ 💙", "bonus": "口語で blau sein = 酔っ払っている"},
+      "A1-372": {"pron": "ゲルプ", "tip": "ドイツのポストは黄色、gelb 📯 英語 yellow の親戚です。", "bonus": "hell-（明るい）・dunkel-（暗い）をつけると：hellgelb、dunkelblau"},
+      "A1-371": {"pron": "グリューン", "tip": "英語 green にウムラウトをひとふり 🌿", "warn": "日本語で「青信号」でも、ドイツ語では grün です。", "bonus": "noch grün hinter den Ohren sein = まだ青二才だ"},
+      "A1-373": {"pron": "シュヴァルツ", "tip": "Kaffee schwarz = ミルクなしのブラックコーヒー ☕", "bonus": "schwarzfahren = 無賃乗車する"},
+      "A1-374": {"pron": "ヴァイス", "tip": "雪の冬は一面 weiß ❄️", "warn": "ich weiß（私は知っている）と同じつづりです！", "bonus": "白ワインは der Weißwein"},
+      "B1-691": {"pron": "フォルム", "tip": "英語の form と同じ 🔷 形も、書式も、体の調子も Form！", "bonus": "in Form sein = 調子がいい"},
+      "B1-886": {"pron": "クライス", "tip": "「クライス〜」と言いながら指で丸を描いてみて ⭕", "bonus": "der Freundeskreis = 友人の輪 · 行政区画の「郡」も Kreis です。"},
+      "A2-561": {"pron": "ルント", "tip": "英語 round と同じルーツ 🟠 まんまる rund！", "bonus": "rund um die Uhr = 24時間ずっと · 「約」の意味も：rund 100 Leute"}
+    },
+    "culture": [
+      "ドイツでは、ゴミを出すときに色がとても大事です。地域によって少し違いますが、たいてい黄色の箱や黄色い袋（Gelber Sack）は包装ゴミ、青は紙、茶色は生ゴミ、黒やグレーはその他のゴミです。",
+      "ドイツの郵便局とポストは黄色なので、遠くからでもすぐ見つかります。黄色い郵便の車も街でよく見かけます。",
+      "ベルリンなど旧東ドイツの街では、帽子をかぶったかわいい信号の人（Ampelmännchen）に会えます。おみやげとしても人気なんですよ。🚦"
+    ],
+    "quiz": {"q": "横断歩道で友だちが「もう渡っていいよ！」と言いました。信号はどうなっていますか？", "o": ["Die Ampel ist rot.", "Die Ampel ist gelb.", "Die Ampel ist grün."], "a": 2, "why": "grün は緑で、日本語の「青信号」にあたります。このときに渡ります。"},
+    "outro": "今日は身の回りの物を5つ選んで、「Das ist rot!」のように色をドイツ語で言ってみましょう。散歩しながらでも楽しいですよ！🌈"
+  }
+}

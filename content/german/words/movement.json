@@ -1,0 +1,84 @@
+{
+  "key": "movement",
+  "ko": {
+    "title": "뛰고, 오르고, 헤엄치는 독일어 동사 10",
+    "hook": "이 동사들은 완료형에서 haben 대신 sein을 좋아해요. 오늘 그 비밀을 알려 드릴게요.",
+    "intro": [
+      "월요일 아침, 동료가 ‘Was hast du am Wochenende gemacht?’ 하고 물어요. 산에 가서 걷고, 호수에서 수영하고, 버스 잡으려고 뛰었는데… ‘Ich habe gewandert’라고 했더니 동료가 살짝 웃었어요. 왜일까요?",
+      "오늘은 몸을 움직이는 동사 10개예요. 이걸 알면 주말에 한 일을 생생하게 말할 수 있어요. 그리고 장소를 옮겨 가는 움직임은 완료형에 sein을 쓴다는 것도 자연스럽게 익힐 수 있어요. 🏃"
+    ],
+    "words": {
+      "A1-179": {"pron": "라우펜", "tip": "영어 leap과 같은 뿌리 🏃 달리기도 걷기도 laufen!", "warn": "불규칙 + sein 완료: er läuft – ist gelaufen", "bonus": "Wie läuft’s? = 요즘 어때? 잘 돼?"},
+      "B1-1073": {"pron": "레넨", "tip": "영어 run과 친척 💨 laufen보다 더 급하게 전력 질주!", "warn": "과거형이 특이해요: rannte – ist gerannt"},
+      "B1-1175": {"pron": "슈프링엔", "tip": "영어 spring(튀어 오르다)과 같아요 🦘 스프링처럼 퐁!", "bonus": "명사 der Sprung = 점프 · 물에 뛰어들다 = ins Wasser springen"},
+      "A1-178": {"pron": "슈비멘", "tip": "영어 swim과 쌍둥이 🏊 sw → schw로만 바꾸면 돼요.", "warn": "완료형은 보통 sein: Ich bin im See geschwommen."},
+      "B1-852": {"pron": "클레턴", "tip": "kleben(달라붙다)처럼 벽에 착 붙어서 오르기 🧗", "bonus": "실내 클라이밍장 = die Kletterhalle"},
+      "A2-157": {"pron": "반던", "tip": "영어 wander처럼 산과 들을 누비기 🥾", "warn": "동네 산책은 spazieren gehen! wandern은 산이나 들을 오래 걷는 거예요."},
+      "A2-493": {"pron": "조겐", "tip": "영어 jog 그대로 👟 독일어에선 g가 두 개!", "bonus": "완료형은 sein도 haben도 써요: Ich bin/habe gejoggt."},
+      "B1-294": {"pron": "베베겐", "tip": "be- + wegen이 아니라 wiegen(흔들다)과 친척 🤸 몸을 흔들흔들 움직이기!", "bonus": "운동 좀 해 = Beweg dich mehr! · 명사는 die Bewegung"},
+      "B1-2406": {"pron": "휩펜", "tip": "영어 hop과 같은 뿌리 🐰 springen보다 작고 가볍게 깡충깡충!", "bonus": "아이들이 기뻐서 뛸 때: vor Freude hüpfen"},
+      "B2-2227": {"pron": "크리헨", "tip": "영어 creep과 친척 🐛 바닥을 엉금엉금 기기", "warn": "불규칙 + sein 완료: kroch – ist gekrochen"}
+    },
+    "culture": [
+      "독일 사람들은 wandern을 정말 좋아해요. 산이 많은 남부뿐 아니라 어디에나 표지판이 잘 된 하이킹 길(Wanderweg)이 있고, 주말이면 등산화를 신고 가족끼리 나서는 모습을 흔히 볼 수 있어요.",
+      "여름에는 수영장보다 호수에서 수영하는 사람도 많아요. 동네마다 야외 수영장(Freibad)도 있어서, 날씨가 좋은 날엔 다들 수영복을 챙겨 나가요.",
+      "그리고 일요일에는 가게가 대부분 문을 닫아서, 가족이나 친구와 산책(Spaziergang)하며 보내는 사람이 많아요. 🌳"
+    ],
+    "quiz": {"q": "월요일에 동료에게 ‘주말에 산에서 하이킹했어요’라고 말하려면?", "o": ["Wir haben in den Bergen gewandert.", "Wir sind in den Bergen gewandert.", "Wir wandern in den Bergen gewandert."], "a": 1, "why": "wandern은 장소를 이동하는 동사라서 완료형에 sein을 써요: Wir sind gewandert."},
+    "outro": "오늘 하루 몸으로 한 움직임을 완료형으로 말해 봐요. ‘Ich bin heute gelaufen!’ 처럼요. sein 잊지 마세요! 🏃‍♀️"
+  },
+  "en": {
+    "title": "Run, jump, climb: 10 German verbs that get you moving",
+    "hook": "These verbs prefer sein over haben in the perfect tense — and today you'll find out why.",
+    "intro": [
+      "Monday morning, a colleague asks ‘Was hast du am Wochenende gemacht?’. You went hiking, swam in a lake and sprinted for the bus… You say ‘Ich habe gewandert’ and your colleague smiles a little. Why?",
+      "Today's ten verbs are all about moving your body. With them you can describe your weekend vividly, and pick up the rule along the way: when you move from one place to another, the perfect tense usually takes sein. 🏃"
+    ],
+    "words": {
+      "A1-179": {"pron": "LOW-fen", "tip": "Same root as English leap 🏃 laufen covers both running and walking.", "warn": "Irregular, with sein: er läuft – ist gelaufen", "bonus": "Wie läuft’s? = How's it going?"},
+      "B1-1073": {"pron": "REN-en", "tip": "A cousin of English run 💨 Faster and more urgent than laufen.", "warn": "Irregular past: rannte – ist gerannt"},
+      "B1-1175": {"pron": "SHPRING-en", "tip": "Like English spring — boing! 🦘", "bonus": "a jump = der Sprung · to jump into the water = ins Wasser springen"},
+      "A1-178": {"pron": "SHVIM-en", "tip": "A twin of English swim 🏊 Just turn sw into schw.", "warn": "Usually sein in the perfect: Ich bin im See geschwommen."},
+      "B1-852": {"pron": "KLET-ern", "tip": "Possibly linked to kleben (to stick) — you stick to the wall as you climb 🧗", "bonus": "a climbing gym = die Kletterhalle"},
+      "A2-157": {"pron": "VAN-dern", "tip": "Like English wander, out over hills and fields 🥾", "warn": "A stroll round the block is spazieren gehen; wandern means a proper hike."},
+      "A2-493": {"pron": "JOG-en", "tip": "Straight from English 👟 Just add a second g.", "bonus": "The perfect works with sein or haben: Ich bin/habe gejoggt."},
+      "B1-294": {"pron": "buh-VAY-gen", "tip": "Related to wiegen (to rock) 🤸 Rock and move your body!", "bonus": "Get moving! = Beweg dich mehr! · movement = die Bewegung"},
+      "B1-2406": {"pron": "HUEP-fen", "tip": "Same root as English hop 🐰 Smaller and lighter than springen.", "bonus": "Children jump for joy: vor Freude hüpfen"},
+      "B2-2227": {"pron": "KREE-khen", "tip": "A cousin of English creep 🐛 Low and slow along the floor.", "warn": "Irregular, with sein: kroch – ist gekrochen"}
+    },
+    "culture": [
+      "Germans love to wandern. Well-marked hiking trails (Wanderweg) run all over the country, not just in the mountains, and at weekends you'll see families heading out in hiking boots.",
+      "In summer, lots of people swim in lakes rather than pools, and most towns have an outdoor pool (Freibad) that fills up on sunny days.",
+      "And since most shops are closed on Sundays, many people spend the day going for a walk (Spaziergang) with family or friends. 🌳"
+    ],
+    "quiz": {"q": "On Monday you want to tell a colleague ‘We went hiking in the mountains’. What do you say?", "o": ["Wir haben in den Bergen gewandert.", "Wir sind in den Bergen gewandert.", "Wir wandern in den Bergen gewandert."], "a": 1, "why": "wandern is a verb of moving from place to place, so the perfect uses sein: Wir sind gewandert."},
+    "outro": "Describe one way you moved today in the perfect tense, like ‘Ich bin heute gelaufen!’ — and don't forget the sein! 🏃‍♀️"
+  },
+  "ja": {
+    "title": "走る・登る・泳ぐ！体を動かすドイツ語動詞10",
+    "hook": "この動詞たちは、完了形で haben より sein が好き。今日はその秘密をお教えします。",
+    "intro": [
+      "月曜の朝、同僚に「Was hast du am Wochenende gemacht?」と聞かれました。山を歩いて、湖で泳いで、バスに乗るために走って…「Ich habe gewandert」と言ったら、同僚が少し笑いました。なぜでしょう？",
+      "今日は体を動かす動詞を10個集めました。これがあれば週末にしたことを生き生きと話せます。そして、場所を移動する動きは完了形に sein を使うというルールも自然に身につきます。🏃"
+    ],
+    "words": {
+      "A1-179": {"pron": "ラウフェン", "tip": "英語の leap と同じ語源 🏃 走るのも歩くのも laufen！", "warn": "不規則で完了は sein：er läuft – ist gelaufen", "bonus": "Wie läuft’s? = 調子はどう？"},
+      "B1-1073": {"pron": "レネン", "tip": "英語の run の親戚 💨 laufen よりも急いで全力ダッシュ！", "warn": "過去形が独特：rannte – ist gerannt"},
+      "B1-1175": {"pron": "シュプリンゲン", "tip": "英語の spring と同じ 🦘 バネのようにぴょーん！", "bonus": "名詞 der Sprung = ジャンプ。水に飛び込む = ins Wasser springen"},
+      "A1-178": {"pron": "シュヴィメン", "tip": "英語の swim とそっくり 🏊 sw を schw にするだけ。", "warn": "完了形はふつう sein：Ich bin im See geschwommen."},
+      "B1-852": {"pron": "クレッターン", "tip": "kleben（くっつく）のように壁にぴったりくっついて登る 🧗", "bonus": "ボルダリングジム = die Kletterhalle"},
+      "A2-157": {"pron": "ヴァンダーン", "tip": "英語の wander のように野山を歩き回る 🥾 ワンダーフォーゲルの Wander です。", "warn": "近所の散歩は spazieren gehen。wandern は山や野原を長く歩くことです。"},
+      "A2-493": {"pron": "ジョッゲン", "tip": "英語の jog そのまま 👟 ドイツ語では g が2つ！", "bonus": "完了形は sein でも haben でもOK：Ich bin/habe gejoggt."},
+      "B1-294": {"pron": "ベヴェーゲン", "tip": "wiegen（揺らす）の親戚 🤸 体をゆらゆら動かそう！", "bonus": "もっと運動して = Beweg dich mehr!、名詞は die Bewegung"},
+      "B1-2406": {"pron": "ヒュプフェン", "tip": "英語の hop と同じ語源 🐰 springen より小さく軽くぴょんぴょん！", "bonus": "子どもが喜んで跳ねる：vor Freude hüpfen"},
+      "B2-2227": {"pron": "クリーヒェン", "tip": "英語の creep の親戚 🐛 床をのそのそ這う", "warn": "不規則で完了は sein：kroch – ist gekrochen"}
+    },
+    "culture": [
+      "ドイツの人は wandern が大好き。山の多い南部だけでなく、全国に標識の整ったハイキングコース（Wanderweg）があり、週末には登山靴を履いて出かける家族をよく見かけます。",
+      "夏はプールより湖で泳ぐ人も多いです。たいていの町には屋外プール（Freibad）もあり、晴れた日は大にぎわいです。",
+      "そして日曜日はほとんどのお店が閉まっているので、家族や友だちと散歩（Spaziergang）をして過ごす人がたくさんいます。🌳"
+    ],
+    "quiz": {"q": "月曜日、同僚に「週末に山でハイキングしました」と言うには？", "o": ["Wir haben in den Bergen gewandert.", "Wir sind in den Bergen gewandert.", "Wir wandern in den Bergen gewandert."], "a": 1, "why": "wandern は場所を移動する動詞なので、完了形は sein を使います：Wir sind gewandert."},
+    "outro": "今日した動きを完了形で言ってみましょう。「Ich bin heute gelaufen!」のように。sein を忘れずに！🏃‍♀️"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "reflexive",
+  "ko": {
+    "title": "sich가 왜 자꾸 나와? 재귀동사 10개로 끝내기",
+    "hook": "독일어 동사 옆에 붙어 다니는 sich, 오늘부터는 반갑게 맞이해 봐요.",
+    "intro": [
+      "어학원 첫날, 선생님이 웃으며 “Setzen Sie sich!” 하셨어요. 앉으라는 건 알겠는데, 왜 ‘당신 자신을’ 앉히라는 걸까요? 그 뒤로도 Ich freue mich, Beeil dich… sich가 계속 따라와요.",
+      "오늘은 매일 쓰는 재귀동사 10개를 모았어요. 기쁨, 짜증, 사과, 사랑까지 감정과 일상을 말하는 동사가 많아서, 이 10개만 익혀도 말이 훨씬 자연스러워져요. 🪞"
+    ],
+    "words": {
+      "A1-075": {"pron": "지히 프로이엔", "tip": "Freude(기쁨)와 같은 뿌리 😊 기쁨이 나에게(sich) 돌아와요!", "warn": "auf + 4격 = 앞으로의 일을 기대하다 · über + 4격 = 이미 일어난 일이 기쁘다"},
+      "A2-153": {"pron": "지히 에어인너른", "tip": "er- + inner(안쪽) = 기억을 머릿속 안으로 다시 불러오기 🧠", "bonus": "an + 4격과 함께: Ich erinnere mich an dich."},
+      "A1-341": {"pron": "지히 제첸", "tip": "나를(sich) 의자에 내려놓는(setzen) 동작 🪑 영어 set과 친척!", "warn": "앉는 동작은 sich setzen, 앉아 있는 상태는 sitzen이에요."},
+      "B1-286": {"pron": "지히 베아일렌", "tip": "Eile(서두름)에서 왔어요 🏃 Beeil dich! = 빨리빨리!", "bonus": "격식: Beeilen Sie sich bitte!"},
+      "A2-064": {"pron": "지히 애르건", "tip": "arg(나쁜)에서 왔어요 😤 스스로 속을 끓이는 거예요.", "bonus": "Ärger dich nicht! = 신경 쓰지 마! · über + 4격: Ich ärgere mich über den Lärm."},
+      "A2-066": {"pron": "지히 아우스루엔", "tip": "aus(완전히) + ruhen(쉬다) = 푹 쉬기 🛋️", "warn": "분리동사 + 재귀동사: Ich ruhe mich aus."},
+      "A2-052": {"pron": "지히 에어캘텐", "tip": "er- + kalt(차가운) = 몸이 차가워져서 감기 걸리기 🤧", "bonus": "Ich habe mich erkältet. = 감기 걸렸어요."},
+      "A2-176": {"pron": "지히 엔트슐디겐", "tip": "ent-(없애다) + Schuld(잘못) = 내 잘못을 없애 달라고 하기 🙇", "warn": "사람에게는 bei + 3격, 이유는 für + 4격: Ich entschuldige mich bei dir für die Verspätung."},
+      "A2-616": {"pron": "지히 페어리벤", "tip": "ver- + lieben(사랑하다) = 사랑에 빠져 버리기 💘", "bonus": "in + 4격: Sie hat sich in ihn verliebt."},
+      "B1-903": {"pron": "지히 랑바일렌", "tip": "lang(긴) + Weile(동안) = 시간이 길~게 느껴져요 🥱", "warn": "Mir ist langweilig. = 나 심심해 · Ich bin langweilig. = 나는 재미없는 사람이야!"}
+    },
+    "culture": [
+      "sich freuen은 독일 사람들이 정말 자주 쓰는 동사예요. 업무 메일 끝에 “Ich freue mich auf Ihre Antwort.”(답장 기다리겠습니다)라고 쓰는 게 아주 흔하고, 초대를 받으면 “Ich freue mich!” 한마디로 기쁨을 전해요.",
+      "독일 가정에 하나쯤은 있는 보드게임 이름이 바로 “Mensch ärgere dich nicht”예요. 직역하면 ‘이봐, 화내지 마’. 말을 잡히면 출발점으로 돌아가야 해서, 이름과 반대로 다들 화를 내며 하는 게임이에요. 😄",
+      "길에서 누군가에게 말을 걸 때는 “Entschuldigung!” 한마디로 시작하면 돼요. 사과할 때도, 길을 비켜 달라고 할 때도 쓸 수 있어서 정말 쓸모 있는 말이에요."
+    ],
+    "quiz": {"q": "친구가 토요일 생일 파티에 초대해 줬어요. 기대된다고 말하려면?", "o": ["Ich freue mich auf Samstag!", "Ich ärgere mich über Samstag!", "Ich langweile mich am Samstag!"], "a": 0, "why": "sich freuen auf + 4격 = ~을 기대하다. 앞으로 올 일에 설레는 마음을 말해요."},
+    "outro": "오늘 하루를 재귀동사로 말해 봐요. Ich habe mich beeilt, ich habe mich geärgert, jetzt ruhe ich mich aus! 🪞"
+  },
+  "en": {
+    "title": "Why all the sich? 10 reflexive verbs made easy",
+    "hook": "That little sich that follows German verbs around — let's make friends with it today.",
+    "intro": [
+      "On your first day at language school, the teacher smiles and says, ‘Setzen Sie sich!’ You know it means sit down — but why ‘sit yourself’? After that, sich keeps popping up: Ich freue mich, Beeil dich…",
+      "Today's ten reflexive verbs are ones you'll use every day. Many describe feelings and daily life — joy, annoyance, apologies, falling in love — so learning them makes your German sound much more natural. 🪞"
+    ],
+    "words": {
+      "A1-075": {"pron": "zikh FROY-en", "tip": "Same root as Freude (joy) 😊 The joy comes back to you (sich).", "warn": "auf + acc. = look forward to something · über + acc. = be glad about something that happened"},
+      "A2-153": {"pron": "zikh air-IN-ern", "tip": "er- + inner = bring it back inside your mind 🧠", "bonus": "With an + acc.: Ich erinnere mich an dich."},
+      "A1-341": {"pron": "zikh ZET-sen", "tip": "You set yourself (sich) down on a chair 🪑 Related to English set.", "warn": "The movement is sich setzen; being seated is sitzen."},
+      "B1-286": {"pron": "zikh be-EYE-len", "tip": "From Eile (haste) 🏃 Beeil dich! = Hurry up!", "bonus": "Formal: Beeilen Sie sich bitte!"},
+      "A2-064": {"pron": "zikh AIR-gern", "tip": "From arg (bad) 😤 You get yourself worked up.", "bonus": "Ärger dich nicht! = Don't let it bother you! · über + acc.: Ich ärgere mich über den Lärm."},
+      "A2-066": {"pron": "zikh OWSS-roo-en", "tip": "aus (completely) + ruhen (rest) = have a proper rest 🛋️", "warn": "Separable and reflexive: Ich ruhe mich aus."},
+      "A2-052": {"pron": "zikh air-KEL-ten", "tip": "er- + kalt (cold) = get cold and catch a cold 🤧", "bonus": "Ich habe mich erkältet. = I've caught a cold."},
+      "A2-176": {"pron": "zikh ent-SHOOL-di-gen", "tip": "ent- (remove) + Schuld (guilt) = asking to have your guilt taken away 🙇", "warn": "To someone: bei + dat.; for something: für + acc. — Ich entschuldige mich bei dir für die Verspätung."},
+      "A2-616": {"pron": "zikh fair-LEE-ben", "tip": "ver- + lieben (love) = tumble into love 💘", "bonus": "With in + acc.: Sie hat sich in ihn verliebt."},
+      "B1-903": {"pron": "zikh LANG-vy-len", "tip": "lang (long) + Weile (while) = time feels sooo long 🥱", "warn": "Mir ist langweilig. = I'm bored · Ich bin langweilig. = I'm boring!"}
+    },
+    "culture": [
+      "Germans use sich freuen all the time. ‘Ich freue mich auf Ihre Antwort.’ (I look forward to your reply) is a very common way to end a work email, and a simple ‘Ich freue mich!’ is how you accept an invitation happily.",
+      "One of the most familiar German board games is called ‘Mensch ärgere dich nicht’ — roughly ‘Hey, don't get annoyed’. When your piece is knocked off, it goes back to the start, so despite the name, everyone ends up annoyed. 😄",
+      "To get someone's attention in the street, just start with ‘Entschuldigung!’ It works for apologising and for asking people to let you pass, too."
+    ],
+    "quiz": {"q": "A friend has invited you to a birthday party on Saturday. How do you say you're looking forward to it?", "o": ["Ich freue mich auf Samstag!", "Ich ärgere mich über Samstag!", "Ich langweile mich am Samstag!"], "a": 0, "why": "sich freuen auf + acc. = to look forward to something coming up."},
+    "outro": "Describe your day with reflexive verbs: Ich habe mich beeilt, ich habe mich geärgert, jetzt ruhe ich mich aus! 🪞"
+  },
+  "ja": {
+    "title": "なぜ sich がつくの？再帰動詞10個ですっきり",
+    "hook": "ドイツ語の動詞にくっついてくる sich、今日からは仲良くなりましょう。",
+    "intro": [
+      "語学学校の初日、先生がにっこり「Setzen Sie sich!」。座ってという意味なのはわかるけれど、なぜ「あなた自身を」座らせるの？その後も Ich freue mich、Beeil dich…と sich がずっとついてきます。",
+      "今日は毎日使う再帰動詞を10個集めました。喜び、いらだち、謝罪、恋まで、気持ちや日常を表す動詞が多いので、この10個を覚えるだけで話し方がぐっと自然になります。🪞"
+    ],
+    "words": {
+      "A1-075": {"pron": "ズィッヒ フロイエン", "tip": "Freude（喜び）と同じ語源 😊 喜びが自分（sich）に返ってきます！", "warn": "auf + 4格 = これからのことを楽しみにする · über + 4格 = 起きたことを喜ぶ"},
+      "A2-153": {"pron": "ズィッヒ エアインナーン", "tip": "er- + inner（内側）= 記憶を頭の中に呼び戻す 🧠", "bonus": "an + 4格と一緒に：Ich erinnere mich an dich."},
+      "A1-341": {"pron": "ズィッヒ ゼッツェン", "tip": "自分（sich）をいすに置く（setzen）動作 🪑 英語の set の親戚！", "warn": "座る動作は sich setzen、座っている状態は sitzen です。"},
+      "B1-286": {"pron": "ズィッヒ ベアイレン", "tip": "Eile（急ぎ）から 🏃 Beeil dich! = 早く早く！", "bonus": "改まった言い方：Beeilen Sie sich bitte!"},
+      "A2-064": {"pron": "ズィッヒ エルガーン", "tip": "arg（悪い）から 😤 自分でイライラをためこむイメージ。", "bonus": "Ärger dich nicht! = 気にしないで！· über + 4格：Ich ärgere mich über den Lärm."},
+      "A2-066": {"pron": "ズィッヒ アウスルーエン", "tip": "aus（すっかり）+ ruhen（休む）= ゆっくり休む 🛋️", "warn": "分離動詞で再帰動詞です：Ich ruhe mich aus."},
+      "A2-052": {"pron": "ズィッヒ エアケルテン", "tip": "er- + kalt（冷たい）= 体が冷えて風邪をひく 🤧", "bonus": "Ich habe mich erkältet. = 風邪をひきました。"},
+      "A2-176": {"pron": "ズィッヒ エントシュルディゲン", "tip": "ent-（取り除く）+ Schuld（罪）= 自分の非を取り除いてもらう 🙇", "warn": "相手は bei + 3格、理由は für + 4格：Ich entschuldige mich bei dir für die Verspätung."},
+      "A2-616": {"pron": "ズィッヒ フェアリーベン", "tip": "ver- + lieben（愛する）= 恋に落ちてしまう 💘", "bonus": "in + 4格と一緒に：Sie hat sich in ihn verliebt."},
+      "B1-903": {"pron": "ズィッヒ ラングヴァイレン", "tip": "lang（長い）+ Weile（あいだ）= 時間がなが〜く感じる 🥱", "warn": "Mir ist langweilig. = 退屈だ · Ich bin langweilig. = 私はつまらない人間だ！"}
+    },
+    "culture": [
+      "sich freuen はドイツ人が本当によく使う動詞です。仕事のメールの最後に「Ich freue mich auf Ihre Antwort.」（お返事をお待ちしています）と書くのはとても一般的で、招待されたら「Ich freue mich!」のひとことで喜びを伝えます。",
+      "ドイツの家庭によくあるボードゲームの名前が「Mensch ärgere dich nicht」。直訳すると「おい、怒るなよ」。コマを取られるとスタートに戻されるので、名前とは逆にみんな怒りながら遊ぶゲームです。😄",
+      "道で人に話しかけるときは「Entschuldigung!」のひとことから始めればOK。謝るときにも、道をあけてもらうときにも使える、とても便利な言葉です。"
+    ],
+    "quiz": {"q": "友だちが土曜日の誕生日パーティーに招待してくれました。楽しみだと伝えるには？", "o": ["Ich freue mich auf Samstag!", "Ich ärgere mich über Samstag!", "Ich langweile mich am Samstag!"], "a": 0, "why": "sich freuen auf + 4格 = 〜を楽しみにする。これからのことにわくわくする気持ちを表します。"},
+    "outro": "今日一日を再帰動詞で言ってみましょう。Ich habe mich beeilt, ich habe mich geärgert, jetzt ruhe ich mich aus! 🪞"
+  }
+}

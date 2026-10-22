@@ -1,0 +1,84 @@
+{
+  "key": "pandemic",
+  "ko": {
+    "title": "뉴스가 들리기 시작하는 위생·감염 독일어 10",
+    "hook": "독일 뉴스에서 매일 나오던 그 단어들, 이제는 들으면 바로 알 수 있게 해 볼까요?",
+    "intro": [
+      "사무실에서 옆자리 동료가 콜록콜록. 다른 동료가 \"Pass auf, das ist bestimmt ansteckend!\"라고 농담을 해요. 저녁 뉴스에서는 독감 예방 접종 이야기가 나오고요. 다 들리는 것 같은데 단어 몇 개가 콕콕 걸리죠.",
+      "오늘은 감염과 위생에 관한 단어 10개를 모았어요. 이걸로 뉴스를 알아듣고, 병원에서 접종을 묻고, 동료에게 \"옮을 수 있으니 조심해\"라고 말할 수 있어요. 손 씻고 시작해요! 🧼"
+    ],
+    "words": {
+      "B2-1092": {"pron": "판데미", "tip": "그리스어 pan(모든) + dēmos(사람들) = 모든 사람에게 퍼진 병 🌍 -ie로 끝나면 대부분 die!", "bonus": "지역 유행은 die Epidemie예요."},
+      "B1-1367": {"pron": "비루스", "tip": "라틴어로 ‘독’ 🦠 v는 ‘브’ 소리로, 영어 virus와 거의 같아요.", "warn": "정식으로는 das Virus, 말할 때는 der Virus도 많이 써요. 복수는 die Viren!"},
+      "B1-800": {"pron": "인펙치온", "tip": "영어 infection과 똑같은 모양 🧫 -tion으로 끝나면 언제나 die!", "bonus": "형용사: infiziert(감염된) · Ich bin infiziert."},
+      "B2-1094": {"pron": "지히 안슈테켄", "tip": "an(붙어서) + stecken(꽂다) = 병이 나한테 꽂혀 들어옴 📌", "warn": "누구에게서 옮았는지는 bei: Ich habe mich bei meinem Sohn angesteckt."},
+      "B2-1093": {"pron": "안슈테켄트", "tip": "anstecken의 현재분사 = 옮기 쉬운 🤧 웃음에도 써요!", "bonus": "Lachen ist ansteckend. = 웃음은 전염돼요."},
+      "A2-863": {"pron": "마스케", "tip": "영어 mask에 -e만 붙였어요 😷 가면 무도회 가면도 Maske!", "bonus": "마스크를 쓰다 = eine Maske tragen"},
+      "B2-1084": {"pron": "임프풍", "tip": "impfen + -ung = 예방 접종 💉 -ung은 언제나 die!", "bonus": "노란 예방 접종 수첩 = der Impfpass"},
+      "B2-1085": {"pron": "임프펜", "tip": "원래는 나무에 ‘접붙이다’라는 뜻이었어요 🌳 몸에 면역을 접붙이는 거죠.", "warn": "‘접종받다’는 sich impfen lassen이에요: Ich lasse mich impfen."},
+      "B2-1154": {"pron": "카란테네", "tip": "이탈리아어 quaranta giorni(40일)에서 왔어요 🏠 Qu는 ‘크브’가 아니라 ‘카’!", "bonus": "격리 중이다 = in Quarantäne sein"},
+      "B2-1152": {"pron": "휘기에네", "tip": "그리스 건강의 여신 히기에이아(Hygieia)에서 🧼 y는 ‘위’로 읽어요.", "bonus": "형용사: hygienisch(위생적인)"}
+    },
+    "culture": [
+      "독일 사람들의 대표 위생 습관 하나는 환기(Lüften)예요. 겨울에도 하루에 몇 번씩 창문을 활짝 열어 짧게 공기를 바꾸는 ‘Stoßlüften’을 하는 집이 많아요.",
+      "기침이나 재채기는 손이 아니라 팔꿈치 안쪽(Armbeuge)에 하는 게 매너예요. 그리고 누가 재채기를 하면 \"Gesundheit!\"라고 말해 주는 사람도 많아요.",
+      "독일에는 노란색 예방 접종 수첩(Impfpass)이 있어서 병원에 갈 때 챙겨 가면 편해요. 이사 올 때 한국에서 받은 접종 기록도 챙겨 두면 좋아요. 💉"
+    ],
+    "quiz": {"q": "동료가 심하게 기침하면서 출근했어요. 뭐라고 말할까요?", "o": ["Ich habe mich impfen lassen.", "Bleib lieber zu Hause – das ist bestimmt ansteckend!", "Die Maske ist im Museum."], "a": 1, "why": "ansteckend = 전염성의. ‘집에 있는 게 좋겠어, 분명 옮을 거야!’라는 뜻이에요."},
+    "outro": "오늘 손을 씻을 때마다 Hygiene ist wichtig! 하고 한 번씩 말해 봐요. 다들 건강하게, Gesundheit! 🧼"
+  },
+  "en": {
+    "title": "Hygiene and infection: 10 German words from the news",
+    "hook": "Those words that were on the German news every single day — let's make sure you understand them instantly.",
+    "intro": [
+      "At the office, your colleague is coughing away. Someone jokes, \"Pass auf, das ist bestimmt ansteckend!\" On the evening news there's a story about flu jabs. You catch most of it, but a few words keep tripping you up.",
+      "Today's ten words are all about infection and hygiene. With them you can follow the news, ask about vaccinations at the doctor's and warn a colleague that something's catching. Wash your hands and let's start! 🧼"
+    ],
+    "words": {
+      "B2-1092": {"pron": "pan-day-MEE", "tip": "Greek pan (all) + dēmos (people) = a disease that reaches everyone 🌍 Most nouns in -ie are die!", "bonus": "A local outbreak is die Epidemie."},
+      "B1-1367": {"pron": "VEE-roos", "tip": "Latin for ‘poison’ 🦠 Almost the same as English virus.", "warn": "Officially das Virus, but der Virus is common in speech. Plural: die Viren!"},
+      "B1-800": {"pron": "in-fek-TSYOHN", "tip": "Looks just like English infection 🧫 Nouns in -tion are always die!", "bonus": "Adjective: infiziert (infected) · Ich bin infiziert."},
+      "B2-1094": {"pron": "zikh AN-shtek-en", "tip": "an (onto) + stecken (stick) = the illness sticks to you 📌", "warn": "Who you caught it from takes bei: Ich habe mich bei meinem Sohn angesteckt."},
+      "B2-1093": {"pron": "AN-shtek-ent", "tip": "The -end form of anstecken = catching, contagious 🤧 Works for laughter too!", "bonus": "Lachen ist ansteckend. = Laughter is contagious."},
+      "A2-863": {"pron": "MAS-kuh", "tip": "English mask plus an -e 😷 A carnival mask is a Maske too!", "bonus": "to wear a mask = eine Maske tragen"},
+      "B2-1084": {"pron": "IMP-foong", "tip": "impfen + -ung = vaccination 💉 -ung is always die!", "bonus": "the yellow vaccination booklet = der Impfpass"},
+      "B2-1085": {"pron": "IMP-fen", "tip": "It once meant ‘to graft’ a tree 🌳 Now you graft protection onto your body.", "warn": "‘Get vaccinated’ is sich impfen lassen: Ich lasse mich impfen."},
+      "B2-1154": {"pron": "ka-ran-TAY-nuh", "tip": "From Italian quaranta giorni (forty days) 🏠 Qu sounds like k here!", "bonus": "to be in quarantine = in Quarantäne sein"},
+      "B2-1152": {"pron": "hue-GYAY-nuh", "tip": "From Hygieia, the Greek goddess of health 🧼 The y sounds like German ü.", "bonus": "Adjective: hygienisch (hygienic)"}
+    },
+    "culture": [
+      "One very German hygiene habit is airing rooms (Lüften). Even in winter, many households throw the windows wide open for a few minutes several times a day — that's called Stoßlüften.",
+      "It's good manners to cough or sneeze into the crook of your elbow (Armbeuge), not your hand. And when someone sneezes, lots of people will say \"Gesundheit!\"",
+      "Germany uses a yellow vaccination booklet (Impfpass), and it's handy to take it to the doctor's. If you've moved from abroad, bring your old vaccination records too. 💉"
+    ],
+    "quiz": {"q": "A colleague comes to work coughing badly. What do you say?", "o": ["Ich habe mich impfen lassen.", "Bleib lieber zu Hause – das ist bestimmt ansteckend!", "Die Maske ist im Museum."], "a": 1, "why": "ansteckend = contagious: ‘You'd better stay at home — that's definitely catching!’"},
+    "outro": "Every time you wash your hands today, say Hygiene ist wichtig! out loud. Stay well — Gesundheit! 🧼"
+  },
+  "ja": {
+    "title": "ニュースが聞き取れる！衛生・感染のドイツ語10",
+    "hook": "ドイツのニュースで毎日のように流れていたあの単語、聞いた瞬間にわかるようにしませんか？",
+    "intro": [
+      "オフィスで隣の席の同僚がゴホゴホ。別の同僚が \"Pass auf, das ist bestimmt ansteckend!\" と冗談を言います。夜のニュースではインフルエンザの予防接種の話題。だいたいわかるのに、いくつかの単語で引っかかってしまいます。",
+      "今日は感染と衛生に関する単語を10個集めました。これでニュースが聞き取れ、病院で予防接種について聞き、同僚に「うつるかもしれないから気をつけて」と言えるようになります。手を洗って始めましょう！🧼"
+    ],
+    "words": {
+      "B2-1092": {"pron": "パンデミー", "tip": "ギリシャ語 pan（すべて）+ dēmos（人々）= みんなに広がる病気 🌍 -ie で終わる名詞はたいてい die！", "bonus": "地域的な流行は die Epidemie です。"},
+      "B1-1367": {"pron": "ヴィールス", "tip": "ラテン語で「毒」🦠 英語の virus とほぼ同じです。", "warn": "正式には das Virus、話し言葉では der Virus もよく使います。複数形は die Viren！"},
+      "B1-800": {"pron": "インフェクツィオーン", "tip": "英語の infection とそっくり 🧫 -tion で終わる名詞はいつも die！", "bonus": "形容詞：infiziert（感染した）· Ich bin infiziert."},
+      "B2-1094": {"pron": "ズィッヒ アンシュテッケン", "tip": "an（くっついて）+ stecken（差し込む）= 病気が自分に刺さる 📌", "warn": "誰からうつったかは bei：Ich habe mich bei meinem Sohn angesteckt."},
+      "B2-1093": {"pron": "アンシュテッケント", "tip": "anstecken の現在分詞 = うつりやすい 🤧 笑いにも使えます！", "bonus": "Lachen ist ansteckend. = 笑いはうつる。"},
+      "A2-863": {"pron": "マスケ", "tip": "英語の mask に -e をつけただけ 😷 仮面舞踏会の仮面も Maske！", "bonus": "マスクをする = eine Maske tragen"},
+      "B2-1084": {"pron": "インプフング", "tip": "impfen + -ung = 予防接種 💉 -ung はいつも die！", "bonus": "黄色い予防接種手帳 = der Impfpass"},
+      "B2-1085": {"pron": "インプフェン", "tip": "もとは木を「接ぎ木する」という意味 🌳 体に免疫を接ぎ木するイメージ。", "warn": "「接種を受ける」は sich impfen lassen：Ich lasse mich impfen."},
+      "B2-1154": {"pron": "カランテーネ", "tip": "イタリア語 quaranta giorni（40日）から 🏠 Qu は「クヴ」ではなく「カ」！", "bonus": "隔離中である = in Quarantäne sein"},
+      "B2-1152": {"pron": "ヒュギエーネ", "tip": "ギリシャの健康の女神ヒュギエイア（Hygieia）から 🧼 y は「ユ」と読みます。", "bonus": "形容詞：hygienisch（衛生的な）"}
+    },
+    "culture": [
+      "ドイツ人の代表的な衛生習慣のひとつが換気（Lüften）です。冬でも一日に何度か窓を全開にして、短時間で空気を入れ替える「Stoßlüften」をする家庭がたくさんあります。",
+      "咳やくしゃみは手ではなく、ひじの内側（Armbeuge）でするのがマナーです。そして誰かがくしゃみをすると、\"Gesundheit!\" と声をかける人も多いです。",
+      "ドイツには黄色い予防接種手帳（Impfpass）があり、病院に持っていくと便利です。外国から引っ越してきたなら、以前の接種記録も用意しておくといいですよ。💉"
+    ],
+    "quiz": {"q": "同僚がひどく咳をしながら出社してきました。何と言いますか？", "o": ["Ich habe mich impfen lassen.", "Bleib lieber zu Hause – das ist bestimmt ansteckend!", "Die Maske ist im Museum."], "a": 1, "why": "ansteckend = うつりやすい。「家にいたほうがいいよ、きっとうつるから！」という意味です。"},
+    "outro": "今日は手を洗うたびに Hygiene ist wichtig! と声に出してみましょう。みなさん元気で、Gesundheit! 🧼"
+  }
+}

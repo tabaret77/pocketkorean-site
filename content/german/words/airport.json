@@ -1,0 +1,84 @@
+{
+  "key": "airport",
+  "ko": {
+    "title": "독일 공항에서 헤매지 않는 단어 10",
+    "hook": "공항 안내 방송에서 ‘Verspätung’이 들리면, 커피 한 잔 더 마실 시간이 생긴 거예요.",
+    "intro": [
+      "프랑크푸르트 공항에 내리자마자 안내판은 온통 독일어, 방송도 빠른 독일어. 짐은 어디서 찾지? 내 비행기는 제시간에 뜨나? 머리가 하얘졌던 기억이 나요.",
+      "오늘은 공항에서 꼭 마주치는 단어 10개예요. 이 10개면 안내판을 읽고, 보안 검색을 통과하고, 비행기가 늦어진다는 방송도 알아들을 수 있어요. ✈️"
+    ],
+    "words": {
+      "A1-143": {"pron": "플룩하펜", "tip": "Flug(비행) + Hafen(항구) = 비행기의 항구 ✈️ 함부르크 항구도 Hafen이에요.", "warn": "복수는 움라우트: die Flughäfen", "bonus": "Wie komme ich zum Flughafen? = 공항에 어떻게 가요?"},
+      "A1-142": {"pron": "플룩초이크", "tip": "Flug(비행) + Zeug(물건) = 나는 물건 🛩️ 마지막이 das Zeug라서 das!"},
+      "A2-226": {"pron": "플룩", "tip": "fliegen(날다)에서 나온 말, 영어 flight랑 비슷해요 🛫", "bonus": "즐거운 비행 되세요 = Guten Flug!"},
+      "A1-476": {"pron": "압플룩", "tip": "ab(떠나서) + Flug = 날아서 떠나기 🛫 안내판의 Abflug는 출발 층!", "bonus": "반대말은 die Ankunft = 도착"},
+      "A2-321": {"pron": "란덴", "tip": "das Land(땅)에 내려앉는 거예요 🛬 영어 land와 똑같아요.", "warn": "완료형은 sein: Wir sind gelandet."},
+      "A2-011": {"pron": "게팩", "tip": "Ge-(모아서) + pack(싸다) = 싼 것 전부 🧳", "warn": "복수가 없어요! 짐 한 개는 ein Gepäckstück."},
+      "B2-2651": {"pron": "한트게팩", "tip": "Hand(손) + Gepäck(짐) = 손에 들고 타는 짐 👜", "bonus": "부치는 짐은 das Aufgabegepäck"},
+      "B2-2648": {"pron": "보르트카르테", "tip": "an Bord(탑승) + Karte(카드) = 탑승 카드 🎫 마지막이 die Karte라서 die!", "bonus": "탑승하다 = an Bord gehen"},
+      "B2-2649": {"pron": "지허하이츠콘트롤레", "tip": "Sicherheit(안전) + Kontrolle(검사) 🔍 길어도 쪼개면 쉬워요!", "bonus": "줄여서 그냥 die Kontrolle라고도 해요."},
+      "A2-008": {"pron": "페어슈패퉁", "tip": "spät(늦은)이 숨어 있어요 🐢 -ung이니까 die!", "warn": "haben과 함께 써요: Der Flug hat eine Stunde Verspätung.", "bonus": "반대로 제시간이면 pünktlich"}
+    },
+    "culture": [
+      "독일의 큰 공항들은 대부분 기차역과 바로 연결돼 있어요. 그래서 택시보다 S-Bahn이나 기차로 공항에 가는 사람이 많아요. 다만 공항마다 연결 방법이 다르니 미리 확인해 두면 좋아요.",
+      "공항 안내 방송과 안내판은 보통 독일어와 영어로 나와요. 그래도 독일어 방송이 먼저 나오니까, Verspätung이나 Abflug 같은 단어를 알면 남들보다 한발 먼저 움직일 수 있어요.",
+      "그리고 독일 사람들은 공항에 꽤 일찍 가는 편이에요. 특히 휴가철에는 보안 검색 줄이 길어질 수 있어서 여유 있게 출발하는 게 좋아요. 🧳"
+    ],
+    "quiz": {"q": "공항 방송이 들려요. ‘Der Flug nach Seoul hat 40 Minuten ___.’ 빈칸에 들어갈 말은?", "o": ["Abflug", "Gepäck", "Verspätung"], "a": 2, "why": "Verspätung haben = 지연되다. 비행기가 40분 늦는다는 뜻이에요."},
+    "outro": "다음 여행을 상상하면서 ‘Wo ist die Sicherheitskontrolle?’를 소리 내서 말해 봐요. 긴 단어도 세 번만 말하면 입에 붙어요! 🛫"
+  },
+  "en": {
+    "title": "Don't get lost: 10 German words for the airport",
+    "hook": "If you hear ‘Verspätung’ over the airport speakers, you've just earned time for another coffee.",
+    "intro": [
+      "You land in Frankfurt: every sign is in German and the announcements are fast. Where do you pick up your bags? Is your connecting flight on time? It's easy to feel lost.",
+      "Today's ten words are the ones you'll meet at any German airport. With them you can read the signs, get through security and understand when your flight is delayed. ✈️"
+    ],
+    "words": {
+      "A1-143": {"pron": "FLOOK-hah-fen", "tip": "Flug (flight) + Hafen (harbour) = a harbour for planes ✈️ Hafen is related to English haven.", "warn": "The plural has an umlaut: die Flughäfen", "bonus": "Wie komme ich zum Flughafen? = How do I get to the airport?"},
+      "A1-142": {"pron": "FLOOK-tsoyk", "tip": "Flug (flight) + Zeug (stuff) = flying stuff 🛩️ It ends in das Zeug, so it's das."},
+      "A2-226": {"pron": "FLOOK", "tip": "From fliegen (to fly) — close to English flight 🛫", "bonus": "Have a good flight = Guten Flug!"},
+      "A1-476": {"pron": "AP-flook", "tip": "ab (away) + Flug = flying away 🛫 Follow the Abflug signs to departures.", "bonus": "The opposite: die Ankunft = arrival"},
+      "A2-321": {"pron": "LAN-den", "tip": "Coming down onto das Land 🛬 Just like English land.", "warn": "The perfect uses sein: Wir sind gelandet."},
+      "A2-011": {"pron": "ge-PECK", "tip": "Ge- (all together) + pack = everything you packed 🧳", "warn": "No plural! One bag is ein Gepäckstück."},
+      "B2-2651": {"pron": "HANT-ge-peck", "tip": "Hand + Gepäck = the luggage you carry in your hand 👜", "bonus": "Checked luggage is das Aufgabegepäck."},
+      "B2-2648": {"pron": "BORT-kar-tuh", "tip": "an Bord (on board) + Karte (card) = boarding pass 🎫 Ends in die Karte, so it's die.", "bonus": "to board = an Bord gehen"},
+      "B2-2649": {"pron": "ZIKH-er-hites-kon-trol-uh", "tip": "Sicherheit (security) + Kontrolle (check) 🔍 Long, but easy once you split it.", "bonus": "People often just say die Kontrolle."},
+      "A2-008": {"pron": "fair-SHPAY-toong", "tip": "spät (late) is hiding inside 🐢 And -ung means die.", "warn": "Use it with haben: Der Flug hat eine Stunde Verspätung.", "bonus": "On time = pünktlich"}
+    },
+    "culture": [
+      "Most big German airports have their own railway station, so lots of people get there by S-Bahn or train rather than taxi. Connections differ from airport to airport, so it's worth checking before you travel.",
+      "Announcements and signs are usually in German and English. The German version often comes first, though, so knowing words like Verspätung and Abflug lets you move before everyone else.",
+      "Germans also tend to get to the airport in good time. Security queues can be long, especially in the holiday season, so leave yourself plenty of time. 🧳"
+    ],
+    "quiz": {"q": "You hear an announcement: ‘Der Flug nach Seoul hat 40 Minuten ___.’ Which word fills the gap?", "o": ["Abflug", "Gepäck", "Verspätung"], "a": 2, "why": "Verspätung haben means to be delayed — the flight is 40 minutes late."},
+    "outro": "Picture your next trip and say ‘Wo ist die Sicherheitskontrolle?’ out loud. Say a long word three times and it sticks! 🛫"
+  },
+  "ja": {
+    "title": "ドイツの空港で迷わないための単語10",
+    "hook": "空港のアナウンスで「Verspätung」が聞こえたら、コーヒーをもう一杯飲む時間ができたということです。",
+    "intro": [
+      "フランクフルト空港に着いた瞬間、案内板はすべてドイツ語、アナウンスも早口のドイツ語。荷物はどこで受け取るの？乗り継ぎ便は時間どおり？頭が真っ白になった記憶があります。",
+      "今日は空港で必ず目にする単語を10個集めました。これで案内板を読み、保安検査を通り、飛行機が遅れるというアナウンスも聞き取れます。✈️"
+    ],
+    "words": {
+      "A1-143": {"pron": "フルークハーフェン", "tip": "Flug（飛行）+ Hafen（港）= 飛行機の港 ✈️ ハンブルクの港も Hafen です。", "warn": "複数形はウムラウト付き：die Flughäfen", "bonus": "Wie komme ich zum Flughafen? = 空港へはどう行けばいいですか？"},
+      "A1-142": {"pron": "フルークツォイク", "tip": "Flug（飛行）+ Zeug（もの）= 飛ぶもの 🛩️ 最後が das Zeug なので das！"},
+      "A2-226": {"pron": "フルーク", "tip": "fliegen（飛ぶ）から来た言葉、英語の flight に似ています 🛫", "bonus": "よい空の旅を = Guten Flug!"},
+      "A1-476": {"pron": "アップフルーク", "tip": "ab（離れて）+ Flug = 飛び立つこと 🛫 案内板の Abflug は出発フロア！", "bonus": "反対語は die Ankunft = 到着"},
+      "A2-321": {"pron": "ランデン", "tip": "das Land（陸地）に降りること 🛬 英語の land と同じです。", "warn": "完了形は sein：Wir sind gelandet."},
+      "A2-011": {"pron": "ゲペック", "tip": "Ge-（まとめて）+ pack（詰める）= 詰めたもの全部 🧳", "warn": "複数形がありません！荷物1個は ein Gepäckstück。"},
+      "B2-2651": {"pron": "ハントゲペック", "tip": "Hand（手）+ Gepäck（荷物）= 手に持って乗る荷物 👜", "bonus": "預ける荷物は das Aufgabegepäck"},
+      "B2-2648": {"pron": "ボルトカルテ", "tip": "an Bord（搭乗）+ Karte（カード）= 搭乗カード 🎫 最後が die Karte なので die！", "bonus": "搭乗する = an Bord gehen"},
+      "B2-2649": {"pron": "ズィッヒャーハイツコントロレ", "tip": "Sicherheit（安全）+ Kontrolle（検査）🔍 長くても分ければ簡単！", "bonus": "短く die Kontrolle とも言います。"},
+      "A2-008": {"pron": "フェアシュペートゥング", "tip": "spät（遅い）が隠れています 🐢 -ung なので die！", "warn": "haben と一緒に使います：Der Flug hat eine Stunde Verspätung.", "bonus": "時間どおりなら pünktlich"}
+    },
+    "culture": [
+      "ドイツの大きな空港の多くは鉄道駅と直結しています。だからタクシーより S-Bahn や電車で空港に行く人がたくさんいます。ただ、アクセス方法は空港ごとに違うので事前に確認しておくと安心です。",
+      "空港のアナウンスや案内板はふつうドイツ語と英語の両方です。でもドイツ語が先に流れることが多いので、Verspätung や Abflug がわかれば、ほかの人より一歩早く動けます。",
+      "それから、ドイツの人たちは空港にかなり早めに行く傾向があります。休暇シーズンは保安検査の列が長くなることもあるので、余裕をもって出発しましょう。🧳"
+    ],
+    "quiz": {"q": "空港でアナウンスが聞こえます。「Der Flug nach Seoul hat 40 Minuten ___.」空欄に入る言葉は？", "o": ["Abflug", "Gepäck", "Verspätung"], "a": 2, "why": "Verspätung haben は「遅れている」という意味で、飛行機が40分遅れるということです。"},
+    "outro": "次の旅行を想像しながら「Wo ist die Sicherheitskontrolle?」と声に出してみましょう。長い単語も3回言えば口になじみます！🛫"
+  }
+}

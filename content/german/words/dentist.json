@@ -1,0 +1,84 @@
+{
+  "key": "dentist",
+  "ko": {
+    "title": "치과랑 안과에서 살아남는 독일어 10",
+    "hook": "의자에 눕기 전에 이 단어들부터 챙기면, 입 벌린 채로 당황할 일이 줄어요.",
+    "intro": [
+      "어금니가 시큰시큰, 모니터 글씨는 점점 흐릿. 치과에 예약은 했는데 의사 선생님이 뭐라고 묻는지 하나도 모르겠다면? 입을 벌리고 있으니 되묻기도 어렵죠.",
+      "오늘은 치과와 안과에서 꼭 듣게 되는 단어 10개를 모았어요. 이걸 알면 어디가 아픈지, 마취가 필요한지, 안경을 바꿀지까지 직접 말할 수 있어요. 🦷"
+    ],
+    "words": {
+      "A2-748": {"pron": "찬아르츠트", "tip": "Zahn(이) + Arzt(의사) = 이 의사 🦷 단어를 그냥 붙이면 끝!", "bonus": "치과에 가다 = zum Zahnarzt gehen · 여자 치과 의사는 die Zahnärztin"},
+      "A1-265": {"pron": "찬", "tip": "‘짠!’ 하고 웃을 때 보이는 게 Zahn 😁 영어 tooth랑 같은 뿌리예요.", "warn": "복수는 움라우트가 붙어요: die Zähne", "bonus": "이를 닦다 = Zähne putzen · 칫솔은 die Zahnbürste"},
+      "B2-2449": {"pron": "퓔룽", "tip": "füllen(채우다, 영어 fill) + -ung = 채운 것 🥟 만두소도 이 충전재도 다 Füllung!", "warn": "-ung으로 끝나니까 언제나 die예요."},
+      "B2-2381": {"pron": "보렌", "tip": "영어 bore(구멍 뚫다)와 같은 뿌리 🔩 치과에서 제일 듣기 싫은 소리, ‘보오오렌’!", "bonus": "드릴은 die Bohrmaschine · 현재완료는 hat gebohrt"},
+      "B2-2198": {"pron": "베토이붕", "tip": "taub(감각 없는, 영어 deaf)하게 만드는 것 💉 그래서 입이 얼얼해져요.", "bonus": "국소 마취 = örtliche Betäubung · 전신 마취는 die Narkose"},
+      "B2-2724": {"pron": "찬슈팡에", "tip": "Zahn + Spange(핀, 죔쇠) = 이에 꽂는 핀 😬", "bonus": "같은 Spange로 die Haarspange = 머리핀"},
+      "A1-041": {"pron": "아우게", "tip": "영어 eye와 먼 친척이에요 👀 ‘아우게!’ 하면서 눈을 크게 떠 봐요.", "bonus": "unter vier Augen = 단둘이서 (네 개의 눈 아래서)"},
+      "A1-235": {"pron": "브릴레", "tip": "세상이 ‘브릴리언트’하게 보이게 해 주는 Brille 👓", "warn": "안경 하나는 단수예요: eine Brille. 영어 glasses처럼 복수로 쓰지 않아요."},
+      "B2-2722": {"pron": "콘탁트린제", "tip": "Kontakt(접촉) + Linse(렌즈) = 눈에 직접 닿는 렌즈 👁️", "bonus": "die Linse는 렌틸콩이라는 뜻도 있어요. Linsensuppe는 렌틸콩 수프!"},
+      "B2-2045": {"pron": "쿠르츠지히티히", "tip": "kurz(짧은) + Sicht(시야) = 가까운 것만 보이는 🔍", "bonus": "반대말 weitsichtig = 원시의 · 비유로 ‘근시안적인’에도 써요."}
+    },
+    "culture": [
+      "독일에서는 보통 1년에 한두 번 치과 정기 검진(Kontrolle)을 받아요. 많은 사람들이 Bonusheft라는 수첩에 검진 기록을 남겨 두는데, 나중에 보철 치료를 받을 때 보험 지원이 늘어나거든요.",
+      "스케일링(professionelle Zahnreinigung)은 공보험에서 기본으로 해 주지 않는 경우가 많아서 직접 내기도 해요. 보험사에 따라 일부 지원해 주기도 하니 미리 물어보는 게 좋아요.",
+      "안경을 맞출 때는 꼭 안과(Augenarzt)에 가지 않아도 돼요. 안경원(Optiker)에서 시력 검사(Sehtest)를 해 주는 곳이 많거든요. 👓"
+    ],
+    "quiz": {"q": "치과 의사가 드릴을 들기 전에 ‘아프지 않게 해 드릴까요?’라고 물어요. 여러분이 원하는 건?", "o": ["die Füllung", "die Betäubung", "die Zahnspange"], "a": 1, "why": "die Betäubung = 마취예요. 아프지 않게 감각을 없애 주는 거죠."},
+    "outro": "오늘은 거울 앞에서 Zahn, Auge, Brille를 하나씩 가리키며 소리 내서 말해 봐요. 다음 치과 예약은 독일어로 직접 잡아 보는 걸로! 🪥"
+  },
+  "en": {
+    "title": "Open wide: 10 German words for the dentist and the optician",
+    "hook": "Learn these before you sit in the chair, because it's hard to ask questions with your mouth wide open.",
+    "intro": [
+      "A back tooth is aching and the words on your screen are getting blurry. You've booked an appointment, but what if you can't understand what the dentist asks you? With your mouth open, you can't exactly ask them to repeat it.",
+      "Today's ten words come up again and again at the dentist and the eye doctor. With them you can say where it hurts, ask for an anaesthetic and talk about new glasses. 🦷"
+    ],
+    "words": {
+      "A2-748": {"pron": "TSAHN-artst", "tip": "Zahn (tooth) + Arzt (doctor) = tooth doctor 🦷 Just glue the words together.", "bonus": "to go to the dentist = zum Zahnarzt gehen · a female dentist = die Zahnärztin"},
+      "A1-265": {"pron": "TSAHN", "tip": "Zahn and tooth are long-lost cousins 😁 Say it with a big grin.", "warn": "The plural gets an umlaut: die Zähne", "bonus": "to brush your teeth = Zähne putzen · toothbrush = die Zahnbürste"},
+      "B2-2449": {"pron": "FUEL-oong", "tip": "füllen (to fill) + -ung = the stuff you fill with 🥟 Dumpling filling or tooth filling, both are Füllung.", "warn": "Words ending in -ung are always die."},
+      "B2-2381": {"pron": "BOR-en", "tip": "Same root as English bore 🔩 The sound nobody wants to hear at the dentist.", "bonus": "a drill = die Bohrmaschine · perfect tense: hat gebohrt"},
+      "B2-2198": {"pron": "buh-TOY-boong", "tip": "taub means deaf or numb, so Betäubung makes you numb 💉", "bonus": "local anaesthetic = örtliche Betäubung · general anaesthetic = die Narkose"},
+      "B2-2724": {"pron": "TSAHN-shpang-uh", "tip": "Zahn + Spange (clip) = a clip for your teeth 😬", "bonus": "The same Spange gives you die Haarspange = hair clip."},
+      "A1-041": {"pron": "OW-guh", "tip": "A distant cousin of eye 👀 Open your eyes wide and say ‘OW-guh!’", "bonus": "unter vier Augen = in private (literally ‘under four eyes’)"},
+      "A1-235": {"pron": "BRIL-uh", "tip": "A Brille makes the world look brilliant 👓", "warn": "It's singular in German: eine Brille = a pair of glasses."},
+      "B2-2722": {"pron": "kon-TAKT-lin-zuh", "tip": "Kontakt + Linse = a lens in direct contact with your eye 👁️", "bonus": "die Linse also means lentil, so Linsensuppe is lentil soup!"},
+      "B2-2045": {"pron": "KOORTS-zikh-tikh", "tip": "kurz (short) + Sicht (sight) = short sight 🔍 Almost word for word.", "bonus": "The opposite: weitsichtig = long-sighted. Both work figuratively too."}
+    },
+    "culture": [
+      "Most people in Germany see the dentist for a check-up (Kontrolle) once or twice a year. Many keep a little booklet called a Bonusheft to record their visits, because regular check-ups can mean more help from the insurer if they ever need crowns or bridges.",
+      "A professional clean (professionelle Zahnreinigung) is often not part of basic public insurance, so many people pay for it themselves. Some insurers cover part of it, so it's worth asking.",
+      "You don't always need an eye doctor (Augenarzt) for new glasses. Many opticians (Optiker) will do an eye test (Sehtest) for you in the shop. 👓"
+    ],
+    "quiz": {"q": "The dentist picks up the drill and asks if you'd like something so it won't hurt. What do you want?", "o": ["die Füllung", "die Betäubung", "die Zahnspange"], "a": 1, "why": "die Betäubung is the anaesthetic: it numbs the area so you don't feel pain."},
+    "outro": "Stand in front of the mirror and point to your Zahn, your Auge and your Brille, saying each word out loud. Next time, try booking your dentist appointment in German! 🪥"
+  },
+  "ja": {
+    "title": "歯医者と眼科で困らないドイツ語10",
+    "hook": "診察台に座る前に覚えておけば、口を開けたままあたふたすることが減りますよ。",
+    "intro": [
+      "奥歯がしみるし、画面の文字もだんだんぼやけてきた。予約はしたけれど、先生に何を聞かれているのか分からなかったら？口を開けたままでは聞き返すのも大変です。",
+      "今日は歯医者と眼科で必ず耳にする単語を10個集めました。どこが痛いか、麻酔が必要か、めがねを作り直したいかまで、自分で伝えられるようになります。🦷"
+    ],
+    "words": {
+      "A2-748": {"pron": "ツァーンアールツト", "tip": "Zahn（歯）+ Arzt（医者）= 歯の医者 🦷 単語をくっつけるだけ！", "bonus": "歯医者に行く = zum Zahnarzt gehen · 女性の歯科医は die Zahnärztin"},
+      "A1-265": {"pron": "ツァーン", "tip": "英語の tooth と同じルーツ 😁 ニッと笑うと見えるのが Zahn！", "warn": "複数形はウムラウトが付きます：die Zähne", "bonus": "歯を磨く = Zähne putzen · 歯ブラシは die Zahnbürste"},
+      "B2-2449": {"pron": "フュルング", "tip": "füllen（満たす、英語 fill）+ -ung = 詰めたもの 🥟 餃子の具も歯の詰め物も Füllung！", "warn": "-ung で終わる名詞はいつも die です。"},
+      "B2-2381": {"pron": "ボーレン", "tip": "英語の bore（穴をあける）と同じ仲間 🔩 歯医者でいちばん聞きたくない音です。", "bonus": "ドリルは die Bohrmaschine · 現在完了は hat gebohrt"},
+      "B2-2198": {"pron": "ベトイブング", "tip": "taub（感覚のない、英語 deaf）にすること 💉 だから口がしびれるんです。", "bonus": "局所麻酔 = örtliche Betäubung · 全身麻酔は die Narkose"},
+      "B2-2724": {"pron": "ツァーンシュパンゲ", "tip": "Zahn + Spange（留め金、ピン）= 歯につけるピン 😬", "bonus": "同じ Spange で die Haarspange = ヘアピン"},
+      "A1-041": {"pron": "アウゲ", "tip": "英語 eye の遠い親戚 👀「アウゲ！」と言いながら目を大きく開けてみて。", "bonus": "unter vier Augen = 二人きりで（4つの目の下で）"},
+      "A1-235": {"pron": "ブリレ", "tip": "世界をブリリアントに見せてくれるのが Brille 👓", "warn": "めがね1つは単数です：eine Brille。英語の glasses のように複数にしません。"},
+      "B2-2722": {"pron": "コンタクトリンゼ", "tip": "Kontakt（接触）+ Linse（レンズ）= 目に直接ふれるレンズ 👁️", "bonus": "die Linse には「レンズ豆」の意味も。Linsensuppe はレンズ豆のスープです！"},
+      "B2-2045": {"pron": "クルツズィヒティヒ", "tip": "kurz（短い）+ Sicht（視界）= 近くしか見えない 🔍", "bonus": "反対は weitsichtig = 遠視の · たとえで「近視眼的な」にも使います。"}
+    },
+    "culture": [
+      "ドイツでは、歯の定期検診（Kontrolle）を年に1〜2回受けるのが一般的です。多くの人が Bonusheft という手帳に検診の記録を残しています。定期的に通っていると、将来かぶせ物などの治療をするときに保険の補助が増えるからです。",
+      "歯のクリーニング（professionelle Zahnreinigung）は公的保険の基本に入っていないことが多く、自分で払う人がたくさんいます。保険会社によっては一部を補助してくれるので、聞いてみるといいですよ。",
+      "めがねを作るのに、必ずしも眼科（Augenarzt）に行く必要はありません。めがね店（Optiker）で視力検査（Sehtest）をしてくれるところが多いんです。👓"
+    ],
+    "quiz": {"q": "歯医者さんがドリルを持つ前に「痛くないようにしましょうか？」と聞いてきました。お願いしたいのは？", "o": ["die Füllung", "die Betäubung", "die Zahnspange"], "a": 1, "why": "die Betäubung は麻酔のことで、痛みを感じないようにしてくれます。"},
+    "outro": "今日は鏡の前で Zahn、Auge、Brille を一つずつ指さしながら声に出してみましょう。次の歯医者の予約は、ぜひドイツ語で！🪥"
+  }
+}

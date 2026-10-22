@@ -1,0 +1,84 @@
+{
+  "key": "conjunctions",
+  "ko": {
+    "title": "문장을 길게 이어 주는 독일어 접속사 10",
+    "hook": "짧은 문장만 뚝뚝 끊어 말하던 독일어가, 오늘부터 이어지기 시작해요.",
+    "intro": [
+      "어학원 작문 시간에 „Ich bin müde. Ich habe schlecht geschlafen. Ich trinke Kaffee.“ 이렇게 썼더니 선생님이 웃으면서 „Verbinde die Sätze!“라고 하셨어요. 문장을 이어 보라는데, 이으면 동사가 어디로 가는 거죠?",
+      "오늘은 문장과 문장을 이어 주는 접속사 10개를 모았어요. 이 10개면 이유를 말하고, 조건을 걸고, 반대 의견도 부드럽게 말할 수 있어요. 동사 위치 규칙도 같이 정리해요. 🔗"
+    ],
+    "words": {
+      "A1-094": {"pron": "운트", "tip": "영어 and와 같은 뿌리 ➕ 그냥 붙이기만 하면 되는 착한 접속사!", "bonus": "어순 그대로인 접속사는 ADUSO로 외워요: aber, denn, und, sondern, oder"},
+      "A1-095": {"pron": "아버", "tip": "‘아버… 근데…’ 하고 말끝을 흐리는 느낌 🤔 하지만 = aber!", "bonus": "aber는 어순이 안 바뀌어요: …, aber ich habe keine Zeit."},
+      "A1-096": {"pron": "오더", "tip": "커피 오더? 차 오더? ☕ 둘 중 하나를 고를 때 oder!", "bonus": "문장 끝 …, oder? = …, 그렇지?"},
+      "A2-091": {"pron": "바일", "tip": "이유를 말하면 동사가 ‘바이~’ 하고 맨 끝으로 가 버려요 👋", "warn": "동사는 문장 끝: …, weil ich krank bin."},
+      "A2-442": {"pron": "다스", "tip": "s가 두 개면 접속사, 하나면 관사 ✌️ dass의 ss는 이어 주는 고리 두 개!", "warn": "dass 뒤에도 동사는 끝으로: Ich hoffe, dass du kommst."},
+      "A2-629": {"pron": "벤", "tip": "‘~하면 벤!’ 조건이 맞으면 짠 🎯 if도 when(~할 때마다)도 wenn!", "warn": "의문사 ‘언제?’는 wann이에요. wenn과 헷갈리지 마세요."},
+      "A2-090": {"pron": "옵", "tip": "영어 if와 같은 뿌리 🤷 ‘~인지 아닌지’ 모를 때 ob!", "warn": "조건의 ‘만약’은 wenn, ‘~인지’는 ob예요."},
+      "B1-090": {"pron": "옵볼", "tip": "ob + wohl = 그렇긴 하지만 ☔ 비가 와도 산책은 간다!", "bonus": "비슷한 뜻의 trotzdem 뒤에는 동사가 바로 와요: Es regnet. Trotzdem gehen wir spazieren."},
+      "A2-405": {"pron": "알스", "tip": "과거의 딱 한 번은 als 📸 사진 한 장처럼 찍힌 순간!", "warn": "과거 한 번은 als, 반복이나 현재는 wenn: Als ich Kind war…"},
+      "B1-1155": {"pron": "존던", "tip": "‘A가 아니라 B’를 말할 땐 존던 🔀 앞에 부정이 꼭 있어야 해요!", "warn": "nicht/kein 뒤에서만 sondern, 나머지 ‘하지만’은 aber."}
+    },
+    "culture": [
+      "마크 트웨인은 에세이 „The Awful German Language“에서, 독일어 문장은 동사가 맨 끝에 와서 끝까지 들어야 무슨 말인지 안다고 투덜댔어요. weil, dass, obwohl 뒤에서 동사가 끝으로 가는 걸 보면 무슨 말인지 알 것 같죠?",
+      "그런데 실제 대화에서는 „…, weil ich bin müde“처럼 weil 뒤에 동사를 바로 쓰는 독일 사람도 꽤 많아요. 편한 말투에서는 흔하지만, 시험이나 글에서는 동사를 끝에 두는 게 정답이에요.",
+      "그리고 독일 사람들은 대화 중에 문장 끝에 „…, oder?“를 정말 자주 붙여요. ‘그렇지?’ 하고 동의를 구하는 말이라, 이것만 써도 훨씬 자연스러워 보여요. 😉"
+    ],
+    "quiz": {"q": "카페에서 ‘저는 커피가 아니라 차를 마셔요’라고 말하고 싶어요. 빈칸에 들어갈 말은? „Ich trinke keinen Kaffee, ___ Tee.“", "o": ["aber", "sondern", "oder"], "a": 1, "why": "앞에 keinen이라는 부정이 있으니 ‘A가 아니라 B’의 sondern을 써요."},
+    "outro": "오늘 한 일을 weil과 obwohl을 넣어 두 문장으로 말해 봐요. 동사를 끝까지 꾹 참았다가 말하는 게 포인트! 🔗"
+  },
+  "en": {
+    "title": "Link it up: 10 German conjunctions",
+    "hook": "Today your choppy German sentences finally start to join up.",
+    "intro": [
+      "In a writing class I handed in „Ich bin müde. Ich habe schlecht geschlafen. Ich trinke Kaffee.“ My teacher smiled and wrote „Verbinde die Sätze!“ Join them up? Fine — but where does the verb go then?",
+      "Today's ten conjunctions link one idea to the next. With them you can give reasons, set conditions and disagree politely. We'll sort out the word order rules along the way. 🔗"
+    ],
+    "words": {
+      "A1-094": {"pron": "OONT", "tip": "Same root as and ➕ The friendliest conjunction: just stick things together.", "bonus": "No word-order change with ADUSO: aber, denn, und, sondern, oder"},
+      "A1-095": {"pron": "AH-ber", "tip": "‘Ah, but…’ — aber 🤔", "bonus": "No word-order change: …, aber ich habe keine Zeit."},
+      "A1-096": {"pron": "OH-der", "tip": "Coffee or tea? Place your ‘order’ ☕", "bonus": "At the end of a sentence: …, oder? = …, right?"},
+      "A2-091": {"pron": "VILE", "tip": "Give a reason and the verb waves bye-bye to the end 👋", "warn": "Verb at the end: …, weil ich krank bin."},
+      "A2-442": {"pron": "DAS", "tip": "Two s's for the conjunction, one for the article ✌️ Two links in the chain.", "warn": "The verb goes to the end: Ich hoffe, dass du kommst."},
+      "A2-629": {"pron": "VEN", "tip": "If or whenever — conditions go with wenn 🎯", "warn": "The question ‘when?’ is wann, not wenn."},
+      "A2-090": {"pron": "OP", "tip": "Same root as English if 🤷 Use it for ‘whether’.", "warn": "Conditional ‘if’ is wenn; ‘whether’ is ob."},
+      "B1-090": {"pron": "op-VOHL", "tip": "ob + wohl = even though ☔ It's raining, but we're going for a walk anyway.", "bonus": "With trotzdem, the verb comes right after: Es regnet. Trotzdem gehen wir spazieren."},
+      "A2-405": {"pron": "ALS", "tip": "One moment in the past = als 📸 A single snapshot.", "warn": "One past event: als. Repeated or present: wenn. Als ich Kind war…"},
+      "B1-1155": {"pron": "ZON-dern", "tip": "Not A but B 🔀 Only after a negative.", "warn": "Only after nicht/kein. Any other ‘but’ is aber."}
+    },
+    "culture": [
+      "In his essay „The Awful German Language“, Mark Twain complained that German sentences save the verb for the very end, so you have to wait to find out what's going on. After weil, dass and obwohl, you can see what he meant.",
+      "In everyday speech, though, lots of Germans say „…, weil ich bin müde“, with the verb straight after weil. It's common in casual talk, but in exams and writing, put the verb at the end.",
+      "Germans also love adding „…, oder?“ to the end of a sentence. It means ‘right?’ and invites agreement — use it and you'll instantly sound more natural. 😉"
+    ],
+    "quiz": {"q": "In a café you want to say ‘I don't drink coffee, but tea.’ Fill the gap: „Ich trinke keinen Kaffee, ___ Tee.“", "o": ["aber", "sondern", "oder"], "a": 1, "why": "After a negative like keinen, ‘not A but B’ needs sondern."},
+    "outro": "Describe your day in two sentences using weil and obwohl, out loud. The trick is holding the verb back until the very end! 🔗"
+  },
+  "ja": {
+    "title": "文と文をつなぐドイツ語の接続詞10",
+    "hook": "ぶつ切りだったドイツ語の文が、今日からつながり始めます。",
+    "intro": [
+      "語学学校の作文で „Ich bin müde. Ich habe schlecht geschlafen. Ich trinke Kaffee.“ と書いたら、先生が笑って „Verbinde die Sätze!“。文をつなげなさいと言われても、つなげたら動詞はどこへ行くの？",
+      "今日は文と文をつなぐ接続詞を10個集めました。この10個があれば、理由を言ったり、条件をつけたり、反対の意見をやわらかく伝えたりできます。動詞の位置のルールもいっしょに整理しましょう。🔗"
+    ],
+    "words": {
+      "A1-094": {"pron": "ウント", "tip": "英語の and と同じ語源 ➕ くっつけるだけのやさしい接続詞！", "bonus": "語順が変わらない接続詞は ADUSO で覚えます：aber, denn, und, sondern, oder"},
+      "A1-095": {"pron": "アーバー", "tip": "「あー、でも…」のアーバー 🤔 しかし = aber！", "bonus": "語順は変わりません：…, aber ich habe keine Zeit."},
+      "A1-096": {"pron": "オーダー", "tip": "コーヒーをオーダー？紅茶をオーダー？☕ どちらか選ぶときは oder！", "bonus": "文末の …, oder? = …、でしょ？"},
+      "A2-091": {"pron": "ヴァイル", "tip": "理由を言うと、動詞が「バイバイ」と文末へ行ってしまいます 👋", "warn": "動詞は文末：…, weil ich krank bin."},
+      "A2-442": {"pron": "ダス", "tip": "s が2つなら接続詞、1つなら冠詞 ✌️ ss は文をつなぐ2つの輪！", "warn": "dass の後も動詞は文末：Ich hoffe, dass du kommst."},
+      "A2-629": {"pron": "ヴェン", "tip": "「もし〜なら」も「〜するときはいつも」も wenn 🎯", "warn": "疑問詞の「いつ？」は wann。wenn と混同しないで！"},
+      "A2-090": {"pron": "オプ", "tip": "英語の if と同じ語源 🤷「〜かどうか」わからないときは ob！", "warn": "条件の「もし」は wenn、「〜かどうか」は ob です。"},
+      "B1-090": {"pron": "オプヴォール", "tip": "ob + wohl = 〜だけれども ☔ 雨でも散歩には行く！", "bonus": "似た意味の trotzdem の後はすぐ動詞：Es regnet. Trotzdem gehen wir spazieren."},
+      "A2-405": {"pron": "アルス", "tip": "過去のたった1回は als 📸 写真1枚のような瞬間！", "warn": "過去1回は als、くり返しや現在は wenn：Als ich Kind war…"},
+      "B1-1155": {"pron": "ゾンダーン", "tip": "「AではなくB」と言うときはゾンダーン 🔀 前に否定が必ず必要！", "warn": "nicht/kein の後だけ sondern。それ以外の「しかし」は aber。"}
+    },
+    "culture": [
+      "マーク・トウェインはエッセイ „The Awful German Language“ で、ドイツ語は動詞が文の最後に来るので最後まで聞かないと意味がわからない、とぼやきました。weil や dass、obwohl の後で動詞が文末に行くのを見ると、気持ちがわかりますね。",
+      "でも実際の会話では „…, weil ich bin müde“ のように、weil のすぐ後に動詞を置くドイツ人もけっこういます。くだけた話し方ではよくありますが、試験や作文では動詞を文末に置くのが正解です。",
+      "それから、ドイツの人は会話で文の最後に „…, oder?“ をとてもよくつけます。「でしょ？」と同意を求める言葉で、これを使うだけでぐっと自然に聞こえますよ。😉"
+    ],
+    "quiz": {"q": "カフェで「コーヒーではなく紅茶を飲みます」と言いたいです。空欄に入るのは？ „Ich trinke keinen Kaffee, ___ Tee.“", "o": ["aber", "sondern", "oder"], "a": 1, "why": "前に keinen という否定があるので、「AではなくB」の sondern を使います。"},
+    "outro": "今日したことを weil と obwohl を使って2文で言ってみましょう。動詞を最後までぐっとがまんするのがポイントです！🔗"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "anmeldung",
+  "ko": {
+    "title": "관청 앞에서 떨지 않게, 안멜둥 단어 10",
+    "hook": "독일 생활의 진짜 시작은 이삿짐 정리가 아니라 관청 예약이에요.",
+    "intro": [
+      "새집 열쇠를 받고 한숨 돌리려는데, 친구가 묻어요. “Anmeldung은 했어?” 은행 계좌도, 인터넷도, 세금 번호도 전부 이 주소 등록이 있어야 한대요. 그런데 예약 사이트는 온통 독일어예요.",
+      "오늘은 관청에서 꼭 듣게 되는 단어 10개예요. 예약 잡기부터 서류 챙기기, 서명하고 등록 확인서 받기까지 이 10개면 창구 앞에서도 당황하지 않아요. 🏛️"
+    ],
+    "words": {
+      "A1-410": {"pron": "안멜둥", "tip": "an(~에) + melden(알리다) + -ung = 나 여기 살아요! 하고 알리기 📮", "bonus": "병원 접수처도 Anmeldung이라고 해요. Bitte melden Sie sich an der Anmeldung."},
+      "BL-02-03": {"pron": "지히 안멜덴", "tip": "관청에 ‘저 왔어요’ 하고 나를(sich) 신고하는 거예요 🙋", "warn": "분리동사 + 재귀동사예요: Ich melde mich an. · Ich habe mich angemeldet."},
+      "B2-2480": {"pron": "뷔르거암트", "tip": "Bürger(시민) + Amt(관청) = 시민을 위한 관청 🏢", "bonus": "도시마다 이름이 달라요: Bürgerbüro, Einwohnermeldeamt 등."},
+      "BL-02-02": {"pron": "테르민", "tip": "끝(terminus)이 정해진 약속 📅 독일 생활은 Termin으로 돌아가요!", "warn": "영어 term(학기)이 아니에요. ‘예약, 약속’이에요."},
+      "BL-02-04": {"pron": "포르물라", "tip": "영어 form, formula와 같은 뿌리 📝 정해진 틀이 있는 종이!", "bonus": "온라인 양식은 das Online-Formular"},
+      "BL-02-05": {"pron": "아우스퓔렌", "tip": "aus(끝까지) + füllen(채우다) = 빈칸을 남김없이 채우기 ✍️", "warn": "분리동사예요: Ich fülle das Formular aus."},
+      "BL-02-08": {"pron": "운터슈리프트", "tip": "unter(아래) + Schrift(글씨) = 서류 맨 아래 쓰는 글씨 🖊️", "bonus": "서명하다 = unterschreiben: Bitte unterschreiben Sie hier."},
+      "BL-02-07": {"pron": "운터라겐", "tip": "unter(아래) + legen(놓다) = 일의 바탕에 깔리는 종이들 📂", "warn": "거의 항상 복수로 써요: die Unterlagen."},
+      "BL-02-09": {"pron": "게뷔어", "tip": "gebühren(마땅히 내야 하다)에서 왔어요 💶 내야 할 돈 = Gebühr!", "bonus": "무료 = gebührenfrei / kostenlos"},
+      "B2-2482": {"pron": "멜데베샤이니궁", "tip": "melden(신고하다) + Bescheinigung(증명서) = 등록했다는 증명서 📄 길지만 레고 조립이에요!"}
+    },
+    "culture": [
+      "독일에서는 이사를 하면 보통 2주 안에 새 주소를 등록해야 해요. 이때 집주인이 써 주는 입주 확인서(Wohnungsgeberbestätigung)가 필요하니 미리 받아 두세요.",
+      "큰 도시에서는 관청 예약을 잡기가 꽤 어려워요. 그래서 이사 날짜가 정해지면 바로 온라인으로 Termin부터 찾아보는 게 좋아요. 주소 등록 자체는 보통 무료지만, 신분증 발급 같은 다른 업무는 Gebühr가 들어요.",
+      "등록이 끝나면 받는 Meldebescheinigung은 잘 보관하세요. 은행, 비자, 휴대폰 계약 등에서 생각보다 자주 달라고 해요. 📄"
+    ],
+    "quiz": {"q": "관청 직원이 서류 맨 아래 빈칸을 가리키며 말해요. “Hier fehlt noch Ihre …” 빈칸에 들어갈 말은?", "o": ["Anmeldung", "Gebühr", "Unterschrift"], "a": 2, "why": "서류 맨 아래에 빠진 건 서명(Unterschrift)이에요. unter(아래) + Schrift(글씨)!"},
+    "outro": "오늘은 Ich möchte mich anmelden. 을 소리 내서 세 번 말해 봐요. 관청 창구에서 첫마디가 술술 나올 거예요. 🏛️"
+  },
+  "en": {
+    "title": "The Anmeldung survival kit: 10 words for German offices",
+    "hook": "Life in Germany doesn't really start when you unpack — it starts with an appointment at the town hall.",
+    "intro": [
+      "You've just got the keys to your new flat when a friend asks, ‘Have you done your Anmeldung yet?’ Your bank account, internet contract and tax number all seem to need this address registration — and the booking website is entirely in German.",
+      "Today's ten words are the ones you'll hear at the office: booking an appointment, bringing your papers, signing and getting your proof of address. With these you'll stay calm at the counter. 🏛️"
+    ],
+    "words": {
+      "A1-410": {"pron": "AN-mel-doong", "tip": "an (to) + melden (report) + -ung = telling them ‘I live here now!’ 📮", "bonus": "A doctor's reception desk is also called the Anmeldung: Bitte melden Sie sich an der Anmeldung."},
+      "BL-02-03": {"pron": "zikh AN-mel-den", "tip": "You report yourself (sich) to the office 🙋", "warn": "Separable and reflexive: Ich melde mich an. · Ich habe mich angemeldet."},
+      "B2-2480": {"pron": "BUER-ger-amt", "tip": "Bürger (citizen) + Amt (office) = the citizens' office 🏢", "bonus": "Names vary by city: Bürgerbüro, Einwohnermeldeamt and others."},
+      "BL-02-02": {"pron": "ter-MEEN", "tip": "Like a terminus, it's a fixed point in time 📅 German life runs on Termine!", "warn": "False friend: not a school term, but an appointment."},
+      "BL-02-04": {"pron": "for-moo-LAR", "tip": "Same root as English form and formula 📝 A sheet with a set pattern.", "bonus": "an online form = das Online-Formular"},
+      "BL-02-05": {"pron": "OWSS-fue-len", "tip": "aus (completely) + füllen (fill) = fill every last box ✍️", "warn": "Separable: Ich fülle das Formular aus."},
+      "BL-02-08": {"pron": "OON-ter-shrift", "tip": "unter (under) + Schrift (writing) = the writing at the bottom 🖊️", "bonus": "to sign = unterschreiben: Bitte unterschreiben Sie hier."},
+      "BL-02-07": {"pron": "OON-ter-lah-gen", "tip": "unter (under) + legen (lay) = the papers that lie underneath it all 📂", "warn": "Almost always plural: die Unterlagen."},
+      "BL-02-09": {"pron": "ge-BUER", "tip": "From gebühren, ‘to be due’ 💶 Money that's due = Gebühr.", "bonus": "free of charge = gebührenfrei / kostenlos"},
+      "B2-2482": {"pron": "MEL-duh-be-shy-ni-goong", "tip": "melden (register) + Bescheinigung (certificate) = proof you registered 📄 Long, but it's just Lego."}
+    },
+    "culture": [
+      "When you move in Germany, you usually have to register your new address within two weeks. You'll need a confirmation from your landlord (Wohnungsgeberbestätigung), so ask for it early.",
+      "In big cities, office appointments can be hard to get, so it's worth looking for a Termin online as soon as you know your moving date. Registering your address is usually free, but other services, like a new ID card, come with a Gebühr.",
+      "Keep your Meldebescheinigung somewhere safe. Banks, visa offices and phone companies ask for it more often than you'd think. 📄"
+    ],
+    "quiz": {"q": "The clerk points at an empty box at the bottom of your form: ‘Hier fehlt noch Ihre …’ What's missing?", "o": ["Anmeldung", "Gebühr", "Unterschrift"], "a": 2, "why": "What goes at the bottom of a form is your signature — unter (under) + Schrift (writing)."},
+    "outro": "Say Ich möchte mich anmelden. out loud three times today. Your first sentence at the counter will come out easily. 🏛️"
+  },
+  "ja": {
+    "title": "役所で慌てない！住民登録のドイツ語10",
+    "hook": "ドイツ生活の本当のスタートは、荷ほどきではなく役所の予約です。",
+    "intro": [
+      "新居の鍵を受け取ってひと息ついたところで、友だちに聞かれます。「Anmeldung はもうした？」銀行口座もネット契約も税番号も、この住民登録が必要なんだとか。でも予約サイトは全部ドイツ語です。",
+      "今日は役所で必ず耳にする単語を10個集めました。予約を取る、書類をそろえる、サインして登録証明書をもらう。この10個があれば窓口でも落ち着いて話せます。🏛️"
+    ],
+    "words": {
+      "A1-410": {"pron": "アンメルドゥング", "tip": "an（〜へ）+ melden（知らせる）+ -ung =「ここに住んでいます！」と届け出ること 📮", "bonus": "病院の受付も Anmeldung と言います：Bitte melden Sie sich an der Anmeldung."},
+      "BL-02-03": {"pron": "ズィッヒ アンメルデン", "tip": "役所に自分（sich）を届け出るイメージ 🙋", "warn": "分離動詞で再帰動詞です：Ich melde mich an. · Ich habe mich angemeldet."},
+      "B2-2480": {"pron": "ビュルガーアムト", "tip": "Bürger（市民）+ Amt（役所）= 市民のための役所 🏢", "bonus": "町によって名前が違います：Bürgerbüro、Einwohnermeldeamt など。"},
+      "BL-02-02": {"pron": "テルミーン", "tip": "終点（terminus）が決まった約束 📅 ドイツ生活は Termin で回っています！", "warn": "英語の term（学期）ではなく「予約・約束」です。"},
+      "BL-02-04": {"pron": "フォルムラール", "tip": "英語の form、formula と同じ語源 📝 決まった型のある紙です。", "bonus": "オンライン申請書 = das Online-Formular"},
+      "BL-02-05": {"pron": "アウスフュレン", "tip": "aus（最後まで）+ füllen（満たす）= 空欄を全部うめる ✍️", "warn": "分離動詞です：Ich fülle das Formular aus."},
+      "BL-02-08": {"pron": "ウンターシュリフト", "tip": "unter（下）+ Schrift（文字）= 書類のいちばん下に書く文字 🖊️", "bonus": "サインする = unterschreiben：Bitte unterschreiben Sie hier."},
+      "BL-02-07": {"pron": "ウンターラーゲン", "tip": "unter（下）+ legen（置く）= 手続きの土台になる書類 📂", "warn": "ほぼいつも複数形です：die Unterlagen."},
+      "BL-02-09": {"pron": "ゲビューア", "tip": "gebühren（当然支払うべき）から 💶 払うべきお金 = Gebühr！", "bonus": "無料 = gebührenfrei / kostenlos"},
+      "B2-2482": {"pron": "メルデベシャイニグング", "tip": "melden（届け出る）+ Bescheinigung（証明書）= 登録した証明書 📄 長くてもレゴの組み立てです！"}
+    },
+    "culture": [
+      "ドイツでは引っ越したら、ふつう2週間以内に新しい住所を登録します。そのとき大家さんが書く入居証明書（Wohnungsgeberbestätigung）が必要なので、早めにもらっておきましょう。",
+      "大都市では役所の予約がなかなか取れません。引っ越しの日が決まったら、すぐオンラインで Termin を探すのがおすすめです。住民登録そのものはふつう無料ですが、身分証の発行など他の手続きには Gebühr がかかります。",
+      "登録後にもらう Meldebescheinigung は大切に保管しましょう。銀行やビザ、携帯の契約などで、思った以上によく求められます。📄"
+    ],
+    "quiz": {"q": "役所の人が書類のいちばん下の空欄を指して言います。「Hier fehlt noch Ihre …」空欄に入るのは？", "o": ["Anmeldung", "Gebühr", "Unterschrift"], "a": 2, "why": "書類のいちばん下に足りないのはサイン（Unterschrift）です。unter（下）+ Schrift（文字）！"},
+    "outro": "今日は Ich möchte mich anmelden. を声に出して3回言ってみましょう。窓口での第一声がすっと出てきますよ。🏛️"
+  }
+}

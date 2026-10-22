@@ -1,0 +1,225 @@
+{
+  "key": "hiking",
+  "ko": {
+    "title": "독일 사람들처럼 걷고 오르는 10단어",
+    "hook": "독일 친구가 주말에 “Lust auf eine Wanderung?”이라고 물으면, 산책이 아니라 진짜 등산일 수도 있어요.",
+    "intro": [
+      "독일 사람들은 정말 잘 걸어요. 일요일 점심을 먹고 나면 가족끼리 산책을 나가고, 휴가 때는 배낭을 메고 몇 시간씩 산을 걸어요. 친구가 가볍게 걷자고 해서 운동화만 신고 갔다가 가파른 산길을 만나 땀범벅이 된 적, 저만 있는 건 아니겠죠?",
+      "오늘은 산책부터 등산까지, 걷는 날에 꼭 필요한 단어 10개를 모았어요. 길을 고르고, 경치를 감탄하고, 산장에서 쉬는 것까지 독일어로 할 수 있어요. 🥾"
+    ],
+    "words": {
+      "A2-157": {
+        "pron": "반던",
+        "tip": "영어 wander와 같은 뿌리지만, 독일에선 목표를 갖고 씩씩하게 걸어요 🥾",
+        "warn": "완료형은 sein: Wir sind gewandert. 동네 산책은 wandern이 아니라 spazieren gehen이에요."
+      },
+      "B1-1387": {
+        "pron": "반더룽",
+        "tip": "wandern + -ung = 하이킹 한 번 ⛰️ -ung이니까 die!",
+        "bonus": "eine Wanderung machen = 하이킹하다"
+      },
+      "A1-340": {
+        "pron": "슈파치렌 게엔",
+        "tip": "‘공간(space)’을 여유롭게 거닐기, 이탈리아어 spaziare에서 🚶",
+        "bonus": "명사는 der Spaziergang = 산책",
+        "warn": "완료형은 sein: Wir sind spazieren gegangen."
+      },
+      "B1-1196": {
+        "pron": "슈타일",
+        "tip": "영어 steep과 친척 📐 ‘슈타일’ 하고 숨이 턱 막히는 오르막!"
+      },
+      "A2-113": {
+        "pron": "베르크",
+        "tip": "하이델베르크, 뉘른베르크… 지명 속 -berg가 바로 산이에요 🏔️"
+      },
+      "B2-2754": {
+        "pron": "반더베크",
+        "tip": "wandern + Weg(길) = 하이킹 길 🪧 나무에 그려진 표시만 따라가면 돼요!"
+      },
+      "A2-559": {
+        "pron": "루크자크",
+        "tip": "Rücken(등) + Sack(자루) = 등에 메는 자루 🎒 영어 rucksack이 여기서 왔어요!",
+        "warn": "복수는 움라우트: die Rucksäcke."
+      },
+      "B1-797": {
+        "pron": "휘테",
+        "tip": "영어 hut과 같은 말 🛖 산 위의 Hütte에서 먹는 수프는 꿀맛!",
+        "bonus": "산장에서 묵다 = auf einer Hütte übernachten"
+      },
+      "B1-207": {
+        "pron": "아우스지히트",
+        "tip": "aus(밖으로) + Sicht(봄) = 밖을 내다보는 경치 🌄",
+        "bonus": "Was für eine Aussicht! = 경치 대박!"
+      },
+      "C1-822": {
+        "pron": "기펠",
+        "tip": "산꼭대기에 ‘기필코’ 올라가자! 🏁 뉴스에선 정상회담 뜻도 있어요.",
+        "bonus": "Das ist ja der Gipfel! = 이건 해도 너무하네!"
+      }
+    },
+    "culture": [
+      "독일 하이킹 길은 표시가 잘 되어 있는 편이에요. 나무나 바위에 그려진 색깔 줄이나 기호를 따라가면 되는데, 지역마다 표시 방식이 달라요.",
+      "산길에서 사람을 마주치면 서로 인사하는 게 보통이에요. 북쪽에서는 “Hallo!”나 “Moin!”, 남쪽 산에서는 “Grüß Gott!”이나 “Servus!”를 많이 들을 수 있어요.",
+      "알프스 같은 높은 산에는 정상에 큰 십자가(Gipfelkreuz)가 서 있는 경우가 많고, 중간중간 Hütte에서 따뜻한 음식과 음료를 팔아요. 현금만 받는 곳도 있으니 조금 챙겨 가면 좋아요. 🏔️"
+    ],
+    "quiz": {
+      "q": "일요일 점심 후에 가족과 공원을 가볍게 걷기로 했어요. 알맞은 말은?",
+      "o": [
+        "Wir machen eine Bergtour.",
+        "Wir übernachten in einer Hütte.",
+        "Wir gehen spazieren."
+      ],
+      "a": 2,
+      "why": "가볍게 걷는 산책은 spazieren gehen이에요. wandern은 더 길고 본격적인 걷기예요."
+    },
+    "outro": "오늘 산책할 때 “Was für eine Aussicht!”를 한 번 외쳐 보세요. 동네 공원이라도 괜찮아요! 🌿"
+  },
+  "en": {
+    "title": "Walk like a German: 10 hiking words",
+    "hook": "When a German friend suggests “eine Wanderung”, it might be a proper mountain hike, not a stroll.",
+    "intro": [
+      "Germans love to walk. After Sunday lunch the whole family goes out for a stroll, and on holiday people spend hours hiking in the hills with a backpack. Ever joined a ‘short walk’ in trainers and found yourself sweating up a steep mountain path? You're not alone.",
+      "Today's ten words cover everything from a gentle stroll to a summit. You'll be able to pick a trail, admire the view and rest at a mountain hut — all in German. 🥾"
+    ],
+    "words": {
+      "A2-157": {
+        "pron": "VAN-dern",
+        "tip": "Same root as wander, but Germans hike with purpose 🥾",
+        "warn": "Perfect with sein: Wir sind gewandert. A walk round the block is spazieren gehen, not wandern."
+      },
+      "B1-1387": {
+        "pron": "VAN-der-oong",
+        "tip": "wandern + -ung = one hike ⛰️ -ung means die.",
+        "bonus": "to go on a hike = eine Wanderung machen"
+      },
+      "A1-340": {
+        "pron": "shpa-TSEE-ren GAY-en",
+        "tip": "Enjoy some space — from Italian spaziare, to roam 🚶",
+        "bonus": "The noun: der Spaziergang = a walk",
+        "warn": "Perfect with sein: Wir sind spazieren gegangen."
+      },
+      "B1-1196": {
+        "pron": "SHTILE",
+        "tip": "steil ≈ steep 📐 Both make you puff!"
+      },
+      "A2-113": {
+        "pron": "BAIRK",
+        "tip": "Heidelberg, Nürnberg… the -berg in place names means mountain 🏔️"
+      },
+      "B2-2754": {
+        "pron": "VAN-der-vayk",
+        "tip": "wandern + Weg (way) = hiking trail 🪧 Just follow the signs painted on the trees!"
+      },
+      "A2-559": {
+        "pron": "ROOK-zak",
+        "tip": "Rücken (back) + Sack = a sack for your back 🎒 English borrowed it!",
+        "warn": "Plural with umlaut: die Rucksäcke."
+      },
+      "B1-797": {
+        "pron": "HÜT-uh",
+        "tip": "Basically English hut 🛖 Soup at a mountain Hütte tastes amazing.",
+        "bonus": "to stay overnight in a hut = auf einer Hütte übernachten"
+      },
+      "B1-207": {
+        "pron": "OWS-zikht",
+        "tip": "aus (out) + Sicht (sight) = what you see when you look out 🌄",
+        "bonus": "Was für eine Aussicht! = What a view!"
+      },
+      "C1-822": {
+        "pron": "GIP-fel",
+        "tip": "Give it your all and you'll reach the Gipfel 🏁 In the news it also means a summit meeting.",
+        "bonus": "Das ist ja der Gipfel! = That's the last straw!"
+      }
+    },
+    "culture": [
+      "Hiking trails in Germany are usually well marked. You follow coloured stripes or symbols painted on trees and rocks, and the system varies from region to region.",
+      "It's normal to greet people you pass on a trail. In the north you'll hear “Hallo!” or “Moin!”, and in the southern mountains “Grüß Gott!” or “Servus!”.",
+      "Many peaks in the Alps have a large summit cross (Gipfelkreuz), and huts along the way serve hot food and drinks. Some only take cash, so bring a little with you. 🏔️"
+    ],
+    "quiz": {
+      "q": "After Sunday lunch, your family wants a gentle walk in the park. What do you say?",
+      "o": [
+        "Wir machen eine Bergtour.",
+        "Wir übernachten in einer Hütte.",
+        "Wir gehen spazieren."
+      ],
+      "a": 2,
+      "why": "A gentle stroll is spazieren gehen; wandern is a longer, proper hike."
+    },
+    "outro": "On your next walk, say “Was für eine Aussicht!” out loud — even if it's just the local park! 🌿"
+  },
+  "ja": {
+    "title": "ドイツ人のように歩いて登る10の単語",
+    "hook": "ドイツ人の友だちが「Wanderung」に誘ってきたら、散歩ではなく本格的な山歩きかもしれません。",
+    "intro": [
+      "ドイツの人は本当によく歩きます。日曜のお昼のあとは家族で散歩に出かけ、休暇にはリュックを背負って何時間も山を歩きます。軽く歩こうと言われてスニーカーで行ったら、急な山道で汗だく…なんて経験、私だけではないはず。",
+      "今日は散歩から山登りまで、歩く日に欠かせない単語を10個集めました。道を選んで、景色に感動して、山小屋でひと休みするところまでドイツ語で言えるようになります。🥾"
+    ],
+    "words": {
+      "A2-157": {
+        "pron": "ヴァンダーン",
+        "tip": "ワンダーフォーゲルの Wander！目的地に向かって元気に歩きます 🥾",
+        "warn": "完了形は sein：Wir sind gewandert. 近所の散歩は wandern ではなく spazieren gehen です。"
+      },
+      "B1-1387": {
+        "pron": "ヴァンデルング",
+        "tip": "wandern + -ung = 1回のハイキング ⛰️ -ung だから die！",
+        "bonus": "ハイキングする = eine Wanderung machen"
+      },
+      "A1-340": {
+        "pron": "シュパツィーレン ゲーエン",
+        "tip": "スペース（空間）をのんびり歩く、イタリア語 spaziare から 🚶",
+        "bonus": "名詞は der Spaziergang = 散歩",
+        "warn": "完了形は sein：Wir sind spazieren gegangen."
+      },
+      "B1-1196": {
+        "pron": "シュタイル",
+        "tip": "英語の steep の親戚 📐「シュタイル」と息が切れる急坂！"
+      },
+      "A2-113": {
+        "pron": "ベルク",
+        "tip": "ハイデルベルク、ニュルンベルク…地名の -berg は「山」です 🏔️"
+      },
+      "B2-2754": {
+        "pron": "ヴァンダーヴェーク",
+        "tip": "wandern + Weg（道）= ハイキングコース 🪧 木に描かれた目印をたどればOK！"
+      },
+      "A2-559": {
+        "pron": "ルックザック",
+        "tip": "Rücken（背中）+ Sack（袋）= 背中の袋 🎒 日本語のリュックサックの語源です！",
+        "warn": "複数形はウムラウト：die Rucksäcke。"
+      },
+      "B1-797": {
+        "pron": "ヒュッテ",
+        "tip": "日本語の「ヒュッテ」はこの単語から 🛖 山の上で飲むスープは格別！",
+        "bonus": "山小屋に泊まる = auf einer Hütte übernachten"
+      },
+      "B1-207": {
+        "pron": "アウスズィヒト",
+        "tip": "aus（外へ）+ Sicht（見ること）= 外を見渡す眺め 🌄",
+        "bonus": "Was für eine Aussicht! = なんて眺め！"
+      },
+      "C1-822": {
+        "pron": "ギプフェル",
+        "tip": "「ギブ」アップせずに登れば山頂 Gipfel 🏁 ニュースでは「首脳会談」の意味も。",
+        "bonus": "Das ist ja der Gipfel! = いくらなんでもひどすぎる！"
+      }
+    },
+    "culture": [
+      "ドイツのハイキングコースは目印がしっかりしていることが多いです。木や岩に描かれた色の線や記号をたどって歩きますが、表示の仕方は地域によって違います。",
+      "山道で人とすれ違ったら、あいさつするのがふつうです。北では「Hallo!」や「Moin!」、南の山では「Grüß Gott!」や「Servus!」をよく聞きます。",
+      "アルプスなどの高い山では、山頂に大きな十字架（Gipfelkreuz）が立っていることが多く、途中のヒュッテで温かい食事や飲み物が楽しめます。現金しか使えないところもあるので、少し持って行くと安心です。🏔️"
+    ],
+    "quiz": {
+      "q": "日曜のお昼のあと、家族で公園を軽く歩くことにしました。合う表現は？",
+      "o": [
+        "Wir machen eine Bergtour.",
+        "Wir übernachten in einer Hütte.",
+        "Wir gehen spazieren."
+      ],
+      "a": 2,
+      "why": "軽い散歩は spazieren gehen。wandern はもっと長く本格的に歩くことです。"
+    },
+    "outro": "今日の散歩で「Was für eine Aussicht!」と声に出してみましょう。近所の公園でも大丈夫です！🌿"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "classical",
+  "ko": {
+    "title": "베토벤의 나라에서 클래식 공연 보러 가기 전 단어 10",
+    "hook": "바흐, 베토벤, 브람스의 나라에 왔다면 공연장 한 번은 꼭 가 봐야죠.",
+    "intro": [
+      "처음 독일 콘서트홀에 간 날, 프로그램 책자를 펼쳤더니 Sinfonie, Dirigent, Werk… 단어는 낯선데 음악은 너무 아름다웠어요. 쉬는 시간에 옆 사람이 말을 걸었는데 대답을 못 해서 아쉬웠고요.",
+      "오늘은 클래식 음악 이야기에 꼭 나오는 단어 10개를 모았어요. 이 10개면 공연 프로그램을 읽고, 좋아하는 작곡가와 곡에 대해 독일어로 이야기할 수 있어요. 🎻"
+    ],
+    "words": {
+      "B1-2497": {"pron": "클라식", "tip": "라틴어 classicus(일등급)에서 왔어요 🎼 일등급 음악 = Klassik!", "bonus": "Ich höre gern Klassik. = 저는 클래식을 즐겨 들어요."},
+      "B1-1838": {"pron": "클라시쉬", "tip": "Klassik의 형용사 버전 🎹 ‘클래식한’도 되고 ‘전형적인’도 돼요.", "bonus": "Das ist ein klassischer Fehler! = 전형적인 실수야!"},
+      "B2-1355": {"pron": "콤포니스트", "tip": "라틴어 componere(함께 놓다) ✍️ 음을 모아 놓는 사람이 작곡가!", "warn": "약변화 명사예요: den/dem/des Komponisten."},
+      "B1-1688": {"pron": "콤포니렌", "tip": "영어 compose와 같은 뿌리 🎶 -ieren 동사는 과거분사에 ge-가 안 붙어요.", "bonus": "완료형: Er hat neun Sinfonien komponiert."},
+      "B1-1005": {"pron": "오르케스터", "tip": "ch를 ‘ㅋ’로 읽어요 🎺 원래 그리스 극장에서 무대 앞 춤추던 공간이었대요.", "bonus": "단수와 복수가 같아요: das/die Orchester."},
+      "B2-3235": {"pron": "진포니", "tip": "그리스어 symphonia(함께 울림) 🎻 여러 악기가 함께 울리는 곡!", "bonus": "Symphonie라고 써도 맞아요."},
+      "B2-1354": {"pron": "디리겐트", "tip": "라틴어 dirigere(이끌다) 🪄 영어 direct와 친척이에요.", "warn": "약변화 명사예요: den/dem/des Dirigenten."},
+      "B2-3018": {"pron": "디리기렌", "tip": "Dirigent가 하는 일 = dirigieren 🙌 교통 정리하는 경찰도 dirigieren해요!", "bonus": "완료형: Wer hat gestern dirigiert?"},
+      "B1-1396": {"pron": "베르크", "tip": "영어 work와 같은 뿌리 🖼️ 작품도 Werk, 공장도 Werk!", "bonus": "베토벤 전 작품 = Beethovens Gesamtwerk"},
+      "B2-3926": {"pron": "탁트", "tip": "지휘봉으로 ‘탁, 탁’ 박자를 맞추는 소리 🥁 영어 tact(눈치)와도 같은 뿌리예요.", "bonus": "im Takt = 박자에 맞춰 · Taktgefühl = 눈치, 배려심"}
+    },
+    "culture": [
+      "독일에는 크고 작은 오케스트라와 오페라 극장이 정말 많아요. 대도시뿐 아니라 작은 도시에도 극장이 있는 경우가 많고, 학생이나 젊은 사람을 위한 할인 표를 주는 곳도 흔해요.",
+      "공연장에서는 보통 악장(Satz) 사이에는 박수를 치지 않고, 곡이 완전히 끝난 뒤에 쳐요. 헷갈리면 주변 사람들을 따라 하면 돼요.",
+      "옷차림은 생각보다 자유로워요. 정장을 입는 사람도 있지만, 깔끔한 평상복으로 오는 사람도 많아요. 공연이 끝나면 박수가 꽤 오래 이어지고, 마음에 들면 “Bravo!”를 외치기도 해요. 👏"
+    ],
+    "quiz": {"q": "공연 중에 친구가 “Wer ist der Mann mit dem Taktstock?”라고 속삭여요. 뭐라고 대답할까요?", "o": ["Das ist der Dirigent.", "Das ist der Komponist.", "Das ist eine Sinfonie."], "a": 0, "why": "지휘봉(Taktstock)을 든 사람은 지휘자, der Dirigent예요."},
+    "outro": "좋아하는 클래식 곡을 하나 틀어 놓고, ‘Der Komponist ist …’, ‘Das Werk heißt …’를 소리 내서 말해 봐요. 박자(Takt)에 맞춰서요! 🎶"
+  },
+  "en": {
+    "title": "A night at the concert hall in 10 German words",
+    "hook": "You're in the land of Bach, Beethoven and Brahms — a concert should be on your list.",
+    "intro": [
+      "The first time I went to a German concert hall, I opened the programme and found Sinfonie, Dirigent, Werk… The words were strange, but the music was beautiful. In the interval the person next to me started chatting, and I couldn't answer.",
+      "Today's ten words come up whenever people talk about classical music. With them you can read a concert programme and chat about your favourite composers and pieces in German. 🎻"
+    ],
+    "words": {
+      "B1-2497": {"pron": "KLAS-sik", "tip": "From Latin classicus, first-class 🎼 First-class music = Klassik!", "bonus": "Ich höre gern Klassik. = I like listening to classical music."},
+      "B1-1838": {"pron": "KLAS-ish", "tip": "The adjective of Klassik 🎹 It means both ‘classical’ and ‘classic, typical’.", "bonus": "Das ist ein klassischer Fehler! = That's a classic mistake!"},
+      "B2-1355": {"pron": "kom-po-NIST", "tip": "Latin componere, to put together ✍️ A composer puts notes together.", "warn": "Weak noun: den/dem/des Komponisten."},
+      "B1-1688": {"pron": "kom-po-NEER-en", "tip": "Same root as compose 🎶 -ieren verbs take no ge- in the past participle.", "bonus": "Perfect: Er hat neun Sinfonien komponiert."},
+      "B1-1005": {"pron": "or-KES-ter", "tip": "Say the ch as k 🎺 In Greek theatres it was the dancing area in front of the stage.", "bonus": "Singular and plural are the same: das/die Orchester."},
+      "B2-3235": {"pron": "zin-fo-NEE", "tip": "Greek symphonia, ‘sounding together’ 🎻 Lots of instruments sounding as one.", "bonus": "The spelling Symphonie is also correct."},
+      "B2-1354": {"pron": "dee-ree-GENT", "tip": "Latin dirigere, to lead 🪄 A cousin of English direct.", "warn": "Weak noun: den/dem/des Dirigenten."},
+      "B2-3018": {"pron": "dee-ree-GEER-en", "tip": "What a Dirigent does 🙌 A police officer directing traffic also dirigiert!", "bonus": "Perfect: Wer hat gestern dirigiert?"},
+      "B1-1396": {"pron": "VAIRK", "tip": "Same root as English work 🖼️ A work of art and a factory are both Werk.", "bonus": "Beethoven's complete works = Beethovens Gesamtwerk"},
+      "B2-3926": {"pron": "TAKT", "tip": "Tap, tap — the baton keeps the beat 🥁 Same root as English tact.", "bonus": "im Takt = in time · Taktgefühl = tact, sensitivity"}
+    },
+    "culture": [
+      "Germany has a remarkable number of orchestras and opera houses. Even smaller towns often have their own theatre, and many venues offer reduced tickets for students and young people.",
+      "At a concert, people usually don't clap between movements (Sätze) — they wait until the whole piece is over. If you're unsure, just follow the people around you.",
+      "The dress code is more relaxed than you might think. Some people dress up, but plenty come in smart everyday clothes. At the end the applause often goes on for a long time, and you may hear a few “Bravo!”s. 👏"
+    ],
+    "quiz": {"q": "During the concert, your friend whispers, “Wer ist der Mann mit dem Taktstock?” What do you answer?", "o": ["Das ist der Dirigent.", "Das ist der Komponist.", "Das ist eine Sinfonie."], "a": 0, "why": "The person holding the baton (Taktstock) is the conductor, der Dirigent."},
+    "outro": "Put on a favourite classical piece and say out loud: Der Komponist ist … Das Werk heißt … — in time with the Takt, of course! 🎶"
+  },
+  "ja": {
+    "title": "ベートーヴェンの国でコンサートへ行く前の10語",
+    "hook": "バッハ、ベートーヴェン、ブラームスの国に来たなら、一度はコンサートホールへ。",
+    "intro": [
+      "初めてドイツのコンサートホールに行った日、プログラムを開くと Sinfonie、Dirigent、Werk……。単語はわからないのに、音楽は本当にすばらしかったです。休憩中に隣の人に話しかけられて、答えられなかったのが心残りでした。",
+      "今日はクラシック音楽の話に必ず出てくる単語を10個集めました。この10個があれば、プログラムが読めて、好きな作曲家や曲についてドイツ語で話せます。🎻"
+    ],
+    "words": {
+      "B1-2497": {"pron": "クラシック", "tip": "ラテン語 classicus（一流の）から 🎼 一流の音楽 = Klassik！", "bonus": "Ich höre gern Klassik. = クラシックをよく聴きます。"},
+      "B1-1838": {"pron": "クラシシュ", "tip": "Klassik の形容詞版 🎹 「クラシックの」にも「典型的な」にもなります。", "bonus": "Das ist ein klassischer Fehler! = よくある典型的なミスだね！"},
+      "B2-1355": {"pron": "コンポニスト", "tip": "ラテン語 componere（一緒に置く）✍️ 音を組み合わせる人が作曲家！", "warn": "弱変化名詞です：den/dem/des Komponisten."},
+      "B1-1688": {"pron": "コンポニーレン", "tip": "英語の compose と同じ語源 🎶 -ieren 動詞の過去分詞には ge- がつきません。", "bonus": "完了形：Er hat neun Sinfonien komponiert."},
+      "B1-1005": {"pron": "オルケスター", "tip": "ch は「ク」と読みます 🎺 もとはギリシャの劇場で舞台の前の踊る場所でした。", "bonus": "単数と複数が同じ形：das/die Orchester."},
+      "B2-3235": {"pron": "ズィンフォニー", "tip": "ギリシャ語 symphonia（共に響く）🎻 たくさんの楽器が一緒に響く曲！", "bonus": "Symphonie とつづっても正解です。"},
+      "B2-1354": {"pron": "ディリゲント", "tip": "ラテン語 dirigere（導く）🪄 英語の direct の親戚です。", "warn": "弱変化名詞です：den/dem/des Dirigenten."},
+      "B2-3018": {"pron": "ディリギーレン", "tip": "Dirigent がすること = dirigieren 🙌 交通整理のおまわりさんも dirigieren します！", "bonus": "完了形：Wer hat gestern dirigiert?"},
+      "B1-1396": {"pron": "ヴェルク", "tip": "英語の work と同じ語源 🖼️ 作品も工場も Werk！", "bonus": "ベートーヴェンの全作品 = Beethovens Gesamtwerk"},
+      "B2-3926": {"pron": "タクト", "tip": "指揮棒で「タクト、タクト」と拍子を刻むイメージ 🥁 英語の tact（気配り）とも同じ語源です。", "bonus": "im Takt = 拍子に合わせて · Taktgefühl = 気配り、思いやり"}
+    },
+    "culture": [
+      "ドイツにはオーケストラやオペラハウスが本当にたくさんあります。大都市だけでなく小さな町にも劇場があることが多く、学生や若い人向けの割引チケットを用意しているところもよくあります。",
+      "コンサートでは、ふつう楽章（Satz）の合間には拍手をせず、曲が全部終わってから拍手します。迷ったら周りの人に合わせれば大丈夫です。",
+      "服装は思ったより自由です。正装の人もいますが、きれいめの普段着で来る人もたくさんいます。終演後は拍手が長く続き、気に入ったら「Bravo!」と声をかけることもあります。👏"
+    ],
+    "quiz": {"q": "演奏中、友だちが「Wer ist der Mann mit dem Taktstock?」とささやきました。何と答えますか？", "o": ["Das ist der Dirigent.", "Das ist der Komponist.", "Das ist eine Sinfonie."], "a": 0, "why": "指揮棒（Taktstock）を持っている人は指揮者、der Dirigent です。"},
+    "outro": "好きなクラシックの曲をかけながら、「Der Komponist ist …」「Das Werk heißt …」と声に出してみましょう。もちろん Takt に合わせて！🎶"
+  }
+}

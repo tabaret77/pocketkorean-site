@@ -1,0 +1,84 @@
+{
+  "key": "wedding",
+  "ko": {
+    "title": "독일 결혼식 청첩장을 받았다면, 이 단어 10개부터",
+    "hook": "청첩장에 적힌 Standesamt, 대체 어디서 결혼한다는 걸까요?",
+    "intro": [
+      "독일 친구한테서 예쁜 카드가 왔어요. \"Wir heiraten!\" 축하 메시지를 쓰려는데, 카드에는 Standesamt, Trauzeugin 같은 낯선 단어가 가득해요. 결혼식장에 가서도 무슨 말인지 몰라 웃기만 하면 아쉽잖아요.",
+      "오늘은 프러포즈부터 신혼여행까지, 결혼식에 꼭 나오는 단어 10개예요. 이걸로 축하 인사도 하고, 결혼 소식도 전하고, 결혼식 수다에도 끼어들 수 있어요. 💍"
+    ],
+    "words": {
+      "A2-038": {"pron": "호흐차이트", "tip": "hoch(높은) + Zeit(때) = 인생에서 제일 높은 날 🎉 원래 '큰 축제'라는 뜻이었어요.", "warn": "Hochzeit는 결혼식(행사)이에요. 결혼 생활, 혼인 관계는 die Ehe."},
+      "A1-323": {"pron": "하이라텐", "tip": "'하이! 라텐!' 하고 손 흔들며 결혼하러 가는 느낌 👰 원래 '살림을 차리다'라는 뜻이에요.", "warn": "'~와 결혼하다'에 mit을 안 써요: Er heiratet sie. (mit ihr ✗)"},
+      "A2-191": {"pron": "페어하이라테트", "tip": "heiraten의 과거분사 = 결혼한 상태 💑 ge- 대신 ver-가 붙었어요.", "bonus": "미혼 = ledig, 이혼한 = geschieden"},
+      "B1-1715": {"pron": "지히 페어로벤", "tip": "ver- + loben(약속하다) = 결혼을 약속하다 💌 loben은 '칭찬하다'라는 뜻도 있어요.", "bonus": "약혼한 = verlobt, 약혼 = die Verlobung"},
+      "B2-3219": {"pron": "하이라츠안트라크", "tip": "Heirat(결혼) + Antrag(신청서) = 결혼 신청서 📝 관청 서류처럼 들려서 오히려 웃겨요!", "bonus": "프러포즈하다 = jemandem einen Heiratsantrag machen"},
+      "B1-2092": {"pron": "에에링", "tip": "Ehe(결혼) + Ring(반지) 💍 영어 ring이랑 똑같아서 쉬워요.", "bonus": "약혼반지 = der Verlobungsring"},
+      "B2-3550": {"pron": "브로이티감", "tip": "Braut(신부) + 옛말 gomo(남자) = 신부의 남자 🤵 영어 bridegroom과 같은 구조!", "bonus": "신부 = die Braut, 신랑 신부 = das Brautpaar"},
+      "B2-2495": {"pron": "슈탄데스암트", "tip": "Stand(신분) + Amt(관청) = 신분이 바뀌는 관청 🏛️ 출생, 결혼, 사망을 다 여기서 등록해요.", "bonus": "구청에서 하는 결혼식 = die standesamtliche Trauung"},
+      "B2-3698": {"pron": "트라우초이게", "tip": "Trauung(결혼식) + Zeuge(증인) = 결혼식 증인 👀 신부 측 여자 증인은 die Trauzeugin!", "warn": "약변화 명사예요: den/dem/des Trauzeugen"},
+      "B1-2393": {"pron": "호흐차이츠라이제", "tip": "Hochzeit + Reise(여행) = 결혼 여행 ✈️ 중간의 -s-는 이어 붙이는 접착제예요.", "bonus": "같은 뜻으로 die Flitterwochen(꿀 같은 몇 주)도 써요."}
+    },
+    "culture": [
+      "독일에서 법적으로 결혼이 성립하는 건 Standesamt(구청의 혼인 등록 사무소)에서 하는 혼인식이에요. 교회 결혼식은 원하는 사람만 따로 하고, 날짜를 나눠서 두 번 결혼식을 하는 커플도 많아요.",
+      "결혼식 전날 밤에는 Polterabend라는 파티를 하기도 해요. 친구들이 접시나 도자기를 깨뜨리고, 신랑 신부가 함께 치워요. \"Scherben bringen Glück!\" 깨진 조각이 행운을 가져온대요.",
+      "그리고 독일에서는 결혼반지를 보통 오른손 약지에 껴요. 왼손에 끼는 나라에서 온 사람들은 처음에 조금 헷갈려 해요. 💍"
+    ],
+    "quiz": {"q": "\"우리 언니가 지난주에 약혼했어!\"를 독일어로 말하려면?", "o": ["Meine Schwester hat geheiratet.", "Meine Schwester ist geschieden.", "Meine Schwester hat sich verlobt."], "a": 2, "why": "sich verloben = 약혼하다. geheiratet는 결혼했다, geschieden은 이혼했다는 뜻이에요."},
+    "outro": "오늘은 독일어로 축하 카드를 한 줄 써 봐요. Herzlichen Glückwunsch zur Hochzeit! 💐"
+  },
+  "en": {
+    "title": "Invited to a German wedding? Learn these 10 words",
+    "hook": "The invitation says Standesamt — so where exactly are they getting married?",
+    "intro": [
+      "A lovely card arrives from a German friend: \"Wir heiraten!\" You want to write back, but the card is full of words like Standesamt and Trauzeugin. And it would be a shame to just smile and nod all through the reception.",
+      "Today's ten words take you from the proposal to the honeymoon. With them you can congratulate the couple, share your own news and join in the wedding gossip. 💍"
+    ],
+    "words": {
+      "A2-038": {"pron": "HOKH-tsite", "tip": "hoch (high) + Zeit (time) = the highest day of your life 🎉 It originally meant a big festival.", "warn": "Hochzeit is the wedding day. The marriage itself is die Ehe — and ‘high time’ is höchste Zeit."},
+      "A1-323": {"pron": "HY-rah-ten", "tip": "Wave ‘Hi!’ on your way to the altar 👰 It once meant ‘to set up a household’.", "warn": "No mit: Er heiratet sie. = He's marrying her."},
+      "A2-191": {"pron": "fair-HY-rah-tet", "tip": "The past participle of heiraten = in a married state 💑 ver- replaces ge- here.", "bonus": "single = ledig · divorced = geschieden"},
+      "B1-1715": {"pron": "zikh fair-LOH-ben", "tip": "ver- + loben (to promise) = to promise marriage 💌 loben also means ‘to praise’.", "bonus": "engaged = verlobt · engagement = die Verlobung"},
+      "B2-3219": {"pron": "HY-rahts-an-trahk", "tip": "Heirat (marriage) + Antrag (application form) = a marriage application 📝 It sounds like paperwork, which makes it funny.", "bonus": "to propose = jemandem einen Heiratsantrag machen"},
+      "B1-2092": {"pron": "AY-uh-ring", "tip": "Ehe (marriage) + Ring 💍 The second half is pure English.", "bonus": "engagement ring = der Verlobungsring"},
+      "B2-3550": {"pron": "BROY-tee-gahm", "tip": "Braut (bride) + old gomo (man) = the bride's man 🤵 English bridegroom is built the same way.", "bonus": "bride = die Braut · the bridal couple = das Brautpaar"},
+      "B2-2495": {"pron": "SHTAN-des-amt", "tip": "Stand (civil status) + Amt (office) = the office where your status changes 🏛️ Births, marriages and deaths are all registered here.", "bonus": "the civil ceremony = die standesamtliche Trauung"},
+      "B2-3698": {"pron": "TROW-tsoy-guh", "tip": "Trauung (ceremony) + Zeuge (witness) = wedding witness 👀 A woman is die Trauzeugin.", "warn": "Weak noun: den/dem/des Trauzeugen"},
+      "B1-2393": {"pron": "HOKH-tsites-rye-zuh", "tip": "Hochzeit + Reise (journey) = wedding trip ✈️ The -s- in the middle is just glue.", "bonus": "You'll also hear die Flitterwochen (the honeymoon weeks)."}
+    },
+    "culture": [
+      "In Germany, the marriage that counts legally is the one at the Standesamt, the registry office. A church wedding is optional, and many couples do both, sometimes on different days.",
+      "The night before, some couples hold a Polterabend. Friends smash old plates and china, and the couple sweep it all up together. \"Scherben bringen Glück!\" — broken pieces bring luck.",
+      "And Germans usually wear their wedding ring on the right hand, not the left. Newcomers from left-hand countries are often confused at first. 💍"
+    ],
+    "quiz": {"q": "You want to say: \"My sister got engaged last week.\" Which sentence is right?", "o": ["Meine Schwester hat geheiratet.", "Meine Schwester ist geschieden.", "Meine Schwester hat sich verlobt."], "a": 2, "why": "sich verloben = to get engaged; geheiratet means married and geschieden means divorced."},
+    "outro": "Write one line of a German wedding card today. Herzlichen Glückwunsch zur Hochzeit! 💐"
+  },
+  "ja": {
+    "title": "ドイツの結婚式に招待されたら覚えたい単語10",
+    "hook": "招待状にある Standesamt、いったいどこで結婚するのでしょう？",
+    "intro": [
+      "ドイツ人の友だちからすてきなカードが届きました。「Wir heiraten!」お祝いの返事を書きたいのに、カードには Standesamt や Trauzeugin など知らない単語がいっぱい。式の当日もにこにこするだけでは、もったいないですよね。",
+      "今日はプロポーズから新婚旅行まで、結婚式に欠かせない単語を10個集めました。これでお祝いを伝えたり、自分の報告をしたり、結婚式の話の輪にも入れます。💍"
+    ],
+    "words": {
+      "A2-038": {"pron": "ホッホツァイト", "tip": "hoch（高い）+ Zeit（時）= 人生でいちばん高い日 🎉 もとは「大きなお祭り」という意味でした。", "warn": "Hochzeit は結婚式（イベント）のこと。結婚生活・婚姻は die Ehe です。"},
+      "A1-323": {"pron": "ハイラーテン", "tip": "「ハイ！」と手を振って祭壇へ 👰 もとは「所帯を持つ」という意味です。", "warn": "「〜と結婚する」に mit は使いません：Er heiratet sie."},
+      "A2-191": {"pron": "フェアハイラーテット", "tip": "heiraten の過去分詞 = 結婚している状態 💑 ge- の代わりに ver- がついています。", "bonus": "独身 = ledig、離婚した = geschieden"},
+      "B1-1715": {"pron": "ズィッヒ フェアローベン", "tip": "ver- + loben（約束する）= 結婚を約束する 💌 loben には「ほめる」という意味もあります。", "bonus": "婚約した = verlobt、婚約 = die Verlobung"},
+      "B2-3219": {"pron": "ハイラーツアントラーク", "tip": "Heirat（結婚）+ Antrag（申請書）= 結婚の申請書 📝 役所の書類みたいで、ちょっと笑えます！", "bonus": "プロポーズする = jemandem einen Heiratsantrag machen"},
+      "B1-2092": {"pron": "エーエリング", "tip": "Ehe（結婚）+ Ring（指輪）💍 後半は英語の ring と同じで簡単！", "bonus": "婚約指輪 = der Verlobungsring"},
+      "B2-3550": {"pron": "ブロイティガム", "tip": "Braut（花嫁）+ 古語 gomo（男）= 花嫁の男性 🤵 英語の bridegroom と同じ造り！", "bonus": "花嫁 = die Braut、新郎新婦 = das Brautpaar"},
+      "B2-2495": {"pron": "シュタンデスアムト", "tip": "Stand（身分）+ Amt（役所）= 身分が変わる役所 🏛️ 出生も結婚も死亡もここで登録します。", "bonus": "役所での結婚式 = die standesamtliche Trauung"},
+      "B2-3698": {"pron": "トラウツォイゲ", "tip": "Trauung（結婚式）+ Zeuge（証人）= 結婚の立会人 👀 女性なら die Trauzeugin！", "warn": "弱変化名詞です：den/dem/des Trauzeugen"},
+      "B1-2393": {"pron": "ホッホツァイツライゼ", "tip": "Hochzeit + Reise（旅行）= 結婚の旅 ✈️ 真ん中の -s- はつなぎの接着剤です。", "bonus": "同じ意味で die Flitterwochen（甘い数週間）とも言います。"}
+    },
+    "culture": [
+      "ドイツで法的に結婚が成立するのは、Standesamt（戸籍役場）での式です。教会式は希望する人だけが別に行い、日を分けて2回式を挙げるカップルも多いです。",
+      "式の前夜には Polterabend というパーティーをすることもあります。友人たちが古いお皿や陶器を割り、新郎新婦が二人で片づけます。「Scherben bringen Glück!」割れたかけらが幸運を呼ぶそうです。",
+      "それから、ドイツでは結婚指輪をふつう右手の薬指にはめます。左手にはめる国から来た人は、最初ちょっと戸惑います。💍"
+    ],
+    "quiz": {"q": "「姉が先週婚約したんだ！」と言いたいです。正しい文は？", "o": ["Meine Schwester hat geheiratet.", "Meine Schwester ist geschieden.", "Meine Schwester hat sich verlobt."], "a": 2, "why": "sich verloben = 婚約する。geheiratet は結婚した、geschieden は離婚したという意味です。"},
+    "outro": "今日はドイツ語でお祝いカードを一行書いてみましょう。Herzlichen Glückwunsch zur Hochzeit! 💐"
+  }
+}

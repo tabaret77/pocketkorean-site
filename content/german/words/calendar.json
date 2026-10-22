@@ -1,0 +1,84 @@
+{
+  "key": "calendar",
+  "ko": {
+    "title": "약속 잡을 때 꼭 필요한 날짜 독일어 10",
+    "hook": "‘다음 주 월요일 괜찮아?’ 이 한마디를 독일어로 못 해서 약속을 놓친 적 있나요?",
+    "intro": [
+      "독일 친구가 ‘Hast du am Wochenende Zeit?’ 하고 물었는데, Wochenende가 뭔지 몰라서 머뭇거렸어요. 병원 예약 전화에서도 날짜를 잘못 알아들어서 엉뚱한 날 간 적이 있고요.",
+      "오늘은 요일, 달, 날짜에 관한 기본 단어 10개예요. 이 10개면 약속을 잡고, 달력을 읽고, 나이도 말할 수 있어요. 특히 am, im 같은 작은 전치사도 같이 챙겨요! 📅"
+    ],
+    "words": {
+      "A1-026": {"pron": "탁", "tip": "영어 day와 같은 뿌리예요 ☀️ 매일 하는 인사 Guten Tag!에도 들어 있죠.", "bonus": "매일의 = täglich · 생일 = der Geburtstag(태어난 날)"},
+      "A1-027": {"pron": "보헤", "tip": "영어 week와 형제예요 📆 w는 ‘ㅂ’ 소리로, 보헤!", "bonus": "일주일에 두 번 = zweimal pro Woche · 다음 주 = nächste Woche"},
+      "A1-134": {"pron": "모나트", "tip": "der Mond(달)에서 왔어요 🌙 달이 한 바퀴 돌면 한 Monat!", "bonus": "매달의 = monatlich"},
+      "A2-216": {"pron": "다툼", "tip": "‘다툼’처럼 들리지만 싸움 말고 날짜예요 📝 날짜 가지고 다투지 마세요!", "warn": "연인과의 데이트는 ein Date예요. 복수 die Daten은 ‘데이터’라는 뜻도 돼요.", "bonus": "오늘 며칠이야? = Der Wievielte ist heute?"},
+      "A2-238": {"pron": "칼렌더", "tip": "영어 calendar와 거의 같아요 🗓️ 강세는 가운데 ‘렌’에!", "bonus": "12월엔 der Adventskalender를 하나씩 열어요."},
+      "A1-257": {"pron": "몬탁", "tip": "Mond(달) + Tag(날) = 달의 날 🌙 영어 Monday도 똑같은 원리예요.", "warn": "요일 앞에는 am: am Montag = 월요일에. 요일은 전부 der예요."},
+      "A1-259": {"pron": "존탁", "tip": "Sonne(해) + Tag = 해의 날 🌞 영어 Sunday랑 쌍둥이!", "bonus": "일요일마다 = sonntags (소문자에 -s)"},
+      "A1-135": {"pron": "보헨엔데", "tip": "Woche(주) + Ende(끝) = 주의 끝 🎉 마지막 단어가 das Ende라서 das!", "warn": "‘주말에’는 am Wochenende예요. in이 아니라 am!"},
+      "A1-595": {"pron": "야누아", "tip": "독일어 J는 ‘ㅇ(y)’ 소리 🚪 문의 신 야누스가 새해의 문을 열어요.", "bonus": "달 앞에는 im: im Januar · 오스트리아에선 der Jänner라고 해요."},
+      "A1-028": {"pron": "야", "tip": "영어 year와 같은 뿌리, J는 y 소리 🎂 ‘야~ 한 살 더 먹었다!’", "bonus": "새해 인사: Frohes neues Jahr!"}
+    },
+    "culture": [
+      "독일 달력은 일요일이 아니라 월요일부터 시작해요. 회사에서는 주를 번호로 부르는 일이 많아서 ‘KW 43’(Kalenderwoche, 43주차)처럼 말해요. 처음엔 헷갈리지만 금방 익숙해져요.",
+      "날짜는 ‘일.월.년’ 순서로 써요. 22.10.2026처럼요. 그리고 숫자 뒤에 점을 찍으면 서수예요. ‘der 3. Oktober’는 ‘데어 드리테 옥토버’라고 읽어요.",
+      "일요일은 대부분의 가게가 문을 닫는 조용한 날이에요. 장은 토요일까지 미리 봐 두는 게 독일 생활의 기본이에요. 🛒"
+    ],
+    "quiz": {"q": "친구가 ‘Wann hast du Zeit?’라고 물어요. 월요일에 시간이 있다면?", "o": ["Im Montag.", "Um Montag.", "Am Montag."], "a": 2, "why": "요일 앞에는 am을 써요: am Montag = 월요일에."},
+    "outro": "오늘 날짜와 요일을 독일어로 소리 내서 말해 봐요. ‘Heute ist Freitag, der 5. Mai.’처럼요. 다음 주말 계획도 하나 말해 보고요! 🗓️"
+  },
+  "en": {
+    "title": "Days, months and dates: 10 German words for making plans",
+    "hook": "‘Are you free next Monday?’ — if you can't say that in German yet, today fixes it.",
+    "intro": [
+      "A German friend asks ‘Hast du am Wochenende Zeit?’ and you freeze, because you're not sure what Wochenende is. Or you book a doctor's appointment by phone, mishear the date and turn up on the wrong day.",
+      "Today's ten words are about days, months and dates. With them you can make plans, read a calendar and tell people your age. Watch the little prepositions am and im too! 📅"
+    ],
+    "words": {
+      "A1-026": {"pron": "TAHK", "tip": "Same root as English day ☀️ You already say it in Guten Tag!", "bonus": "daily = täglich · birthday = der Geburtstag (‘birth day’)"},
+      "A1-027": {"pron": "VOKH-uh", "tip": "Week and Woche are siblings 📆 The w sounds like v.", "bonus": "twice a week = zweimal pro Woche · next week = nächste Woche"},
+      "A1-134": {"pron": "MOH-naht", "tip": "It comes from der Mond (moon) 🌙 One trip of the moon = one Monat, just like moon → month.", "bonus": "monthly = monatlich"},
+      "A2-216": {"pron": "DAH-toom", "tip": "Same Latin word as English data 📝 A date on paper is a piece of data.", "warn": "A romantic date is ein Date. The plural die Daten also means ‘data’.", "bonus": "What's the date today? = Der Wievielte ist heute?"},
+      "A2-238": {"pron": "ka-LEN-der", "tip": "Almost English calendar 🗓️ Stress the middle: ka-LEN-der.", "bonus": "In December you open a door of der Adventskalender every day."},
+      "A1-257": {"pron": "MOHN-tahk", "tip": "Mond (moon) + Tag (day) 🌙 Monday is built the same way.", "warn": "Days take am: am Montag = on Monday. All the days are der."},
+      "A1-259": {"pron": "ZON-tahk", "tip": "Sonne (sun) + Tag = sun day 🌞 Sunday's German twin.", "bonus": "every Sunday = sonntags (small s, extra -s)"},
+      "A1-135": {"pron": "VOKH-en-en-duh", "tip": "Woche (week) + Ende (end) = weekend 🎉 The last part is das Ende, so it's das.", "warn": "‘At the weekend’ is am Wochenende — am, not in!"},
+      "A1-595": {"pron": "YAH-noo-ar", "tip": "German J sounds like y 🚪 Janus, the god of doors, opens the new year.", "bonus": "Months take im: im Januar · in Austria it's der Jänner."},
+      "A1-028": {"pron": "YAR", "tip": "English year with a German J (= y) 🎂 Say ‘yar!’ like a happy pirate on New Year's Eve.", "bonus": "Happy New Year = Frohes neues Jahr!"}
+    },
+    "culture": [
+      "German calendars start the week on Monday, not Sunday. At work people often talk in week numbers, like ‘KW 43’ (Kalenderwoche, calendar week 43). It's confusing at first, but you get used to it quickly.",
+      "Dates are written day.month.year, like 22.10.2026. A full stop after a number makes it an ordinal: ‘der 3. Oktober’ is read ‘der dritte Oktober’.",
+      "Sunday is a quiet day when most shops are closed. Doing your food shopping by Saturday is a basic rule of life in Germany. 🛒"
+    ],
+    "quiz": {"q": "Your friend asks ‘Wann hast du Zeit?’ You're free on Monday. What do you say?", "o": ["Im Montag.", "Um Montag.", "Am Montag."], "a": 2, "why": "Days of the week take am: am Montag = on Monday."},
+    "outro": "Say today's day and date out loud in German, like ‘Heute ist Freitag, der 5. Mai.’ Then tell yourself one plan for next weekend! 🗓️"
+  },
+  "ja": {
+    "title": "予定を立てるときに必ず使う日付のドイツ語10",
+    "hook": "「来週の月曜、空いてる？」をドイツ語で言えなくて、チャンスを逃したことはありませんか？",
+    "intro": [
+      "ドイツ人の友だちに「Hast du am Wochenende Zeit?」と聞かれて、Wochenende がわからず固まってしまいました。病院の予約電話で日付を聞き間違えて、違う日に行ってしまったこともあります。",
+      "今日は曜日・月・日付の基本単語を10個集めました。これで約束をしたり、カレンダーを読んだり、年齢を言ったりできます。am や im といった小さな前置詞も一緒に覚えましょう！📅"
+    ],
+    "words": {
+      "A1-026": {"pron": "ターク", "tip": "英語の day と同じ語源 ☀️ あいさつの Guten Tag! にも入っていますね。", "bonus": "毎日の = täglich・誕生日 = der Geburtstag（生まれた日）"},
+      "A1-027": {"pron": "ヴォッヘ", "tip": "英語の week と兄弟 📆 w は「ヴ」の音です。", "bonus": "週に2回 = zweimal pro Woche・来週 = nächste Woche"},
+      "A1-134": {"pron": "モーナト", "tip": "der Mond（月）から来ています 🌙 月がひと巡りすると1 Monat！", "bonus": "毎月の = monatlich"},
+      "A2-216": {"pron": "ダートゥム", "tip": "英語の data と同じラテン語 📝 紙に書く日付もひとつのデータです。", "warn": "恋人とのデートは ein Date。複数形 die Daten は「データ」の意味にもなります。", "bonus": "今日は何日？= Der Wievielte ist heute?"},
+      "A2-238": {"pron": "カレンダー", "tip": "日本語のカレンダーとほぼ同じ 🗓️ ただしアクセントは真ん中の「レン」に！", "bonus": "12月には der Adventskalender の窓を毎日ひとつずつ開けます。"},
+      "A1-257": {"pron": "モーンターク", "tip": "Mond（月）+ Tag（日）= 月の日 🌙 日本語の「月曜日」と同じ発想です！", "warn": "曜日には am：am Montag = 月曜日に。曜日はすべて der です。"},
+      "A1-259": {"pron": "ゾンターク", "tip": "Sonne（太陽）+ Tag = 太陽の日 🌞 日本語の「日曜日」とそっくり！", "bonus": "毎週日曜日に = sonntags（小文字で -s）"},
+      "A1-135": {"pron": "ヴォッヘンエンデ", "tip": "Woche（週）+ Ende（終わり）= 週末 🎉 最後が das Ende なので das！", "warn": "「週末に」は am Wochenende。in ではなく am です！"},
+      "A1-595": {"pron": "ヤヌアール", "tip": "ドイツ語の J は「ヤ行」の音 🚪 門の神ヤヌスが新年の扉を開けます。", "bonus": "月には im：im Januar・オーストリアでは der Jänner と言います。"},
+      "A1-028": {"pron": "ヤール", "tip": "英語の year と同じ語源、J は y の音 🎂「ヤール！」でまたひとつ年を取りました。", "bonus": "新年のあいさつ：Frohes neues Jahr!"}
+    },
+    "culture": [
+      "ドイツのカレンダーは日曜日ではなく月曜日から始まります。職場では週を番号で呼ぶことが多く、「KW 43」（Kalenderwoche、第43週）のように言います。最初は戸惑いますが、すぐに慣れます。",
+      "日付は「日.月.年」の順で、22.10.2026 のように書きます。数字の後ろに点を打つと序数になり、「der 3. Oktober」は「デア ドリッテ オクトーバー」と読みます。",
+      "日曜日はほとんどのお店が閉まる静かな日です。買い物は土曜日までに済ませておくのが、ドイツ生活の基本です。🛒"
+    ],
+    "quiz": {"q": "友だちに「Wann hast du Zeit?」と聞かれました。月曜日が空いているなら？", "o": ["Im Montag.", "Um Montag.", "Am Montag."], "a": 2, "why": "曜日の前には am を使います：am Montag = 月曜日に。"},
+    "outro": "今日の曜日と日付を「Heute ist Freitag, der 5. Mai.」のようにドイツ語で声に出して言ってみましょう。次の週末の予定もひとつ言ってみてくださいね！🗓️"
+  }
+}

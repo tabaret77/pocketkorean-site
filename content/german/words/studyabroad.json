@@ -1,0 +1,84 @@
+{
+  "key": "studyabroad",
+  "ko": {
+    "title": "독일 유학 준비생이 먼저 알아야 할 단어 10",
+    "hook": "입학 허가서를 받는 순간부터 첫 향수병까지, 유학 생활의 단어는 생각보다 정해져 있어요.",
+    "intro": [
+      "메일함에 ‘Zulassung’이라는 단어가 보이는 순간, 심장이 쿵 했어요. 합격이다! 그런데 기쁨도 잠깐, 기숙사 신청, 장학금 서류, 비자… 읽어야 할 독일어가 산더미였죠.",
+      "오늘은 유학 준비부터 독일 생활 첫 몇 달까지 꼭 만나게 되는 단어 10개예요. 지원하고, 합격하고, 방 구하고, 향수병까지 독일어로 말할 수 있게 돼요. 유학을 꿈꾸는 분도, 이미 와 있는 분도 같이 봐요! 🌍"
+    ],
+    "words": {
+      "A1-421": {"pron": "아우스란트", "tip": "aus(밖) + Land(나라) = 나라 밖 = 해외 ✈️ 단어 자체가 출국 게이트!", "bonus": "im Ausland = 해외에서 · ins Ausland = 해외로"},
+      "A2-586": {"pron": "슈티펜디움", "tip": "‘스티펜드(급여)’를 받는 공부 = 장학금 💰 영어 stipend와 같은 뿌리예요.", "warn": "복수형이 특이해요: die Stipendien"},
+      "B2-1279": {"pron": "아우스란츠제메스터", "tip": "Ausland + s + Semester = 해외 학기 🎒 중간의 s는 이어 붙이는 접착제예요.", "bonus": "교환 학생으로 가다 = ein Auslandssemester machen"},
+      "B2-206": {"pron": "아우스타우슈", "tip": "tauschen(바꾸다)에 aus를 붙여 = 서로 주고받기 🔄 사람도 문화도 바꿔 보는 거예요.", "bonus": "교환 학생 프로그램 = der Schüleraustausch / der Studentenaustausch"},
+      "B2-1706": {"pron": "지히 베베어벤 움", "tip": "werben(구하다, 광고하다) = 나를 홍보해서 자리를 구하기 📝", "warn": "자리는 um + 4격, 회사·학교는 bei + 3격: Ich bewerbe mich bei der Uni um einen Studienplatz."},
+      "B2-1276": {"pron": "슈투디엔플라츠", "tip": "Studium(학업) + Platz(자리) = 대학에 내 자리 하나 🪑", "bonus": "‘학과 정원 제한’ = der Numerus clausus (줄여서 NC)"},
+      "B2-291": {"pron": "출라숭", "tip": "zulassen(들여보내 주다) + -ung = 입학 허가 🎉 -ung으로 끝나니 die!", "bonus": "자동차 등록증도 die Zulassung이라고 해요."},
+      "B2-1278": {"pron": "슈투덴텐본하임", "tip": "Studenten + Wohn(살다) + Heim(집) = 학생들이 사는 집 🏠 레고 세 조각!", "bonus": "보통은 줄여서 das Wohnheim이라고 해요."},
+      "B1-777": {"pron": "하임베", "tip": "Heim(집) + Weh(아픔) = 집 생각에 아픈 마음 🥲 영어 woe와 같은 뿌리예요.", "bonus": "반대는 das Fernweh = 먼 곳으로 떠나고 싶은 마음"},
+      "B2-1329": {"pron": "쿨투어쇼크", "tip": "Kultur + Schock, 거의 영어 그대로 ⚡ 관사만 der로 기억하면 끝!", "bonus": "적응하다 = sich anpassen"}
+    },
+    "culture": [
+      "독일 대학 기숙사는 대부분 Studentenwerk라는 학생 지원 기관이 운영해요. 도시에 따라 대기자가 많아서, 입학 허가를 기다리는 동안 미리 신청해 두는 사람이 많아요.",
+      "많은 공립 대학은 큰 등록금 대신 학기마다 Semesterbeitrag(학기 분담금)를 내요. 학교에 따라 여기에 대중교통 학기 승차권이 포함되기도 해요. 외국인 학생에 대한 규정은 주마다 다를 수 있으니 꼭 학교 안내를 확인하세요.",
+      "그리고 향수병은 누구에게나 와요. 많은 대학에 International Office와 버디 프로그램이 있으니, 처음 몇 주는 이런 모임에 적극적으로 나가 보는 게 큰 힘이 돼요. 💛"
+    ],
+    "quiz": {"q": "독일에 온 지 한 달, 가족 생각에 자꾸 눈물이 나요. 친구에게 뭐라고 말할까요?", "o": ["Ich habe Heimweh.", "Ich habe einen Studienplatz.", "Ich bewerbe mich um ein Stipendium."], "a": 0, "why": "Ich habe Heimweh. = 향수병이 났어. 집이 그리울 때 쓰는 말이에요."},
+    "outro": "오늘 단어로 ‘나의 유학 스토리’를 세 문장만 독일어로 말해 봐요. 언젠가 진짜 Zulassung 메일을 받는 날을 응원할게요! 🎓"
+  },
+  "en": {
+    "title": "Studying in Germany? Start with these 10 words",
+    "hook": "From your admission letter to your first wave of homesickness, study-abroad German is surprisingly predictable.",
+    "intro": [
+      "There it is in your inbox: ‘Zulassung’. Your heart jumps — you're in! Then the joy fades a little as the forms pile up: student housing, scholarship papers, visa… all in German.",
+      "Today's ten words follow you from applying to your first months in Germany. You'll be able to talk about applying, getting in, finding a room and even feeling homesick. Whether you're dreaming of going or already here, these are for you! 🌍"
+    ],
+    "words": {
+      "A1-421": {"pron": "OWS-lant", "tip": "aus (out) + Land (country) = out of the country ✈️ The word is its own departure gate.", "bonus": "im Ausland = abroad (there) · ins Ausland = (going) abroad"},
+      "A2-586": {"pron": "shti-PEN-dee-oom", "tip": "Like English stipend — money to study 💰", "warn": "Odd plural: die Stipendien"},
+      "B2-1279": {"pron": "OWS-lants-zeh-mes-ter", "tip": "Ausland + s + Semester = a semester abroad 🎒 The little s is just glue.", "bonus": "to do a semester abroad = ein Auslandssemester machen"},
+      "B2-206": {"pron": "OWS-towsh", "tip": "tauschen = to swap — you swap places, people and cultures 🔄", "bonus": "school exchange = der Schüleraustausch"},
+      "B2-1706": {"pron": "zikh beh-VAIR-ben oom", "tip": "werben = to advertise — when you apply, you advertise yourself 📝", "warn": "um + acc. for the position, bei + dat. for the place: Ich bewerbe mich bei der Uni um einen Studienplatz."},
+      "B2-1276": {"pron": "SHTOO-dee-en-plats", "tip": "Studium (studies) + Platz (place, seat) = your seat at university 🪑", "bonus": "a cap on places for a subject = der Numerus clausus (NC)"},
+      "B2-291": {"pron": "TSOO-lass-oong", "tip": "zulassen = to let in, + -ung = admission 🎉 Ends in -ung, so it's die.", "bonus": "A car registration document is also called die Zulassung."},
+      "B2-1278": {"pron": "shtoo-DEN-ten-vohn-hime", "tip": "Studenten + wohn (live) + Heim (home) = a home where students live 🏠 Three Lego bricks!", "bonus": "People usually just say das Wohnheim."},
+      "B1-777": {"pron": "HIME-vay", "tip": "Heim (home) + Weh (woe, pain) = home-woe 🥲", "bonus": "The opposite: das Fernweh = longing to be far away"},
+      "B2-1329": {"pron": "kool-TOOR-shock", "tip": "Almost English: Kultur + Schock ⚡ Just remember it's der.", "bonus": "to adapt = sich anpassen"}
+    },
+    "culture": [
+      "Most student halls in Germany are run by the local Studentenwerk, a student services organisation. In many cities there are waiting lists, so lots of students apply for a room while they're still waiting for their admission.",
+      "Many public universities charge no big tuition fee but ask for a Semesterbeitrag (semester contribution) each term, which at some universities includes a public transport ticket. Rules for international students can differ by state, so always check your university's own information.",
+      "Homesickness hits almost everyone. Many universities have an International Office and buddy programmes — going to their events in the first weeks can make a big difference. 💛"
+    ],
+    "quiz": {"q": "A month into your time in Germany, you keep tearing up when you think of your family. What do you tell a friend?", "o": ["Ich habe Heimweh.", "Ich habe einen Studienplatz.", "Ich bewerbe mich um ein Stipendium."], "a": 0, "why": "Ich habe Heimweh. = I'm homesick — what you say when you miss home."},
+    "outro": "Tell your own study-abroad story in three German sentences using today's words. Here's to the day a real Zulassung lands in your inbox! 🎓"
+  },
+  "ja": {
+    "title": "ドイツ留学の前に覚えたい単語10",
+    "hook": "入学許可からはじめてのホームシックまで、留学生活の単語は意外と決まっています。",
+    "intro": [
+      "メールボックスに「Zulassung」の文字を見つけた瞬間、胸がドキッ。合格だ！でも喜びもつかの間、寮の申し込み、奨学金の書類、ビザ…読まなければいけないドイツ語が山積みでした。",
+      "今日は留学準備からドイツでの最初の数か月までに必ず出会う単語を10個集めました。応募、合格、部屋探し、そしてホームシックまでドイツ語で話せるようになります。留学を夢見る人も、もうドイツにいる人も一緒にどうぞ！🌍"
+    ],
+    "words": {
+      "A1-421": {"pron": "アウスラント", "tip": "aus（外）+ Land（国）= 国の外 = 海外 ✈️ 単語そのものが出国ゲート！", "bonus": "im Ausland = 海外で · ins Ausland = 海外へ"},
+      "A2-586": {"pron": "シュティペンディウム", "tip": "英語の stipend（給付金）と同じルーツ = 勉強のためのお金 💰", "warn": "複数形に注意：die Stipendien"},
+      "B2-1279": {"pron": "アウスランツゼメスター", "tip": "Ausland + s + Semester = 海外での学期 🎒 真ん中の s はつなぎの接着剤です。", "bonus": "交換留学に行く = ein Auslandssemester machen"},
+      "B2-206": {"pron": "アウスタウシュ", "tip": "tauschen（取り替える）+ aus = お互いにやりとりする 🔄 人も文化も交換！", "bonus": "生徒の交換留学 = der Schüleraustausch"},
+      "B2-1706": {"pron": "ズィッヒ ベヴェルベン ウム", "tip": "werben（宣伝する）= 自分を売り込んで席を求める 📝", "warn": "ポストには um + 4格、機関には bei + 3格：Ich bewerbe mich bei der Uni um einen Studienplatz."},
+      "B2-1276": {"pron": "シュトゥーディエンプラッツ", "tip": "Studium（大学での勉強）+ Platz（席）= 大学に自分の席ひとつ 🪑", "bonus": "定員制限 = der Numerus clausus（略して NC）"},
+      "B2-291": {"pron": "ツーラッスング", "tip": "zulassen（中に入れてあげる）+ -ung = 入学許可 🎉 -ung で終わるので die！", "bonus": "車の登録証も die Zulassung と言います。"},
+      "B2-1278": {"pron": "シュトゥデンテンヴォーンハイム", "tip": "Studenten + wohn（住む）+ Heim（家）= 学生が住む家 🏠 レゴ3個！", "bonus": "ふだんは短く das Wohnheim と言います。"},
+      "B1-777": {"pron": "ハイムヴェー", "tip": "Heim（家）+ Weh（痛み）= 家を思って痛む心 🥲 英語の woe と同じルーツ。", "bonus": "反対は das Fernweh = 遠くへ行きたい気持ち"},
+      "B2-1329": {"pron": "クルトゥーアショック", "tip": "Kultur + Schock、ほぼ英語のまま ⚡ 冠詞が der なのだけ覚えれば完璧！", "bonus": "適応する = sich anpassen"}
+    },
+    "culture": [
+      "ドイツの学生寮の多くは、Studentenwerk という学生支援団体が運営しています。町によっては順番待ちが長いので、入学許可を待っている間に寮を申し込んでおく人がたくさんいます。",
+      "多くの公立大学では大きな授業料のかわりに、学期ごとに Semesterbeitrag（学期納付金）を払います。大学によっては公共交通の学期チケットが含まれていることも。留学生向けの規定は州によって違うことがあるので、必ず大学の案内を確認しましょう。",
+      "ホームシックはほとんどの人が経験します。多くの大学に International Office やバディプログラムがあるので、最初の数週間はそうした集まりに積極的に参加すると心強いですよ。💛"
+    ],
+    "quiz": {"q": "ドイツに来て1か月、家族のことを思うと涙が出てきます。友だちに何と言いますか？", "o": ["Ich habe Heimweh.", "Ich habe einen Studienplatz.", "Ich bewerbe mich um ein Stipendium."], "a": 0, "why": "Ich habe Heimweh. = ホームシックなんだ。家が恋しいときに使う表現です。"},
+    "outro": "今日の単語で「私の留学ストーリー」をドイツ語で3文だけ話してみましょう。いつか本物の Zulassung のメールが届く日を応援しています！🎓"
+  }
+}

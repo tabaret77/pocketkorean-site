@@ -1,0 +1,84 @@
+{
+  "key": "train",
+  "ko": {
+    "title": "독일 기차역에서 헤매지 않는 단어 10",
+    "hook": "독일 기차를 타 보면 알아요. 표보다 먼저 챙겨야 하는 건 안내 방송을 알아듣는 귀라는 걸요.",
+    "intro": [
+      "중앙역 전광판 앞에서 기차를 기다리는데, 갑자기 안내 방송이 나오고 사람들이 우르르 다른 승강장으로 뛰어가요. 나만 모르는 무슨 일이 생긴 걸까요?",
+      "오늘은 기차역에서 매일 보고 듣는 단어 10개를 모았어요. 이것만 알면 전광판을 읽고, 연착 방송을 알아듣고, 환승 기차를 놓쳤을 때 직원에게 물어볼 수도 있어요. 🚆"
+    ],
+    "words": {
+      "A1-033": {"pron": "반호프", "tip": "Bahn(철도) + Hof(마당) = 기차들이 모이는 마당 🏰", "bonus": "Ich verstehe nur Bahnhof. = 하나도 못 알아듣겠어요. (역 이름만 들린다는 농담)"},
+      "BL-14-01": {"pron": "축", "tip": "객차를 끌고(ziehen) 가니까 Zug 🚂", "warn": "복수는 움라우트: die Züge", "bonus": "기차를 타고 가다 = mit dem Zug fahren"},
+      "BL-14-02": {"pron": "글라이스", "tip": "기차가 미끄러지듯(glide) 달리는 길 🛤️ 전광판 숫자 옆에 늘 있어요.", "bonus": "방송 단골: Gleiswechsel = 출발 선로 변경"},
+      "A2-007": {"pron": "반슈타이크", "tip": "Bahn + steigen(오르다) = 기차에 올라타는 곳 🧍", "warn": "역 안내는 보통 Bahnsteig가 아니라 Gleis 번호로 말해요.", "bonus": "einsteigen 타다 · aussteigen 내리다 · umsteigen 갈아타다"},
+      "BL-07-08": {"pron": "파플란", "tip": "fahren(달리다) + Plan(계획) = 달리는 계획, 시간표 🗓️", "bonus": "laut Fahrplan = 시간표대로라면"},
+      "A2-008": {"pron": "페어슈패퉁", "tip": "spät(늦은)이 숨어 있어요 ⏰ 독일 기차역에서 제일 자주 듣는 단어일지도!", "warn": "haben과 함께 써요: Der Zug hat zehn Minuten Verspätung."},
+      "BL-14-04": {"pron": "안슐루스", "tip": "다음 기차에 이어 붙는(anschließen) 연결 🔗", "bonus": "den Anschluss verpassen = 환승 기차를 놓치다"},
+      "A2-010": {"pron": "안쿤프트", "tip": "an + kommen(오다)의 옛 명사 = 와서 닿음 🏁 Zukunft(미래)와 같은 짝꿍이에요.", "bonus": "도착하다 = ankommen: Wann kommt der Zug an?"},
+      "A2-009": {"pron": "압파르트", "tip": "ab(떠나) + Fahrt(운행) = 떠나는 것 🚉 전광판 왼쪽 큰 글씨!", "warn": "동사 abfahren은 분리동사: Der Zug fährt um acht ab."},
+      "BL-14-07": {"pron": "두르히자게", "tip": "스피커를 통해(durch) 말하는(sagen) 것 📢", "bonus": "S-Bahn 단골 방송: Zurückbleiben, bitte! = 물러나 주세요(문 닫혀요)"}
+    },
+    "culture": [
+      "독일 기차역에는 개찰구가 없는 곳이 대부분이에요. 대신 기차 안에서 검표원이 표를 확인하니까, 타기 전에 꼭 유효한 표를 갖고 있어야 해요. 지역에 따라 종이표는 개시 도장(entwerten)을 찍어야 하는 경우도 있어요.",
+      "장거리 기차 승강장에는 A, B, C 같은 구역 표시가 있어요. 내 칸이 어느 구역에 서는지 안내판(Wagenreihung)에서 미리 보면 기차가 들어왔을 때 덜 뛰어도 돼요.",
+      "연착은 솔직히 흔한 편이에요. 많이 늦어지면 요금 일부를 돌려받을 수 있는 경우가 있으니(Fahrgastrechte), 영수증과 표는 버리지 말고 챙겨 두세요. 🎫"
+    ],
+    "quiz": {"q": "기차가 늦어서 갈아탈 기차를 놓쳤어요. 역 안내 창구에서 뭐라고 말할까요?", "o": ["Ich habe meine Ankunft verpasst.", "Ich habe den Fahrplan verpasst.", "Ich habe meinen Anschluss verpasst."], "a": 2, "why": "der Anschluss = 환승 연결편이에요. ‘연결편을 놓쳤어요’가 딱 맞는 말이죠."},
+    "outro": "다음에 역에 가면 전광판의 Abfahrt, Gleis, Verspätung을 소리 내서 읽어 보세요. 방송이 조금씩 들리기 시작할 거예요! 🛤️"
+  },
+  "en": {
+    "title": "All aboard: 10 German words for the train station",
+    "hook": "Anyone who takes German trains learns this fast: you need to understand the announcements as much as you need a ticket.",
+    "intro": [
+      "You're standing under the departures board at the main station when an announcement crackles out and everyone suddenly rushes to another platform. What just happened, and why are you the only one still standing there?",
+      "Today's ten words are the ones you see and hear at every station. With them you can read the board, follow delay announcements and ask for help when you miss your connection. 🚆"
+    ],
+    "words": {
+      "A1-033": {"pron": "BAHN-hohf", "tip": "Bahn (railway) + Hof (yard) = the yard where the trains gather 🏰", "bonus": "Ich verstehe nur Bahnhof. = It's all Greek to me."},
+      "BL-14-01": {"pron": "TSOOK", "tip": "It comes from ziehen (to pull) — the engine tugs the carriages 🚂", "warn": "The plural has an umlaut: die Züge", "bonus": "to go by train = mit dem Zug fahren"},
+      "BL-14-02": {"pron": "GLICE", "tip": "Sounds like glides — the track the train glides along 🛤️", "bonus": "A word you'll hear in announcements: Gleiswechsel = change of platform"},
+      "A2-007": {"pron": "BAHN-shtike", "tip": "Bahn + steigen (to climb) = where you climb onto the train 🧍", "warn": "Announcements and boards usually give the Gleis number, not the Bahnsteig.", "bonus": "einsteigen = get on · aussteigen = get off · umsteigen = change trains"},
+      "BL-07-08": {"pron": "FAHR-plahn", "tip": "fahren (to travel) + Plan = the travel plan, aka the timetable 🗓️", "bonus": "laut Fahrplan = according to the timetable"},
+      "A2-008": {"pron": "fair-SHPAY-toong", "tip": "spät (late) is hiding inside ⏰ Possibly the most-heard word at any German station.", "warn": "It goes with haben: Der Zug hat zehn Minuten Verspätung."},
+      "BL-14-04": {"pron": "AHN-shlooss", "tip": "From anschließen (to connect) — the train that links up with yours 🔗", "bonus": "den Anschluss verpassen = to miss your connection"},
+      "A2-010": {"pron": "AHN-koonft", "tip": "An old noun from ankommen (to arrive) 🏁 Same pattern as Zukunft (future).", "bonus": "to arrive = ankommen: Wann kommt der Zug an?"},
+      "A2-009": {"pron": "AP-fahrt", "tip": "ab (off) + Fahrt (journey) = heading off 🚉", "warn": "The verb abfahren is separable: Der Zug fährt um acht ab."},
+      "BL-14-07": {"pron": "DOORKH-zah-guh", "tip": "durch (through) + sagen (to say) = saying it through a loudspeaker 📢", "bonus": "A classic on the S-Bahn: Zurückbleiben, bitte! = Stand back, please (doors closing)."}
+    },
+    "culture": [
+      "Most German stations have no ticket barriers. Instead, inspectors check tickets on the train, so make sure you have a valid one before you get on. In some regions, paper tickets have to be stamped (entwerten) before you travel.",
+      "On long-distance platforms you'll see section letters like A, B and C. Check the coach layout board (Wagenreihung) to find where your carriage will stop, and you'll do much less running when the train pulls in.",
+      "Let's be honest: delays happen. If your train is very late you can often claim part of the fare back (Fahrgastrechte), so hang on to your ticket. 🎫"
+    ],
+    "quiz": {"q": "Your train was late and you missed the next train you were meant to catch. What do you tell the staff at the travel centre?", "o": ["Ich habe meine Ankunft verpasst.", "Ich habe den Fahrplan verpasst.", "Ich habe meinen Anschluss verpasst."], "a": 2, "why": "der Anschluss is your connecting train, so ‘I missed my connection’ is exactly right."},
+    "outro": "Next time you're at a station, read Abfahrt, Gleis and Verspätung off the board out loud. Bit by bit, the announcements will start to make sense! 🛤️"
+  },
+  "ja": {
+    "title": "ドイツの駅で迷わないための単語10",
+    "hook": "ドイツで電車に乗るとすぐに分かります。切符と同じくらい大事なのは、アナウンスを聞き取る耳だということが。",
+    "intro": [
+      "中央駅の発車案内板の前で待っていたら、突然アナウンスが流れて、みんなが一斉に別のホームへ走り出しました。いったい何が起きたの？",
+      "今日は駅で毎日目にする・耳にする単語を10個集めました。これで案内板が読めて、遅延のアナウンスが聞き取れて、乗り継ぎを逃したときに駅員さんに相談することもできます。🚆"
+    ],
+    "words": {
+      "A1-033": {"pron": "バーンホーフ", "tip": "Bahn（鉄道）+ Hof（中庭）= 列車が集まる広場 🏰", "bonus": "Ich verstehe nur Bahnhof. = ちんぷんかんぷんです。"},
+      "BL-14-01": {"pron": "ツーク", "tip": "客車を引っぱる（ziehen）から Zug 🚂", "warn": "複数形はウムラウト付き：die Züge", "bonus": "電車で行く = mit dem Zug fahren"},
+      "BL-14-02": {"pron": "グライス", "tip": "列車がすべる（glide）ように走る道 🛤️ 案内板の数字の横にいつもあります。", "bonus": "アナウンスの定番：Gleiswechsel = 発車番線の変更"},
+      "A2-007": {"pron": "バーンシュタイク", "tip": "Bahn + steigen（乗る、登る）= 列車に乗り込む場所 🧍", "warn": "駅の案内はふつう Bahnsteig ではなく Gleis の番号で言います。", "bonus": "einsteigen 乗る · aussteigen 降りる · umsteigen 乗り換える"},
+      "BL-07-08": {"pron": "ファールプラーン", "tip": "fahren（走る）+ Plan（計画）= 走る計画、つまり時刻表 🗓️", "bonus": "laut Fahrplan = 時刻表どおりなら"},
+      "A2-008": {"pron": "フェアシュペートゥング", "tip": "spät（遅い）が隠れています ⏰ ドイツの駅でいちばんよく聞く単語かも！", "warn": "haben と一緒に使います：Der Zug hat zehn Minuten Verspätung."},
+      "BL-14-04": {"pron": "アンシュルス", "tip": "次の列車につながる（anschließen）便 🔗", "bonus": "den Anschluss verpassen = 乗り継ぎを逃す"},
+      "A2-010": {"pron": "アンクンフト", "tip": "ankommen（到着する）の古い名詞形 🏁 Zukunft（未来）と同じ形です。", "bonus": "到着する = ankommen：Wann kommt der Zug an?"},
+      "A2-009": {"pron": "アップファールト", "tip": "ab（離れて）+ Fahrt（走行）= 出発 🚉 案内板の大きな見出し！", "warn": "動詞 abfahren は分離動詞：Der Zug fährt um acht ab."},
+      "BL-14-07": {"pron": "ドゥルヒザーゲ", "tip": "スピーカーを通して（durch）言う（sagen）こと 📢", "bonus": "Sバーンの定番：Zurückbleiben, bitte! = 下がってください（ドアが閉まります）"}
+    },
+    "culture": [
+      "ドイツの駅には、ほとんどの場合改札がありません。そのかわり車内で検札があるので、乗る前に有効な切符を持っていることが大切です。地域によっては、紙の切符に打刻（entwerten）が必要なこともあります。",
+      "長距離列車のホームには A、B、C などの区画表示があります。自分の車両がどこに止まるかを編成表（Wagenreihung）で先に確認しておくと、列車が来てから走らずにすみます。",
+      "正直に言うと、遅延はよくあります。大幅に遅れた場合は運賃の一部が戻ってくることもある（Fahrgastrechte）ので、切符は捨てずに取っておきましょう。🎫"
+    ],
+    "quiz": {"q": "電車が遅れて、乗り継ぐ予定の列車に乗れませんでした。駅の窓口で何と言いますか？", "o": ["Ich habe meine Ankunft verpasst.", "Ich habe den Fahrplan verpasst.", "Ich habe meinen Anschluss verpasst."], "a": 2, "why": "der Anschluss は乗り継ぎの便のことなので、「乗り継ぎを逃しました」がぴったりです。"},
+    "outro": "次に駅へ行ったら、案内板の Abfahrt、Gleis、Verspätung を声に出して読んでみましょう。アナウンスも少しずつ聞き取れるようになりますよ！🛤️"
+  }
+}

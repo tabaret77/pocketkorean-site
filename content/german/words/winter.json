@@ -1,0 +1,84 @@
+{
+  "key": "winter",
+  "ko": {
+    "title": "눈 오는 날 슬로프로! 겨울 스포츠 독일어 10",
+    "hook": "독일 사람들에게 겨울은 춥기만 한 계절이 아니라, 알프스로 떠나는 계절이에요.",
+    "intro": [
+      "창밖에 함박눈이 내리는 아침, 독일 동료가 묻네요. „Fährst du dieses Jahr Ski?“ 스키장 이야기로 다들 신이 났는데, 리프트며 슬로프며 단어를 몰라서 고개만 끄덕였어요.",
+      "오늘은 겨울 스포츠에 꼭 필요한 단어 10개를 모았어요. 스키, 썰매, 스케이트부터 빙판과 눈사태 주의까지, 이 10개면 겨울 계획도 세우고 안전하게 즐길 수 있어요. ⛷️"
+    ],
+    "words": {
+      "A1-139": {"pron": "슈네", "tip": "영어 snow와 같은 뿌리 ❄️ ‘슈~네’ 하고 눈이 사르르 내려요.", "warn": "복수 없이 써요. ‘눈이 많이 와요’도 viel Schnee."},
+      "A2-336": {"pron": "슈나이엔", "tip": "der Schnee의 동사형 🌨️ 주어는 언제나 es: Es schneit!", "bonus": "비가 오다는 regnen: Es regnet."},
+      "A2-576": {"pron": "쉬", "tip": "노르웨이어로 ‘나무 조각’ 🎿 철자는 Ski인데 소리는 ‘쉬’!", "bonus": "스키 타다 = Ski fahren", "warn": "복수는 die Ski 또는 die Skier 둘 다 써요."},
+      "B2-2771": {"pron": "피스테", "tip": "프랑스어 piste(길, 트랙)에서 왔어요 🏔️ 파랑·빨강·검정으로 난이도가 나뉘어요!", "bonus": "blau = 초급, rot = 중급, schwarz = 상급"},
+      "B2-2770": {"pron": "쉬리프트", "tip": "Ski + Lift, 그대로 붙인 단어 🚡 영어 lift랑 같아요!", "bonus": "의자식 리프트는 der Sessellift"},
+      "B2-2772": {"pron": "슐리텐", "tip": "영어 sled, slide와 친척 🛷 미끄러져 내려가는 게 Schlitten!", "bonus": "썰매 타다 = Schlitten fahren 또는 rodeln"},
+      "B2-2773": {"pron": "슐리트슈", "tip": "Schlitten(썰매) + Schuh(신발) = 미끄러지는 신발 ⛸️", "bonus": "스케이트 타다 = Schlittschuh laufen"},
+      "B2-2774": {"pron": "아이스반", "tip": "Eis(얼음) + Bahn(길) 🧊 아이스크림 말고 얼음판이에요!"},
+      "B2-799": {"pron": "글라트아이스", "tip": "glatt(매끈한) + Eis(얼음) = 미끄러운 빙판 ⚠️ 보이지 않아서 더 위험해요!", "bonus": "jemanden aufs Glatteis führen = 누구를 함정에 빠뜨리다"},
+      "B2-795": {"pron": "라비네", "tip": "‘라~비네’ 하고 산에서 눈이 와르르 🏔️ 라틴어 ‘미끄러지다’에서 왔대요.", "bonus": "die Lawinengefahr = 눈사태 위험"}
+    },
+    "culture": [
+      "독일 사람들은 스키를 타러 남쪽 바이에른의 알프스나 오스트리아, 스위스로 많이 가요. 학교 겨울방학 날짜가 주마다 달라서, 방학이 겹치는 주에는 스키장이 특히 붐벼요.",
+      "눈이 많이 오면 동네 언덕은 금세 썰매장이 돼요. 아이들뿐 아니라 어른들도 Schlitten을 끌고 나가요. 겨울 시즌에는 크리스마스 마켓 옆에 임시 아이스링크가 생기는 도시도 많아요.",
+      "눈이 오면 집 앞 보도를 치우는 게 집주인이나 세입자의 몫인 경우가 많아요. 도시나 임대 계약에 따라 다르니 이웃이나 관리인에게 물어보는 게 좋아요. 아침 일찍 들리는 삽 소리가 독일 겨울의 소리예요! ❄️"
+    ],
+    "quiz": {"q": "스키장에 처음 가는 친구에게 초보자 슬로프를 추천하려고 해요. 뭐라고 할까요?", "o": ["Die blaue Piste ist ideal für Anfänger.", "Wegen Glatteis gab es viele Unfälle.", "Die Kinder fahren mit dem Schlitten."], "a": 0, "why": "파란 슬로프(blaue Piste)가 초급이라서 ‘파란 슬로프가 초보자에게 딱이야’라는 뜻이에요."},
+    "outro": "창밖을 보고 오늘 날씨를 독일어로 말해 봐요. Es schneit? 아니면 아직은 Kein Schnee? ⛄"
+  },
+  "en": {
+    "title": "Hit the slopes: 10 German words for winter sports",
+    "hook": "For a lot of Germans, winter isn't just cold — it's the season for heading to the Alps.",
+    "intro": [
+      "Big snowflakes are falling outside, and a German colleague asks: „Fährst du dieses Jahr Ski?“ Suddenly everyone is talking about lifts and slopes, and all you can do is nod along.",
+      "Today's ten words are the ones you need for winter sports. Skiing, sledging, skating, plus black ice and avalanche warnings — with these you can plan your winter and stay safe while you enjoy it. ⛷️"
+    ],
+    "words": {
+      "A1-139": {"pron": "SHNAY", "tip": "Same root as snow ❄️ Say it slowly and let it drift down: SHNAY.", "warn": "No plural. ‘Lots of snow’ is just viel Schnee."},
+      "A2-336": {"pron": "SHNY-en", "tip": "The verb from der Schnee 🌨️ The subject is always es: Es schneit!", "bonus": "to rain = regnen: Es regnet."},
+      "A2-576": {"pron": "SHEE", "tip": "Norwegian for ‘a piece of wood’ 🎿 Spelled Ski, sounds like ‘shee’!", "bonus": "to ski = Ski fahren", "warn": "Plural: die Ski or die Skier — both are used."},
+      "B2-2771": {"pron": "PISS-tuh", "tip": "From French piste, a track 🏔️ Colour-coded by difficulty!", "bonus": "blau = easy, rot = intermediate, schwarz = difficult"},
+      "B2-2770": {"pron": "SHEE-lift", "tip": "Ski + Lift, simply glued together 🚡 Same lift as in English.", "bonus": "A chairlift is der Sessellift."},
+      "B2-2772": {"pron": "SHLIT-en", "tip": "A cousin of sled and slide 🛷 You slide down on a Schlitten.", "bonus": "to go sledging = Schlitten fahren or rodeln"},
+      "B2-2773": {"pron": "SHLIT-shoo", "tip": "Looks like Schlitten (sledge) + Schuh (shoe) = a gliding shoe ⛸️", "bonus": "to go ice skating = Schlittschuh laufen"},
+      "B2-2774": {"pron": "ICE-bahn", "tip": "Eis (ice) + Bahn (track) 🧊 Not ice cream — a rink!"},
+      "B2-799": {"pron": "GLAT-ice", "tip": "glatt (slippery) + Eis (ice) ⚠️ You can't see it, which makes it dangerous.", "bonus": "jemanden aufs Glatteis führen = to trip someone up"},
+      "B2-795": {"pron": "la-VEE-nuh", "tip": "la-VEE-nuh — hear the snow rushing down the mountain 🏔️ Possibly from Latin for ‘slipping’.", "bonus": "die Lawinengefahr = avalanche risk"}
+    },
+    "culture": [
+      "Many Germans go skiing in the Bavarian Alps or across the border in Austria and Switzerland. School winter holidays differ from state to state, so resorts get especially busy when several states are off at once.",
+      "After a good snowfall, every local hill turns into a sledging run, and adults join in just as happily as kids. In winter, many towns also set up a temporary ice rink near the Christmas market.",
+      "When it snows, clearing the pavement outside a building is often the job of the owner or tenants. It depends on the town and your rental contract, so ask a neighbour or the caretaker. The scrape of shovels early in the morning is the sound of a German winter! ❄️"
+    ],
+    "quiz": {"q": "A friend is going skiing for the first time. How do you recommend the beginners' slope?", "o": ["Die blaue Piste ist ideal für Anfänger.", "Wegen Glatteis gab es viele Unfälle.", "Die Kinder fahren mit dem Schlitten."], "a": 0, "why": "Blue slopes (blaue Piste) are the easy ones, so this says ‘The blue slope is ideal for beginners’."},
+    "outro": "Look out of the window and describe today's weather in German. Es schneit? Or still kein Schnee? ⛄"
+  },
+  "ja": {
+    "title": "雪の日はゲレンデへ！ウィンタースポーツのドイツ語10",
+    "hook": "ドイツの人にとって冬は寒いだけの季節ではなく、アルプスへ出かける季節です。",
+    "intro": [
+      "窓の外にぼたん雪が降る朝、ドイツ人の同僚が「Fährst du dieses Jahr Ski?」と聞いてきました。みんなスキーの話で盛り上がっているのに、リフトやゲレンデの単語がわからず、うなずくだけでした。",
+      "今日はウィンタースポーツに欠かせない単語を10個集めました。スキー、そり、スケートから、路面凍結や雪崩の注意まで。この10個があれば冬の計画も立てられて、安全に楽しめます。⛷️"
+    ],
+    "words": {
+      "A1-139": {"pron": "シュネー", "tip": "英語の snow と同じ語源 ❄️「シュネー」と雪がふんわり舞い降ります。", "warn": "複数形はありません。「雪がたくさん」も viel Schnee です。"},
+      "A2-336": {"pron": "シュナイエン", "tip": "der Schnee の動詞形 🌨️ 主語はいつも es：Es schneit!", "bonus": "雨が降るは regnen：Es regnet."},
+      "A2-576": {"pron": "シー", "tip": "ノルウェー語で「木の板」🎿 つづりは Ski、発音は「シー」！", "bonus": "スキーをする = Ski fahren", "warn": "複数形は die Ski と die Skier の両方が使われます。"},
+      "B2-2771": {"pron": "ピステ", "tip": "フランス語 piste（コース、道）から 🏔️ 青・赤・黒で難易度が分かれます！", "bonus": "blau = 初級、rot = 中級、schwarz = 上級"},
+      "B2-2770": {"pron": "シーリフト", "tip": "Ski + Lift をそのままくっつけた言葉 🚡 英語の lift と同じ！", "bonus": "いす式のリフトは der Sessellift"},
+      "B2-2772": {"pron": "シュリッテン", "tip": "英語の sled、slide の親戚 🛷 すべり降りるのが Schlitten！", "bonus": "そり遊びをする = Schlitten fahren または rodeln"},
+      "B2-2773": {"pron": "シュリットシュー", "tip": "Schlitten（そり）+ Schuh（靴）= すべる靴 ⛸️", "bonus": "スケートをする = Schlittschuh laufen"},
+      "B2-2774": {"pron": "アイスバーン", "tip": "Eis（氷）+ Bahn（道）🧊 日本語の「アイスバーン」はここから！でもドイツ語ではスケートリンクです。", "warn": "凍った道路は die Eisbahn ではなく das Glatteis と言います。"},
+      "B2-799": {"pron": "グラットアイス", "tip": "glatt（つるつるの）+ Eis（氷）= 路面凍結 ⚠️ 見えないからこそ危険！", "bonus": "jemanden aufs Glatteis führen = 人をわなにかける"},
+      "B2-795": {"pron": "ラヴィーネ", "tip": "「ラヴィーネ」と山から雪がドドドッ 🏔️ ラテン語の「すべること」から来たとも。", "bonus": "die Lawinengefahr = 雪崩の危険"}
+    },
+    "culture": [
+      "ドイツの人はスキーをしに、南のバイエルン・アルプスや、オーストリア、スイスへよく出かけます。学校の冬休みの時期は州ごとに違うので、休みが重なる時期はスキー場が特に混みます。",
+      "雪がたくさん降ると、近所の丘はすぐにそり遊びの場所に。子どもだけでなく大人も Schlitten を引いて出かけます。冬のシーズンには、クリスマスマーケットの横に期間限定のスケートリンクができる町も多いです。",
+      "雪が降ったら、建物の前の歩道を雪かきするのは家主や住人の役目であることが多いです。町や賃貸契約によって違うので、近所の人や管理人に聞いてみましょう。朝早く聞こえるシャベルの音は、ドイツの冬の音です！❄️"
+    ],
+    "quiz": {"q": "初めてスキーに行く友だちに、初心者向けのコースをすすめたいです。何と言いますか？", "o": ["Die blaue Piste ist ideal für Anfänger.", "Wegen Glatteis gab es viele Unfälle.", "Die Kinder fahren mit dem Schlitten."], "a": 0, "why": "青いコース（blaue Piste）が初級なので、「青いコースは初心者にぴったり」という意味です。"},
+    "outro": "窓の外を見て、今日の天気をドイツ語で言ってみましょう。Es schneit？それともまだ kein Schnee？⛄"
+  }
+}

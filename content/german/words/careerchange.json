@@ -1,0 +1,84 @@
+{
+  "key": "careerchange",
+  "ko": {
+    "title": "퇴사부터 새 출발까지, 독일어 10단어",
+    "hook": "‘저 그만둘게요’를 독일어로 말할 날, 생각보다 빨리 올 수도 있어요.",
+    "intro": [
+      "회사 동료가 점심시간에 조용히 말했어요. \"Ich habe gekündigt.\" 축하해야 하나, 위로해야 하나? 알고 보니 더 좋은 회사로 이직한다는 얘기였어요.",
+      "오늘은 퇴사, 해고, 이직에 관한 단어 10개를 모았어요. 이 단어들이면 계약서의 퇴사 조항을 읽고, 동료의 소식을 이해하고, 내 새 출발도 독일어로 이야기할 수 있어요. 🚪"
+    ],
+    "words": {
+      "A2-068": {"pron": "퀸디겐", "tip": "그만둘 때도, 잘릴 때도 kündigen 📮 핸드폰 계약 해지도 이 단어!", "warn": "해고당했을 땐 Mir wurde gekündigt. 처럼 수동으로 말해요."},
+      "B1-035": {"pron": "퀸디궁", "tip": "kündigen + -ung = 사직서·해고 통보 ✉️ -ung이니까 die!", "bonus": "die Kündigung einreichen = 사직서를 내다"},
+      "B2-038": {"pron": "퀸디궁스프리스트", "tip": "Kündigung + s + Frist(기한) = 그만두기 전 기다리는 기간 ⏳", "bonus": "Frist는 다른 데서도 많이 써요: die Frist verpassen = 기한을 놓치다"},
+      "A2-348": {"pron": "벡셀른", "tip": "뭐든 ‘바꾸는’ 만능 동사 🔄 돈도, 직장도, 기저귀도!", "bonus": "이직하다 = die Stelle wechseln / den Job wechseln"},
+      "B1-305": {"pron": "엔틀라센", "tip": "ent-(떼어) + lassen(놓다) = 회사에서 놓아 보내다 👋 병원에서 퇴원시킬 때도 써요.", "warn": "불규칙: entlässt – hat entlassen (과거분사에 ge- 없음)"},
+      "B1-2364": {"pron": "라우스베르펜", "tip": "raus(밖으로) + werfen(던지다) = 문밖으로 휙 🫠 아주 구어적인 ‘잘리다’", "warn": "분리동사·불규칙: Er wirft ihn raus. / hat rausgeworfen"},
+      "B2-410": {"pron": "아르바이츠초이크니스", "tip": "Arbeit(일) + Zeugnis(성적표) = 회사가 써 주는 성적표 📄", "bonus": "최고 평가 표현: stets zu unserer vollsten Zufriedenheit"},
+      "B2-434": {"pron": "압핀둥", "tip": "abfinden = 돈으로 ‘정리’해 주다 💰 -ung이니까 die!", "bonus": "eine Abfindung bekommen = 퇴직 보상금을 받다"},
+      "B1-358": {"pron": "아르바이츠로스", "tip": "Arbeit + -los(없는) = 일이 없는 😶 -los는 영어 -less!", "bonus": "명사: die Arbeitslosigkeit = 실업"},
+      "B2-2196": {"pron": "노이안팡", "tip": "neu(새) + Anfang(시작) = 새 출발 🌱 퇴사는 끝이 아니라 Neuanfang!", "warn": "복수는 움라우트: die Neuanfänge"}
+    },
+    "culture": [
+      "독일에서 퇴사할 때는 보통 서명한 종이 문서로 Kündigung을 내요. 이메일이나 문자로는 효력이 없는 경우가 많으니 조심해요. Kündigungsfrist는 계약서와 근무 기간에 따라 달라요.",
+      "회사를 떠날 때는 Arbeitszeugnis를 받을 수 있어요. 그런데 이 증명서에는 독특한 ‘암호’가 있어요. 겉으로는 다 좋은 말 같아도, 표현 하나로 평가 등급이 달라지거든요.",
+      "그리고 퇴사나 해고가 정해지면, 최대한 빨리 Agentur für Arbeit(고용청)에 연락하는 게 좋아요. 새 출발을 위한 첫걸음이에요. 🌱"
+    ],
+    "quiz": {"q": "동료가 내일부터 다른 회사에서 일한대요. 이직을 뭐라고 표현할까요?", "o": ["Er ist arbeitslos.", "Er hat ihn rausgeworfen.", "Er wechselt die Stelle."], "a": 2, "why": "die Stelle wechseln = 직장을 옮기다, 즉 이직이에요."},
+    "outro": "오늘은 \"Ich wechsle die Stelle.\" 와 \"Ich habe gekündigt.\" 를 소리 내서 말해 봐요. 언젠가 올 여러분의 Neuanfang을 응원해요! 🚀"
+  },
+  "en": {
+    "title": "Handing in your notice: 10 German words for a fresh start",
+    "hook": "The day you say ‘I quit’ in German might come sooner than you think.",
+    "intro": [
+      "Over lunch, a colleague quietly says, \"Ich habe gekündigt.\" Should you congratulate her or comfort her? Turns out she's moving to a better job.",
+      "Today's ten words are about quitting, being let go and changing jobs. With them you can read the notice clause in your contract, follow office news and talk about your own fresh start in German. 🚪"
+    ],
+    "words": {
+      "A2-068": {"pron": "KÜN-di-gen", "tip": "Quit or get fired — both are kündigen 📮 Cancelling a phone contract too!", "warn": "If you're the one let go: Mir wurde gekündigt. (passive)"},
+      "B1-035": {"pron": "KÜN-di-goong", "tip": "kündigen + -ung = resignation or dismissal letter ✉️ -ung means die.", "bonus": "die Kündigung einreichen = to hand in your notice"},
+      "B2-038": {"pron": "KÜN-di-goongs-frist", "tip": "Kündigung + s + Frist (deadline) = the time you wait before leaving ⏳", "bonus": "Frist is everywhere: die Frist verpassen = to miss the deadline"},
+      "A2-348": {"pron": "VEK-seln", "tip": "The all-purpose ‘change’ verb 🔄 Money, jobs, nappies!", "bonus": "to change jobs = die Stelle wechseln / den Job wechseln"},
+      "B1-305": {"pron": "ent-LASS-en", "tip": "ent- (away) + lassen (let) = let go of someone 👋 Also for leaving hospital.", "warn": "Irregular: entlässt – hat entlassen (no ge- in the participle)"},
+      "B1-2364": {"pron": "ROWS-vair-fen", "tip": "raus (out) + werfen (throw) = thrown out the door 🫠 Very casual ‘to fire’.", "warn": "Separable and irregular: Er wirft ihn raus. · hat rausgeworfen"},
+      "B2-410": {"pron": "AR-bites-tsoyk-nis", "tip": "Arbeit (work) + Zeugnis (report card) = your work report card 📄", "bonus": "Top-grade phrase: stets zu unserer vollsten Zufriedenheit"},
+      "B2-434": {"pron": "AP-fin-doong", "tip": "abfinden = to pay someone off 💰 -ung, so die.", "bonus": "eine Abfindung bekommen = to get a severance payment"},
+      "B1-358": {"pron": "AR-bites-lohs", "tip": "Arbeit + -los = work-less 😶 German -los is English -less.", "bonus": "Noun: die Arbeitslosigkeit = unemployment"},
+      "B2-2196": {"pron": "NOY-an-fang", "tip": "neu (new) + Anfang (start) = fresh start 🌱 Leaving isn't the end — it's a Neuanfang!", "warn": "Plural with umlaut: die Neuanfänge"}
+    },
+    "culture": [
+      "In Germany a resignation is usually handed in on paper with your signature. An email or text message often isn't legally valid, so be careful. The Kündigungsfrist depends on your contract and how long you've worked there.",
+      "When you leave, you can ask for an Arbeitszeugnis. These references have their own ‘code’: everything sounds positive, but small differences in wording signal very different grades.",
+      "And once you know you're leaving or being let go, it's best to contact the Agentur für Arbeit (employment agency) as early as you can. It's the first step towards your fresh start. 🌱"
+    ],
+    "quiz": {"q": "Your colleague starts at another company tomorrow. How do you describe that?", "o": ["Er ist arbeitslos.", "Er hat ihn rausgeworfen.", "Er wechselt die Stelle."], "a": 2, "why": "die Stelle wechseln means to change jobs."},
+    "outro": "Say \"Ich wechsle die Stelle.\" and \"Ich habe gekündigt.\" out loud today. Here's to your Neuanfang, whenever it comes! 🚀"
+  },
+  "ja": {
+    "title": "退職から新しいスタートまで、ドイツ語10単語",
+    "hook": "「辞めます」をドイツ語で言う日は、思ったより早く来るかもしれません。",
+    "intro": [
+      "ランチ中、同僚がそっと言いました。「Ich habe gekündigt.」お祝いするべき？なぐさめるべき？聞いてみたら、もっといい会社に転職するという話でした。",
+      "今日は退職・解雇・転職の単語を10個集めました。これで契約書の退職条項が読めて、同僚の話もわかり、自分の新しいスタートもドイツ語で話せます。🚪"
+    ],
+    "words": {
+      "A2-068": {"pron": "キュンディゲン", "tip": "辞めるときもクビのときも kündigen 📮 スマホの解約もこの単語！", "warn": "解雇されたときは Mir wurde gekündigt. と受け身で言います。"},
+      "B1-035": {"pron": "キュンディグング", "tip": "kündigen + -ung = 退職届・解雇通知 ✉️ -ung なので die！", "bonus": "die Kündigung einreichen = 退職届を出す"},
+      "B2-038": {"pron": "キュンディグングスフリスト", "tip": "Kündigung + s + Frist（期限）= 辞めるまで待つ期間 ⏳", "bonus": "Frist はよく使います：die Frist verpassen = 期限を逃す"},
+      "A2-348": {"pron": "ヴェクセルン", "tip": "なんでも「替える」万能動詞 🔄 お金も、仕事も、おむつも！", "bonus": "転職する = die Stelle wechseln / den Job wechseln"},
+      "B1-305": {"pron": "エントラッセン", "tip": "ent-（離して）+ lassen（放す）= 会社から放す 👋 退院させるときにも使います。", "warn": "不規則：entlässt – hat entlassen（過去分詞に ge- なし）"},
+      "B1-2364": {"pron": "ラウスヴェルフェン", "tip": "raus（外へ）+ werfen（投げる）= ドアの外へポイッ 🫠 かなりくだけた「クビにする」", "warn": "分離動詞・不規則：Er wirft ihn raus. / hat rausgeworfen"},
+      "B2-410": {"pron": "アルバイツツォイクニス", "tip": "Arbeit（仕事）+ Zeugnis（成績表）= 会社が書く成績表 📄", "bonus": "最高評価の表現：stets zu unserer vollsten Zufriedenheit"},
+      "B2-434": {"pron": "アップフィンドゥング", "tip": "abfinden = お金で「片をつける」💰 -ung なので die！", "bonus": "eine Abfindung bekommen = 退職金（補償金）を受け取る"},
+      "B1-358": {"pron": "アルバイツロース", "tip": "Arbeit + -los（〜のない）= 仕事のない 😶 -los は英語の -less！", "bonus": "名詞：die Arbeitslosigkeit = 失業"},
+      "B2-2196": {"pron": "ノイアンファング", "tip": "neu（新しい）+ Anfang（始まり）= 新しいスタート 🌱 退職は終わりじゃなく Neuanfang！", "warn": "複数形はウムラウト：die Neuanfänge"}
+    },
+    "culture": [
+      "ドイツで退職するときは、ふつう署名入りの紙で Kündigung を出します。メールやメッセージでは法的に無効なことが多いので注意しましょう。Kündigungsfrist は契約や勤続年数によって違います。",
+      "退職のときには Arbeitszeugnis を書いてもらえます。この証明書には独特の「暗号」があり、どれも良いことを書いているようで、言い回しひとつで評価が大きく変わります。",
+      "そして退職や解雇が決まったら、できるだけ早く Agentur für Arbeit（雇用エージェンシー）に連絡するのがおすすめです。新しいスタートへの第一歩です。🌱"
+    ],
+    "quiz": {"q": "同僚が明日から別の会社で働きます。転職を何と表現しますか？", "o": ["Er ist arbeitslos.", "Er hat ihn rausgeworfen.", "Er wechselt die Stelle."], "a": 2, "why": "die Stelle wechseln =「職場を替える」、つまり転職です。"},
+    "outro": "今日は「Ich wechsle die Stelle.」と「Ich habe gekündigt.」を声に出して言ってみましょう。いつか来るみなさんの Neuanfang を応援しています！🚀"
+  }
+}

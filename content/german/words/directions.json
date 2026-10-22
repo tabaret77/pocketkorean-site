@@ -1,0 +1,84 @@
+{
+  "key": "directions",
+  "ko": {
+    "title": "길을 잃어도 괜찮아, 길 묻기 독일어 10",
+    "hook": "휴대폰 배터리가 0%가 되는 순간, 진짜 필요한 건 이 단어들이에요.",
+    "intro": [
+      "구시가지 골목을 구경하다 보니 어느새 지도 앱이 꺼져 있어요. 지나가는 할머니께 길을 물었더니 친절하게 설명해 주시는데, links, rechts, Ampel… 단어가 너무 빨리 지나가요.",
+      "오늘은 길을 묻고 알아듣는 데 꼭 필요한 단어 10개예요. 이 10개면 왼쪽, 오른쪽, 신호등, 모퉁이까지 다 알아듣고, 길을 잃었다고 말할 수도 있어요. 🧭"
+    ],
+    "words": {
+      "A1-388": {"pron": "링크스", "tip": "왼손 엄지와 검지로 L을 만들면 Links의 L 👈", "bonus": "왼쪽으로 돌다 = links abbiegen"},
+      "A1-389": {"pron": "레히츠", "tip": "영어 right와 같은 뿌리예요 👉 ‘옳은’ 쪽이 오른쪽!", "warn": "rechts(오른쪽)와 recht(옳은)를 헷갈리지 마세요: Du hast recht. = 네 말이 맞아."},
+      "A1-390": {"pron": "게라데아우스", "tip": "gerade(곧은) + aus(밖으로) = 쭉 뻗어 나가기 ⬆️", "bonus": "immer geradeaus = 계속 직진"},
+      "A1-213": {"pron": "에케", "tip": "‘에케’ 하고 모서리에 부딪힌 느낌 📐 모퉁이 = Ecke!", "bonus": "gleich um die Ecke = 바로 모퉁이 돌면 · 아주 가까이"},
+      "A2-244": {"pron": "크로이충", "tip": "Kreuz(십자가) + -ung = 길이 십자로 만나는 곳 ✝️ -ung이니까 die!"},
+      "A2-203": {"pron": "암펠", "tip": "원래 ‘작은 등잔’이라는 뜻 🚦 빨강, 노랑, 초록 등잔 세 개!", "bonus": "Bei Rot stehen, bei Grün gehen! = 빨간불엔 서고, 초록불엔 건너요!"},
+      "A2-298": {"pron": "압비겐", "tip": "ab(떨어져) + biegen(구부리다) = 길에서 꺾어 나가기 ↪️", "warn": "분리동사이고 현재완료는 sein: Ich bin links abgebogen."},
+      "A2-268": {"pron": "슈타트플란", "tip": "Stadt(도시) + Plan(지도) = 도시 지도 🗺️ 관광 안내소에서 받을 수 있어요.", "warn": "복수는 Umlaut가 붙어요: die Stadtpläne."},
+      "A1-212": {"pron": "베크", "tip": "영어 way와 같은 뿌리예요 🛤️ Wie ist der Weg zum Bahnhof?", "warn": "der Weg(길, 긴 e)와 weg(멀리, 짧은 e)는 다른 단어예요."},
+      "B1-1334": {"pron": "지히 페어라우펜", "tip": "ver-(잘못) + laufen(걷다) = 잘못 걸어서 길을 잃다 🌀", "bonus": "차로 길을 잃으면 sich verfahren이에요."}
+    },
+    "culture": [
+      "독일에서는 차가 한 대도 없어도 빨간불이면 기다리는 사람이 많아요. 특히 아이들 앞에서는 꼭 지키는 분위기라, 무단횡단을 하면 따가운 눈총을 받을 수 있어요.",
+      "베를린이나 동독 지역 도시에서는 모자를 쓴 귀여운 신호등 아저씨 Ampelmännchen을 볼 수 있어요. 기념품 가게에서도 인기 캐릭터예요.",
+      "그리고 인도 옆 빨간색이나 다른 색으로 칠해진 길은 자전거 도로(Radweg)인 경우가 많아요. 거기서 걷다 보면 따르릉 소리를 듣게 되니 조심하세요! 🚲"
+    ],
+    "quiz": {"q": "구시가지에서 길을 잃었어요. 지나가는 사람에게 말을 걸 때 가장 알맞은 말은?", "o": ["Ich kenne den Stadtplan.", "Die Bank ist rechts.", "Entschuldigung, ich habe mich verlaufen."], "a": 2, "why": "sich verlaufen = (걸어 다니다) 길을 잃다. ‘실례합니다, 길을 잃었어요’라는 뜻이에요."},
+    "outro": "오늘 집에서 가까운 가게까지 가는 길을 독일어로 설명해 봐요. geradeaus, links, rechts만으로도 꽤 할 수 있어요! 🧭"
+  },
+  "en": {
+    "title": "Lost in a German town? 10 words to find your way",
+    "hook": "The moment your phone hits 0%, these are the words you'll really need.",
+    "intro": [
+      "You're wandering the lanes of an old town when your map app dies. A kind older woman starts giving you directions — links, rechts, Ampel… — and the words fly past far too fast.",
+      "Today's ten words help you ask the way and understand the answer: left, right, traffic lights, corners — and how to say you're lost. 🧭"
+    ],
+    "words": {
+      "A1-388": {"pron": "LINKS", "tip": "Make an L with your left thumb and finger — L for links 👈", "bonus": "to turn left = links abbiegen"},
+      "A1-389": {"pron": "REKHTS", "tip": "Same root as English right 👉", "warn": "Don't mix up rechts (right side) and recht (right, correct): Du hast recht. = You're right."},
+      "A1-390": {"pron": "ge-RAH-duh-OWSS", "tip": "gerade (straight) + aus (out) = straight out ahead ⬆️", "bonus": "immer geradeaus = keep going straight on"},
+      "A1-213": {"pron": "ECK-uh", "tip": "‘Eck!’ — the sound of bumping into a corner 📐", "bonus": "gleich um die Ecke = just round the corner, very close"},
+      "A2-244": {"pron": "KROY-tsoong", "tip": "Kreuz (cross) + -ung = where roads cross ✝️ -ung, so it's die."},
+      "A2-203": {"pron": "AMP-el", "tip": "Originally a little lamp 🚦 Three lamps: red, amber, green.", "bonus": "Bei Rot stehen, bei Grün gehen! = Stop at red, go at green!"},
+      "A2-298": {"pron": "AP-bee-gen", "tip": "ab (off) + biegen (bend) = bend off the road ↪️", "warn": "Separable, and the perfect uses sein: Ich bin links abgebogen."},
+      "A2-268": {"pron": "SHTAT-plahn", "tip": "Stadt (city) + Plan (map) = city map 🗺️ Tourist offices often have them.", "warn": "The plural gets an umlaut: die Stadtpläne."},
+      "A1-212": {"pron": "VAYK", "tip": "Same root as English way 🛤️ Wie ist der Weg zum Bahnhof?", "warn": "der Weg (path, long e) and weg (away, short e) are different words."},
+      "B1-1334": {"pron": "zikh fair-LOW-fen", "tip": "ver- (wrongly) + laufen (walk) = walk the wrong way and get lost 🌀", "bonus": "Lost while driving? That's sich verfahren."}
+    },
+    "culture": [
+      "Many Germans wait at a red light even when there's no car in sight — especially in front of children. Crossing on red may earn you a few disapproving looks.",
+      "In Berlin and other cities in the former East, look out for the Ampelmännchen, the little man in a hat on the pedestrian lights. He's a popular souvenir, too.",
+      "A strip next to the pavement painted red or another colour is often a cycle lane (Radweg). Walk on it and you'll soon hear a bell, so watch out! 🚲"
+    ],
+    "quiz": {"q": "You're lost in the old town. What's the best thing to say to a passer-by?", "o": ["Ich kenne den Stadtplan.", "Die Bank ist rechts.", "Entschuldigung, ich habe mich verlaufen."], "a": 2, "why": "sich verlaufen = to get lost on foot, so this means ‘Excuse me, I'm lost.’"},
+    "outro": "Today, describe the way from your home to the nearest shop in German. You can get surprisingly far with geradeaus, links and rechts! 🧭"
+  },
+  "ja": {
+    "title": "迷子になっても大丈夫！道を尋ねるドイツ語10",
+    "hook": "スマホの電池が0%になった瞬間、本当に頼りになるのはこの単語たちです。",
+    "intro": [
+      "旧市街の路地を歩いていたら、いつの間にか地図アプリが落ちていました。通りかかったおばあさんに道を聞くと親切に教えてくれるのですが、links、rechts、Ampel…と単語が速すぎて追いつけません。",
+      "今日は道を聞いて、答えを聞き取るための単語を10個集めました。左、右、信号、角まで聞き取れて、「道に迷いました」とも言えるようになります。🧭"
+    ],
+    "words": {
+      "A1-388": {"pron": "リンクス", "tip": "左手の親指と人差し指で L を作ると、Links の L 👈", "bonus": "左に曲がる = links abbiegen"},
+      "A1-389": {"pron": "レヒツ", "tip": "英語の right と同じ語源です 👉", "warn": "rechts（右に）と recht（正しい）を混同しないように：Du hast recht. = 君の言うとおり。"},
+      "A1-390": {"pron": "ゲラーデアウス", "tip": "gerade（まっすぐな）+ aus（外へ）= まっすぐ進む ⬆️", "bonus": "immer geradeaus = ずっとまっすぐ"},
+      "A1-213": {"pron": "エッケ", "tip": "「エッ！」と角にぶつかる感じ 📐 角 = Ecke！", "bonus": "gleich um die Ecke = 角を曲がってすぐ、すぐ近く"},
+      "A2-244": {"pron": "クロイツング", "tip": "Kreuz（十字）+ -ung = 道が十字に交わるところ ✝️ -ung なので die！"},
+      "A2-203": {"pron": "アンペル", "tip": "もとは「小さなランプ」🚦 赤・黄・青の3つのランプ！", "bonus": "Bei Rot stehen, bei Grün gehen! = 赤は止まれ、青は進め！"},
+      "A2-298": {"pron": "アップビーゲン", "tip": "ab（離れて）+ biegen（曲げる）= 道からそれて曲がる ↪️", "warn": "分離動詞で、現在完了は sein：Ich bin links abgebogen."},
+      "A2-268": {"pron": "シュタットプラーン", "tip": "Stadt（町）+ Plan（地図）= 市街地図 🗺️ 観光案内所でもらえることが多いです。", "warn": "複数形はウムラウトがつきます：die Stadtpläne."},
+      "A1-212": {"pron": "ヴェーク", "tip": "英語の way と同じ語源 🛤️ Wie ist der Weg zum Bahnhof?", "warn": "der Weg（道、長い e）と weg（離れて、短い e）は別の単語です。"},
+      "B1-1334": {"pron": "ズィッヒ フェアラウフェン", "tip": "ver-（誤って）+ laufen（歩く）= 歩いて道に迷う 🌀", "bonus": "車で道に迷ったら sich verfahren です。"}
+    },
+    "culture": [
+      "ドイツでは車が1台も来ていなくても、赤信号なら待つ人が多いです。特に子どもの前ではきちんと守る雰囲気があり、信号無視をすると冷たい視線を浴びることもあります。",
+      "ベルリンや旧東ドイツの町では、帽子をかぶった歩行者信号のおじさん Ampelmännchen に出会えます。おみやげとしても人気のキャラクターです。",
+      "歩道の横の赤などの色で塗られた道は、自転車専用レーン（Radweg）であることが多いです。うっかり歩いているとベルを鳴らされるので気をつけましょう！🚲"
+    ],
+    "quiz": {"q": "旧市街で道に迷いました。通りかかった人に話しかけるのにいちばん合う言葉は？", "o": ["Ich kenne den Stadtplan.", "Die Bank ist rechts.", "Entschuldigung, ich habe mich verlaufen."], "a": 2, "why": "sich verlaufen = （歩いていて）道に迷う。「すみません、道に迷いました」という意味です。"},
+    "outro": "今日は、家からいちばん近いお店までの道をドイツ語で説明してみましょう。geradeaus、links、rechts だけでもけっこう言えますよ！🧭"
+  }
+}

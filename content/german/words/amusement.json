@@ -1,0 +1,84 @@
+{
+  "key": "amusement",
+  "ko": {
+    "title": "동물원부터 놀이기구까지, 주말 나들이 독일어 10",
+    "hook": "독일 주말 나들이의 절반은 줄 서기예요. 그 줄을 독일어로 뭐라고 하는지 아세요?",
+    "intro": [
+      "날씨 좋은 일요일, 아이 있는 친구 가족과 동물원에 가기로 했어요. 매표소 앞에는 벌써 긴 줄, 입구에는 “Bitte nicht füttern!”이라는 표지판. 친구 아이는 원숭이 우리 앞에서 “Das ist so aufregend!” 하고 소리쳐요.",
+      "오늘은 동물원, 수족관, 놀이공원과 장터 축제에서 쓰는 단어 10개예요. 표 사고, 줄 서고, 표지판 읽는 것까지 이 단어들로 해결할 수 있어요. 🎢"
+    ],
+    "words": {
+      "A2-639": {"pron": "초", "tip": "Zoologischer Garten을 짧게 줄인 말 🦁 Z는 ‘ㅊ’ 소리라서 ‘주’가 아니라 ‘초’!", "bonus": "동물원에 가다 = in den Zoo gehen"},
+      "B1-1252": {"pron": "티어파르크", "tip": "Tier(동물) + Park(공원) = 동물 공원 🦌 단어 그대로예요.", "bonus": "작은 야생동물 공원은 der Wildpark라고도 해요."},
+      "B1-2194": {"pron": "야르마르크트", "tip": "Jahr(해) + Markt(시장) = 1년에 한 번 서는 장 🎡 지금은 놀이기구 가득한 축제!", "bonus": "지역에 따라 die Kirmes, der Rummel이라고도 불러요."},
+      "A2-033": {"pron": "아인트리츠카르테", "tip": "Eintritt(입장) + s + Karte(표) = 입장권 🎟️ 중간의 s는 이어 주는 접착제!", "bonus": "어른 두 장이요: Zwei Eintrittskarten für Erwachsene, bitte."},
+      "B1-219": {"pron": "아인트리트", "tip": "ein(안으로) + treten(발을 딛다) = 안으로 들어가기 🚪", "bonus": "Eintritt frei = 무료 입장 · 반대로 출구는 der Ausgang"},
+      "BL-03-08": {"pron": "슐랑에", "tip": "구불구불 늘어선 줄이 꼭 뱀 같죠? 🐍 뱀도 줄도 Schlange!", "bonus": "줄을 서다 = Schlange stehen"},
+      "A2-412": {"pron": "아우프레겐트", "tip": "auf(위로) + regen(움직이다) = 마음이 들썩들썩 🎢 짜릿한 롤러코스터!", "warn": "사람이 들뜬 건 aufgeregt, 일이나 경험이 짜릿한 건 aufregend예요."},
+      "B1-2339": {"pron": "케피히", "tip": "라틴어 cavea, 영어 cage와 같은 뿌리 🦜 끝의 -ig는 ‘이히’로 읽어요."},
+      "B1-2193": {"pron": "아크바리움", "tip": "aqua(물)가 들어간 곳 🐠 집 어항도, 큰 수족관도 Aquarium!", "warn": "복수는 die Aquarien이에요."},
+      "B1-705": {"pron": "퓌턴", "tip": "Futter(먹이)를 주니까 füttern 🥕 영어 food와 친척이에요.", "bonus": "동물원 표지판에 자주 나와요: Bitte nicht füttern!"}
+    },
+    "culture": [
+      "독일에는 크고 작은 동물원이 정말 많아요. 이름이 Zoo인 곳도, Tierpark나 Wildpark인 곳도 있죠. 베를린에는 Zoo와 Tierpark가 따로 있어서 처음엔 헷갈리기 쉬워요.",
+      "봄부터 가을까지는 동네마다 Jahrmarkt가 열려요. 관람차와 회전목마, 구운 아몬드(gebrannte Mandeln) 냄새가 가득하죠. 뮌헨의 옥토버페스트도 이런 Volksfest의 하나예요.",
+      "그리고 동물원에서는 “Bitte nicht füttern!” 표지판을 꼭 지켜요. 독일 사람들은 이런 규칙에 꽤 엄격해서, 몰래 먹이를 주면 주변 사람이 바로 한마디 할 수도 있어요. 🐒"
+    ],
+    "quiz": {"q": "매표소 앞에 사람이 엄청 많아요. 친구에게 “줄이 길다!”라고 하려면?", "o": ["Der Eintritt ist frei.", "Die Schlange ist so lang!", "Der Vogel sitzt im Käfig."], "a": 1, "why": "Die Schlange ist so lang! = 줄이 엄청 길어! 줄은 뱀처럼 길어서 Schlange예요."},
+    "outro": "다음에 줄을 서게 되면 속으로 “Ich stehe Schlange.” 하고 말해 봐요. 기다리는 시간도 공부가 돼요! 🐍"
+  },
+  "en": {
+    "title": "A day at the zoo: 10 German words for days out",
+    "hook": "Half of any German day out is queuing — so you'd better know the word for queue.",
+    "intro": [
+      "It's a sunny Sunday and we're off to the zoo with friends and their kids. There's already a long queue at the ticket desk and a sign at the gate: “Bitte nicht füttern!” In front of the monkeys, the little one shouts, “Das ist so aufregend!”",
+      "Today's ten words are for zoos, aquariums, theme parks and funfairs. Buying tickets, joining the queue and reading the signs — these words cover it. 🎢"
+    ],
+    "words": {
+      "A2-639": {"pron": "TSOH", "tip": "Short for Zoologischer Garten 🦁 German Z sounds like ‘ts’, so it's ‘tsoh’, not ‘zoo’.", "bonus": "to go to the zoo = in den Zoo gehen"},
+      "B1-1252": {"pron": "TEER-park", "tip": "Tier (animal) + Park = an animal park 🦌 Exactly what it says.", "bonus": "A small wildlife park is often called der Wildpark."},
+      "B1-2194": {"pron": "YAR-markt", "tip": "Jahr (year) + Markt = the once-a-year market 🎡 Today it means rides and candyfloss.", "bonus": "Depending on the region, also die Kirmes or der Rummel."},
+      "A2-033": {"pron": "INE-trits-kar-tuh", "tip": "Eintritt (entry) + s + Karte (ticket) 🎟️ The s in the middle is the glue.", "bonus": "Two adults, please: Zwei Eintrittskarten für Erwachsene, bitte."},
+      "B1-219": {"pron": "INE-trit", "tip": "ein (in) + treten (to step) = stepping in 🚪", "bonus": "Eintritt frei = free entry · the way out is der Ausgang"},
+      "BL-03-08": {"pron": "SHLAHNG-uh", "tip": "A long, wiggly queue looks just like a snake 🐍", "bonus": "to queue = Schlange stehen"},
+      "A2-412": {"pron": "OWF-ray-gent", "tip": "Your heart goes up (auf) and starts moving (regen) — like on a rollercoaster 🎢", "warn": "aufregend = exciting (a thing); aufgeregt = excited or nervous (a person)."},
+      "B1-2339": {"pron": "KAY-fikh", "tip": "From Latin cavea, like English cage 🦜 The -ig at the end sounds like ‘ikh’."},
+      "B1-2193": {"pron": "ah-KVAH-ree-oom", "tip": "There's aqua (water) inside 🐠 A fish tank at home or a big public aquarium.", "warn": "The plural is die Aquarien."},
+      "B1-705": {"pron": "FUE-tern", "tip": "You give Futter (feed), so you füttern 🥕 A cousin of English food and fodder.", "bonus": "A sign you'll see at the zoo: Bitte nicht füttern!"}
+    },
+    "culture": [
+      "Germany has a lot of zoos, big and small. Some are called Zoo, others Tierpark or Wildpark. Berlin even has both a Zoo and a Tierpark, which confuses plenty of visitors.",
+      "From spring to autumn, towns hold their own Jahrmarkt: a Ferris wheel, a carousel and the smell of sugared almonds (gebrannte Mandeln). Munich's Oktoberfest is the most famous of these Volksfeste.",
+      "And at the zoo, take the “Bitte nicht füttern!” signs seriously. People tend to be strict about rules like this, and someone may well tell you off if you slip the goats a snack. 🐒"
+    ],
+    "quiz": {"q": "There's a huge crowd at the ticket desk. How do you tell your friend ‘The queue is so long!’?", "o": ["Der Eintritt ist frei.", "Die Schlange ist so lang!", "Der Vogel sitzt im Käfig."], "a": 1, "why": "Die Schlange ist so lang! = The queue is so long! A queue is a Schlange, like a long snake."},
+    "outro": "Next time you're waiting in line, say quietly to yourself: Ich stehe Schlange. Even queuing can be practice! 🐍"
+  },
+  "ja": {
+    "title": "動物園から移動遊園地まで、週末のおでかけドイツ語10",
+    "hook": "ドイツの週末のおでかけ、半分は行列です。その「行列」をドイツ語で何と言うか知っていますか？",
+    "intro": [
+      "よく晴れた日曜日、子どものいる友だち家族と動物園へ。チケット売り場にはもう長い列、入口には「Bitte nicht füttern!」の看板。サルのおりの前で、友だちの子が「Das ist so aufregend!」と叫びます。",
+      "今日は動物園、水族館、遊園地や移動遊園地で使う単語を10個集めました。チケットを買う、列に並ぶ、看板を読む、ぜんぶこの単語でできます。🎢"
+    ],
+    "words": {
+      "A2-639": {"pron": "ツォー", "tip": "Zoologischer Garten を短くした言葉 🦁 Z は「ツ」の音なので「ズー」ではなく「ツォー」！", "bonus": "動物園に行く = in den Zoo gehen"},
+      "B1-1252": {"pron": "ティーアパルク", "tip": "Tier（動物）+ Park（公園）= 動物公園 🦌 そのままの意味です。", "bonus": "小さな野生動物公園は der Wildpark とも言います。"},
+      "B1-2194": {"pron": "ヤールマルクト", "tip": "Jahr（年）+ Markt（市場）= 年に一度の市 🎡 今は乗り物いっぱいのお祭り！", "bonus": "地域によって die Kirmes、der Rummel とも呼びます。"},
+      "A2-033": {"pron": "アイントリッツカルテ", "tip": "Eintritt（入場）+ s + Karte（券）= 入場券 🎟️ 真ん中の s はのりの役目！", "bonus": "大人2枚ください：Zwei Eintrittskarten für Erwachsene, bitte."},
+      "B1-219": {"pron": "アイントリット", "tip": "ein（中へ）+ treten（足を踏み出す）= 中に入ること 🚪", "bonus": "Eintritt frei = 入場無料・出口は der Ausgang"},
+      "BL-03-08": {"pron": "シュランゲ", "tip": "くねくね並んだ列はまるでヘビ 🐍 ヘビも行列も Schlange！", "bonus": "列に並ぶ = Schlange stehen"},
+      "A2-412": {"pron": "アウフレーゲント", "tip": "auf（上へ）+ regen（動かす）= 心がドキドキ動き出す 🎢 ジェットコースターのように！", "warn": "人がわくわく・緊張しているのは aufgeregt、物事が刺激的なのは aufregend です。"},
+      "B1-2339": {"pron": "ケーフィヒ", "tip": "ラテン語 cavea、英語の cage と同じ語源 🦜 最後の -ig は「イヒ」と読みます。"},
+      "B1-2193": {"pron": "アクヴァーリウム", "tip": "aqua（水）が入った場所 🐠 家の水槽も大きな水族館も Aquarium！", "warn": "複数形は die Aquarien です。"},
+      "B1-705": {"pron": "フュッターン", "tip": "Futter（えさ）をあげるから füttern 🥕 英語の food の親戚です。", "bonus": "動物園の看板によく出てきます：Bitte nicht füttern!"}
+    },
+    "culture": [
+      "ドイツには大小さまざまな動物園がたくさんあります。名前が Zoo のところもあれば、Tierpark や Wildpark のところも。ベルリンには Zoo と Tierpark が別々にあるので、最初は混乱しがちです。",
+      "春から秋にかけては、町ごとに Jahrmarkt が開かれます。観覧車にメリーゴーラウンド、焼きアーモンド（gebrannte Mandeln）の甘い香り。ミュンヘンのオクトーバーフェストも、こうした Volksfest のひとつです。",
+      "動物園の「Bitte nicht füttern!」の看板はきちんと守りましょう。ドイツの人はこういうルールにわりと厳しく、こっそりえさをあげると周りの人に注意されることもあります。🐒"
+    ],
+    "quiz": {"q": "チケット売り場に人がたくさん。友だちに「列が長いね！」と言うには？", "o": ["Der Eintritt ist frei.", "Die Schlange ist so lang!", "Der Vogel sitzt im Käfig."], "a": 1, "why": "Die Schlange ist so lang! =「列がすごく長い！」行列はヘビのように長いので Schlange です。"},
+    "outro": "次に列に並んだら、心の中で「Ich stehe Schlange.」と言ってみましょう。待ち時間も勉強になります！🐍"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "camping",
+  "ko": {
+    "title": "호숫가 텐트에서 쓰는 독일어 10",
+    "hook": "독일 여름의 진짜 낭만은 호텔이 아니라 텐트 안에 있어요.",
+    "intro": [
+      "친구들이 주말에 호숫가로 캠핑 가자고 해서 따라갔는데, 짐 싸는 대화부터 막혔어요. „Hast du einen Schlafsack? Wer bringt die Taschenlampe mit?“ 다 아는 물건인데 이름을 몰랐죠.",
+      "오늘은 캠핑장에서 꼭 쓰는 단어 10개를 모았어요. 이 10개면 캠핑장을 예약하고, 짐 목록을 짜고, 밤에 모기한테 물렸다고 투덜거리는 것까지 독일어로 할 수 있어요. 🏕️"
+    ],
+    "words": {
+      "A2-766": {"pron": "켐핑플라츠", "tip": "영어 camping + Platz(장소) = 캠핑하는 곳 ⛺ 영어 반, 독일어 반!", "warn": "복수는 움라우트: die Campingplätze"},
+      "A2-637": {"pron": "첼트", "tip": "‘첼트’ 하고 텐트 지퍼 닫는 소리 ⛺ 원래 ‘덮개’라는 뜻이에요.", "bonus": "텐트를 치다 = das Zelt aufbauen"},
+      "B1-2035": {"pron": "켐펜", "tip": "영어 camp에 -en만 붙였어요 🏕️ 발음은 ‘캠’이 아니라 ‘켐’!", "bonus": "현재완료: Wir haben am See gecampt."},
+      "B1-1431": {"pron": "첼텐", "tip": "Zelt(텐트) → zelten(텐트 치고 자다) 🌙 명사에 -en 붙이면 동사 완성!", "bonus": "campen보다 ‘텐트에서 잔다’는 느낌이 더 강해요."},
+      "B2-2755": {"pron": "슐라프자크", "tip": "schlafen(자다) + Sack(자루) = 자는 자루 😴 말 그대로예요!", "warn": "복수는 움라우트: die Schlafsäcke"},
+      "B1-2433": {"pron": "본모빌", "tip": "wohnen(살다) + mobil(움직이는) = 움직이는 집 🚐 꿈의 캠핑카!", "bonus": "차에 매달아 끄는 캠핑 트레일러는 der Wohnwagen"},
+      "A2-225": {"pron": "포이어", "tip": "영어 fire와 같은 뿌리 🔥 캠프파이어는 das Lagerfeuer!", "warn": "Haben Sie Feuer?는 ‘라이터 있어요?’라는 뜻이에요. 불났다는 말이 아니에요!"},
+      "B1-2492": {"pron": "타셴람페", "tip": "Tasche(주머니) + Lampe(램프) = 주머니에 쏙 들어가는 램프 🔦"},
+      "B1-1977": {"pron": "뮈케", "tip": "‘뮈~’ 하고 귓가에서 앵앵대는 소리 🦟 여름 호숫가의 주인공!", "bonus": "aus einer Mücke einen Elefanten machen = 별것 아닌 일을 크게 부풀리다"},
+      "B1-698": {"pron": "임 프라이엔", "tip": "frei(열린)를 명사로 = 탁 트인 곳에서 🌳 하늘 아래라면 어디든 im Freien!", "bonus": "같은 뜻: draußen = 밖에서"}
+    },
+    "culture": [
+      "독일 사람들은 캠핑을 정말 좋아해요. 여름 방학이면 Wohnmobil을 몰고 남쪽으로 떠나는 가족이 많고, 인기 있는 호숫가 캠핑장은 일찍 예약이 차기도 해요.",
+      "다만 아무 데나 텐트를 치는 야영(Wildcampen)은 독일 대부분 지역에서 원칙적으로 안 돼요. 주마다 규칙이 달라서, 캠핑장이나 정해진 트레킹 야영지(Trekkingplatz)를 이용하는 게 안전해요.",
+      "캠핑장에도 밤에는 조용히 하는 시간(Nachtruhe)이 정해져 있는 경우가 많아요. 기타 치며 노래하는 건 해 지기 전까지만! 🌙"
+    ],
+    "quiz": {"q": "밤에 텐트 안이 깜깜해서 침낭을 못 찾겠어요. 친구에게 뭐라고 물어볼까요?", "o": ["Hast du Feuer?", "Hast du eine Taschenlampe?", "Ich habe ein Wohnmobil."], "a": 1, "why": "Taschenlampe = 손전등이에요. Hast du Feuer?는 라이터를 빌릴 때 하는 말이에요."},
+    "outro": "다음 여행 짐 목록을 독일어로 써 보세요: Zelt, Schlafsack, Taschenlampe… 그리고 모기약도 잊지 말고요! 🦟"
+  },
+  "en": {
+    "title": "Tent, torch, mosquitoes: 10 German words for camping",
+    "hook": "The real magic of a German summer happens in a tent, not a hotel.",
+    "intro": [
+      "Your friends invite you to camp by a lake for the weekend, and you get stuck at the packing chat: „Hast du einen Schlafsack? Wer bringt die Taschenlampe mit?“ You know the things, just not their names.",
+      "Today's ten words are the ones you'll use at any campsite. With them you can book a pitch, write your packing list and complain about mosquito bites, all in German. 🏕️"
+    ],
+    "words": {
+      "A2-766": {"pron": "KEM-ping-plats", "tip": "English camping + Platz (place) = a place to camp ⛺ Half English, half German.", "warn": "Plural with umlaut: die Campingplätze"},
+      "A2-637": {"pron": "TSELT", "tip": "Sounds like a tent zip closing: tselt! ⛺ It originally meant ‘cover’.", "bonus": "to pitch a tent = das Zelt aufbauen"},
+      "B1-2035": {"pron": "KEM-pen", "tip": "English camp + -en 🏕️ Germans say it ‘kem’, not ‘kamp’.", "bonus": "Perfect tense: Wir haben am See gecampt."},
+      "B1-1431": {"pron": "TSEL-ten", "tip": "Zelt (tent) → zelten (sleep in a tent) 🌙 Add -en and the noun becomes a verb.", "bonus": "It stresses sleeping in a tent more than campen does."},
+      "B2-2755": {"pron": "SHLAHF-zak", "tip": "schlafen (sleep) + Sack (sack) = a sleeping sack 😴 Exactly what it says.", "warn": "Plural with umlaut: die Schlafsäcke"},
+      "B1-2433": {"pron": "VOHN-mo-beel", "tip": "wohnen (live) + mobil (mobile) = a home that moves 🚐", "bonus": "A caravan you tow is der Wohnwagen."},
+      "A2-225": {"pron": "FOY-er", "tip": "Same root as fire 🔥 A campfire is das Lagerfeuer.", "warn": "Haben Sie Feuer? means ‘Have you got a light?’, not that something's burning!"},
+      "B1-2492": {"pron": "TA-shen-lam-puh", "tip": "Tasche (pocket) + Lampe (lamp) = a pocket lamp 🔦 Torch or flashlight, take your pick."},
+      "B1-1977": {"pron": "MUE-kuh", "tip": "A cousin of English midge 🦟 The uninvited guest at every lake.", "bonus": "aus einer Mücke einen Elefanten machen = to make a mountain out of a molehill"},
+      "B1-698": {"pron": "im FRY-en", "tip": "frei (open) turned into a noun = in the open 🌳 Anywhere under the sky.", "bonus": "Similar: draußen = outside"}
+    },
+    "culture": [
+      "Germans love camping. In the summer holidays many families head south in a Wohnmobil, and popular lakeside campsites can be booked up early.",
+      "Pitching your tent just anywhere (Wildcampen) is generally not allowed in most of Germany, and the rules vary by state. Stick to campsites or official trekking pitches (Trekkingplatz) to be safe.",
+      "Many campsites also have set quiet hours at night (Nachtruhe). Guitar sing-alongs are best before dark! 🌙"
+    ],
+    "quiz": {"q": "It's pitch dark in the tent and you can't find your sleeping bag. What do you ask your friend?", "o": ["Hast du Feuer?", "Hast du eine Taschenlampe?", "Ich habe ein Wohnmobil."], "a": 1, "why": "Taschenlampe is a torch; Hast du Feuer? asks for a lighter."},
+    "outro": "Write your next packing list in German: Zelt, Schlafsack, Taschenlampe… and don't forget the mosquito spray! 🦟"
+  },
+  "ja": {
+    "title": "湖畔のテントで使うドイツ語10",
+    "hook": "ドイツの夏のいちばんの楽しみは、ホテルではなくテントの中にあります。",
+    "intro": [
+      "友だちに週末の湖キャンプに誘われて参加したら、荷物の相談から早くもつまずきました。„Hast du einen Schlafsack? Wer bringt die Taschenlampe mit?“ 知っている物なのに名前が出てきません。",
+      "今日はキャンプ場で必ず使う単語を10個集めました。この10個があれば、キャンプ場を予約して、持ち物リストを作って、夜に蚊に刺されたと文句を言うところまでドイツ語でできます。🏕️"
+    ],
+    "words": {
+      "A2-766": {"pron": "ケンピングプラッツ", "tip": "英語 camping + Platz（場所）= キャンプする場所 ⛺ 英語半分、ドイツ語半分！", "warn": "複数形はウムラウト：die Campingplätze"},
+      "A2-637": {"pron": "ツェルト", "tip": "登山用語の「ツェルト」はこのドイツ語から ⛺ もとは「覆い」という意味です。", "bonus": "テントを張る = das Zelt aufbauen"},
+      "B1-2035": {"pron": "ケンペン", "tip": "英語 camp に -en をつけただけ 🏕️ 発音は「キャン」ではなく「ケン」！", "bonus": "現在完了：Wir haben am See gecampt."},
+      "B1-1431": {"pron": "ツェルテン", "tip": "Zelt（テント）→ zelten（テントで寝る）🌙 名詞に -en をつけたら動詞のできあがり！", "bonus": "campen より「テントで寝る」感じが強い言葉です。"},
+      "B2-2755": {"pron": "シュラーフザック", "tip": "schlafen（寝る）+ Sack（袋）= 寝る袋 😴 そのまんまです！", "warn": "複数形はウムラウト：die Schlafsäcke"},
+      "B1-2433": {"pron": "ヴォーンモビール", "tip": "wohnen（住む）+ mobil（動く）= 動く家 🚐 あこがれのキャンピングカー！", "bonus": "車で引っぱるキャンピングトレーラーは der Wohnwagen"},
+      "A2-225": {"pron": "フォイアー", "tip": "英語の fire と同じ語源 🔥 キャンプファイヤーは das Lagerfeuer！", "warn": "Haben Sie Feuer? は「火（ライター）ありますか？」という意味。火事ではありません！"},
+      "B1-2492": {"pron": "タッシェンランペ", "tip": "Tasche（ポケット）+ Lampe（ランプ）= ポケットに入るランプ 🔦"},
+      "B1-1977": {"pron": "ミュッケ", "tip": "耳元で「ミュ〜」と鳴る音みたい 🦟 夏の湖の主役です！", "bonus": "aus einer Mücke einen Elefanten machen = 小さなことを大げさにする"},
+      "B1-698": {"pron": "イム フライエン", "tip": "frei（開けた）を名詞にして = 開けた場所で 🌳 空の下ならどこでも im Freien！", "bonus": "似た意味：draußen = 外で"}
+    },
+    "culture": [
+      "ドイツの人はキャンプが大好きです。夏休みには Wohnmobil で南へ向かう家族が多く、人気の湖畔のキャンプ場は早めに予約が埋まることもあります。",
+      "ただし、好きな場所にテントを張る野営（Wildcampen）は、ドイツのほとんどの地域で原則として認められていません。州によってルールが違うので、キャンプ場や指定のトレッキング用野営地（Trekkingplatz）を使うのが安心です。",
+      "キャンプ場でも夜の静かにする時間（Nachtruhe）が決まっていることが多いです。ギターで歌うのは日が暮れるまでに！🌙"
+    ],
+    "quiz": {"q": "夜、テントの中が真っ暗で寝袋が見つかりません。友だちに何と聞きますか？", "o": ["Hast du Feuer?", "Hast du eine Taschenlampe?", "Ich habe ein Wohnmobil."], "a": 1, "why": "Taschenlampe = 懐中電灯で、Hast du Feuer? はライターを借りるときの言葉です。"},
+    "outro": "次の旅行の持ち物リストをドイツ語で書いてみましょう：Zelt, Schlafsack, Taschenlampe…虫よけも忘れずに！🦟"
+  }
+}

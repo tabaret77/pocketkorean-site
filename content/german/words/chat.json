@@ -1,0 +1,84 @@
+{
+  "key": "chat",
+  "ko": {
+    "title": "독일 단톡방에서 살아남는 10단어",
+    "hook": "단톡방 알림이 100개 쌓였는데 무슨 얘기인지 모르겠다면, 오늘 단어부터 시작해요.",
+    "intro": [
+      "독일 생활을 시작하면 단톡방이 순식간에 늘어나요. 어학원 반 친구들, 같은 건물 이웃들, 아이 학교 학부모들까지. 알림은 계속 울리고, 누군가는 2분짜리 음성 메시지를 보내고, “Wer antwortet?” 하는데 나만 눈치를 봐요.",
+      "오늘은 메신저와 단톡방에서 매일 쓰는 단어 10개예요. 메시지를 읽고, 답장하고, 음성 메시지까지 자연스럽게 주고받을 수 있게 될 거예요. 💬"
+    ],
+    "words": {
+      "BL-13-01": {"pron": "핸디", "tip": "손(hand)에 쥐는 편리한(handy) 물건 📱 독일에서만 통하는 영어예요!", "warn": "영어권에서 handy라고 하면 휴대폰으로 못 알아들어요. 영어로는 mobile phone이에요."},
+      "A2-436": {"pron": "채튼", "tip": "영어 chat + -en = 독일어 동사 완성 ⌨️", "bonus": "mit jemandem chatten = 누구와 채팅하다"},
+      "B1-2007": {"pron": "채트", "tip": "영어 chat 그대로, 관사는 der 💭 발음은 ‘채트’에 가까워요."},
+      "B1-1908": {"pron": "그루펜채트", "tip": "Gruppe(그룹) + Chat = 단톡방 👥 이음 n이 들어가서 Gruppen-!", "bonus": "단톡방에 넣다 = jemanden in den Gruppenchat hinzufügen"},
+      "A2-712": {"pron": "에스엠에스", "tip": "알파벳을 하나씩 독일식으로: 에스-엠-에스 ✉️", "warn": "복수도 그대로 die SMS예요. 관사는 die!"},
+      "B2-977": {"pron": "슈프라흐나흐리히트", "tip": "Sprache(말) + Nachricht(메시지) = 말로 보내는 메시지 🎙️", "bonus": "줄여서 그냥 Sprachi라고 하는 사람도 많아요."},
+      "A2-821": {"pron": "페어시켄", "tip": "ver- + schicken(보내다) = 여기저기 쫙 보내기 📤 초대장 돌릴 때 딱!", "warn": "과거분사에 ge-가 없어요: hat verschickt."},
+      "A1-182": {"pron": "안트보르텐", "tip": "die Antwort(대답)에 -en만 붙이면 동사 ↩️", "warn": "사람은 3격이에요: Antworte mir! 질문에는 auf + 4격: auf eine Nachricht antworten."},
+      "B1-1253": {"pron": "티펜", "tip": "손가락으로 ‘톡톡(tipp tipp)’ 두드리기 👆", "bonus": "Ich tippe auf Freitag. = 내 예상은 금요일이야."},
+      "B1-2535": {"pron": "채트룸", "tip": "영어 chat room을 한 단어로 붙였어요 🚪 관사는 Raum처럼 der!"}
+    },
+    "culture": [
+      "독일 사람들은 음성 메시지(Sprachnachricht)를 꽤 많이 보내요. 편하다는 사람도 있고, 긴 음성 메시지는 싫다는 사람도 있어서 은근히 의견이 갈리는 주제예요.",
+      "메시지 끝에는 LG(Liebe Grüße, 안부를 담아)나 VG(Viele Grüße)를 자주 붙여요. 친한 사이엔 hdl(hab dich lieb)도 써요. 북부에서는 인사로 “Moin!” 한 마디면 충분하고요.",
+      "건물 이웃 단톡방이나 학부모 단톡방은 공지가 많아요. 잡담보다는 꼭 필요한 이야기만 올리는 게 보통이니, 중요한 공지에는 짧게 👍 하나만 남겨도 괜찮아요."
+    ],
+    "quiz": {"q": "자전거를 타고 있어서 타자를 칠 수 없어요. 친구에게 뭘 보낼까요? “Ich schicke dir ___.”", "o": ["eine Briefmarke", "eine Sprachnachricht", "einen Chatroom"], "a": 1, "why": "타자 대신 목소리로 보내는 건 eine Sprachnachricht(음성 메시지)예요."},
+    "outro": "오늘은 단톡방에 독일어로 한 줄 남겨 보는 건 어때요? 마지막에 LG를 붙이면 완벽해요! 📱"
+  },
+  "en": {
+    "title": "Surviving German group chats: 10 words",
+    "hook": "If you've got a hundred unread group-chat messages and no idea what's going on, start here.",
+    "intro": [
+      "Group chats multiply fast once you live in Germany: your language class, your neighbours, the parents at your child's school. The notifications never stop, someone sends a two-minute voice message, and then everyone asks “Wer antwortet?”",
+      "Today's ten words are the ones you use every day in messaging apps. You'll be able to read, reply and even swap voice messages with ease. 💬"
+    ],
+    "words": {
+      "BL-13-01": {"pron": "HEN-dee", "tip": "It's handy and fits in your hand 📱 — but only Germans call a phone that!", "warn": "English speakers won't understand handy as a phone. In English it's a mobile."},
+      "A2-436": {"pron": "CHET-en", "tip": "English chat + -en = a German verb ⌨️", "bonus": "mit jemandem chatten = to chat with someone"},
+      "B1-2007": {"pron": "CHET", "tip": "Straight from English, with der 💭 Germans say it more like ‘chet’."},
+      "B1-1908": {"pron": "GROOP-en-chet", "tip": "Gruppe + Chat = group chat 👥 Note the linking -n: Gruppen-.", "bonus": "to add someone = jemanden in den Gruppenchat hinzufügen"},
+      "A2-712": {"pron": "es-em-ESS", "tip": "Just spell it out, German style ✉️", "warn": "It's die SMS, and the plural is the same: die SMS."},
+      "B2-977": {"pron": "SHPRAHKH-nahkh-rikht", "tip": "Sprache (speech) + Nachricht (message) = a message you speak 🎙️", "bonus": "Lots of people just call it a Sprachi."},
+      "A2-821": {"pron": "fair-SHIK-en", "tip": "ver- + schicken (send) = send out to lots of people 📤 Perfect for invitations.", "warn": "No ge- in the perfect: hat verschickt."},
+      "A1-182": {"pron": "ANT-vor-ten", "tip": "die Antwort (answer) + -en = to answer ↩️", "warn": "The person is in the dative: Antworte mir! For a message: auf + acc., auf eine Nachricht antworten."},
+      "B1-1253": {"pron": "TIP-en", "tip": "Tip-tap on the screen 👆", "bonus": "Ich tippe auf Freitag. = My guess is Friday."},
+      "B1-2535": {"pron": "CHET-room", "tip": "English chat room, written as one word 🚪 It's der, like der Raum."}
+    },
+    "culture": [
+      "Germans send a lot of voice messages (Sprachnachrichten). Some people love how easy they are, others can't stand long ones, so it's a surprisingly divisive topic.",
+      "Messages often end with LG (Liebe Grüße) or VG (Viele Grüße). Close friends might write hdl (hab dich lieb). In the north, a simple “Moin!” works as a greeting.",
+      "Chats for your building or your child's class are mostly for announcements. People usually keep small talk out, and a quick 👍 is often enough to show you've read an important message."
+    ],
+    "quiz": {"q": "You're cycling and can't type. What do you send your friend? “Ich schicke dir ___.”", "o": ["eine Briefmarke", "eine Sprachnachricht", "einen Chatroom"], "a": 1, "why": "Instead of typing, you send eine Sprachnachricht — a voice message."},
+    "outro": "Why not post one line in German in a group chat today? Add LG at the end and you'll sound like a local! 📱"
+  },
+  "ja": {
+    "title": "ドイツのグループチャットで困らない10単語",
+    "hook": "未読が100件たまっているのに話が見えないなら、今日の単語から始めましょう。",
+    "intro": [
+      "ドイツで暮らし始めると、グループチャットがどんどん増えます。語学学校のクラス、同じ建物のご近所さん、子どもの学校の保護者たち。通知は鳴りっぱなし、誰かが2分の音声メッセージを送ってきて、「Wer antwortet?」とみんなが様子をうかがう…。",
+      "今日はメッセージアプリやグループチャットで毎日使う単語10個です。読んで、返信して、音声メッセージまで自然にやりとりできるようになりますよ。💬"
+    ],
+    "words": {
+      "BL-13-01": {"pron": "ヘンディ", "tip": "手（hand）に持てる便利な（handy）もの 📱 ドイツでしか通じない英語です！", "warn": "英語圏で handy と言っても携帯電話とは通じません。英語では mobile phone です。"},
+      "A2-436": {"pron": "チェッテン", "tip": "英語の chat + -en でドイツ語の動詞に ⌨️", "bonus": "mit jemandem chatten = 誰かとチャットする"},
+      "B1-2007": {"pron": "チェット", "tip": "英語の chat そのまま、冠詞は der 💭 発音は「チェット」に近いです。"},
+      "B1-1908": {"pron": "グルッペンチェット", "tip": "Gruppe（グループ）+ Chat = グループチャット 👥 つなぎの n で Gruppen-！", "bonus": "グループに追加する = jemanden in den Gruppenchat hinzufügen"},
+      "A2-712": {"pron": "エスエムエス", "tip": "アルファベットをドイツ式に1文字ずつ読むだけ ✉️", "warn": "冠詞は die、複数形も同じ die SMS です。"},
+      "B2-977": {"pron": "シュプラーハナーハリヒト", "tip": "Sprache（言葉）+ Nachricht（メッセージ）= 声で送るメッセージ 🎙️", "bonus": "短く Sprachi と呼ぶ人も多いです。"},
+      "A2-821": {"pron": "フェアシッケン", "tip": "ver- + schicken（送る）= あちこちに一斉に送る 📤 招待状にぴったり！", "warn": "過去分詞に ge- が付きません：hat verschickt."},
+      "A1-182": {"pron": "アントヴォルテン", "tip": "die Antwort（答え）に -en を付ければ動詞 ↩️", "warn": "人は3格です：Antworte mir! メッセージには auf + 4格：auf eine Nachricht antworten."},
+      "B1-1253": {"pron": "ティッペン", "tip": "指で「ティップ、ティップ」とたたく 👆", "bonus": "Ich tippe auf Freitag. = 私の予想は金曜日。"},
+      "B1-2535": {"pron": "チェットルーム", "tip": "英語の chat room を1語にくっつけただけ 🚪 der Raum と同じく der！"}
+    },
+    "culture": [
+      "ドイツの人は音声メッセージ（Sprachnachricht）をよく送ります。手軽で好きという人もいれば、長い音声は苦手という人もいて、意外と意見が分かれる話題です。",
+      "メッセージの最後には LG（Liebe Grüße）や VG（Viele Grüße）をよく付けます。親しい間柄なら hdl（hab dich lieb）も。北ドイツではあいさつは「Moin!」のひとことで十分です。",
+      "建物や保護者のグループチャットは連絡事項が中心です。雑談はあまりしないのがふつうで、大事なお知らせには 👍 をひとつ返すだけでも大丈夫です。"
+    ],
+    "quiz": {"q": "自転車に乗っていて文字が打てません。友だちに何を送りますか？「Ich schicke dir ___.」", "o": ["eine Briefmarke", "eine Sprachnachricht", "einen Chatroom"], "a": 1, "why": "文字の代わりに声で送るのは eine Sprachnachricht（音声メッセージ）です。"},
+    "outro": "今日はグループチャットにドイツ語で一言書いてみませんか？最後に LG を付ければ完璧です！📱"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "museums",
+  "ko": {
+    "title": "비 오는 일요일엔 박물관! 전시 독일어 10",
+    "hook": "독일의 회색 하늘이 아쉬운 날, 박물관은 최고의 피난처예요. 단어만 챙기면요.",
+    "intro": [
+      "비가 주룩주룩 오는 일요일, 친구와 박물관에 가기로 했어요. 매표소 앞 안내판에는 Öffnungszeiten, Ermäßigung, Sonderausstellung … 학생 할인이 되는지, 전시는 어디서부터 보는지 궁금해요.",
+      "오늘은 박물관과 전시회에서 꼭 보는 단어 10개를 골랐어요. 이걸로 영업시간을 확인하고, 할인을 묻고, 작품 앞에서 감상까지 독일어로 나눌 수 있어요. 우산 접고 들어가 볼까요? 🖼️"
+    ],
+    "words": {
+      "A2-253": {"pron": "무제움", "tip": "뮤즈 여신들의 집 🏛️ 영어 museum과 철자까지 똑같아요.", "warn": "복수는 die Museen! 박물관 여러 곳 = viele Museen"},
+      "A2-032": {"pron": "아우스슈텔룽", "tip": "aus(밖으로) + stellen(세우다) + -ung = 밖에 내놓고 보여 주는 것 🖼️ -ung이니까 die!", "bonus": "특별전 = die Sonderausstellung"},
+      "B1-706": {"pron": "갈레리", "tip": "이탈리아어 galleria(지붕 있는 복도)에서 왔어요 🎨 끝의 -ie는 ‘리-’로 길게!", "bonus": "작은 화랑도, 큰 미술관 이름에도 Galerie를 써요."},
+      "A2-1035": {"pron": "외프눙스차이텐", "tip": "Öffnung(열림) + Zeiten(시간들) = 문 여는 시간 🕘", "warn": "보통 복수로 써요: Die Öffnungszeiten sind …"},
+      "A2-562": {"pron": "룬트강", "tip": "rund(둥근) + Gang(걷기) = 한 바퀴 빙 도는 산책 🔄", "bonus": "einen Rundgang machen = 한 바퀴 둘러보다"},
+      "B1-480": {"pron": "아우스슈텔렌", "tip": "aus(밖에) + stellen(세우다) = 밖에 세워 보여 주다 🏺 관청에서는 ‘서류를 발급하다’도 돼요!", "warn": "분리동사예요: Das Museum stellt Bilder von Klimt aus."},
+      "A2-795": {"pron": "베주허", "tip": "besuchen(방문하다) + -er = 방문하는 사람 🚶 -er로 끝나는 사람은 der!", "bonus": "복수도 모양이 같아요: die Besucher · 여성은 die Besucherin"},
+      "A2-456": {"pron": "에어매시궁", "tip": "mäßig(적당한)에서 왔어요. 가격을 ‘적당히’ 내려 주는 것 🎟️", "bonus": "할인된 입장권 = ermäßigt: Einmal ermäßigt, bitte!"},
+      "B2-2764": {"pron": "잠룽", "tip": "sammeln(모으다) + -ung = 모은 것 🗃️ zusammen(함께)과도 친척이에요.", "bonus": "상설 전시 = die ständige Sammlung"},
+      "B2-1336": {"pron": "쿤스트베르크", "tip": "Kunst(예술) + Werk(작품) = 예술 작품 🖌️ Feuerwerk의 Werk랑 같아요!", "bonus": "멋진 작품이네! = Was für ein Kunstwerk!"}
+    },
+    "culture": [
+      "베를린 한가운데에는 박물관 다섯 곳이 모여 있는 ‘박물관 섬(Museumsinsel)’이 있어요. 섬 전체가 유네스코 세계유산이라 하루로는 모자랄 정도예요.",
+      "많은 도시에서 1년에 한 번 ‘박물관의 긴 밤(Lange Nacht der Museen)’이 열려요. 표 한 장으로 밤늦게까지 여러 박물관을 돌아볼 수 있어서 축제 분위기예요.",
+      "학생이나 어린이는 할인을 받는 경우가 많으니 학생증을 꼭 챙기세요. 큰 가방은 보통 사물함(Schließfach)이나 옷 보관소(Garderobe)에 맡기고 들어가요. 🎟️"
+    ],
+    "quiz": {"q": "박물관 매표소에서 학생 할인이 되는지 물어보려면?", "o": ["Wo ist die Sammlung?", "Das Kunstwerk ist sehr schön.", "Gibt es eine Ermäßigung für Studenten?"], "a": 2, "why": "Ermäßigung = 할인. ‘학생 할인 있나요?’라는 질문이에요."},
+    "outro": "가까운 박물관의 Öffnungszeiten를 찾아보고 Am Samstag ist das Museum von … bis … geöffnet. 하고 소리 내 말해 봐요. 이번 주말 계획 완성! 🏛️"
+  },
+  "en": {
+    "title": "Museum day! 10 German words for exhibitions",
+    "hook": "On a grey German day, a museum is the perfect escape — as long as you know the words.",
+    "intro": [
+      "It's a rainy Sunday and you've agreed to go to a museum with a friend. The sign at the ticket desk says Öffnungszeiten, Ermäßigung, Sonderausstellung … Is there a student discount? And where does the exhibition start?",
+      "Today's ten words are all over museums and exhibitions. With them you can check opening hours, ask about discounts and chat about the art in German. Fold up your umbrella and step inside! 🖼️"
+    ],
+    "words": {
+      "A2-253": {"pron": "moo-ZAY-oom", "tip": "The home of the Muses 🏛️ Spelt exactly like English museum.", "warn": "Plural: die Museen! Lots of museums = viele Museen"},
+      "A2-032": {"pron": "OWS-shtel-oong", "tip": "aus (out) + stellen (put) + -ung = things put out to show 🖼️ -ung, so die!", "bonus": "special exhibition = die Sonderausstellung"},
+      "B1-706": {"pron": "ga-luh-REE", "tip": "From Italian galleria (covered walkway) 🎨 Stress the long ‘-REE’ at the end!", "bonus": "Used for small art dealers and big galleries alike."},
+      "A2-1035": {"pron": "URF-noongs-tsy-ten", "tip": "Öffnung (opening) + Zeiten (times) = opening hours 🕘", "warn": "Usually plural: Die Öffnungszeiten sind …"},
+      "A2-562": {"pron": "ROONT-gahng", "tip": "rund (round) + Gang (walk) = a walk round 🔄", "bonus": "einen Rundgang machen = to take a look round"},
+      "B1-480": {"pron": "OWS-shtel-en", "tip": "aus (out) + stellen (put) = put out on display 🏺 At an office it means ‘to issue’ a document!", "warn": "Separable: Das Museum stellt Bilder von Klimt aus."},
+      "A2-795": {"pron": "buh-ZOO-kher", "tip": "besuchen (visit) + -er = visitor 🚶 People ending in -er are der.", "bonus": "Same form in the plural: die Besucher · a woman is die Besucherin"},
+      "A2-456": {"pron": "air-MAY-see-goong", "tip": "From mäßig (moderate): bringing the price down to something moderate 🎟️", "bonus": "a reduced ticket = ermäßigt: Einmal ermäßigt, bitte!"},
+      "B2-2764": {"pron": "ZAHM-loong", "tip": "sammeln (collect) + -ung = a collection 🗃️ Related to zusammen (together).", "bonus": "permanent collection = die ständige Sammlung"},
+      "B2-1336": {"pron": "KOONST-vairk", "tip": "Kunst (art) + Werk (work) = work of art 🖌️ Same Werk as in Feuerwerk!", "bonus": "What a masterpiece! = Was für ein Kunstwerk!"}
+    },
+    "culture": [
+      "In the middle of Berlin there's Museum Island (Museumsinsel), with five major museums side by side. The whole island is a UNESCO World Heritage Site, and one day is hardly enough.",
+      "Many cities hold a ‘Long Night of Museums’ (Lange Nacht der Museen) once a year. One ticket lets you visit lots of museums until late at night, and it feels like a festival.",
+      "Students and children often get a discount, so bring your student card. Big bags usually go into a locker (Schließfach) or the cloakroom (Garderobe) before you go in. 🎟️"
+    ],
+    "quiz": {"q": "At the museum ticket desk, how do you ask about a student discount?", "o": ["Wo ist die Sammlung?", "Das Kunstwerk ist sehr schön.", "Gibt es eine Ermäßigung für Studenten?"], "a": 2, "why": "Ermäßigung = discount, so this asks ‘Is there a discount for students?’"},
+    "outro": "Look up the Öffnungszeiten of a museum near you and say Am Samstag ist das Museum von … bis … geöffnet. out loud. Weekend sorted! 🏛️"
+  },
+  "ja": {
+    "title": "雨の日曜は博物館へ！展覧会のドイツ語10",
+    "hook": "ドイツの灰色の空にうんざりした日、博物館は最高の避難所です。単語さえあれば。",
+    "intro": [
+      "雨がしとしと降る日曜日、友だちと博物館に行くことにしました。チケット売り場の案内板には Öffnungszeiten、Ermäßigung、Sonderausstellung … 学割はあるのか、展示はどこから見ればいいのか気になります。",
+      "今日は博物館や展覧会で必ず目にする単語を10個選びました。これで開館時間を確かめ、割引を聞き、作品の前で感想までドイツ語で話せます。傘をたたんで、中へ入りましょう！🖼️"
+    ],
+    "words": {
+      "A2-253": {"pron": "ムゼーウム", "tip": "ミューズの神殿 🏛️ 英語の museum とつづりまで同じです。", "warn": "複数形は die Museen！たくさんの博物館 = viele Museen"},
+      "A2-032": {"pron": "アウスシュテルング", "tip": "aus（外へ）+ stellen（置く）+ -ung = 外に並べて見せるもの 🖼️ -ung だから die！", "bonus": "特別展 = die Sonderausstellung"},
+      "B1-706": {"pron": "ガレリー", "tip": "イタリア語の galleria（屋根つきの回廊）から 🎨 最後の -ie は「リー」と長く！", "bonus": "小さな画廊にも、大きな美術館の名前にも Galerie を使います。"},
+      "A2-1035": {"pron": "エフヌングスツァイテン", "tip": "Öffnung（開くこと）+ Zeiten（時間）= 開いている時間 🕘", "warn": "ふつう複数形で使います：Die Öffnungszeiten sind …"},
+      "A2-562": {"pron": "ルントガング", "tip": "rund（丸い）+ Gang（歩くこと）= ぐるっと一周 🔄", "bonus": "einen Rundgang machen = ひと回り見て回る"},
+      "B1-480": {"pron": "アウスシュテレン", "tip": "aus（外に）+ stellen（置く）= 外に並べて見せる 🏺 役所では「書類を発行する」の意味にも！", "warn": "分離動詞です：Das Museum stellt Bilder von Klimt aus."},
+      "A2-795": {"pron": "ベズーハー", "tip": "besuchen（訪れる）+ -er = 訪れる人 🚶 -er で終わる人は der！", "bonus": "複数形も同じ形：die Besucher · 女性は die Besucherin"},
+      "A2-456": {"pron": "エアメースィグング", "tip": "mäßig（ほどよい）から。値段をほどよく下げること 🎟️", "bonus": "割引チケット = ermäßigt：Einmal ermäßigt, bitte!"},
+      "B2-2764": {"pron": "ザムルング", "tip": "sammeln（集める）+ -ung = 集めたもの 🗃️ zusammen（一緒に）とも親戚です。", "bonus": "常設展示 = die ständige Sammlung"},
+      "B2-1336": {"pron": "クンストヴェルク", "tip": "Kunst（芸術）+ Werk（作品）= 芸術作品 🖌️ Feuerwerk の Werk と同じ！", "bonus": "すばらしい作品！= Was für ein Kunstwerk!"}
+    },
+    "culture": [
+      "ベルリンの真ん中には、5つの博物館が集まる「博物館島（Museumsinsel）」があります。島全体がユネスコの世界遺産で、1日ではとても回りきれません。",
+      "多くの町では年に一度「博物館の長い夜（Lange Nacht der Museen）」が開かれます。チケット1枚で夜遅くまでいくつもの博物館を回れて、お祭りのような雰囲気です。",
+      "学生や子どもは割引になることが多いので、学生証を忘れずに。大きなかばんは、ふつうロッカー（Schließfach）かクローク（Garderobe）に預けて入ります。🎟️"
+    ],
+    "quiz": {"q": "博物館のチケット売り場で、学割があるか聞くには？", "o": ["Wo ist die Sammlung?", "Das Kunstwerk ist sehr schön.", "Gibt es eine Ermäßigung für Studenten?"], "a": 2, "why": "Ermäßigung = 割引。「学生割引はありますか？」という質問です。"},
+    "outro": "近くの博物館の Öffnungszeiten を調べて、Am Samstag ist das Museum von … bis … geöffnet. と声に出してみましょう。週末の予定、決まりですね！🏛️"
+  }
+}

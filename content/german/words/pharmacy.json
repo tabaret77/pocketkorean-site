@@ -1,0 +1,84 @@
+{
+  "key": "pharmacy",
+  "ko": {
+    "title": "약국에서 당황하지 않는 독일어 10",
+    "hook": "빨간 A 간판 아래 문을 열기 전에, 이 단어들만 챙겨 가세요.",
+    "intro": [
+      "두통약 하나 사러 갔는데 약사님이 묻는 거예요. „Nehmen Sie noch andere Medikamente?“ 순간 머릿속이 하얘지고, 결국 고개만 끄덕였던 기억이 있어요.",
+      "오늘은 약국에서 꼭 듣게 되는 단어 10개를 모았어요. 처방전이 필요한지 묻고, 하루에 몇 번 먹는지 알아듣고, 부작용까지 물어볼 수 있게 될 거예요. 💊"
+    ],
+    "words": {
+      "BL-08-01": {"pron": "아포테케", "tip": "영어 apothecary(옛날 약방)랑 형제예요 🏥 빨간 A 간판이 보이면 Apotheke!", "warn": "화장품·생활용품 파는 Drogerie(dm, Rossmann)는 약국이 아니에요."},
+      "BL-08-02": {"pron": "메디카멘트", "tip": "medicine이랑 비슷하게 생겼죠? 💊 약 이야기는 전부 Medikament로 통해요.", "bonus": "복수 die Medikamente · 진통제는 das Schmerzmittel"},
+      "A2-017": {"pron": "타블레테", "tip": "태블릿 PC처럼 납작한 알약 💊 끝에 -e가 붙으면 먹는 쪽이에요!", "warn": "태블릿 PC는 das Tablet이에요. 헷갈리지 마세요."},
+      "A2-018": {"pron": "레체프트", "tip": "영어 recipe와 같은 뿌리 📝 요리법도 처방전도 ‘이렇게 하세요’라는 종이!", "warn": "영수증(receipt)이 아니에요! 영수증은 der Kassenbon이나 die Quittung."},
+      "BL-08-05": {"pron": "레체프트프라이", "tip": "Rezept + frei(없는) = 처방전 없이 OK 🆓 약국에서 제일 반가운 단어!", "bonus": "반대말: verschreibungspflichtig = 처방전이 꼭 필요한"},
+      "BL-08-06": {"pron": "아인네멘", "tip": "ein(안으로) + nehmen(가져가다) = 몸 안으로 넣다 👄 약은 essen이 아니라 einnehmen!", "warn": "분리동사예요: Nehmen Sie die Tablette nach dem Essen ein."},
+      "BL-08-07": {"pron": "네벤비르쿵", "tip": "neben(옆에) + Wirkung(효과) = 옆으로 새는 효과 😵 -ung이니까 die!", "bonus": "약이 잘 들어요 = Das Medikament wirkt gut."},
+      "B1-1619": {"pron": "파쿵스바일라게", "tip": "Packung(상자) + Beilage(곁들임) = 상자에 곁들여 든 종이 📄 반찬처럼 따라와요!"},
+      "BL-08-04": {"pron": "후스텐자프트", "tip": "Husten(기침) + Saft(주스) = 기침 주스 🍯 이름은 귀여운데 맛은 글쎄요…", "warn": "복수는 움라우트: die Hustensäfte"},
+      "BL-08-08": {"pron": "잘베", "tip": "영어 salve(연고)와 같은 뿌리 🧴 상처에 ‘살살’ 바르는 잘베!", "bonus": "연고를 바르다 = die Salbe auftragen"}
+    },
+    "culture": [
+      "독일 약국은 문 앞의 빨간 A 간판으로 바로 알아볼 수 있어요. 이부프로펜 같은 간단한 약도 대부분 약국에서만 팔아서, 마트나 드럭스토어에서는 찾기 어려워요.",
+      "밤이나 일요일에 약이 필요하면 당번 약국(Notdienst-Apotheke)을 찾으면 돼요. 동네 약국들이 돌아가면서 문을 열고, 약국 문에 오늘의 당번 약국이 붙어 있는 경우가 많아요.",
+      "그리고 독일 약사님들은 상담을 꼼꼼하게 해 주는 편이에요. 증상을 말하면 rezeptfrei 약을 골라 주니까, 병원 가기 애매할 땐 약국부터 들러 보세요. 🏥"
+    ],
+    "quiz": {"q": "의사를 만나지 않고 기침 시럽을 사고 싶어요. 약사에게 뭐라고 물어볼까요?", "o": ["Ich brauche ein Rezept für die Salbe.", "Ist dieser Hustensaft rezeptfrei?", "Die Apotheke hat bis 20 Uhr geöffnet."], "a": 1, "why": "rezeptfrei = 처방전 없이 살 수 있는. 바로 그걸 묻는 문장이에요."},
+    "outro": "오늘은 „Ist das rezeptfrei?“, „Hat das Nebenwirkungen?“ 두 문장만 소리 내서 세 번씩 말해 봐요. 약국 문이 훨씬 가벼워질 거예요! 🍀"
+  },
+  "en": {
+    "title": "Your German pharmacy survival kit: 10 words",
+    "hook": "Before you walk under that red A sign, pack these words.",
+    "intro": [
+      "You pop in for some painkillers and the pharmacist asks, „Nehmen Sie noch andere Medikamente?“ Your mind goes blank, and you just nod and hope for the best.",
+      "Today's ten words are the ones you'll hear at every Apotheke. With them you can ask if you need a prescription, understand how often to take something, and ask about side effects. 💊"
+    ],
+    "words": {
+      "BL-08-01": {"pron": "ah-po-TAY-kuh", "tip": "A cousin of English apothecary 🏥 Look for the big red A sign.", "warn": "A Drogerie (like dm or Rossmann) sells shampoo and vitamins, but it isn't a pharmacy."},
+      "BL-08-02": {"pron": "meh-dee-kah-MENT", "tip": "Looks like medicine, means medicine 💊 Easy win.", "bonus": "Plural die Medikamente · painkiller = das Schmerzmittel"},
+      "A2-017": {"pron": "tab-LET-uh", "tip": "A tablet you swallow, with an -e on the end 💊 The -e makes it edible!", "warn": "A tablet computer is das Tablet."},
+      "A2-018": {"pron": "reh-TSEPT", "tip": "Same root as recipe 📝 Both are a note saying ‘do this’.", "warn": "False friend: a receipt is der Kassenbon or die Quittung."},
+      "BL-08-05": {"pron": "reh-TSEPT-fry", "tip": "Rezept + frei (free of) = no prescription needed 🆓 The happiest word at the counter.", "bonus": "Opposite: verschreibungspflichtig = prescription-only"},
+      "BL-08-06": {"pron": "INE-nay-men", "tip": "ein (in) + nehmen (take) = take it in 👄 You don't ‘eat’ medicine in German.", "warn": "Separable: Nehmen Sie die Tablette nach dem Essen ein."},
+      "BL-08-07": {"pron": "NAY-ben-veer-koong", "tip": "neben (beside) + Wirkung (effect) = an effect off to the side 😵 -ung, so die.", "bonus": "It works well = Das Medikament wirkt gut."},
+      "B1-1619": {"pron": "PACK-oongs-by-lah-guh", "tip": "Packung (box) + Beilage (side dish) = the paper served with the box 📄"},
+      "BL-08-04": {"pron": "HOOS-ten-zaft", "tip": "Husten (cough) + Saft (juice) = cough juice 🍯 Sounds nicer than it tastes.", "warn": "Plural with umlaut: die Hustensäfte"},
+      "BL-08-08": {"pron": "ZAL-buh", "tip": "Same root as English salve 🧴 Rub it in, twice a day.", "bonus": "to apply ointment = die Salbe auftragen"}
+    },
+    "culture": [
+      "German pharmacies are easy to spot thanks to the red A sign outside. Even simple medicines like ibuprofen are usually sold only there, so you won't find them in supermarkets or drugstores.",
+      "Need something at night or on a Sunday? Look for the emergency pharmacy (Notdienst-Apotheke). Local pharmacies take turns, and the one on duty is often posted on the door of every pharmacy nearby.",
+      "German pharmacists also tend to give proper advice. Describe your symptoms and they'll suggest something rezeptfrei, so the pharmacy is a good first stop when you're not sure you need a doctor. 🏥"
+    ],
+    "quiz": {"q": "You want cough syrup without seeing a doctor. What do you ask?", "o": ["Ich brauche ein Rezept für die Salbe.", "Ist dieser Hustensaft rezeptfrei?", "Die Apotheke hat bis 20 Uhr geöffnet."], "a": 1, "why": "rezeptfrei means you can buy it without a prescription — exactly what you want to know."},
+    "outro": "Say „Ist das rezeptfrei?“ and „Hat das Nebenwirkungen?“ out loud three times each today. Your next pharmacy visit will feel much easier! 🍀"
+  },
+  "ja": {
+    "title": "薬局であわてないためのドイツ語10",
+    "hook": "赤い A の看板をくぐる前に、この単語をポケットに入れておきましょう。",
+    "intro": [
+      "頭痛薬を買いに行ったら、薬剤師さんに „Nehmen Sie noch andere Medikamente?“ と聞かれて頭が真っ白。結局うなずくだけだった…そんな経験はありませんか？",
+      "今日は薬局で必ず耳にする単語を10個集めました。処方箋が必要か聞いたり、1日何回飲むか聞き取ったり、副作用について質問したりできるようになります。💊"
+    ],
+    "words": {
+      "BL-08-01": {"pron": "アポテーケ", "tip": "英語の apothecary（昔の薬屋）と親戚 🏥 赤い A の看板が目印！", "warn": "dm や Rossmann などの Drogerie は薬局ではありません。"},
+      "BL-08-02": {"pron": "メディカメント", "tip": "medicine に似ていますね 💊 薬の話はぜんぶ Medikament でOK。", "bonus": "複数形 die Medikamente · 痛み止めは das Schmerzmittel"},
+      "A2-017": {"pron": "タブレッテ", "tip": "タブレット端末みたいに平たい錠剤 💊 最後に -e がつくと飲めるほう！", "warn": "タブレット端末は das Tablet です。"},
+      "A2-018": {"pron": "レツェプト", "tip": "英語の recipe と同じ語源 📝 レシピも処方箋も「こうしてね」の紙！", "warn": "レシート（receipt）ではありません。レシートは der Kassenbon や die Quittung。"},
+      "BL-08-05": {"pron": "レツェプトフライ", "tip": "Rezept + frei（なしで）= 処方箋なしでOK 🆓 薬局でいちばんうれしい言葉！", "bonus": "反対語：verschreibungspflichtig = 処方箋が必要な"},
+      "BL-08-06": {"pron": "アインネーメン", "tip": "ein（中へ）+ nehmen（取る）= 体の中へ取り込む 👄 薬は essen ではなく einnehmen！", "warn": "分離動詞です：Nehmen Sie die Tablette nach dem Essen ein."},
+      "BL-08-07": {"pron": "ネーベンヴィルクング", "tip": "neben（横に）+ Wirkung（効果）= 横にそれた効果 😵 -ung だから die！", "bonus": "薬がよく効く = Das Medikament wirkt gut."},
+      "B1-1619": {"pron": "パックングスバイラーゲ", "tip": "Packung（箱）+ Beilage（付け合わせ）= 箱に添えられた紙 📄 おかずのようについてきます！"},
+      "BL-08-04": {"pron": "フーステンザフト", "tip": "Husten（咳）+ Saft（ジュース）= 咳のジュース 🍯 名前はかわいいけれど味は…？", "warn": "複数形はウムラウト：die Hustensäfte"},
+      "BL-08-08": {"pron": "ザルベ", "tip": "英語の salve（軟膏）と同じ語源 🧴 傷にそっと塗るザルベ！", "bonus": "軟膏を塗る = die Salbe auftragen"}
+    },
+    "culture": [
+      "ドイツの薬局は、入口の赤い A の看板ですぐにわかります。イブプロフェンのような簡単な薬もたいてい薬局でしか売っておらず、スーパーやドラッグストアではまず見つかりません。",
+      "夜や日曜日に薬が必要なときは、当番薬局（Notdienst-Apotheke）を探しましょう。地域の薬局が交代で開けていて、その日の当番薬局が各薬局のドアに貼り出されていることが多いです。",
+      "それから、ドイツの薬剤師さんはわりとしっかり相談に乗ってくれます。症状を伝えれば rezeptfrei の薬を選んでくれるので、病院に行くか迷ったらまず薬局へ。🏥"
+    ],
+    "quiz": {"q": "医者にかからずに咳止めシロップを買いたいです。薬剤師さんに何と聞きますか？", "o": ["Ich brauche ein Rezept für die Salbe.", "Ist dieser Hustensaft rezeptfrei?", "Die Apotheke hat bis 20 Uhr geöffnet."], "a": 1, "why": "rezeptfrei = 処方箋なしで買える、なので知りたいことをそのまま聞ける文です。"},
+    "outro": "今日は „Ist das rezeptfrei?“ と „Hat das Nebenwirkungen?“ を声に出して3回ずつ言ってみましょう。次の薬局がぐっと気楽になりますよ！🍀"
+  }
+}

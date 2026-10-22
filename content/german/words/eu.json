@@ -1,0 +1,84 @@
+{
+  "key": "eu",
+  "ko": {
+    "title": "뉴스가 들리기 시작하는 EU 독일어 10",
+    "hook": "독일 뉴스에 하루에도 몇 번씩 나오는 두 글자, EU. 오늘은 그 주변 단어까지 잡아요.",
+    "intro": [
+      "저녁에 독일 뉴스를 틀면 꼭 나오는 말이 있어요. “Die EU-Mitgliedstaaten haben sich geeinigt…” 앵커는 빠르게 지나가고, 저는 EU라는 두 글자만 겨우 알아들었어요.",
+      "오늘은 유럽연합과 관련된 단어 10개예요. 뉴스 헤드라인 읽기, 국경 넘는 여행 이야기, 유로로 가격 말하기까지 이 10개면 유럽 이야기가 훨씬 가깝게 느껴질 거예요. 🇪🇺"
+    ],
+    "words": {
+      "A1-637": {"pron": "오이로파", "tip": "그리스 신화의 공주 에우로페 👸 독일어로는 ‘오이로파’!", "warn": "나라·대륙 이름처럼 보통 관사 없이 써요: in Europa."},
+      "B1-2539": {"pron": "에우", "tip": "알파벳으로 E-U, 독일어식으로 ‘에-우’ 🇪🇺 Union이 die라서 die EU!", "warn": "늘 관사와 함께: in der EU, aus der EU."},
+      "A1-639": {"pron": "오이로패이쉬", "tip": "Europa + -isch = 유럽의 🌍 a가 ä로 바뀌는 것만 기억!", "bonus": "die Europäische Union처럼 이름의 일부일 땐 대문자로 써요."},
+      "A1-638": {"pron": "오이로패어", "tip": "Europa + -er = 유럽 사람 🙋 Berliner, Koreaner처럼 -er이면 사람!", "bonus": "여성은 die Europäerin"},
+      "C1-4612": {"pron": "미트글리트슈타트", "tip": "Mitglied(회원) + Staat(국가) = 회원국 🏛️ 레고처럼 붙였어요.", "bonus": "회원 = das Mitglied · Mitglied werden = 가입하다"},
+      "A1-615": {"pron": "오이로", "tip": "Europa에서 따온 이름 💶 ‘유로’가 아니라 ‘오이로’!", "warn": "가격 말할 땐 복수 어미 없이: zwei Euro."},
+      "B2-560": {"pron": "베룽", "tip": "옛말로 ‘보증’ 💱 나라가 가치를 보증해 주는 돈 = 통화!", "bonus": "환율 = der Wechselkurs"},
+      "A2-109": {"pron": "그렌체", "tip": "슬라브어 granica에서 왔어요 🛂 독일어가 이웃 나라에게 빌린 단어!", "bonus": "über die Grenze fahren = 국경을 넘어가다 · ‘한계’라는 뜻도 있어요."},
+      "C1-3649": {"pron": "비넨마르크트", "tip": "binnen(안에서) + Markt(시장) = 안쪽에서 하나로 묶인 시장 🛒", "warn": "복수는 움라우트: die Binnenmärkte."},
+      "B2-142": {"pron": "추잠멘아르바이트", "tip": "zusammen(함께) + Arbeit(일) = 함께 일하기, 협력 🤝 Arbeit가 die라서 die!", "bonus": "이메일 끝인사로 자주 써요: Vielen Dank für die gute Zusammenarbeit!"}
+    },
+    "culture": [
+      "EU 시민은 다른 EU 나라에서 비자 없이 살고 일할 수 있어요. 그래서 독일 회사에는 이탈리아, 스페인, 폴란드 등 여러 나라에서 온 동료가 함께 일하는 경우가 많아요.",
+      "솅겐 지역 안에서는 보통 국경에서 여권 검사를 하지 않아서, 기차를 타고 있다 보면 어느새 다른 나라에 있어요. 다만 상황에 따라 검사를 하기도 하니, 여권이나 신분증은 늘 챙겨 다녀요.",
+      "그리고 EU 나라라고 모두 유로를 쓰는 건 아니에요. 예를 들어 폴란드나 체코는 자기 나라 통화를 써요. 국경 넘기 전에 Währung을 한번 확인해 보세요. 💶"
+    ],
+    "quiz": {"q": "빵 가격을 말하려고 해요. 올바른 문장은?", "o": ["Das Brot kostet zwei Euros.", "Das Brot kostet zweien Euro.", "Das Brot kostet zwei Euro."], "a": 2, "why": "가격을 말할 때 Euro는 복수 어미 없이 zwei Euro라고 해요."},
+    "outro": "오늘 저녁 독일 뉴스 헤드라인 하나만 읽어 보고, 오늘 단어가 몇 개 나오는지 찾아봐요. Viel Spaß! 📰"
+  },
+  "en": {
+    "title": "Understand the news: 10 German words about the EU",
+    "hook": "Two letters come up again and again on German news: EU. Today we'll learn the words around them.",
+    "intro": [
+      "You switch on the German evening news and hear: “Die EU-Mitgliedstaaten haben sich geeinigt…” The presenter rushes on, and all you catch is the letters E and U.",
+      "Today's ten words are about the European Union. With them you can follow headlines, talk about crossing borders and say prices in euros. 🇪🇺"
+    ],
+    "words": {
+      "A1-637": {"pron": "oy-ROH-pa", "tip": "Named after the princess Europa from Greek myth 👸 In German it starts with ‘oy’.", "warn": "Like most place names, no article: in Europa."},
+      "B1-2539": {"pron": "ay-OO", "tip": "Say the letters the German way: E-U 🇪🇺 die Union → die EU.", "warn": "Always with the article: in der EU, aus der EU."},
+      "A1-639": {"pron": "oy-roh-PAY-ish", "tip": "Europa + -isch = European 🌍 Just remember the a turns into ä.", "bonus": "Capitalised when it's part of a name: die Europäische Union."},
+      "A1-638": {"pron": "oy-roh-PAY-er", "tip": "Europa + -er = a European 🙋 Like Berliner: -er makes a person.", "bonus": "Female: die Europäerin"},
+      "C1-4612": {"pron": "MIT-gleet-shtaht", "tip": "Mitglied (member) + Staat (state) = member state 🏛️ Snap the pieces together.", "bonus": "A member is das Mitglied; to join is Mitglied werden."},
+      "A1-615": {"pron": "OY-roh", "tip": "Named after Europa 💶 Say ‘OY-roh’, not ‘YOU-roh’!", "warn": "No plural ending with prices: zwei Euro."},
+      "B2-560": {"pron": "VAIR-oong", "tip": "An old word for ‘guarantee’ 💱 Money whose value the state guarantees = currency.", "bonus": "Exchange rate = der Wechselkurs"},
+      "A2-109": {"pron": "GREN-tsuh", "tip": "Borrowed from Slavic granica 🛂 German took this word from its neighbours!", "bonus": "über die Grenze fahren = to cross the border · It can also mean ‘limit’."},
+      "C1-3649": {"pron": "BIN-en-markt", "tip": "binnen (within) + Markt (market) = one market on the inside 🛒", "warn": "Plural with umlaut: die Binnenmärkte."},
+      "B2-142": {"pron": "tsoo-ZAM-en-ar-bite", "tip": "zusammen (together) + Arbeit (work) = cooperation 🤝 die Arbeit → die.", "bonus": "A classic email sign-off: Vielen Dank für die gute Zusammenarbeit!"}
+    },
+    "culture": [
+      "EU citizens can live and work in other EU countries without a visa. That's why German workplaces often have colleagues from Italy, Spain, Poland and many other countries.",
+      "Within the Schengen area there are usually no passport checks at the border, so on a train you may suddenly find yourself in another country. Checks do happen sometimes, though, so always carry your passport or ID.",
+      "Not every EU country uses the euro. Poland and the Czech Republic, for example, have their own currencies. Check the Währung before you cross the border. 💶"
+    ],
+    "quiz": {"q": "You want to say what the bread costs. Which sentence is correct?", "o": ["Das Brot kostet zwei Euros.", "Das Brot kostet zweien Euro.", "Das Brot kostet zwei Euro."], "a": 2, "why": "With prices, Euro takes no plural ending: zwei Euro."},
+    "outro": "Read one German news headline tonight and count how many of today's words you spot. Viel Spaß! 📰"
+  },
+  "ja": {
+    "title": "ニュースが聞き取れるEUのドイツ語10",
+    "hook": "ドイツのニュースに一日に何度も出てくる二文字、EU。今日はそのまわりの単語までつかみましょう。",
+    "intro": [
+      "夜にドイツのニュースをつけると、必ず聞こえてくる言葉があります。「Die EU-Mitgliedstaaten haben sich geeinigt…」アナウンサーはどんどん先へ進み、私が聞き取れたのは EU の二文字だけでした。",
+      "今日は欧州連合にまつわる単語を10個集めました。ニュースの見出しを読む、国境を越える旅の話をする、ユーロで値段を言う。この10個でヨーロッパの話題がぐっと身近になります。🇪🇺"
+    ],
+    "words": {
+      "A1-637": {"pron": "オイローパ", "tip": "ギリシャ神話の王女エウロペから 👸 ドイツ語では「オイローパ」！", "warn": "国名や大陸名と同じく、ふつう冠詞なし：in Europa。"},
+      "B1-2539": {"pron": "エー ウー", "tip": "アルファベットをドイツ語読みで「エー・ウー」🇪🇺 Union が die なので die EU！", "warn": "いつも冠詞つき：in der EU、aus der EU。"},
+      "A1-639": {"pron": "オイロペーイッシュ", "tip": "Europa + -isch = ヨーロッパの 🌍 a が ä に変わるのだけ注意！", "bonus": "die Europäische Union のように名前の一部なら大文字で書きます。"},
+      "A1-638": {"pron": "オイロペーアー", "tip": "Europa + -er = ヨーロッパ人 🙋 Berliner のように -er で人になります！", "bonus": "女性は die Europäerin"},
+      "C1-4612": {"pron": "ミットグリートシュタート", "tip": "Mitglied（メンバー）+ Staat（国家）= 加盟国 🏛️ レゴのように合体！", "bonus": "メンバー = das Mitglied・Mitglied werden = 加盟する"},
+      "A1-615": {"pron": "オイロ", "tip": "Europa から取った名前 💶「ユーロ」ではなく「オイロ」！", "warn": "値段を言うときは複数語尾なし：zwei Euro。"},
+      "B2-560": {"pron": "ヴェールング", "tip": "古い言葉で「保証」💱 国が価値を保証するお金 = 通貨！", "bonus": "為替レート = der Wechselkurs"},
+      "A2-109": {"pron": "グレンツェ", "tip": "スラブ語 granica から 🛂 ドイツ語がお隣の国から借りた言葉！", "bonus": "über die Grenze fahren = 国境を越える・「限界」の意味もあります。"},
+      "C1-3649": {"pron": "ビンネンマルクト", "tip": "binnen（内側で）+ Markt（市場）= 内側でひとつになった市場 🛒", "warn": "複数はウムラウト：die Binnenmärkte。"},
+      "B2-142": {"pron": "ツザメンアルバイト", "tip": "zusammen（一緒に）+ Arbeit（仕事）= 協力 🤝 Arbeit が die なので die！", "bonus": "メールの締めの定番：Vielen Dank für die gute Zusammenarbeit!"}
+    },
+    "culture": [
+      "EU市民はほかのEU諸国でビザなしで暮らし、働くことができます。そのためドイツの職場には、イタリアやスペイン、ポーランドなどいろいろな国から来た同僚がいることがよくあります。",
+      "シェンゲン圏内ではふつう国境でパスポート検査がないので、列車に乗っているといつの間にか別の国にいます。ただ状況によって検査をすることもあるので、パスポートや身分証はいつも持ち歩きましょう。",
+      "それから、EUの国がすべてユーロを使っているわけではありません。たとえばポーランドやチェコは自国の通貨を使っています。国境を越える前に Währung を確かめてみてください。💶"
+    ],
+    "quiz": {"q": "パンの値段を言いたいです。正しい文はどれ？", "o": ["Das Brot kostet zwei Euros.", "Das Brot kostet zweien Euro.", "Das Brot kostet zwei Euro."], "a": 2, "why": "値段を言うとき Euro は複数語尾をつけず zwei Euro と言います。"},
+    "outro": "今夜はドイツのニュースの見出しをひとつ読んで、今日の単語がいくつ出てくるか探してみましょう。Viel Spaß! 📰"
+  }
+}

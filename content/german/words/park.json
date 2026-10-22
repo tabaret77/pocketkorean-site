@@ -1,0 +1,84 @@
+{
+  "key": "park",
+  "ko": {
+    "title": "햇살 좋은 날, 공원에서 쓰는 독일어 10",
+    "hook": "독일 사람들은 해만 나면 공원으로 달려가요. 우리도 단어 챙겨서 따라가 볼까요?",
+    "intro": [
+      "몇 주 만에 해가 났어요. 베를린 공원 잔디밭은 담요를 펼친 사람들로 가득하고, 어디선가 소시지 굽는 냄새가 나요. 친구가 ‘Picknick im Park?’ 하고 문자를 보내요.",
+      "오늘은 공원과 소풍에 필요한 단어 10개예요. 이 10개면 친구와 소풍 약속을 잡고, 뭘 챙길지 정하고, 공원에서 길을 설명할 수도 있어요. 🧺"
+    ],
+    "words": {
+      "A1-147": {"pron": "파르크", "tip": "영어 park와 똑같아요 🌳 끝의 k를 살짝 터뜨려 ‘파르크’!", "bonus": "im Park spazieren gehen = 공원을 산책하다"},
+      "B1-1405": {"pron": "비제", "tip": "‘비제~’ 바람에 풀이 눕는 소리 🌾 -e로 끝나니 die!", "bonus": "뮌헨 사람들은 옥토버페스트를 die Wiesn이라고 불러요."},
+      "B1-1029": {"pron": "피크닉", "tip": "영어 picnic과 소리가 똑같아요 🥪 철자만 독일식으로 ck, ck!", "bonus": "ein Picknick machen = 소풍 가다, 피크닉하다"},
+      "A2-217": {"pron": "데케", "tip": "decken(덮다)에서 왔어요 🛏️ 덮는 거니까 담요, 위를 덮는 천장도 Decke!", "warn": "‘천장’이라는 뜻도 있어요: an der Decke = 천장에"},
+      "A2-801": {"pron": "코르프", "tip": "‘코르프’ 하고 바구니 안에 쏙 🧺 b는 끝에서 ‘프’ 소리가 나요.", "bonus": "jemandem einen Korb geben = 누군가의 고백을 거절하다"},
+      "BL-06-01": {"pron": "방크", "tip": "앉는 벤치도, 돈 맡기는 은행도 Bank 🪑 옛날 환전상이 벤치에서 일했대요.", "warn": "복수 함정: 벤치는 die Bänke, 은행은 die Banken!"},
+      "A2-314": {"pron": "그릴렌", "tip": "영어 grill에 -en만 붙이면 동사 완성 🔥", "bonus": "그릴 자체는 der Grill · 독일 그릴의 주인공은 die Wurst!"},
+      "B1-1168": {"pron": "슈필플라츠", "tip": "spielen(놀다) + Platz(장소) = 노는 장소, 놀이터 🛝", "bonus": "그네 = die Schaukel · 미끄럼틀 = die Rutsche"},
+      "A1-267": {"pron": "바움", "tip": "영어 beam(들보)과 같은 뿌리 🌳 나무로 들보를 만들었으니까요!", "warn": "복수는 움라우트: die Bäume"},
+      "B2-2782": {"pron": "타이히", "tip": "작은 연못에서 오리가 ‘타이히~’ 🦆", "warn": "Teich는 작은 연못이에요. 호수는 der See!"}
+    },
+    "culture": [
+      "독일에서는 날씨가 좋아지면 공원 잔디밭(Wiese)에 담요를 깔고 책을 읽거나 낮잠을 자는 사람이 정말 많아요. 공원에서 맥주 한 병 마시는 것도 흔한 풍경이에요.",
+      "공원에서 그릴을 하고 싶다면 먼저 표지판을 확인하세요. 많은 도시에서 정해진 그릴 구역(Grillplatz)에서만 할 수 있고, 규칙은 도시나 공원마다 달라요.",
+      "그리고 떠날 때는 쓰레기를 꼭 챙겨 가요. 빈 병은 마트에 가져가면 보증금(Pfand)을 돌려받을 수 있어서, 병을 쓰레기통 옆에 놓아두는 사람도 있어요. ♻️"
+    ],
+    "quiz": {"q": "공원에서 걷다가 다리가 아파요. 친구에게 ‘벤치에 앉자!’고 말하려면?", "o": ["Setzen wir uns an den Teich!", "Setzen wir uns auf die Bank!", "Setzen wir uns in den Korb!"], "a": 1, "why": "die Bank는 은행뿐 아니라 벤치라는 뜻도 있어요. auf die Bank = 벤치 위에."},
+    "outro": "다음에 공원에 가면 눈에 보이는 것들을 독일어로 하나씩 말해 봐요: der Baum, die Bank, der Teich… 🌳"
+  },
+  "en": {
+    "title": "Sunshine German: 10 words for a day in the park",
+    "hook": "Germans head for the park the moment the sun comes out. Pack these words and join them.",
+    "intro": [
+      "The sun is out for the first time in weeks. The grass in the park is covered with blankets, and someone somewhere is grilling sausages. Your friend texts: ‘Picknick im Park?’",
+      "Today's ten words are all about parks and picnics. With them you can plan a picnic, decide what to bring and tell your friends exactly where to find you. 🧺"
+    ],
+    "words": {
+      "A1-147": {"pron": "PARK", "tip": "Exactly like English park 🌳 Just roll the r a little.", "bonus": "im Park spazieren gehen = to go for a walk in the park"},
+      "B1-1405": {"pron": "VEE-zuh", "tip": "Hear the grass swaying in the wind: VEE-zuh 🌾 Ends in -e, so die.", "bonus": "In Munich, the Oktoberfest is simply called die Wiesn."},
+      "B1-1029": {"pron": "PICK-nick", "tip": "Sounds just like picnic 🥪 Only the spelling is German: ck, ck.", "bonus": "ein Picknick machen = to have a picnic"},
+      "A2-217": {"pron": "DECK-uh", "tip": "From decken (to cover) 🛏️ A blanket covers you; a ceiling covers the room.", "warn": "It also means ceiling: an der Decke = on the ceiling."},
+      "A2-801": {"pron": "KORP", "tip": "Plop it in the basket: KORP 🧺 A final b sounds like p.", "bonus": "jemandem einen Korb geben = to turn someone down"},
+      "BL-06-01": {"pron": "BAHNK", "tip": "A bench and a bank are both Bank 🪑 Money changers once worked at benches.", "warn": "Plural trap: benches = die Bänke, banks = die Banken."},
+      "A2-314": {"pron": "GRILL-en", "tip": "English grill + -en = a German verb 🔥", "bonus": "The grill itself is der Grill — and the star is die Wurst."},
+      "B1-1168": {"pron": "SHPEEL-plats", "tip": "spielen (play) + Platz (place) = playground 🛝", "bonus": "swing = die Schaukel · slide = die Rutsche"},
+      "A1-267": {"pron": "BOWM", "tip": "Same root as English beam 🌳 Beams were made from trees.", "warn": "Umlaut in the plural: die Bäume."},
+      "B2-2782": {"pron": "TYKH", "tip": "A little pond where ducks paddle 🦆 Related to English ditch.", "warn": "Teich = pond. A lake is der See."}
+    },
+    "culture": [
+      "As soon as the weather is nice, German parks fill up with people lying on blankets on the grass (Wiese), reading, napping or chatting. A bottle of beer in the park is a very normal sight.",
+      "If you want to barbecue, check the signs first. In many cities grilling is only allowed in marked areas (Grillplatz), and the rules vary from city to city and park to park.",
+      "And take your rubbish home. Empty bottles can be returned to supermarkets for a deposit (Pfand), so some people leave them next to the bin for collectors. ♻️"
+    ],
+    "quiz": {"q": "Your legs are tired after a walk in the park. How do you suggest sitting on a bench?", "o": ["Setzen wir uns an den Teich!", "Setzen wir uns auf die Bank!", "Setzen wir uns in den Korb!"], "a": 1, "why": "die Bank means bench as well as bank, and auf die Bank = onto the bench."},
+    "outro": "Next time you're in a park, name what you see out loud: der Baum, die Bank, der Teich… 🌳"
+  },
+  "ja": {
+    "title": "晴れた日に公園で使うドイツ語10",
+    "hook": "ドイツの人たちは太陽が出たとたん公園へ向かいます。私たちも単語を持って出かけましょう。",
+    "intro": [
+      "何週間ぶりかの晴れ。ベルリンの公園の芝生はシートを広げた人でいっぱいで、どこからかソーセージを焼くにおいがします。友だちから「Picknick im Park?」とメッセージが届きました。",
+      "今日は公園とピクニックに必要な単語10個です。この10個があれば、ピクニックの約束をして、持ち物を決めて、公園のどこにいるかも説明できます。🧺"
+    ],
+    "words": {
+      "A1-147": {"pron": "パルク", "tip": "英語の park と同じ 🌳 最後の k を軽くはじいて「パルク」！", "bonus": "im Park spazieren gehen = 公園を散歩する"},
+      "B1-1405": {"pron": "ヴィーゼ", "tip": "風に草がなびく音「ヴィーゼ」🌾 -e で終わるので die！", "bonus": "ミュンヘンの人はオクトーバーフェストを die Wiesn と呼びます。"},
+      "B1-1029": {"pron": "ピックニック", "tip": "英語の picnic と同じ音 🥪 つづりだけドイツ式に ck, ck！", "bonus": "ein Picknick machen = ピクニックをする"},
+      "A2-217": {"pron": "デッケ", "tip": "decken（覆う）から 🛏️ 体を覆うのは毛布、部屋を覆うのは天井！", "warn": "「天井」の意味もあります：an der Decke = 天井に"},
+      "A2-801": {"pron": "コルプ", "tip": "かごにポンと入れて「コルプ」🧺 語末の b は「プ」の音です。", "bonus": "jemandem einen Korb geben = 告白を断る"},
+      "BL-06-01": {"pron": "バンク", "tip": "座るベンチもお金を預ける銀行も Bank 🪑 昔の両替商はベンチで仕事をしていたそう。", "warn": "複数形の罠：ベンチは die Bänke、銀行は die Banken！"},
+      "A2-314": {"pron": "グリレン", "tip": "英語 grill に -en をつければ動詞の完成 🔥", "bonus": "グリルそのものは der Grill。主役はもちろん die Wurst！"},
+      "B1-1168": {"pron": "シュピールプラッツ", "tip": "spielen（遊ぶ）+ Platz（場所）= 遊び場 🛝", "bonus": "ぶらんこ = die Schaukel · すべり台 = die Rutsche"},
+      "A1-267": {"pron": "バウム", "tip": "英語の beam（梁）と同じ語源 🌳 梁は木で作るから！", "warn": "複数形はウムラウト：die Bäume"},
+      "B2-2782": {"pron": "タイヒ", "tip": "小さな池でアヒルがすいすい 🦆", "warn": "Teich は小さな池。湖は der See です。"}
+    },
+    "culture": [
+      "ドイツでは天気がよくなると、公園の芝生（Wiese）にシートを敷いて本を読んだり昼寝をしたりする人が本当にたくさんいます。公園でビールを1本飲むのもよくある光景です。",
+      "公園でバーベキューをしたいなら、まず看板を確認しましょう。多くの町では決められたグリル場所（Grillplatz）でしかできず、ルールは町や公園によって違います。",
+      "帰るときはごみを必ず持ち帰りましょう。空き瓶はスーパーに返すとデポジット（Pfand）が戻ってくるので、瓶をごみ箱の横に置いておく人もいます。♻️"
+    ],
+    "quiz": {"q": "公園を歩いていて足が疲れました。友だちに「ベンチに座ろう！」と言うなら？", "o": ["Setzen wir uns an den Teich!", "Setzen wir uns auf die Bank!", "Setzen wir uns in den Korb!"], "a": 1, "why": "die Bank は銀行だけでなくベンチの意味もあり、auf die Bank = ベンチの上に、です。"},
+    "outro": "次に公園へ行ったら、目に入るものをドイツ語で言ってみましょう：der Baum, die Bank, der Teich… 🌳"
+  }
+}

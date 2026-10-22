@@ -1,0 +1,84 @@
+{
+  "key": "wg",
+  "ko": {
+    "title": "독일에서 방 구할 때 꼭 나오는 단어 10",
+    "hook": "독일 방 구하기는 거의 면접이에요. 단어부터 준비해 가요!",
+    "intro": [
+      "베를린에서 처음 방을 구할 때, 광고 하나에 메시지를 수십 통씩 보냈어요. 겨우 답장이 와서 집을 보러 갔더니, 거실에 다른 지원자들이 줄줄이 앉아 있더라고요. 그날 질문이 계속 쏟아졌어요.",
+      "오늘은 WG랑 집 구하기에 꼭 나오는 단어 10개예요. 광고 읽기부터 집 보러 가기, 보증금 묻기, 입주 날짜 정하기까지 이 10개면 혼자서도 할 수 있어요. 🏘️"
+    ],
+    "words": {
+      "BL-05-01": {"pron": "베게", "tip": "Wohn(주거) + Gemeinschaft(공동체)의 머리글자 🏠 Gemeinschaft가 die라서 WG도 die!", "bonus": "WG에 딸린 방 = das WG-Zimmer"},
+      "BL-05-07": {"pron": "미트베보너", "tip": "mit(함께) + Bewohner(사는 사람) = 같이 사는 사람 👫", "bonus": "여자 룸메이트는 die Mitbewohnerin"},
+      "A1-003": {"pron": "침머", "tip": "영어 timber(목재)랑 같은 뿌리예요 🪵 옛날 방은 나무로 지었으니까요!", "bonus": "Wohnzimmer(거실), Schlafzimmer(침실), Badezimmer(욕실) 전부 Zimmer로 끝나요."},
+      "A2-202": {"pron": "안차이게", "tip": "anzeigen(보여 주다)에서 온 말 📰 사람들에게 보여 주는 글 = 광고!", "warn": "Anzeige erstatten은 경찰에 신고한다는 뜻이에요. 광고 내기는 eine Anzeige aufgeben."},
+      "BL-05-06": {"pron": "베지히티궁", "tip": "be- + sicht(보기) + -ung = 직접 보러 가기 👀 -ung이니까 die!", "bonus": "동사는 besichtigen: Kann ich das Zimmer besichtigen?"},
+      "BL-05-05": {"pron": "카우치온", "tip": "보증금 맡길 땐 조심(caution)해서 계약서 확인 🔑", "warn": "영어 caution(주의)과 뜻이 달라요. Kaution = 보증금(또는 보석금)!"},
+      "BL-05-08": {"pron": "뫼블리어트", "tip": "Möbel(가구)이 들어 있으면 möbliert 🛋️", "bonus": "반대말 = unmöbliert (가구 없음)"},
+      "A1-620": {"pron": "크바드라트메터", "tip": "Quadrat(정사각형) + Meter = 제곱미터 📐 광고에는 보통 qm 또는 m²로 써요.", "bonus": "Wie viele Quadratmeter hat das Zimmer? = 방이 몇 제곱미터예요?"},
+      "BL-05-09": {"pron": "아인치엔", "tip": "ein(안으로) + ziehen(옮기다) = 들어와 살기 📦 나갈 땐 aus!", "warn": "분리동사 + sein 완료: Ich bin gestern eingezogen. ausziehen은 ‘이사 나가다’와 ‘옷을 벗다’ 둘 다예요."},
+      "A2-053": {"pron": "움치엔", "tip": "um(바꿔서) + ziehen(옮기다) = 사는 곳을 바꾸기 🚚", "warn": "sich umziehen은 ‘옷을 갈아입다’예요. 이사는 sich 없이! 완료도 sein: Wir sind umgezogen."}
+    },
+    "culture": [
+      "인기 있는 WG에서는 지원자를 여러 명 불러서 대화를 나누는 ‘WG-Casting’을 하기도 해요. 방 상태만 보는 게 아니라 서로 잘 맞는지 보는 자리라서, 취미나 요리, 청소 습관 같은 걸 자주 물어봐요.",
+      "광고에서 자주 보는 말이 Kaltmiete와 Warmmiete예요. Kaltmiete는 순수 월세, Warmmiete는 난방비 같은 관리비(Nebenkosten)까지 포함한 금액이에요. 비교할 땐 꼭 같은 기준으로 봐야 해요.",
+      "그리고 입주하면 보통 2주 안에 주소 등록(Anmeldung)을 해야 하는데, 이때 집주인이나 메인 세입자가 써 주는 확인서가 필요해요. 입주할 때 미리 부탁해 두면 편해요. 📝"
+    ],
+    "quiz": {"q": "광고에서 마음에 드는 방을 찾았어요. 집을 보러 가도 되는지 묻는 말은?", "o": ["Ist das Zimmer möbliert?", "Wann kann ich einziehen?", "Kann ich das Zimmer besichtigen?"], "a": 2, "why": "besichtigen = (집을) 보러 가다. Kann ich das Zimmer besichtigen? = 방 보러 가도 될까요?"},
+    "outro": "오늘은 내 방을 독일어 광고처럼 소개해 봐요. Das Zimmer hat 15 Quadratmeter und ist möbliert. 이렇게요! 🔑"
+  },
+  "en": {
+    "title": "Flat hunting in Germany: 10 words you'll need",
+    "hook": "Finding a room in Germany can feel like a job interview, so prepare your words first.",
+    "intro": [
+      "When I first looked for a room in Berlin, I sent dozens of messages for every ad. When someone finally replied and I went to see the place, the living room was full of other applicants, and the questions just kept coming.",
+      "Today's ten words are the ones you'll meet when flat hunting. With them you can read an ad, go to a viewing, ask about the deposit and agree on a move-in date. 🏘️"
+    ],
+    "words": {
+      "BL-05-01": {"pron": "vay-GAY", "tip": "The initials of Wohngemeinschaft (living community) 🏠 die Gemeinschaft → die WG.", "bonus": "A room in a flatshare = das WG-Zimmer"},
+      "BL-05-07": {"pron": "MIT-buh-voh-ner", "tip": "mit (with) + Bewohner (resident) = someone you live with 👫", "bonus": "A female flatmate is die Mitbewohnerin."},
+      "A1-003": {"pron": "TSIM-er", "tip": "Same root as English timber 🪵 Rooms used to be made of wood!", "bonus": "Wohnzimmer (living room), Schlafzimmer (bedroom), Badezimmer (bathroom) all end in Zimmer."},
+      "A2-202": {"pron": "AN-tsy-guh", "tip": "From anzeigen (to show) 📰 Something you show to everyone = an ad.", "warn": "Anzeige erstatten means reporting something to the police. To place an ad is eine Anzeige aufgeben."},
+      "BL-05-06": {"pron": "buh-ZIKH-ti-goong", "tip": "be- + Sicht (sight) + -ung = going to see it 👀 -ung means die.", "bonus": "The verb is besichtigen: Kann ich das Zimmer besichtigen?"},
+      "BL-05-05": {"pron": "kow-TSYOHN", "tip": "Be cautious with your deposit and read the contract 🔑", "warn": "False friend: Kaution is a deposit (or bail), not ‘caution’."},
+      "BL-05-08": {"pron": "mur-BLEERT", "tip": "Möbel (furniture) inside → möbliert 🛋️", "bonus": "The opposite is unmöbliert (unfurnished)."},
+      "A1-620": {"pron": "kva-DRAHT-may-ter", "tip": "Quadrat (square) + Meter 📐 Ads usually write qm or m².", "bonus": "Wie viele Quadratmeter hat das Zimmer? = How big is the room?"},
+      "BL-05-09": {"pron": "INE-tsee-en", "tip": "ein (in) + ziehen (move) = move in 📦 Moving out is aus.", "warn": "Separable, with sein: Ich bin gestern eingezogen. And ausziehen means both ‘move out’ and ‘undress’."},
+      "A2-053": {"pron": "OOM-tsee-en", "tip": "um (change) + ziehen (move) = change where you live 🚚", "warn": "sich umziehen means ‘get changed’. Moving house has no sich, and the perfect uses sein: Wir sind umgezogen."}
+    },
+    "culture": [
+      "Popular flatshares sometimes hold a ‘WG-Casting’: several applicants come round to chat. It's less about the room and more about whether you get along, so expect questions about hobbies, cooking and cleaning habits.",
+      "Ads often mention Kaltmiete and Warmmiete. Kaltmiete is the bare rent; Warmmiete includes extra costs (Nebenkosten) such as heating. Compare like with like.",
+      "After moving in, you usually have to register your address (Anmeldung) within two weeks, and you need a confirmation form from your landlord or main tenant. Ask for it when you move in. 📝"
+    ],
+    "quiz": {"q": "You've found a room you like in an ad. How do you ask if you can come and see it?", "o": ["Ist das Zimmer möbliert?", "Wann kann ich einziehen?", "Kann ich das Zimmer besichtigen?"], "a": 2, "why": "besichtigen means to view a place, so this asks for a viewing."},
+    "outro": "Try describing your own room like a German ad: Das Zimmer hat 15 Quadratmeter und ist möbliert. Say it out loud! 🔑"
+  },
+  "ja": {
+    "title": "ドイツの部屋探しで必ず出会う単語10",
+    "hook": "ドイツの部屋探しはほとんど面接。まずは単語から準備しましょう。",
+    "intro": [
+      "ベルリンで初めて部屋を探したとき、1つの広告に何十通もメッセージを送りました。やっと返事が来て内見に行くと、リビングにはほかの応募者がずらり。質問が次々に飛んできました。",
+      "今日はWGと部屋探しに必ず出てくる単語を10個集めました。広告を読む、内見に行く、敷金を聞く、入居日を決める。この10個があれば一人でもできます。🏘️"
+    ],
+    "words": {
+      "BL-05-01": {"pron": "ヴェーゲー", "tip": "Wohn（住む）+ Gemeinschaft（共同体）の頭文字 🏠 Gemeinschaft が die なので WG も die！", "bonus": "シェアハウスの一部屋 = das WG-Zimmer"},
+      "BL-05-07": {"pron": "ミットベヴォーナー", "tip": "mit（一緒に）+ Bewohner（住人）= 一緒に住む人 👫", "bonus": "女性のルームメイトは die Mitbewohnerin"},
+      "A1-003": {"pron": "ツィンマー", "tip": "英語の timber（木材）と同じ語源 🪵 昔の部屋は木でできていたから！", "bonus": "Wohnzimmer（リビング）、Schlafzimmer（寝室）、Badezimmer（浴室）はみんな Zimmer で終わります。"},
+      "A2-202": {"pron": "アンツァイゲ", "tip": "anzeigen（示す）から 📰 みんなに見せる文章 = 広告！", "warn": "Anzeige erstatten は「警察に届け出る」の意味。広告を出すは eine Anzeige aufgeben。"},
+      "BL-05-06": {"pron": "ベズィヒティグング", "tip": "be- + Sicht（見ること）+ -ung = 実際に見に行くこと 👀 -ung なので die！", "bonus": "動詞は besichtigen：Kann ich das Zimmer besichtigen?"},
+      "BL-05-05": {"pron": "カウツィオーン", "tip": "敷金を預けるときは用心（caution）して契約書を確認 🔑", "warn": "英語の caution（注意）とは意味が違います。Kaution は敷金・保証金（または保釈金）です。"},
+      "BL-05-08": {"pron": "メブリーアト", "tip": "Möbel（家具）が入っていれば möbliert 🛋️", "bonus": "反対語は unmöbliert（家具なし）"},
+      "A1-620": {"pron": "クヴァドラートメーター", "tip": "Quadrat（正方形）+ Meter = 平方メートル 📐 広告ではふつう qm や m² と書きます。", "bonus": "Wie viele Quadratmeter hat das Zimmer? = 部屋は何平方メートルですか？"},
+      "BL-05-09": {"pron": "アインツィーエン", "tip": "ein（中へ）+ ziehen（移る）= 入居する 📦 出るときは aus！", "warn": "分離動詞で完了は sein：Ich bin gestern eingezogen. ausziehen は「退去する」と「服を脱ぐ」の両方です。"},
+      "A2-053": {"pron": "ウムツィーエン", "tip": "um（変えて）+ ziehen（移る）= 住む場所を変える 🚚", "warn": "sich umziehen は「着替える」。引っ越しは sich なしで、完了は sein：Wir sind umgezogen."}
+    },
+    "culture": [
+      "人気のWGでは、応募者を何人か呼んでおしゃべりする「WG-Casting」をすることがあります。部屋より相性を見る場なので、趣味や料理、掃除の習慣などをよく聞かれます。",
+      "広告でよく見るのが Kaltmiete と Warmmiete。Kaltmiete は家賃だけ、Warmmiete は暖房費などの諸費用（Nebenkosten）込みの金額です。比べるときは同じ基準で見ましょう。",
+      "入居したら、ふつう2週間以内に住民登録（Anmeldung）をします。そのとき大家さんやメインの借主が書く確認書が必要なので、入居時に頼んでおくと安心です。📝"
+    ],
+    "quiz": {"q": "広告で気に入った部屋を見つけました。内見してもいいか聞くのはどれ？", "o": ["Ist das Zimmer möbliert?", "Wann kann ich einziehen?", "Kann ich das Zimmer besichtigen?"], "a": 2, "why": "besichtigen は「（物件を）見に行く」なので、内見をお願いする言い方です。"},
+    "outro": "自分の部屋をドイツ語の広告みたいに紹介してみましょう。Das Zimmer hat 15 Quadratmeter und ist möbliert. と声に出して！🔑"
+  }
+}

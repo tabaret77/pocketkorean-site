@@ -1,0 +1,84 @@
+{
+  "key": "transport",
+  "ko": {
+    "title": "버스·지하철 타기 전에 챙기는 독일어 단어 10개",
+    "hook": "독일 대중교통은 표 검사하는 개찰구가 없어요. 그래서 더 단어를 알아야 해요.",
+    "intro": [
+      "베를린에 처음 온 날, U-Bahn 역에 내려갔는데 개찰구가 없는 거예요. 표는 어디서 사지? 이 방향이 맞나? 안내 방송에서는 계속 ‘umsteigen’이라는 말이 들리고요.",
+      "오늘은 버스, 지하철, 트램을 탈 때 꼭 필요한 단어 10개를 모았어요. 이 10개만 알면 표 사기부터 갈아타기, 연착 안내 알아듣기까지 혼자서 할 수 있어요. 🚇"
+    ],
+    "words": {
+      "A1-034": {"pron": "부스", "tip": "라틴어 omnibus(모두를 위한)의 끝부분만 남은 말 🚌 영어 bus랑 똑같아요!", "warn": "복수는 s가 두 개예요: die Busse."},
+      "A1-214": {"pron": "우반", "tip": "U = Untergrund(지하) + Bahn(철도) 🚇 역 표지판의 하얀 U가 파란 바탕에 있으면 지하철!", "bonus": "S-Bahn은 도시와 근교를 잇는 전철이에요."},
+      "A1-215": {"pron": "슈트라센반", "tip": "Straße(거리) + Bahn(철도) = 길 위를 달리는 철도 🚋 말 그대로 트램이에요.", "bonus": "남부와 스위스에서는 die Tram이라고도 해요."},
+      "BL-07-01": {"pron": "파카르테", "tip": "fahren(타고 가다) + Karte(카드) = 타고 가는 카드 🎫 바로 차표!", "bonus": "일회권은 der Einzelfahrschein, 1일권은 die Tageskarte."},
+      "BL-07-02": {"pron": "할테슈텔레", "tip": "halten(서다) + Stelle(자리) = 버스가 서는 자리 🚏 영어 halt를 떠올려 봐요.", "bonus": "기차역은 der Bahnhof, 종점은 die Endhaltestelle."},
+      "A2-312": {"pron": "아인슈타이겐", "tip": "ein-(안으로) + steigen(오르다) = 안으로 올라타기 ⬆️ 버스 계단을 밟고 올라가는 느낌!", "warn": "분리동사이고 완료형은 sein: Ich bin eingestiegen."},
+      "BL-07-07": {"pron": "아우스슈타이겐", "tip": "aus-(밖으로) + steigen = 밖으로 내리기 🚪 ein ↔ aus 짝으로 외우면 끝!", "warn": "완료형은 sein: Ich bin ausgestiegen."},
+      "A2-056": {"pron": "움슈타이겐", "tip": "um-(바꿔서) + steigen = 바꿔 타기 🔄 환승역 방송의 단골 단어예요.", "bonus": "Sie müssen in Frankfurt umsteigen. = 프랑크푸르트에서 갈아타세요."},
+      "A2-008": {"pron": "페어슈패퉁", "tip": "spät(늦은)이 안에 숨어 있어요 ⏰ -ung으로 끝나니 die!", "bonus": "‘연착됐다’는 haben과 함께: Der Zug hat 10 Minuten Verspätung."},
+      "BL-07-10": {"pron": "모나츠카르테", "tip": "Monat(달) + s + Karte = 한 달짜리 표 📅 매일 타면 이게 이득!", "bonus": "1년짜리는 die Jahreskarte, 1주짜리는 die Wochenkarte."}
+    },
+    "culture": [
+      "독일 대중교통에는 보통 개찰구가 없어요. 대신 사복 검표원이 불시에 표를 확인해요. 표 없이 타는 걸 Schwarzfahren이라고 하는데, 걸리면 꽤 큰 벌금을 내야 해요.",
+      "도시에 따라서는 종이표를 산 뒤 기계에 찍어야(entwerten) 유효해지기도 해요. 표에 날짜와 시간이 안 찍혀 있으면 표가 있어도 무임승차로 볼 수 있으니 꼭 확인하세요.",
+      "요즘은 앱으로 표를 사는 사람이 많고, 지역 교통을 전국에서 탈 수 있는 정기권 Deutschlandticket도 많이 써요. 🎫"
+    ],
+    "quiz": {"q": "기차가 늦는다는 안내 방송이 나왔어요. 어떤 문장이 들렸을까요?", "o": ["Bitte schnell einsteigen!", "Der Zug hat 15 Minuten Verspätung.", "Ich kaufe eine Monatskarte."], "a": 1, "why": "Verspätung = 연착, 지연이에요. ‘기차가 15분 늦어요’라는 뜻이에요."},
+    "outro": "오늘 버스나 지하철을 탈 때 einsteigen, aussteigen, umsteigen을 속으로 따라 말해 봐요. 다음 정류장이 좀 더 가깝게 느껴질 거예요! 🚏"
+  },
+  "en": {
+    "title": "Ten words to get you round German cities by bus and train",
+    "hook": "German stations rarely have ticket barriers — which means it's up to you to know the words.",
+    "intro": [
+      "Your first day in Berlin: you walk down into the U-Bahn and there are no barriers at all. Where do you buy a ticket? Is this the right platform? And the announcements keep saying ‘umsteigen’.",
+      "Today's ten words cover buses, trams and the underground. With them you can buy a ticket, change trains and understand when your train is late. 🚇"
+    ],
+    "words": {
+      "A1-034": {"pron": "BOOS", "tip": "Short for Latin omnibus, ‘for everyone’ 🚌 Same word as English bus.", "warn": "The plural has a double s: die Busse."},
+      "A1-214": {"pron": "OO-bahn", "tip": "U = Untergrund (underground) + Bahn (railway) 🚇 Look for the white U on a blue sign.", "bonus": "The S-Bahn is the suburban train linking the city and its outskirts."},
+      "A1-215": {"pron": "SHTRAH-sen-bahn", "tip": "Straße (street) + Bahn (railway) = a railway on the street 🚋 That's a tram.", "bonus": "In the south and in Switzerland you'll also hear die Tram."},
+      "BL-07-01": {"pron": "FAR-kar-tuh", "tip": "fahren (to travel) + Karte (card) = your travel card 🎫", "bonus": "A single ticket is der Einzelfahrschein; a day ticket is die Tageskarte."},
+      "BL-07-02": {"pron": "HAL-tuh-shtel-uh", "tip": "halten (to stop — think halt!) + Stelle (place) = the place where it stops 🚏", "bonus": "A railway station is der Bahnhof; the last stop is die Endhaltestelle."},
+      "A2-312": {"pron": "INE-shtye-gen", "tip": "ein- (in) + steigen (to climb) = climb in ⬆️ Picture stepping up into the bus.", "warn": "Separable, and the perfect uses sein: Ich bin eingestiegen."},
+      "BL-07-07": {"pron": "OWS-shtye-gen", "tip": "aus- (out) + steigen = climb out 🚪 Learn ein and aus as a pair.", "warn": "Perfect with sein: Ich bin ausgestiegen."},
+      "A2-056": {"pron": "OOM-shtye-gen", "tip": "um- (change) + steigen = change over 🔄 A favourite word of station announcements.", "bonus": "Sie müssen in Frankfurt umsteigen. = You need to change in Frankfurt."},
+      "A2-008": {"pron": "fair-SHPAY-toong", "tip": "spät (late) is hiding inside ⏰ It ends in -ung, so it's die.", "bonus": "Use it with haben: Der Zug hat 10 Minuten Verspätung."},
+      "BL-07-10": {"pron": "MOH-nats-kar-tuh", "tip": "Monat (month) + s + Karte = a ticket for a month 📅 Worth it if you ride every day.", "bonus": "A yearly pass is die Jahreskarte, a weekly one die Wochenkarte."}
+    },
+    "culture": [
+      "Most German public transport has no ticket barriers. Instead, plain-clothes inspectors check tickets at random. Riding without one is called Schwarzfahren, and getting caught means a hefty fine.",
+      "In some cities a paper ticket only becomes valid once you stamp it in a machine (entwerten). If there's no date and time on it, it can count as no ticket at all — so check before you board.",
+      "Many people now buy tickets in an app, and lots of commuters use the Deutschlandticket, a subscription for local and regional transport across the country. 🎫"
+    ],
+    "quiz": {"q": "There's an announcement that your train is running late. Which sentence did you hear?", "o": ["Bitte schnell einsteigen!", "Der Zug hat 15 Minuten Verspätung.", "Ich kaufe eine Monatskarte."], "a": 1, "why": "Verspätung means delay, so the train is 15 minutes late."},
+    "outro": "Next time you ride a bus or train, whisper einsteigen, aussteigen and umsteigen to yourself at the right moments. Gute Fahrt! 🚏"
+  },
+  "ja": {
+    "title": "電車とバスで迷わないためのドイツ語10語",
+    "hook": "ドイツの駅にはたいてい改札がありません。だからこそ、単語を知っておきたいんです。",
+    "intro": [
+      "ベルリンに着いた初日、U-Bahn の駅に下りてみたら改札がどこにもない。切符はどこで買うの？このホームで合ってる？車内アナウンスでは何度も「umsteigen」と聞こえてきます。",
+      "今日はバス・地下鉄・路面電車に乗るときに欠かせない単語を10個集めました。この10個があれば、切符を買う、乗り換える、遅延のアナウンスを聞き取る、まで一人でできます。🚇"
+    ],
+    "words": {
+      "A1-034": {"pron": "ブス", "tip": "ラテン語 omnibus（みんなのための）の最後だけが残った言葉 🚌 英語の bus と同じです。", "warn": "複数形は s が2つ：die Busse."},
+      "A1-214": {"pron": "ウーバーン", "tip": "U = Untergrund（地下）+ Bahn（鉄道）🚇 青地に白い U の看板が目印！", "bonus": "S-Bahn は街と郊外を結ぶ近郊電車です。"},
+      "A1-215": {"pron": "シュトラーセンバーン", "tip": "Straße（通り）+ Bahn（鉄道）= 道を走る鉄道 🚋 つまり路面電車です。", "bonus": "南ドイツやスイスでは die Tram とも言います。"},
+      "BL-07-01": {"pron": "ファールカルテ", "tip": "fahren（乗っていく）+ Karte（カード）= 乗るためのカード 🎫 それが切符！", "bonus": "1回券は der Einzelfahrschein、1日券は die Tageskarte."},
+      "BL-07-02": {"pron": "ハルテシュテレ", "tip": "halten（止まる）+ Stelle（場所）= バスが止まる場所 🚏 英語の halt を思い出して。", "bonus": "鉄道の駅は der Bahnhof、終点は die Endhaltestelle."},
+      "A2-312": {"pron": "アインシュタイゲン", "tip": "ein-（中へ）+ steigen（上る）= 中へ乗り込む ⬆️ バスのステップを上るイメージ！", "warn": "分離動詞で、完了形は sein：Ich bin eingestiegen."},
+      "BL-07-07": {"pron": "アウスシュタイゲン", "tip": "aus-（外へ）+ steigen = 外へ降りる 🚪 ein と aus はセットで覚えましょう。", "warn": "完了形は sein：Ich bin ausgestiegen."},
+      "A2-056": {"pron": "ウムシュタイゲン", "tip": "um-（替えて）+ steigen = 乗り替える 🔄 乗り換え駅のアナウンスの常連です。", "bonus": "Sie müssen in Frankfurt umsteigen. = フランクフルトで乗り換えてください。"},
+      "A2-008": {"pron": "フェアシュペートゥング", "tip": "spät（遅い）が隠れています ⏰ -ung で終わるので die！", "bonus": "haben と一緒に使います：Der Zug hat 10 Minuten Verspätung."},
+      "BL-07-10": {"pron": "モーナツカルテ", "tip": "Monat（月）+ s + Karte = 1か月の切符 📅 毎日乗るならこれがお得！", "bonus": "1年なら die Jahreskarte、1週間なら die Wochenkarte."}
+    },
+    "culture": [
+      "ドイツの公共交通にはふつう改札がありません。その代わり、私服の検札係が抜き打ちで切符をチェックします。切符なしで乗ることを Schwarzfahren と言い、見つかるとかなり高い罰金を払うことになります。",
+      "街によっては、紙の切符は買ったあと機械で刻印（entwerten）して初めて有効になります。日付と時刻が入っていないと、切符を持っていても無賃乗車と見なされることがあるので気をつけましょう。",
+      "最近はアプリで切符を買う人が多く、全国の近距離交通に乗れる定期券 Deutschlandticket もよく使われています。🎫"
+    ],
+    "quiz": {"q": "電車が遅れているというアナウンスが流れました。どの文が聞こえたでしょう？", "o": ["Bitte schnell einsteigen!", "Der Zug hat 15 Minuten Verspätung.", "Ich kaufe eine Monatskarte."], "a": 1, "why": "Verspätung は「遅延」なので、「電車が15分遅れています」という意味です。"},
+    "outro": "今度バスや電車に乗るとき、einsteigen、aussteigen、umsteigen を心の中でつぶやいてみましょう。Gute Fahrt！🚏"
+  }
+}

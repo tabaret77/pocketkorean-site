@@ -1,0 +1,84 @@
+{
+  "key": "fairytales",
+  "ko": {
+    "title": "옛날 옛적에… 그림 동화 속 독일어 10",
+    "hook": "어릴 때 읽은 백설공주와 헨젤과 그레텔, 원래 독일어로 어떻게 시작하는지 아세요?",
+    "intro": [
+      "독일 친구 아이에게 잠자리 동화를 읽어 주기로 했어요. 첫 줄은 ‘Es war einmal ein König…’ 왕, 공주, 마녀, 늑대까지. 어릴 때 다 아는 이야기인데 독일어로 읽으니 완전히 새로웠어요.",
+      "오늘은 그림 동화에 꼭 나오는 단어 10개예요. 이걸 알면 독일어 동화책을 술술 읽을 수 있고, 독일 사람들이 자주 쓰는 동화 표현도 알아들을 수 있어요. 🧚"
+    ],
+    "words": {
+      "B1-931": {"pron": "매어헨", "tip": "옛말 Mär(이야기) + -chen(작은) = 짧은 이야기 📖 -chen이면 언제나 das!", "bonus": "Erzähl keine Märchen! = 지어낸 얘기 하지 마!"},
+      "B1-868": {"pron": "쾨니히", "tip": "영어 king과 같은 뿌리 👑 끝의 -ig는 ‘이히’로 발음해요.", "bonus": "여왕은 -in을 붙여서 die Königin"},
+      "A2-979": {"pron": "프린체신", "tip": "Prinz에 -essin을 붙이면 공주 👸 영어 princess와 거의 같죠?", "warn": "복수는 n이 하나 더: die Prinzessinnen"},
+      "B1-2183": {"pron": "프린츠", "tip": "라틴어 princeps(첫째)에서 🤴 영어 prince와 쌍둥이!", "warn": "약변화 명사예요: den Prinzen, dem Prinzen, des Prinzen"},
+      "B1-2503": {"pron": "헥세", "tip": "‘헥헥’ 숨차게 빗자루 타고 나는 마녀 🧙‍♀️", "bonus": "der Hexenschuss = 갑자기 허리를 삐끗하는 것 (‘마녀의 화살’)"},
+      "B2-888": {"pron": "볼프", "tip": "영어 wolf랑 철자가 똑같아요 🐺 발음만 W를 ‘ㅂ’으로!", "warn": "복수는 움라우트가 붙어요: die Wölfe"},
+      "A1-275": {"pron": "발트", "tip": "헨젤과 그레텔이 길을 잃은 그곳 🌲 Schwarzwald(검은 숲)의 Wald!", "warn": "복수는 움라우트 + -er: die Wälder"},
+      "B2-3782": {"pron": "츠베르크", "tip": "영어 dwarf와 친척 🍄 정원에 서 있는 난쟁이 인형은 der Gartenzwerg!", "bonus": "반대말 = der Riese (거인)"},
+      "B1-2134": {"pron": "차우버러", "tip": "zaubern(마법을 부리다) + -er(사람) = 마법사 🪄", "bonus": "마법의 주문 = der Zauberspruch · ‘수리수리 마수리’는 Abrakadabra!"},
+      "B2-4051": {"pron": "페어반델른", "tip": "ver-(완전히) + wandeln(바꾸다) = 개구리로 뿅 🐸", "bonus": "무엇으로 바뀌는지는 in + 4격: in einen Frosch verwandeln"}
+    },
+    "culture": [
+      "그림 형제(Brüder Grimm)는 야코프와 빌헬름 형제예요. 19세기 초에 사람들 사이에 전해 오던 옛이야기를 모아 책으로 냈는데, 그게 바로 우리가 아는 그림 동화예요. 원래 버전은 지금보다 훨씬 무섭고 잔인한 이야기도 많아요.",
+      "형제가 태어난 하나우(Hanau)에서 브레멘까지 동화와 관련된 마을을 잇는 관광 길 ‘Deutsche Märchenstraße(독일 동화 가도)’가 있어요. 브레멘에는 ‘브레멘 음악대’ 동물 동상도 서 있어요.",
+      "독일 동화는 보통 ‘Es war einmal…(옛날 옛적에)’로 시작해서, ‘Und wenn sie nicht gestorben sind, dann leben sie noch heute.(죽지 않았다면 지금도 살고 있을 거예요)’로 끝나요. 🏰"
+    ],
+    "quiz": {"q": "‘헨젤과 그레텔’에서 과자 집에 사는 사람은 누구일까요?", "o": ["die Prinzessin", "die Königin", "die Hexe"], "a": 2, "why": "과자 집(Lebkuchenhaus)에 사는 건 무서운 마녀, die Hexe예요."},
+    "outro": "오늘 밤 좋아하는 동화를 ‘Es war einmal…’로 시작해서 독일어로 한 줄 말해 봐요. Gute Nacht! 🌙"
+  },
+  "en": {
+    "title": "Once upon a time: 10 German words from Grimm's fairy tales",
+    "hook": "You know Snow White and Hansel and Gretel — but do you know how they begin in the original German?",
+    "intro": [
+      "You've offered to read a bedtime story to a German friend's child. The first line: ‘Es war einmal ein König…’ Kings, princesses, witches and wolves — stories you've known since childhood suddenly feel brand new in German.",
+      "Today's ten words are the stars of Grimm's fairy tales. With them you can read a German storybook and recognise the fairy-tale phrases Germans still use in everyday life. 🧚"
+    ],
+    "words": {
+      "B1-931": {"pron": "MAIR-khen", "tip": "old Mär (tale) + -chen (little) = a little tale 📖 -chen is always das.", "bonus": "Erzähl keine Märchen! = Don't tell fibs!"},
+      "B1-868": {"pron": "KUR-nikh", "tip": "Same root as English king 👑 The final -ig sounds like ‘ikh’.", "bonus": "Add -in for queen: die Königin"},
+      "A2-979": {"pron": "prin-TSESS-in", "tip": "Prinz + -essin = princess 👸 Almost the same as English.", "warn": "The plural doubles the n: die Prinzessinnen"},
+      "B1-2183": {"pron": "PRINTS", "tip": "From Latin princeps (first) 🤴 A twin of English prince.", "warn": "Weak noun: den Prinzen, dem Prinzen, des Prinzen"},
+      "B1-2503": {"pron": "HEK-suh", "tip": "Related to English hag 🧙‍♀️ A witch who casts a hex!", "bonus": "der Hexenschuss = a sudden back spasm (lit. ‘witch's shot’)"},
+      "B2-888": {"pron": "VOLF", "tip": "Spelled just like English 🐺 Only the W sounds like a V.", "warn": "The plural has an umlaut: die Wölfe"},
+      "A1-275": {"pron": "VALT", "tip": "Where Hansel and Gretel got lost 🌲 The Wald in Schwarzwald (Black Forest)!", "warn": "Plural with umlaut and -er: die Wälder"},
+      "B2-3782": {"pron": "TSVAIRK", "tip": "A cousin of English dwarf 🍄 A garden gnome is a Gartenzwerg!", "bonus": "The opposite = der Riese (giant)"},
+      "B1-2134": {"pron": "TSOW-ber-er", "tip": "zaubern (to do magic) + -er (person) = wizard 🪄", "bonus": "a magic spell = der Zauberspruch"},
+      "B2-4051": {"pron": "fer-VAN-deln", "tip": "ver- (completely) + wandeln (change) = poof, you're a frog 🐸", "bonus": "What you turn into takes in + accusative: in einen Frosch verwandeln"}
+    },
+    "culture": [
+      "The Brothers Grimm, Jacob and Wilhelm, collected folk tales that people told each other and published them in the early 19th century. Many of the original versions are much darker and more gruesome than the ones we know from films.",
+      "The German Fairy Tale Route (Deutsche Märchenstraße) is a tourist route linking towns connected to the tales, from the brothers' birthplace, Hanau, all the way to Bremen — where a statue of the Town Musicians stands.",
+      "German fairy tales usually start with ‘Es war einmal…’ (Once upon a time) and often end with ‘Und wenn sie nicht gestorben sind, dann leben sie noch heute.’ — ‘And if they haven't died, they're still alive today.’ 🏰"
+    ],
+    "quiz": {"q": "In Hansel and Gretel, who lives in the gingerbread house?", "o": ["die Prinzessin", "die Königin", "die Hexe"], "a": 2, "why": "The gingerbread house (Lebkuchenhaus) belongs to the wicked witch, die Hexe."},
+    "outro": "Tonight, start your favourite fairy tale in German with ‘Es war einmal…’ and see how far you get. Gute Nacht! 🌙"
+  },
+  "ja": {
+    "title": "むかしむかし…グリム童話のドイツ語10",
+    "hook": "子どものころ読んだ白雪姫やヘンゼルとグレーテル、ドイツ語の原作ではどう始まるか知っていますか？",
+    "intro": [
+      "ドイツ人の友だちの子どもに、寝る前のお話を読んであげることに。最初の一行は「Es war einmal ein König…」。王さま、お姫さま、魔女、オオカミ。よく知っている話なのに、ドイツ語で読むとまるで新しい物語のようでした。",
+      "今日はグリム童話に欠かせない単語を10個集めました。これがあればドイツ語の絵本がすらすら読めて、ドイツ人が日常でも使う童話の表現にも気づけるようになります。🧚"
+    ],
+    "words": {
+      "B1-931": {"pron": "メルヒェン", "tip": "古語 Mär（話）+ -chen（小さい）= 短いお話 📖 -chen はいつも das！", "bonus": "Erzähl keine Märchen! = 作り話はやめて！"},
+      "B1-868": {"pron": "ケーニヒ", "tip": "英語の king と同じ語源 👑 語末の -ig は「イヒ」と発音します。", "bonus": "女王は -in をつけて die Königin"},
+      "A2-979": {"pron": "プリンツェッスィン", "tip": "Prinz に -essin をつけるとお姫さま 👸 英語の princess とほぼ同じ！", "warn": "複数形は n がもうひとつ：die Prinzessinnen"},
+      "B1-2183": {"pron": "プリンツ", "tip": "ラテン語 princeps（第一の者）から 🤴 英語の prince とそっくり！", "warn": "男性弱変化名詞：den Prinzen, dem Prinzen, des Prinzen"},
+      "B1-2503": {"pron": "ヘクセ", "tip": "英語の hag の親戚 🧙‍♀️ ほうきで空を飛ぶ魔女！", "bonus": "der Hexenschuss = ぎっくり腰（「魔女の一撃」）"},
+      "B2-888": {"pron": "ヴォルフ", "tip": "英語の wolf とつづりが同じ 🐺 W は「ヴ」の音です。", "warn": "複数形はウムラウトがつきます：die Wölfe"},
+      "A1-275": {"pron": "ヴァルト", "tip": "ヘンゼルとグレーテルが迷った場所 🌲 Schwarzwald（黒い森）の Wald！", "warn": "複数形はウムラウト + -er：die Wälder"},
+      "B2-3782": {"pron": "ツヴェルク", "tip": "英語の dwarf の親戚 🍄 庭に置く小人の人形は der Gartenzwerg！", "bonus": "反対は der Riese（巨人）"},
+      "B1-2134": {"pron": "ツァウベラー", "tip": "zaubern（魔法を使う）+ -er（人）= 魔法使い 🪄", "bonus": "呪文 = der Zauberspruch"},
+      "B2-4051": {"pron": "フェアヴァンデルン", "tip": "ver-（すっかり）+ wandeln（変える）= ポンッとカエルに 🐸", "bonus": "何に変わるかは in + 4格：in einen Frosch verwandeln"}
+    },
+    "culture": [
+      "グリム兄弟（Brüder Grimm）はヤーコプとヴィルヘルムの兄弟です。19世紀の初めに、人々の間で語り継がれてきた昔話を集めて本にしました。もとの版には、今知られている話よりずっと怖くて残酷なものもたくさんあります。",
+      "兄弟が生まれたハーナウ（Hanau）からブレーメンまで、童話ゆかりの町を結ぶ観光ルート「Deutsche Märchenstraße（ドイツ・メルヘン街道）」があります。ブレーメンにはブレーメンの音楽隊の像も立っています。",
+      "ドイツの童話はふつう「Es war einmal…（むかしむかし）」で始まり、「Und wenn sie nicht gestorben sind, dann leben sie noch heute.（死んでいなければ、今も生きているでしょう）」で終わることがよくあります。🏰"
+    ],
+    "quiz": {"q": "『ヘンゼルとグレーテル』で、お菓子の家に住んでいるのは誰でしょう？", "o": ["die Prinzessin", "die Königin", "die Hexe"], "a": 2, "why": "お菓子の家（Lebkuchenhaus）に住んでいるのは恐ろしい魔女、die Hexe です。"},
+    "outro": "今夜、好きな童話を「Es war einmal…」で始めて、ドイツ語で一文言ってみましょう。Gute Nacht! 🌙"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "cities",
+  "ko": {
+    "title": "독일 지도가 한눈에 들어오는 단어 10",
+    "hook": "„Wo wohnst du?“에 도시 이름만 말하고 끝내기엔 아깝잖아요.",
+    "intro": [
+      "독일 친구한테 „Ich wohne in Berlin.“이라고 했더니 바로 „Und woher kommst du ursprünglich? Ich bin aus Bayern!“ 하고 신나서 고향 자랑을 시작했어요. 그런데 Bayern이 도시인지 지역인지부터 헷갈렸죠.",
+      "오늘은 독일의 도시와 지역을 이야기할 때 꼭 필요한 단어 10개를 모았어요. 이 10개면 내가 사는 곳을 소개하고, 친구의 고향 이야기에도 맞장구를 칠 수 있어요. 🗺️"
+    ],
+    "words": {
+      "B1-1949": {"pron": "분데스란트", "tip": "Bund(연방) + Land(땅) = 연방을 이루는 땅 🧩 독일은 16조각 퍼즐!", "warn": "복수는 움라우트: die Bundesländer"},
+      "A2-480": {"pron": "하웁트슈타트", "tip": "Haupt(머리, 영어 head) + Stadt(도시) = 나라의 머리 도시 👑", "warn": "복수는 움라우트: die Hauptstädte"},
+      "B2-3413": {"pron": "란데스하웁트슈타트", "tip": "Land + Hauptstadt = 주의 수도 🏛️ 긴 단어도 레고처럼 쪼개면 쉬워요!", "bonus": "München ist die Landeshauptstadt von Bayern."},
+      "B1-1064": {"pron": "레기온", "tip": "영어 region과 똑같아요 🌄 g는 ‘ㄱ’으로 또렷하게!", "bonus": "형용사 regional = 지역의 · 지역 특산품 = regionale Produkte"},
+      "A2-772": {"pron": "그로스슈타트", "tip": "groß(큰) + Stadt(도시) = 대도시 🏙️ 작은 도시는 die Kleinstadt!", "bonus": "시골에 살다 = auf dem Land wohnen"},
+      "B1-615": {"pron": "아인보너", "tip": "ein(안에) + wohnen(살다) + -er(사람) = 안에 사는 사람 🏘️ 주민!", "bonus": "여성형 die Einwohnerin · 인구가 몇이에요? = Wie viele Einwohner hat die Stadt?"},
+      "B1-218": {"pron": "디알렉트", "tip": "영어 dialect와 쌍둥이 🗣️ 독일 사투리는 지역마다 완전 다른 언어 같아요!", "bonus": "Dialekt sprechen = 사투리를 쓰다"},
+      "B1-2142": {"pron": "노르트도이치", "tip": "Nord(북) + deutsch = 북독일의 🌊 바다, 바람, 그리고 Moin!", "bonus": "명사 Norddeutschland = 북독일"},
+      "B2-3519": {"pron": "쥐트도이치", "tip": "Süd(남) + deutsch = 남독일의 ⛰️ 알프스, 맥주, 그리고 Grüß Gott!", "bonus": "명사 Süddeutschland = 남독일"},
+      "A2-1136": {"pron": "바이언", "tip": "옛 부족 Bavarii에서 온 이름 🥨 영어로는 Bavaria!", "warn": "관사 없이 써요: in Bayern, aus Bayern"}
+    },
+    "culture": [
+      "독일은 16개의 Bundesland로 이루어져 있고, 그중 Berlin, Hamburg, Bremen은 도시 하나가 그대로 주인 도시 주예요. 학교 방학 날짜도 주마다 달라서, 같은 여름이라도 휴가철이 조금씩 어긋나요.",
+      "재미있는 건 주에서 제일 큰 도시가 꼭 주도는 아니라는 점이에요. 노르트라인베스트팔렌의 주도는 쾰른이 아니라 뒤셀도르프, 헤센의 주도는 프랑크푸르트가 아니라 비스바덴이에요.",
+      "그리고 독일 사람들은 고향 지역에 대한 애정이 커요. 처음 만난 사람에게 „Woher kommst du?“라고 물으면 도시보다 지역 이야기가 먼저 나올 때도 많답니다. 😊"
+    ],
+    "quiz": {"q": "다음 중 맞는 문장은 어느 것일까요?", "o": ["München ist die Landeshauptstadt von Bayern.", "München ist die Hauptstadt von Deutschland.", "Bayern ist eine Großstadt."], "a": 0, "why": "뮌헨은 바이에른 주의 주도(Landeshauptstadt)이고, 독일의 수도는 베를린이에요."},
+    "outro": "오늘은 „Ich wohne in …, das liegt in …“ 문장으로 내가 사는 곳(또는 가고 싶은 곳)을 소리 내서 소개해 봐요. 🗺️"
+  },
+  "en": {
+    "title": "Mapping Germany in 10 words",
+    "hook": "When someone asks „Wo wohnst du?“, a city name alone is only half the story.",
+    "intro": [
+      "I told a German friend „Ich wohne in Berlin.“, and she lit up: „Und woher kommst du ursprünglich? Ich bin aus Bayern!“ Then she started raving about home, and I wasn't even sure whether Bayern was a city or a region.",
+      "Today's ten words help you talk about German cities and regions. With them you can describe where you live and keep up when friends talk about where they're from. 🗺️"
+    ],
+    "words": {
+      "B1-1949": {"pron": "BOON-des-lant", "tip": "Bund (federation) + Land (land) = a piece of the federation 🧩 Germany is a 16-piece puzzle.", "warn": "Plural with umlaut: die Bundesländer"},
+      "A2-480": {"pron": "HOWPT-shtat", "tip": "Haupt (head) + Stadt (city) = the head city 👑", "warn": "Plural with umlaut: die Hauptstädte"},
+      "B2-3413": {"pron": "LAN-des-howpt-shtat", "tip": "Land + Hauptstadt = a state's capital 🏛️ Long words are just Lego bricks.", "bonus": "München ist die Landeshauptstadt von Bayern."},
+      "B1-1064": {"pron": "reh-GYOHN", "tip": "Same as English region 🌄 But the g is hard, like in ‘go’.", "bonus": "Adjective regional · local produce = regionale Produkte"},
+      "A2-772": {"pron": "GROHS-shtat", "tip": "groß (big) + Stadt (city) = big city 🏙️ A small town is die Kleinstadt.", "bonus": "to live in the countryside = auf dem Land wohnen"},
+      "B1-615": {"pron": "INE-voh-ner", "tip": "ein (in) + wohnen (live) + -er (person) = someone who lives in a place 🏘️", "bonus": "Female form: die Einwohnerin · Wie viele Einwohner hat die Stadt?"},
+      "B1-218": {"pron": "dee-ah-LEKT", "tip": "Twin of English dialect 🗣️ Some German dialects sound like a whole new language.", "bonus": "Dialekt sprechen = to speak dialect"},
+      "B1-2142": {"pron": "NORT-doytsh", "tip": "Nord (north) + deutsch = northern German 🌊 Sea, wind and Moin!", "bonus": "The noun: Norddeutschland"},
+      "B2-3519": {"pron": "ZUET-doytsh", "tip": "Süd (south) + deutsch = southern German ⛰️ Alps, beer and Grüß Gott!", "bonus": "The noun: Süddeutschland"},
+      "A2-1136": {"pron": "BY-ern", "tip": "Named after the Bavarii, an early tribe 🥨 In English: Bavaria.", "warn": "No article: in Bayern, aus Bayern"}
+    },
+    "culture": [
+      "Germany is made up of 16 Bundesländer. Three of them, Berlin, Hamburg and Bremen, are city-states. School holidays are set by each state, so summer holidays don't all start at the same time.",
+      "Fun fact: a state's biggest city isn't always its capital. The capital of North Rhine-Westphalia is Düsseldorf, not Cologne, and the capital of Hesse is Wiesbaden, not Frankfurt.",
+      "Germans are often very attached to their home region. Ask someone „Woher kommst du?“ and you may hear about the region before the city. 😊"
+    ],
+    "quiz": {"q": "Which sentence is correct?", "o": ["München ist die Landeshauptstadt von Bayern.", "München ist die Hauptstadt von Deutschland.", "Bayern ist eine Großstadt."], "a": 0, "why": "Munich is the capital of the state of Bavaria; Germany's capital is Berlin."},
+    "outro": "Say out loud where you live (or dream of living): „Ich wohne in …, das liegt in …“ 🗺️"
+  },
+  "ja": {
+    "title": "ドイツの地図が頭に入る単語10",
+    "hook": "„Wo wohnst du?“ に都市の名前だけで答えるのは、もったいないですよ。",
+    "intro": [
+      "ドイツ人の友だちに „Ich wohne in Berlin.“ と言ったら、„Und woher kommst du ursprünglich? Ich bin aus Bayern!“ とうれしそうに地元自慢が始まりました。でも Bayern が都市なのか地域なのかすら、よくわかっていませんでした。",
+      "今日はドイツの都市と地域の話に欠かせない単語を10個集めました。この10個があれば、自分の住む場所を紹介して、友だちの地元トークにもついていけます。🗺️"
+    ],
+    "words": {
+      "B1-1949": {"pron": "ブンデスラント", "tip": "Bund（連邦）+ Land（土地）= 連邦をつくる土地 🧩 ドイツは16ピースのパズル！", "warn": "複数形はウムラウト：die Bundesländer"},
+      "A2-480": {"pron": "ハウプトシュタット", "tip": "Haupt（頭、英語の head）+ Stadt（都市）= 国の頭の都市 👑", "warn": "複数形はウムラウト：die Hauptstädte"},
+      "B2-3413": {"pron": "ランデスハウプトシュタット", "tip": "Land + Hauptstadt = 州の首都 🏛️ 長い単語もレゴのように分ければ簡単！", "bonus": "München ist die Landeshauptstadt von Bayern."},
+      "B1-1064": {"pron": "レギオーン", "tip": "英語の region と同じ 🌄 g は「ギ」とはっきり！", "bonus": "形容詞 regional · 地元の産品 = regionale Produkte"},
+      "A2-772": {"pron": "グロースシュタット", "tip": "groß（大きい）+ Stadt（都市）= 大都市 🏙️ 小さな町は die Kleinstadt！", "bonus": "田舎に住む = auf dem Land wohnen"},
+      "B1-615": {"pron": "アインヴォーナー", "tip": "ein（中に）+ wohnen（住む）+ -er（人）= 中に住む人 🏘️ 住民！", "bonus": "女性形 die Einwohnerin · 人口は？= Wie viele Einwohner hat die Stadt?"},
+      "B1-218": {"pron": "ディアレクト", "tip": "英語の dialect と双子 🗣️ ドイツの方言は地域によって別の言語みたい！", "bonus": "Dialekt sprechen = 方言を話す"},
+      "B1-2142": {"pron": "ノルトドイチュ", "tip": "Nord（北）+ deutsch = 北ドイツの 🌊 海と風、そして Moin!", "bonus": "名詞は Norddeutschland"},
+      "B2-3519": {"pron": "ズュートドイチュ", "tip": "Süd（南）+ deutsch = 南ドイツの ⛰️ アルプスとビール、そして Grüß Gott!", "bonus": "名詞は Süddeutschland"},
+      "A2-1136": {"pron": "バイエルン", "tip": "古い部族 Bavarii から来た名前 🥨 英語では Bavaria！", "warn": "冠詞なしで使います：in Bayern, aus Bayern"}
+    },
+    "culture": [
+      "ドイツは16の Bundesland でできていて、そのうち Berlin、Hamburg、Bremen は都市がそのまま州になっている都市州です。学校の休みも州ごとに決まるので、夏休みの時期が少しずつずれます。",
+      "おもしろいのは、州でいちばん大きな都市が州都とは限らないこと。ノルトライン＝ヴェストファーレン州の州都はケルンではなくデュッセルドルフ、ヘッセン州の州都はフランクフルトではなくヴィースバーデンです。",
+      "ドイツの人は地元の地域への愛着が強いことが多いです。„Woher kommst du?“ と聞くと、都市より先に地域の話が出てくることもよくありますよ。😊"
+    ],
+    "quiz": {"q": "正しい文はどれでしょう？", "o": ["München ist die Landeshauptstadt von Bayern.", "München ist die Hauptstadt von Deutschland.", "Bayern ist eine Großstadt."], "a": 0, "why": "ミュンヘンはバイエルン州の州都（Landeshauptstadt）で、ドイツの首都はベルリンです。"},
+    "outro": "今日は „Ich wohne in …, das liegt in …“ で、自分の住む場所（または行ってみたい場所）を声に出して紹介してみましょう。🗺️"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "baby",
+  "ko": {
+    "title": "아기가 찾아왔을 때 필요한 독일어 10",
+    "hook": "축하 인사부터 산부인과 대화까지, 새 가족을 맞이하는 독일어를 모았어요.",
+    "intro": [
+      "점심시간에 동료가 수줍게 말해요. “Ich bin schwanger!” 다들 박수를 치는데, 나만 한 박자 늦게 알아들었어요. 축하한다는 말 다음에는 무슨 얘기를 해야 할까요?",
+      "오늘은 임신과 출산 이야기에 꼭 나오는 단어 10개예요. 이 10개면 축하 인사도 하고, 조산사나 육아휴직 이야기도 알아들을 수 있어요. 직접 겪는 분이라면 더 든든하겠죠? 👶"
+    ],
+    "words": {
+      "A2-572": {"pron": "슈방거", "tip": "원래 ‘무거운’이라는 뜻이었대요 🤰 배 속 아기 덕분에 묵직!", "bonus": "Sie ist im fünften Monat schwanger. = 임신 5개월이에요."},
+      "B1-1129": {"pron": "슈방어샤프트", "tip": "schwanger + -schaft = 임신한 상태 🤰 -schaft로 끝나면 die!"},
+      "A1-201": {"pron": "베이비", "tip": "영어에서 그대로 왔어요 🍼 쉬운 단어 하나 공짜!", "warn": "복수는 영어처럼 -ies가 아니라 die Babys예요."},
+      "B1-721": {"pron": "게부어트", "tip": "영어 birth와 같은 뿌리 🎂 생일 Geburtstag = 태어난 날!", "bonus": "Herzlichen Glückwunsch zur Geburt! = 출산 축하해요!"},
+      "B1-718": {"pron": "게보렌 베어덴", "tip": "geboren은 영어 born과 쌍둥이 👶 태어나는 건 내가 하는 게 아니라 ‘되는’ 거라 werden!", "warn": "살아 있는 사람은 Ich bin 1995 geboren. 역사 속 인물은 Goethe wurde 1749 geboren."},
+      "B2-3099": {"pron": "헤바메", "tip": "아기를 번쩍 들어 올리는(heben) 사람 🙌 독일 출산의 든든한 파트너!"},
+      "B1-1924": {"pron": "빈델", "tip": "winden(감다)과 친척 🌀 아기를 돌돌 감싸는 게 Windel!", "bonus": "기저귀를 갈다 = die Windel wechseln"},
+      "A2-798": {"pron": "킨더바겐", "tip": "Kind(아이) + Wagen(수레) = 아이 태우는 수레 🚼", "warn": "복수도 모양이 같아요: die Kinderwagen."},
+      "B2-2893": {"pron": "슈틸렌", "tip": "still(조용한)에서 왔어요 🤫 젖을 먹이면 아기가 조용해지니까!", "bonus": "‘갈증을 풀다’도 같은 단어: den Durst stillen"},
+      "B2-475": {"pron": "엘턴차이트", "tip": "Eltern(부모) + Zeit(시간) = 부모가 되는 시간 ⏳", "bonus": "육아휴직을 하다 = Elternzeit nehmen"}
+    },
+    "culture": [
+      "독일에서는 조산사(Hebamme)가 출산 전후로 큰 역할을 해요. 출산 후에는 보통 집으로 방문해서 엄마와 아기를 살펴 주고, 비용은 대개 건강보험에서 처리돼요. 큰 도시에서는 조산사를 구하기가 어려울 때가 많아서, 임신 초기에 미리 연락해 두는 게 좋아요.",
+      "임신하면 받는 산모 수첩(Mutterpass)에는 검진 기록이 다 들어가요. 병원에 갈 때마다 꼭 챙겨 가세요.",
+      "독일에서는 아빠들이 Elternzeit를 쓰는 모습도 흔해요. 평일 낮 공원에서 Kinderwagen을 미는 아빠들을 자주 볼 수 있어요. 🍼"
+    ],
+    "quiz": {"q": "동료가 좋은 소식이 있대요. ‘저 임신했어요’라는 뜻의 문장은 무엇일까요?", "o": ["Ich nehme Elternzeit.", "Ich bin schwanger.", "Das Baby schläft."], "a": 1, "why": "schwanger = 임신한. Ich bin schwanger.는 ‘저 임신했어요’라는 뜻이에요."},
+    "outro": "주변에 아기 소식이 들리면 Herzlichen Glückwunsch! 하고 먼저 말해 봐요. 오늘은 Wann bist du geboren? 으로 서로 생일도 물어보고요. 👶"
+  },
+  "en": {
+    "title": "A new arrival: 10 German words for pregnancy and babies",
+    "hook": "From congratulations to chatting with a midwife — here's the German for welcoming someone new.",
+    "intro": [
+      "At lunch, a colleague says shyly, ‘Ich bin schwanger!’ Everyone claps, and you catch on a second later. After the congratulations, what do you actually talk about?",
+      "Today's ten words come up in every conversation about pregnancy and birth. With them you can congratulate people and follow talk about midwives and parental leave — and if it's happening to you, even better. 👶"
+    ],
+    "words": {
+      "A2-572": {"pron": "SHVANG-er", "tip": "It originally meant ‘heavy’ 🤰 — a baby on board weighs you down!", "bonus": "Sie ist im fünften Monat schwanger. = She's five months pregnant."},
+      "B1-1129": {"pron": "SHVANG-er-shaft", "tip": "schwanger + -schaft (-ship) = the state of being pregnant 🤰 -schaft nouns are always die."},
+      "A1-201": {"pron": "BAY-bee", "tip": "Straight from English 🍼 A free word!", "warn": "The plural is die Babys, not -ies."},
+      "B1-721": {"pron": "ge-BOORT", "tip": "Same root as English birth 🎂 Geburtstag = birthday!", "bonus": "Herzlichen Glückwunsch zur Geburt! = Congratulations on the birth!"},
+      "B1-718": {"pron": "ge-BOR-en VAIR-den", "tip": "geboren is a twin of English born 👶 Being born happens to you, so it's passive with werden.", "warn": "For living people: Ich bin 1995 geboren. For historical figures: Goethe wurde 1749 geboren."},
+      "B2-3099": {"pron": "HAYB-ah-muh", "tip": "Often explained as the one who lifts (heben) the baby 🙌 A key person in German births."},
+      "B1-1924": {"pron": "VIN-del", "tip": "Related to winden, to wind 🌀 You wrap the baby up in a Windel.", "bonus": "to change a nappy = die Windel wechseln"},
+      "A2-798": {"pron": "KIN-der-vah-gen", "tip": "Kind (child) + Wagen (cart) = a cart for a child 🚼", "warn": "The plural looks the same: die Kinderwagen."},
+      "B2-2893": {"pron": "SHTILL-en", "tip": "From still (quiet) 🤫 Feeding the baby makes it quiet!", "bonus": "The same verb quenches thirst: den Durst stillen"},
+      "B2-475": {"pron": "EL-tern-tsite", "tip": "Eltern (parents) + Zeit (time) = time to be a parent ⏳", "bonus": "to take parental leave = Elternzeit nehmen"}
+    },
+    "culture": [
+      "Midwives (Hebammen) play a big role in Germany before and after birth. After the baby arrives, a midwife usually visits you at home to check on mother and baby, and health insurance normally covers it. In big cities they can be hard to find, so people often contact one early in the pregnancy.",
+      "Pregnant women get a maternity record booklet (Mutterpass) with all their check-up results. Take it to every appointment.",
+      "It's common to see fathers taking Elternzeit, too. On a weekday afternoon in the park, you'll often see dads pushing a Kinderwagen. 🍼"
+    ],
+    "quiz": {"q": "A colleague has some good news. Which sentence means ‘I'm pregnant’?", "o": ["Ich nehme Elternzeit.", "Ich bin schwanger.", "Das Baby schläft."], "a": 1, "why": "schwanger = pregnant, so Ich bin schwanger. means ‘I'm pregnant’."},
+    "outro": "When you hear baby news, be the first to say Herzlichen Glückwunsch! And today, ask someone Wann bist du geboren? to practise. 👶"
+  },
+  "ja": {
+    "title": "赤ちゃんを迎えるときのドイツ語10",
+    "hook": "お祝いのひとことから助産師さんとの会話まで、新しい家族を迎えるドイツ語を集めました。",
+    "intro": [
+      "お昼休み、同僚が照れくさそうに言います。「Ich bin schwanger!」みんなが拍手する中、私だけワンテンポ遅れて理解しました。おめでとうのあとは、何を話せばいいのでしょう？",
+      "今日は妊娠・出産の話に必ず出てくる単語を10個集めました。この10個があれば、お祝いを伝えたり、助産師や育児休業の話についていけたりします。ご自身が経験中の方なら、なおさら心強いはずです。👶"
+    ],
+    "words": {
+      "A2-572": {"pron": "シュヴァンガー", "tip": "もともとは「重い」という意味 🤰 おなかの赤ちゃんでずっしり！", "bonus": "Sie ist im fünften Monat schwanger. = 妊娠5か月です。"},
+      "B1-1129": {"pron": "シュヴァンガーシャフト", "tip": "schwanger + -schaft = 妊娠している状態 🤰 -schaft で終わる名詞は die！"},
+      "A1-201": {"pron": "ベイビー", "tip": "英語からそのまま 🍼 覚えやすい単語がひとつタダで手に入ります！", "warn": "複数形は -ies ではなく die Babys です。"},
+      "B1-721": {"pron": "ゲブーアト", "tip": "英語の birth と同じ語源 🎂 誕生日 Geburtstag = 生まれた日！", "bonus": "Herzlichen Glückwunsch zur Geburt! = ご出産おめでとう！"},
+      "B1-718": {"pron": "ゲボーレン ヴェーアデン", "tip": "geboren は英語の born とふたご 👶 生まれるのは自分でするのではなく「される」ので werden！", "warn": "生きている人は Ich bin 1995 geboren. 歴史上の人物は Goethe wurde 1749 geboren."},
+      "B2-3099": {"pron": "ヘーバメ", "tip": "赤ちゃんを持ち上げる（heben）人、と説明されることも 🙌 ドイツの出産の心強いパートナー！"},
+      "B1-1924": {"pron": "ヴィンデル", "tip": "winden（巻く）の親戚 🌀 赤ちゃんをくるっと包むのが Windel！", "bonus": "おむつを替える = die Windel wechseln"},
+      "A2-798": {"pron": "キンダーヴァーゲン", "tip": "Kind（子ども）+ Wagen（車）= 子どもを乗せる車 🚼", "warn": "複数形も同じ形です：die Kinderwagen."},
+      "B2-2893": {"pron": "シュティレン", "tip": "still（静かな）から 🤫 おっぱいを飲むと赤ちゃんが静かになるから！", "bonus": "「渇きをいやす」も同じ動詞：den Durst stillen"},
+      "B2-475": {"pron": "エルターンツァイト", "tip": "Eltern（両親）+ Zeit（時間）= 親になるための時間 ⏳", "bonus": "育児休業をとる = Elternzeit nehmen"}
+    },
+    "culture": [
+      "ドイツでは助産師（Hebamme）が出産の前後で大きな役割を果たします。出産後はふつう自宅に来て母子の様子を見てくれ、費用はたいてい健康保険でまかなわれます。大都市では助産師が見つかりにくいことも多いので、妊娠初期に早めに連絡しておくのがおすすめです。",
+      "妊娠するともらう母子手帳（Mutterpass）には、健診の記録がすべて書き込まれます。受診のときは必ず持っていきましょう。",
+      "ドイツではパパが Elternzeit をとる姿もよく見かけます。平日の昼間、公園で Kinderwagen を押すお父さんたちによく出会います。🍼"
+    ],
+    "quiz": {"q": "同僚にうれしい知らせがあるそうです。「妊娠しました」という意味の文はどれでしょう？", "o": ["Ich nehme Elternzeit.", "Ich bin schwanger.", "Das Baby schläft."], "a": 1, "why": "schwanger = 妊娠している。Ich bin schwanger. は「妊娠しました」という意味です。"},
+    "outro": "まわりで赤ちゃんの話を聞いたら、まず Herzlichen Glückwunsch! と言ってみましょう。今日は Wann bist du geboren? でお互いの誕生日も聞いてみてくださいね。👶"
+  }
+}

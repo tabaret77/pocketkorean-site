@@ -1,0 +1,84 @@
+{
+  "key": "cycling",
+  "ko": {
+    "title": "자전거 타고 독일 출근길로! 단어 10",
+    "hook": "독일 도시에서는 자전거가 버스만큼이나 중요한 교통수단이에요.",
+    "intro": [
+      "중고 자전거를 하나 샀어요. 그런데 첫 출근길에 브레이크가 삐걱, 뒤에서는 누가 ‘Radweg!’ 하고 외치고… 자전거 가게에 가서 설명하려니 단어가 하나도 안 떠올라요.",
+      "오늘은 자전거 탈 때 꼭 필요한 단어 10개를 모았어요. 이 단어들이면 자전거 도로 규칙을 이해하고, 고장 난 곳을 가게에 설명할 수도 있어요. 🚲"
+    ],
+    "words": {
+      "A1-141": {"pron": "파르라트", "tip": "fahren(타고 가다) + Rad(바퀴) = 타고 다니는 바퀴 🚲", "warn": "das Rad로 끝나니 das Fahrrad! 복수는 Fahrräder예요."},
+      "A1-540": {"pron": "라트 파렌", "tip": "Rad(자전거) + fahren(타다), 그대로 이어 붙인 말 🚴 Ich fahre Rad!", "warn": "완료형은 sein이에요: Ich bin Rad gefahren."},
+      "B1-1051": {"pron": "라트파러", "tip": "Rad fahren + -er = 자전거 타는 사람 🧑‍🦱 -er는 ‘~하는 사람’!", "bonus": "여자는 die Radfahrerin, 보행자는 der Fußgänger"},
+      "A2-727": {"pron": "라트베크", "tip": "Rad(자전거) + Weg(길) = 자전거 길 🛣️ 영어 way와 Weg는 친척!", "warn": "보행자는 Radweg 위를 걸으면 안 돼요. 자전거가 정말 빨리 와요!"},
+      "A2-768": {"pron": "헬름", "tip": "영어 helmet에서 -et만 빼면 Helm ⛑️", "bonus": "헬멧을 쓰다 = einen Helm tragen"},
+      "A2-550": {"pron": "라이펜", "tip": "원래 ‘고리’라는 뜻, 바퀴를 감싸는 둥근 고리 ⭕", "bonus": "펑크 났어요! = Ich habe einen Platten."},
+      "B1-538": {"pron": "브렘제", "tip": "‘브렘’ 하고 끽 멈추는 소리 같지 않나요? 🛑 -e로 끝나니 die!", "bonus": "보통 복수로 말해요: Die Bremsen quietschen. = 브레이크가 삐걱거려요."},
+      "B1-537": {"pron": "브렘젠", "tip": "die Bremse에서 e만 빼고 -n을 붙이면 동사 🚦 명사와 세트로 외워요!", "bonus": "급정거하다 = scharf bremsen"},
+      "B2-3962": {"pron": "자텔", "tip": "영어 saddle과 판박이 🐎 sitzen(앉다)과도 관련 있을지 몰라요.", "warn": "복수는 움라우트: die Sättel"},
+      "B1-2012": {"pron": "이바이크", "tip": "E(전기) + 영어 bike 🔋 독일어지만 발음은 영어식으로!", "bonus": "페달을 밟으면 모터가 도와주는 자전거는 Pedelec이라고도 해요."}
+    },
+    "culture": [
+      "독일에서는 자전거 도로(Radweg)가 잘 되어 있는 편이에요. 파란 원형 표지판에 자전거 그림이 있으면 자전거는 그 길로 다녀야 해요. 그리고 보행자는 자전거 도로를 비워 주는 게 기본 매너예요.",
+      "자전거에는 벨과 앞뒤 라이트가 있어야 하고, 어두울 때 라이트 없이 달리면 단속에 걸릴 수 있어요. 헬멧은 의무는 아니지만 쓰는 사람이 점점 늘고 있어요.",
+      "자전거 도난이 정말 흔하니 좋은 자물쇠(das Schloss)는 꼭 장만하세요. 그리고 기차에 자전거를 실을 때는 보통 자전거 표가 따로 필요해요. 🔒"
+    ],
+    "quiz": {"q": "자전거 가게에서 ‘브레이크가 잘 안 들어요’라고 말하고 싶어요.", "o": ["Mein Helm ist zu groß.", "Die Bremsen funktionieren nicht richtig.", "Ich fahre gern E-Bike."], "a": 1, "why": "die Bremsen = 브레이크, funktionieren nicht richtig = 제대로 작동하지 않아요."},
+    "outro": "오늘 자전거나 버스를 탈 때 ‘Ich fahre Rad.’, ‘Ich bin Rad gefahren.’을 작게 중얼거려 봐요. 🚴"
+  },
+  "en": {
+    "title": "On your bike! 10 German cycling words",
+    "hook": "In German cities, a bike is almost as important as the bus.",
+    "intro": [
+      "You've bought a second-hand bike. On your first ride to work the brakes squeak, someone behind you shouts ‘Radweg!’, and at the bike shop you can't find a single word to explain what's wrong.",
+      "Here are ten words every cyclist needs. With them you'll understand the cycle path rules and be able to tell the repair shop what's broken. 🚲"
+    ],
+    "words": {
+      "A1-141": {"pron": "FAHR-raht", "tip": "fahren (ride) + Rad (wheel) = a wheel you ride 🚲", "warn": "It ends in das Rad, so it's das Fahrrad. Plural: Fahrräder."},
+      "A1-540": {"pron": "RAHT fah-ren", "tip": "Rad (bike) + fahren (ride), side by side 🚴 Ich fahre Rad!", "warn": "Perfect with sein: Ich bin Rad gefahren."},
+      "B1-1051": {"pron": "RAHT-fah-rer", "tip": "Rad fahren + -er = someone who cycles 🧑‍🦱 -er means ‘a person who does it’, like rider.", "bonus": "female: die Radfahrerin · pedestrian: der Fußgänger"},
+      "A2-727": {"pron": "RAHT-vayk", "tip": "Rad (bike) + Weg (way) = bike way 🛣️ Weg and way are cousins.", "warn": "Don't walk on a Radweg — bikes come fast!"},
+      "A2-768": {"pron": "HELM", "tip": "English helmet minus the -et ⛑️", "bonus": "to wear a helmet = einen Helm tragen"},
+      "A2-550": {"pron": "RYE-fen", "tip": "It first meant ‘hoop’ — a round hoop around the wheel ⭕", "bonus": "I've got a puncture! = Ich habe einen Platten."},
+      "B1-538": {"pron": "BREM-zuh", "tip": "‘BREM!’ sounds like a sudden stop 🛑 Ends in -e, so die.", "bonus": "Often plural: Die Bremsen quietschen. = The brakes squeak."},
+      "B1-537": {"pron": "BREM-zen", "tip": "Take die Bremse, add -n, and you have the verb 🚦 Learn them as a pair.", "bonus": "to brake hard = scharf bremsen"},
+      "B2-3962": {"pron": "ZAT-el", "tip": "Practically English saddle 🐎 It may even be related to sitzen (sit).", "warn": "Plural with umlaut: die Sättel"},
+      "B1-2012": {"pron": "EE-bike", "tip": "E (electric) + English bike 🔋 Say it the English way.", "bonus": "You'll also hear Pedelec for bikes with pedal assist."}
+    },
+    "culture": [
+      "Germany generally has good cycle paths (Radweg). A round blue sign with a bike on it means cyclists must use that path. And pedestrians are expected to keep off it.",
+      "Bikes need a bell and front and rear lights, and riding in the dark without lights can get you stopped. Helmets aren't compulsory, but more and more people wear one.",
+      "Bike theft is very common, so get a good lock (das Schloss). If you take your bike on a train, you usually need a separate bike ticket. 🔒"
+    ],
+    "quiz": {"q": "At the bike shop, you want to say ‘The brakes aren't working properly.’", "o": ["Mein Helm ist zu groß.", "Die Bremsen funktionieren nicht richtig.", "Ich fahre gern E-Bike."], "a": 1, "why": "die Bremsen = the brakes, funktionieren nicht richtig = don't work properly."},
+    "outro": "On your next ride or bus trip, quietly say ‘Ich fahre Rad.’ and ‘Ich bin Rad gefahren.’ 🚴"
+  },
+  "ja": {
+    "title": "自転車でドイツの街を走ろう！単語10",
+    "hook": "ドイツの街では、自転車はバスと同じくらい大事な交通手段です。",
+    "intro": [
+      "中古の自転車を買いました。でも初めての通勤でブレーキがキーキー、後ろからは「Radweg!」と叫ばれて…。自転車屋さんで説明しようにも、単語がひとつも出てきません。",
+      "今日は自転車に乗るときに欠かせない単語を10個集めました。自転車道のルールがわかり、壊れたところをお店で説明できるようになりますよ。🚲"
+    ],
+    "words": {
+      "A1-141": {"pron": "ファーラート", "tip": "fahren（乗って行く）+ Rad（車輪）= 乗って走る車輪 🚲", "warn": "das Rad で終わるので das Fahrrad！複数形は Fahrräder です。"},
+      "A1-540": {"pron": "ラート ファーレン", "tip": "Rad（自転車）+ fahren（乗る）をそのまま並べただけ 🚴 Ich fahre Rad!", "warn": "完了形は sein：Ich bin Rad gefahren."},
+      "B1-1051": {"pron": "ラートファーラー", "tip": "Rad fahren + -er = 自転車に乗る人 🧑‍🦱 -er は「〜する人」！", "bonus": "女性は die Radfahrerin、歩行者は der Fußgänger"},
+      "A2-727": {"pron": "ラートヴェーク", "tip": "Rad（自転車）+ Weg（道）= 自転車の道 🛣️ Weg と英語の way は親戚！", "warn": "歩行者は Radweg を歩かないで！自転車がすごい速さで来ます。"},
+      "A2-768": {"pron": "ヘルム", "tip": "英語の helmet から -et を取ったら Helm ⛑️", "bonus": "ヘルメットをかぶる = einen Helm tragen"},
+      "A2-550": {"pron": "ライフェン", "tip": "もとは「輪」という意味、車輪を包む丸い輪 ⭕", "bonus": "パンクしました！= Ich habe einen Platten."},
+      "B1-538": {"pron": "ブレムゼ", "tip": "「ブレム！」と急に止まる音みたい 🛑 -e で終わるので die！", "bonus": "ふつう複数形で：Die Bremsen quietschen. = ブレーキがキーキー鳴ります。"},
+      "B1-537": {"pron": "ブレムゼン", "tip": "die Bremse に -n をつけると動詞 🚦 名詞とセットで覚えましょう！", "bonus": "急ブレーキをかける = scharf bremsen"},
+      "B2-3962": {"pron": "ザッテル", "tip": "英語の saddle とそっくり 🐎 sitzen（座る）とも関係があるかも。", "warn": "複数形はウムラウト：die Sättel"},
+      "B1-2012": {"pron": "イーバイク", "tip": "E（電気）+ 英語の bike 🔋 発音は英語風でOK！", "bonus": "ペダルをこぐとアシストする自転車は Pedelec ともよく言います。"}
+    },
+    "culture": [
+      "ドイツは自転車道（Radweg）がわりと整っています。青い丸い標識に自転車の絵があれば、自転車はその道を走らなければいけません。歩行者は自転車道をあけておくのが基本のマナーです。",
+      "自転車にはベルと前後のライトが必要で、暗いのにライトなしで走ると注意されることがあります。ヘルメットは義務ではありませんが、かぶる人はどんどん増えています。",
+      "自転車の盗難がとても多いので、しっかりした鍵（das Schloss）は必ず用意しましょう。電車に自転車を載せるときは、ふつう自転車用の切符が別に必要です。🔒"
+    ],
+    "quiz": {"q": "自転車屋さんで「ブレーキがちゃんと効きません」と言いたいです。", "o": ["Mein Helm ist zu groß.", "Die Bremsen funktionieren nicht richtig.", "Ich fahre gern E-Bike."], "a": 1, "why": "die Bremsen = ブレーキ、funktionieren nicht richtig = ちゃんと動かない、という意味です。"},
+    "outro": "今日自転車やバスに乗るとき、「Ich fahre Rad.」「Ich bin Rad gefahren.」と小さくつぶやいてみましょう。🚴"
+  }
+}

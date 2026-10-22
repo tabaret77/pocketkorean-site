@@ -1,0 +1,84 @@
+{
+  "key": "accident",
+  "ko": {
+    "title": "쿵! 사고 났을 때 침착하게 쓰는 독일어 10",
+    "hook": "사고는 예고 없이 오니까, 단어는 미리 챙겨 두는 게 좋아요.",
+    "intro": [
+      "신호 대기 중에 뒤에서 ‘쿵’ 하고 차가 부딪혔어요. 다행히 다친 사람은 없었는데, 상대 운전자가 Versicherung, Personalien, Kennzeichen을 빠르게 말하니까 머릿속이 하얘지더라고요.",
+      "오늘은 사고가 났을 때 필요한 단어 10개예요. 이 단어들이면 무슨 일이 있었는지 설명하고, 연락처를 주고받고, 보험 처리까지 차분하게 할 수 있어요. 🚨"
+    ],
+    "words": {
+      "A2-035": {"pron": "운팔", "tip": "un-(안 좋은) + Fall(일, 경우) = 안 좋은 일이 떨어짐 💥", "bonus": "사고가 나다 = einen Unfall haben · 교통사고 = der Verkehrsunfall"},
+      "A2-122": {"pron": "페어레충", "tip": "verletzen(다치게 하다) + -ung 🩹 -ung이니까 언제나 die!", "bonus": "다치다 = sich verletzen: Ist jemand verletzt? = 다친 사람 있어요?"},
+      "B1-504": {"pron": "베셰디겐", "tip": "be- + Schaden(손해) = 손해를 입히다 🚗 물건이 망가졌을 때 쓰는 말!", "bonus": "수동태로 자주 써요: Das Auto wurde beschädigt."},
+      "A2-019": {"pron": "페어지혀룽", "tip": "sicher(안전한)가 숨어 있어요 🛡️ 나를 안전하게 지켜 주는 보험!", "bonus": "자동차 사고에서는 상대의 보험사 이름과 번호를 꼭 받아 두세요."},
+      "B1-262": {"pron": "슐트", "tip": "sollen(해야 한다)과 같은 뿌리 🫣 해야 할 걸 안 하면 내 탓!", "warn": "복수형 die Schulden은 ‘빚’이에요. ‘내 탓 아니야’는 Das ist nicht meine Schuld!"},
+      "B2-1465": {"pron": "추자멘슈토스", "tip": "zusammen(함께) + Stoß(충격) = 둘이 쾅 부딪힘 💢", "bonus": "동사로: zusammenstoßen (완료형은 ist zusammengestoßen)"},
+      "B2-2626": {"pron": "아우프파르운팔", "tip": "auffahren(뒤에서 들이받다) + Unfall = 추돌 사고 🚙💥🚗", "bonus": "막힌 길에서 제일 흔한 사고예요: Im Stau gab es einen Auffahrunfall."},
+      "B1-1022": {"pron": "페르조날리엔", "tip": "Person이 보이죠? 👤 이름, 주소, 생년월일 같은 개인 정보 세트!", "warn": "복수로만 써요: die Personalien. 경찰이 ‘Ihre Personalien, bitte’라고 하면 신분증을 보여 주세요."},
+      "B1-843": {"pron": "켄차이혠", "tip": "kennen(알다) + Zeichen(표시) = 알아보는 표시 🔢 차량 번호판!", "bonus": "앞 글자는 도시를 나타내요: B = Berlin, M = München"},
+      "B2-2627": {"pron": "블레히샤덴", "tip": "Blech(철판) + Schaden(손해) = 철판만 찌그러짐 🥫 사람은 무사하다는 뜻이라 다행인 단어!", "bonus": "반대로 사람이 다치면 der Personenschaden"}
+    },
+    "culture": [
+      "독일에서 사고가 나면 먼저 비상등을 켜고, 안전 조끼(Warnweste)를 입고, 삼각대(Warndreieck)를 세워요. 이 물건들은 차에 항상 실어 두는 게 기본이에요. 다친 사람이 있으면 112, 경찰은 110이에요.",
+      "가벼운 사고라면 서로 이름, 주소, 번호판, 보험사 정보를 주고받고 사진을 찍어 두는 게 보통이에요. 유럽 공통 사고 보고서(Europäischer Unfallbericht) 양식을 차에 넣어 두는 사람도 많아요.",
+      "그리고 그 자리에서 너무 서둘러 ‘제 잘못이에요’라고 인정하지 말라는 조언을 자주 들어요. 일어난 일만 차분히 말하고, 책임은 보험사에서 따지게 하는 게 일반적이에요. 🦺"
+    ],
+    "quiz": {"q": "가벼운 접촉 사고가 났어요. 경찰이 ‘Ist jemand verletzt?’라고 물어요. 다친 사람은 없어요.", "o": ["Nein, zum Glück nur Blechschaden.", "Ja, ich habe eine Versicherung.", "Ich habe das Kennzeichen nicht gesehen."], "a": 0, "why": "Blechschaden = 차만 찌그러지고 사람은 무사한 사고라는 뜻이에요."},
+    "outro": "오늘 단어로 ‘사고가 나면 할 말’을 한 번 소리 내서 정리해 봐요. 물론 실제로 쓸 일은 없기를 바라요! 🍀"
+  },
+  "en": {
+    "title": "Crash course: 10 German words for accidents",
+    "hook": "Accidents never warn you in advance, so it's worth packing the words ahead of time.",
+    "intro": [
+      "I was waiting at a red light when — bang — the car behind drove into me. Luckily nobody was hurt, but when the other driver started rattling off Versicherung, Personalien and Kennzeichen, my mind went blank.",
+      "Today's ten words are for when something goes wrong. With them you can explain what happened, swap details and deal with the insurance calmly. 🚨"
+    ],
+    "words": {
+      "A2-035": {"pron": "OON-fal", "tip": "un- (bad) + Fall (event, case) = something bad that befalls you 💥", "bonus": "to have an accident = einen Unfall haben · road accident = der Verkehrsunfall"},
+      "A2-122": {"pron": "fair-LETS-oong", "tip": "verletzen (to injure) + -ung 🩹 -ung, so always die!", "bonus": "to get hurt = sich verletzen: Ist jemand verletzt? = Is anyone hurt?"},
+      "B1-504": {"pron": "buh-SHAY-dig-en", "tip": "be- + Schaden (damage) = to damage 🚗 For things, not people.", "bonus": "Often passive: Das Auto wurde beschädigt."},
+      "A2-019": {"pron": "fair-ZIKH-er-oong", "tip": "sicher (safe) is hiding inside 🛡️ Insurance keeps you safe.", "bonus": "After a car accident, always get the other driver's insurer and policy number."},
+      "B1-262": {"pron": "SHOOLT", "tip": "Same root as sollen and English shall 🫣 Didn't do what you should? Your fault!", "warn": "The plural die Schulden means debts. ‘Not my fault!’ = Das ist nicht meine Schuld!"},
+      "B2-1465": {"pron": "tsoo-ZAM-en-shtohs", "tip": "zusammen (together) + Stoß (impact) = two things banging together 💢", "bonus": "As a verb: zusammenstoßen (perfect: ist zusammengestoßen)"},
+      "B2-2626": {"pron": "OWF-fahr-oon-fal", "tip": "auffahren (to drive into the back of) + Unfall = rear-end crash 🚙💥🚗", "bonus": "The classic traffic-jam accident: Im Stau gab es einen Auffahrunfall."},
+      "B1-1022": {"pron": "per-zo-NAH-lee-en", "tip": "Spot Person inside? 👤 Your name, address and date of birth in one word.", "warn": "Only plural: die Personalien. If the police say ‘Ihre Personalien, bitte’, show your ID."},
+      "B1-843": {"pron": "KEN-tsye-khen", "tip": "kennen (to know) + Zeichen (sign) = the sign that identifies 🔢 a number plate!", "bonus": "The first letters show the town: B = Berlin, M = München"},
+      "B2-2627": {"pron": "BLEKH-shah-den", "tip": "Blech (sheet metal) + Schaden (damage) = only the metal got dented 🥫 A lucky word — nobody's hurt.", "bonus": "If people are hurt, it's der Personenschaden."}
+    },
+    "culture": [
+      "After an accident in Germany, people switch on the hazard lights, put on a hi-vis vest (Warnweste) and set up a warning triangle (Warndreieck) — things you're expected to keep in the car. For injuries call 112; the police are 110.",
+      "For a minor crash, drivers usually swap names, addresses, number plates and insurance details, and take photos. Many people keep a European accident report form (Europäischer Unfallbericht) in the glovebox.",
+      "You'll often hear the advice not to admit fault on the spot. Calmly describe what happened and let the insurers sort out who's to blame. 🦺"
+    ],
+    "quiz": {"q": "You've had a minor bump. The police ask: ‘Ist jemand verletzt?’ Nobody is hurt.", "o": ["Nein, zum Glück nur Blechschaden.", "Ja, ich habe eine Versicherung.", "Ich habe das Kennzeichen nicht gesehen."], "a": 0, "why": "Blechschaden means only the cars are damaged and nobody is hurt."},
+    "outro": "Run through what you'd say after an accident, out loud, with today's words. And here's hoping you never need it! 🍀"
+  },
+  "ja": {
+    "title": "ドン！事故のとき落ち着いて使えるドイツ語10",
+    "hook": "事故は予告なしにやってくるので、単語は先に用意しておきましょう。",
+    "intro": [
+      "信号待ちをしていたら、後ろから「ドン」とぶつけられました。幸いけが人はいませんでしたが、相手のドライバーが Versicherung、Personalien、Kennzeichen と早口で言うので、頭が真っ白になりました。",
+      "今日は事故のときに必要な単語10個です。これで何があったかを説明し、連絡先を交換し、保険の手続きまで落ち着いて進められます。🚨"
+    ],
+    "words": {
+      "A2-035": {"pron": "ウンファル", "tip": "un-（よくない）+ Fall（出来事）= よくないことが降りかかる 💥", "bonus": "事故にあう = einen Unfall haben · 交通事故 = der Verkehrsunfall"},
+      "A2-122": {"pron": "フェアレッツング", "tip": "verletzen（けがをさせる）+ -ung 🩹 -ung なのでいつも die！", "bonus": "けがをする = sich verletzen：Ist jemand verletzt? = けが人はいますか？"},
+      "B1-504": {"pron": "ベシェーディゲン", "tip": "be- + Schaden（損害）= 損害を与える 🚗 物が壊れたときの言葉です。", "bonus": "受動態でよく使います：Das Auto wurde beschädigt."},
+      "A2-019": {"pron": "フェアズィッヒェルング", "tip": "sicher（安全な）が隠れています 🛡️ 安全を守ってくれる保険！", "bonus": "車の事故では、相手の保険会社名と番号を必ず控えましょう。"},
+      "B1-262": {"pron": "シュルト", "tip": "sollen（〜すべき）と同じ語源 🫣 すべきことをしなかったら自分のせい！", "warn": "複数形 die Schulden は「借金」です。「私のせいじゃない」は Das ist nicht meine Schuld!"},
+      "B2-1465": {"pron": "ツザメンシュトース", "tip": "zusammen（一緒に）+ Stoß（衝撃）= 2つがガツンとぶつかる 💢", "bonus": "動詞では zusammenstoßen（完了形は ist zusammengestoßen）"},
+      "B2-2626": {"pron": "アウフファールウンファル", "tip": "auffahren（後ろから追突する）+ Unfall = 追突事故 🚙💥🚗", "bonus": "渋滞でいちばん多い事故です：Im Stau gab es einen Auffahrunfall."},
+      "B1-1022": {"pron": "ペルゾナーリエン", "tip": "Person が見えますね 👤 名前・住所・生年月日などの個人情報セット！", "warn": "複数形だけで使います：die Personalien。警察に「Ihre Personalien, bitte」と言われたら身分証を見せましょう。"},
+      "B1-843": {"pron": "ケンツァイヒェン", "tip": "kennen（知る）+ Zeichen（しるし）= 見分けるためのしるし 🔢 ナンバープレート！", "bonus": "最初の文字は町を表します：B = Berlin、M = München"},
+      "B2-2627": {"pron": "ブレッヒシャーデン", "tip": "Blech（鉄板）+ Schaden（損害）= 鉄板がへこんだだけ 🥫 けが人なしという、ほっとする単語！", "bonus": "人がけがをした場合は der Personenschaden"}
+    },
+    "culture": [
+      "ドイツで事故が起きたら、まずハザードランプをつけ、安全ベスト（Warnweste）を着て、三角表示板（Warndreieck）を置きます。これらは車に常備しておくのが基本です。けが人がいれば112、警察は110です。",
+      "軽い事故なら、名前・住所・ナンバー・保険会社の情報を交換して、写真を撮っておくのがふつうです。ヨーロッパ共通の事故報告書（Europäischer Unfallbericht）を車に入れている人も多いです。",
+      "また、その場で慌てて「私のせいです」と認めないように、というアドバイスもよく聞きます。起きたことだけを落ち着いて伝え、責任の判断は保険会社に任せるのが一般的です。🦺"
+    ],
+    "quiz": {"q": "軽い接触事故が起きました。警察に「Ist jemand verletzt?」と聞かれます。けが人はいません。", "o": ["Nein, zum Glück nur Blechschaden.", "Ja, ich habe eine Versicherung.", "Ich habe das Kennzeichen nicht gesehen."], "a": 0, "why": "Blechschaden は車が傷ついただけで、人は無事な事故という意味です。"},
+    "outro": "今日の単語で「事故のときに言うこと」を一度声に出してまとめてみましょう。もちろん、使う日が来ないのがいちばんです！🍀"
+  }
+}

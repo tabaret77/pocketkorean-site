@@ -1,0 +1,81 @@
+{
+  "key": "questions",
+  "ko": {
+    "title": "W로 시작하는 마법의 단어 10개",
+    "hook": "독일어 질문은 거의 다 W로 시작해요. 이 10개만 있으면 뭐든 물어볼 수 있어요.",
+    "intro": [
+      "독일에 온 첫 주, 빵집에서 가격을 묻고 싶은데 말이 안 나와요. 길을 묻고 싶은데 “어디”가 생각이 안 나고, 새 친구가 “Woher kommst du?” 하고 물었을 땐 wo랑 woher가 머릿속에서 뒤엉켰죠.",
+      "오늘은 독일어 의문사 10개예요. 누구, 무엇, 어디, 언제, 왜, 어떻게… 이 단어들만 있으면 대화를 내가 이끌 수 있어요. 질문을 할 줄 알면 독일어가 훨씬 빨리 늘어요. ❓"
+    ],
+    "words": {
+      "A1-579": {"pron": "베어", "tip": "영어 who와 같은 뿌리지만 생긴 건 where 같아서 함정 🕵️", "warn": "where(어디)가 아니라 who(누구)예요! 3격은 wem, 4격은 wen."},
+      "A1-574": {"pron": "바스", "tip": "영어 what과 같은 뿌리 🤔 W는 ‘ㅂ’ 소리니까 ‘와트’가 아니라 ‘바스’!", "bonus": "구어에서는 etwas(무언가) 대신 쓰기도 해요: Ich hab was gefunden."},
+      "A1-585": {"pron": "보", "tip": "영어 where의 짧은 버전 📍 위치를 물을 땐 wo!", "warn": "‘어디로’는 wohin, ‘어디에서’는 woher. wo는 그냥 ‘어디에’예요."},
+      "A1-394": {"pron": "반", "tip": "영어 when과 같은 뿌리 ⏰ 몇 시에?는 Um wie viel Uhr?", "warn": "과거의 ‘~했을 때’는 wann이 아니라 als: Als ich klein war…"},
+      "A1-393": {"pron": "바룸", "tip": "‘왜에~’ 하고 끝을 길게 끄는 ‘바루움?’ 🧐", "bonus": "대답은 weil로: Weil ich in Deutschland wohne."},
+      "A1-581": {"pron": "비", "tip": "제일 많이 쓰는 질문: Wie geht's? Wie heißt du? 🙋", "warn": "‘~보다’ 비교는 wie가 아니라 als: größer als"},
+      "A1-395": {"pron": "보헤어", "tip": "wo + her(이쪽으로) = 어디서 이쪽으로 왔니? 🧳", "bonus": "대답: Ich komme aus Korea."},
+      "A1-396": {"pron": "보힌", "tip": "wo + hin(저쪽으로) = 어디로 가니? 🚀 her는 나한테, hin은 저 멀리!", "bonus": "회화에서는 쪼개서 써요: Wo gehst du hin?"},
+      "A2-404": {"pron": "벨히어", "tip": "영어 which와 같은 뿌리 👉 여러 개 중에 고를 때!", "warn": "관사처럼 어미가 바뀌어요: welcher Bus, welche Farbe, welches Buch"},
+      "A1-582": {"pron": "비 필", "tip": "wie(어떻게) + viel(많이) = 얼마나 많이 💶 장 볼 때 필수!", "bonus": "셀 수 있는 복수엔 wie viele: Wie viele Kinder hast du?"}
+    },
+    "culture": [
+      "독일에서 “Wie geht's?”는 그냥 인사가 아니라 진짜 질문일 때가 많아요. 친한 사람에게는 솔직하게 “Nicht so gut, ich bin müde.”라고 답해도 자연스러워요. 대신 잘 모르는 사람에게 습관처럼 묻지는 않는 편이에요.",
+      "못 알아들었을 때는 “Was?” 대신 “Wie bitte?”라고 하면 훨씬 공손해요. 독일 사람들은 질문을 받는 걸 싫어하지 않으니, 모르면 망설이지 말고 W-단어로 물어보세요. 🙋"
+    ],
+    "quiz": {"q": "새로 만난 사람에게 어느 나라에서 왔는지 묻고 싶어요.", "o": ["Woher kommst du?", "Wohin fährst du?", "Wann kommst du?"], "a": 0, "why": "Woher kommst du? = 어디에서 왔어요? 출신을 물을 때는 woher를 써요."},
+    "outro": "오늘은 W-의문사로 질문 다섯 개를 만들어서 소리 내어 읽어 봐요. 혼잣말이어도 괜찮아요! ❓"
+  },
+  "en": {
+    "title": "Who, what, where? 10 German question words",
+    "hook": "Almost every German question starts with a W. Learn these ten and you can ask about anything.",
+    "intro": [
+      "My first week in Germany: I want to ask the price at the bakery and nothing comes out. I need directions and can't remember ‘where’. Then a new friend asks “Woher kommst du?” and wo and woher get tangled in my head.",
+      "Today's ten words are the German question words: who, what, where, when, why, how… With them you can steer the conversation yourself — and people who ask questions learn faster. ❓"
+    ],
+    "words": {
+      "A1-579": {"pron": "VAIR", "tip": "It means who, but it looks like where — a classic trap 🕵️", "warn": "wer = who, not where! The other forms are wem (to whom) and wen (whom)."},
+      "A1-574": {"pron": "VAHSS", "tip": "Same root as English what 🤔 German W sounds like V: ‘vahss’.", "bonus": "In speech it can mean ‘something’: Ich hab was gefunden."},
+      "A1-585": {"pron": "VOH", "tip": "English where, cut short 📍 For location, use wo.", "warn": "‘Where to’ is wohin and ‘where from’ is woher; wo is just ‘where (at)’."},
+      "A1-394": {"pron": "VAHN", "tip": "Same root as English when ⏰ At what time? = Um wie viel Uhr?", "warn": "For a past ‘when…’ clause, use als, not wann: Als ich klein war…"},
+      "A1-393": {"pron": "vah-ROOM", "tip": "Imagine a curious child asking ‘vah-ROOOM?’ again and again 🧐", "bonus": "Answer with weil: Weil ich in Deutschland wohne."},
+      "A1-581": {"pron": "VEE", "tip": "In the most common questions: Wie geht's? Wie heißt du? 🙋", "warn": "Comparisons use als, not wie: größer als (bigger than)."},
+      "A1-395": {"pron": "voh-HAIR", "tip": "wo + her (towards here) = from where to here? 🧳", "bonus": "Answer: Ich komme aus England."},
+      "A1-396": {"pron": "voh-HIN", "tip": "wo + hin (away from here) = where to? 🚀 her comes to me, hin goes away.", "bonus": "In speech it often splits: Wo gehst du hin?"},
+      "A2-404": {"pron": "VEL-kher", "tip": "Same root as English which 👉 For choosing between options.", "warn": "The ending changes like an article: welcher Bus, welche Farbe, welches Buch."},
+      "A1-582": {"pron": "VEE FEEL", "tip": "wie (how) + viel (much) = how much 💶 Essential for shopping.", "bonus": "For countable plurals: wie viele? = how many? Wie viele Kinder hast du?"}
+    },
+    "culture": [
+      "In Germany, “Wie geht's?” is often a real question, not just a greeting. With friends it's fine to answer honestly: “Nicht so gut, ich bin müde.” On the other hand, people don't usually ask it automatically to strangers.",
+      "If you didn't catch something, “Wie bitte?” sounds much more polite than “Was?”. Germans generally don't mind questions, so if you're unsure, just ask with a W-word. 🙋"
+    ],
+    "quiz": {"q": "You've just met someone and want to ask which country they're from.", "o": ["Woher kommst du?", "Wohin fährst du?", "Wann kommst du?"], "a": 0, "why": "Woher kommst du? = Where are you from? Use woher to ask about origin."},
+    "outro": "Make five questions with today's W-words and say them out loud — talking to yourself counts! ❓"
+  },
+  "ja": {
+    "title": "W で始まる魔法の疑問詞10",
+    "hook": "ドイツ語の質問は、ほとんど W で始まります。この10個があれば何でも聞けます。",
+    "intro": [
+      "ドイツに来た最初の週、パン屋で値段を聞きたいのに言葉が出てきません。道を聞きたいのに「どこ」が思い出せず、新しい友だちに「Woher kommst du?」と聞かれたときは、wo と woher が頭の中でからまってしまいました。",
+      "今日はドイツ語の疑問詞を10個集めました。誰、何、どこ、いつ、なぜ、どうやって…。これがあれば、会話を自分から進められます。質問できる人ほどドイツ語は早く伸びますよ。❓"
+    ],
+    "words": {
+      "A1-579": {"pron": "ヴェーア", "tip": "英語の who と同じ語源なのに、見た目は where そっくりのワナ 🕵️", "warn": "「どこ」ではなく「誰」です！3格は wem、4格は wen。"},
+      "A1-574": {"pron": "ヴァス", "tip": "英語の what と同じ語源 🤔 W は「ヴ」の音なので「ワット」ではなく「ヴァス」！", "bonus": "口語では etwas（何か）の代わりにも：Ich hab was gefunden."},
+      "A1-585": {"pron": "ヴォー", "tip": "英語の where を短くした感じ 📍 場所を聞くなら wo！", "warn": "「どこへ」は wohin、「どこから」は woher。wo は「どこに・どこで」です。"},
+      "A1-394": {"pron": "ヴァン", "tip": "英語の when と同じ語源 ⏰ 何時に？は Um wie viel Uhr?", "warn": "過去の「〜したとき」は wann ではなく als：Als ich klein war…"},
+      "A1-393": {"pron": "ヴァルム", "tip": "子どもが何度も聞く「ヴァルーム？（なんで？）」🧐", "bonus": "答えは weil で：Weil ich in Deutschland wohne."},
+      "A1-581": {"pron": "ヴィー", "tip": "いちばんよく使う質問に：Wie geht's? Wie heißt du? 🙋", "warn": "比較の「〜より」は wie ではなく als：größer als"},
+      "A1-395": {"pron": "ヴォヘーア", "tip": "wo + her（こちらへ）= どこからこっちへ来たの？🧳", "bonus": "答え：Ich komme aus Japan."},
+      "A1-396": {"pron": "ヴォヒン", "tip": "wo + hin（あちらへ）= どこへ行くの？🚀 her は自分のほうへ、hin は向こうへ！", "bonus": "会話では分けて言います：Wo gehst du hin?"},
+      "A2-404": {"pron": "ヴェルヒャー", "tip": "英語の which と同じ語源 👉 いくつかの中から選ぶときに！", "warn": "冠詞のように語尾が変わります：welcher Bus, welche Farbe, welches Buch"},
+      "A1-582": {"pron": "ヴィー フィール", "tip": "wie（どのように）+ viel（多く）= どれくらい 💶 買い物の必需品！", "bonus": "数えられる複数には wie viele：Wie viele Kinder hast du?"}
+    },
+    "culture": [
+      "ドイツで「Wie geht's?」は、ただのあいさつではなく本当の質問であることが多いです。親しい人には「Nicht so gut, ich bin müde.」と正直に答えても自然です。そのかわり、よく知らない人に口ぐせのように聞くことはあまりありません。",
+      "聞き取れなかったときは「Was?」より「Wie bitte?」と言うほうがずっと丁寧です。ドイツの人は質問されるのを嫌がらないので、わからなければ遠慮せず W の言葉で聞いてみましょう。🙋"
+    ],
+    "quiz": {"q": "初めて会った人に、どこの国から来たのか聞きたいです。", "o": ["Woher kommst du?", "Wohin fährst du?", "Wann kommst du?"], "a": 0, "why": "Woher kommst du? =「どこから来ましたか？」出身を聞くときは woher を使います。"},
+    "outro": "今日は W の疑問詞で質問を5つ作って、声に出して読んでみましょう。ひとり言でも大丈夫です！❓"
+  }
+}

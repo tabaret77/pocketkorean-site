@@ -1,0 +1,84 @@
+{
+  "key": "parttime",
+  "ko": {
+    "title": "독일에서 알바 구할 때 필요한 단어 10개",
+    "hook": "독일 카페 유리문에 붙은 ‘Aushilfe gesucht’, 이게 바로 알바 구인 공고예요.",
+    "intro": [
+      "독일에서 공부하거나 워홀 중이라면 한 번쯤 알바를 찾게 돼요. 동네 빵집 문에 쪽지가 붙어 있고, 면접에서는 근무 시간, 교대, 시급 이야기가 쏟아져요. 단어를 모르면 내가 뭘 하게 되는지도 모르고 ‘Ja’만 하게 되죠.",
+      "오늘은 알바와 미니잡에 관한 단어 10개를 모았어요. 구인 공고 읽기부터 근무 형태, 교대 근무, 월급 이야기까지 이 단어들로 면접에서도 당당하게 말할 수 있어요. 💼"
+    ],
+    "words": {
+      "B1-1242": {"pron": "타일차이트", "tip": "Teil(일부) + Zeit(시간) = 시간의 일부만 일하기 ⏰ 반대는 Vollzeit!", "bonus": "in Teilzeit arbeiten = 파트타임으로 일하다"},
+      "B2-449": {"pron": "미니좁", "tip": "작은(mini) 일(job) = 미니잡 🧩 영어 같지만 독일에서 만든 말이에요.", "warn": "영어권에서는 안 통해요. 독일의 소득 상한이 있는 근무 형태를 가리키는 말이에요."},
+      "B2-450": {"pron": "네벤좁", "tip": "neben(옆에) + Job = 본업 옆에 하는 일 👜 공부 옆에 알바!", "bonus": "부업으로 = nebenberuflich"},
+      "B1-2039": {"pron": "조벤", "tip": "Job에 -en만 붙이면 동사 완성 🛠️ 잠깐 하는 알바 느낌이에요.", "warn": "정규 직업에는 안 써요. 그럴 땐 arbeiten!"},
+      "B1-475": {"pron": "아우스힐페", "tip": "aus + Hilfe(도움) = 잠깐 도와주러 오는 사람 🙋 ‘Aushilfe gesucht’ = 알바 구함!", "bonus": "동사는 aushelfen = 일손을 돕다"},
+      "C1-3037": {"pron": "쉬히트", "tip": "케이크 층처럼 하루를 층층이 나눈 게 교대 근무 🍰 Frühschicht, Spätschicht, Nachtschicht!", "warn": "‘사회 계층’, ‘층’이라는 뜻도 있어요. 문맥으로 구별해요."},
+      "B2-438": {"pron": "민데스트론", "tip": "mindestens(최소한) + Lohn(임금) = 최저임금 💶 최소한 이만큼은!", "bonus": "임금은 der Lohn, 월급(사무직)은 das Gehalt"},
+      "A2-067": {"pron": "페어디넨", "tip": "dienen(일하다, 섬기다)에서 왔어요 💰 일해서 버는 돈!", "bonus": "Das hast du dir verdient! = 넌 그럴 자격 있어!"},
+      "A2-655": {"pron": "켈너", "tip": "원래 와인 저장고(Keller) 관리인이었대요 🍷 지하실에서 서빙으로 승진!", "bonus": "여성은 die Kellnerin, 부를 땐 그냥 ‘Entschuldigung!’"},
+      "B1-1717": {"pron": "나흐트쉬히트", "tip": "Nacht(밤) + Schicht(교대) = 야간 근무 🌙 커피 필수!", "bonus": "아침 근무는 die Frühschicht, 오후·저녁 근무는 die Spätschicht"}
+    },
+    "culture": [
+      "독일에서 알바라고 하면 Minijob이 자주 나와요. 한 달 소득이 일정 금액 이하인 일자리로, 세금과 보험 처리가 간단한 편이에요. 상한 금액은 바뀔 수 있으니 계약 전에 꼭 최신 정보를 확인해요.",
+      "대학생은 전공과 관련된 회사에서 Werkstudent로 일하는 경우도 많아요. 외국인 학생은 체류 허가에 따라 일할 수 있는 시간이 정해져 있을 수 있으니 미리 알아 두는 게 좋아요.",
+      "카페나 식당 알바라면 팁(Trinkgeld)도 쏠쏠해요. 팁을 직원끼리 어떻게 나누는지는 가게마다 달라요. 첫날 슬쩍 물어보세요! 💶"
+    ],
+    "quiz": {"q": "사장님이 ‘Kannst du am Samstag die Nachtschicht übernehmen?’ 하고 물어요. 언제 일하게 될까요?", "o": ["in der Nacht", "am Morgen", "am Nachmittag"], "a": 0, "why": "Nachtschicht = 밤(Nacht)에 일하는 교대 근무예요."},
+    "outro": "오늘은 ‘Ich suche einen Nebenjob.’ 한 문장을 면접 보는 기분으로 소리 내 봐요. 좋은 알바 자리 만나길! 🍀"
+  },
+  "en": {
+    "title": "Looking for a side job in Germany? Start with these 10 words",
+    "hook": "That ‘Aushilfe gesucht’ sign on the café door? That's a job advert — maybe for you.",
+    "intro": [
+      "If you're studying or on a working holiday in Germany, sooner or later you'll look for a part-time job. There's a note on the bakery door, and at the interview people start talking about hours, shifts and pay. Without the words, you just nod and say ‘Ja’.",
+      "Today's ten words cover part-time work and mini-jobs. You'll be able to read job notices, understand the type of contract, talk about shifts and ask about pay with confidence. 💼"
+    ],
+    "words": {
+      "B1-1242": {"pron": "TILE-tsite", "tip": "Teil (part) + Zeit (time) = working part of the time ⏰ The opposite is Vollzeit.", "bonus": "in Teilzeit arbeiten = to work part-time"},
+      "B2-449": {"pron": "MIN-ee-jop", "tip": "A mini job, literally 🧩 Looks English, but Germany made it up.", "warn": "English speakers won't know it. It means a German job type with an earnings cap."},
+      "B2-450": {"pron": "NAY-ben-jop", "tip": "neben (next to) + Job = the job next to your main thing 👜 Like studying.", "bonus": "on the side, as a second job = nebenberuflich"},
+      "B1-2039": {"pron": "JOB-en", "tip": "Add -en to Job and you've got a verb 🛠️ It feels casual and temporary.", "warn": "Not for a real career. For that, use arbeiten."},
+      "B1-475": {"pron": "OWSS-hil-fuh", "tip": "aus + Hilfe (help) = someone who helps out 🙋 ‘Aushilfe gesucht’ = help wanted!", "bonus": "The verb: aushelfen = to help out"},
+      "C1-3037": {"pron": "shikht", "tip": "The day sliced into layers like a cake 🍰 Frühschicht, Spätschicht, Nachtschicht.", "warn": "It also means ‘layer’ and ‘social class’. Context tells you which."},
+      "B2-438": {"pron": "MIN-dest-lone", "tip": "mindestens (at least) + Lohn (wage) = the least you can be paid 💶", "bonus": "Wage = der Lohn; salary = das Gehalt"},
+      "A2-067": {"pron": "fair-DEE-nen", "tip": "From dienen (to serve) 💰 You serve, you earn.", "bonus": "Das hast du dir verdient! = You've earned it!"},
+      "A2-655": {"pron": "KELL-ner", "tip": "Originally the man in charge of the Keller (cellar) 🍷 Promoted upstairs to serve tables!", "bonus": "A female server is die Kellnerin. To call one, just say ‘Entschuldigung!’"},
+      "B1-1717": {"pron": "NAKHT-shikht", "tip": "Nacht (night) + Schicht (shift) = night shift 🌙 Bring coffee.", "bonus": "Early shift = die Frühschicht, late shift = die Spätschicht"}
+    },
+    "culture": [
+      "When Germans talk about part-time student jobs, the Minijob comes up a lot. It's a job with a monthly earnings limit, and the tax and insurance side is kept simple. The limit can change, so check the current rules before you sign.",
+      "Many university students also work as a Werkstudent at a company related to their studies. International students may have limits on how much they can work, depending on their residence permit, so it's worth checking first.",
+      "In cafés and restaurants, tips (Trinkgeld) are a nice extra. How staff share them depends on the place, so ask on your first day! 💶"
+    ],
+    "quiz": {"q": "Your boss asks: ‘Kannst du am Samstag die Nachtschicht übernehmen?’ When would you be working?", "o": ["in der Nacht", "am Morgen", "am Nachmittag"], "a": 0, "why": "A Nachtschicht is a shift at night (Nacht)."},
+    "outro": "Say ‘Ich suche einen Nebenjob.’ out loud today, as if you're at an interview. Good luck with the job hunt! 🍀"
+  },
+  "ja": {
+    "title": "ドイツでバイトを探すなら覚えたい10語",
+    "hook": "カフェのドアに貼られた「Aushilfe gesucht」、これがバイト募集の張り紙です。",
+    "intro": [
+      "ドイツで留学やワーホリをしていると、一度はアルバイトを探すことになります。パン屋さんのドアに張り紙があり、面接では勤務時間、シフト、時給の話がどんどん出てきます。単語がわからないと、何をするのかもわからないまま「Ja」と言ってしまいますよね。",
+      "今日はアルバイトとミニジョブに関する10語を集めました。求人の張り紙を読む、働き方を理解する、シフトやお給料の話をする。この単語があれば、面接でも堂々と話せます。💼"
+    ],
+    "words": {
+      "B1-1242": {"pron": "タイルツァイト", "tip": "Teil（一部）+ Zeit（時間）= 時間の一部だけ働く ⏰ 反対は Vollzeit！", "bonus": "in Teilzeit arbeiten = パートタイムで働く"},
+      "B2-449": {"pron": "ミニジョブ", "tip": "小さな（mini）仕事（job）でミニジョブ 🧩 英語っぽいけどドイツ生まれの言葉です。", "warn": "英語圏では通じません。ドイツの収入上限がある働き方を指します。"},
+      "B2-450": {"pron": "ネーベンジョブ", "tip": "neben（横に）+ Job = 本業の横でする仕事 👜 勉強の横でバイト！", "bonus": "副業として = nebenberuflich"},
+      "B1-2039": {"pron": "ジョッベン", "tip": "Job に -en を付けるだけで動詞に 🛠️ ちょっとしたバイト感覚です。", "warn": "正規の職業には使いません。その場合は arbeiten！"},
+      "B1-475": {"pron": "アウスヒルフェ", "tip": "aus + Hilfe（助け）= 手伝いに来る人 🙋「Aushilfe gesucht」= バイト募集！", "bonus": "動詞は aushelfen = 手伝う"},
+      "C1-3037": {"pron": "シヒト", "tip": "ケーキの層のように一日を分けたのがシフト 🍰 Frühschicht、Spätschicht、Nachtschicht！", "warn": "「層」や「社会階層」という意味もあります。文脈で見分けましょう。"},
+      "B2-438": {"pron": "ミンデストローン", "tip": "mindestens（少なくとも）+ Lohn（賃金）= 最低賃金 💶 最低でもこれだけは！", "bonus": "賃金は der Lohn、月給（会社員）は das Gehalt"},
+      "A2-067": {"pron": "フェアディーネン", "tip": "dienen（仕える、働く）から 💰 働いて稼ぐお金！", "bonus": "Das hast du dir verdient! = それは君が手にして当然だよ！"},
+      "A2-655": {"pron": "ケルナー", "tip": "もとはワイン貯蔵庫（Keller）の番人 🍷 地下室からホールへ出世！", "bonus": "女性は die Kellnerin。呼ぶときは「Entschuldigung!」でOK"},
+      "B1-1717": {"pron": "ナハトシヒト", "tip": "Nacht（夜）+ Schicht（シフト）= 夜勤 🌙 コーヒー必須！", "bonus": "早番は die Frühschicht、遅番は die Spätschicht"}
+    },
+    "culture": [
+      "ドイツでアルバイトといえば Minijob がよく出てきます。月の収入が一定額以下の仕事で、税金や保険の手続きが比較的シンプルです。上限額は変わることがあるので、契約前に最新の情報を確認しましょう。",
+      "大学生は、専攻に関係のある会社で Werkstudent として働くことも多いです。留学生は滞在許可によって働ける時間が決まっている場合があるので、事前に調べておくと安心です。",
+      "カフェやレストランのバイトなら、チップ（Trinkgeld）もうれしいおまけ。スタッフでどう分けるかはお店によって違うので、初日に聞いてみましょう！💶"
+    ],
+    "quiz": {"q": "店長に「Kannst du am Samstag die Nachtschicht übernehmen?」と聞かれました。いつ働くことになりますか？", "o": ["in der Nacht", "am Morgen", "am Nachmittag"], "a": 0, "why": "Nachtschicht は夜（Nacht）に働くシフトのことです。"},
+    "outro": "今日は「Ich suche einen Nebenjob.」を面接のつもりで声に出してみましょう。いいバイトに出会えますように！🍀"
+  }
+}

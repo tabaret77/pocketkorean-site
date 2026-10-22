@@ -1,0 +1,84 @@
+{
+  "key": "sepverb2",
+  "ko": {
+    "title": "앞머리가 툭 떨어지는 분리동사 10개, 두 번째 이야기",
+    "hook": "문장 맨 끝까지 들어야 뜻을 알 수 있는 동사, 오늘 확실히 잡아요.",
+    "intro": [
+      "트램 안에서 안내 방송이 나와요. \"Bitte hier umsteigen…\" 그런데 친구가 \"Mach mal das Fenster auf!\" 하고 말하면, 저는 auf까지 듣고 나서야 '아, 창문 열라는 거구나' 해요. 독일어는 중요한 조각이 꼭 문장 끝에 숨어 있어요.",
+      "오늘은 집에서, 대중교통에서 매일 쓰는 분리동사 10개예요. 열고 닫고, 켜고 끄고, 타고 내리고 갈아타는 것까지 이 단어들로 다 말할 수 있어요. 🔀"
+    ],
+    "words": {
+      "A1-329": {"pron": "아우프마헨", "tip": "auf(열린) + machen(만들다) = 열린 상태로 만들다 🚪 영어 open up처럼 생각해요.", "bonus": "같은 뜻의 조금 격식 있는 말 = öffnen"},
+      "A1-330": {"pron": "추마헨", "tip": "zu(닫힌) + machen = 닫힌 상태로 만들다 🔒 aufmachen의 짝꿍!", "bonus": "가게가 문 닫을 때도: Der Laden macht um 20 Uhr zu."},
+      "A1-409": {"pron": "안마헨", "tip": "an(켜진) + machen = 켜다 💡 영어 switch on의 on = an!", "warn": "구어로 사람에게 쓰면 '작업 걸다'라는 뜻이 돼요. Er macht sie an. 조심!"},
+      "A1-423": {"pron": "아우스마헨", "tip": "aus(꺼진) + machen = 끄다 📴 영어 off = aus!", "bonus": "약속을 정하다라는 뜻도: einen Termin ausmachen · 괜찮아? = Macht es dir etwas aus?"},
+      "A2-312": {"pron": "아인슈타이겐", "tip": "ein(안으로) + steigen(올라가다) = 버스 계단을 올라 안으로 🚌", "warn": "완료형은 sein: Ich bin eingestiegen. · 탈것은 in + 4격: in den Bus einsteigen"},
+      "BL-07-07": {"pron": "아우스슈타이겐", "tip": "aus(밖으로) + steigen = 밖으로 내려서다 🚏 ein ↔ aus로 짝 맞춰 외워요!", "warn": "완료형은 sein: Ich bin ausgestiegen."},
+      "A2-056": {"pron": "움슈타이겐", "tip": "um(바꿔서) + steigen = 바꿔 타기 🔄 umziehen(이사하다)의 um도 '바꾸다'예요.", "warn": "완료형은 sein: Wir sind in Köln umgestiegen."},
+      "BL-12-08": {"pron": "압홀렌", "tip": "ab + holen(가져오다) = 가서 데려오기 📦 택배도 친구도 abholen!", "bonus": "데리러 갈게 = Ich hole dich ab."},
+      "BL-11-09": {"pron": "미트네멘", "tip": "mit(함께) + nehmen(가져가다) = 같이 들고 가기 🥡 카페에서 꼭 듣는 말!", "bonus": "포장이요? = Zum Mitnehmen? · 매장에서요 = Zum Hieressen."},
+      "A1-337": {"pron": "추뤽코멘", "tip": "zurück(뒤로) + kommen(오다) = 돌아오다 🏃 강세는 zurück의 '뤽'에!", "warn": "완료형은 sein: Er ist gestern zurückgekommen."}
+    },
+    "culture": [
+      "독일 대중교통에서는 분리동사를 하루 종일 들어요. 방송에서 \"Nächster Halt …\" 다음에 \"Ausstieg in Fahrtrichtung links\"(내리는 문은 진행 방향 왼쪽) 같은 말이 나오고, 기차역에서는 환승(umsteigen) 안내가 끊이지 않아요.",
+      "그리고 많은 도시에서 트램이나 기차 문이 저절로 열리지 않아요. 문에 있는 버튼을 눌러야 열리는 경우가 많으니, 내릴 때 문 앞에서 멍하니 기다리지 마세요!",
+      "택배를 받을 때도 분리동사가 등장해요. 집에 없으면 우체통에 쪽지가 들어오고, 택배를 이웃집이나 근처 지점에서 abholen해야 하는 경우가 많아요. 독일에서는 이웃이 대신 받아 주는 게 아주 흔한 일이에요. 📦"
+    ],
+    "quiz": {"q": "\"6시에 역으로 데리러 갈게.\"를 바르게 말한 문장은?", "o": ["Ich hole dich um sechs am Bahnhof ab.", "Ich abhole dich um sechs am Bahnhof.", "Ich habe dich um sechs am Bahnhof abgeholen."], "a": 0, "why": "분리동사는 현재형에서 앞부분 ab이 문장 맨 끝으로 가요. 과거분사는 abgeholt예요."},
+    "outro": "오늘 집에서 불을 켜고 끌 때마다 소리 내서 말해 봐요. Ich mache das Licht an… und wieder aus! 💡"
+  },
+  "en": {
+    "title": "Separable verbs, round two: 10 that split in half",
+    "hook": "These are the verbs you only understand once the sentence is over — let's tame them today.",
+    "intro": [
+      "On the tram, an announcement says \"Bitte hier umsteigen…\" and a friend says \"Mach mal das Fenster auf!\" — and you only realise she means ‘open the window’ when you hear the auf at the very end. German loves hiding the key piece at the end of the sentence.",
+      "Today's ten separable verbs are ones you'll use every day at home and on public transport. With them you can open and close, switch on and off, and get on, off and change. 🔀"
+    ],
+    "words": {
+      "A1-329": {"pron": "OWF-makh-en", "tip": "auf (open) + machen (to make) = to make something open 🚪 Think ‘open up’.", "bonus": "A slightly more formal word for it = öffnen"},
+      "A1-330": {"pron": "TSOO-makh-en", "tip": "zu (closed) + machen = to make something shut 🔒 The partner of aufmachen.", "bonus": "Shops use it too: Der Laden macht um 20 Uhr zu."},
+      "A1-409": {"pron": "AN-makh-en", "tip": "an (on) + machen = to switch on 💡 English on = German an.", "warn": "Used about a person, it colloquially means ‘to chat up’: Er macht sie an. Careful!"},
+      "A1-423": {"pron": "OWS-makh-en", "tip": "aus (off) + machen = to switch off 📴 English off = German aus.", "bonus": "It also means to arrange: einen Termin ausmachen · Do you mind? = Macht es dir etwas aus?"},
+      "A2-312": {"pron": "INE-shty-gen", "tip": "ein (in) + steigen (to climb) = climbing up the steps into the bus 🚌", "warn": "Perfect with sein: Ich bin eingestiegen. · in + accusative: in den Bus einsteigen"},
+      "BL-07-07": {"pron": "OWS-shty-gen", "tip": "aus (out) + steigen = stepping out 🚏 Learn ein and aus as a pair.", "warn": "Perfect with sein: Ich bin ausgestiegen."},
+      "A2-056": {"pron": "OOM-shty-gen", "tip": "um (change) + steigen = to change trains 🔄 The um in umziehen (to move house) also means change.", "warn": "Perfect with sein: Wir sind in Köln umgestiegen."},
+      "BL-12-08": {"pron": "AP-hoh-len", "tip": "ab + holen (to fetch) = go and fetch 📦 Parcels and people both get abgeholt.", "bonus": "I'll pick you up = Ich hole dich ab."},
+      "BL-11-09": {"pron": "MIT-nay-men", "tip": "mit (with) + nehmen (to take) = take along 🥡 You'll hear it in every café.", "bonus": "To take away? = Zum Mitnehmen? · To eat in = Zum Hieressen."},
+      "A1-337": {"pron": "tsoo-RUEK-kom-en", "tip": "zurück (back) + kommen (to come) = to come back 🏃 Stress the RÜCK.", "warn": "Perfect with sein: Er ist gestern zurückgekommen."}
+    },
+    "culture": [
+      "On German public transport you hear separable verbs all day long. After \"Nächster Halt …\" you might hear \"Ausstieg in Fahrtrichtung links\" (exit on the left in the direction of travel), and stations are full of announcements about where to umsteigen.",
+      "In many cities, tram and train doors don't open by themselves. Often you have to press the button on the door, so don't just stand there waiting when it's your stop!",
+      "Parcels bring separable verbs too. If you're out, you'll often find a card in your letterbox telling you to abholen the parcel from a neighbour or a local collection point. Neighbours taking in each other's parcels is completely normal in Germany. 📦"
+    ],
+    "quiz": {"q": "Which sentence correctly says \"I'll pick you up at the station at six\"?", "o": ["Ich hole dich um sechs am Bahnhof ab.", "Ich abhole dich um sechs am Bahnhof.", "Ich habe dich um sechs am Bahnhof abgeholen."], "a": 0, "why": "In the present tense the prefix ab jumps to the end of the sentence, and the past participle is abgeholt."},
+    "outro": "Every time you switch a light on or off today, say it out loud. Ich mache das Licht an… und wieder aus! 💡"
+  },
+  "ja": {
+    "title": "前つづりがぽろっと離れる分離動詞10・その2",
+    "hook": "文の最後まで聞かないと意味がわからない動詞、今日こそしっかりつかみましょう。",
+    "intro": [
+      "トラムの中でアナウンス。「Bitte hier umsteigen…」友だちが「Mach mal das Fenster auf!」と言うと、最後の auf を聞いてやっと「あ、窓を開けてってことか」とわかります。ドイツ語は大事なかけらを文の最後に隠すのが大好きです。",
+      "今日は家でも交通機関でも毎日使う分離動詞を10個集めました。開ける・閉める、つける・消す、乗る・降りる・乗り換えるまで、これで全部言えます。🔀"
+    ],
+    "words": {
+      "A1-329": {"pron": "アウフマッヘン", "tip": "auf（開いた）+ machen（する）= 開いた状態にする 🚪 英語の open up のイメージ。", "bonus": "少しかたい同じ意味の言葉 = öffnen"},
+      "A1-330": {"pron": "ツーマッヘン", "tip": "zu（閉じた）+ machen = 閉じた状態にする 🔒 aufmachen の相棒！", "bonus": "お店が閉まるときも：Der Laden macht um 20 Uhr zu."},
+      "A1-409": {"pron": "アンマッヘン", "tip": "an（オン）+ machen = つける 💡 英語の on = an！", "warn": "人に使うと口語で「言い寄る」の意味に。Er macht sie an. 要注意！"},
+      "A1-423": {"pron": "アウスマッヘン", "tip": "aus（オフ）+ machen = 消す 📴 英語の off = aus！", "bonus": "約束を決めるという意味も：einen Termin ausmachen。構わない？= Macht es dir etwas aus?"},
+      "A2-312": {"pron": "アインシュタイゲン", "tip": "ein（中へ）+ steigen（上がる）= バスのステップを上がって中へ 🚌", "warn": "完了形は sein：Ich bin eingestiegen. 乗り物は in + 4格：in den Bus einsteigen"},
+      "BL-07-07": {"pron": "アウスシュタイゲン", "tip": "aus（外へ）+ steigen = 外へ降り立つ 🚏 ein ↔ aus でペアで覚えましょう！", "warn": "完了形は sein：Ich bin ausgestiegen."},
+      "A2-056": {"pron": "ウムシュタイゲン", "tip": "um（換えて）+ steigen = 乗り換える 🔄 umziehen（引っ越す）の um も「換える」です。", "warn": "完了形は sein：Wir sind in Köln umgestiegen."},
+      "BL-12-08": {"pron": "アップホーレン", "tip": "ab + holen（取ってくる）= 行って取ってくる 📦 荷物も人も abholen！", "bonus": "迎えに行くね = Ich hole dich ab."},
+      "BL-11-09": {"pron": "ミットネーメン", "tip": "mit（一緒に）+ nehmen（取る）= 一緒に持っていく 🥡 カフェで必ず聞く言葉！", "bonus": "お持ち帰りですか？= Zum Mitnehmen?、店内で = Zum Hieressen."},
+      "A1-337": {"pron": "ツリュックコメン", "tip": "zurück（後ろへ）+ kommen（来る）= 戻ってくる 🏃 アクセントは「リュック」に！", "warn": "完了形は sein：Er ist gestern zurückgekommen."}
+    },
+    "culture": [
+      "ドイツの交通機関では一日中分離動詞が聞こえます。「Nächster Halt …」のあとに「Ausstieg in Fahrtrichtung links」（出口は進行方向左側）と流れたり、駅では乗り換え（umsteigen）の案内がひっきりなしです。",
+      "それから、多くの町でトラムや電車のドアは自動では開きません。ドアのボタンを押して開けることが多いので、降りる駅でぼんやり待っていないようにしましょう！",
+      "荷物の受け取りにも分離動詞が登場します。留守だと郵便受けに不在票が入り、隣の家や近くの受け取り場所で abholen することがよくあります。ドイツでは隣人が荷物を預かってくれるのはごく当たり前のことです。📦"
+    ],
+    "quiz": {"q": "「6時に駅まで迎えに行くね」を正しく言っている文は？", "o": ["Ich hole dich um sechs am Bahnhof ab.", "Ich abhole dich um sechs am Bahnhof.", "Ich habe dich um sechs am Bahnhof abgeholen."], "a": 0, "why": "分離動詞は現在形で前つづり ab が文末に行きます。過去分詞は abgeholt です。"},
+    "outro": "今日は家で電気をつけたり消したりするたびに声に出してみましょう。Ich mache das Licht an… und wieder aus! 💡"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "photo",
+  "ko": {
+    "title": "찰칵! 사진 찍을 때 쓰는 독일어 10",
+    "hook": "여행지에서 ‘사진 좀 찍어 주실래요?’ 한마디면 인생 사진이 생겨요.",
+    "intro": [
+      "드레스덴 강가에서 노을이 너무 예뻐서 셀카를 찍는데, 팔이 짧아서 배경이 하나도 안 나와요. 옆에 계신 분께 부탁하고 싶은데 독일어로 뭐라고 하지?",
+      "오늘은 사진, 카메라, 플래시, 미소처럼 사진 찍을 때 필요한 단어 10개예요. 이걸로 사진 부탁도 하고, 박물관에서 촬영해도 되는지도 물어볼 수 있어요. 📷"
+    ],
+    "words": {
+      "A1-285": {"pron": "포토", "tip": "그리스어 phōs(빛)에서 왔어요 💡 빛으로 그린 그림 = Foto!", "bonus": "사진을 찍다 = ein Foto machen · Kannst du ein Foto von uns machen?"},
+      "A1-312": {"pron": "포토그라피렌", "tip": "Foto + -ieren = 사진 찍다 📸 -ieren 동사는 강세가 언제나 ‘리’에!", "warn": "-ieren 동사라 ge-가 없어요: hat fotografiert."},
+      "A2-240": {"pron": "카메라", "tip": "라틴어 camera는 원래 ‘방’ 🏠 어두운 방에 빛이 들어오는 원리예요.", "bonus": "휴대폰 카메라 = die Handykamera"},
+      "A2-466": {"pron": "포토아파라트", "tip": "Foto + Apparat(기계) = 사진 기계 📷 마지막 Apparat가 der라서 der!", "bonus": "요즘은 die Kamera를 더 자주 써요. Fotoapparat는 조금 옛날 느낌이에요."},
+      "A1-156": {"pron": "빌트", "tip": "그림도 사진도 화면 속 이미지도 전부 Bild 🖼️ 만능 단어예요.", "warn": "복수는 die Bilder예요."},
+      "B1-695": {"pron": "포토그라프", "tip": "phōs(빛) + graphein(쓰다) = 빛으로 쓰는 사람 ✍️", "warn": "약변화 명사예요: den/dem/des Fotografen."},
+      "B1-464": {"pron": "아우프나메", "tip": "aufnehmen(받아들이다, 담다)에서 왔어요 🎞️ 장면을 카메라에 ‘담는’ 거예요.", "bonus": "녹음, 녹화도 Aufnahme예요."},
+      "B1-528": {"pron": "블리츠", "tip": "번쩍! 번개도 플래시도 Blitz ⚡ 영어 blitz도 여기서 왔어요.", "bonus": "도로의 과속 단속 카메라는 구어로 der Blitzer라고 해요."},
+      "B1-898": {"pron": "레헬른", "tip": "lachen(웃다) + 작게 만드는 -eln = 살짝 웃기 😊", "bonus": "사진 찍을 때: Bitte lächeln!"},
+      "B2-251": {"pron": "모티프", "tip": "영어 motif처럼 사진의 ‘소재, 피사체’ 🌄", "warn": "‘범행 동기’라는 뜻도 있어요. 사진 얘기인지 범죄 드라마인지 문맥으로!"}
+    },
+    "culture": [
+      "독일에서는 모르는 사람을 가까이서 찍거나 그 사진을 SNS에 올리는 걸 꽤 민감하게 생각해요. 자기 얼굴 사진에 대한 권리(Recht am eigenen Bild)라는 개념이 있어서, 사람을 찍을 때는 먼저 물어보는 게 매너예요.",
+      "박물관이나 교회는 곳마다 규칙이 달라요. 입구에 Fotografieren verboten이나 카메라에 줄 그은 그림이 있으면 촬영 금지, 플래시만 안 되는 곳(ohne Blitz)도 많아요.",
+      "비자나 여권 사진은 사진관이나 역, 관공서 근처에 있는 즉석 사진 부스(Fotoautomat)에서 찍을 수 있어요. 베를린에는 흑백 필름 사진이 나오는 옛날 부스도 있어서 인기예요. 📸"
+    ],
+    "quiz": {"q": "박물관에서 사진을 찍어도 되는지 물어보려고요. 뭐라고 할까요?", "o": ["Darf man hier fotografieren?", "Darf man hier lächeln?", "Ist das ein Motiv?"], "a": 0, "why": "Darf man hier fotografieren? = 여기서 사진 찍어도 되나요? 라는 뜻이에요."},
+    "outro": "오늘 사진 한 장 찍으면서 Bitte lächeln! 하고 외쳐 봐요. 찍히는 사람도 웃고, 독일어도 늘고! 😄"
+  },
+  "en": {
+    "title": "Say cheese! 10 German words for taking photos",
+    "hook": "One polite question and a stranger can take your best holiday photo.",
+    "intro": [
+      "You're on the riverbank in Dresden and the sunset is stunning. Your selfie shows mostly your face and none of the view. The person next to you could help — but how do you ask in German?",
+      "Today's ten words are all about photos: cameras, flash, smiling and more. With them you can ask someone to take your picture and check whether photos are allowed in a museum. 📷"
+    ],
+    "words": {
+      "A1-285": {"pron": "FOH-toh", "tip": "From Greek phōs (light) 💡 A picture drawn with light.", "bonus": "to take a photo = ein Foto machen · Kannst du ein Foto von uns machen?"},
+      "A1-312": {"pron": "foh-toh-grah-FEE-ren", "tip": "Foto + -ieren 📸 -ieren verbs are always stressed on the ‘ee’.", "warn": "-ieren verbs take no ge-: hat fotografiert."},
+      "A2-240": {"pron": "KAH-meh-rah", "tip": "Latin camera meant ‘room’ 🏠 Think of a dark room letting in light.", "bonus": "phone camera = die Handykamera"},
+      "A2-466": {"pron": "foh-toh-ah-pah-RAHT", "tip": "Foto + Apparat (device) = photo device 📷 Apparat is der, so it's der.", "bonus": "die Kamera is more common now; Fotoapparat sounds a bit old-fashioned."},
+      "A1-156": {"pron": "BILT", "tip": "A painting, a photo, an image on screen: all Bild 🖼️ A real all-rounder.", "warn": "Plural: die Bilder."},
+      "B1-695": {"pron": "foh-toh-GRAHF", "tip": "phōs (light) + graphein (write) = someone who writes with light ✍️", "warn": "Weak noun: den/dem/des Fotografen."},
+      "B1-464": {"pron": "OWF-nah-muh", "tip": "From aufnehmen (to take in) 🎞️ The camera ‘takes in’ the moment.", "bonus": "It also means an audio or video recording."},
+      "B1-528": {"pron": "BLITS", "tip": "Flash! Lightning and camera flash are both Blitz ⚡ English blitz comes from it.", "bonus": "A speed camera is colloquially der Blitzer."},
+      "B1-898": {"pron": "LEKH-eln", "tip": "lachen (laugh) + small -eln = a little laugh 😊", "bonus": "Photographer's line: Bitte lächeln!"},
+      "B2-251": {"pron": "moh-TEEF", "tip": "Like motif: the subject of your picture 🌄", "warn": "It also means a motive for a crime — context tells you which."}
+    },
+    "culture": [
+      "Many Germans are quite sensitive about being photographed up close by strangers or appearing online. There's a well-known idea of a right to your own image (Recht am eigenen Bild), so it's good manners to ask first.",
+      "Museums and churches each have their own rules. Look for Fotografieren verboten or a crossed-out camera at the entrance; many places allow photos but no flash (ohne Blitz).",
+      "For visa or passport pictures you can use a photo shop or a photo booth (Fotoautomat), often found near stations and public offices. Berlin also has old-school booths that print black-and-white strips. 📸"
+    ],
+    "quiz": {"q": "You want to know whether you can take pictures in a museum. What do you ask?", "o": ["Darf man hier fotografieren?", "Darf man hier lächeln?", "Ist das ein Motiv?"], "a": 0, "why": "Darf man hier fotografieren? means ‘Is it OK to take photos here?’"},
+    "outro": "Take a photo today and call out Bitte lächeln! Your friends smile, and your German gets better. 😄"
+  },
+  "ja": {
+    "title": "パシャッ！写真を撮るときのドイツ語10",
+    "hook": "旅先で「写真を撮ってもらえますか？」のひとことが言えれば、最高の一枚が残せます。",
+    "intro": [
+      "ドレスデンの川辺で夕焼けがあまりにきれいで自撮りをしたら、顔ばかりで景色が入りません。隣の人に頼みたいけれど、ドイツ語で何て言えばいい？",
+      "今日は写真、カメラ、フラッシュ、笑顔など、写真を撮るときに必要な単語10個です。これで撮影をお願いしたり、博物館で撮影していいか聞いたりできます。📷"
+    ],
+    "words": {
+      "A1-285": {"pron": "フォート", "tip": "ギリシャ語の phōs（光）から 💡 光で描いた絵 = Foto！", "bonus": "写真を撮る = ein Foto machen · Kannst du ein Foto von uns machen?"},
+      "A1-312": {"pron": "フォトグラフィーレン", "tip": "Foto + -ieren = 写真を撮る 📸 -ieren 動詞はいつも「リー」にアクセント！", "warn": "-ieren 動詞なので ge- が付きません：hat fotografiert。"},
+      "A2-240": {"pron": "カメラ", "tip": "ラテン語の camera はもともと「部屋」🏠 暗い部屋に光が入る仕組みです。", "bonus": "スマホのカメラ = die Handykamera"},
+      "A2-466": {"pron": "フォトアパラート", "tip": "Foto + Apparat（装置）= 写真の装置 📷 最後の Apparat が der なので der！", "bonus": "今は die Kamera のほうがよく使われ、Fotoapparat は少し古風です。"},
+      "A1-156": {"pron": "ビルト", "tip": "絵も写真も画面の画像も全部 Bild 🖼️ 万能な単語です。", "warn": "複数形は die Bilder です。"},
+      "B1-695": {"pron": "フォトグラーフ", "tip": "phōs（光）+ graphein（書く）= 光で書く人 ✍️", "warn": "弱変化名詞です：den/dem/des Fotografen。"},
+      "B1-464": {"pron": "アウフナーメ", "tip": "aufnehmen（取り込む）から 🎞️ 場面をカメラに「収める」こと。", "bonus": "録音・録画も Aufnahme です。"},
+      "B1-528": {"pron": "ブリッツ", "tip": "ピカッ！雷もフラッシュも Blitz ⚡ 英語の blitz もここから。", "bonus": "道路のスピード違反カメラは口語で der Blitzer。"},
+      "B1-898": {"pron": "レッヒェルン", "tip": "lachen（笑う）+ 小さくする -eln = にっこり 😊", "bonus": "撮影のときに：Bitte lächeln!"},
+      "B2-251": {"pron": "モティーフ", "tip": "英語の motif と同じく、写真の「題材、被写体」🌄", "warn": "「犯行の動機」という意味もあります。写真の話か刑事ドラマか、文脈で判断！"}
+    },
+    "culture": [
+      "ドイツでは、知らない人を近くで撮ったり、その写真をSNSに載せたりすることにかなり敏感な人が多いです。自分の肖像に対する権利（Recht am eigenen Bild）という考え方がよく知られているので、人を撮るときはまず聞くのがマナーです。",
+      "博物館や教会は場所ごとにルールが違います。入口に Fotografieren verboten やカメラに斜線のマークがあれば撮影禁止。フラッシュだけ禁止（ohne Blitz）のところも多いです。",
+      "ビザやパスポートの写真は、写真店や、駅・役所の近くによくある証明写真機（Fotoautomat）で撮れます。ベルリンには白黒のフィルム写真が出てくる昔ながらのボックスもあって人気です。📸"
+    ],
+    "quiz": {"q": "博物館で写真を撮ってもいいか聞きたいです。何と言いますか？", "o": ["Darf man hier fotografieren?", "Darf man hier lächeln?", "Ist das ein Motiv?"], "a": 0, "why": "Darf man hier fotografieren? は「ここで写真を撮ってもいいですか？」という意味です。"},
+    "outro": "今日写真を撮るときに、Bitte lächeln! と声をかけてみましょう。みんな笑顔になって、ドイツ語も上達です！😄"
+  }
+}

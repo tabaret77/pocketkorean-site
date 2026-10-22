@@ -1,0 +1,84 @@
+{
+  "key": "repair",
+  "ko": {
+    "title": "집에서 뭔가 고장 났을 때 필요한 독일어 10",
+    "hook": "독일 집은 튼튼하지만, 고장은 꼭 일요일 밤에 나더라고요.",
+    "intro": [
+      "한겨울 아침, 라디에이터가 차갑고 부엌 수도꼭지에서는 밤새 똑똑 물이 떨어져요. 관리인한테 전화해야 하는데, ‘막혔다’, ‘샌다’를 독일어로 뭐라고 하더라?",
+      "오늘은 집에 문제가 생겼을 때 꼭 필요한 단어 10개를 모았어요. 이걸로 뭐가 고장 났는지, 누구를 불러야 하는지 정확하게 말할 수 있어요. 수리 기사님 앞에서도 당황하지 않게요! 🔧"
+    ],
+    "words": {
+      "A2-190": {"pron": "카푸트", "tip": "‘카푸트!’ 하고 뭔가 툭 부러지는 소리 같아요 💥 한국어 ‘고장 났어’ 자리에 그냥 넣으면 돼요.", "bonus": "사람한테 쓰면 ‘녹초가 된’: Ich bin total kaputt."},
+      "A2-313": {"pron": "풍치오니어렌", "tip": "영어 function에 -ieren만 붙였어요 ⚙️ 안 될 때는 nicht만 넣으면 끝!", "bonus": "Der Aufzug funktioniert nicht. = 엘리베이터가 안 돼요."},
+      "A2-167": {"pron": "레파리어렌", "tip": "영어 repair랑 거의 같아요 🛠️ -ieren 동사는 완료형에 ge-가 안 붙어요: hat repariert.", "bonus": "‘고쳐 주실 수 있어요?’ = Können Sie das reparieren?"},
+      "B2-2284": {"pron": "바서한", "tip": "Wasser(물) + Hahn(수탉)! 물을 뿜는 수탉 머리 모양 꼭지를 상상해 봐요 🐓", "warn": "복수는 움라우트: die Wasserhähne"},
+      "A2-126": {"pron": "하우스마이스터", "tip": "Haus(집) + Meister(달인) = 우리 건물의 달인 🏠 고장 나면 제일 먼저 찾는 사람!", "bonus": "스위스에서는 der Abwart라고 해요."},
+      "A2-049": {"pron": "한트베르커", "tip": "Hand(손) + Werk(작품) + -er = 손으로 일하는 사람 👷 영어 handiwork와 닮았죠.", "bonus": "여성은 die Handwerkerin"},
+      "B2-2276": {"pron": "클렘프너", "tip": "‘클렘, 클렘’ 쇠파이프 두드리는 소리를 떠올려 봐요 🔩 물 문제는 Klempner!", "warn": "남부 독일과 오스트리아에서는 보통 Installateur라고 해요."},
+      "A2-004": {"pron": "하이충", "tip": "heiß(뜨거운)에서 온 heizen + -ung 🔥 -ung이니까 당연히 die!", "bonus": "난방을 켜다 = die Heizung anmachen / aufdrehen"},
+      "B2-2407": {"pron": "운디히트", "tip": "un-(아니) + dicht(꽉 막힌, 영어 tight) = 안 막혀서 줄줄 새는 💧", "bonus": "새는 곳 = eine undichte Stelle (비밀이 새는 곳에도 써요!)"},
+      "B2-2274": {"pron": "페어슈톱프트", "tip": "영어 stop이 숨어 있어요 🚽 물이 멈춰서 안 내려가면 verstopft!", "bonus": "코가 막혔을 때도: Meine Nase ist verstopft."}
+    },
+    "culture": [
+      "독일에서 세 들어 살면 큰 고장은 보통 집주인(Vermieter)이나 관리 회사(Hausverwaltung)가 책임져요. 문제가 생기면 혼자 고치기 전에 먼저 빨리 알리는 게 중요해요. 사진을 찍어 메일로 보내 두면 더 좋고요.",
+      "다만 작은 수리비는 세입자가 내도록 계약서에 적혀 있는 경우도 있어요. 내 계약서(Mietvertrag)를 한 번 확인해 보세요.",
+      "그리고 문이 잠겨서 열쇠 기사(Schlüsseldienst)를 부를 땐, 부르기 전에 꼭 대략 비용부터 물어보세요. 급할수록 확인! 🔑"
+    ],
+    "quiz": {"q": "변기 물이 안 내려가고 차오르기만 해요. 관리인에게 뭐라고 말할까요?", "o": ["Die Heizung ist undicht.", "Ich repariere den Hausmeister.", "Die Toilette ist verstopft."], "a": 2, "why": "verstopft = 막힌. 변기가 막혔을 때 딱 쓰는 말이에요."},
+    "outro": "우리 집에서 지금 kaputt인 물건 하나를 골라서, 관리인에게 전화하는 연습을 소리 내서 해 봐요. 아무것도 안 고장 났다면 정말 다행이고요! 🏡"
+  },
+  "en": {
+    "title": "Something's broken! 10 German words for home repairs",
+    "hook": "German flats are solid, but things still break — usually on a Sunday night.",
+    "intro": [
+      "It's a winter morning. The radiator is cold, and the kitchen tap has been dripping all night. You need to call the caretaker, but how do you say “blocked” or “leaking” in German?",
+      "Today's ten words are for when something goes wrong at home. With them you can say exactly what's broken and who you need to call — and stay calm when the tradesman turns up! 🔧"
+    ],
+    "words": {
+      "A2-190": {"pron": "ka-PUT", "tip": "“Kaputt!” sounds like something snapping 💥 English borrowed it too: kaput.", "bonus": "For people it means worn out: Ich bin total kaputt."},
+      "A2-313": {"pron": "foonk-tsyo-NEE-ren", "tip": "English function + -ieren ⚙️ When it doesn't work, just add nicht.", "bonus": "Der Aufzug funktioniert nicht. = The lift isn't working."},
+      "A2-167": {"pron": "reh-pa-REE-ren", "tip": "Almost the same as repair 🛠️ -ieren verbs skip ge- in the perfect: hat repariert.", "bonus": "Can you fix it? = Können Sie das reparieren?"},
+      "B2-2284": {"pron": "VASS-er-hahn", "tip": "Wasser (water) + Hahn (rooster)! Picture a rooster-head tap spouting water 🐓", "warn": "Plural has an umlaut: die Wasserhähne"},
+      "A2-126": {"pron": "HOWS-my-ster", "tip": "Haus (house) + Meister (master) = the master of your building 🏠 First call when something breaks!", "bonus": "In Switzerland: der Abwart"},
+      "A2-049": {"pron": "HANT-vair-ker", "tip": "Hand + Werk (work) + -er = someone who works with their hands 👷 Like handiwork.", "bonus": "A woman: die Handwerkerin"},
+      "B2-2276": {"pron": "KLEMP-ner", "tip": "Hear the “klemp, klemp” of a hammer on a metal pipe 🔩 Water trouble? Klempner!", "warn": "In southern Germany and Austria it's usually Installateur."},
+      "A2-004": {"pron": "HY-tsoong", "tip": "heizen (to heat, from heiß = hot) + -ung 🔥 -ung means it's die.", "bonus": "to turn the heating on = die Heizung anmachen / aufdrehen"},
+      "B2-2407": {"pron": "OON-dikht", "tip": "un- (not) + dicht (tight) = not tight, so it leaks 💧", "bonus": "a leak = eine undichte Stelle (also for leaked secrets!)"},
+      "B2-2274": {"pron": "fair-SHTOPFT", "tip": "English stop is hiding inside 🚽 The water stops, the toilet's verstopft.", "bonus": "Also for a stuffy nose: Meine Nase ist verstopft."}
+    },
+    "culture": [
+      "If you rent in Germany, bigger repairs are usually the job of your landlord (Vermieter) or the property management (Hausverwaltung). The key is to report a problem quickly before trying to fix it yourself. Sending a photo by email helps.",
+      "Some leases say the tenant pays for small repairs, though. It's worth checking your own rental contract (Mietvertrag).",
+      "And if you're locked out and call a locksmith (Schlüsseldienst), always ask roughly what it will cost before they come. The more urgent it feels, the more you should check! 🔑"
+    ],
+    "quiz": {"q": "The toilet won't flush and the water keeps rising. What do you tell the caretaker?", "o": ["Die Heizung ist undicht.", "Ich repariere den Hausmeister.", "Die Toilette ist verstopft."], "a": 2, "why": "verstopft = blocked — exactly what you say about a toilet that won't drain."},
+    "outro": "Pick one thing in your home that's kaputt and practise calling the caretaker about it, out loud. If nothing's broken, lucky you! 🏡"
+  },
+  "ja": {
+    "title": "家で何かが壊れたときに頼れるドイツ語10",
+    "hook": "ドイツの家は頑丈ですが、故障はなぜか日曜の夜に起こります。",
+    "intro": [
+      "真冬の朝、暖房は冷たいまま、台所の蛇口からは一晩中ポタポタ。管理人に電話しないといけないのに、「詰まった」「漏れている」ってドイツ語で何と言うんだっけ？",
+      "今日は家でトラブルが起きたときに欠かせない単語を10個集めました。何が壊れたのか、誰を呼べばいいのか、はっきり伝えられます。修理の人が来てもあわてませんように！🔧"
+    ],
+    "words": {
+      "A2-190": {"pron": "カプット", "tip": "「カプット！」は何かがポキッと折れる音みたい 💥「壊れた」と言いたいときはこれ一語でOK。", "bonus": "人に使うと「くたくた」：Ich bin total kaputt."},
+      "A2-313": {"pron": "フンクツィオニーレン", "tip": "英語の function に -ieren をつけただけ ⚙️ 動かないときは nicht を足すだけ！", "bonus": "Der Aufzug funktioniert nicht. = エレベーターが動きません。"},
+      "A2-167": {"pron": "レパリーレン", "tip": "英語の repair とほぼ同じ 🛠️ -ieren 動詞は完了形で ge- がつきません：hat repariert", "bonus": "「直してもらえますか？」= Können Sie das reparieren?"},
+      "B2-2284": {"pron": "ヴァッサーハーン", "tip": "Wasser（水）+ Hahn（おんどり）！水を吐くおんどり頭の蛇口を想像して 🐓", "warn": "複数形はウムラウト：die Wasserhähne"},
+      "A2-126": {"pron": "ハウスマイスター", "tip": "Haus（家）+ Meister（名人）= 建物の名人 🏠 何か壊れたら最初に呼ぶ人！", "bonus": "スイスでは der Abwart と言います。"},
+      "A2-049": {"pron": "ハントヴェルカー", "tip": "Hand（手）+ Werk（作品）+ -er = 手で仕事をする人 👷 英語の handiwork に似ていますね。", "bonus": "女性は die Handwerkerin"},
+      "B2-2276": {"pron": "クレンプナー", "tip": "金属のパイプを「クレン、クレン」とたたく音をイメージ 🔩 水のトラブルは Klempner！", "warn": "南ドイツやオーストリアではふつう Installateur と言います。"},
+      "A2-004": {"pron": "ハイツング", "tip": "heiß（熱い）から来た heizen + -ung 🔥 -ung だから die です！", "bonus": "暖房をつける = die Heizung anmachen / aufdrehen"},
+      "B2-2407": {"pron": "ウンディヒト", "tip": "un-（〜でない）+ dicht（すき間のない、英語の tight）= すき間があって漏れる 💧", "bonus": "漏れている所 = eine undichte Stelle（情報の漏れにも使います！）"},
+      "B2-2274": {"pron": "フェアシュトプフト", "tip": "英語の stop が隠れています 🚽 水が止まって流れないなら verstopft！", "bonus": "鼻づまりにも：Meine Nase ist verstopft."}
+    },
+    "culture": [
+      "ドイツで賃貸に住んでいる場合、大きな修理はふつう大家さん（Vermieter）か管理会社（Hausverwaltung）の担当です。自分で直そうとする前に、まず早めに知らせることが大切。写真をメールで送っておくとさらに安心です。",
+      "ただし、小さな修理の費用は借り手が払うと契約書に書かれていることもあります。自分の賃貸契約書（Mietvertrag）を一度確認してみてください。",
+      "それから、締め出されて鍵屋さん（Schlüsseldienst）を呼ぶときは、来てもらう前にだいたいの料金を必ず聞きましょう。急いでいるときほど確認を！🔑"
+    ],
+    "quiz": {"q": "トイレの水が流れず、どんどんたまってきます。管理人に何と言いますか？", "o": ["Die Heizung ist undicht.", "Ich repariere den Hausmeister.", "Die Toilette ist verstopft."], "a": 2, "why": "verstopft =「詰まった」。トイレが詰まったときにぴったりの言葉です。"},
+    "outro": "家の中で今 kaputt なものをひとつ選んで、管理人に電話する練習を声に出してやってみましょう。何も壊れていなければラッキーですね！🏡"
+  }
+}

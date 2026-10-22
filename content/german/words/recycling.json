@@ -1,0 +1,84 @@
+{
+  "key": "recycling",
+  "ko": {
+    "title": "독일 분리수거, 단어 10개로 정복하기",
+    "hook": "독일 이사 첫 주, 가장 어려운 건 독일어가 아니라 쓰레기통 앞이었어요.",
+    "intro": [
+      "새집 마당에 나갔더니 색깔이 다른 통이 줄지어 있어요. 노랑, 파랑, 갈색, 검정. 요구르트 컵은 어디에? 커피 찌꺼기는? 빈 맥주병은 왜 다들 마트로 들고 가는 거지?",
+      "오늘은 분리수거에 필요한 단어 10개를 모았어요. 이걸 알면 통 앞에서 망설이지 않고, 이웃에게 물어볼 수도 있고, 빈 병으로 돈까지 돌려받을 수 있어요. ♻️"
+    ],
+    "words": {
+      "BL-18-02": {"pron": "뮐트레눙", "tip": "Müll(쓰레기) + Trennung(분리) = 쓰레기 나누기 ♻️ -ung이니까 die!", "bonus": "동사로 말하면 Müll trennen = 분리수거하다"},
+      "BL-18-09": {"pron": "벡베어펜", "tip": "weg(저리) + werfen(던지다) = 저리 휙 던지기 🚮", "warn": "분리동사예요: Ich werfe das weg. 완료형은 hat weggeworfen."},
+      "B1-057": {"pron": "트레넨", "tip": "Müll도 trennen, 연인도 sich trennen 💔 둘 다 ‘나누다’에서 와요.", "bonus": "sich trennen von = ~와 헤어지다: Sie hat sich von ihm getrennt."},
+      "BL-18-03": {"pron": "뮐토네", "tip": "Tonne는 영어 ton처럼 큼직한 통 🗑️ -e로 끝나는 명사는 die인 경우가 많아요!", "bonus": "줄여서 그냥 die Tonne라고도 해요: die gelbe Tonne, die blaue Tonne"},
+      "BL-18-04": {"pron": "비오뮐", "tip": "bio(생물의) + Müll = 썩는 쓰레기, 보통 갈색 통 🍌", "warn": "der Müll이 마지막에 오니까 der Biomüll! 합성어 성은 마지막 단어가 정해요."},
+      "BL-18-05": {"pron": "레스트뮐", "tip": "Rest(나머지) + Müll = 어디에도 안 들어가는 나머지 ⚫ 보통 검정·회색 통이에요."},
+      "BL-18-06": {"pron": "알트파피어", "tip": "alt(쓰고 난) + Papier(종이) = 폐지, 보통 파란 통 📰", "bonus": "상자는 납작하게 접어서 넣는 게 매너예요: den Karton zusammenfalten"},
+      "BL-18-07": {"pron": "알트글라스", "tip": "alt + Glas = 빈 유리병 🍾 흰색(weiß), 초록(grün), 갈색(braun)으로 나눠요.", "warn": "Pfand가 붙은 병은 Altglas가 아니라 마트로 가져가요!"},
+      "B2-2369": {"pron": "겔베 자크", "tip": "노란(gelb) 자루(Sack) = 포장재 봉투 💛 이름이라서 Gelbe도 대문자!", "warn": "형용사 어미가 변해요: in den Gelben Sack, die Gelben Säcke"},
+      "BL-03-10": {"pron": "판트", "tip": "영어 pawn(전당포에 맡기다)과 친척 💰 병을 맡겼다가 돌려주면 돈이 돌아와요.", "bonus": "보증금 붙은 병 = die Pfandflasche · 회수 기계 = der Pfandautomat"}
+    },
+    "culture": [
+      "독일 분리수거의 기본은 통 색깔이에요. 보통 노랑은 포장재, 파랑은 종이, 갈색은 음식물, 검정이나 회색은 일반 쓰레기예요. 다만 색깔과 규칙은 도시마다 조금씩 달라서, 이사하면 집주인이나 구청 안내문을 꼭 확인하는 게 좋아요.",
+      "빈 페트병과 캔에는 Pfand가 붙어 있는 경우가 많아요. 마트 입구의 Pfandautomat에 넣으면 영수증이 나오고, 계산할 때 그만큼 빼 줘요. 그래서 공원 쓰레기통 옆에 빈 병을 두고 가는 사람도 있어요. 필요한 사람이 가져가라는 뜻이에요.",
+      "유리병 수거함(Altglascontainer)은 시끄러워서 밤이나 일요일에는 쓰지 않는 게 매너예요. 수거함에 쓸 수 있는 시간이 적혀 있는 경우가 많아요. 🍾"
+    ],
+    "quiz": {"q": "Pfand 마크가 있는 빈 맥주병, 어디로 가져갈까요?", "o": ["In den Restmüll.", "Zum Pfandautomaten.", "In den Biomüll."], "a": 1, "why": "Pfand가 붙은 병은 마트의 Pfandautomat에 넣으면 보증금을 돌려받아요."},
+    "outro": "오늘 쓰레기 버릴 때 손에 든 걸 독일어로 말해 봐요. ‘Das kommt in den Gelben Sack!’ 이렇게요. 🗑️"
+  },
+  "en": {
+    "title": "Sorting rubbish the German way: 10 essential words",
+    "hook": "In your first week in Germany, the hardest exam isn't the language — it's the bins.",
+    "intro": [
+      "You step into the courtyard of your new flat and find a row of bins: yellow, blue, brown, black. Where does the yoghurt pot go? The coffee grounds? And why is everyone carrying empty bottles back to the supermarket?",
+      "Today's ten words are all about rubbish and recycling. With them you'll know which bin is which, be able to ask a neighbour, and even get money back for your empties. ♻️"
+    ],
+    "words": {
+      "BL-18-02": {"pron": "MUEL-tren-oong", "tip": "Müll (rubbish) + Trennung (separation) ♻️ -ung means die.", "bonus": "As a verb: Müll trennen = to sort your rubbish"},
+      "BL-18-09": {"pron": "VEK-vair-fen", "tip": "weg (away) + werfen (throw) = throw away, literally 🚮", "warn": "Separable and irregular: Ich werfe das weg. – hat weggeworfen."},
+      "B1-057": {"pron": "TREN-en", "tip": "You can trennen your rubbish — or your partner 💔 Both are about splitting.", "bonus": "sich trennen von = to split up with: Sie hat sich von ihm getrennt."},
+      "BL-18-03": {"pron": "MUEL-ton-uh", "tip": "A Tonne is a big barrel, like an English tun 🗑️", "bonus": "People often just say die Tonne: die gelbe Tonne, die blaue Tonne"},
+      "BL-18-04": {"pron": "BEE-oh-muel", "tip": "bio (organic) + Müll = stuff that rots, usually the brown bin 🍌", "warn": "It's der Biomüll because the last part, der Müll, decides the gender."},
+      "BL-18-05": {"pron": "REST-muel", "tip": "Rest (what's left) + Müll = everything that fits nowhere else ⚫ Usually the black or grey bin."},
+      "BL-18-06": {"pron": "ALT-pa-peer", "tip": "alt (used) + Papier = waste paper, usually the blue bin 📰", "bonus": "Fold boxes flat first: den Karton zusammenfalten"},
+      "BL-18-07": {"pron": "ALT-glahs", "tip": "alt + Glas = empty jars and bottles 🍾 Sorted into weiß, grün and braun.", "warn": "Bottles with a Pfand go back to the shop, not into Altglas."},
+      "B2-2369": {"pron": "GEL-buh ZAK", "tip": "The yellow (gelb) sack (Sack) for packaging 💛 It's a name, so Gelbe gets a capital.", "warn": "The adjective ending changes: in den Gelben Sack, die Gelben Säcke"},
+      "BL-03-10": {"pron": "PFANT", "tip": "A cousin of English pawn 💰 You hand over the bottle and get your money back.", "bonus": "deposit bottle = die Pfandflasche · return machine = der Pfandautomat"}
+    },
+    "culture": [
+      "The basic system is colour-coded: yellow usually for packaging, blue for paper, brown for organic waste and black or grey for everything else. But colours and rules vary from city to city, so check your landlord's or the council's leaflet when you move.",
+      "Many plastic bottles and cans carry a Pfand. Feed them into the Pfandautomat at the supermarket entrance, take the receipt to the till, and the amount comes off your shopping. You'll also see people leave empties next to public bins so that others can collect them.",
+      "Bottle banks (Altglascontainer) are noisy, so people avoid using them at night and on Sundays. The permitted times are often printed right on the container. 🍾"
+    ],
+    "quiz": {"q": "You have an empty beer bottle with a Pfand logo. Where does it go?", "o": ["In den Restmüll.", "Zum Pfandautomaten.", "In den Biomüll."], "a": 1, "why": "Bottles with a deposit go into the Pfandautomat, and you get your money back."},
+    "outro": "Next time you take the rubbish out, say what you're holding in German: ‘Das kommt in den Gelben Sack!’ 🗑️"
+  },
+  "ja": {
+    "title": "ドイツのごみ分別がわかる単語10",
+    "hook": "ドイツに引っ越して最初の週、いちばん難しかったのはドイツ語ではなくごみ箱の前でした。",
+    "intro": [
+      "新しい家の中庭に出ると、色違いの大きな容器がずらり。黄色、青、茶色、黒。ヨーグルトのカップはどこ？コーヒーかすは？みんなが空き瓶をスーパーに持っていくのはなぜ？",
+      "今日はごみと分別に必要な単語を10個集めました。これがあれば容器の前で迷わず、ご近所さんに聞くこともでき、空き瓶でお金を取り戻すこともできます。♻️"
+    ],
+    "words": {
+      "BL-18-02": {"pron": "ミュルトレヌング", "tip": "Müll（ごみ）+ Trennung（分離）= ごみを分けること ♻️ -ung なので die！", "bonus": "動詞で言うと Müll trennen = ごみを分別する"},
+      "BL-18-09": {"pron": "ヴェックヴェルフェン", "tip": "weg（あっちへ）+ werfen（投げる）= ポイッと捨てる 🚮", "warn": "分離動詞：Ich werfe das weg. 完了形は hat weggeworfen。"},
+      "B1-057": {"pron": "トレネン", "tip": "ごみも trennen、恋人とも sich trennen 💔 どちらも「分ける」から。", "bonus": "sich trennen von = 〜と別れる：Sie hat sich von ihm getrennt."},
+      "BL-18-03": {"pron": "ミュルトネ", "tip": "Tonne は大きな樽、英語の ton と親戚 🗑️", "bonus": "単に die Tonne とも言います：die gelbe Tonne, die blaue Tonne"},
+      "BL-18-04": {"pron": "ビオミュル", "tip": "bio（生物の）+ Müll = 腐るごみ、ふつうは茶色の容器 🍌", "warn": "最後の der Müll が性を決めるので der Biomüll です。"},
+      "BL-18-05": {"pron": "レストミュル", "tip": "Rest（残り）+ Müll = どこにも入らない残りのごみ ⚫ ふつう黒かグレーの容器です。"},
+      "BL-18-06": {"pron": "アルトパピーア", "tip": "alt（使用済み）+ Papier（紙）= 古紙、ふつうは青い容器 📰", "bonus": "段ボールはたたんでから：den Karton zusammenfalten"},
+      "BL-18-07": {"pron": "アルトグラース", "tip": "alt + Glas = 空き瓶 🍾 weiß（透明）、grün、braun に分けます。", "warn": "Pfand つきの瓶は Altglas ではなくお店に返します！"},
+      "B2-2369": {"pron": "ゲルベ ザック", "tip": "黄色い（gelb）袋（Sack）= 包装ごみ用 💛 名前なので Gelbe も大文字！", "warn": "形容詞の語尾が変わります：in den Gelben Sack、複数は die Gelben Säcke"},
+      "BL-03-10": {"pron": "プファント", "tip": "英語の pawn（質に入れる）の親戚 💰 瓶を預けて、返すとお金が戻ります。", "bonus": "デポジット瓶 = die Pfandflasche、回収機 = der Pfandautomat"}
+    },
+    "culture": [
+      "ドイツの分別の基本は容器の色です。ふつう黄色は容器包装、青は紙、茶色は生ごみ、黒やグレーはその他のごみ。ただし色やルールは町によって少しずつ違うので、引っ越したら大家さんや自治体の案内を確認しましょう。",
+      "ペットボトルや缶の多くには Pfand がかかっています。スーパーの入口にある Pfandautomat に入れるとレシートが出てきて、レジでその分を差し引いてもらえます。公園のごみ箱の横に空き瓶を置いていく人もいますが、これは必要な人に持っていってもらうためです。",
+      "瓶の回収コンテナ（Altglascontainer）は音が大きいので、夜や日曜日には使わないのがマナー。使える時間がコンテナに書かれていることもよくあります。🍾"
+    ],
+    "quiz": {"q": "Pfand マークのついた空きビール瓶、どこへ持っていきますか？", "o": ["In den Restmüll.", "Zum Pfandautomaten.", "In den Biomüll."], "a": 1, "why": "デポジットつきの瓶はスーパーの Pfandautomat に入れると、お金が戻ってきます。"},
+    "outro": "今日ごみを出すとき、手に持っているものをドイツ語で言ってみましょう。「Das kommt in den Gelben Sack!」のように。🗑️"
+  }
+}

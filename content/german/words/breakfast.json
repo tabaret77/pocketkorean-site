@@ -1,0 +1,84 @@
+{
+  "key": "breakfast",
+  "ko": {
+    "title": "독일식 아침 식탁을 차리는 단어 10",
+    "hook": "독일 아침은 빵만 있는 게 아니에요. 식탁 위 단어들을 알면 하루가 훨씬 맛있어져요.",
+    "intro": [
+      "일요일 아침, 독일 친구 집에 초대받았어요. 식탁엔 갓 사 온 빵, 작은 잔에 꽂힌 삶은 달걀, 잼과 치즈가 한가득. ‘버터 좀 줄래?’ 한마디를 하고 싶은데 입이 안 떨어져요.",
+      "오늘은 독일 아침 식탁에 꼭 올라오는 단어 10개를 모았어요. 이걸로 카페에서 아침 메뉴를 주문하고, 친구 집 식탁에서 자연스럽게 대화할 수 있어요. 🍳"
+    ],
+    "words": {
+      "A1-129": {"pron": "프뤼슈튁", "tip": "früh(이른) + Stück(조각) = 아침 일찍 먹는 빵 한 조각 🥐", "bonus": "동사 frühstücken = 아침을 먹다: Wir frühstücken um acht."},
+      "A1-681": {"pron": "오랑젠자프트", "tip": "Orange + Saft(즙) = 오렌지 즙 🍊", "bonus": "줄여서 O-Saft라고 많이 해요 · 사과 주스는 Apfelsaft"},
+      "A1-023": {"pron": "아이", "tip": "‘아이’ 하나가 달걀 하나 🥚 영어 egg와 같은 뿌리예요.", "warn": "복수는 die Eier", "bonus": "스크램블드에그는 das Rührei"},
+      "A1-120": {"pron": "부터", "tip": "영어 butter와 똑같아 보이지만 발음은 ‘부터’ 🧈", "warn": "성에 주의! der가 아니라 die Butter예요."},
+      "A1-241": {"pron": "마르멜라데", "tip": "포르투갈 모과잼에서 온 이름이지만 독일에선 잼이면 다 Marmelade 🍓", "warn": "오렌지 마멀레이드만이 아니라 잼 전부예요. 딸기잼도 Erdbeermarmelade!"},
+      "A1-242": {"pron": "호니히", "tip": "영어 honey랑 거의 똑같죠? 🍯", "bonus": "꿀벌은 die Biene"},
+      "A1-119": {"pron": "캐제", "tip": "사진 찍을 때 ‘치즈~’ 대신 ‘캐제~’ 🧀", "bonus": "구어 Das ist Käse! = 말도 안 돼! 헛소리야!"},
+      "A1-021": {"pron": "밀히", "tip": "영어 milk에서 k가 ch로 바뀐 것뿐 🥛", "bonus": "우유 듬뿍 커피 = der Milchkaffee"},
+      "A2-909": {"pron": "뮈슬리", "tip": "Mus(죽) + 스위스식 ‘작은’ -li = 작은 죽 🥣", "bonus": "오트밀 귀리는 die Haferflocken"},
+      "A2-837": {"pron": "슈피겔아이", "tip": "Spiegel(거울) + Ei = 노른자가 거울처럼 반짝 🍳", "bonus": "반숙 달걀은 ein weich gekochtes Ei"}
+    },
+    "culture": [
+      "독일 사람들이 사랑하는 아침은 빵집에서 막 사 온 작은 빵(Brötchen)이에요. 주말 아침엔 빵집 앞에 줄이 서기도 하고, 일요일 아침에도 몇 시간 문을 여는 빵집이 많아요.",
+      "주말 아침상에는 삶은 달걀을 작은 받침 컵(Eierbecher)에 세워서 내는 경우가 많아요. 숟가락으로 윗부분을 톡톡 깨서 먹는 게 독일식이에요.",
+      "카페에서는 아침 메뉴를 오후까지 파는 곳도 많아서, 주말에 친구들과 느긋하게 브런치를 즐기는 사람이 많아요. ☕"
+    ],
+    "quiz": {"q": "카페에서 노른자가 동그랗게 살아 있는 달걀 프라이를 주문하고 싶어요. 뭐라고 할까요?", "o": ["Ein Rührei, bitte.", "Ein Spiegelei, bitte.", "Ein Müsli, bitte."], "a": 1, "why": "das Spiegelei가 달걀 프라이예요. Rührei는 스크램블드에그예요."},
+    "outro": "내일 아침엔 식탁 위 음식을 하나씩 독일어로 불러 보세요. Ei, Butter, Käse만 말해도 벌써 반은 성공! 🥨"
+  },
+  "en": {
+    "title": "Guten Morgen! 10 German words for the breakfast table",
+    "hook": "A German breakfast is much more than bread, and knowing the words makes it taste even better.",
+    "intro": [
+      "It's Sunday morning and you've been invited to a German friend's place. The table is full: fresh rolls, boiled eggs in little cups, jam and cheese. You'd love to ask someone to pass the butter, but the words just won't come.",
+      "Today's ten words are the ones you'll find on almost every German breakfast table. With them you can order breakfast in a café and chat easily at a friend's table. 🍳"
+    ],
+    "words": {
+      "A1-129": {"pron": "FROO-shtook", "tip": "früh (early) + Stück (piece) = an early piece of bread 🥐", "bonus": "The verb frühstücken = to have breakfast: Wir frühstücken um acht."},
+      "A1-681": {"pron": "oh-RAHN-zhen-zahft", "tip": "Orange + Saft (juice) — no surprises here 🍊", "bonus": "People often shorten it to O-Saft · apple juice = Apfelsaft"},
+      "A1-023": {"pron": "EYE", "tip": "One egg, one ‘eye’ looking up at you from the plate 🥚", "warn": "The plural is die Eier.", "bonus": "scrambled eggs = das Rührei"},
+      "A1-120": {"pron": "BOO-ter", "tip": "Looks just like butter, but rhymes with ‘hooter’ 🧈", "warn": "Watch the gender: it's die Butter, not der."},
+      "A1-241": {"pron": "mar-muh-LAH-duh", "tip": "Named after Portuguese quince jam, but in German any jam is Marmelade 🍓", "warn": "It's not just orange marmalade — strawberry jam is Erdbeermarmelade."},
+      "A1-242": {"pron": "HOH-nikh", "tip": "Almost the same as honey 🍯", "bonus": "a bee = die Biene"},
+      "A1-119": {"pron": "KAY-zuh", "tip": "Say ‘KAY-zuh’ instead of ‘cheese’ for your next photo 🧀", "bonus": "Colloquial: Das ist Käse! = That's rubbish!"},
+      "A1-021": {"pron": "MILKH", "tip": "English milk with the k softened to ch 🥛", "bonus": "a milky coffee = der Milchkaffee"},
+      "A2-909": {"pron": "MUES-lee", "tip": "Mus (mush) + Swiss -li (little) = a little bowl of mush 🥣", "bonus": "rolled oats = die Haferflocken"},
+      "A2-837": {"pron": "SHPEE-gel-eye", "tip": "Spiegel (mirror) + Ei = an egg whose yolk shines like a mirror 🍳", "bonus": "a soft-boiled egg = ein weich gekochtes Ei"}
+    },
+    "culture": [
+      "The classic German breakfast is fresh bread rolls (Brötchen) from the bakery. On weekend mornings there's often a queue, and many bakeries open for a few hours on Sunday morning too.",
+      "At a weekend breakfast, boiled eggs often come standing in a little egg cup (Eierbecher). You tap the top with your spoon and eat it straight from the shell.",
+      "Many cafés serve breakfast until well into the afternoon, so a long, slow weekend brunch with friends is a popular habit. ☕"
+    ],
+    "quiz": {"q": "In a café, you'd like a fried egg with a nice round yolk. What do you order?", "o": ["Ein Rührei, bitte.", "Ein Spiegelei, bitte.", "Ein Müsli, bitte."], "a": 1, "why": "das Spiegelei is a fried egg; Rührei is scrambled egg."},
+    "outro": "Tomorrow morning, name everything on your breakfast table in German. Ei, Butter and Käse already get you halfway there! 🥨"
+  },
+  "ja": {
+    "title": "ドイツ風の朝ごはんが言える単語10",
+    "hook": "ドイツの朝ごはんはパンだけじゃありません。食卓の単語を知れば、一日がもっとおいしくなります。",
+    "intro": [
+      "日曜の朝、ドイツ人の友だちの家に招かれました。テーブルには焼きたてのパン、小さなカップに立てたゆで卵、ジャムにチーズがずらり。「バター取って」と言いたいのに、言葉が出てきません。",
+      "今日はドイツの朝の食卓にかならず並ぶ単語を10個集めました。カフェで朝食メニューを頼んだり、友だちの家の食卓で自然に会話したりできるようになります。🍳"
+    ],
+    "words": {
+      "A1-129": {"pron": "フリューシュテュック", "tip": "früh（早い）+ Stück（ひとかけら）= 朝早く食べるパンひとかけ 🥐", "bonus": "動詞 frühstücken = 朝ごはんを食べる：Wir frühstücken um acht."},
+      "A1-681": {"pron": "オランジェンザフト", "tip": "Orange + Saft（果汁）= オレンジの果汁 🍊", "bonus": "略して O-Saft とよく言います · りんごジュースは Apfelsaft"},
+      "A1-023": {"pron": "アイ", "tip": "「アイ」ひとつで卵ひとつ 🥚 英語の egg と同じルーツです。", "warn": "複数形は die Eier", "bonus": "スクランブルエッグは das Rührei"},
+      "A1-120": {"pron": "ブッター", "tip": "英語の butter と同じつづりでも、読み方は「ブッター」🧈", "warn": "性に注意！der ではなく die Butter です。"},
+      "A1-241": {"pron": "マルメラーデ", "tip": "ポルトガルのマルメロジャムが語源ですが、ドイツではジャムならみんな Marmelade 🍓", "warn": "日本語のマーマレードと違い、ジャム全般のこと。いちごジャムも Erdbeermarmelade！"},
+      "A1-242": {"pron": "ホーニヒ", "tip": "英語の honey とそっくりですね 🍯", "bonus": "ミツバチは die Biene"},
+      "A1-119": {"pron": "ケーゼ", "tip": "写真を撮るとき「チーズ」のかわりに「ケーゼ」🧀", "bonus": "口語 Das ist Käse! = そんなのナンセンス！"},
+      "A1-021": {"pron": "ミルヒ", "tip": "英語 milk の k が ch になっただけ 🥛", "bonus": "ミルクたっぷりのコーヒー = der Milchkaffee"},
+      "A2-909": {"pron": "ミュースリ", "tip": "Mus（かゆ）+ スイス風の「小さい」-li = 小さなおかゆ 🥣", "bonus": "オートミールは die Haferflocken"},
+      "A2-837": {"pron": "シュピーゲルアイ", "tip": "Spiegel（鏡）+ Ei = 黄身が鏡みたいにピカッ 🍳", "bonus": "半熟卵は ein weich gekochtes Ei"}
+    },
+    "culture": [
+      "ドイツの人が大好きな朝ごはんは、パン屋さんで買ってきたばかりの小さなパン（Brötchen）です。週末の朝はパン屋さんに行列ができることもあり、日曜の朝に数時間だけ開いているお店も多いです。",
+      "週末の朝食では、ゆで卵を小さなエッグカップ（Eierbecher）に立てて出すことがよくあります。スプーンで上をコンコンと割って食べるのがドイツ流です。",
+      "カフェでは朝食メニューを午後まで出しているところも多く、週末に友だちとゆっくりブランチを楽しむ人がたくさんいます。☕"
+    ],
+    "quiz": {"q": "カフェで、黄身がまんまるの目玉焼きを頼みたいです。何と言いますか？", "o": ["Ein Rührei, bitte.", "Ein Spiegelei, bitte.", "Ein Müsli, bitte."], "a": 1, "why": "das Spiegelei が目玉焼きで、Rührei はスクランブルエッグです。"},
+    "outro": "明日の朝は、食卓の食べ物をひとつずつドイツ語で呼んでみましょう。Ei、Butter、Käse が言えたらもう半分成功です！🥨"
+  }
+}

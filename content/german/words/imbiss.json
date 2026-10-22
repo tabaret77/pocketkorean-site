@@ -1,0 +1,84 @@
+{
+  "key": "imbiss",
+  "ko": {
+    "title": "출출할 때 바로 통하는 길거리 음식 독일어 10",
+    "hook": "독일의 진짜 맛은 레스토랑이 아니라 길모퉁이 Imbiss에 있을지도 몰라요.",
+    "intro": [
+      "어학원 끝나고 배가 너무 고파서 역 앞 Imbiss에 줄을 섰어요. 앞사람은 ‘Pommes rot-weiß!’라고 빠르게 주문하고, 점원은 저한테 ‘Zum Mitnehmen?’이라고 묻는데… 순간 머리가 하얘졌어요.",
+      "오늘은 길거리 음식과 간식에 관한 단어 10개예요. 이 단어들만 있으면 Imbiss에서 당당하게 주문하고, 포장까지 부탁하고, 키오스크에서 과자도 살 수 있어요. 🍟"
+    ],
+    "words": {
+      "A2-804": {"pron": "임비스", "tip": "영어 bite(한 입)와 사촌일지도 몰라요 🥙 한 입 먹고 가는 곳!", "bonus": "am Imbiss = 간이 음식점에서: Ich esse schnell was am Imbiss."},
+      "A2-752": {"pron": "포메스", "tip": "프랑스어 pommes frites(튀긴 감자)에서 frites를 뚝 떼어 버렸어요 🍟", "warn": "항상 복수로 써요: Die Pommes sind lecker."},
+      "B1-2016": {"pron": "케첩", "tip": "영어랑 똑같으니 공짜 단어 🍅 관사만 der로 기억해요.", "bonus": "단짝 소스: der Senf(머스터드), die Mayo"},
+      "B1-2026": {"pron": "스넥", "tip": "영어 snack 그대로 🍪 독일 사람들은 ‘스넥’처럼 발음해요.", "bonus": "독일어다운 말: die Zwischenmahlzeit(식사 사이의 간식)"},
+      "A2-537": {"pron": "피차", "tip": "이탈리아에서 온 그대로 🍕 zz는 ‘츠’ 소리예요.", "warn": "복수형이 두 개: die Pizzas 또는 die Pizzen"},
+      "A2-478": {"pron": "햄버거", "tip": "원래 ‘함부르크 사람’이라는 뜻 🍔 함부르크 사람도 Hamburger예요!", "bonus": "함부르크 사람을 말할 땐 독일식으로 ‘함부르거’라고 읽어요."},
+      "BL-11-09": {"pron": "미트네멘", "tip": "mit(함께) + nehmen(가져가다) = 들고 가기 🛍️", "warn": "분리동사: Ich nehme das mit. · 포장이요 = Zum Mitnehmen, bitte."},
+      "A1-504": {"pron": "키오스크", "tip": "페르시아어 ‘정자’에서 온 작은 가게 🗞️ 신문, 음료, 과자가 다 있어요.", "bonus": "베를린에서는 늦게까지 여는 가게를 der Späti라고 해요."},
+      "C2-1802": {"pron": "부데", "tip": "영어 booth(부스)와 같은 뿌리 🏚️ 작은 가판대도, 좁은 자취방도 Bude!", "bonus": "sturmfreie Bude = 부모님이 안 계셔서 집이 비었을 때"},
+      "B1-2008": {"pron": "칩", "tip": "감자칩은 Chips, 감자튀김은 Pommes 🥔 헷갈리면 안 돼요!", "warn": "보통 복수로 말해요: eine Tüte Chips = 과자 한 봉지"}
+    },
+    "culture": [
+      "독일 길거리 음식의 대표 선수는 Currywurst와 Döner예요. Currywurst는 특히 베를린과 루르 지방에서 사랑받고, Döner는 독일에 사는 튀르키예 출신 사람들이 지금의 모습으로 발전시킨 음식으로 알려져 있어요.",
+      "감자튀김 주문법도 지역마다 재밌어요. 케첩과 마요네즈를 같이 올리면 ‘Pommes rot-weiß’, 루르 지방에서는 ‘Pommes Schranke’라고도 해요. 빨간색, 흰색 줄이 건널목 차단기(Schranke) 같아서래요.",
+      "그리고 루르 지방에서 ‘Bude’라고 하면 보통 동네 키오스크를 말해요. 음료 한 병 사서 앞에서 이웃과 수다 떠는 곳이에요. 🍟"
+    ],
+    "quiz": {"q": "Imbiss에서 주문했더니 ‘Zum Mitnehmen oder hier essen?’이라고 물어요. 들고 가고 싶어요.", "o": ["Hier essen, bitte.", "Zum Mitnehmen, bitte.", "Ich habe keinen Hunger."], "a": 1, "why": "zum Mitnehmen = 포장해서 가져갈게요, 라는 뜻이에요."},
+    "outro": "다음에 Imbiss에 가면 오늘 단어로 주문해 봐요: Eine Currywurst mit Pommes, zum Mitnehmen, bitte! 🥙"
+  },
+  "en": {
+    "title": "Grab a bite: 10 German words for street food",
+    "hook": "Some of the best food in Germany isn't in restaurants — it's at the Imbiss on the corner.",
+    "intro": [
+      "After class I was starving, so I joined the queue at the Imbiss by the station. The man in front fired off ‘Pommes rot-weiß!’, then the server turned to me: ‘Zum Mitnehmen?’ My mind went completely blank.",
+      "Today's ten words are about street food and snacks. With them you can order at an Imbiss with confidence, ask for a takeaway and pick up crisps at the kiosk. 🍟"
+    ],
+    "words": {
+      "A2-804": {"pron": "IM-biss", "tip": "Possibly a cousin of English bite 🥙 A place for a quick bite.", "bonus": "am Imbiss = at the snack stand: Ich esse schnell was am Imbiss."},
+      "A2-752": {"pron": "POM-mes", "tip": "French pommes frites with the frites chopped off 🍟", "warn": "Always plural: Die Pommes sind lecker."},
+      "B1-2016": {"pron": "KETCH-up", "tip": "Same as English — a free word 🍅 Just remember der.", "bonus": "Its best friends: der Senf (mustard), die Mayo"},
+      "B1-2026": {"pron": "SNECK", "tip": "English snack 🍪 Germans often say it more like ‘sneck’.", "bonus": "The very German word: die Zwischenmahlzeit (a between-meals snack)"},
+      "A2-537": {"pron": "PIT-sa", "tip": "Straight from Italy 🍕 The zz sounds like ‘ts’.", "warn": "Two plurals: die Pizzas or die Pizzen"},
+      "A2-478": {"pron": "HAM-bur-ger", "tip": "It just means ‘from Hamburg’ 🍔 People from Hamburg are Hamburger too!", "bonus": "For the people, Germans say it the German way: HAHM-boor-ger."},
+      "BL-11-09": {"pron": "MIT-nay-men", "tip": "mit (with) + nehmen (to take) = take it with you 🛍️", "warn": "Separable: Ich nehme das mit. · Takeaway, please = Zum Mitnehmen, bitte."},
+      "A1-504": {"pron": "KEE-osk", "tip": "From a Persian word for a pavilion 🗞️ A tiny shop with papers, drinks and sweets.", "bonus": "In Berlin a late-night corner shop is der Späti."},
+      "C2-1802": {"pron": "BOO-duh", "tip": "Same root as English booth 🏚️ A stall, or your tiny student room — both are a Bude!", "bonus": "sturmfreie Bude = the place to yourself because your parents are away"},
+      "B1-2008": {"pron": "CHIP", "tip": "Crisps are Chips, fries are Pommes 🥔 Don't mix them up!", "warn": "Usually plural: eine Tüte Chips = a bag of crisps"}
+    },
+    "culture": [
+      "The stars of German street food are Currywurst and Döner. Currywurst is especially loved in Berlin and the Ruhr area, and Döner as Germans know it was developed by Turkish-German cooks.",
+      "Ordering fries has its own local language. With ketchup and mayo it's ‘Pommes rot-weiß’, and in the Ruhr area you may hear ‘Pommes Schranke’ — the red and white stripes look like a level-crossing barrier (Schranke).",
+      "Also in the Ruhr area, ‘die Bude’ usually means the local kiosk: the place to grab a drink and chat with the neighbours outside. 🍟"
+    ],
+    "quiz": {"q": "At the Imbiss the server asks: ‘Zum Mitnehmen oder hier essen?’ You want to take it with you.", "o": ["Hier essen, bitte.", "Zum Mitnehmen, bitte.", "Ich habe keinen Hunger."], "a": 1, "why": "zum Mitnehmen means to take away."},
+    "outro": "Next time you're at an Imbiss, order with today's words: Eine Currywurst mit Pommes, zum Mitnehmen, bitte! 🥙"
+  },
+  "ja": {
+    "title": "小腹がすいたら！屋台・軽食のドイツ語10",
+    "hook": "ドイツの本当の味は、レストランではなく街角の Imbiss にあるかもしれません。",
+    "intro": [
+      "語学学校の帰り、おなかがペコペコで駅前の Imbiss に並びました。前の人は「Pommes rot-weiß!」とさっと注文。店員さんに「Zum Mitnehmen?」と聞かれて、頭が真っ白になってしまいました。",
+      "今日は屋台や軽食についての単語10個です。これで Imbiss で堂々と注文して、持ち帰りも頼めて、キオスクでお菓子も買えます。🍟"
+    ],
+    "words": {
+      "A2-804": {"pron": "インビス", "tip": "英語の bite（ひと口）の親戚かも 🥙 ひと口食べていく場所！", "bonus": "am Imbiss = 軽食スタンドで：Ich esse schnell was am Imbiss."},
+      "A2-752": {"pron": "ポメス", "tip": "フランス語 pommes frites（揚げたじゃがいも）の frites を切り落とした言葉 🍟", "warn": "いつも複数形：Die Pommes sind lecker."},
+      "B1-2016": {"pron": "ケチャップ", "tip": "英語と同じなので覚えるのはタダ 🍅 冠詞 der だけ覚えましょう。", "bonus": "相棒のソース：der Senf（マスタード）、die Mayo"},
+      "B1-2026": {"pron": "スネック", "tip": "英語の snack そのまま 🍪 ドイツ人は「スネック」のように発音します。", "bonus": "ドイツ語らしい言い方：die Zwischenmahlzeit（食事の間の軽食）"},
+      "A2-537": {"pron": "ピッツァ", "tip": "イタリアからそのまま 🍕 zz は「ツ」の音です。", "warn": "複数形は2つ：die Pizzas または die Pizzen"},
+      "A2-478": {"pron": "ハンバーガー", "tip": "もとは「ハンブルクの」という意味 🍔 ハンブルクの人も Hamburger です！", "bonus": "ハンブルクの人を指すときはドイツ語読みで「ハンブルガー」と言います。"},
+      "BL-11-09": {"pron": "ミットネーメン", "tip": "mit（一緒に）+ nehmen（取る）= 持っていく 🛍️", "warn": "分離動詞：Ich nehme das mit. · 持ち帰りで = Zum Mitnehmen, bitte."},
+      "A1-504": {"pron": "キオスク", "tip": "ペルシャ語の「あずまや」から来た小さなお店 🗞️ 新聞、飲み物、お菓子がそろっています。", "bonus": "ベルリンでは夜遅くまで開いている店を der Späti と呼びます。"},
+      "C2-1802": {"pron": "ブーデ", "tip": "英語の booth（ブース）と同じ語源 🏚️ 屋台も、狭い学生部屋も Bude！", "bonus": "sturmfreie Bude = 親が留守で家を独り占めできる状態"},
+      "B1-2008": {"pron": "チップ", "tip": "ポテトチップスは Chips、フライドポテトは Pommes 🥔 混同しないで！", "warn": "ふつう複数形で：eine Tüte Chips = ポテトチップス1袋"}
+    },
+    "culture": [
+      "ドイツの屋台グルメの二大スターは Currywurst と Döner。Currywurst は特にベルリンやルール地方で愛され、Döner はドイツに住むトルコ系の人たちが今のスタイルに発展させたと言われています。",
+      "フライドポテトの頼み方も地域色豊か。ケチャップとマヨネーズをのせると「Pommes rot-weiß」、ルール地方では「Pommes Schranke」とも言います。赤と白のしま模様が踏切の遮断機（Schranke）に見えるからだそうです。",
+      "そしてルール地方で「Bude」と言えば、たいてい街角のキオスクのこと。飲み物を買って、店の前でご近所さんとおしゃべりする場所です。🍟"
+    ],
+    "quiz": {"q": "Imbiss で注文したら「Zum Mitnehmen oder hier essen?」と聞かれました。持ち帰りたいです。", "o": ["Hier essen, bitte.", "Zum Mitnehmen, bitte.", "Ich habe keinen Hunger."], "a": 1, "why": "zum Mitnehmen は「持ち帰りで」という意味です。"},
+    "outro": "次に Imbiss に行ったら、今日の単語で注文してみましょう。Eine Currywurst mit Pommes, zum Mitnehmen, bitte! 🥙"
+  }
+}

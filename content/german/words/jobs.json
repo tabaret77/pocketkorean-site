@@ -1,0 +1,84 @@
+{
+  "key": "jobs",
+  "ko": {
+    "title": "“무슨 일 하세요?”에 답하는 독일어 10",
+    "hook": "독일에서 새 사람을 만나면 이름 다음으로 꼭 나오는 질문이 있어요.",
+    "intro": [
+      "어학원 첫날, 자기소개 시간에 선생님이 물었어요. “Was sind Sie von Beruf?” 한국어로는 바로 나오는 내 직업이, 독일어로는 입에서 안 떨어지더라고요.",
+      "오늘은 직업 단어 10개를 모았어요. 내 직업 말하기부터 친구 직업 묻기, 병원·식당·정비소에서 만나는 사람들까지 이 10개면 대화가 훨씬 쉬워져요. 👷"
+    ],
+    "words": {
+      "A1-046": {"pron": "베루프", "tip": "rufen(부르다)에서 온 말 📣 나를 부르는 일, 소명 = 직업!", "bonus": "Was sind Sie von Beruf? = 직업이 뭐예요? · 반말로는 Was machst du beruflich?"},
+      "A1-042": {"pron": "아르츠트", "tip": "‘아르츠트’ 발음이 츠츠 주사 놓는 소리 같아요 💉", "warn": "복수 die Ärzte, 여성 die Ärztin. 직업 말할 땐 관사 없이: Ich bin Ärztin."},
+      "A2-284": {"pron": "코흐", "tip": "kochen(요리하다)하는 사람 = Koch 👨‍🍳 영어 cook이랑 사촌!", "warn": "식당 셰프는 der Koch예요. der Chef는 ‘상사, 사장’!"},
+      "A2-277": {"pron": "페어코이퍼", "tip": "verkaufen(팔다) + -er(사람) = 파는 사람 🛍️ -er만 붙이면 사람이 돼요.", "bonus": "가게 손님은 der Kunde / die Kundin"},
+      "A2-662": {"pron": "폴리치스트", "tip": "Polizei(경찰) + -ist = 경찰관 한 명 👮", "bonus": "경찰 조직 전체는 die Polizei. 긴급 전화는 110이에요."},
+      "A2-656": {"pron": "크랑켄플레거", "tip": "krank(아픈) + pflegen(돌보다) + -er = 아픈 사람을 돌보는 사람 🏥", "bonus": "요즘 공식 명칭으로는 Pflegefachmann / Pflegefachfrau도 많이 써요."},
+      "B1-801": {"pron": "인줴니외어", "tip": "프랑스에서 온 말이라 발음도 프랑스식 🔧 ‘엔지니어’ 말고 ‘인줴니외어’!", "bonus": "여성은 die Ingenieurin"},
+      "A2-659": {"pron": "메하니커", "tip": "그리스어 mechane(기계)에서 왔어요 🔩 영어 mechanic이랑 똑같죠?", "bonus": "자동차 정비소 = die Werkstatt"},
+      "B1-445": {"pron": "안발트", "tip": "an + walten(맡아서 다스리다) = 내 일을 맡아 주는 사람 ⚖️", "warn": "복수는 움라우트: die Anwälte. 정식 명칭은 der Rechtsanwalt예요."},
+      "B2-1017": {"pron": "프로그라미러", "tip": "programmieren + -er = 프로그래머 💻 영어랑 거의 같아서 공짜 단어!", "bonus": "개발자는 der Entwickler라고도 해요."}
+    },
+    "culture": [
+      "독일에서는 직업을 말할 때 관사를 빼요. Ich bin Lehrerin. Er ist Koch. 이렇게요. 그리고 대부분의 직업에 여성형 -in이 있어서, 여자라면 Ärztin, Ingenieurin처럼 말하는 게 자연스러워요.",
+      "대학에 가지 않고 직업 교육(Ausbildung)을 받는 사람도 많아요. 회사에서 일을 배우면서 직업학교(Berufsschule)도 함께 다니는 방식인데, 정비사나 요리사 같은 직업은 보통 이렇게 시작해요.",
+      "구인 광고에서 ‘(m/w/d)’라는 표시를 자주 볼 거예요. 남성·여성·다양한 성별 모두 지원할 수 있다는 뜻이에요. 💼"
+    ],
+    "quiz": {"q": "파티에서 처음 만난 사람이 직업을 물어요. 알맞은 대답은?", "o": ["Ich bin Ingenieurin.", "Ich bin eine Ingenieurin von Beruf.", "Ich bin bei Ingenieurin."], "a": 0, "why": "직업은 관사 없이 Ich bin + 직업으로 말해요."},
+    "outro": "오늘은 가족이나 친구 직업을 독일어로 한 문장씩 말해 봐요. Meine Schwester ist Ärztin. 이렇게요! 💪"
+  },
+  "en": {
+    "title": "So, what do you do? 10 German job words",
+    "hook": "In Germany, this question usually comes right after your name.",
+    "intro": [
+      "First day at language school, and the teacher asks: “Was sind Sie von Beruf?” You know your job perfectly well in English, but in German it just won't come out.",
+      "Today's ten words are all about jobs. You'll be able to say what you do, ask others about their work, and name the people you meet at the doctor's, in restaurants and at the garage. 👷"
+    ],
+    "words": {
+      "A1-046": {"pron": "buh-ROOF", "tip": "From rufen (to call) 📣 Your job is your calling!", "bonus": "Was sind Sie von Beruf? = What do you do? · Casual: Was machst du beruflich?"},
+      "A1-042": {"pron": "ARTST", "tip": "Sounds like ‘artist’ squashed short — a doctor's work is an art too 💉", "warn": "Plural die Ärzte, female die Ärztin. No article for jobs: Ich bin Ärztin."},
+      "A2-284": {"pron": "KOKH", "tip": "Someone who does kochen (cooking) = Koch 👨‍🍳 Cousin of English cook.", "warn": "A restaurant chef is der Koch. der Chef means ‘boss’!"},
+      "A2-277": {"pron": "fair-KOY-fer", "tip": "verkaufen (sell) + -er (person) = seller 🛍️ Add -er and you get a person.", "bonus": "The customer is der Kunde / die Kundin."},
+      "A2-662": {"pron": "po-lee-TSIST", "tip": "Polizei (police) + -ist = one police officer 👮", "bonus": "The force as a whole is die Polizei. The emergency number is 110."},
+      "A2-656": {"pron": "KRANK-en-pflay-ger", "tip": "krank (sick) + pflegen (care for) + -er = someone who cares for the sick 🏥", "bonus": "Today you'll also see the official titles Pflegefachmann / Pflegefachfrau."},
+      "B1-801": {"pron": "in-zhen-YUR", "tip": "It came from French, so say it the French way 🔧 Not ‘engineer’!", "bonus": "Female: die Ingenieurin"},
+      "A2-659": {"pron": "meh-KHAH-ni-ker", "tip": "From Greek mēchanē (machine) 🔩 Just like English mechanic.", "bonus": "A car garage is die Werkstatt."},
+      "B1-445": {"pron": "AN-valt", "tip": "an + walten (to manage, like wield) = someone who handles your case ⚖️", "warn": "Plural with umlaut: die Anwälte. The full title is der Rechtsanwalt."},
+      "B2-1017": {"pron": "pro-gra-MEER-er", "tip": "programmieren + -er = programmer 💻 A free word for English speakers!", "bonus": "A developer is der Entwickler."}
+    },
+    "culture": [
+      "Germans drop the article with jobs: Ich bin Lehrerin. Er ist Koch. Most job titles also have a female form with -in, so a woman would say Ärztin or Ingenieurin.",
+      "Many people don't go to university but do vocational training (Ausbildung). You learn on the job at a company and attend a vocational school (Berufsschule) alongside it. Mechanics and cooks usually start this way.",
+      "In job ads you'll often see ‘(m/w/d)’. It means the job is open to men, women and people of diverse gender. 💼"
+    ],
+    "quiz": {"q": "Someone at a party asks what you do. Which answer is right?", "o": ["Ich bin Ingenieurin.", "Ich bin eine Ingenieurin von Beruf.", "Ich bin bei Ingenieurin."], "a": 0, "why": "For jobs, use Ich bin + job with no article."},
+    "outro": "Say one sentence about the job of each person in your family: Meine Schwester ist Ärztin. Out loud, please! 💪"
+  },
+  "ja": {
+    "title": "「お仕事は？」に答えるドイツ語10",
+    "hook": "ドイツで新しい人に会うと、名前の次に必ず聞かれる質問があります。",
+    "intro": [
+      "語学学校の初日、自己紹介で先生に聞かれました。「Was sind Sie von Beruf?」日本語ならすぐ言える自分の仕事が、ドイツ語だと口から出てきません。",
+      "今日は職業の単語を10個集めました。自分の仕事を言う、相手に聞く、病院やレストラン、整備工場で会う人を呼ぶ。この10個で会話がぐっと楽になります。👷"
+    ],
+    "words": {
+      "A1-046": {"pron": "ベルーフ", "tip": "rufen（呼ぶ）から 📣 自分を呼ぶもの、天職 = 職業！", "bonus": "Was sind Sie von Beruf? = ご職業は？・くだけた言い方は Was machst du beruflich?"},
+      "A1-042": {"pron": "アールツト", "tip": "「アールツト」、ツツッと注射するような音 💉", "warn": "複数は die Ärzte、女性は die Ärztin。職業は冠詞なし：Ich bin Ärztin."},
+      "A2-284": {"pron": "コッホ", "tip": "kochen（料理する）人 = Koch 👨‍🍳 英語 cook のいとこ！", "warn": "レストランのシェフは der Koch。der Chef は「上司、ボス」です！"},
+      "A2-277": {"pron": "フェアコイファー", "tip": "verkaufen（売る）+ -er（人）= 売る人 🛍️ -er をつけると人になります。", "bonus": "お客さんは der Kunde / die Kundin"},
+      "A2-662": {"pron": "ポリツィスト", "tip": "Polizei（警察）+ -ist = 警察官ひとり 👮", "bonus": "組織としての警察は die Polizei。緊急番号は110です。"},
+      "A2-656": {"pron": "クランケンプフレーガー", "tip": "krank（病気の）+ pflegen（世話をする）+ -er = 病人の世話をする人 🏥", "bonus": "今は正式名称の Pflegefachmann / Pflegefachfrau もよく使われます。"},
+      "B1-801": {"pron": "インジェニエーア", "tip": "フランス語から来たので発音もフランス風 🔧「エンジニア」ではありません！", "bonus": "女性は die Ingenieurin"},
+      "A2-659": {"pron": "メヒャーニカー", "tip": "ギリシャ語 mēchanē（機械）から 🔩 英語の mechanic と同じですね。", "bonus": "車の整備工場は die Werkstatt"},
+      "B1-445": {"pron": "アンヴァルト", "tip": "an + walten（取り仕切る）= 自分の件を引き受けてくれる人 ⚖️", "warn": "複数はウムラウト：die Anwälte。正式には der Rechtsanwalt です。"},
+      "B2-1017": {"pron": "プログラミーラー", "tip": "programmieren + -er = プログラマー 💻 ほぼカタカナ語そのまま！", "bonus": "開発者は der Entwickler とも言います。"}
+    },
+    "culture": [
+      "ドイツ語では職業を言うとき冠詞をつけません。Ich bin Lehrerin. Er ist Koch. のように言います。またほとんどの職業に女性形 -in があるので、女性なら Ärztin や Ingenieurin と言うのが自然です。",
+      "大学に行かず職業訓練（Ausbildung）を受ける人も多いです。会社で働きながら職業学校（Berufsschule）にも通う仕組みで、整備士や料理人はふつうここから始めます。",
+      "求人広告ではよく「(m/w/d)」という表示を見かけます。男性・女性・多様な性別のだれでも応募できるという意味です。💼"
+    ],
+    "quiz": {"q": "パーティーで初対面の人に職業を聞かれました。正しい答えは？", "o": ["Ich bin Ingenieurin.", "Ich bin eine Ingenieurin von Beruf.", "Ich bin bei Ingenieurin."], "a": 0, "why": "職業は冠詞なしで Ich bin + 職業名 と言います。"},
+    "outro": "家族や友だちの職業をドイツ語で一文ずつ言ってみましょう。Meine Schwester ist Ärztin. のように、声に出して！💪"
+  }
+}

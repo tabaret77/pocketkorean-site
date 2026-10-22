@@ -1,0 +1,84 @@
+{
+  "key": "migration",
+  "ko": {
+    "title": "뉴스가 들리기 시작하는 이민·통합 독일어 10",
+    "hook": "독일에서 살다 보면 뉴스에서도, 관청에서도, 내 서류에서도 이 단어들을 만나게 돼요.",
+    "intro": [
+      "독일 저녁 뉴스를 틀면 Migration, Integration 같은 단어가 정말 자주 나와요. 비자 연장하러 관청에 가도, 독일어 학원 공지를 읽어도 마찬가지고요. 우리도 독일에 사는 외국인이니까 남의 이야기가 아니죠.",
+      "오늘은 이민과 통합에 관한 단어 10개예요. 이 10개면 뉴스 헤드라인을 이해하고, 통합 과정이나 귀화 같은 내 생활과 이어진 이야기도 독일어로 나눌 수 있어요. 🌏"
+    ],
+    "words": {
+      "B1-951": {"pron": "미그라치온", "tip": "-tion으로 끝나는 명사는 언제나 die 🌍 영어 migration과 같아요.", "bonus": "이주민 = der Migrant / die Migrantin"},
+      "B2-622": {"pron": "아인반더러", "tip": "ein(안으로) + wandern(돌아다니다) + -er(사람) = 들어와 사는 사람 🧳 영어 wander!", "bonus": "반대로 떠나는 사람은 der Auswanderer · 여성은 die Einwanderin"},
+      "B2-621": {"pron": "아인반던", "tip": "안으로(ein) 걸어 들어오기(wandern) 🚶 하이킹 wandern과 같은 동사예요.", "warn": "분리동사 + 완료형은 sein: Sie ist 2015 eingewandert.", "bonus": "반대말 auswandern = 이민 가다"},
+      "B2-227": {"pron": "플뤼히틀링", "tip": "die Flucht(피란)에 사람을 뜻하는 -ling 🕊️ -ling으로 끝나면 der!", "bonus": "뉴스에서는 die Geflüchteten(피란 온 사람들)이라는 말도 많이 써요."},
+      "B1-454": {"pron": "아쥘", "tip": "그리스어 asylon ‘빼앗을 수 없는 곳’에서 왔어요 🛡️ 영어 asylum과 같은 뿌리!", "bonus": "망명을 신청하다 = Asyl beantragen"},
+      "B2-118": {"pron": "인테그라치온", "tip": "라틴어 integrare ‘온전하게 만들다’ 🧩 -tion이니까 역시 die!", "bonus": "동사 sich integrieren = (사회에) 적응하다, 녹아들다"},
+      "B2-636": {"pron": "인테그라치온스쿠어스", "tip": "Integration + s + Kurs 📚 마지막이 der Kurs라서 der!", "bonus": "독일어 수업 뒤에는 생활·역사·사회를 배우는 der Orientierungskurs가 이어져요."},
+      "B2-632": {"pron": "슈타츠뷔르거샤프트", "tip": "Staat(국가) + Bürger(시민) + -schaft 🏛️ -schaft로 끝나면 언제나 die!", "bonus": "서류에서는 die Staatsangehörigkeit라는 말을 더 자주 봐요."},
+      "B2-633": {"pron": "아인뷔르거룽", "tip": "Bürger(시민) 안으로(ein) 들어가기 🏰 Bürger는 원래 성(Burg) 안에 사는 사람!", "bonus": "귀화 시험 = der Einbürgerungstest"},
+      "B2-637": {"pron": "미그라치온스힌터그룬트", "tip": "hinter(뒤) + Grund(땅) = 배경 🌏 영어 background를 그대로 번역한 말 같죠?", "bonus": "Menschen mit Migrationshintergrund = 이주 배경을 가진 사람들"}
+    },
+    "culture": [
+      "독일은 오래전부터 이민의 나라예요. 1950~70년대에는 이탈리아, 그리스, 터키 등에서 많은 ‘Gastarbeiter(초청 노동자)’가 일하러 왔고, 그 자녀와 손주들이 지금 독일 사회의 중요한 일부가 됐어요.",
+      "이민자를 위한 통합 과정(Integrationskurs)에서는 독일어와 함께 독일의 생활, 역사, 정치에 대해 배워요. 참여 조건이나 지원은 체류 상황에 따라 다르니까 관할 외국인 관청(Ausländerbehörde)에 확인하는 게 좋아요.",
+      "요즘은 Migrationshintergrund 대신 ‘Einwanderungsgeschichte’ 같은 표현을 쓰자는 목소리도 있어요. 말에도 세심함이 필요한 주제예요. 🤝"
+    ],
+    "quiz": {"q": "친구가 부모님 이야기를 해요. 빈칸에 알맞은 말은? ‘Meine Eltern ___ 1990 nach Deutschland eingewandert.’", "o": ["sind", "haben", "werden"], "a": 0, "why": "einwandern은 장소 이동이라서 완료형에 sein을 써요: sind eingewandert."},
+    "outro": "오늘 저녁 독일 뉴스 헤드라인에서 오늘 배운 단어를 하나라도 찾아봐요. 그리고 ‘Ich bin 20__ nach Deutschland gekommen.’처럼 내 이야기도 한 문장 말해 봐요! 🌍"
+  },
+  "en": {
+    "title": "Understand the news: 10 German words on migration and integration",
+    "hook": "Live in Germany for a while and you'll meet these words everywhere — on the news, at the authorities, even in your own paperwork.",
+    "intro": [
+      "Switch on the German evening news and words like Migration and Integration come up again and again. It's the same when you renew your visa or read a notice from your language school. And if you're a foreigner living in Germany, it's not just someone else's story.",
+      "Today's ten words are about migration and integration. With them you can follow news headlines and talk in German about things that may touch your own life, like integration courses or naturalisation. 🌏"
+    ],
+    "words": {
+      "B1-951": {"pron": "mee-gra-TSYOHN", "tip": "Nouns ending in -tion are always die 🌍 Same as English migration.", "bonus": "a migrant = der Migrant / die Migrantin"},
+      "B2-622": {"pron": "INE-van-der-er", "tip": "ein (in) + wandern (to wander) + -er (person) = someone who wanders in 🧳", "bonus": "Someone who leaves is der Auswanderer · female: die Einwanderin"},
+      "B2-621": {"pron": "INE-van-dern", "tip": "To wander (wandern) in (ein) 🚶 Same verb as wandern, to hike.", "warn": "Separable, and the perfect uses sein: Sie ist 2015 eingewandert.", "bonus": "The opposite: auswandern = to emigrate"},
+      "B2-227": {"pron": "FLUEKHT-ling", "tip": "die Flucht (flight, fleeing) + -ling (person) 🕊️ Nouns ending in -ling are der.", "bonus": "The media also often say die Geflüchteten (people who have fled)."},
+      "B1-454": {"pron": "ah-ZEWL", "tip": "From Greek asylon, ‘a place that can't be plundered’ 🛡️ Same root as asylum.", "bonus": "to apply for asylum = Asyl beantragen"},
+      "B2-118": {"pron": "in-te-gra-TSYOHN", "tip": "From Latin integrare, ‘to make whole’ 🧩 -tion, so die again!", "bonus": "The verb: sich integrieren = to integrate, settle in"},
+      "B2-636": {"pron": "in-te-gra-TSYOHNS-koors", "tip": "Integration + s + Kurs 📚 It ends in der Kurs, so it's der.", "bonus": "After the language part comes der Orientierungskurs on everyday life, history and society."},
+      "B2-632": {"pron": "SHTAHTS-bewr-ger-shaft", "tip": "Staat (state) + Bürger (citizen) + -schaft 🏛️ Words ending in -schaft are always die.", "bonus": "On official forms you'll more often see die Staatsangehörigkeit."},
+      "B2-633": {"pron": "INE-bewr-ger-oong", "tip": "Becoming one of the Bürger 🏰 A Bürger was originally someone living inside the Burg (castle).", "bonus": "citizenship test = der Einbürgerungstest"},
+      "B2-637": {"pron": "mee-gra-TSYOHNS-hin-ter-groont", "tip": "hinter (behind) + Grund (ground) = background 🌏 Just like the English word, piece by piece.", "bonus": "Menschen mit Migrationshintergrund = people with a migrant background"}
+    },
+    "culture": [
+      "Germany has been a country of immigration for a long time. From the 1950s to the 1970s, many ‘Gastarbeiter’ (guest workers) came from countries such as Italy, Greece and Turkey, and their children and grandchildren are now an important part of German society.",
+      "Integration courses (Integrationskurs) teach German along with everyday life, history and politics in Germany. Who can take part and what support is available depends on your residence situation, so it's best to ask your local foreigners' office (Ausländerbehörde).",
+      "Some people now prefer expressions like ‘Einwanderungsgeschichte’ (immigration history) instead of Migrationshintergrund. It's a topic where word choice matters. 🤝"
+    ],
+    "quiz": {"q": "A friend is talking about their parents. Fill the gap: ‘Meine Eltern ___ 1990 nach Deutschland eingewandert.’", "o": ["sind", "haben", "werden"], "a": 0, "why": "einwandern describes moving from one place to another, so the perfect uses sein: sind eingewandert."},
+    "outro": "Look for at least one of today's words in a German news headline this evening. Then tell your own story in one sentence, like ‘Ich bin 20__ nach Deutschland gekommen.’ 🌍"
+  },
+  "ja": {
+    "title": "ニュースが聞き取れるようになる移民・統合のドイツ語10",
+    "hook": "ドイツで暮らしていると、ニュースでも役所でも、自分の書類でもこれらの単語に出会います。",
+    "intro": [
+      "ドイツの夜のニュースをつけると、Migration や Integration という言葉が本当によく出てきます。ビザの延長で役所に行っても、語学学校のお知らせを読んでも同じです。ドイツに住む外国人の私たちにとっても、他人事ではありませんね。",
+      "今日は移民と統合に関する単語を10個集めました。これでニュースの見出しを理解し、統合コースや帰化など、自分の生活につながる話もドイツ語でできるようになります。🌏"
+    ],
+    "words": {
+      "B1-951": {"pron": "ミグラツィオーン", "tip": "-tion で終わる名詞はいつも die 🌍 英語の migration と同じです。", "bonus": "移民（人）= der Migrant / die Migrantin"},
+      "B2-622": {"pron": "アインヴァンダラー", "tip": "ein（中へ）+ wandern（さすらう）+ -er（人）= 入ってきて暮らす人 🧳 英語の wander！", "bonus": "出ていく人は der Auswanderer・女性は die Einwanderin"},
+      "B2-621": {"pron": "アインヴァンダーン", "tip": "中へ（ein）歩いて入る（wandern）🚶 ハイキングの wandern と同じ動詞です。", "warn": "分離動詞で、完了形は sein：Sie ist 2015 eingewandert.", "bonus": "反対語 auswandern = （外国へ）移住する"},
+      "B2-227": {"pron": "フリュヒトリング", "tip": "die Flucht（避難）+ 人を表す -ling 🕊️ -ling で終わる名詞は der！", "bonus": "報道では die Geflüchteten（避難してきた人々）という言い方もよく使われます。"},
+      "B1-454": {"pron": "アズュール", "tip": "ギリシャ語 asylon「奪えない場所」から 🛡️ 英語の asylum と同じ語源！", "bonus": "庇護を申請する = Asyl beantragen"},
+      "B2-118": {"pron": "インテグラツィオーン", "tip": "ラテン語 integrare「完全にする」から 🧩 -tion なのでやっぱり die！", "bonus": "動詞 sich integrieren = （社会に）溶け込む"},
+      "B2-636": {"pron": "インテグラツィオーンスクルス", "tip": "Integration + s + Kurs 📚 最後が der Kurs なので der！", "bonus": "語学の後には、生活・歴史・社会を学ぶ der Orientierungskurs が続きます。"},
+      "B2-632": {"pron": "シュターツビュルガーシャフト", "tip": "Staat（国家）+ Bürger（市民）+ -schaft 🏛️ -schaft で終わる名詞はいつも die！", "bonus": "書類では die Staatsangehörigkeit という言葉の方をよく見かけます。"},
+      "B2-633": {"pron": "アインビュルゲルング", "tip": "Bürger（市民）の中へ（ein）入ること 🏰 Bürger は元は城（Burg）の中に住む人！", "bonus": "帰化テスト = der Einbürgerungstest"},
+      "B2-637": {"pron": "ミグラツィオーンスヒンターグルント", "tip": "hinter（後ろ）+ Grund（地面）= 背景 🌏 英語の background とそっくりな作りです。", "bonus": "Menschen mit Migrationshintergrund = 移民の背景を持つ人々"}
+    },
+    "culture": [
+      "ドイツは昔から移民の国です。1950〜70年代にはイタリア、ギリシャ、トルコなどから多くの「Gastarbeiter（ガストアルバイター、外国人労働者）」が働きに来て、その子どもや孫たちは今やドイツ社会の大切な一員です。",
+      "移民向けの統合コース（Integrationskurs）では、ドイツ語と一緒にドイツの生活・歴史・政治について学びます。参加条件や支援は滞在の状況によって違うので、管轄の外国人局（Ausländerbehörde）に確認するのがおすすめです。",
+      "最近は Migrationshintergrund の代わりに「Einwanderungsgeschichte（移住の歴史）」のような表現を使おうという声もあります。言葉選びにも気配りが必要なテーマです。🤝"
+    ],
+    "quiz": {"q": "友だちが両親の話をしています。空欄に入るのは？「Meine Eltern ___ 1990 nach Deutschland eingewandert.」", "o": ["sind", "haben", "werden"], "a": 0, "why": "einwandern は場所の移動を表すので、完了形は sein を使います：sind eingewandert."},
+    "outro": "今夜のドイツのニュースの見出しで、今日の単語をひとつでも探してみましょう。そして「Ich bin 20__ nach Deutschland gekommen.」のように、自分の話もひとこと言ってみてくださいね！🌍"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "key": "looks",
+  "ko": {
+    "title": "“어떻게 생겼어?”에 답하는 독일어 10",
+    "hook": "친구가 새 남자친구 사진을 보여 줄 때, “음… 좋네”보다 더 할 말이 생길 거예요.",
+    "intro": [
+      "독일 친구가 “Wie sieht er denn aus?” 하고 물었어요. 그가 어떻게 생겼냐는 건데, 저는 “키가… 크고… 음…” 하다가 손짓으로 수염을 그렸죠. 사람 생김새를 설명하는 건 생각보다 어려워요.",
+      "오늘은 외모를 말할 때 쓰는 단어 10개예요. 키, 체형, 머리, 수염까지 설명하고, 칭찬도 자연스럽게 할 수 있게 될 거예요. 🪞"
+    ],
+    "words": {
+      "A2-303": {"pron": "아우스제엔", "tip": "aus(밖) + sehen(보다) = 밖으로 보이는 모습 👀", "warn": "분리동사예요: Du siehst müde aus. aus는 문장 맨 끝으로!"},
+      "A1-077": {"pron": "그로스", "tip": "영어 great와 같은 뿌리 🦒 키가 크다도 groß!", "bonus": "키 묻기: Wie groß bist du? · 반대말은 klein"},
+      "B1-1109": {"pron": "슐랑크", "tip": "‘슐랑~’ 하고 가늘게 빠지는 소리 🌿 날씬한 사람에게 쓰는 칭찬이에요.", "bonus": "그냥 마른 건 dünn, 날씬하고 보기 좋으면 schlank"},
+      "A1-346": {"pron": "딕", "tip": "영어 thick과 같은 말 📚 두꺼운 책도 ein dickes Buch!", "warn": "사람에게 dick은 무례할 수 있어요. 부드럽게는 mollig(통통한)."},
+      "BL-16-04": {"pron": "하르", "tip": "영어 hair와 거의 같아요 💇‍♀️", "warn": "내 머리카락 전체는 보통 복수: Meine Haare sind lang.", "bonus": "머리를 자르다 = sich die Haare schneiden lassen"},
+      "A2-430": {"pron": "블론트", "tip": "프랑스어에서 온 금발 👱‍♀️ 끝의 d는 ‘트’로 읽어요.", "bonus": "Sie hat blonde Haare. 처럼 Haare 앞에서 어미가 붙어요."},
+      "B1-2511": {"pron": "구트 아우스제엔트", "tip": "gut(잘) + aussehend(보이는) = 잘 보이는 = 잘생긴 😎", "bonus": "칭찬은 이렇게: Du siehst gut aus! (너 멋져 보여!)"},
+      "B1-484": {"pron": "바르트", "tip": "영어 beard와 친척 🧔 수염을 기르다는 einen Bart tragen", "bonus": "콧수염 = der Schnurrbart"},
+      "A2-366": {"pron": "헤슬리히", "tip": "Hass(미움, 영어 hate) + -lich = 미운 모습 → 못생긴 👹", "bonus": "사람보다는 건물이나 옷에 더 자주 써요: Das Gebäude ist hässlich."},
+      "A2-368": {"pron": "휩슈", "tip": "원래 ‘궁정풍의(höfisch)’ 🎀 궁전에서 온 듯 예쁜 것!", "bonus": "반대말은 hässlich · 귀여운 건 niedlich"}
+    },
+    "culture": [
+      "독일에서는 다른 사람의 외모, 특히 몸무게에 대해 말하는 걸 꽤 조심해요. “살 빠졌네?”, “얼굴이 부었네” 같은 말은 친한 사이에서도 실례로 들릴 수 있어요.",
+      "대신 “Du siehst gut aus!”나 “Die Brille steht dir!”(안경 잘 어울린다!)처럼 분위기나 스타일을 칭찬하는 건 자연스러워요. 상대가 고른 것을 칭찬하면 실패할 일이 없어요. 😊"
+    ],
+    "quiz": {"q": "친구가 새로 산 옷을 입고 왔어요. 뭐라고 칭찬할까요?", "o": ["Du siehst gut aus!", "Du bist aber dick geworden.", "Das Kleid ist hässlich."], "a": 0, "why": "Du siehst gut aus! = 멋져 보여! 외모 칭찬으로 가장 무난한 말이에요."},
+    "outro": "오늘은 좋아하는 배우 한 명을 골라 독일어로 생김새를 설명해 봐요. Er ist groß und hat einen Bart… 이런 식으로요! 🎬"
+  },
+  "en": {
+    "title": "Tall, blond or bearded? 10 German words for appearance",
+    "hook": "Next time a friend shows you a photo of their new partner, you'll have more to say than ‘nice’.",
+    "intro": [
+      "A German friend asks, “Wie sieht er denn aus?” — what does he look like? I manage “Er ist… groß… ähm…” and then mime a beard with my hands. Describing people is harder than it seems.",
+      "Today's ten words are for talking about how people look. You'll be able to describe height, build, hair and beards, and pay a compliment that sounds natural. 🪞"
+    ],
+    "words": {
+      "A2-303": {"pron": "OWSS-zay-en", "tip": "aus (out) + sehen (to see) = how you look from the outside 👀", "warn": "Separable verb: Du siehst müde aus. The aus goes to the end."},
+      "A1-077": {"pron": "GROHSS", "tip": "Same root as English great 🦒 For people, groß means tall.", "bonus": "How tall are you? = Wie groß bist du? · opposite: klein"},
+      "B1-1109": {"pron": "SHLAHNK", "tip": "Sounds long and thin, like a willow 🌿 A polite word for slim.", "bonus": "Just skinny is dünn; slim and nice-looking is schlank."},
+      "A1-346": {"pron": "DIK", "tip": "Same word as English thick 📚 A thick book is ein dickes Buch.", "warn": "Calling a person dick can be rude. Softer: mollig (chubby)."},
+      "BL-16-04": {"pron": "HAHR", "tip": "Nearly the same as English hair 💇‍♀️", "warn": "Your hair is usually plural: Meine Haare sind lang.", "bonus": "to get a haircut = sich die Haare schneiden lassen"},
+      "A2-430": {"pron": "BLONT", "tip": "Borrowed from French 👱‍♀️ The final d sounds like t.", "bonus": "It takes an ending before a noun: Sie hat blonde Haare."},
+      "B1-2511": {"pron": "GOOT OWSS-zay-ent", "tip": "gut (well) + aussehend (looking) = good-looking 😎", "bonus": "As a compliment: Du siehst gut aus! (You look great!)"},
+      "B1-484": {"pron": "BART", "tip": "A cousin of English beard 🧔 to have a beard = einen Bart tragen", "bonus": "moustache = der Schnurrbart"},
+      "A2-366": {"pron": "HESS-lish", "tip": "Hass (hate) + -lich = hateful to look at → ugly 👹", "bonus": "Used more for buildings and clothes than people: Das Gebäude ist hässlich."},
+      "A2-368": {"pron": "HUEPSH", "tip": "It comes from höfisch (courtly) 🎀 Pretty enough for a palace.", "bonus": "opposite: hässlich · cute: niedlich"}
+    },
+    "culture": [
+      "In Germany people tend to be careful about commenting on someone's looks, especially their weight. Remarks like ‘Have you lost weight?’ or ‘You look tired’ can come across as rude, even between friends.",
+      "Complimenting someone's style is a safer bet: “Du siehst gut aus!” or “Die Brille steht dir!” (Those glasses suit you!). Praise what someone has chosen, not their body, and you can't go wrong. 😊"
+    ],
+    "quiz": {"q": "Your friend turns up in a new outfit. What's a good compliment?", "o": ["Du siehst gut aus!", "Du bist aber dick geworden.", "Das Kleid ist hässlich."], "a": 0, "why": "Du siehst gut aus! = You look great! It's the safest compliment about someone's appearance."},
+    "outro": "Pick a favourite actor and describe them out loud in German: Er ist groß und hat einen Bart… 🎬"
+  },
+  "ja": {
+    "title": "背が高い？金髪？人の見た目を話すドイツ語10",
+    "hook": "友だちに恋人の写真を見せられたとき、「いいね」以外の言葉が出てくるようになります。",
+    "intro": [
+      "ドイツ人の友だちに「Wie sieht er denn aus?（彼ってどんな見た目？）」と聞かれました。「えーと…背が…高くて…」と言ったあと、結局ジェスチャーでひげを描きました。人の見た目を説明するのは、意外と難しいんです。",
+      "今日は外見を話すときに使う単語を10個集めました。身長や体型、髪、ひげまで説明できて、自然にほめることもできるようになります。🪞"
+    ],
+    "words": {
+      "A2-303": {"pron": "アウスゼーエン", "tip": "aus（外へ）+ sehen（見る）= 外から見える姿 👀", "warn": "分離動詞です：Du siehst müde aus. aus は文の最後へ！"},
+      "A1-077": {"pron": "グロース", "tip": "英語の great と同じ語源 🦒 背が高いも groß！", "bonus": "身長を聞く：Wie groß bist du?・反対は klein"},
+      "B1-1109": {"pron": "シュランク", "tip": "「シュラーン」と細長く伸びる響き 🌿 すらっとした人へのほめ言葉です。", "bonus": "ただやせているのは dünn、すらりと素敵なら schlank"},
+      "A1-346": {"pron": "ディック", "tip": "英語の thick と同じ語 📚 厚い本も ein dickes Buch！", "warn": "人に dick と言うと失礼になることがあります。やわらかく言うなら mollig（ぽっちゃり）。"},
+      "BL-16-04": {"pron": "ハール", "tip": "英語の hair とほぼ同じ 💇‍♀️", "warn": "自分の髪全体はふつう複数形：Meine Haare sind lang.", "bonus": "髪を切ってもらう = sich die Haare schneiden lassen"},
+      "A2-430": {"pron": "ブロント", "tip": "フランス語から来た金髪 👱‍♀️ 最後の d は「ト」と読みます。", "bonus": "名詞の前では語尾がつきます：Sie hat blonde Haare."},
+      "B1-2511": {"pron": "グート アウスゼーエント", "tip": "gut（よく）+ aussehend（見える）= 見た目がいい 😎", "bonus": "ほめるときは：Du siehst gut aus!（素敵だね！）"},
+      "B1-484": {"pron": "バールト", "tip": "英語の beard の親戚 🧔 ひげを生やしている = einen Bart tragen", "bonus": "口ひげ = der Schnurrbart"},
+      "A2-366": {"pron": "ヘスリヒ", "tip": "Hass（憎しみ、英語の hate）+ -lich = 憎らしい見た目 → 醜い 👹", "bonus": "人より建物や服によく使います：Das Gebäude ist hässlich."},
+      "A2-368": {"pron": "ヒュプシュ", "tip": "もとは höfisch（宮廷風の）🎀 宮殿にふさわしいかわいさ！", "bonus": "反対は hässlich・小さくてかわいいは niedlich"}
+    },
+    "culture": [
+      "ドイツでは、人の外見、特に体重について話すことにかなり気をつけます。「やせた？」「疲れた顔してるね」といった一言も、親しい間柄でさえ失礼に聞こえることがあります。",
+      "そのかわり「Du siehst gut aus!」や「Die Brille steht dir!（そのメガネ似合うね！）」のように、雰囲気やスタイルをほめるのは自然です。体ではなく、相手が選んだものをほめれば間違いありません。😊"
+    ],
+    "quiz": {"q": "友だちが新しい服を着てきました。何とほめますか？", "o": ["Du siehst gut aus!", "Du bist aber dick geworden.", "Das Kleid ist hässlich."], "a": 0, "why": "Du siehst gut aus! =「素敵だね！」見た目をほめるいちばん無難な言葉です。"},
+    "outro": "好きな俳優を一人選んで、ドイツ語で見た目を説明してみましょう。Er ist groß und hat einen Bart… のように！🎬"
+  }
+}

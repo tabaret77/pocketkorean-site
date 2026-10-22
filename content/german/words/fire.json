@@ -1,0 +1,84 @@
+{
+  "key": "fire",
+  "ko": {
+    "title": "위급할 때 꼭 필요한 화재·안전 독일어 10",
+    "hook": "평생 쓸 일이 없으면 좋겠지만, 딱 한 번 필요할 때 입에서 나와야 하는 단어들이에요.",
+    "intro": [
+      "새벽에 갑자기 천장에서 ‘삐-삐-’ 소리가 났어요. 연기 감지기였죠. 다행히 토스트가 탄 거였지만, 그 순간 머리가 하얘지더라고요. 진짜 불이었다면 독일어로 뭐라고 신고했을까요?",
+      "오늘은 화재와 안전에 관한 단어 10개예요. 불이 났을 때 소리치고, 소방서에 신고하고, 비상구를 찾는 것까지 이 10개면 할 수 있어요. 겁먹지 말고, 미리 알아 두는 게 최고의 안전이에요. 🚒"
+    ],
+    "words": {
+      "A2-225": {"pron": "포이어", "tip": "영어 fire와 같은 뿌리 🔥 ‘포이어~’ 하고 불길이 일렁이는 소리!", "bonus": "길에서 Hast du Feuer? 하면 ‘라이터 있어?’라는 뜻이에요."},
+      "B2-3680": {"pron": "브란트", "tip": "brennen(타다)에서 나온 말 🏚️ 뉴스에서 ‘화재’는 거의 Brand예요.", "bonus": "불이 붙다 = in Brand geraten · 복수는 die Brände"},
+      "B1-539": {"pron": "브레넨", "tip": "영어 burn과 같은 뿌리 🔥 Es brennt! = 불이야!", "warn": "혼합 변화 동사예요: brannte – hat gebrannt"},
+      "A2-036": {"pron": "포이어베어", "tip": "Feuer(불) + Wehr(방어) = 불을 막는 팀 🚒", "bonus": "긴급 전화는 112 (경찰은 110)"},
+      "B1-2594": {"pron": "라우흐", "tip": "‘라우흐~’ 하고 연기가 피어오르는 소리 💨 동사 rauchen은 ‘담배 피우다’도 돼요.", "bonus": "Rauchen verboten = 흡연 금지"},
+      "B2-2297": {"pron": "라우흐멜더", "tip": "Rauch(연기) + melden(알리다) + -er = 연기를 알려 주는 기계 🚨", "bonus": "‘삐’ 소리가 짧게 반복되면 보통 배터리 교체 신호예요."},
+      "B2-2298": {"pron": "포이어뢰셔", "tip": "Feuer + löschen(끄다) + -er = 불 끄는 도구 🧯 레고 조립 완성!", "bonus": "복수도 같아요: die Feuerlöscher"},
+      "A2-324": {"pron": "뢰셴", "tip": "불도 끄고 파일도 지우고 🧯 원래 뜻은 ‘불을 끄다’였어요!", "bonus": "컴퓨터에서 ‘삭제’ 버튼도 Löschen이에요."},
+      "B1-993": {"pron": "노트아우스강", "tip": "Not(위급) + Ausgang(출구) = 위급할 때 나가는 문 🚪 초록색 달리는 사람 표시!", "warn": "복수형에 움라우트: die Notausgänge"},
+      "B1-045": {"pron": "지허하이트", "tip": "sicher(안전한) + -heit 🦺 -heit으로 끝나니 언제나 die!", "bonus": "Sicherheit geht vor. = 안전 제일"}
+    },
+    "culture": [
+      "독일에서 불이 나거나 구급차가 필요하면 112, 경찰은 110이에요. 전화하면 어디서(Wo?), 무슨 일이(Was?), 몇 명이 다쳤는지 등을 차례로 물어보니, 차분하게 질문에 답하면 돼요.",
+      "독일의 주택에는 연기 감지기(Rauchmelder)가 의무예요. 누가 설치하고 점검하는지는 주마다 달라서, 집주인이 하기도 하고 세입자가 하기도 해요. 이사하면 침실과 복도 천장을 한번 올려다보세요.",
+      "그리고 독일 소방대의 상당수는 자원봉사로 운영되는 Freiwillige Feuerwehr예요. 작은 마을에서는 소방대가 동네 축제를 여는 사교 모임이기도 해요. 🚒"
+    ],
+    "quiz": {"q": "옆집 창문에서 연기가 나요. 112에 전화했어요. 뭐라고 말할까요?", "o": ["Es brennt! Bitte kommen Sie schnell.", "Hast du Feuer?", "Ich habe die Datei gelöscht."], "a": 0, "why": "Es brennt! = 불이 났어요! 위급 상황을 알리는 가장 짧은 말이에요."},
+    "outro": "오늘 집이나 회사에서 비상구와 소화기가 어디 있는지 확인하면서 ‘Notausgang, Feuerlöscher’ 하고 소리 내 말해 봐요. 안전도 독일어도 한 번에! 🧯"
+  },
+  "en": {
+    "title": "10 German words to know in a fire emergency",
+    "hook": "You hope you'll never need them — but if you do, they have to come out instantly.",
+    "intro": [
+      "At dawn, a piercing beep comes from the ceiling: the smoke alarm. Luckily it's just burnt toast, but for a moment your mind goes blank. If it had been a real fire, what would you have said on the phone in German?",
+      "Today's ten words are about fire and safety. With them you can shout for help, call the fire brigade and find the emergency exit. Don't panic — knowing them in advance is the best safety tip there is. 🚒"
+    ],
+    "words": {
+      "A2-225": {"pron": "FOY-er", "tip": "Same root as English fire 🔥 Say it slowly and hear the flames: ‘FOY-er’.", "bonus": "Hast du Feuer? on the street = Have you got a light?"},
+      "B2-3680": {"pron": "BRANT", "tip": "From brennen (to burn) 🏚️ In the news, a fire is almost always a Brand.", "bonus": "to catch fire = in Brand geraten · plural: die Brände"},
+      "B1-539": {"pron": "BREN-en", "tip": "Same root as English burn 🔥 Es brennt! = Fire!", "warn": "Mixed verb: brannte – hat gebrannt"},
+      "A2-036": {"pron": "FOY-er-vair", "tip": "Feuer + Wehr (defence) = the fire defence team 🚒", "bonus": "Emergency number: 112 (police: 110)"},
+      "B1-2594": {"pron": "ROWKH", "tip": "Related to English reek 💨 The verb rauchen also means ‘to smoke’ a cigarette.", "bonus": "Rauchen verboten = No smoking"},
+      "B2-2297": {"pron": "ROWKH-mel-der", "tip": "Rauch (smoke) + melden (to report) + -er = smoke reporter 🚨", "bonus": "A short beep every so often usually means the battery needs changing."},
+      "B2-2298": {"pron": "FOY-er-lur-sher", "tip": "Feuer + löschen (put out) + -er = fire putter-outer 🧯", "bonus": "Plural is the same: die Feuerlöscher"},
+      "A2-324": {"pron": "LUR-shen", "tip": "Put out fires and delete files 🧯 The fire meaning came first!", "bonus": "The ‘Delete’ button on a German computer says Löschen."},
+      "B1-993": {"pron": "NOHT-ows-gang", "tip": "Not (emergency) + Ausgang (exit) 🚪 Look for the green running man.", "warn": "Plural with umlaut: die Notausgänge"},
+      "B1-045": {"pron": "ZIKH-er-hite", "tip": "sicher (safe) + -heit 🦺 Nouns ending in -heit are always die.", "bonus": "Sicherheit geht vor. = Safety first."}
+    },
+    "culture": [
+      "In Germany, call 112 for the fire brigade or an ambulance, and 110 for the police. The operator will ask you questions — where (Wo?), what happened (Was?), how many people are hurt — so just stay calm and answer them one by one.",
+      "Smoke alarms (Rauchmelder) are required in homes in Germany. Who has to install and check them — landlord or tenant — depends on the state. When you move in, take a quick look at the bedroom and hallway ceilings.",
+      "Many German fire brigades are volunteer services, the Freiwillige Feuerwehr. In small villages, the fire brigade is often a social hub too, running local festivals. 🚒"
+    ],
+    "quiz": {"q": "Smoke is coming out of your neighbour's window. You call 112. What do you say?", "o": ["Es brennt! Bitte kommen Sie schnell.", "Hast du Feuer?", "Ich habe die Datei gelöscht."], "a": 0, "why": "Es brennt! = There's a fire! — the quickest way to report an emergency."},
+    "outro": "Today, find the emergency exit and fire extinguisher at home or work and name them out loud: ‘Notausgang, Feuerlöscher’. Safety and German in one go! 🧯"
+  },
+  "ja": {
+    "title": "いざというときの火災・安全ドイツ語10",
+    "hook": "一生使わずにすめばいちばん。でも必要なときは、すぐ口から出てこないと困る単語です。",
+    "intro": [
+      "明け方、天井から突然「ピーッ、ピーッ」。煙感知器でした。幸いトーストが焦げただけでしたが、その瞬間、頭が真っ白に。本当の火事だったら、ドイツ語で何と通報したでしょう？",
+      "今日は火災と安全に関する単語を10個集めました。火事を知らせる、消防に通報する、非常口を探す――この10個でできるようになります。怖がらずに、前もって知っておくことがいちばんの安全です。🚒"
+    ],
+    "words": {
+      "A2-225": {"pron": "フォイアー", "tip": "英語の fire と同じルーツ 🔥「フォイアー」と炎がゆらめく音！", "bonus": "道で Hast du Feuer? と聞かれたら「ライター持ってる？」の意味です。"},
+      "B2-3680": {"pron": "ブラント", "tip": "brennen（燃える）から生まれた言葉 🏚️ ニュースの「火災」はほぼ Brand です。", "bonus": "火がつく = in Brand geraten · 複数形は die Brände"},
+      "B1-539": {"pron": "ブレンネン", "tip": "英語の burn と同じルーツ 🔥 Es brennt! =「火事だ！」", "warn": "混合変化の動詞です：brannte – hat gebrannt"},
+      "A2-036": {"pron": "フォイアーヴェーア", "tip": "Feuer（火）+ Wehr（防御）= 火を防ぐチーム 🚒", "bonus": "緊急番号は112（警察は110）"},
+      "B1-2594": {"pron": "ラウホ", "tip": "「ラウホ〜」と煙が立ちのぼる音 💨 動詞 rauchen は「たばこを吸う」にもなります。", "bonus": "Rauchen verboten = 禁煙"},
+      "B2-2297": {"pron": "ラウホメルダー", "tip": "Rauch（煙）+ melden（知らせる）+ -er = 煙を知らせる機械 🚨", "bonus": "短い「ピッ」が繰り返すときは、たいてい電池交換のサインです。"},
+      "B2-2298": {"pron": "フォイアーレッシャー", "tip": "Feuer + löschen（消す）+ -er = 火を消す道具 🧯 レゴみたいに組み立て完了！", "bonus": "複数形も同じ：die Feuerlöscher"},
+      "A2-324": {"pron": "レッシェン", "tip": "火も消すし、ファイルも消す 🧯 もとの意味は「火を消す」でした！", "bonus": "パソコンの「削除」ボタンも Löschen です。"},
+      "B1-993": {"pron": "ノートアウスガング", "tip": "Not（緊急）+ Ausgang（出口）= 緊急時の出口 🚪 緑の走る人のマーク！", "warn": "複数形はウムラウト付き：die Notausgänge"},
+      "B1-045": {"pron": "ズィッヒャーハイト", "tip": "sicher（安全な）+ -heit 🦺 -heit で終わる名詞はいつも die！", "bonus": "Sicherheit geht vor. = 安全第一"}
+    },
+    "culture": [
+      "ドイツで火事や救急車が必要なときは112、警察は110です。電話すると、どこで（Wo?）、何が起きたか（Was?）、けが人は何人かなどを順番に聞かれるので、落ち着いてひとつずつ答えれば大丈夫です。",
+      "ドイツの住宅では煙感知器（Rauchmelder）の設置が義務になっています。設置や点検をするのが大家さんか入居者かは州によって違います。引っ越したら、寝室と廊下の天井を一度見上げてみましょう。",
+      "それから、ドイツの消防団の多くはボランティアによる Freiwillige Feuerwehr です。小さな村では、消防団が地域のお祭りを開く社交の場にもなっています。🚒"
+    ],
+    "quiz": {"q": "隣の家の窓から煙が出ています。112に電話しました。何と言いますか？", "o": ["Es brennt! Bitte kommen Sie schnell.", "Hast du Feuer?", "Ich habe die Datei gelöscht."], "a": 0, "why": "Es brennt! =「火事です！」。緊急事態を伝えるいちばん短い言葉です。"},
+    "outro": "今日は家や職場で非常口と消火器の場所を確認しながら、「Notausgang、Feuerlöscher」と声に出してみましょう。安全もドイツ語も一度に身につきます！🧯"
+  }
+}

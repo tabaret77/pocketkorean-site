@@ -1,0 +1,84 @@
+{
+  "key": "opera",
+  "ko": {
+    "title": "막이 오르기 전에, 오페라·발레 독일어 10",
+    "hook": "티켓에 적힌 Parkett, Rang이 무슨 뜻인지 알면 공연이 훨씬 즐거워져요.",
+    "intro": [
+      "처음으로 독일 오페라 극장 티켓을 예매하려는데, 좌석이 Parkett, 1. Rang, 2. Rang… 도대체 어디가 어디인지 모르겠어요. 공연 날에는 코트를 맡기라는 안내에 또 한 번 멈칫!",
+      "오늘은 오페라와 발레를 보러 갈 때 꼭 만나는 단어 10개예요. 이 10개면 좌석 고르기부터 휴식 시간 수다, 공연 후기까지 독일어로 할 수 있어요. 🎼"
+    ],
+    "words": {
+      "B1-1000": {"pron": "오퍼", "tip": "이탈리아어 opera(작품)에서 왔어요 🎭 독일어는 끝의 a 대신 er!", "bonus": "in die Oper gehen = 오페라 보러 가다 (공연도 극장도 die Oper)"},
+      "B1-482": {"pron": "발레트", "tip": "‘작은 춤’이라는 이탈리아어 balletto에서 🩰", "warn": "t가 두 개고 끝의 t도 소리 내요: 발레‘트’!"},
+      "B1-2349": {"pron": "텐처", "tip": "tanzen + -er = 춤추는 사람 💃 a가 ä로 변신!", "bonus": "여성 무용수는 die Tänzerin"},
+      "B1-1231": {"pron": "탄츠", "tip": "영어 dance와 사촌 🕺 d가 t로, c가 z로 바뀌었을 뿐!", "warn": "복수는 Umlaut가 붙어요: die Tänze."},
+      "A1-176": {"pron": "탄첸", "tip": "Tanz에 -en만 붙이면 동사 💃 Wir tanzen!", "bonus": "Darf ich bitten? = 춤 한 곡 추실래요? (격식 있는 표현)"},
+      "B2-1348": {"pron": "인스체니룽", "tip": "in + Szene(무대) + -ung = 무대 위에 올리기 🎬 -ung이니 die!", "bonus": "연출가는 der Regisseur / die Regisseurin"},
+      "B2-3004": {"pron": "아크트", "tip": "영어 act와 같아요 🎭 한 작품은 여러 Akte로 나뉘어요.", "warn": "der Akt(막)와 die Akte(서류철)는 다른 단어예요!"},
+      "B1-711": {"pron": "가르데로베", "tip": "프랑스어 garder(맡기다) + robe(옷) = 옷 맡기는 곳 🧥", "bonus": "Wo ist die Garderobe? = 물품 보관소가 어디예요?"},
+      "B2-2303": {"pron": "파르케트", "tip": "나무 바닥(parquet)이 깔린 1층 객석 🪵 바닥재도 객석도 Parkett!"},
+      "B2-2035": {"pron": "랑", "tip": "영어 rank와 같은 뿌리 🏅 객석도 층층이 순위가 있어요!", "bonus": "1. Rang = 2층 객석, 2. Rang = 3층 객석 (극장마다 조금씩 달라요)"}
+    },
+    "culture": [
+      "독일에는 오페라 극장이 정말 많아요. 큰 도시뿐 아니라 중간 규모 도시에도 오페라, 발레, 연극을 한 지붕 아래에서 하는 극장이 있는 경우가 많아요.",
+      "옷차림은 생각보다 자유로워요. 초연(Premiere)이나 특별한 공연이 아니면 깔끔한 평상복 정도로 충분하고, 코트와 큰 가방은 보통 Garderobe에 맡기고 들어가요.",
+      "독일 극장에서는 고전 작품도 현대적으로 과감하게 연출하는 경우가 많아요. 그래서 공연이 끝나면 다들 “Wie fandest du die Inszenierung?” 하고 연출 이야기를 나눠요. 🎭"
+    ],
+    "quiz": {"q": "극장 입구에서 직원이 큰 코트는 맡기고 들어가 달래요. 어디에 맡길까요?", "o": ["im Parkett", "im zweiten Akt", "an der Garderobe"], "a": 2, "why": "Garderobe는 코트를 맡기는 물품 보관소예요. an der Garderobe = 보관소에."},
+    "outro": "좋아하는 공연 영상을 하나 틀어 놓고, Akt가 바뀔 때마다 독일어로 한 줄 감상을 말해 봐요. Bravo! 🎼"
+  },
+  "en": {
+    "title": "Curtain up: 10 German words for opera and ballet",
+    "hook": "Once you know what Parkett and Rang mean on your ticket, the evening gets a lot more fun.",
+    "intro": [
+      "You're booking your first ticket for a German opera house, and the seats are labelled Parkett, 1. Rang, 2. Rang… Which is which? And on the night, a sign tells you to leave your coat somewhere.",
+      "Today's ten words are the ones you'll meet at the opera and ballet. With them you can choose your seats, chat in the interval and say what you thought of the show — in German. 🎼"
+    ],
+    "words": {
+      "B1-1000": {"pron": "OH-per", "tip": "From Italian opera, ‘work’ 🎭 German swaps the final a for -er.", "bonus": "in die Oper gehen = go to the opera (die Oper is both the show and the building)"},
+      "B1-482": {"pron": "ba-LET", "tip": "From Italian balletto, ‘little dance’ 🩰", "warn": "Two t's, and the t is pronounced — unlike in English."},
+      "B1-2349": {"pron": "TEN-tser", "tip": "tanzen + -er = someone who dances 💃 and the a turns into ä.", "bonus": "a female dancer = die Tänzerin"},
+      "B1-1231": {"pron": "TANTS", "tip": "A cousin of English dance 🕺 d becomes t, c becomes z.", "warn": "The plural adds an umlaut: die Tänze."},
+      "A1-176": {"pron": "TAN-tsen", "tip": "Add -en to Tanz and you've got the verb 💃 Wir tanzen!", "bonus": "Darf ich bitten? = May I have this dance? (formal)"},
+      "B2-1348": {"pron": "in-stsay-NEE-roong", "tip": "in + Szene (stage) + -ung = putting it on stage 🎬 -ung, so die.", "bonus": "the director = der Regisseur / die Regisseurin"},
+      "B2-3004": {"pron": "AKT", "tip": "Just like English act 🎭 A piece is split into several Akte.", "warn": "der Akt (act) and die Akte (file) are different words!"},
+      "B1-711": {"pron": "gar-duh-ROH-buh", "tip": "French garder (keep) + robe (garment) = where they keep your coat 🧥", "bonus": "Wo ist die Garderobe? = Where's the cloakroom?"},
+      "B2-2303": {"pron": "par-KET", "tip": "The ground-floor seats sit on the parquet 🪵 Floor and seats are both Parkett."},
+      "B2-2035": {"pron": "RANG", "tip": "Same root as English rank 🏅 The balconies rise rank by rank.", "bonus": "1. Rang = first circle, 2. Rang = second circle (layouts vary by theatre)"}
+    },
+    "culture": [
+      "Germany has a remarkable number of opera houses. Not just big cities but many medium-sized towns have a theatre that puts on opera, ballet and drama under one roof.",
+      "The dress code is more relaxed than you might expect. Unless it's a premiere (Premiere) or a gala, smart casual is usually fine, and coats and big bags normally go to the Garderobe.",
+      "German theatres often stage classics in bold, modern ways. So after the show, people love to ask, ‘Wie fandest du die Inszenierung?’ 🎭"
+    ],
+    "quiz": {"q": "At the entrance, an usher asks you to leave your big coat. Where do you take it?", "o": ["im Parkett", "im zweiten Akt", "an der Garderobe"], "a": 2, "why": "The Garderobe is the cloakroom where you leave your coat."},
+    "outro": "Put on a clip of your favourite performance and say one line in German about it every time the Akt changes. Bravo! 🎼"
+  },
+  "ja": {
+    "title": "幕が上がる前に！オペラ・バレエのドイツ語10",
+    "hook": "チケットの Parkett や Rang の意味がわかれば、公演がもっと楽しくなります。",
+    "intro": [
+      "初めてドイツのオペラハウスのチケットを予約しようとしたら、座席は Parkett、1. Rang、2. Rang…いったいどこがどこ？公演当日は、コートを預けてくださいという案内にまた戸惑います。",
+      "今日はオペラやバレエを観に行くときに必ず出会う単語を10個集めました。座席選びから休憩中のおしゃべり、公演の感想まで、ドイツ語で言えるようになります。🎼"
+    ],
+    "words": {
+      "B1-1000": {"pron": "オーパー", "tip": "イタリア語の opera（作品）から 🎭 ドイツ語では最後の a が er に！", "bonus": "in die Oper gehen = オペラを観に行く（公演も劇場も die Oper）"},
+      "B1-482": {"pron": "バレット", "tip": "「小さな踊り」という意味のイタリア語 balletto から 🩰", "warn": "t が2つで、最後の t もはっきり発音します。"},
+      "B1-2349": {"pron": "テンツァー", "tip": "tanzen + -er = 踊る人 💃 a が ä に変身！", "bonus": "女性のダンサーは die Tänzerin"},
+      "B1-1231": {"pron": "タンツ", "tip": "英語の dance のいとこ 🕺 d が t に、c が z になっただけ！", "warn": "複数形はウムラウトがつきます：die Tänze."},
+      "A1-176": {"pron": "タンツェン", "tip": "Tanz に -en をつければ動詞 💃 Wir tanzen!", "bonus": "Darf ich bitten? = 一曲踊っていただけますか？（改まった言い方）"},
+      "B2-1348": {"pron": "インスツェニールング", "tip": "in + Szene（舞台）+ -ung = 舞台にのせること 🎬 -ung なので die！", "bonus": "演出家は der Regisseur / die Regisseurin"},
+      "B2-3004": {"pron": "アクト", "tip": "英語の act と同じ 🎭 作品はいくつかの Akte に分かれます。", "warn": "der Akt（幕）と die Akte（書類ファイル）は別の単語です！"},
+      "B1-711": {"pron": "ガルデローベ", "tip": "フランス語の garder（預かる）+ robe（服）= 服を預かるところ 🧥", "bonus": "Wo ist die Garderobe? = クロークはどこですか？"},
+      "B2-2303": {"pron": "パルケット", "tip": "寄木の床（parquet）の上の1階席 🪵 床材も客席も Parkett！"},
+      "B2-2035": {"pron": "ラング", "tip": "英語の rank と同じ語源 🏅 客席も階ごとにランクがあります！", "bonus": "1. Rang = 2階席、2. Rang = 3階席（劇場によって少し違います）"}
+    },
+    "culture": [
+      "ドイツにはオペラハウスが本当にたくさんあります。大都市だけでなく中規模の町にも、オペラ・バレエ・演劇をひとつの劇場で上演するところが多いです。",
+      "服装は思ったより自由です。初演（Premiere）や特別な公演でなければ、きれいめの普段着で十分。コートや大きなかばんは、ふつう Garderobe に預けてから入ります。",
+      "ドイツの劇場では、古典作品も大胆に現代風に演出することがよくあります。だから終演後は「Wie fandest du die Inszenierung?」と演出の話で盛り上がります。🎭"
+    ],
+    "quiz": {"q": "劇場の入口で、係の人に大きなコートを預けてくださいと言われました。どこに預けますか？", "o": ["im Parkett", "im zweiten Akt", "an der Garderobe"], "a": 2, "why": "Garderobe はコートを預けるクロークです。an der Garderobe = クロークで。"},
+    "outro": "好きな公演の映像を流して、Akt が変わるたびにドイツ語でひとこと感想を言ってみましょう。Bravo! 🎼"
+  }
+}

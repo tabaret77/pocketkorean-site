@@ -1,0 +1,84 @@
+{
+  "key": "plants",
+  "ko": {
+    "title": "꽃집과 베란다에서 피어나는 독일어 10",
+    "hook": "독일 사람 집에 초대받았다면, 손에 들고 갈 건 아마 꽃다발일 거예요.",
+    "intro": [
+      "봄이 오면 독일 창가와 발코니마다 꽃 화분이 하나둘 늘어나요. 저도 마트에서 작은 허브 화분을 샀는데, 휴가 가는 동안 물은 누가 주지? 이웃에게 부탁하려니 단어가 안 떠오르더라고요.",
+      "오늘은 꽃과 식물에 관한 단어 10개를 모았어요. 이 10개면 꽃집에서 꽃다발을 사고, 화분을 키우고, 이웃에게 물 주기를 부탁할 수 있어요. 🌸"
+    ],
+    "words": {
+      "A1-268": {"pron": "블루메", "tip": "영어 bloom(꽃 피다)과 같은 뿌리 🌼 bl- 소리가 똑같아요!", "bonus": "Ich schenke dir Blumen. = 너에게 꽃을 선물할게."},
+      "A2-258": {"pron": "플란체", "tip": "영어 plant와 같은 말이에요 🌱 p를 pf로 바꾸면 독일어가 돼요!", "bonus": "동사 pflanzen(심다)도 같은 가족이에요."},
+      "B1-743": {"pron": "기센", "tip": "영어 gush(콸콸 쏟아지다)와 친척 💦 물을 콸콸 붓는 느낌!", "warn": "불규칙 동사예요: gießt – goss – hat gegossen."},
+      "B1-530": {"pron": "블뤼엔", "tip": "Blume, bloom과 같은 가족 🌸 꽃이 활짝 ‘블뤼~’ 하고 피어요.", "bonus": "꽃, 꽃송이는 die Blüte."},
+      "A2-558": {"pron": "로제", "tip": "라틴어 rosa에서 왔어요 🌹 끝의 e를 ‘에’로 꼭 읽어 주세요!", "bonus": "빨간 장미 = rote Rosen · Keine Rose ohne Dornen. = 가시 없는 장미는 없다."},
+      "B1-1026": {"pron": "플란첸", "tip": "Pflanze에 -n만 붙이면 동사 🪴 식물 + 동사 = 심다!", "bonus": "Im Frühling pflanzen wir Tomaten. = 봄에 토마토를 심어요."},
+      "B1-1386": {"pron": "박센", "tip": "영어 옛말 wax(차오르다)와 친척 🌙 달이 차오르듯 쑥쑥 자라요.", "warn": "완료형은 sein: ist gewachsen. 씻다(waschen)와 헷갈리지 마세요!"},
+      "B2-2424": {"pron": "블루멘토프", "tip": "Blume(꽃) + Topf(냄비, 단지) = 꽃 단지 🏺 Topf가 der라서 전체도 der!", "warn": "복수는 움라우트: die Blumentöpfe."},
+      "A2-796": {"pron": "블루멘슈트라우스", "tip": "Blume + Strauß(다발) = 꽃다발 💐 그런데 der Strauß는 타조라는 뜻도 있어요!", "warn": "복수는 움라우트: die Blumensträuße."},
+      "B2-2796": {"pron": "침머플란체", "tip": "Zimmer(방) + Pflanze(식물) = 방 안 식물 🪴 이름이 곧 설명이에요!", "bonus": "발코니 식물은 die Balkonpflanze."}
+    },
+    "culture": [
+      "독일에서는 집에 초대받으면 작은 꽃다발을 들고 가는 경우가 많아요. 빨간 장미는 연인에게 주는 꽃이라는 느낌이 강하니, 친구 집에는 다른 꽃이 무난해요.",
+      "도시에는 작은 정원을 빌려 가꾸는 Kleingarten(또는 Schrebergarten)도 많아요. 정원이 없는 사람들은 발코니를 꽃과 허브로 가득 채우기도 하고요.",
+      "그리고 휴가철에는 이웃끼리 서로 화분에 물을 주고 우편함을 봐 주는 일이 흔해요. 다녀와서 작은 선물로 고마움을 표시하면 좋아요. 🌷"
+    ],
+    "quiz": {"q": "휴가를 떠나기 전, 이웃에게 화분 물 주기를 부탁하고 싶어요. 뭐라고 말할까요?", "o": ["Ich pflanze im Frühling Tomaten.", "Die Rosen blühen schon.", "Kannst du im Urlaub meine Blumen gießen?"], "a": 2, "why": "gießen = 물을 주다. ‘휴가 동안 내 꽃에 물 좀 줄 수 있어?’라는 부탁이에요."},
+    "outro": "집에 있는 식물이나 창밖의 꽃을 보면서 ‘Die … blüht’, ‘Ich gieße meine Pflanzen’을 소리 내서 말해 봐요. 단어도 식물처럼 매일 물을 줘야 쑥쑥 자라요! 🌱"
+  },
+  "en": {
+    "title": "10 German words that bloom on your windowsill",
+    "hook": "If you're invited to a German home, what's in your hand will probably be a bunch of flowers.",
+    "intro": [
+      "When spring comes, flowerpots appear on windowsills and balconies all over Germany. I bought a little pot of herbs at the supermarket — then wondered who'd water it while I was away. I wanted to ask my neighbour, but the words wouldn't come.",
+      "Today's ten words are all about flowers and plants. With them you can buy a bouquet at the florist's, look after your pots and ask a neighbour to water them. 🌸"
+    ],
+    "words": {
+      "A1-268": {"pron": "BLOO-muh", "tip": "Same root as English bloom 🌼 Even the bl- sound matches.", "bonus": "Ich schenke dir Blumen. = I'm giving you flowers."},
+      "A2-258": {"pron": "PFLAN-tsuh", "tip": "The same word as English plant 🌱 Swap p for pf and you're speaking German.", "bonus": "The verb pflanzen (to plant) is in the same family."},
+      "B1-743": {"pron": "GEE-sen", "tip": "A cousin of English gush 💦 Picture water gushing onto your plants.", "warn": "Irregular: gießt – goss – hat gegossen."},
+      "B1-530": {"pron": "BLÜ-en", "tip": "Family of Blume and bloom 🌸 Flowers open up and blühen.", "bonus": "A blossom is die Blüte."},
+      "A2-558": {"pron": "ROH-zuh", "tip": "From Latin rosa 🌹 Remember to pronounce the final e!", "bonus": "red roses = rote Rosen · Keine Rose ohne Dornen. = No rose without thorns."},
+      "B1-1026": {"pron": "PFLAN-tsen", "tip": "Add -n to Pflanze and you have the verb 🪴", "bonus": "Im Frühling pflanzen wir Tomaten. = We plant tomatoes in spring."},
+      "B1-1386": {"pron": "VAK-sen", "tip": "Like the old English wax, as in the moon waxing 🌙 Growing bigger and bigger.", "warn": "Perfect with sein: ist gewachsen. Don't mix it up with waschen (to wash)!"},
+      "B2-2424": {"pron": "BLOO-men-topf", "tip": "Blume + Topf (pot) = flowerpot 🏺 Topf is der, so the whole word is der.", "warn": "Plural with umlaut: die Blumentöpfe."},
+      "A2-796": {"pron": "BLOO-men-shtrows", "tip": "Blume + Strauß (bunch) = bouquet 💐 And der Strauß also means ostrich!", "warn": "Plural with umlaut: die Blumensträuße."},
+      "B2-2796": {"pron": "TSIM-er-pflan-tsuh", "tip": "Zimmer (room) + Pflanze (plant) = a room plant 🪴 The name explains itself.", "bonus": "A balcony plant is die Balkonpflanze."}
+    },
+    "culture": [
+      "When you're invited to someone's home in Germany, a small bunch of flowers is a common gift. Red roses feel strongly romantic, though, so for friends it's safer to choose something else.",
+      "Cities are full of allotment gardens called Kleingarten (or Schrebergarten), small rented plots where people grow flowers and vegetables. People without a garden often fill their balconies with flowers and herbs instead.",
+      "During the holidays, neighbours often water each other's plants and empty each other's letterboxes. A small thank-you gift afterwards is a nice touch. 🌷"
+    ],
+    "quiz": {"q": "Before your holiday, you want to ask a neighbour to water your plants. What do you say?", "o": ["Ich pflanze im Frühling Tomaten.", "Die Rosen blühen schon.", "Kannst du im Urlaub meine Blumen gießen?"], "a": 2, "why": "gießen means to water, so you're asking them to water your flowers while you're away."},
+    "outro": "Look at a plant at home or flowers outside and say out loud: Die … blüht. Ich gieße meine Pflanzen. Words, like plants, grow best with a little water every day! 🌱"
+  },
+  "ja": {
+    "title": "窓辺に咲くドイツ語10：花と植物の単語",
+    "hook": "ドイツの家に招かれたら、手に持っていくのはきっと花束です。",
+    "intro": [
+      "春になると、ドイツの窓辺やバルコニーには花の鉢がどんどん増えていきます。私もスーパーで小さなハーブの鉢を買いましたが、休暇中の水やりはどうしよう？お隣さんに頼みたいのに、言葉が出てきませんでした。",
+      "今日は花と植物の単語を10個集めました。この10個があれば、花屋さんで花束を買ったり、鉢植えを育てたり、お隣さんに水やりを頼んだりできます。🌸"
+    ],
+    "words": {
+      "A1-268": {"pron": "ブルーメ", "tip": "英語の bloom（咲く）と同じ語源 🌼 bl- の音までそっくり！", "bonus": "Ich schenke dir Blumen. = あなたに花をプレゼントするね。"},
+      "A2-258": {"pron": "プフランツェ", "tip": "英語の plant と同じ言葉 🌱 p を pf に変えればドイツ語に！", "bonus": "動詞 pflanzen（植える）も同じ仲間です。"},
+      "B1-743": {"pron": "ギーセン", "tip": "英語の gush（どっと流れ出る）の親戚 💦 水をざあっと注ぐイメージ！", "warn": "不規則動詞です：gießt – goss – hat gegossen."},
+      "B1-530": {"pron": "ブリューエン", "tip": "Blume や bloom と同じ仲間 🌸 花がふわっと開くのが blühen。", "bonus": "花・花びらのまとまりは die Blüte."},
+      "A2-558": {"pron": "ローゼ", "tip": "ラテン語 rosa から 🌹 最後の e も「ゼ」としっかり読みましょう！", "bonus": "赤いバラ = rote Rosen · Keine Rose ohne Dornen. = とげのないバラはない。"},
+      "B1-1026": {"pron": "プフランツェン", "tip": "Pflanze に -n をつけるだけで動詞に 🪴 植物 + 動詞 = 植える！", "bonus": "Im Frühling pflanzen wir Tomaten. = 春にトマトを植えます。"},
+      "B1-1386": {"pron": "ヴァクセン", "tip": "英語の古い言葉 wax（月が満ちる）の親戚 🌙 月が満ちるようにぐんぐん育つ！", "warn": "完了形は sein：ist gewachsen。洗う（waschen）と混同しないで！"},
+      "B2-2424": {"pron": "ブルーメントプフ", "tip": "Blume（花）+ Topf（鍋・つぼ）= 植木鉢 🏺 Topf が der なので全体も der！", "warn": "複数形はウムラウトつき：die Blumentöpfe."},
+      "A2-796": {"pron": "ブルーメンシュトラウス", "tip": "Blume + Strauß（束）= 花束 💐 ちなみに der Strauß には「ダチョウ」の意味も！", "warn": "複数形はウムラウトつき：die Blumensträuße."},
+      "B2-2796": {"pron": "ツィマープフランツェ", "tip": "Zimmer（部屋）+ Pflanze（植物）= 部屋の植物 🪴 名前がそのまま説明です！", "bonus": "バルコニーの植物は die Balkonpflanze."}
+    },
+    "culture": [
+      "ドイツでは家に招かれたとき、小さな花束を持っていくことがよくあります。ただ、赤いバラは恋人に贈る花というイメージが強いので、友人宅には別の花が無難です。",
+      "街には Kleingarten（Schrebergarten とも）と呼ばれる貸し農園がたくさんあり、小さな区画で花や野菜を育てる人がいます。庭がない人は、バルコニーを花やハーブでいっぱいにすることも。",
+      "休暇の季節には、お隣どうしで鉢植えに水をやったり郵便受けを見てあげたりするのはよくあることです。帰ってきたら、ちょっとしたお礼を渡すと喜ばれます。🌷"
+    ],
+    "quiz": {"q": "休暇に出かける前、お隣さんに花の水やりを頼みたいです。何と言いますか？", "o": ["Ich pflanze im Frühling Tomaten.", "Die Rosen blühen schon.", "Kannst du im Urlaub meine Blumen gießen?"], "a": 2, "why": "gießen は「水をやる」なので、「休暇中、私の花に水をやってくれる？」というお願いです。"},
+    "outro": "家の植物や窓の外の花を見ながら、「Die … blüht.」「Ich gieße meine Pflanzen.」と声に出してみましょう。単語も植物と同じで、毎日水をやるとぐんぐん育ちます！🌱"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "diet",
+  "ko": {
+    "title": "식당에서 ‘이건 못 먹어요’ 말하는 독일어 10",
+    "hook": "메뉴판을 읽을 줄 아는 것만큼 중요한 건, 못 먹는 걸 설명하는 거예요.",
+    "intro": [
+      "친구 생일 파티에 초대받았는데, 저는 우유만 마시면 배가 아프고 친구 남편은 견과류 알레르기가 있대요. 다 같이 식당에 갔는데 종업원에게 어떻게 설명하지?",
+      "오늘은 채식, 비건, 알레르기, 글루텐·유당 프리처럼 식단과 관련된 단어 10개예요. 이걸로 식당에서도 빵집에서도 내 몸에 맞는 음식을 자신 있게 고를 수 있어요. 🥗"
+    ],
+    "words": {
+      "B1-1317": {"pron": "베게타리쉬", "tip": "영어 vegetarian에서 -isch만 붙였어요 🥦 형용사니까 소문자!", "bonus": "메뉴에서 이렇게 물어봐요: Haben Sie etwas Vegetarisches?"},
+      "A2-974": {"pron": "베게타리어", "tip": "-er로 끝나면 ‘~하는 사람’ 🙋 채식하는 사람 = Vegetarier!", "warn": "관사 없이 말해요: Ich bin Vegetarier. 여성은 Vegetarierin."},
+      "B2-1216": {"pron": "베간", "tip": "‘베—간’, 뒤를 길고 세게 🌱 영어처럼 ‘비건’이라고 하면 잘 못 알아들을 수도 있어요.", "bonus": "비건인 사람 = der Veganer / die Veganerin"},
+      "B2-1103": {"pron": "알레르기", "tip": "한국어 알레르기랑 똑같아요 🤧 다만 강세는 맨 끝 -gie에!", "bonus": "~에 알레르기가 있다 = eine Allergie gegen + 4격"},
+      "B2-1104": {"pron": "알레르기쉬", "tip": "Allergie + -isch = 알레르기가 있는 🥜 gegen(~에 맞서)과 함께 써요.", "warn": "영어 allergic to처럼 zu를 쓰면 안 돼요: allergisch gegen Nüsse."},
+      "B2-2464": {"pron": "글루텐프라이", "tip": "Gluten + frei(없는) = 글루텐 없음 🍞 frei는 ‘공짜’가 아니라 ‘~가 빠진’!", "bonus": "같은 패턴: zuckerfrei(무설탕), alkoholfrei(무알코올)"},
+      "B2-2463": {"pron": "락토제프라이", "tip": "Laktose(유당) + frei 🥛 마트 우유 코너에서 자주 보는 단어예요.", "bonus": "유당 불내증 = die Laktoseintoleranz"},
+      "B2-1215": {"pron": "운페어트레클리히카이트", "tip": "un(안) + vertragen(견디다) + -keit = 못 견딤 😣 -keit이니까 die!", "bonus": "더 자주 쓰는 문장: Ich vertrage keine Milch. (우유가 안 맞아요)"},
+      "B1-017": {"pron": "에어내룽", "tip": "nähren(영양을 주다) + -ung 🍎 Nahrung(음식)과 같은 가족이에요.", "warn": "살 빼는 ‘다이어트’는 die Diät예요. Ernährung은 평소 식생활 전체!"},
+      "B2-1212": {"pron": "칼로리", "tip": "라틴어 calor(열)에서 왔어요 🔥 몸에서 타는 열량!", "warn": "복수는 die Kalorien, ‘칼로리엔’처럼 끝에 -en이 붙어요."}
+    },
+    "culture": [
+      "독일 식당 메뉴판을 보면 음식 이름 옆에 작은 숫자나 알파벳이 붙어 있는 경우가 많아요. 대부분 알레르기 유발 성분이나 첨가물(Zusatzstoffe) 표시라서, 메뉴판 맨 아래의 설명을 확인하면 돼요.",
+      "특히 대도시에는 채식이나 비건 메뉴가 있는 식당이 많고, 메뉴에 작은 잎사귀 표시를 해 두기도 해요. 그래도 확실하지 않으면 종업원에게 직접 물어보는 게 제일 좋아요.",
+      "마트에는 보통 laktosefrei, glutenfrei 제품 코너가 따로 있어요. 드럭스토어나 유기농 가게(Bioladen)에도 종류가 많아요. 🛒"
+    ],
+    "quiz": {"q": "식당에서 견과류 알레르기가 있다고 말하려고요. 맞는 문장은?", "o": ["Ich bin allergisch zu Nüssen.", "Ich esse gern Nüsse.", "Ich bin allergisch gegen Nüsse."], "a": 2, "why": "독일어에서는 allergisch 다음에 gegen + 4격을 써요."},
+    "outro": "내가 못 먹거나 안 먹는 음식을 하나 골라서 Ich bin allergisch gegen … 또는 Ich vertrage kein … 문장으로 소리 내서 말해 봐요. 다음 외식 때 바로 써먹을 수 있어요! 🍽️"
+  },
+  "en": {
+    "title": "Saying what you can't eat: 10 German diet words",
+    "hook": "Reading a German menu is one thing — explaining what you can't eat is another.",
+    "intro": [
+      "You're out for a friend's birthday dinner. Milk upsets your stomach, and your friend's husband is allergic to nuts. Now someone has to explain all that to the waiter — in German.",
+      "Today's ten words cover vegetarian and vegan food, allergies, intolerances and gluten- or lactose-free products. With them you can order safely in restaurants and shop with confidence. 🥗"
+    ],
+    "words": {
+      "B1-1317": {"pron": "veh-geh-TAH-rish", "tip": "English vegetarian plus -isch 🥦 It's an adjective, so lower case.", "bonus": "Ask like this: Haben Sie etwas Vegetarisches?"},
+      "A2-974": {"pron": "veh-geh-TAH-ree-er", "tip": "-er means ‘a person who…’ 🙋 Someone who eats vegetarian = Vegetarier.", "warn": "No article: Ich bin Vegetarier. A woman says Vegetarierin."},
+      "B2-1216": {"pron": "veh-GAHN", "tip": "Stress the second syllable: veh-GAHN 🌱 The English ‘VEE-gan’ may not be understood.", "bonus": "a vegan (person) = der Veganer / die Veganerin"},
+      "B2-1103": {"pron": "al-er-GEE", "tip": "Just like allergy, but the stress jumps to the end 🤧 al-er-GEE.", "bonus": "an allergy to something = eine Allergie gegen + accusative"},
+      "B2-1104": {"pron": "a-LAIR-gish", "tip": "Allergie + -isch = allergic 🥜 It teams up with gegen (against).", "warn": "Not zu like English ‘to’: allergisch gegen Nüsse."},
+      "B2-2464": {"pron": "gloo-TAYN-fry", "tip": "Gluten + frei 🍞 Here frei means ‘without’, not ‘free of charge’.", "bonus": "Same pattern: zuckerfrei (sugar-free), alkoholfrei (alcohol-free)"},
+      "B2-2463": {"pron": "lak-TOH-zuh-fry", "tip": "Laktose + frei 🥛 You'll spot it all over the supermarket dairy aisle.", "bonus": "lactose intolerance = die Laktoseintoleranz"},
+      "B2-1215": {"pron": "OON-fair-trayg-likh-kite", "tip": "un (not) + vertragen (tolerate) + -keit 😣 -keit nouns are always die.", "bonus": "More common in conversation: Ich vertrage keine Milch. (Milk doesn't agree with me.)"},
+      "B1-017": {"pron": "air-NAIR-oong", "tip": "From nähren (to nourish) + -ung 🍎 Same family as Nahrung (food).", "warn": "A weight-loss diet is die Diät. Ernährung is what you eat in general."},
+      "B2-1212": {"pron": "ka-lo-REE", "tip": "From Latin calor (heat) 🔥 The energy your body burns.", "warn": "Plural: die Kalorien, pronounced ka-lo-REE-en."}
+    },
+    "culture": [
+      "On German menus you'll often see small numbers or letters next to dishes. They usually mark allergens and additives (Zusatzstoffe), and the key is at the bottom of the menu.",
+      "Especially in big cities, lots of restaurants offer vegetarian and vegan dishes, sometimes marked with a little leaf. If you're not sure, it's always best to ask the staff directly.",
+      "Supermarkets usually have a shelf for laktosefrei and glutenfrei products, and chemists and organic shops (Bioladen) often stock even more. 🛒"
+    ],
+    "quiz": {"q": "You want to tell the waiter you're allergic to nuts. Which sentence is right?", "o": ["Ich bin allergisch zu Nüssen.", "Ich esse gern Nüsse.", "Ich bin allergisch gegen Nüsse."], "a": 2, "why": "In German, allergisch is followed by gegen + accusative."},
+    "outro": "Pick one food you can't or don't eat and say it out loud: Ich bin allergisch gegen … or Ich vertrage kein … You'll be ready for your next meal out! 🍽️"
+  },
+  "ja": {
+    "title": "レストランで「これは食べられません」と伝えるドイツ語10",
+    "hook": "メニューを読めることと同じくらい大切なのが、食べられないものを説明することです。",
+    "intro": [
+      "友だちの誕生日ディナーに招かれました。でも私は牛乳を飲むとおなかが痛くなるし、友だちのご主人はナッツアレルギー。みんなでレストランに行ったけれど、店員さんにどう説明しよう？",
+      "今日はベジタリアン、ヴィーガン、アレルギー、グルテン・乳糖フリーなど、食事に関する単語10個です。これでレストランでもパン屋さんでも、自分の体に合うものを自信を持って選べます。🥗"
+    ],
+    "words": {
+      "B1-1317": {"pron": "ヴェゲターリッシュ", "tip": "英語の vegetarian に -isch を付けただけ 🥦 形容詞なので小文字です！", "bonus": "こう聞いてみましょう：Haben Sie etwas Vegetarisches?"},
+      "A2-974": {"pron": "ヴェゲターリアー", "tip": "-er は「〜する人」🙋 菜食する人 = Vegetarier！", "warn": "冠詞なしで言います：Ich bin Vegetarier. 女性は Vegetarierin。"},
+      "B2-1216": {"pron": "ヴェガーン", "tip": "「ヴェ・ガーン」と後ろを長く強く 🌱 英語風に「ヴィーガン」と言うと通じにくいことも。", "bonus": "ヴィーガンの人 = der Veganer / die Veganerin"},
+      "B2-1103": {"pron": "アレルギー", "tip": "日本語のアレルギーとそっくり 🤧 ただしアクセントは最後の -gie に！", "bonus": "〜のアレルギー = eine Allergie gegen + 4格"},
+      "B2-1104": {"pron": "アレルギッシュ", "tip": "Allergie + -isch = アレルギーがある 🥜 gegen（〜に対して）と一緒に使います。", "warn": "英語の allergic to のように zu は使いません：allergisch gegen Nüsse。"},
+      "B2-2464": {"pron": "グルテーンフライ", "tip": "Gluten + frei（〜なし）🍞 frei は「無料」ではなく「抜き」の意味！", "bonus": "同じパターン：zuckerfrei（砂糖不使用）、alkoholfrei（ノンアルコール）"},
+      "B2-2463": {"pron": "ラクトーゼフライ", "tip": "Laktose（乳糖）+ frei 🥛 スーパーの牛乳コーナーでよく見かけます。", "bonus": "乳糖不耐症 = die Laktoseintoleranz"},
+      "B2-1215": {"pron": "ウンフェアトレークリッヒカイト", "tip": "un（不）+ vertragen（耐える）+ -keit = 体が受けつけないこと 😣 -keit なので die！", "bonus": "会話ではこちらが自然：Ich vertrage keine Milch.（牛乳が体に合いません）"},
+      "B1-017": {"pron": "エアネールング", "tip": "nähren（栄養を与える）+ -ung 🍎 Nahrung（食べ物）の仲間です。", "warn": "痩せるための「ダイエット」は die Diät。Ernährung はふだんの食生活全体です。"},
+      "B2-1212": {"pron": "カロリー", "tip": "ラテン語の calor（熱）から 🔥 体で燃える熱量！", "warn": "複数形は die Kalorien、「カロリーエン」のように -en が付きます。"}
+    },
+    "culture": [
+      "ドイツのレストランのメニューには、料理名の横に小さな数字やアルファベットが付いていることがよくあります。たいていアレルゲンや添加物（Zusatzstoffe）の表示なので、メニューのいちばん下の説明を見ればわかります。",
+      "特に大都市では、ベジタリアンやヴィーガン料理のある店がたくさんあり、小さな葉っぱのマークが付いていることもあります。それでも不安なときは、店員さんに直接聞くのがいちばんです。",
+      "スーパーにはふつう laktosefrei や glutenfrei の商品棚があり、ドラッグストアやオーガニックの店（Bioladen）にはさらに種類が豊富です。🛒"
+    ],
+    "quiz": {"q": "レストランでナッツアレルギーがあると伝えたいです。正しい文は？", "o": ["Ich bin allergisch zu Nüssen.", "Ich esse gern Nüsse.", "Ich bin allergisch gegen Nüsse."], "a": 2, "why": "ドイツ語では allergisch のあとに gegen + 4格を使います。"},
+    "outro": "食べられない・食べないものをひとつ選んで、Ich bin allergisch gegen … や Ich vertrage kein … と声に出してみましょう。次の外食ですぐ使えます！🍽️"
+  }
+}

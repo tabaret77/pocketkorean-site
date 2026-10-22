@@ -1,0 +1,84 @@
+{
+  "key": "castles",
+  "ko": {
+    "title": "독일 성 여행이 두 배로 재밌어지는 단어 10",
+    "hook": "독일에서 ‘성’이라고 다 같은 성이 아니에요. Burg랑 Schloss, 구분할 수 있나요?",
+    "intro": [
+      "주말에 라인강 기차를 탔는데, 창밖으로 언덕마다 성이 하나씩 나타나요. 옆자리 할머니가 “Das ist eine Burg, kein Schloss!” 하고 알려 주셨는데, 둘 다 성 아닌가요?",
+      "오늘은 성과 유적지에서 만나는 단어 10개예요. 성의 종류 구분하기, 안내판 읽기, 투어에서 설명 알아듣기까지 이 10개면 성 여행이 훨씬 깊어져요. 🏰"
+    ],
+    "words": {
+      "A2-570": {"pron": "슐로스", "tip": "schließen(잠그다)에서 왔어요 🔒 그래서 ‘자물쇠’라는 뜻도 있어요!", "warn": "Schloss는 보통 왕족이 살던 궁전 같은 성이에요. 복수는 die Schlösser."},
+      "B1-547": {"pron": "부르크", "tip": "영어 borough, 도시 이름 -burg와 같은 뿌리 ⚔️ 산 위에서 지키는 성!", "bonus": "기사는 der Ritter · 함부르크(Hamburg)의 burg도 같은 말이에요."},
+      "B2-3608": {"pron": "루이네", "tip": "영어 ruin과 같아요 🏚️ 끝의 -e를 꼭 붙여서 ‘루이네’!", "bonus": "무너진 성터 = die Burgruine"},
+      "B1-561": {"pron": "뎅크말", "tip": "denken(생각하다) + Mal(표시) = 생각나게 하는 표시, 기념비 🗿", "warn": "복수는 움라우트 + -er: die Denkmäler."},
+      "B2-2989": {"pron": "팔라스트", "tip": "로마 팔라티노 언덕에서 온 말 👑 영어 palace랑 사촌!", "warn": "복수는 die Paläste. 독일 성 이름에는 Palast보다 Schloss가 훨씬 많이 쓰여요."},
+      "B2-3231": {"pron": "페스퉁", "tip": "fest(단단한) + -ung = 단단히 굳힌 곳, 요새 🛡️ -ung이니까 die!", "bonus": "fest는 festhalten(꽉 잡다)의 그 fest예요."},
+      "B1-782": {"pron": "히스토리쉬", "tip": "영어 historic에 -isch만 붙이면 끝 📜", "bonus": "명사 ‘역사’는 보통 die Geschichte라고 해요."},
+      "B2-3136": {"pron": "그라벤", "tip": "graben(파다)으로 판 것 = 도랑, 해자 🕳️ 영어 grave(무덤)도 친척이에요.", "bonus": "성 둘레의 물 해자는 der Burggraben 또는 der Wassergraben"},
+      "C1-841": {"pron": "미텔알터리히", "tip": "Mittel(가운데) + Alter(시대) = 중세 🛡️ 라틴어 medium aevum을 그대로 옮긴 말!", "bonus": "명사 ‘중세’는 das Mittelalter"},
+      "B1-2162": {"pron": "클로스터", "tip": "라틴어 claustrum(닫힌 곳) ⛪ 담장 안에 닫힌 수도원, 영어 cloister랑 같아요.", "warn": "복수는 die Klöster."}
+    },
+    "culture": [
+      "독일 사람들은 Burg와 Schloss를 꽤 엄격하게 나눠요. Burg는 주로 중세에 방어를 위해 산이나 언덕 위에 지은 성이고, Schloss는 그보다 나중에 귀족이 편하게 살려고 지은 궁전 같은 성이에요.",
+      "가장 유명한 노이슈반슈타인 성(Schloss Neuschwanstein)은 의외로 중세 성이 아니라 19세기에 바이에른 왕 루트비히 2세가 지은 성이에요. 중세 기사 이야기를 좋아한 왕이 꿈을 그대로 지은 셈이죠.",
+      "라인강이나 모젤강을 따라가면 언덕마다 성과 성터(Ruine)가 이어져요. 성 내부는 가이드 투어(Führung)로만 볼 수 있는 곳이 많으니, 가기 전에 투어 시간을 확인해 보세요. 🗺️"
+    ],
+    "quiz": {"q": "산 위에 있는, 중세에 방어용으로 지은 성은 독일어로 보통 뭐라고 할까요?", "o": ["die Burg", "das Kloster", "das Denkmal"], "a": 0, "why": "방어용 성은 die Burg, 궁전 같은 성은 das Schloss예요."},
+    "outro": "다음에 성 사진을 보면 Burg인지 Schloss인지 독일어로 맞혀 봐요. Das ist eine Burg! 하고 소리 내서요. 🏰"
+  },
+  "en": {
+    "title": "Burg or Schloss? 10 words for German castles",
+    "hook": "Not every castle in Germany is the same kind of castle. Do you know a Burg from a Schloss?",
+    "intro": [
+      "You're on a train along the Rhine, and a castle appears on almost every hill. The woman next to you points and says, “Das ist eine Burg, kein Schloss!” Aren't they both castles?",
+      "Today's ten words are for castles and historic sites. With them you can tell the types of castle apart, read the information boards and follow a guided tour. 🏰"
+    ],
+    "words": {
+      "A2-570": {"pron": "SHLOSS", "tip": "From schließen (to lock) 🔒 That's why it also means ‘lock’!", "warn": "A Schloss is usually a palace-style castle where royals lived. Plural: die Schlösser."},
+      "B1-547": {"pron": "BOORK", "tip": "Same root as English borough and towns ending in -burg ⚔️ A castle that guards the hill.", "bonus": "A knight is der Ritter. The burg in Hamburg is the same word."},
+      "B2-3608": {"pron": "roo-EE-nuh", "tip": "Just like English ruin 🏚️ Don't forget the -e at the end.", "bonus": "A ruined castle = die Burgruine"},
+      "B1-561": {"pron": "DENK-mahl", "tip": "denken (think) + Mal (mark) = a mark that makes you think 🗿", "warn": "Plural with umlaut and -er: die Denkmäler."},
+      "B2-2989": {"pron": "pa-LAST", "tip": "From the Palatine Hill in Rome 👑 Cousin of English palace.", "warn": "Plural: die Paläste. German castle names use Schloss far more often than Palast."},
+      "B2-3231": {"pron": "FES-toong", "tip": "fest (firm, like fast) + -ung = a place made solid: a fortress 🛡️ -ung means die.", "bonus": "The same fest as in festhalten (to hold tight)."},
+      "B1-782": {"pron": "his-TOH-rish", "tip": "English historic + -isch, done 📜", "bonus": "The everyday noun for history is die Geschichte."},
+      "B2-3136": {"pron": "GRAH-ben", "tip": "What you get when you graben (dig): a ditch or moat 🕳️ English grave is related.", "bonus": "A castle moat is der Burggraben or der Wassergraben."},
+      "C1-841": {"pron": "MIT-el-al-ter-likh", "tip": "Mittel (middle) + Alter (age) = Middle Ages 🛡️ A word-for-word copy of Latin medium aevum.", "bonus": "The noun is das Mittelalter."},
+      "B1-2162": {"pron": "KLOH-ster", "tip": "Latin claustrum (closed place) ⛪ A walled-in monastery — like English cloister.", "warn": "Plural: die Klöster."}
+    },
+    "culture": [
+      "Germans keep Burg and Schloss quite separate. A Burg is usually a medieval castle built on a hill for defence. A Schloss is a later, palace-like residence built for nobles to live in comfort.",
+      "The most famous of all, Schloss Neuschwanstein, isn't medieval at all. It was built in the 19th century by King Ludwig II of Bavaria, who loved tales of medieval knights and built his dream in stone.",
+      "Along the Rhine and the Moselle you'll see one castle or ruin after another. Many interiors can only be visited on a guided tour (Führung), so check tour times before you go. 🗺️"
+    ],
+    "quiz": {"q": "What do you usually call a medieval castle on a hill, built for defence?", "o": ["die Burg", "das Kloster", "das Denkmal"], "a": 0, "why": "A defensive castle is die Burg; a palace-style one is das Schloss."},
+    "outro": "Next time you see a castle photo, decide out loud: Das ist eine Burg! or Das ist ein Schloss! 🏰"
+  },
+  "ja": {
+    "title": "ドイツの城めぐりが楽しくなる単語10",
+    "hook": "ドイツの「城」はみんな同じではありません。Burg と Schloss、区別できますか？",
+    "intro": [
+      "週末にライン川沿いの列車に乗ると、窓の外には丘ごとにお城が現れます。隣のおばあさんが「Das ist eine Burg, kein Schloss!」と教えてくれましたが、どちらも城ではないの？",
+      "今日は城や史跡で出会う単語を10個集めました。城の種類を見分ける、案内板を読む、ガイドツアーの説明を聞き取る。この10個で城めぐりがぐっと深くなります。🏰"
+    ],
+    "words": {
+      "A2-570": {"pron": "シュロス", "tip": "schließen（鍵をかける）から 🔒 だから「錠前」の意味もあります！", "warn": "Schloss はふつう王侯が住んだ宮殿風の城。複数は die Schlösser。"},
+      "B1-547": {"pron": "ブルク", "tip": "英語の borough や地名の -burg と同じ語源 ⚔️ 丘の上で守る城！", "bonus": "騎士は der Ritter。ハンブルク（Hamburg）の burg も同じ言葉です。"},
+      "B2-3608": {"pron": "ルイーネ", "tip": "英語の ruin と同じ 🏚️ 最後の -e を忘れずに「ルイーネ」！", "bonus": "崩れた城跡 = die Burgruine"},
+      "B1-561": {"pron": "デンクマール", "tip": "denken（考える）+ Mal（しるし）= 思い出させるしるし、記念碑 🗿", "warn": "複数はウムラウト＋-er：die Denkmäler。"},
+      "B2-2989": {"pron": "パラスト", "tip": "ローマのパラティーノの丘から 👑 英語 palace のいとこ！", "warn": "複数は die Paläste。ドイツの城の名前には Palast より Schloss のほうがずっと多いです。"},
+      "B2-3231": {"pron": "フェストゥング", "tip": "fest（固い）+ -ung = 固めた場所、要塞 🛡️ -ung なので die！", "bonus": "festhalten（しっかりつかむ）の fest と同じです。"},
+      "B1-782": {"pron": "ヒストーリッシュ", "tip": "英語の historic に -isch をつけるだけ 📜", "bonus": "名詞の「歴史」はふつう die Geschichte と言います。"},
+      "B2-3136": {"pron": "グラーベン", "tip": "graben（掘る）で掘ったもの = 溝、堀 🕳️ 英語の grave（墓）も親戚です。", "bonus": "城のまわりの水堀は der Burggraben や der Wassergraben"},
+      "C1-841": {"pron": "ミッテルアルターリヒ", "tip": "Mittel（中間の）+ Alter（時代）= 中世の 🛡️ ラテン語 medium aevum の直訳！", "bonus": "名詞「中世」は das Mittelalter"},
+      "B1-2162": {"pron": "クロースター", "tip": "ラテン語 claustrum（閉ざされた場所）⛪ 壁に囲まれた修道院、英語の cloister と同じ。", "warn": "複数は die Klöster。"}
+    },
+    "culture": [
+      "ドイツ人は Burg と Schloss をかなりきちんと区別します。Burg は主に中世に防御のため山や丘の上に建てた城、Schloss はそれより後に貴族が快適に暮らすために建てた宮殿風の城です。",
+      "いちばん有名なノイシュヴァンシュタイン城（Schloss Neuschwanstein）は、実は中世の城ではなく、19世紀にバイエルン王ルートヴィヒ2世が建てたものです。中世の騎士物語が大好きだった王が、夢をそのまま形にしたのです。",
+      "ライン川やモーゼル川沿いでは、丘ごとに城や城跡（Ruine）が続きます。内部はガイドツアー（Führung）でしか見られない所も多いので、行く前にツアーの時間を確かめておきましょう。🗺️"
+    ],
+    "quiz": {"q": "丘の上にある、中世に防御のために建てられた城はふつう何と言いますか？", "o": ["die Burg", "das Kloster", "das Denkmal"], "a": 0, "why": "防御用の城は die Burg、宮殿風の城は das Schloss です。"},
+    "outro": "次にお城の写真を見たら、Das ist eine Burg! か Das ist ein Schloss! か、声に出して当ててみましょう。🏰"
+  }
+}

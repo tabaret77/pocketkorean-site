@@ -1,0 +1,84 @@
+{
+  "key": "rent",
+  "ko": {
+    "title": "독일 집 계약 전에 꼭 알아야 할 단어 10",
+    "hook": "독일 집 광고에 적힌 숫자, 사실 두 종류라는 거 알고 있었나요?",
+    "intro": [
+      "드디어 마음에 드는 집 광고를 찾았어요. 그런데 \"Kaltmiete 750 €, Nebenkosten 200 €\"? 월세가 750유로라는 건지 950유로라는 건지, 계약서는 또 왜 이렇게 길죠?",
+      "오늘은 집을 구하고 계약할 때 꼭 나오는 단어 10개를 모았어요. 이걸 알면 집 광고를 정확히 읽고, 집주인과 이야기하고, 1년에 한 번 오는 정산서도 겁내지 않을 수 있어요. 🏠"
+    ],
+    "words": {
+      "A2-003": {"pron": "미테", "tip": "mieten(빌리다)의 명사 💶 매달 나가는 그 돈이에요.", "bonus": "die Miete zahlen = 월세를 내다"},
+      "BL-05-10": {"pron": "미트페어트락", "tip": "Miete(월세) + Vertrag(계약) = 임대 계약서 📝 서명 전에 꼼꼼히!", "warn": "복수는 움라우트: die Mietverträge"},
+      "A2-002": {"pron": "페어미터", "tip": "ver- 붙으면 ‘빌려주는’ 쪽 🔑 열쇠를 가진 사람이 Vermieter!", "bonus": "여성은 die Vermieterin"},
+      "B1-949": {"pron": "미터", "tip": "mieten + -er = 빌리는 사람 🙋 바로 우리예요!", "bonus": "같은 집에 사는 다른 세입자 = der Mitmieter"},
+      "A2-164": {"pron": "미텐", "tip": "돈 내고 빌리면 mieten 🚗 집도 차도 자전거도!", "warn": "돈 안 내고 빌리면 leihen이에요. Kannst du mir dein Buch leihen?"},
+      "A2-054": {"pron": "페어미텐", "tip": "ver- + mieten = 세를 놓다 🏘️ 집주인 쪽 동사예요.", "bonus": "광고 문구: Zimmer zu vermieten = 방 세놓음"},
+      "A2-006": {"pron": "네벤코스텐", "tip": "neben(옆에) + Kosten(비용) = 월세 옆에 붙는 돈 💧 물, 쓰레기, 청소비 등", "warn": "보통 복수로만 써요: die Nebenkosten sind …"},
+      "B2-1423": {"pron": "칼트미테", "tip": "kalt = 차가운 월세, 난방비가 빠졌으니까 🥶", "bonus": "Kaltmiete + Nebenkosten = Warmmiete"},
+      "BL-05-03": {"pron": "밤미테", "tip": "warm = 따뜻한 월세, 난방비까지 포함 🔥 실제로 매달 내는 돈!", "bonus": "집 볼 때 꼭 물어봐요: Ist das warm oder kalt?"},
+      "B2-2594": {"pron": "네벤코스텐압레히눙", "tip": "Nebenkosten + Abrechnung(정산) 📬 긴 단어지만 레고 두 개예요.", "warn": "-ung으로 끝나니까 die예요."}
+    },
+    "culture": [
+      "독일 집 광고에서는 Kaltmiete와 Warmmiete를 꼭 구분해서 봐야 해요. 보통 Nebenkosten은 매달 미리 일정 금액을 내고, 1년에 한 번 실제 사용량으로 정산해요.",
+      "그래서 Nebenkostenabrechnung이 오면 돈을 돌려받기도 하고, 더 내야(nachzahlen) 하기도 해요. 겨울에 난방을 많이 했다면 마음의 준비를 해 두세요.",
+      "그리고 독일에서는 빈집에 부엌이 없는 경우도 있어요. 집을 볼 때 Einbauküche(붙박이 부엌)가 있는지 꼭 확인해요. 🔑"
+    ],
+    "quiz": {"q": "집 광고에 Kaltmiete 700 €, Nebenkosten 150 €라고 적혀 있어요. 매달 실제로 내는 금액은 뭐라고 할까요?", "o": ["die Nebenkostenabrechnung", "die Warmmiete", "der Mietvertrag"], "a": 1, "why": "Kaltmiete에 Nebenkosten을 더한 금액이 Warmmiete예요."},
+    "outro": "오늘은 집 광고 하나를 찾아서 Kaltmiete와 Warmmiete를 소리 내 읽어 봐요. 좋은 집, 좋은 집주인을 만나길 바라요! 🍀"
+  },
+  "en": {
+    "title": "Renting in Germany: 10 words to know before you sign",
+    "hook": "That number in a German flat ad? There are actually two of them.",
+    "intro": [
+      "You've finally found a flat you like. But the ad says \"Kaltmiete 750 €, Nebenkosten 200 €\". So is the rent 750 or 950? And why is the contract so long?",
+      "Today's ten words come up every time you look for a flat and sign a lease. With them you can read ads properly, talk to your landlord and open the yearly bill statement without panic. 🏠"
+    ],
+    "words": {
+      "A2-003": {"pron": "MEE-tuh", "tip": "The noun from mieten (to rent) 💶 The money that leaves your account every month.", "bonus": "die Miete zahlen = to pay the rent"},
+      "BL-05-10": {"pron": "MEET-fair-trahk", "tip": "Miete (rent) + Vertrag (contract) = lease 📝 Read it before you sign!", "warn": "Plural with umlaut: die Mietverträge"},
+      "A2-002": {"pron": "fair-MEE-ter", "tip": "Add ver- and you're on the letting side 🔑 The one with the keys.", "bonus": "A female landlord: die Vermieterin"},
+      "B1-949": {"pron": "MEE-ter", "tip": "mieten + -er = the person who rents 🙋 That's you!", "bonus": "a flatmate on the same lease = der Mitmieter"},
+      "A2-164": {"pron": "MEE-ten", "tip": "Pay to use it? Then it's mieten 🚗 Flats, cars, bikes.", "warn": "Borrowing for free is leihen: Kannst du mir dein Buch leihen?"},
+      "A2-054": {"pron": "fair-MEE-ten", "tip": "ver- + mieten = to let out 🏘️ The landlord's verb.", "bonus": "In ads: Zimmer zu vermieten = room to let"},
+      "A2-006": {"pron": "NAY-ben-kos-ten", "tip": "neben (beside) + Kosten (costs) = the costs next to the rent 💧 Water, rubbish, cleaning…", "warn": "Almost always plural: die Nebenkosten sind …"},
+      "B2-1423": {"pron": "KALT-mee-tuh", "tip": "‘Cold rent’ — the heating isn't included 🥶", "bonus": "Kaltmiete + Nebenkosten = Warmmiete"},
+      "BL-05-03": {"pron": "VARM-mee-tuh", "tip": "‘Warm rent’ — heating and bills included 🔥 What you actually pay.", "bonus": "Always ask at a viewing: Ist das warm oder kalt?"},
+      "B2-2594": {"pron": "NAY-ben-kos-ten-AP-resh-noong", "tip": "Nebenkosten + Abrechnung (statement) 📬 Long, but only two Lego bricks.", "warn": "Ends in -ung, so it's die."}
+    },
+    "culture": [
+      "In German flat ads, always check whether the price is Kaltmiete or Warmmiete. Usually you pay a fixed amount for Nebenkosten every month, and once a year it's settled against what you actually used.",
+      "So when the Nebenkostenabrechnung arrives, you might get money back — or have to pay extra (nachzahlen). If you heated a lot last winter, be prepared.",
+      "Also, unfurnished flats in Germany sometimes come without a kitchen. At a viewing, check whether there's an Einbauküche (fitted kitchen). 🔑"
+    ],
+    "quiz": {"q": "An ad says Kaltmiete 700 €, Nebenkosten 150 €. What do you call the total you pay each month?", "o": ["die Nebenkostenabrechnung", "die Warmmiete", "der Mietvertrag"], "a": 1, "why": "Kaltmiete plus Nebenkosten makes the Warmmiete."},
+    "outro": "Find a real flat ad today and read the Kaltmiete and Warmmiete out loud. Good luck finding a great flat — and a kind landlord! 🍀"
+  },
+  "ja": {
+    "title": "ドイツで部屋を借りる前に知っておきたい単語10",
+    "hook": "ドイツの物件広告の家賃、じつは2種類あるって知っていましたか？",
+    "intro": [
+      "やっと気に入った物件を見つけました。でも広告には「Kaltmiete 750 €, Nebenkosten 200 €」。家賃は750ユーロ？それとも950ユーロ？契約書もなぜこんなに長いの？",
+      "今日は部屋探しと契約で必ず出てくる単語を10個集めました。これで広告を正しく読めて、大家さんと話せて、年に一度届く精算書もこわくなくなります。🏠"
+    ],
+    "words": {
+      "A2-003": {"pron": "ミーテ", "tip": "mieten（借りる）の名詞 💶 毎月出ていくあのお金です。", "bonus": "die Miete zahlen = 家賃を払う"},
+      "BL-05-10": {"pron": "ミートフェアトラーク", "tip": "Miete（家賃）+ Vertrag（契約）= 賃貸契約書 📝 サインの前にしっかり読んで！", "warn": "複数形はウムラウト：die Mietverträge"},
+      "A2-002": {"pron": "フェアミーター", "tip": "ver- がつくと「貸す」側 🔑 鍵を持っている人が Vermieter！", "bonus": "女性の大家さんは die Vermieterin"},
+      "B1-949": {"pron": "ミーター", "tip": "mieten + -er = 借りる人 🙋 つまり私たちです！", "bonus": "同じ契約の同居人 = der Mitmieter"},
+      "A2-164": {"pron": "ミーテン", "tip": "お金を払って借りるなら mieten 🚗 部屋も車も自転車も！", "warn": "無料で借りるのは leihen：Kannst du mir dein Buch leihen?"},
+      "A2-054": {"pron": "フェアミーテン", "tip": "ver- + mieten = 貸し出す 🏘️ 大家さん側の動詞です。", "bonus": "広告で：Zimmer zu vermieten = 貸し部屋あり"},
+      "A2-006": {"pron": "ネーベンコステン", "tip": "neben（横に）+ Kosten（費用）= 家賃の横につくお金 💧 水道、ごみ、清掃など", "warn": "ふつう複数形で使います：die Nebenkosten sind …"},
+      "B2-1423": {"pron": "カルトミーテ", "tip": "kalt =「冷たい家賃」、暖房費が入っていないから 🥶", "bonus": "Kaltmiete + Nebenkosten = Warmmiete"},
+      "BL-05-03": {"pron": "ヴァルムミーテ", "tip": "warm =「温かい家賃」、暖房費まで込み 🔥 実際に毎月払う額！", "bonus": "内見で必ず聞きましょう：Ist das warm oder kalt?"},
+      "B2-2594": {"pron": "ネーベンコステンアップレヒヌング", "tip": "Nebenkosten + Abrechnung（精算）📬 長いけどレゴ2個です。", "warn": "-ung で終わるので die です。"}
+    },
+    "culture": [
+      "ドイツの物件広告では Kaltmiete と Warmmiete を必ず区別して見ましょう。ふつう Nebenkosten は毎月一定額を前払いし、年に一度、実際の使用量で精算します。",
+      "そのため Nebenkostenabrechnung が届くと、お金が戻ってくることもあれば、追加で払う（nachzahlen）こともあります。冬に暖房をたくさん使ったなら覚悟しておきましょう。",
+      "また、ドイツでは家具なしの部屋にキッチンがついていないこともあります。内見では Einbauküche（備え付けキッチン）があるか確認しましょう。🔑"
+    ],
+    "quiz": {"q": "広告に Kaltmiete 700 €, Nebenkosten 150 € とあります。毎月実際に払う合計額は何と言いますか？", "o": ["die Nebenkostenabrechnung", "die Warmmiete", "der Mietvertrag"], "a": 1, "why": "Kaltmiete に Nebenkosten を足した額が Warmmiete です。"},
+    "outro": "今日は物件広告をひとつ探して、Kaltmiete と Warmmiete を声に出して読んでみましょう。いい部屋といい大家さんに出会えますように！🍀"
+  }
+}

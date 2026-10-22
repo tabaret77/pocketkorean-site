@@ -1,0 +1,84 @@
+{
+  "key": "bank",
+  "ko": {
+    "title": "독일 은행 창구에서 당황하지 않는 단어 10",
+    "hook": "독일에 오면 집 다음으로 바로 필요한 게 은행 계좌예요.",
+    "intro": [
+      "월세를 내려고 해도, 월급을 받으려고 해도 독일 계좌가 있어야 해요. 그런데 은행 직원이 IBAN이 어쩌고, PIN이 어쩌고… 말이 너무 빨라요.",
+      "오늘은 은행에서 꼭 듣게 되는 단어 10개를 모았어요. 이 단어들만 알면 계좌 개설부터 ATM에서 돈 뽑기, 친구에게 송금까지 혼자서 할 수 있어요. 🏦"
+    ],
+    "words": {
+      "BL-06-01": {"pron": "방크", "tip": "원래 ‘긴 의자’라는 뜻! 옛날 환전상이 벤치에 앉아 돈을 셌대요 🪑", "warn": "복수가 두 개예요: Banken = 은행들, Bänke = 벤치들."},
+      "BL-06-02": {"pron": "콘토", "tip": "영어 account의 count처럼 ‘세다’에서 왔어요 🧮 돈을 세어 두는 곳 = 계좌!", "warn": "복수는 Kontos가 아니라 die Konten이에요."},
+      "BL-06-03": {"pron": "에어외프넨", "tip": "öffnen(열다)에 er-를 붙이면 ‘새로 열다’ 🎉 계좌도 가게도 eröffnen!", "bonus": "반대말: ein Konto kündigen = 계좌를 해지하다"},
+      "A2-118": {"pron": "바르겔트", "tip": "bar(맨손의) + Geld(돈) = 손에 쥔 맨 돈 💶 bar bezahlen = 현금으로 내다", "bonus": "Zahlen Sie bar oder mit Karte? = 현금이세요, 카드세요?"},
+      "A2-029": {"pron": "겔트아우토마트", "tip": "Geld(돈) + Automat(자동 기계) = 돈 나오는 기계 🏧 그대로 붙이면 끝!", "bonus": "줄여서 그냥 Automat라고도 해요."},
+      "BL-06-06": {"pron": "압헤벤", "tip": "ab(떼어) + heben(들어 올리다) = 계좌에서 돈을 들어 올려 빼기 ✈️ 비행기가 이륙할 때도 abheben!", "warn": "분리동사예요: Ich hebe Geld ab. / 완료형 hat abgehoben"},
+      "B1-2542": {"pron": "에체카르테", "tip": "EC는 ‘에-체’라고 읽어요 💳 독일 마트에서 가장 많이 내미는 카드!", "bonus": "요즘은 Girocard 또는 Debitkarte라고도 불러요."},
+      "BL-06-08": {"pron": "핀", "tip": "영어 PIN 그대로, 그런데 Nummer(번호)가 여성이라 die PIN 🔢", "bonus": "PIN을 입력하다 = die PIN eingeben"},
+      "A2-062": {"pron": "위버바이젠", "tip": "über(건너) + weisen(가리키다) = 돈을 저쪽으로 건너보내기 💸", "warn": "비분리동사라 ge-가 없어요: Ich habe das Geld überwiesen."},
+      "BL-06-04": {"pron": "이반", "tip": "‘이반’이라는 사람 이름처럼 읽어요 🙋 Nummer가 여성이니 die IBAN!", "bonus": "DE로 시작하면 독일 계좌예요."}
+    },
+    "culture": [
+      "독일은 아직도 현금을 꽤 좋아하는 나라예요. 요즘은 카드 되는 곳이 많이 늘었지만, 작은 빵집이나 동네 Kneipe에서는 ‘Nur Bargeld’(현금만)라는 안내를 보는 일이 여전히 있어요.",
+      "월세나 공과금은 보통 계좌 이체(Überweisung)나 자동 이체(Lastschrift)로 내요. 그래서 집 계약서나 회사 서류에 IBAN을 적는 칸이 꼭 있어요.",
+      "ATM을 쓸 때는 자기 은행이나 같은 그룹 은행 기계를 쓰는 게 좋아요. 다른 은행 기계에서는 수수료가 붙는 경우가 많거든요. 💶"
+    ],
+    "quiz": {"q": "ATM 앞에서 친구가 ‘돈을 뽑아야 해’라고 말하려고 해요. 맞는 문장은?", "o": ["Ich muss Geld überweisen.", "Ich muss Geld abheben.", "Ich muss ein Konto eröffnen."], "a": 1, "why": "Geld abheben = 돈을 인출하다, ATM에서 돈 뽑을 때 쓰는 말이에요."},
+    "outro": "오늘은 ‘Ich möchte ein Konto eröffnen.’을 은행 창구 앞에 선 기분으로 세 번 소리 내 말해 봐요. 💳"
+  },
+  "en": {
+    "title": "Banking in German: 10 words you'll need on day one",
+    "hook": "After a flat, the next thing you need in Germany is a bank account.",
+    "intro": [
+      "Rent, salary, phone contract — everything wants a German account. Then the bank clerk starts talking fast about IBAN this and PIN that.",
+      "Here are ten words you'll definitely hear at the bank. With them you can open an account, take cash out of a machine and send money to a friend on your own. 🏦"
+    ],
+    "words": {
+      "BL-06-01": {"pron": "BUNK", "tip": "It once meant ‘bench’ — money changers sat at benches to count coins 🪑", "warn": "Two plurals: Banken = banks, Bänke = benches."},
+      "BL-06-02": {"pron": "KON-toh", "tip": "Think ac-COUNT: a place where your money is counted 🧮", "warn": "The plural is die Konten, not Kontos."},
+      "BL-06-03": {"pron": "air-ERF-nen", "tip": "öffnen (open) + er- = open something new 🎉 Accounts, shops, exhibitions — all eröffnen.", "bonus": "The opposite: ein Konto kündigen = to close an account"},
+      "A2-118": {"pron": "BAR-gelt", "tip": "bar (bare) + Geld (money) = bare money in your hand 💶", "bonus": "Zahlen Sie bar oder mit Karte? = Cash or card?"},
+      "A2-029": {"pron": "GELT-ow-toh-maht", "tip": "Geld (money) + Automat (machine) = money machine 🏧 Just stick them together.", "bonus": "People often just say der Automat."},
+      "BL-06-06": {"pron": "AP-hay-ben", "tip": "ab (off) + heben (lift, like heave) = lift money off your account ✈️ Planes abheben too — they take off!", "warn": "Separable: Ich hebe Geld ab. Perfect: hat abgehoben."},
+      "B1-2542": {"pron": "AY-tsay-kar-tuh", "tip": "Say the letters the German way: ‘ay-tsay’ 💳 The card everyone pulls out at the supermarket.", "bonus": "Also called Girocard or Debitkarte."},
+      "BL-06-08": {"pron": "PIN", "tip": "Same as English, but feminine because die Nummer is 🔢", "bonus": "to enter your PIN = die PIN eingeben"},
+      "A2-062": {"pron": "ue-ber-VY-zen", "tip": "über (across) + weisen (point) = point your money across to someone else 💸", "warn": "Inseparable, so no ge-: Ich habe das Geld überwiesen."},
+      "BL-06-04": {"pron": "EE-bahn", "tip": "Read it like the name Ivan with a b 🙋 Feminine, because die Nummer.", "bonus": "A German IBAN starts with DE."}
+    },
+    "culture": [
+      "Germany still has a soft spot for cash. Card payment is far more common than it used to be, but at small bakeries or a local Kneipe you may still see a sign saying ‘Nur Bargeld’ (cash only).",
+      "Rent and bills are usually paid by bank transfer (Überweisung) or direct debit (Lastschrift). That's why almost every tenancy or work form has a box for your IBAN.",
+      "When you need cash, try to use your own bank's machines or those of a partner bank. Other machines often charge a fee. 💶"
+    ],
+    "quiz": {"q": "At the cash machine, your friend wants to say ‘I need to get some money out.’ Which sentence fits?", "o": ["Ich muss Geld überweisen.", "Ich muss Geld abheben.", "Ich muss ein Konto eröffnen."], "a": 1, "why": "Geld abheben means to withdraw money, exactly what you do at a cash machine."},
+    "outro": "Say ‘Ich möchte ein Konto eröffnen.’ out loud three times, as if you're standing at the counter. 💳"
+  },
+  "ja": {
+    "title": "ドイツの銀行で困らない単語10",
+    "hook": "ドイツに来たら、住まいの次にすぐ必要になるのが銀行口座です。",
+    "intro": [
+      "家賃を払うにもお給料を受け取るにも、ドイツの口座が必要です。でも窓口ではIBANがどうとか、PINがどうとか、話がとても速いですよね。",
+      "今日は銀行で必ず耳にする単語を10個集めました。これで口座開設からATMでの引き出し、友だちへの送金まで一人でできるようになります。🏦"
+    ],
+    "words": {
+      "BL-06-01": {"pron": "バンク", "tip": "もとは「長いす」！昔の両替商はベンチに座ってお金を数えていたそうです 🪑", "warn": "複数形が2つあります：Banken = 銀行、Bänke = ベンチ。"},
+      "BL-06-02": {"pron": "コント", "tip": "英語の account の count と同じ「数える」から 🧮 お金を数えておく場所が口座！", "warn": "複数形は Kontos ではなく die Konten です。"},
+      "BL-06-03": {"pron": "エアエフネン", "tip": "öffnen（開ける）に er- をつけると「新しく開く」🎉 口座もお店も eröffnen！", "bonus": "反対：ein Konto kündigen = 口座を解約する"},
+      "A2-118": {"pron": "バーゲルト", "tip": "bar（むき出しの）+ Geld（お金）= 手に持つ生のお金 💶 bar bezahlen = 現金で払う", "bonus": "Zahlen Sie bar oder mit Karte? = 現金ですか、カードですか？"},
+      "A2-029": {"pron": "ゲルトアウトマート", "tip": "Geld（お金）+ Automat（自動の機械）= お金が出てくる機械 🏧", "bonus": "短く Automat とだけ言うことも多いです。"},
+      "BL-06-06": {"pron": "アップヘーベン", "tip": "ab（離して）+ heben（持ち上げる）= 口座からお金を持ち上げて出す ✈️ 飛行機の離陸も abheben！", "warn": "分離動詞です：Ich hebe Geld ab. 完了形は hat abgehoben"},
+      "B1-2542": {"pron": "エーツェーカルテ", "tip": "EC はドイツ語読みで「エー・ツェー」💳 スーパーでいちばんよく出すカード！", "bonus": "最近は Girocard や Debitkarte とも呼ばれます。"},
+      "BL-06-08": {"pron": "ピン", "tip": "英語の PIN と同じ。でも Nummer（番号）が女性名詞なので die PIN 🔢", "bonus": "暗証番号を入力する = die PIN eingeben"},
+      "A2-062": {"pron": "ユーバーヴァイゼン", "tip": "über（向こうへ）+ weisen（指し示す）= お金を向こう側へ送る 💸", "warn": "非分離動詞なので ge- がつきません：Ich habe das Geld überwiesen."},
+      "BL-06-04": {"pron": "イーバン", "tip": "人の名前みたいに「イーバン」と読みます 🙋 Nummer が女性名詞なので die IBAN！", "bonus": "DE で始まればドイツの口座です。"}
+    },
+    "culture": [
+      "ドイツはいまも現金がけっこう好きな国です。カードが使えるお店はずいぶん増えましたが、小さなパン屋さんや近所の Kneipe では「Nur Bargeld」（現金のみ）の表示を見かけることがまだあります。",
+      "家賃や公共料金は、ふつう振込（Überweisung）や口座引き落とし（Lastschrift）で払います。だから賃貸契約や会社の書類には、たいてい IBAN を書く欄があります。",
+      "ATMは自分の銀行か、同じグループの銀行の機械を使うのがおすすめです。ほかの銀行の機械だと手数料がかかることが多いからです。💶"
+    ],
+    "quiz": {"q": "ATMの前で、友だちが「お金をおろさなきゃ」と言いたいようです。正しい文は？", "o": ["Ich muss Geld überweisen.", "Ich muss Geld abheben.", "Ich muss ein Konto eröffnen."], "a": 1, "why": "Geld abheben = お金を引き出す。ATMでお金をおろすときの表現です。"},
+    "outro": "今日は「Ich möchte ein Konto eröffnen.」を、窓口に立ったつもりで3回声に出して言ってみましょう。💳"
+  }
+}

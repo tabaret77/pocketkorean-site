@@ -1,0 +1,84 @@
+{
+  "key": "landscape",
+  "ko": {
+    "title": "알프스부터 바닷가까지, 독일 풍경 단어 10",
+    "hook": "기차 창밖으로 지나가는 독일 풍경, 이제 독일어로 하나하나 이름을 불러 줄 수 있어요.",
+    "intro": [
+      "베를린에서 뮌헨까지 기차를 타고 가는 길이에요. 처음엔 끝없이 평평한 들판이더니, 강을 건너고, 언덕이 나오고, 마지막엔 멀리 하얀 산들이 보여요. 엽서를 쓰고 싶은데 ‘산’, ‘강’밖에 생각이 안 나요.",
+      "오늘은 풍경과 지형을 말하는 단어 10개예요. 이 10개면 여행 계획을 세우고, 다녀온 곳을 설명하고, 하이킹 안내판도 읽을 수 있어요. 🏞️"
+    ],
+    "words": {
+      "A2-111": {"pron": "란트샤프트", "tip": "Land(땅) + -schaft = 땅의 모습, 영어 landscape와 쌍둥이 🖼️", "bonus": "-schaft로 끝나는 명사는 언제나 die예요."},
+      "A2-113": {"pron": "베르크", "tip": "하이델베르크, 뉘른베르크… 도시 이름에 숨은 -berg가 바로 산 ⛰️", "bonus": "auf einen Berg wandern = 산에 오르다"},
+      "A1-274": {"pron": "플루스", "tip": "fließen(흐르다)에서 왔어요 🌊 영어 flow와 친척이에요.", "warn": "복수는 움라우트: die Flüsse"},
+      "B1-717": {"pron": "게비르게", "tip": "Ge-(모음) + Berg(산) = 산이 잔뜩 모인 산맥 🏔️", "bonus": "ins Gebirge fahren = 산으로 (놀러) 가다"},
+      "B1-1290": {"pron": "우퍼", "tip": "강물이 ‘우퍼~’ 하고 닿는 물가 🏖️ 강가도 호숫가도 Ufer!", "bonus": "am Ufer = 물가에서"},
+      "B1-1228": {"pron": "탈", "tip": "영어 dale(골짜기)과 같은 뿌리 🏡 산(Berg)과 산 사이엔 Tal!", "warn": "복수는 움라우트: die Täler"},
+      "B1-897": {"pron": "퀴스테", "tip": "영어 coast랑 닮았죠? 라틴어 costa(옆구리)에서 🌅", "bonus": "an der Küste = 해안에서 · 독일 북쪽엔 Nordsee와 Ostsee가 있어요."},
+      "A2-115": {"pron": "인젤", "tip": "라틴어 insula에서 왔어요 🏝️ 영어 insular(섬나라의)와 친척!", "bonus": "반도는 die Halbinsel = 반(halb) + 섬"},
+      "B1-792": {"pron": "휘겔", "tip": "hoch(높은)와 친척일지도 몰라요 🌄 산보다 작은 높은 곳!", "bonus": "hügelig = 언덕이 많은"},
+      "B2-2786": {"pron": "바서팔", "tip": "Wasser(물) + Fall(떨어짐) = 영어 waterfall과 완전 똑같아요 💦", "warn": "복수는 움라우트: die Wasserfälle"}
+    },
+    "culture": [
+      "독일은 북쪽과 남쪽 풍경이 정말 달라요. 북쪽은 평평한 땅과 북해(Nordsee), 발트해(Ostsee) 해안이 펼쳐지고, 남쪽으로 갈수록 언덕과 숲이 많아지다가 바이에른에서는 알프스가 보여요. 독일에서 가장 높은 산은 알프스의 추크슈피체(Zugspitze)예요.",
+      "독일 사람들은 하이킹(Wandern)을 정말 좋아해요. 주말이면 등산화를 신고 숲이나 산으로 가는 사람이 많고, 산장(Hütte)에서 쉬어 가는 게 큰 즐거움이에요.",
+      "강도 중요한 풍경이에요. 라인강(Rhein) 계곡에는 언덕 위 성과 포도밭이 이어져서, 배를 타고 내려가며 구경하는 사람이 많아요. 🏰"
+    ],
+    "quiz": {"q": "바닷가로 휴가를 왔어요. 친구에게 지금 어디 있는지 알려 줄까요?", "o": ["Wir sind im Gebirge.", "Wir sind an der Küste.", "Wir sind im Tal."], "a": 1, "why": "die Küste = 해안. ‘해안에서’는 an der Küste라고 해요."},
+    "outro": "가장 좋아하는 여행지를 떠올리며 ‘Dort gibt es einen Fluss, Berge und …’로 소리 내서 설명해 봐요. ⛰️"
+  },
+  "en": {
+    "title": "Mountains, rivers, islands: 10 German landscape words",
+    "hook": "Next time you watch Germany roll past a train window, you'll be able to name it all.",
+    "intro": [
+      "You're on the train from Berlin to Munich. First it's endless flat fields, then a river, then hills, and finally white mountains in the distance. You want to write a postcard, but all you've got is ‘mountain’ and ‘river’.",
+      "Today's ten words describe landscapes. With them you can plan a trip, describe where you've been and read the signs on a hiking trail. 🏞️"
+    ],
+    "words": {
+      "A2-111": {"pron": "LANT-shaft", "tip": "Land + -schaft = the shape of the land, twin of English landscape 🖼️", "bonus": "Nouns ending in -schaft are always die."},
+      "A2-113": {"pron": "BAIRK", "tip": "Heidelberg, Nuremberg (Nürnberg)… the -berg in place names means mountain ⛰️", "bonus": "auf einen Berg wandern = to hike up a mountain"},
+      "A1-274": {"pron": "FLOOSS", "tip": "From fließen (to flow) 🌊 Related to English flow and flux.", "warn": "Umlaut in the plural: die Flüsse"},
+      "B1-717": {"pron": "guh-BEER-guh", "tip": "Ge- (a group) + Berg = a whole gang of mountains 🏔️", "bonus": "ins Gebirge fahren = to go to the mountains"},
+      "B1-1290": {"pron": "OO-fer", "tip": "Where the water says ‘oof’ and hits the land 🏖️ River bank or lake shore.", "bonus": "am Ufer = on the bank, by the water"},
+      "B1-1228": {"pron": "TAHL", "tip": "Same root as English dale 🏡 Between two Berge there's a Tal.", "warn": "Umlaut in the plural: die Täler"},
+      "B1-897": {"pron": "KÜS-tuh", "tip": "Looks like coast — both come from Latin costa, side 🌅", "bonus": "an der Küste = on the coast · Germany has the North Sea and the Baltic."},
+      "A2-115": {"pron": "IN-zel", "tip": "From Latin insula 🏝️ Think English insular, or peninsula.", "bonus": "A peninsula is die Halbinsel = half-island."},
+      "B1-792": {"pron": "HÜ-gel", "tip": "Maybe related to hoch (high) 🌄 Higher than flat, smaller than a Berg.", "bonus": "hügelig = hilly"},
+      "B2-2786": {"pron": "VASS-er-fal", "tip": "Wasser + Fall = waterfall, word for word 💦", "warn": "Umlaut in the plural: die Wasserfälle"}
+    },
+    "culture": [
+      "Northern and southern Germany look very different. The north is flat, with coasts on the North Sea (Nordsee) and the Baltic (Ostsee). Heading south, you get more hills and forests, until the Alps appear in Bavaria. Germany's highest mountain is the Zugspitze.",
+      "Germans love hiking (Wandern). At weekends lots of people put on their boots and head for the forest or the mountains — and a break at a mountain hut (Hütte) is half the fun.",
+      "Rivers matter too. Along the Rhine valley you'll find castles on the hills and vineyards on the slopes, and many visitors enjoy it from a boat. 🏰"
+    ],
+    "quiz": {"q": "You're on holiday by the sea. How do you tell a friend where you are?", "o": ["Wir sind im Gebirge.", "Wir sind an der Küste.", "Wir sind im Tal."], "a": 1, "why": "die Küste = the coast, and ‘on the coast’ is an der Küste."},
+    "outro": "Think of your favourite place and describe it out loud: ‘Dort gibt es einen Fluss, Berge und …’ ⛰️"
+  },
+  "ja": {
+    "title": "アルプスから海辺まで、ドイツの風景を語る10語",
+    "hook": "電車の窓から流れていくドイツの風景を、ドイツ語でひとつずつ呼べるようになります。",
+    "intro": [
+      "ベルリンからミュンヘンへ向かう電車の中。最初はどこまでも平らな畑、それから川を渡り、丘が現れ、最後には遠くに白い山々が見えてきます。絵はがきを書きたいのに、浮かぶのは「山」と「川」だけ。",
+      "今日は風景や地形を表す単語10個です。この10個があれば、旅行の計画を立てたり、行ってきた場所を説明したり、ハイキングコースの案内板を読んだりできます。🏞️"
+    ],
+    "words": {
+      "A2-111": {"pron": "ラントシャフト", "tip": "Land（土地）+ -schaft = 土地の姿。英語 landscape とふたごです 🖼️", "bonus": "-schaft で終わる名詞はいつも die です。"},
+      "A2-113": {"pron": "ベルク", "tip": "ハイデルベルク、ニュルンベルク…地名に隠れた -berg が山です ⛰️", "bonus": "auf einen Berg wandern = 山に登る"},
+      "A1-274": {"pron": "フルス", "tip": "fließen（流れる）から 🌊 英語の flow の親戚です。", "warn": "複数形はウムラウト：die Flüsse"},
+      "B1-717": {"pron": "ゲビルゲ", "tip": "Ge-（集まり）+ Berg（山）= 山が集まった山脈 🏔️", "bonus": "ins Gebirge fahren = 山へ（遊びに）行く"},
+      "B1-1290": {"pron": "ウーファー", "tip": "水が「ウー」と岸に寄せる水辺 🏖️ 川岸も湖畔も Ufer！", "bonus": "am Ufer = 水辺で"},
+      "B1-1228": {"pron": "タール", "tip": "英語の dale（谷）と同じ語源 🏡 山（Berg）と山のあいだは Tal！", "warn": "複数形はウムラウト：die Täler"},
+      "B1-897": {"pron": "キュステ", "tip": "英語の coast に似ていますね。ラテン語 costa（わき腹）から 🌅", "bonus": "an der Küste = 海岸で · ドイツの北には Nordsee と Ostsee があります。"},
+      "A2-115": {"pron": "インゼル", "tip": "ラテン語 insula から 🏝️ 英語の insular（島国の）の親戚！", "bonus": "半島は die Halbinsel = 半分（halb）+ 島"},
+      "B1-792": {"pron": "ヒューゲル", "tip": "hoch（高い）の親戚かも 🌄 山よりは小さな高い場所です。", "bonus": "hügelig = 丘の多い"},
+      "B2-2786": {"pron": "ヴァッサーファル", "tip": "Wasser（水）+ Fall（落下）= 英語 waterfall とまったく同じ 💦", "warn": "複数形はウムラウト：die Wasserfälle"}
+    },
+    "culture": [
+      "ドイツは北と南で風景がまったく違います。北は平らな土地に北海（Nordsee）とバルト海（Ostsee）の海岸が広がり、南へ行くほど丘や森が増えて、バイエルンではアルプスが見えてきます。ドイツでいちばん高い山はアルプスのツークシュピッツェ（Zugspitze）です。",
+      "ドイツの人はハイキング（Wandern）が大好き。週末には登山靴をはいて森や山へ出かける人が多く、山小屋（Hütte）でひと休みするのも大きな楽しみです。",
+      "川も大切な風景です。ライン川（Rhein）の谷には丘の上のお城とぶどう畑が続き、船に乗って下りながら眺める人がたくさんいます。🏰"
+    ],
+    "quiz": {"q": "海辺に休暇で来ています。友だちに今どこにいるか伝えるなら？", "o": ["Wir sind im Gebirge.", "Wir sind an der Küste.", "Wir sind im Tal."], "a": 1, "why": "die Küste = 海岸。「海岸で」は an der Küste と言います。"},
+    "outro": "お気に入りの旅行先を思い浮かべて、「Dort gibt es einen Fluss, Berge und …」と声に出して説明してみましょう。⛰️"
+  }
+}

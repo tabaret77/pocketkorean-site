@@ -1,0 +1,84 @@
+{
+  "key": "meetings",
+  "ko": {
+    "title": "독일 회사 회의에서 살아남는 단어 10",
+    "hook": "회의실에서 한마디도 못 하고 나온 날, 이 단어들이 필요했어요.",
+    "intro": [
+      "월요일 아침 10시, 회의실에 모두 모였어요. 화면에는 오늘의 안건, 누군가는 회의록 담당, 팀장님은 \"Was schlagen Sie vor?\" 하고 저를 쳐다봐요. 머릿속으로는 할 말이 있는데 입이 안 떨어져요.",
+      "오늘은 회의와 보고에 꼭 나오는 단어 10개예요. 이걸로 안건을 따라가고, 의견을 내고, 발표하고, 결과를 보고서로 정리할 수 있어요. 📊"
+    ],
+    "words": {
+      "A2-023": {"pron": "베슈프레흉", "tip": "besprechen(의논하다) + -ung = 의논하는 자리 🗣️ -ung이니까 die!", "bonus": "회의 중이에요 = Ich bin in einer Besprechung."},
+      "B1-2450": {"pron": "미팅", "tip": "영어 meeting 그대로 💼 회사에서는 Besprechung과 섞어서 많이 써요.", "warn": "독일어에서는 das Meeting, 중성이에요."},
+      "B2-464": {"pron": "타게스오르트눙", "tip": "Tag(날) + Ordnung(순서) = 그날의 순서 📋 회의의 안건 목록이죠!", "bonus": "an der Tagesordnung sein = 흔한 일이다, 일상다반사다"},
+      "B1-1038": {"pron": "프레젠타치온", "tip": "영어 presentation과 거의 같아요 🖥️ -tion으로 끝나면 언제나 die!", "warn": "동사는 machen보다 halten: eine Präsentation halten"},
+      "B1-1037": {"pron": "프레젠티렌", "tip": "-ieren 동사는 영어에서 온 말이 많아요 🎤 present → präsentieren!", "bonus": "-ieren 동사는 과거분사에 ge-가 없어요: hat präsentiert"},
+      "B1-022": {"pron": "엔트샤이둥", "tip": "ent-(떼어 냄) + scheiden(가르다) = 여러 길 중 하나를 떼어 내기 🔀", "warn": "결정을 '내리다'는 treffen이에요: eine Entscheidung treffen (machen ✗)"},
+      "B2-465": {"pron": "프로토콜", "tip": "영어 protocol은 의전이지만, 독일 회사에서는 주로 회의록 📝", "bonus": "회의록을 쓰다 = (das) Protokoll führen"},
+      "B1-502": {"pron": "베리히트", "tip": "be- + richten(향하게 하다) = 내용을 상대에게 향하게 보내는 것 📄 그게 보고!", "bonus": "동사: berichten = 보고하다, 보도하다"},
+      "B1-293": {"pron": "베슈프레헨", "tip": "be- + sprechen = 무언가에 대해 꼼꼼히 말하다 💬 be-가 '~에 대해'를 품고 있어요.", "warn": "über 없이 바로 4격: Wir besprechen das Projekt. (über das Projekt ✗)"},
+      "B1-062": {"pron": "포어슐라겐", "tip": "vor(앞으로) + schlagen(내밀다) = 아이디어를 앞으로 쑥 내밀기 💡", "warn": "분리동사예요: Ich schlage vor, … / hat vorgeschlagen"}
+    },
+    "culture": [
+      "독일 회의는 보통 정시에 시작해요. 5분 늦어도 눈에 띄기 때문에 조금 일찍 들어가는 게 좋아요. 안건(Tagesordnung)을 미리 보내고, 그대로 진행하는 경우가 많아요.",
+      "의견이 다르면 회의 자리에서 솔직하게 말하는 게 자연스러워요. \"Da bin ich anderer Meinung.\"(저는 생각이 달라요) 같은 말이 무례한 게 아니라, 오히려 적극적으로 참여한다는 신호예요.",
+      "회의가 끝나면 회의록(Protokoll)을 돌려서 누가 무엇을 언제까지 할지 정리하는 곳이 많아요. 호칭은 회사마다 달라서, 스타트업은 처음부터 du, 전통적인 회사는 Sie를 쓰는 경우가 많아요. 🤝"
+    ],
+    "quiz": {"q": "동료가 전화로 Weber 씨를 찾는데, 지금 회의 중이에요. 뭐라고 할까요?", "o": ["Sie ist gerade in einer Besprechung.", "Sie schreibt gerade das Protokoll für morgen.", "Sie schlägt einen neuen Termin vor."], "a": 0, "why": "Sie ist gerade in einer Besprechung. = 지금 회의 중이세요. in einer Besprechung sein이 '회의 중'이라는 표현이에요."},
+    "outro": "오늘 단어로 \"Ich schlage vor, dass wir das morgen besprechen.\"을 세 번 소리 내서 말해 봐요. 다음 회의에서 바로 써먹을 수 있어요! 💪"
+  },
+  "en": {
+    "title": "Speak up in German meetings: 10 words that help",
+    "hook": "If you've ever left a meeting without saying a word, these are for you.",
+    "intro": [
+      "Monday, 10 a.m., everyone's in the meeting room. The agenda is on the screen, someone's taking the minutes, and your manager turns to you: \"Was schlagen Sie vor?\" You know what you want to say, but it won't come out in German.",
+      "Today's ten words come up in every meeting and report. With them you can follow the agenda, make a suggestion, give a presentation and write up the results. 📊"
+    ],
+    "words": {
+      "A2-023": {"pron": "buh-SHPREKH-oong", "tip": "besprechen (to discuss) + -ung = a discussion 🗣️ -ung, so it's die.", "bonus": "I'm in a meeting = Ich bin in einer Besprechung."},
+      "B1-2450": {"pron": "MEE-ting", "tip": "Borrowed straight from English 💼 Offices use it alongside Besprechung.", "warn": "In German it's neuter: das Meeting."},
+      "B2-464": {"pron": "TAH-ges-ort-noong", "tip": "Tag (day) + Ordnung (order) = the order of the day 📋 That's your agenda.", "bonus": "an der Tagesordnung sein = to be an everyday occurrence"},
+      "B1-1038": {"pron": "pray-zen-tah-TSYOHN", "tip": "Almost the same as English presentation 🖥️ Nouns ending in -tion are always die.", "warn": "You ‘hold’ one: eine Präsentation halten."},
+      "B1-1037": {"pron": "pray-zen-TEER-en", "tip": "Lots of -ieren verbs come from English or French 🎤 present → präsentieren.", "bonus": "-ieren verbs take no ge- in the perfect: hat präsentiert"},
+      "B1-022": {"pron": "ent-SHY-doong", "tip": "ent- (away) + scheiden (to separate) = separating one path from the rest 🔀", "warn": "You ‘meet’ a decision: eine Entscheidung treffen (not machen)."},
+      "B2-465": {"pron": "pro-toh-KOLL", "tip": "In a German office it usually means the minutes, not diplomatic protocol 📝", "bonus": "to take the minutes = (das) Protokoll führen"},
+      "B1-502": {"pron": "buh-RIKHT", "tip": "be- + richten (to direct) = directing the facts to someone 📄 That's a report.", "bonus": "The verb: berichten = to report"},
+      "B1-293": {"pron": "buh-SHPREKH-en", "tip": "be- + sprechen = to talk something through 💬 The be- already means ‘about’.", "warn": "No über: Wir besprechen das Projekt."},
+      "B1-062": {"pron": "FOR-shlah-gen", "tip": "vor (forward) + schlagen (to put out) = putting an idea forward 💡", "warn": "Separable: Ich schlage vor, … / hat vorgeschlagen"}
+    },
+    "culture": [
+      "German meetings usually start on time. Even five minutes late gets noticed, so it's worth arriving a little early. The agenda (Tagesordnung) is often sent round beforehand, and people tend to stick to it.",
+      "If you disagree, it's normal to say so in the meeting itself. A sentence like \"Da bin ich anderer Meinung.\" (I see it differently) isn't rude — it shows you're taking part.",
+      "Afterwards, many teams send round the minutes (Protokoll) so everyone knows who's doing what and by when. Forms of address depend on the company: start-ups often use du from day one, while more traditional firms tend to stick with Sie. 🤝"
+    ],
+    "quiz": {"q": "A colleague phones for Ms Weber, but she's in a meeting right now. What do you say?", "o": ["Sie ist gerade in einer Besprechung.", "Sie schreibt gerade das Protokoll für morgen.", "Sie schlägt einen neuen Termin vor."], "a": 0, "why": "Sie ist gerade in einer Besprechung. = She's in a meeting right now — in einer Besprechung sein is the set phrase."},
+    "outro": "Say \"Ich schlage vor, dass wir das morgen besprechen.\" out loud three times today. It'll be ready for your next meeting! 💪"
+  },
+  "ja": {
+    "title": "ドイツの会議で発言できるようになる単語10",
+    "hook": "会議でひとことも話せなかったあの日、欲しかったのはこの単語たちです。",
+    "intro": [
+      "月曜の朝10時、会議室に全員集合。画面には今日の議題、誰かが議事録係、そして上司がこちらを見て「Was schlagen Sie vor?」言いたいことはあるのに、ドイツ語が出てきません。",
+      "今日は会議と報告に必ず出てくる単語を10個集めました。これで議題についていき、提案して、発表して、結果を報告書にまとめられます。📊"
+    ],
+    "words": {
+      "A2-023": {"pron": "ベシュプレッヒュング", "tip": "besprechen（話し合う）+ -ung = 話し合いの場 🗣️ -ung なので die！", "bonus": "会議中です = Ich bin in einer Besprechung."},
+      "B1-2450": {"pron": "ミーティング", "tip": "英語の meeting そのまま 💼 職場では Besprechung と並んでよく使います。", "warn": "ドイツ語では中性の das Meeting です。"},
+      "B2-464": {"pron": "ターゲスオルドヌング", "tip": "Tag（日）+ Ordnung（順序）= その日の順序 📋 つまり会議の議題！", "bonus": "an der Tagesordnung sein = 日常茶飯事である"},
+      "B1-1038": {"pron": "プレゼンタツィオーン", "tip": "英語の presentation とほぼ同じ 🖥️ -tion で終わる名詞はいつも die！", "warn": "動詞は halten：eine Präsentation halten"},
+      "B1-1037": {"pron": "プレゼンティーレン", "tip": "-ieren 動詞は外来語が多い 🎤 present → präsentieren！", "bonus": "-ieren 動詞の過去分詞には ge- がつきません：hat präsentiert"},
+      "B1-022": {"pron": "エントシャイドゥング", "tip": "ent-（離す）+ scheiden（分ける）= いくつかの道から一つを選び分ける 🔀", "warn": "「決断を下す」は treffen：eine Entscheidung treffen（machen は×）"},
+      "B2-465": {"pron": "プロトコル", "tip": "ドイツの職場ではたいてい「議事録」のこと 📝", "bonus": "議事録をとる = (das) Protokoll führen"},
+      "B1-502": {"pron": "ベリヒト", "tip": "be- + richten（向ける）= 内容を相手に向けて送ること 📄 それが報告！", "bonus": "動詞：berichten = 報告する、報道する"},
+      "B1-293": {"pron": "ベシュプレッヒェン", "tip": "be- + sprechen = 何かについてじっくり話す 💬 be- が「〜について」を含んでいます。", "warn": "über は不要、4格を直接とります：Wir besprechen das Projekt."},
+      "B1-062": {"pron": "フォーアシュラーゲン", "tip": "vor（前へ）+ schlagen（差し出す）= アイデアを前に差し出す 💡", "warn": "分離動詞です：Ich schlage vor, … / hat vorgeschlagen"}
+    },
+    "culture": [
+      "ドイツの会議はたいてい時間どおりに始まります。5分の遅れでも目立つので、少し早めに入るのがおすすめです。議題（Tagesordnung）を事前に送って、そのとおりに進めることが多いです。",
+      "意見が違うときは、会議の場ではっきり言うのが自然です。「Da bin ich anderer Meinung.」（私は違う意見です）は失礼ではなく、積極的に参加しているしるしです。",
+      "会議のあとは議事録（Protokoll）を回して、誰が何をいつまでにやるかを確認するチームが多いです。呼び方は会社によって違い、スタートアップは最初から du、伝統的な会社は Sie を使うことが多いです。🤝"
+    ],
+    "quiz": {"q": "同僚から Weber さんあての電話。彼女は今、会議中です。何と言いますか？", "o": ["Sie ist gerade in einer Besprechung.", "Sie schreibt gerade das Protokoll für morgen.", "Sie schlägt einen neuen Termin vor."], "a": 0, "why": "Sie ist gerade in einer Besprechung. = 今会議中です。in einer Besprechung sein が「会議中」の決まった言い方です。"},
+    "outro": "今日は「Ich schlage vor, dass wir das morgen besprechen.」を3回声に出して言ってみましょう。次の会議ですぐ使えます！💪"
+  }
+}

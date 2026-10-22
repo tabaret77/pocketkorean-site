@@ -1,0 +1,84 @@
+{
+  "key": "morning",
+  "ko": {
+    "title": "알람부터 현관문까지, 독일어 아침 루틴 10",
+    "hook": "매일 아침 하는 일들을 독일어로 말할 수 있으면, 하루가 통째로 독일어 연습이 돼요.",
+    "intro": [
+      "베를린 우리 집 아침은 늘 비슷해요. 알람이 울리고, 다섯 번쯤 미루고, 결국 허둥지둥 샤워하고 빵 한 조각 물고 뛰어나가요. 그런데 어학원에서 ‘오늘 아침에 뭐 했어요?’라고 물으면 갑자기 말문이 막히더라고요.",
+      "그래서 오늘은 아침에 꼭 쓰는 단어 10개를 모았어요. 이 단어들만 있으면 내 아침 일과를 처음부터 끝까지 독일어로 설명할 수 있어요. 늦잠 잔 변명까지요! ⏰"
+    ],
+    "words": {
+      "B1-1390": {"pron": "베커", "tip": "wecken(깨우다) + -er = 깨우는 녀석 ⏰ 영어 wake랑 사촌이에요.", "bonus": "구어: Du gehst mir auf den Wecker! = 너 진짜 짜증 나!"},
+      "B1-468": {"pron": "아우프바헨", "tip": "auf(위로) + wachen(깨어 있다) = 눈이 번쩍 위로 떠지는 순간 👀", "warn": "현재완료는 sein: Ich bin aufgewacht. 남을 깨우는 건 wecken이에요."},
+      "A1-072": {"pron": "아우프슈테엔", "tip": "auf(위로) + stehen(서다) = 침대에서 벌떡 일어서기 🛏️", "warn": "분리동사예요: Ich stehe um sieben Uhr auf. auf는 문장 맨 끝으로!"},
+      "A1-197": {"pron": "두셴", "tip": "die Dusche(샤워기)에서 바로 나온 동사 🚿 ‘두셴’ 하면 물소리가 들리는 것 같죠?", "bonus": "아침형? 저녁형? Duschst du morgens oder abends?"},
+      "B1-549": {"pron": "찬뷔르스테", "tip": "Zahn(이) + Bürste(솔) = 칫솔 🪥 마지막 단어가 die라서 전체도 die!", "bonus": "이를 닦다 = Zähne putzen · 치약 = die Zahnpasta"},
+      "A1-327": {"pron": "안치엔", "tip": "an(몸에) + ziehen(당기다) = 옷을 몸에 끌어당겨 입기 👕", "warn": "입는 ‘동작’만 anziehen이에요. 입고 있는 ‘상태’는 tragen!"},
+      "A1-332": {"pron": "프뤼슈튀켄", "tip": "명사 Frühstück에 -en만 붙이면 동사 완성 🍳 아주 쉬운 공식!", "warn": "분리동사가 아니에요: Ich frühstücke um acht. · 완료형은 hat gefrühstückt"},
+      "A1-129": {"pron": "프뤼슈튁", "tip": "früh(이른) + Stück(조각) = 아침 일찍 먹는 빵 한 조각 🥐", "bonus": "아침으로 = zum Frühstück: Was isst du zum Frühstück?"},
+      "B1-286": {"pron": "지히 베아일렌", "tip": "die Eile(서두름)가 숨어 있어요 🏃‍♀️ 엄마가 아침마다 외치는 말: Beeil dich!", "warn": "재귀동사라서 sich를 빼먹으면 안 돼요: Ich beeile mich."},
+      "B2-2704": {"pron": "페어슐라펜", "tip": "ver-(잘못) + schlafen(자다) = 자다가 일을 그르치기 😱", "warn": "verschlafen(늦잠 자서 놓치다) ≠ ausschlafen(일부러 실컷 자기)"}
+    },
+    "culture": [
+      "독일 사람들은 아침을 꽤 일찍 시작하는 편이에요. 직종에 따라 다르지만 7시 전에 출근하는 사람도 흔하고, 학교도 보통 8시 전후에 시작해요.",
+      "평일 아침은 간단하게 빵에 버터, 잼, 치즈 정도가 많아요. 대신 주말 아침은 특별해요. 동네 빵집(Bäckerei)에서 갓 구운 Brötchen을 사 와서 반숙 달걀이랑 천천히 먹는 게 많은 독일 사람들의 작은 행복이에요.",
+      "그래서 일요일에도 아침에는 문을 여는 빵집이 많아요. 일요일 아침 빵집 앞 줄은 독일의 흔한 풍경이랍니다. 🥨"
+    ],
+    "quiz": {"q": "알람을 못 듣고 회사에 늦었어요. 상사에게 뭐라고 할까요?", "o": ["Ich habe heute ausgeschlafen.", "Entschuldigung, ich habe verschlafen.", "Ich ziehe mir eine Jacke an."], "a": 1, "why": "verschlafen = 늦잠 자서 놓치다. ausschlafen은 일부러 푹 잔 거라 변명이 안 돼요!"},
+    "outro": "내일 아침에는 하나씩 할 때마다 독일어로 중얼거려 봐요. Ich stehe auf, ich dusche, ich frühstücke! 🌅"
+  },
+  "en": {
+    "title": "Your morning routine in 10 German words",
+    "hook": "If you can describe your morning in German, every single day becomes free practice.",
+    "intro": [
+      "The alarm goes off. You hit snooze, then again, then once more. Suddenly you're rushing through a shower and running out with a roll in your hand. And then your German teacher asks: ‘What did you do this morning?’ — and your mind goes blank.",
+      "Today's ten words cover a normal morning from the first ring to the front door. With them you can talk through your whole routine in German — and even explain why you're late. ⏰"
+    ],
+    "words": {
+      "B1-1390": {"pron": "VECK-er", "tip": "wecken (to wake) + -er = the thing that wakes you ⏰ A cousin of English wake.", "bonus": "Slang: Du gehst mir auf den Wecker! = You're getting on my nerves!"},
+      "B1-468": {"pron": "OWF-vakh-en", "tip": "auf (up) + wachen (to be awake) = your eyes pop up open 👀", "warn": "Perfect with sein: Ich bin aufgewacht. Waking someone else up is wecken."},
+      "A1-072": {"pron": "OWF-shtay-en", "tip": "auf (up) + stehen (to stand) = literally ‘stand up’ out of bed 🛏️", "warn": "Separable: Ich stehe um sieben Uhr auf. The auf jumps to the end."},
+      "A1-197": {"pron": "DOO-shen", "tip": "Straight from die Dusche, the shower 🚿 Think of a shower ‘douche’ in French.", "bonus": "Morning or evening person? Duschst du morgens oder abends?"},
+      "B1-549": {"pron": "TSAHN-bür-stuh", "tip": "Zahn (tooth) + Bürste (brush) = toothbrush 🪥 The last part is die, so the whole word is die.", "bonus": "to brush your teeth = Zähne putzen · toothpaste = die Zahnpasta"},
+      "A1-327": {"pron": "AN-tsee-en", "tip": "an (on) + ziehen (to pull) = to pull your clothes on 👕", "warn": "anziehen is the action of putting on. Wearing something is tragen."},
+      "A1-332": {"pron": "FRÜ-shtü-ken", "tip": "Take the noun Frühstück, add -en, and you have a verb 🍳 Easy.", "warn": "Not separable: Ich frühstücke um acht. · perfect: hat gefrühstückt"},
+      "A1-129": {"pron": "FRÜ-shtück", "tip": "früh (early) + Stück (piece) = an early piece of bread 🥐", "bonus": "for breakfast = zum Frühstück: Was isst du zum Frühstück?"},
+      "B1-286": {"pron": "zikh buh-EYE-len", "tip": "die Eile (haste) is hiding inside 🏃‍♀️ The classic parent shout: Beeil dich!", "warn": "Reflexive — don't forget sich: Ich beeile mich."},
+      "B2-2704": {"pron": "fair-SHLAH-fen", "tip": "ver- (wrongly) + schlafen (to sleep) = sleep your way into trouble 😱", "warn": "verschlafen (oversleep by accident) ≠ ausschlafen (sleep in on purpose)"}
+    },
+    "culture": [
+      "Many Germans start the day early. It depends on the job, but starting work before seven isn't unusual, and school usually begins around eight.",
+      "Weekday breakfast is often simple: bread with butter, jam or cheese. Weekends are different. Fetching fresh Brötchen from the local bakery (Bäckerei) and eating them slowly with a soft-boiled egg is a small ritual in lots of homes.",
+      "That's why many bakeries open on Sunday mornings, even when almost everything else is closed. A queue outside the bakery on a Sunday is a very German sight. 🥨"
+    ],
+    "quiz": {"q": "You didn't hear your alarm and you're late for work. What do you tell your boss?", "o": ["Ich habe heute ausgeschlafen.", "Entschuldigung, ich habe verschlafen.", "Ich ziehe mir eine Jacke an."], "a": 1, "why": "verschlafen means you overslept by accident; ausschlafen sounds like you chose a lie-in!"},
+    "outro": "Tomorrow morning, narrate each step in German as you do it: Ich stehe auf, ich dusche, ich frühstücke! 🌅"
+  },
+  "ja": {
+    "title": "目覚ましから玄関まで！朝のドイツ語10",
+    "hook": "毎朝のルーティンをドイツ語で言えるようになれば、毎日が自然とドイツ語の練習になります。",
+    "intro": [
+      "目覚ましが鳴って、スヌーズを何度も押して、結局バタバタとシャワーを浴び、パンをくわえて飛び出す。語学学校で「今朝は何をしましたか？」と聞かれると、なぜか言葉が出てこないんですよね。",
+      "今日は朝に必ず使う単語を10個集めました。これで、起きてから家を出るまでをドイツ語で説明できます。寝坊の言い訳まで言えますよ！⏰"
+    ],
+    "words": {
+      "B1-1390": {"pron": "ヴェッカー", "tip": "wecken（起こす）+ -er = 起こしてくれるもの ⏰ 英語の wake の親戚です。", "bonus": "口語：Du gehst mir auf den Wecker! = 本当にイライラする！"},
+      "B1-468": {"pron": "アウフヴァッヘン", "tip": "auf（上へ）+ wachen（目覚めている）= 目がパチッと開く瞬間 👀", "warn": "完了形は sein：Ich bin aufgewacht. 人を起こすのは wecken です。"},
+      "A1-072": {"pron": "アウフシュテーエン", "tip": "auf（上へ）+ stehen（立つ）= ベッドから立ち上がる 🛏️", "warn": "分離動詞：Ich stehe um sieben Uhr auf. auf は文末へ！"},
+      "A1-197": {"pron": "ドゥーシェン", "tip": "die Dusche（シャワー）からできた動詞 🚿 フランス語の douche が元です。", "bonus": "朝派？夜派？ Duschst du morgens oder abends?"},
+      "B1-549": {"pron": "ツァーンビュルステ", "tip": "Zahn（歯）+ Bürste（ブラシ）= 歯ブラシ 🪥 最後が die なので全体も die！", "bonus": "歯を磨く = Zähne putzen · 歯みがき粉 = die Zahnpasta"},
+      "A1-327": {"pron": "アンツィーエン", "tip": "an（身に）+ ziehen（引く）= 服を体に引き寄せて着る 👕", "warn": "anziehen は「着る動作」。着ている状態は tragen です。"},
+      "A1-332": {"pron": "フリューシュテュッケン", "tip": "名詞 Frühstück に -en をつければ動詞に 🍳 簡単ですね。", "warn": "非分離動詞：Ich frühstücke um acht. · 完了形は hat gefrühstückt"},
+      "A1-129": {"pron": "フリューシュテュック", "tip": "früh（早い）+ Stück（一切れ）= 朝早く食べるパン一切れ 🥐", "bonus": "朝食に = zum Frühstück：Was isst du zum Frühstück?"},
+      "B1-286": {"pron": "ズィッヒ ベアイレン", "tip": "die Eile（急ぎ）が隠れています 🏃‍♀️ 朝の定番フレーズ：Beeil dich!", "warn": "再帰動詞なので sich を忘れずに：Ich beeile mich."},
+      "B2-2704": {"pron": "フェアシュラーフェン", "tip": "ver-（誤って）+ schlafen（眠る）= 眠って大事なことを逃す 😱", "warn": "verschlafen（寝坊する）と ausschlafen（たっぷり眠る）は別物です。"}
+    },
+    "culture": [
+      "ドイツの人は朝が早いほうです。仕事にもよりますが、7時前に働き始める人も珍しくなく、学校もたいてい8時ごろに始まります。",
+      "平日の朝ごはんは、パンにバター、ジャム、チーズといったシンプルなものが多いです。そのかわり週末は特別。近所のパン屋（Bäckerei）で焼きたての Brötchen を買ってきて、半熟卵と一緒にゆっくり食べるのが、多くの家庭の小さな楽しみです。",
+      "だから日曜日でも朝だけ開いているパン屋がたくさんあります。日曜の朝、パン屋の前にできる行列はドイツらしい風景です。🥨"
+    ],
+    "quiz": {"q": "目覚ましに気づかず会社に遅刻しました。上司に何と言いますか？", "o": ["Ich habe heute ausgeschlafen.", "Entschuldigung, ich habe verschlafen.", "Ich ziehe mir eine Jacke an."], "a": 1, "why": "verschlafen は「寝坊した」。ausschlafen だと「わざとたっぷり寝た」になってしまいます！"},
+    "outro": "明日の朝は、ひとつ動くたびにドイツ語でつぶやいてみましょう。Ich stehe auf, ich dusche, ich frühstücke! 🌅"
+  }
+}

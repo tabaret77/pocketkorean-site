@@ -1,0 +1,84 @@
+{
+  "key": "body",
+  "ko": {
+    "title": "머리부터 발끝까지, 독일어 몸 단어 10",
+    "hook": "‘어디가 아프세요?’라는 질문에 손가락 말고 단어로 답해 봐요.",
+    "intro": [
+      "요가 수업에 처음 갔는데 선생님이 \"Hebt die Arme! Beugt das Bein!\" 하고 빠르게 외쳤어요. 저는 옆 사람을 곁눈질하면서 겨우 따라 했죠.",
+      "오늘은 몸의 기본 부위 10개를 모았어요. 이 단어들이면 운동 수업을 따라가고, 병원에서 어디가 아픈지 설명하고, 아이와 노래하며 놀 수도 있어요. 머리부터 발끝까지 출발! 🦵"
+    ],
+    "words": {
+      "A2-499": {"pron": "쾨르퍼", "tip": "라틴어 corpus(몸)에서 왔어요 💪 영어 corporal, corpse의 친척!", "bonus": "몸과 마음 = Körper und Geist"},
+      "A1-039": {"pron": "코프", "tip": "원래 ‘컵, 그릇’이라는 뜻 🥣 머리는 생각을 담는 그릇!", "bonus": "기운 내! = Kopf hoch!"},
+      "A2-232": {"pron": "게지히트", "tip": "sehen(보다)에서 왔어요 👀 보이는 것 = 얼굴. 영어 sight와 친척!", "warn": "복수는 -er: die Gesichter"},
+      "A1-041": {"pron": "아우게", "tip": "영어 eye와 같은 뿌리 👁️ 눈은 보통 두 개라 복수 Augen을 자주 써요.", "bonus": "unter vier Augen = 둘이서만, 단둘이 (눈 네 개 아래에서)"},
+      "A1-172": {"pron": "문트", "tip": "영어 mouth와 같은 뿌리 👄 끝 d는 ‘트’로 소리 나요.", "warn": "복수는 움라우트 + -er: die Münder"},
+      "A1-040": {"pron": "한트", "tip": "영어 hand랑 똑같아요 ✋ 다만 여성 명사라 die Hand!", "warn": "복수는 움라우트: die Hände"},
+      "A1-171": {"pron": "아름", "tip": "영어 arm과 완전히 같아요 💪 쉬운 단어 하나 득템!", "warn": "소문자 arm은 형용사 ‘가난한’이에요: Er ist arm."},
+      "A1-170": {"pron": "바인", "tip": "원래 ‘뼈(bone)’라는 뜻 🦴 다리 = 긴 뼈!", "bonus": "행운을 빌 때: Hals- und Beinbruch! (목이랑 다리 부러져라 = 잘 해!)"},
+      "A1-169": {"pron": "푸스", "tip": "영어 foot과 같은 뿌리 🦶 걸어서 가면 zu Fuß!", "warn": "복수는 움라우트: die Füße"},
+      "A1-263": {"pron": "바우흐", "tip": "배를 두드리면 ‘바우흐’ 소리가 날 것 같죠? 🫃", "bonus": "배가 아파요 = Ich habe Bauchschmerzen."}
+    },
+    "culture": [
+      "독일에서는 행운을 빌 때 검지를 꼬지 않고, 엄지를 다른 손가락으로 감싸 쥐어요. 이걸 Daumen drücken이라고 해요. \"Ich drücke dir die Daumen!\" = 행운을 빌게!",
+      "건배할 때(Prost!)는 잔을 부딪치면서 상대의 눈(Augen)을 보는 게 예의예요. 눈을 피하면 조금 어색하게 느끼는 사람이 많아요.",
+      "그리고 시험이나 공연 전에 \"Hals- und Beinbruch!\"라고 하면 저주가 아니라 응원이에요. 몸 단어가 들어간 표현이 정말 많죠? 🤞"
+    ],
+    "quiz": {"q": "의사가 \"Wo tut es weh?\"라고 물어요. 배가 아프다면 뭐라고 할까요?", "o": ["Ich habe blaue Augen.", "Mir tut der Bauch weh.", "Ich gehe zu Fuß."], "a": 1, "why": "Mir tut der Bauch weh. = 배가 아파요. ‘Mir tut … weh’로 아픈 곳을 말해요."},
+    "outro": "오늘은 거울 앞에서 Kopf, Augen, Mund, Hand… 하나씩 짚으며 소리 내 말해 봐요. 내일은 이 몸이 아플 때 쓰는 단어로 이어져요! 🙌"
+  },
+  "en": {
+    "title": "Head to toe: 10 German body words",
+    "hook": "Next time someone asks where it hurts, answer with words, not just pointing.",
+    "intro": [
+      "At your first yoga class, the teacher calls out fast: \"Hebt die Arme! Beugt das Bein!\" You copy the person next to you and just about keep up.",
+      "Today's ten words are the basic parts of the body. With them you can follow a sports class, tell a doctor where it hurts and even play singing games with children. From head to toe — let's go! 🦵"
+    ],
+    "words": {
+      "A2-499": {"pron": "KUR-per", "tip": "From Latin corpus (body) 💪 A cousin of English corporal and corpse.", "bonus": "body and mind = Körper und Geist"},
+      "A1-039": {"pron": "kopf", "tip": "It originally meant ‘cup, bowl’ 🥣 Your head is the bowl for your thoughts!", "bonus": "Chin up! = Kopf hoch!"},
+      "A2-232": {"pron": "guh-ZIKHT", "tip": "From sehen (to see) 👀 What you see = a face. Related to English sight.", "warn": "Plural with -er: die Gesichter"},
+      "A1-041": {"pron": "OW-guh", "tip": "Same root as English eye 👁️ You've got two, so you'll often use the plural Augen.", "bonus": "unter vier Augen = in private, just the two of you (‘under four eyes’)"},
+      "A1-172": {"pron": "moont", "tip": "Same root as English mouth 👄 The final d sounds like t.", "warn": "Plural with umlaut and -er: die Münder"},
+      "A1-040": {"pron": "hant", "tip": "Exactly like English hand ✋ But it's feminine: die Hand.", "warn": "Plural with umlaut: die Hände"},
+      "A1-171": {"pron": "arm", "tip": "Identical to English arm 💪 A free word for you!", "warn": "Lower-case arm is the adjective ‘poor’: Er ist arm."},
+      "A1-170": {"pron": "bine", "tip": "It originally meant ‘bone’ 🦴 A leg = a long bone!", "bonus": "To wish good luck: Hals- und Beinbruch! (‘break your neck and leg’ = break a leg)"},
+      "A1-169": {"pron": "foos", "tip": "Same root as English foot 🦶 Walking somewhere? zu Fuß!", "warn": "Plural with umlaut: die Füße"},
+      "A1-263": {"pron": "bowkh", "tip": "Pat your tummy — doesn't it go ‘bowkh’? 🫃", "bonus": "I've got a stomach ache = Ich habe Bauchschmerzen."}
+    },
+    "culture": [
+      "To wish someone luck, Germans don't cross their fingers — they fold their thumbs inside their fists. It's called Daumen drücken: \"Ich drücke dir die Daumen!\" = Fingers crossed for you!",
+      "When you clink glasses (Prost!), it's polite to look the other person in the eyes (Augen). Many people find it a bit odd if you look away.",
+      "And if someone says \"Hals- und Beinbruch!\" before your exam or performance, it's not a curse — it's encouragement. German is full of body-part phrases! 🤞"
+    ],
+    "quiz": {"q": "The doctor asks, \"Wo tut es weh?\" Your stomach hurts. What do you say?", "o": ["Ich habe blaue Augen.", "Mir tut der Bauch weh.", "Ich gehe zu Fuß."], "a": 1, "why": "Mir tut der Bauch weh. = My stomach hurts. Use ‘Mir tut … weh’ to say where it hurts."},
+    "outro": "Stand in front of a mirror today and point to each part as you say it: Kopf, Augen, Mund, Hand… Next time, we'll use these to talk about feeling ill! 🙌"
+  },
+  "ja": {
+    "title": "頭からつま先まで、体のドイツ語10",
+    "hook": "「どこが痛いですか？」に、指さしではなく言葉で答えてみましょう。",
+    "intro": [
+      "初めてのヨガのクラスで、先生が早口で「Hebt die Arme! Beugt das Bein!」。隣の人をちらちら見ながら、なんとかついていきました。",
+      "今日は体の基本の部位を10個集めました。これで運動のクラスについていけて、病院でどこが痛いか説明できて、子どもと歌って遊ぶこともできます。頭からつま先まで、出発です！🦵"
+    ],
+    "words": {
+      "A2-499": {"pron": "ケルパー", "tip": "ラテン語 corpus（体）から 💪 英語の corporal や corpse の親戚！", "bonus": "体と心 = Körper und Geist"},
+      "A1-039": {"pron": "コプフ", "tip": "もとは「カップ、器」という意味 🥣 頭は考えを入れる器！", "bonus": "元気出して！= Kopf hoch!"},
+      "A2-232": {"pron": "ゲズィヒト", "tip": "sehen（見る）から 👀 見えるもの = 顔。英語の sight の親戚！", "warn": "複数形は -er：die Gesichter"},
+      "A1-041": {"pron": "アウゲ", "tip": "英語の eye と同じ語源 👁️ 目はふつう2つなので複数形 Augen をよく使います。", "bonus": "unter vier Augen = 二人きりで（「4つの目の下で」）"},
+      "A1-172": {"pron": "ムント", "tip": "英語の mouth と同じ語源 👄 最後の d は「ト」の音です。", "warn": "複数形はウムラウト + -er：die Münder"},
+      "A1-040": {"pron": "ハント", "tip": "英語の hand とまったく同じ ✋ ただし女性名詞で die Hand！", "warn": "複数形はウムラウト：die Hände"},
+      "A1-171": {"pron": "アルム", "tip": "英語の arm とまったく同じ 💪 ラクに覚えられる一語！", "warn": "小文字の arm は形容詞「貧しい」です：Er ist arm."},
+      "A1-170": {"pron": "バイン", "tip": "もとは「骨（bone）」という意味 🦴 脚 = 長い骨！", "bonus": "幸運を祈るとき：Hals- und Beinbruch!（首と脚を折れ = がんばって！）"},
+      "A1-169": {"pron": "フース", "tip": "英語の foot と同じ語源 🦶 歩いて行くなら zu Fuß！", "warn": "複数形はウムラウト：die Füße"},
+      "A1-263": {"pron": "バウホ", "tip": "おなかをポンとたたくと「バウホ」と鳴りそう？🫃", "bonus": "おなかが痛い = Ich habe Bauchschmerzen."}
+    },
+    "culture": [
+      "ドイツでは幸運を祈るとき、指を交差させるのではなく、親指をほかの指で握りこみます。これを Daumen drücken と言います。「Ich drücke dir die Daumen!」= 応援してるよ！",
+      "乾杯（Prost!）でグラスを合わせるときは、相手の目（Augen）を見るのがマナーです。目をそらすと少し気まずく感じる人が多いです。",
+      "そして試験や本番の前に「Hals- und Beinbruch!」と言われたら、呪いではなく応援です。体の単語を使った表現は本当にたくさんありますね。🤞"
+    ],
+    "quiz": {"q": "お医者さんに「Wo tut es weh?」と聞かれました。おなかが痛いときは何と言いますか？", "o": ["Ich habe blaue Augen.", "Mir tut der Bauch weh.", "Ich gehe zu Fuß."], "a": 1, "why": "Mir tut der Bauch weh. = おなかが痛いです。「Mir tut … weh」で痛い場所を言います。"},
+    "outro": "今日は鏡の前で Kopf, Augen, Mund, Hand… とひとつずつ指さしながら声に出してみましょう。次は、この体が具合の悪いときに使う単語へ続きます！🙌"
+  }
+}

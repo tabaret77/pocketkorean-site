@@ -1,0 +1,84 @@
+{
+  "key": "wall",
+  "ko": {
+    "title": "베를린 장벽 앞에서 알아 두면 좋은 독일어 10",
+    "hook": "베를린 길바닥에 깔린 두 줄의 돌, 그게 바로 장벽이 서 있던 자리예요.",
+    "intro": [
+      "베를린에 살다 보면 역사가 생활 속에 그대로 있어요. 산책하다 보면 바닥에 두 줄로 박힌 돌길을 지나고, 친구 부모님은 ‘우리 때 동독에서는…’ 하며 이야기를 꺼내세요. 뉴스에서는 10월마다 ‘Wiedervereinigung’이라는 긴 단어가 나오고요.",
+      "오늘은 독일의 분단과 통일을 이야기할 때 꼭 나오는 단어 10개예요. 이 단어들을 알면 박물관 설명도, 독일 친구의 가족 이야기도 훨씬 깊이 이해할 수 있어요. 🧱"
+    ],
+    "words": {
+      "B1-935": {"pron": "마우어", "tip": "라틴어 murus에서 왔어요 🧱 벽화 mural과 친척!", "warn": "바깥의 돌담·장벽은 Mauer, 방 안의 벽은 die Wand예요."},
+      "A2-109": {"pron": "그렌체", "tip": "슬라브어 granica(경계)에서 왔어요 🛂 ‘그렌체’에서 멈춰!", "bonus": "über die Grenze fahren = 국경을 넘다"},
+      "A1-644": {"pron": "오스텐", "tip": "영어 east와 같은 뿌리 🌅 해 뜨는 쪽! 부활절 Ostern과도 친척이에요.", "bonus": "동독 출신을 구어로 Ossi라고도 해요 (농담조라 조심!)"},
+      "A1-645": {"pron": "베스텐", "tip": "영어 west와 똑같은 뿌리 🌇 W는 독일어로 ‘ㅂ’ 소리!", "bonus": "서독 출신은 구어로 Wessi"},
+      "B1-2561": {"pron": "데데에르", "tip": "Deutsche Demokratische Republik의 첫 글자 🇩🇪 알파벳 그대로 ‘데-데-에르’!", "warn": "늘 관사와 함께: in der DDR, die DDR."},
+      "B2-4179": {"pron": "타일룽", "tip": "teilen(나누다) + -ung = 나눔, 분단 ✂️ -ung이니까 die!", "bonus": "반대 개념: die Wiedervereinigung"},
+      "B2-731": {"pron": "마우어팔", "tip": "Mauer(장벽) + Fall(무너짐) = 장벽 붕괴 🔨 영어 fall과 같아요.", "bonus": "날짜: der 9. November 1989"},
+      "B2-732": {"pron": "벤데", "tip": "wenden(돌리다)에서 왔어요 🔄 역사의 방향이 확 바뀐 순간!", "bonus": "nach der Wende = 1989년 전환 이후"},
+      "B2-730": {"pron": "비더페어아이니궁", "tip": "wieder(다시) + ver-ein(하나로) + -ung = 다시 하나 되기 🤝", "bonus": "10월 3일은 Tag der Deutschen Einheit"},
+      "C1-855": {"pron": "칼테 크리크", "tip": "kalt(차가운) + Krieg(전쟁) = 냉전 🥶 영어 Cold War 그대로!", "warn": "형용사가 변해요: im Kalten Krieg, während des Kalten Krieges."}
+    },
+    "culture": [
+      "베를린 장벽은 1961년 8월 13일에 세워졌고, 1989년 11월 9일 밤에 열렸어요. 그리고 1990년 10월 3일, 독일은 다시 하나가 되었어요. 그래서 10월 3일은 독일 전체의 공휴일 ‘Tag der Deutschen Einheit’예요.",
+      "베를린에 간다면 Bernauer Straße의 장벽 기념관과 그림으로 가득한 East Side Gallery를 꼭 가 보세요. 도시 곳곳 바닥에는 장벽이 있던 자리를 표시한 두 줄의 돌길이 있어서, 무심코 그 위를 걷게 돼요.",
+      "생활 속 흔적도 있어요. 동베를린 쪽 신호등의 귀여운 모자 쓴 사람, Ampelmännchen이 대표적이에요. 통일 후에도 사랑받아서 지금은 베를린의 상징이 되었어요. 🚦"
+    ],
+    "quiz": {"q": "베를린 친구가 ‘Meine Eltern haben sich nach dem Mauerfall kennengelernt.’라고 해요. 부모님은 언제 만났을까요?", "o": ["nach 1989", "vor 1961", "1975"], "a": 0, "why": "Mauerfall은 1989년 장벽 붕괴니까, 그 뒤(nach)에 만난 거예요."},
+    "outro": "오늘은 ‘Die Mauer fiel am 9. November 1989.’를 소리 내어 읽어 봐요. 날짜까지 독일어로 말하면 완벽! 🧱"
+  },
+  "en": {
+    "title": "From the Wall to reunification: 10 German words that tell the story",
+    "hook": "That double line of cobblestones across Berlin's pavements? It marks where the Wall once stood.",
+    "intro": [
+      "In Berlin, history is part of everyday life. On a walk you step over a double row of stones set into the ground, and a friend's parents start a story with ‘Back in the East…’. Every October, the news is full of one very long word: Wiedervereinigung.",
+      "Today's ten words come up whenever Germans talk about division and reunification. With them, museum signs and your German friends' family stories will make a lot more sense. 🧱"
+    ],
+    "words": {
+      "B1-935": {"pron": "MOW-er", "tip": "From Latin murus 🧱 A cousin of English mural.", "warn": "An outside wall of stone is Mauer; a wall inside a room is die Wand."},
+      "A2-109": {"pron": "GREN-tsuh", "tip": "From Slavic granica (boundary) 🛂 Think ‘grrr, stop at the Grenze!’", "bonus": "über die Grenze fahren = to cross the border"},
+      "A1-644": {"pron": "OST-en", "tip": "Same root as English east 🌅 Also related to Ostern (Easter).", "bonus": "Informally, an East German is an Ossi (jokey, so use with care)."},
+      "A1-645": {"pron": "VEST-en", "tip": "Same root as English west 🌇 Just say the W like a V.", "bonus": "Informally, a West German is a Wessi."},
+      "B1-2561": {"pron": "day-day-AIR", "tip": "The initials of Deutsche Demokratische Republik 🇩🇪 Spell it out the German way: D-D-R.", "warn": "Always with the article: in der DDR, die DDR."},
+      "B2-4179": {"pron": "TILE-oong", "tip": "teilen (to divide) + -ung = division ✂️ -ung, so it's die.", "bonus": "The opposite: die Wiedervereinigung"},
+      "B2-731": {"pron": "MOW-er-fal", "tip": "Mauer (wall) + Fall (fall) = the fall of the Wall 🔨 Easy one!", "bonus": "The date: der 9. November 1989"},
+      "B2-732": {"pron": "VEN-duh", "tip": "From wenden (to turn) 🔄 The moment history turned around.", "bonus": "nach der Wende = after the change of 1989"},
+      "B2-730": {"pron": "VEE-der-fair-eye-nee-goong", "tip": "wieder (again) + ver-ein (make one) + -ung = becoming one again 🤝", "bonus": "3 October is Tag der Deutschen Einheit"},
+      "C1-855": {"pron": "KAL-tuh KREEK", "tip": "kalt (cold) + Krieg (war) = Cold War 🥶 Word for word.", "warn": "The adjective changes: im Kalten Krieg, während des Kalten Krieges."}
+    },
+    "culture": [
+      "The Berlin Wall went up on 13 August 1961 and opened on the night of 9 November 1989. On 3 October 1990 Germany was reunited, which is why 3 October is a national holiday: Tag der Deutschen Einheit.",
+      "If you visit Berlin, don't miss the Berlin Wall Memorial on Bernauer Straße or the painted East Side Gallery. Across the city, a double line of cobblestones marks where the Wall ran, so you often walk over it without noticing.",
+      "Some traces are part of daily life. The little man in a hat on East Berlin's pedestrian lights, the Ampelmännchen, stayed popular after reunification and is now a symbol of the city. 🚦"
+    ],
+    "quiz": {"q": "A Berlin friend says: ‘Meine Eltern haben sich nach dem Mauerfall kennengelernt.’ When did their parents meet?", "o": ["nach 1989", "vor 1961", "1975"], "a": 0, "why": "The Mauerfall was in 1989, so they met after (nach) that."},
+    "outro": "Read ‘Die Mauer fiel am 9. November 1989.’ out loud today. Bonus points for saying the date in German too! 🧱"
+  },
+  "ja": {
+    "title": "ベルリンの壁から統一へ：歴史を語るドイツ語10",
+    "hook": "ベルリンの道に埋め込まれた2列の石、それはかつて壁が立っていた場所です。",
+    "intro": [
+      "ベルリンに住んでいると、歴史が日常のすぐそばにあります。散歩中に地面に2列に並んだ石の上を通り、友だちのご両親は「東ドイツにいたころはね…」と話し始めます。毎年10月には、ニュースで Wiedervereinigung という長い単語が流れます。",
+      "今日はドイツの分断と統一を話すときに必ず出てくる10語です。この単語がわかれば、博物館の説明も、ドイツ人の友だちの家族の話も、ずっと深く理解できます。🧱"
+    ],
+    "words": {
+      "B1-935": {"pron": "マウアー", "tip": "ラテン語 murus から 🧱 壁画 mural の親戚です！", "warn": "外の石の壁・塀は Mauer、部屋の中の壁は die Wand です。"},
+      "A2-109": {"pron": "グレンツェ", "tip": "スラブ語 granica（境界）から 🛂「グレンツェ」でストップ！", "bonus": "über die Grenze fahren = 国境を越える"},
+      "A1-644": {"pron": "オステン", "tip": "英語の east と同じ語源 🌅 イースター Ostern とも親戚です。", "bonus": "東ドイツ出身の人は口語で Ossi（冗談っぽいので注意）"},
+      "A1-645": {"pron": "ヴェステン", "tip": "英語の west と同じ語源 🌇 W は「ヴ」の音で！", "bonus": "西ドイツ出身の人は口語で Wessi"},
+      "B1-2561": {"pron": "デーデーエル", "tip": "Deutsche Demokratische Republik の頭文字 🇩🇪 アルファベットをドイツ語読みで！", "warn": "いつも冠詞付き：in der DDR、die DDR"},
+      "B2-4179": {"pron": "タイルング", "tip": "teilen（分ける）+ -ung = 分断 ✂️ -ung なので die！", "bonus": "反対の言葉：die Wiedervereinigung"},
+      "B2-731": {"pron": "マウアーファル", "tip": "Mauer（壁）+ Fall（崩壊）= 壁の崩壊 🔨 英語の fall と同じ！", "bonus": "日付：der 9. November 1989"},
+      "B2-732": {"pron": "ヴェンデ", "tip": "wenden（向きを変える）から 🔄 歴史の向きがくるっと変わった瞬間！", "bonus": "nach der Wende = 1989年の転換のあと"},
+      "B2-730": {"pron": "ヴィーダーフェアアイニグング", "tip": "wieder（再び）+ ver-ein（一つに）+ -ung = 再び一つになること 🤝", "bonus": "10月3日は Tag der Deutschen Einheit"},
+      "C1-855": {"pron": "カルテ クリーク", "tip": "kalt（冷たい）+ Krieg（戦争）= 冷戦 🥶 英語の Cold War と同じ発想！", "warn": "形容詞が変化します：im Kalten Krieg、während des Kalten Krieges"}
+    },
+    "culture": [
+      "ベルリンの壁は1961年8月13日に造られ、1989年11月9日の夜に開かれました。そして1990年10月3日、ドイツは再び一つになりました。だから10月3日はドイツ全国の祝日「Tag der Deutschen Einheit」です。",
+      "ベルリンに行くなら、Bernauer Straße の壁の記念施設と、絵で埋め尽くされた East Side Gallery はぜひ訪れてみてください。街のあちこちの地面には壁があった場所を示す2列の石があり、知らないうちにその上を歩いています。",
+      "暮らしの中の名残もあります。旧東ベルリンの歩行者信号の、帽子をかぶったかわいい人型 Ampelmännchen がその代表。統一後も愛され続け、今ではベルリンのシンボルです。🚦"
+    ],
+    "quiz": {"q": "ベルリンの友だちが「Meine Eltern haben sich nach dem Mauerfall kennengelernt.」と言いました。ご両親が出会ったのはいつ？", "o": ["nach 1989", "vor 1961", "1975"], "a": 0, "why": "Mauerfall は1989年の壁の崩壊なので、そのあと（nach）に出会ったということです。"},
+    "outro": "今日は「Die Mauer fiel am 9. November 1989.」を声に出して読んでみましょう。日付もドイツ語で言えたら完璧です！🧱"
+  }
+}

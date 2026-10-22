@@ -1,0 +1,84 @@
+{
+  "key": "library",
+  "ko": {
+    "title": "도서관에서 공부할 때 꼭 필요한 독일어 단어 10개",
+    "hook": "조용한 독일 도서관, 사서에게 말 한마디 걸려면 이 단어들이 필요해요.",
+    "intro": [
+      "시험 기간, 집에서는 도저히 집중이 안 돼서 도서관에 갔어요. 책을 빌리고 싶은데 카운터에서 뭐라고 해야 할지 모르겠고, 반납일은 내일인데 아직 반도 못 읽었어요.",
+      "오늘은 책을 빌리고, 반납하고, 연장하고, 사전을 찾아보며 공부하는 데 필요한 단어 10개예요. 이걸로 도서관 카운터도, 공부 계획 세우기도 독일어로 할 수 있어요. 📚"
+    ],
+    "words": {
+      "A2-101": {"pron": "비블리오테크", "tip": "그리스어 biblion(책)이 들어 있어요 📚 Bible(성경)도 ‘책’이라는 뜻에서 왔대요.", "warn": "서점은 die Buchhandlung이에요. Bibliothek에서는 책을 사는 게 아니라 빌려요!"},
+      "A1-049": {"pron": "부흐", "tip": "영어 book이랑 거의 같아요 📖 끝은 목을 긁는 ‘흐’ 소리로!", "warn": "복수는 die Bücher, 모음에 점이 생기고 -er가 붙어요."},
+      "BL-15-09": {"pron": "아우스라이엔", "tip": "leihen은 영어 loan과 친척 🤝 aus(밖으로) 빌려 나가는 거예요.", "warn": "분리동사예요: Ich leihe das Buch aus.", "bonus": "내가 빌릴 때는 sich: Ich leihe mir ein Buch aus."},
+      "A2-714": {"pron": "추뤽게벤", "tip": "zurück(뒤로) + geben(주다) = 돌려주다 🔙 레고처럼 붙였어요.", "bonus": "반납 = die Rückgabe"},
+      "B1-352": {"pron": "페어렝언", "tip": "länger(더 긴)가 숨어 있어요 ⏳ 기간을 더 길게 = 연장!", "bonus": "연장 = die Verlängerung · 비자 연장에도 똑같이 써요."},
+      "A1-065": {"pron": "레르넨", "tip": "영어 learn과 같은 뿌리 ✏️ 레르넨, 런, 소리도 비슷하죠?", "warn": "대학에서 전공하는 건 studieren이에요. Ich studiere Medizin."},
+      "B1-326": {"pron": "지히 콘첸트리렌", "tip": "con(함께) + centrum(중심) = 생각을 한가운데로 모으기 🎯", "warn": "재귀동사예요: Ich konzentriere mich auf die Prüfung."},
+      "A2-106": {"pron": "뵈르터부흐", "tip": "Wörter(단어들) + Buch(책) = 단어책 📕 이름 그대로예요!", "bonus": "앱 사전도 그냥 Wörterbuch라고 해요."},
+      "B1-969": {"pron": "나흐슐라겐", "tip": "schlagen은 ‘치다’ 👆 책장을 팍팍 넘기며 찾는 모습이에요.", "warn": "분리동사예요: Ich schlage das Wort nach."},
+      "B2-1260": {"pron": "레른슈토프", "tip": "Stoff는 ‘재료, 천’ 🧱 공부할 재료가 산더미 = Lernstoff!", "bonus": "lernen과 Stoff를 붙인 말이라 관사는 Stoff를 따라 der예요."}
+    },
+    "culture": [
+      "독일에는 대학 도서관 말고도 동네마다 시립 도서관(Stadtbibliothek, Stadtbücherei)이 있어요. 도서관 카드(Bibliotheksausweis)를 만들려면 보통 신분증과 주소 등록 서류가 필요해요. 비용은 도시마다 달라서 무료인 곳도, 연회비를 받는 곳도 있어요.",
+      "대학 도서관에서는 큰 가방이나 겉옷을 사물함(Schließfach)에 넣고 들어가야 하는 경우가 많아요. 동전이 필요한 사물함도 있으니 1유로나 2유로짜리를 챙겨 가면 좋아요.",
+      "많은 공공 도서관이 전자책 대출도 해 줘요. 시험 기간에는 자리가 금방 차니까 아침 일찍 가는 게 팁이에요! ☕"
+    ],
+    "quiz": {"q": "반납일이 내일인데 책을 다 못 읽었어요. 카운터에서 뭐라고 할까요?", "o": ["Ich möchte das Buch nachschlagen.", "Ich konzentriere mich auf das Buch.", "Kann ich das Buch verlängern?"], "a": 2, "why": "verlängern = 연장하다라서 ‘책 대출을 연장할 수 있나요?’가 맞아요."},
+    "outro": "오늘 공부하다가 모르는 단어가 나오면 Ich schlage das Wort nach! 하고 소리 내서 말해 봐요. 다들 공부 화이팅이에요! 📖"
+  },
+  "en": {
+    "title": "Borrow, renew, focus: 10 German words for the library",
+    "hook": "German libraries are quiet, but you'll still need a few words at the desk.",
+    "intro": [
+      "It's exam season and you can't focus at home, so you head to the library. You want to borrow a book but aren't sure what to say at the desk — and the one you have is due tomorrow, half unread.",
+      "Today's ten words help you borrow, return and renew books, look things up and talk about studying. Enough to deal with the library desk and plan your revision in German. 📚"
+    ],
+    "words": {
+      "A2-101": {"pron": "bib-lee-oh-TAKE", "tip": "Greek biblion (book) is inside 📚 Same root as Bible — ‘the book’.", "warn": "A bookshop is die Buchhandlung. In a Bibliothek you borrow, not buy!"},
+      "A1-049": {"pron": "BOOKH", "tip": "Almost English book 📖 End with a raspy ‘ch’ from the throat.", "warn": "Plural: die Bücher, with umlaut and -er."},
+      "BL-15-09": {"pron": "OWS-ly-en", "tip": "leihen is related to English loan 🤝 aus = out: the book goes out.", "warn": "Separable verb: Ich leihe das Buch aus.", "bonus": "To borrow for yourself, add sich: Ich leihe mir ein Buch aus."},
+      "A2-714": {"pron": "tsoo-RUECK-gay-ben", "tip": "zurück (back) + geben (give) = give back 🔙 Lego German again.", "bonus": "a return (at the library) = die Rückgabe"},
+      "B1-352": {"pron": "fair-LENG-ern", "tip": "länger (longer) is hiding inside ⏳ Make the loan longer = renew.", "bonus": "an extension = die Verlängerung · you use it for visas too."},
+      "A1-065": {"pron": "LAIR-nen", "tip": "Same root as English learn ✏️ Say them side by side.", "warn": "Studying a subject at university is studieren: Ich studiere Medizin."},
+      "B1-326": {"pron": "zikh kon-tsen-TREE-ren", "tip": "con (together) + centrum (centre) = pulling your thoughts to the middle 🎯", "warn": "It's reflexive: Ich konzentriere mich auf die Prüfung."},
+      "A2-106": {"pron": "VER-ter-bookh", "tip": "Wörter (words) + Buch (book) = a words book 📕 Does what it says.", "bonus": "A dictionary app is still a Wörterbuch."},
+      "B1-969": {"pron": "NAKH-shlah-gen", "tip": "schlagen means ‘to hit’ 👆 Picture yourself flipping pages fast.", "warn": "Separable verb: Ich schlage das Wort nach."},
+      "B2-1260": {"pron": "LAIRN-shtoff", "tip": "Stoff means ‘material, fabric’ 🧱 A mountain of material to learn = Lernstoff.", "bonus": "It takes der because the last part, der Stoff, decides the gender."}
+    },
+    "culture": [
+      "Besides university libraries, most towns have a public library (Stadtbibliothek or Stadtbücherei). To get a library card (Bibliotheksausweis) you usually need ID and proof of address. Costs vary by city — some are free, others charge a yearly fee.",
+      "In university libraries you're often asked to leave big bags and coats in a locker (Schließfach). Some lockers take a coin, so it helps to carry a one- or two-euro piece.",
+      "Many public libraries also lend e-books. And during exam season seats fill up fast, so go early! ☕"
+    ],
+    "quiz": {"q": "Your book is due tomorrow but you haven't finished it. What do you ask at the desk?", "o": ["Ich möchte das Buch nachschlagen.", "Ich konzentriere mich auf das Buch.", "Kann ich das Buch verlängern?"], "a": 2, "why": "verlängern means to renew, so you're asking to keep the book longer."},
+    "outro": "Next time you meet a new word while studying, say Ich schlage das Wort nach! out loud. Good luck with your revision! 📖"
+  },
+  "ja": {
+    "title": "図書館で勉強するときに役立つドイツ語10選",
+    "hook": "静かなドイツの図書館でも、カウンターで話すにはこの単語が必要です。",
+    "intro": [
+      "試験期間、家ではどうしても集中できなくて図書館へ。本を借りたいけれどカウンターで何と言えばいいかわからないし、返却日は明日なのにまだ半分も読めていません。",
+      "今日は本を借りる、返す、延長する、辞書を引く、そして勉強そのものに必要な単語10個です。これで図書館のカウンターも、勉強の計画もドイツ語でこなせます。📚"
+    ],
+    "words": {
+      "A2-101": {"pron": "ビブリオテーク", "tip": "ギリシャ語の biblion（本）が入っています 📚 Bible（聖書）も「本」が語源です。", "warn": "本屋は die Buchhandlung。Bibliothek では本を買うのではなく借ります！"},
+      "A1-049": {"pron": "ブーフ", "tip": "英語の book とほぼ同じ 📖 最後はのどの奥から「フ」と息を出します。", "warn": "複数形は die Bücher、ウムラウトと -er が付きます。"},
+      "BL-15-09": {"pron": "アウスライエン", "tip": "leihen は英語の loan の親戚 🤝 aus（外へ）本が出ていくイメージ。", "warn": "分離動詞です：Ich leihe das Buch aus.", "bonus": "自分が借りるときは sich を付けて：Ich leihe mir ein Buch aus."},
+      "A2-714": {"pron": "ツリュックゲーベン", "tip": "zurück（後ろへ）+ geben（与える）= 返す 🔙 レゴのように組み立て！", "bonus": "返却 = die Rückgabe"},
+      "B1-352": {"pron": "フェアレンガーン", "tip": "länger（より長い）が隠れています ⏳ 期間を長くする = 延長！", "bonus": "延長 = die Verlängerung · ビザの延長にも使います。"},
+      "A1-065": {"pron": "レルネン", "tip": "英語の learn と同じ語源 ✏️ 並べて言うと音も似ています。", "warn": "大学で専攻するのは studieren：Ich studiere Medizin."},
+      "B1-326": {"pron": "ズィッヒ コンツェントリーレン", "tip": "con（一緒に）+ centrum（中心）= 考えを真ん中に集める 🎯", "warn": "再帰動詞です：Ich konzentriere mich auf die Prüfung."},
+      "A2-106": {"pron": "ヴェルターブーフ", "tip": "Wörter（単語）+ Buch（本）= 単語の本 📕 名前のとおり！", "bonus": "辞書アプリも Wörterbuch と呼びます。"},
+      "B1-969": {"pron": "ナーハシュラーゲン", "tip": "schlagen は「打つ」👆 ページをパラパラめくって探す姿です。", "warn": "分離動詞です：Ich schlage das Wort nach."},
+      "B2-1260": {"pron": "レルンシュトッフ", "tip": "Stoff は「材料、布」🧱 勉強する材料が山積み = Lernstoff！", "bonus": "最後の der Stoff で性が決まるので、冠詞は der です。"}
+    },
+    "culture": [
+      "ドイツには大学図書館のほか、町ごとに市立図書館（Stadtbibliothek、Stadtbücherei）があります。図書館カード（Bibliotheksausweis）を作るには、ふつう身分証明書と住所の証明が必要です。料金は町によって違い、無料のところも年会費がかかるところもあります。",
+      "大学図書館では、大きなかばんや上着をロッカー（Schließfach）に入れてから入るように言われることがよくあります。コインが必要なロッカーもあるので、1ユーロか2ユーロ硬貨を持っていくと便利です。",
+      "多くの公共図書館では電子書籍の貸し出しもしています。試験期間は席がすぐ埋まるので、朝早めに行くのがコツです！☕"
+    ],
+    "quiz": {"q": "返却日は明日なのに、本を読み終わっていません。カウンターで何と言いますか？", "o": ["Ich möchte das Buch nachschlagen.", "Ich konzentriere mich auf das Buch.", "Kann ich das Buch verlängern?"], "a": 2, "why": "verlängern は「延長する」なので、「本の貸し出しを延長できますか？」が正解です。"},
+    "outro": "勉強中に知らない単語が出てきたら、Ich schlage das Wort nach! と声に出してみましょう。勉強、応援しています！📖"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "news",
+  "ko": {
+    "title": "독일 뉴스, 헤드라인부터 읽어 보는 단어 10",
+    "hook": "독일 뉴스가 너무 어렵게 느껴진다면, 매일 나오는 단어 10개부터 잡으면 돼요.",
+    "intro": [
+      "아침에 지하철에서 옆 사람이 신문을 펼쳤어요. 큼직한 제목이 눈에 들어오는데 무슨 일인지 감이 안 와요. 저녁엔 친구가 ‘Hast du die Nachrichten gesehen?’ 하고 묻고요.",
+      "오늘은 뉴스를 읽고 들을 때 매일 나오는 단어 10개예요. 이 단어들만 알아도 기사 제목이 훨씬 잘 보이고, 뉴스 이야기에 한마디 보탤 수 있어요. 🗞️"
+    ],
+    "words": {
+      "A2-045": {"pron": "나흐리히트", "tip": "nach(뒤에) + richten(향하다) = 듣고 나서 행동하는 정보 📩 문자 메시지도 Nachricht!", "warn": "‘뉴스’라는 뜻일 땐 복수로 써요: die Nachrichten"},
+      "A1-588": {"pron": "차이퉁", "tip": "Zeit(시간)처럼 들리죠? 그날그날의 소식 📰 -ung이니까 die!", "bonus": "잡지는 die Zeitschrift라고 해요."},
+      "A2-410": {"pron": "아르티켈", "tip": "기사도, 문법의 관사(der/die/das)도 Artikel ✏️ 독일어 공부의 원수이자 친구!", "bonus": "가게에서는 ‘상품’이라는 뜻으로도 써요."},
+      "A2-653": {"pron": "주르날리스트", "tip": "프랑스어 journal(일간지)에서 왔어요 🎤 J를 ‘ㅈ’ 부드럽게!", "bonus": "여성 기자는 die Journalistin"},
+      "B1-150": {"pron": "베리히텐", "tip": "be- + richten(바로 세우다) = 사실을 바로 세워 전하다 📡", "bonus": "~에 대해 보도하다 = berichten über + 4격"},
+      "B1-502": {"pron": "베리히트", "tip": "berichten에서 -en만 빼면 명사 완성 📋", "bonus": "날씨 예보는 der Wetterbericht!"},
+      "B1-250": {"pron": "메디엔", "tip": "영어 media와 같은 라틴어 medium(가운데)에서 📺", "warn": "보통 복수로 써요: die Medien. 단수는 das Medium."},
+      "B2-918": {"pron": "슐락차일레", "tip": "schlagen(치다) + Zeile(줄) = 눈을 탁 치는 한 줄 💥", "bonus": "Schlagzeilen machen = 화제가 되다, 헤드라인을 장식하다"},
+      "B1-354": {"pron": "악투엘", "tip": "‘지금 따끈따끈한’ 소식 🔥 aktuelle Nachrichten = 최신 뉴스", "warn": "영어 actually가 아니에요! ‘사실은’은 eigentlich예요."},
+      "B2-260": {"pron": "크벨레", "tip": "물이 퐁퐁 솟는 샘 = 정보가 솟아나는 출처 💧", "bonus": "출처를 밝히다 = die Quelle angeben"}
+    },
+    "culture": [
+      "독일에서 오래된 저녁 뉴스의 상징은 공영방송 ARD의 Tagesschau예요. 저녁 8시 뉴스로 유명해서, ‘8시 Tagesschau’를 보며 하루를 정리하는 집도 많아요.",
+      "독일어 공부 중이라면 Deutsche Welle(DW)의 천천히 읽어 주는 뉴스(Langsam gesprochene Nachrichten)를 추천해요. 진짜 뉴스를 학습자 속도로 들을 수 있어요.",
+      "그리고 독일에는 대부분의 가구가 공영방송 수신료(Rundfunkbeitrag)를 내요. 이사하면 관련 편지가 오는 경우가 많으니 놀라지 마세요. 📺"
+    ],
+    "quiz": {"q": "독일 친구에게 ‘사실은 나 오늘 쉬는 날이야’라고 말하고 싶어요.", "o": ["Aktuell habe ich eine Schlagzeile.", "Eigentlich habe ich heute frei.", "Die Medien haben heute frei."], "a": 1, "why": "‘사실은’은 eigentlich예요. aktuell은 ‘최신의, 현재의’라는 뜻이라 함정이에요."},
+    "outro": "오늘 독일 뉴스 사이트에서 헤드라인 세 개만 골라 소리 내서 읽어 봐요. 아는 단어가 몇 개나 보이는지 세어 보면 재밌어요! 🗞️"
+  },
+  "en": {
+    "title": "10 German words that unlock the headlines",
+    "hook": "German news feels tough at first, but the same ten words come up every single day.",
+    "intro": [
+      "On the morning train, the person next to you opens a newspaper. You can see the big headline but have no idea what happened. That evening a friend asks, ‘Hast du die Nachrichten gesehen?’",
+      "Today's ten words appear in the news every day. Learn them and headlines suddenly start making sense — and you can join in when people talk about what's going on. 🗞️"
+    ],
+    "words": {
+      "A2-045": {"pron": "NAKH-rikht", "tip": "nach (after) + richten (to direct) = info you act on afterwards 📩 A text message is also a Nachricht.", "warn": "For ‘the news’, use the plural: die Nachrichten."},
+      "A1-588": {"pron": "TSY-toong", "tip": "Hear Zeit (time) in it? The news of the day 📰 -ung, so die.", "bonus": "A magazine is die Zeitschrift."},
+      "A2-410": {"pron": "ar-TEE-kel", "tip": "A newspaper article and der/die/das are both Artikel ✏️ Every learner's frenemy.", "bonus": "In shops it also means an item or product."},
+      "A2-653": {"pron": "zhoor-na-LIST", "tip": "From French journal, a daily paper 🎤 The J is soft, like in French.", "bonus": "A female journalist is die Journalistin."},
+      "B1-150": {"pron": "buh-RIKH-ten", "tip": "be- + richten (to set right) = to set out the facts 📡", "bonus": "to report on = berichten über + accusative"},
+      "B1-502": {"pron": "buh-RIKHT", "tip": "Drop the -en from berichten and you have the noun 📋", "bonus": "The weather forecast is der Wetterbericht."},
+      "B1-250": {"pron": "MAY-dee-en", "tip": "Same Latin root as English media 📺", "warn": "Usually plural: die Medien. The singular is das Medium."},
+      "B2-918": {"pron": "SHLAHK-tsy-luh", "tip": "schlagen (to strike) + Zeile (line) = the line that hits you 💥", "bonus": "Schlagzeilen machen = to make headlines"},
+      "B1-354": {"pron": "ak-too-EL", "tip": "Hot off the press 🔥 aktuelle Nachrichten = the latest news", "warn": "False friend: aktuell = current. ‘Actually’ is eigentlich."},
+      "B2-260": {"pron": "KVEL-uh", "tip": "A spring where water bubbles up — and where information comes from 💧", "bonus": "to cite your source = die Quelle angeben"}
+    },
+    "culture": [
+      "The classic German evening news is the Tagesschau on the public broadcaster ARD. Its 8 pm edition is famous, and many households still end the day with it.",
+      "If you're learning German, try Deutsche Welle's slowly spoken news (Langsam gesprochene Nachrichten). It's real news, read at learner speed.",
+      "Most households in Germany also pay a public broadcasting fee (Rundfunkbeitrag). You'll often get a letter about it after you register a new address, so don't be surprised. 📺"
+    ],
+    "quiz": {"q": "You want to tell a German friend, ‘Actually, I've got the day off today.’", "o": ["Aktuell habe ich eine Schlagzeile.", "Eigentlich habe ich heute frei.", "Die Medien haben heute frei."], "a": 1, "why": "‘Actually’ is eigentlich; aktuell means current, so it's the trap."},
+    "outro": "Open a German news site today and read three headlines out loud. Count how many words you recognise! 🗞️"
+  },
+  "ja": {
+    "title": "見出しから読めるようになるニュースのドイツ語10",
+    "hook": "ドイツのニュースが難しく感じても、毎日出てくる10語から押さえれば大丈夫です。",
+    "intro": [
+      "朝の電車で、となりの人が新聞を広げました。大きな見出しが目に入るのに、何があったのかさっぱり。夜には友だちに「Hast du die Nachrichten gesehen?（ニュース見た？）」と聞かれます。",
+      "今日はニュースを読んだり聞いたりするときに毎日出てくる単語10個です。これだけで見出しがぐっと読みやすくなり、ニュースの話題にもひとこと加われます。🗞️"
+    ],
+    "words": {
+      "A2-045": {"pron": "ナーハリヒト", "tip": "nach（あとで）+ richten（向ける）= 聞いて行動するための情報 📩 携帯のメッセージも Nachricht！", "warn": "「ニュース」の意味では複数形：die Nachrichten"},
+      "A1-588": {"pron": "ツァイトゥング", "tip": "Zeit（時間）に聞こえますね。その日その日の知らせ 📰 -ung なので die！", "bonus": "雑誌は die Zeitschrift です。"},
+      "A2-410": {"pron": "アルティーケル", "tip": "記事も、文法の冠詞（der/die/das）も Artikel ✏️ ドイツ語学習者の宿敵で友だち！", "bonus": "お店では「商品」の意味でも使います。"},
+      "A2-653": {"pron": "ジュルナリスト", "tip": "フランス語 journal（日刊紙）から 🎤 J はやわらかく「ジュ」。", "bonus": "女性の記者は die Journalistin"},
+      "B1-150": {"pron": "ベリヒテン", "tip": "be- + richten（正す）= 事実を正しく伝える 📡", "bonus": "〜について報道する = berichten über + 4格"},
+      "B1-502": {"pron": "ベリヒト", "tip": "berichten から -en を取れば名詞の完成 📋", "bonus": "天気予報は der Wetterbericht！"},
+      "B1-250": {"pron": "メーディエン", "tip": "英語 media と同じラテン語 medium（真ん中）から 📺", "warn": "ふつう複数形：die Medien。単数は das Medium です。"},
+      "B2-918": {"pron": "シュラークツァイレ", "tip": "schlagen（打つ）+ Zeile（行）= 目をバシッと打つ1行 💥", "bonus": "Schlagzeilen machen = 話題になる、見出しを飾る"},
+      "B1-354": {"pron": "アクトゥエル", "tip": "できたてほやほやの情報 🔥 aktuelle Nachrichten = 最新ニュース", "warn": "英語の actually ではありません！「実は」は eigentlich です。"},
+      "B2-260": {"pron": "クヴェレ", "tip": "水がわき出る泉＝情報がわき出る出どころ 💧", "bonus": "出典を示す = die Quelle angeben"}
+    },
+    "culture": [
+      "ドイツの夕方のニュースの代名詞といえば、公共放送 ARD の Tagesschau です。夜8時の回が特に有名で、これを見て一日をしめくくる家庭も多いです。",
+      "ドイツ語を勉強中なら、ドイチェ・ヴェレ（DW）のゆっくり読むニュース（Langsam gesprochene Nachrichten）がおすすめです。本物のニュースを学習者向けのスピードで聞けます。",
+      "それから、ドイツではほとんどの世帯が公共放送の受信料（Rundfunkbeitrag）を払っています。住所を登録したあとに案内の手紙が届くことが多いので、驚かないでくださいね。📺"
+    ],
+    "quiz": {"q": "ドイツの友だちに「実は今日休みなんだ」と言いたいです。", "o": ["Aktuell habe ich eine Schlagzeile.", "Eigentlich habe ich heute frei.", "Die Medien haben heute frei."], "a": 1, "why": "「実は」は eigentlich。aktuell は「最新の、現在の」という意味なので引っかけです。"},
+    "outro": "今日はドイツのニュースサイトで見出しを3つ選んで、声に出して読んでみましょう。知っている単語がいくつあるか数えるのも楽しいですよ！🗞️"
+  }
+}

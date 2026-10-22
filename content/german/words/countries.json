@@ -1,0 +1,84 @@
+{
+  "key": "countries",
+  "ko": {
+    "title": "‘어디서 왔어요?’에 답하는 독일어 10",
+    "hook": "독일에서 가장 많이 듣는 질문은 아마 ‘Woher kommst du?’일 거예요.",
+    "intro": [
+      "파티에서 처음 만난 사람이 ‘Aus welchem Land kommst du?’ 하고 물어요. 한국이라고 하면 이어서 ‘Welche Sprachen sprichst du?’ 질문이 쏟아지죠.",
+      "오늘은 나라와 언어에 관한 단어 10개를 모았어요. 이 단어들이면 내 소개부터 국적 칸 채우기, 언어 이야기까지 자신 있게 할 수 있어요. 🌐"
+    ],
+    "words": {
+      "A1-209": {"pron": "란트", "tip": "영어 land와 같은 뿌리 🗺️ 나라도 땅도 시골도 Land!", "bonus": "auf dem Land = 시골에서 · 복수는 die Länder"},
+      "A1-151": {"pron": "슈프라헤", "tip": "sprechen(말하다)에서 나온 명사 🗣️ 말하는 것 = 언어!", "bonus": "Wie viele Sprachen sprichst du? = 몇 개 언어 해?"},
+      "A1-651": {"pron": "나치오날리태트", "tip": "-tät으로 끝나면 언제나 die 🛂 영어 nationality와 거의 같아요!", "bonus": "서류에서는 die Staatsangehörigkeit라는 말도 자주 봐요."},
+      "A1-634": {"pron": "도이칠란트", "tip": "deutsch + Land = 독일 사람들의 땅 🇩🇪", "warn": "나라 이름 대부분은 관사 없이: in Deutschland, aus Deutschland"},
+      "A1-672": {"pron": "쥐트코레아", "tip": "Süd(남쪽) + Korea 🇰🇷 Ich komme aus Südkorea!", "bonus": "한국 사람 = der Koreaner / die Koreanerin, 한국어 = Koreanisch"},
+      "A2-704": {"pron": "외스터라이히", "tip": "Ost(동쪽) + Reich(나라) = 동쪽 나라 🏔️ 옛날 이름 Ostarrichi에서 왔어요.", "bonus": "오스트리아 사람 = der Österreicher / die Österreicherin"},
+      "A2-674": {"pron": "엥글리슈", "tip": "England + -isch = 영어 🇬🇧 언어 이름은 늘 대문자로 시작!", "warn": "‘영어를 해요’는 관사 없이: Ich spreche Englisch."},
+      "B1-1173": {"pron": "무터슈프라헤", "tip": "Mutter(엄마) + Sprache(언어) = 엄마에게 배운 말 👩‍👧", "bonus": "Meine Muttersprache ist Koreanisch."},
+      "B1-227": {"pron": "프렘트슈프라헤", "tip": "fremd(낯선) + Sprache = 낯선 말, 외국어 🧳", "bonus": "외국인 = der Ausländer, 낯선 사람 = der Fremde"},
+      "A1-059": {"pron": "슈프레헨", "tip": "영어 speak의 사촌 💬 du spricht가 아니라 du sprichst!", "warn": "불규칙 동사예요: du sprichst, er spricht · hat gesprochen"}
+    },
+    "culture": [
+      "독일어는 독일만의 말이 아니에요. 오스트리아와 스위스 일부, 리히텐슈타인 등에서도 독일어를 써요. 지역마다 단어와 억양이 달라서, 오스트리아에서는 감자를 Erdapfel이라고 부르기도 해요.",
+      "독일어에서 Land는 ‘주(州)’라는 뜻으로도 써요. 독일은 16개의 Bundesland로 이루어져 있고, 학교 방학이나 공휴일이 주마다 다른 경우가 많아요.",
+      "나라 이름은 대부분 관사가 없지만 예외도 있어요. die Schweiz, die Türkei, die USA처럼요. 그래서 ‘스위스에서 왔어요’는 Ich komme aus der Schweiz.라고 해요. 🇨🇭"
+    ],
+    "quiz": {"q": "새 반 친구가 모국어가 뭐냐고 물어요. 맞는 대답은?", "o": ["Ich komme aus Deutschland.", "Ich spreche gern Englisch.", "Meine Muttersprache ist Koreanisch."], "a": 2, "why": "die Muttersprache = 모국어, 처음 배운 말을 물을 때 쓰는 단어예요."},
+    "outro": "오늘은 ‘Ich komme aus …, ich spreche …’로 30초 자기소개를 소리 내 해 봐요. 🎤"
+  },
+  "en": {
+    "title": "Where are you from? 10 German words about countries and languages",
+    "hook": "The question you'll hear most in Germany is probably ‘Woher kommst du?’",
+    "intro": [
+      "At a party, someone you've just met asks, ‘Aus welchem Land kommst du?’ You answer, and straight away comes the next one: ‘Welche Sprachen sprichst du?’",
+      "Here are ten words about countries and languages. With them you can introduce yourself, fill in the nationality box and chat about the languages you speak. 🌐"
+    ],
+    "words": {
+      "A1-209": {"pron": "LAHNT", "tip": "Same root as English land 🗺️ Country, land, countryside — all Land.", "bonus": "auf dem Land = in the countryside · plural: die Länder"},
+      "A1-151": {"pron": "SHPRAH-khuh", "tip": "The noun from sprechen (to speak) 🗣️ What you speak is a language.", "bonus": "Wie viele Sprachen sprichst du? = How many languages do you speak?"},
+      "A1-651": {"pron": "nah-tsyoh-nah-lee-TAIT", "tip": "Nouns ending in -tät are always die 🛂 Nearly the same as nationality.", "bonus": "On official forms you'll also see die Staatsangehörigkeit."},
+      "A1-634": {"pron": "DOYTCH-lahnt", "tip": "deutsch + Land = the land of the Germans 🇩🇪", "warn": "Most country names take no article: in Deutschland, aus Deutschland."},
+      "A1-672": {"pron": "ZUET-koh-RAY-ah", "tip": "Süd (south) + Korea 🇰🇷 Ich komme aus Südkorea!", "bonus": "a Korean = der Koreaner / die Koreanerin · Korean language = Koreanisch"},
+      "A2-704": {"pron": "ER-ster-rykh", "tip": "Ost (east) + Reich (realm) = the eastern realm 🏔️ From the old name Ostarrichi.", "bonus": "an Austrian = der Österreicher / die Österreicherin"},
+      "A2-674": {"pron": "ENG-lish", "tip": "England + -isch = English 🇬🇧 Language names start with a capital.", "warn": "No article when you speak it: Ich spreche Englisch."},
+      "B1-1173": {"pron": "MOO-ter-shprah-khuh", "tip": "Mutter (mother) + Sprache = the language you learned from mum 👩‍👧", "bonus": "Meine Muttersprache ist Koreanisch."},
+      "B1-227": {"pron": "FREMT-shprah-khuh", "tip": "fremd (foreign, strange) + Sprache = a foreign language 🧳", "bonus": "foreigner = der Ausländer · stranger = der Fremde"},
+      "A1-059": {"pron": "SHPREKH-en", "tip": "A cousin of English speak 💬 It's du sprichst, not du sprechst!", "warn": "Irregular: du sprichst, er spricht · hat gesprochen"}
+    },
+    "culture": [
+      "German isn't only spoken in Germany. It's also used in Austria, parts of Switzerland, Liechtenstein and more. Words and accents vary: in Austria a potato can be an Erdapfel.",
+      "In German, Land can also mean a federal state. Germany is made up of 16 Bundesländer, and school holidays and some public holidays often differ from state to state.",
+      "Most country names have no article, but there are exceptions, like die Schweiz, die Türkei and die USA. So ‘I'm from Switzerland’ is Ich komme aus der Schweiz. 🇨🇭"
+    ],
+    "quiz": {"q": "A new classmate asks about your native language. Which answer fits?", "o": ["Ich komme aus Deutschland.", "Ich spreche gern Englisch.", "Meine Muttersprache ist Koreanisch."], "a": 2, "why": "die Muttersprache means native language, the one you learned first."},
+    "outro": "Give a 30-second introduction out loud with ‘Ich komme aus …, ich spreche …’ 🎤"
+  },
+  "ja": {
+    "title": "「どこから来たの？」に答えるドイツ語10",
+    "hook": "ドイツでいちばんよく聞かれる質問は、たぶん「Woher kommst du?」です。",
+    "intro": [
+      "パーティーで初めて会った人に「Aus welchem Land kommst du?」と聞かれました。答えると、すぐに「Welche Sprachen sprichst du?」と次の質問が。",
+      "今日は国と言語に関する単語を10個集めました。自己紹介から国籍欄の記入、言語の話まで、自信を持ってできるようになりますよ。🌐"
+    ],
+    "words": {
+      "A1-209": {"pron": "ラント", "tip": "英語の land と同じ語源 🗺️ 国も土地も田舎も Land！", "bonus": "auf dem Land = 田舎で · 複数形は die Länder"},
+      "A1-151": {"pron": "シュプラーへ", "tip": "sprechen（話す）から生まれた名詞 🗣️ 話すもの = 言語！", "bonus": "Wie viele Sprachen sprichst du? = 何か国語話せるの？"},
+      "A1-651": {"pron": "ナツィオナリテート", "tip": "-tät で終わる名詞はいつも die 🛂 英語の nationality とほぼ同じ！", "bonus": "公的な書類では die Staatsangehörigkeit もよく見ます。"},
+      "A1-634": {"pron": "ドイチュラント", "tip": "deutsch + Land = ドイツの人々の国 🇩🇪", "warn": "国名のほとんどは冠詞なし：in Deutschland, aus Deutschland"},
+      "A1-672": {"pron": "ズュートコレーア", "tip": "Süd（南）+ Korea 🇰🇷 Ich komme aus Südkorea!", "bonus": "日本は Japan、日本語は Japanisch です。"},
+      "A2-704": {"pron": "エースターライヒ", "tip": "Ost（東）+ Reich（国）= 東の国 🏔️ 古い名前 Ostarrichi から来ています。", "bonus": "オーストリア人 = der Österreicher / die Österreicherin"},
+      "A2-674": {"pron": "エングリッシュ", "tip": "England + -isch = 英語 🇬🇧 言語名はいつも大文字で始めます！", "warn": "「英語を話す」は冠詞なし：Ich spreche Englisch."},
+      "B1-1173": {"pron": "ムッターシュプラーへ", "tip": "Mutter（母）+ Sprache（言語）= お母さんから習った言葉 👩‍👧", "bonus": "Meine Muttersprache ist Japanisch."},
+      "B1-227": {"pron": "フレムトシュプラーへ", "tip": "fremd（見知らぬ）+ Sprache = 見知らぬ言葉、外国語 🧳", "bonus": "外国人 = der Ausländer、見知らぬ人 = der Fremde"},
+      "A1-059": {"pron": "シュプレッヒェン", "tip": "英語 speak のいとこ 💬 du sprechst ではなく du sprichst！", "warn": "不規則動詞です：du sprichst, er spricht · hat gesprochen"}
+    },
+    "culture": [
+      "ドイツ語はドイツだけの言葉ではありません。オーストリア、スイスの一部、リヒテンシュタインなどでも話されています。地域によって単語やなまりが違い、オーストリアではじゃがいもを Erdapfel と呼ぶこともあります。",
+      "ドイツ語の Land は「州」という意味でも使います。ドイツは16の Bundesland からなり、学校の休みや祝日が州ごとに違うことがよくあります。",
+      "国名はほとんど冠詞がつきませんが、例外もあります。die Schweiz、die Türkei、die USA などです。だから「スイスから来ました」は Ich komme aus der Schweiz. と言います。🇨🇭"
+    ],
+    "quiz": {"q": "新しいクラスメートに母語を聞かれました。合う答えは？", "o": ["Ich komme aus Deutschland.", "Ich spreche gern Englisch.", "Meine Muttersprache ist Koreanisch."], "a": 2, "why": "die Muttersprache = 母語。最初に覚えた言葉をたずねるときに使います。"},
+    "outro": "今日は「Ich komme aus …, ich spreche …」で30秒の自己紹介を声に出してやってみましょう。🎤"
+  }
+}

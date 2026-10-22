@@ -1,0 +1,222 @@
+{
+  "key": "healthins",
+  "ko": {
+    "title": "독일 건강보험, 이 10단어면 안 헤매요",
+    "hook": "보험사에서 온 편지 한 통, 단어 몇 개만 알면 훨씬 덜 무서워져요.",
+    "intro": [
+      "독일에 오면 거의 제일 먼저 하는 일이 건강보험 가입이에요. 그런데 Krankenkasse, Krankenversicherung, gesetzlich… 비슷한 단어가 잔뜩 나와서 편지를 읽다가 머리가 하얘지죠. 병원에 갔더니 “Haben Sie eine Überweisung?”이라는데, 이체를 하라는 건가요?",
+      "오늘은 보험과 가정의 제도를 이해하는 데 꼭 필요한 단어 10개를 골랐어요. 이 단어들만 알면 보험 편지도, 병원 접수도 훨씬 편해져요. 🩺"
+    ],
+    "words": {
+      "B1-018": {
+        "pron": "크랑켄카세",
+        "tip": "krank(아픈) + Kasse(금고) = 아플 때 꺼내 쓰는 금고 💰",
+        "bonus": "일상에서는 “Bei welcher Krankenkasse sind Sie?” (어느 보험사에 가입하셨어요?)를 정말 자주 들어요."
+      },
+      "B1-280": {
+        "pron": "크랑켄페어지혀룽",
+        "tip": "krank + Versicherung(보험) = 건강보험 🛡️ -ung이니까 당연히 die!",
+        "warn": "Krankenversicherung은 제도·보험 자체, Krankenkasse는 보험을 운영하는 곳이에요. 일상에선 섞어 쓰기도 해요."
+      },
+      "B1-1352": {
+        "pron": "페어지혀텐카르테",
+        "tip": "der/die Versicherte(보험 든 사람) + Karte = 내 보험 카드 💳",
+        "bonus": "흔히 Krankenkassenkarte라고도 해요."
+      },
+      "B2-1126": {
+        "pron": "하우스아르츠트",
+        "tip": "Haus(집) + Arzt = 우리 집 담당 의사 🏡 아프면 일단 여기부터!"
+      },
+      "B1-1286": {
+        "pron": "위버바이중",
+        "tip": "über(건너) + weisen(가리키다) = 저쪽으로 넘겨 보내기 ➡️ 돈도 환자도 넘겨요!",
+        "warn": "은행에서는 ‘계좌 이체’, 병원에서는 ‘전문의 소견서’예요. 같은 단어, 다른 뜻!"
+      },
+      "B2-1127": {
+        "pron": "파흐아르츠트",
+        "tip": "Fach(전문 분야, 과목) + Arzt = 전문의 🔬 학교 과목도 Fach예요.",
+        "bonus": "Facharzt für + 4격: Facharzt für Augenheilkunde = 안과 전문의"
+      },
+      "BL-04-02": {
+        "pron": "프락시스",
+        "tip": "영어 practice 👩‍⚕️ Hausarzt도 Facharzt도 보통 자기 Praxis에서 진료해요."
+      },
+      "B2-1138": {
+        "pron": "추찰룽",
+        "tip": "zu(덧붙여) + zahlen(내다) = 내가 조금 더 보태 내는 돈 🪙"
+      },
+      "B2-1121": {
+        "pron": "포어조르게운터주훙",
+        "tip": "Vorsorge(미리 걱정하기, 예방) + Untersuchung(검사) = 건강 검진 🩻 긴 단어도 쪼개면 쉬워요!",
+        "bonus": "줄여서 그냥 Vorsorge라고도 해요."
+      },
+      "B2-379": {
+        "pron": "게제츨리히",
+        "tip": "Gesetz(법) + -lich = 법으로 정한 ⚖️ 공적 보험은 gesetzlich, 민간 보험은 privat!",
+        "bonus": "gesetzliche Krankenversicherung = 공적 건강보험 · private Krankenversicherung = 민간 건강보험"
+      }
+    },
+    "culture": [
+      "독일에서는 건강보험 가입이 의무예요. 대부분의 사람은 공적 보험(gesetzlich)에 들고, 조건에 따라 민간 보험(privat)을 고를 수 있는 사람도 있어요. 공적 보험사는 여러 곳 중에서 직접 골라요.",
+      "아프면 보통 먼저 가정의(Hausarzt)에게 가요. 전문의에게 갈 때 가정의의 소견서(Überweisung)를 가져가는 경우가 많은데, 꼭 필요한지는 진료 과목이나 보험에 따라 달라요.",
+      "병원 갈 때마다 보험 카드는 필수예요! 분기가 바뀌면 접수대에서 카드를 다시 달라고 하는 경우가 많으니 지갑에 늘 넣고 다니세요. 💳"
+    ],
+    "quiz": {
+      "q": "전문의 병원 접수대에서 이렇게 물어요. “Haben Sie ___ vom Hausarzt?” 빈칸에 들어갈 말은?",
+      "o": [
+        "eine Zuzahlung",
+        "eine Krankenkasse",
+        "eine Überweisung"
+      ],
+      "a": 2,
+      "why": "eine Überweisung vom Hausarzt = 가정의가 써 준 소견서예요."
+    },
+    "outro": "오늘은 지갑 속 보험 카드를 꺼내 보면서 “Ich bin gesetzlich versichert.”를 세 번 소리 내 말해 봐요. 다음에 접수대에서 바로 나올 거예요! 😊"
+  },
+  "en": {
+    "title": "German health insurance in 10 words",
+    "hook": "A letter from your health insurer is much less scary once you know a handful of words.",
+    "intro": [
+      "Getting health insurance is one of the first things you do after moving to Germany. Then come the letters full of Krankenkasse, Krankenversicherung and gesetzlich, and your head starts to spin. At the practice someone asks, “Haben Sie eine Überweisung?” — do they want a bank transfer?",
+      "Today's ten words explain how insurance and the GP system work. With them, insurer letters and the reception desk get a lot easier. 🩺"
+    ],
+    "words": {
+      "B1-018": {
+        "pron": "KRANK-en-kass-uh",
+        "tip": "krank (sick) + Kasse (cash box) = the money box for when you're sick 💰",
+        "bonus": "You'll often hear: “Bei welcher Krankenkasse sind Sie?” (Which insurer are you with?)"
+      },
+      "B1-280": {
+        "pron": "KRANK-en-fair-zikh-er-oong",
+        "tip": "krank + Versicherung (insurance) = health insurance 🛡️ It ends in -ung, so it's die.",
+        "warn": "Krankenversicherung is the insurance itself; Krankenkasse is the fund that runs it. People often mix them up in everyday speech."
+      },
+      "B1-1352": {
+        "pron": "fair-ZIKH-er-ten-kar-tuh",
+        "tip": "der/die Versicherte (insured person) + Karte = your insurance card 💳",
+        "bonus": "Often just called the Krankenkassenkarte."
+      },
+      "B2-1126": {
+        "pron": "HOWSS-artst",
+        "tip": "Haus (house) + Arzt = the doctor for your household 🏡 Your first stop when you're ill."
+      },
+      "B1-1286": {
+        "pron": "ü-ber-VY-zoong",
+        "tip": "über (across) + weisen (to point) = sending something over ➡️ Money or patients!",
+        "warn": "At the bank it's a transfer; at the doctor's it's a referral. Same word, two meanings."
+      },
+      "B2-1127": {
+        "pron": "FAKH-artst",
+        "tip": "Fach (field, school subject) + Arzt = specialist 🔬 Think of a doctor with one ‘subject’.",
+        "bonus": "Facharzt für + acc.: Facharzt für Augenheilkunde = eye specialist"
+      },
+      "BL-04-02": {
+        "pron": "PRAK-sis",
+        "tip": "English practice 👩‍⚕️ Both GPs and specialists usually work in their own Praxis."
+      },
+      "B2-1138": {
+        "pron": "TSOO-tsah-loong",
+        "tip": "zu (in addition) + zahlen (to pay) = the bit you pay on top 🪙"
+      },
+      "B2-1121": {
+        "pron": "FOR-zor-guh-oon-ter-zoo-khoong",
+        "tip": "Vorsorge (care in advance) + Untersuchung (exam) = check-up 🩻 Long words get easy when you split them!",
+        "bonus": "Often shortened to just Vorsorge."
+      },
+      "B2-379": {
+        "pron": "guh-ZETS-likh",
+        "tip": "Gesetz (law) + -lich = set by law ⚖️ Public insurance is gesetzlich, private is privat.",
+        "bonus": "gesetzliche Krankenversicherung = statutory health insurance · private Krankenversicherung = private health insurance"
+      }
+    },
+    "culture": [
+      "Health insurance is compulsory in Germany. Most people are in the public system (gesetzlich), and some people, depending on their situation, can choose private insurance instead. You pick your public insurer yourself from several funds.",
+      "When you're ill, you usually see your GP (Hausarzt) first. People often take a referral (Überweisung) to a specialist, but whether you need one depends on the specialty and your insurance.",
+      "Always carry your insurance card to the doctor's. Practices often ask to see it again at the start of each new quarter, so keep it in your wallet. 💳"
+    ],
+    "quiz": {
+      "q": "At a specialist's reception you're asked: “Haben Sie ___ vom Hausarzt?” What fills the gap?",
+      "o": [
+        "eine Zuzahlung",
+        "eine Krankenkasse",
+        "eine Überweisung"
+      ],
+      "a": 2,
+      "why": "eine Überweisung vom Hausarzt = a referral from your GP."
+    },
+    "outro": "Take out your insurance card and say “Ich bin gesetzlich versichert.” three times out loud. It'll come out easily at the next reception desk! 😊"
+  },
+  "ja": {
+    "title": "ドイツの健康保険がわかる単語10",
+    "hook": "保険会社からの手紙も、単語をいくつか知っていればぐっと怖くなくなります。",
+    "intro": [
+      "ドイツに来て最初にすることのひとつが健康保険への加入です。でも Krankenkasse、Krankenversicherung、gesetzlich…と似た単語ばかりで、手紙を読むうちに頭が真っ白に。診療所で「Haben Sie eine Überweisung?」と聞かれて、振込のこと？と戸惑った人もいるはず。",
+      "今日は保険とかかりつけ医の仕組みを理解するのに欠かせない単語を10個選びました。これで保険の手紙も病院の受付もずっと楽になります。🩺"
+    ],
+    "words": {
+      "B1-018": {
+        "pron": "クランケンカッセ",
+        "tip": "krank（病気の）+ Kasse（金庫）= 病気のときに開ける金庫 💰",
+        "bonus": "「Bei welcher Krankenkasse sind Sie?」（どちらの保険ですか？）は本当によく聞かれます。"
+      },
+      "B1-280": {
+        "pron": "クランケンフェアズィッヒェルング",
+        "tip": "krank + Versicherung（保険）= 健康保険 🛡️ -ung で終わるから die！",
+        "warn": "Krankenversicherung は保険そのもの、Krankenkasse は保険を運営する組合です。日常ではよく混同されます。"
+      },
+      "B1-1352": {
+        "pron": "フェアズィッヒャーテンカルテ",
+        "tip": "der/die Versicherte（被保険者）+ Karte = 私の保険証 💳",
+        "bonus": "Krankenkassenkarte とも言います。"
+      },
+      "B2-1126": {
+        "pron": "ハウスアルツト",
+        "tip": "Haus（家）+ Arzt = 家族を診てくれるお医者さん 🏡 具合が悪いときはまずここ！"
+      },
+      "B1-1286": {
+        "pron": "ユーバーヴァイズング",
+        "tip": "über（向こうへ）+ weisen（指し示す）= 向こうへ送る ➡️ お金も患者も送ります！",
+        "warn": "銀行では「振込」、病院では「紹介状」。同じ単語で意味が2つです！"
+      },
+      "B2-1127": {
+        "pron": "ファッハアルツト",
+        "tip": "Fach（専門分野、教科）+ Arzt = 専門医 🔬 学校の教科も Fach です。",
+        "bonus": "Facharzt für + 4格：Facharzt für Augenheilkunde = 眼科専門医"
+      },
+      "BL-04-02": {
+        "pron": "プラクシス",
+        "tip": "英語の practice 👩‍⚕️ かかりつけ医も専門医も、ふつう自分の Praxis で診察します。"
+      },
+      "B2-1138": {
+        "pron": "ツーツァールング",
+        "tip": "zu（追加で）+ zahlen（払う）= 自分で少し上乗せして払うお金 🪙"
+      },
+      "B2-1121": {
+        "pron": "フォーアゾルゲウンターズーフング",
+        "tip": "Vorsorge（前もっての備え）+ Untersuchung（検査）= 健康診断 🩻 長い単語も分ければ簡単！",
+        "bonus": "短く Vorsorge とも言います。"
+      },
+      "B2-379": {
+        "pron": "ゲゼッツリヒ",
+        "tip": "Gesetz（法律）+ -lich = 法律で決まった ⚖️ 公的保険は gesetzlich、民間は privat！",
+        "bonus": "gesetzliche Krankenversicherung = 公的健康保険 · private Krankenversicherung = 民間健康保険"
+      }
+    },
+    "culture": [
+      "ドイツでは健康保険への加入が義務です。ほとんどの人は公的保険（gesetzlich）に入り、条件によっては民間保険（privat）を選べる人もいます。公的保険の組合は、いくつかの中から自分で選びます。",
+      "具合が悪いときは、ふつうまずかかりつけ医（Hausarzt）に行きます。専門医にはかかりつけ医の紹介状（Überweisung）を持って行くことが多いですが、必要かどうかは診療科や保険によって違います。",
+      "病院には保険証を必ず持って行きましょう。四半期が変わると受付でもう一度見せるよう言われることが多いので、いつも財布に入れておくと安心です。💳"
+    ],
+    "quiz": {
+      "q": "専門医の受付で「Haben Sie ___ vom Hausarzt?」と聞かれました。空欄に入るのは？",
+      "o": [
+        "eine Zuzahlung",
+        "eine Krankenkasse",
+        "eine Überweisung"
+      ],
+      "a": 2,
+      "why": "eine Überweisung vom Hausarzt = かかりつけ医からの紹介状のことです。"
+    },
+    "outro": "財布の保険証を見ながら「Ich bin gesetzlich versichert.」と3回声に出してみましょう。次の受付ですっと言えますよ！😊"
+  }
+}

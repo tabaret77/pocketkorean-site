@@ -1,0 +1,84 @@
+{
+  "key": "comfort",
+  "ko": {
+    "title": "마음이 아플 때 꺼내 보는 독일어 10",
+    "hook": "헤어짐은 어느 나라 말로 해도 아프지만, 위로하는 말을 알면 조금 덜 외로워요.",
+    "intro": [
+      "독일 친구가 밤늦게 문자를 보냈어요. “Er hat Schluss gemacht.” 무슨 말인지 바로 알아채고, 따뜻한 한마디를 독일어로 건넬 수 있을까요?",
+      "오늘은 이별과 위로에 관한 단어 10개를 모았어요. 내 마음을 설명할 때도, 친구 곁에 있어 줄 때도 꼭 필요한 말들이에요. 오늘은 조금 말랑한 독일어로 가 볼게요. 💔"
+    ],
+    "words": {
+      "B2-1625": {"pron": "슐루스 마헨", "tip": "Schluss(끝) + machen(만들다) = 끝을 내다 🔚 연인에게 쓰면 이별 통보!", "bonus": "누구와 헤어지다 = mit jemandem Schluss machen"},
+      "B1-1267": {"pron": "트레눙", "tip": "trennen(나누다) + -ung 💔 -ung이니까 die!", "bonus": "같은 뿌리로 die Mülltrennung = 쓰레기 분리배출"},
+      "B2-2847": {"pron": "리베스쿠머", "tip": "Liebe(사랑) + Kummer(근심) = 사랑 때문에 생긴 근심 🥀 마지막 단어 따라 der!", "warn": "복수 없이 써요: Sie hat Liebeskummer."},
+      "A1-334": {"pron": "바이넨", "tip": "‘바이~ 바이~’ 하고 헤어지면 눈물이 나죠 😢", "bonus": "기뻐서 울 때: vor Freude weinen"},
+      "A2-345": {"pron": "페어미센", "tip": "영어 miss와 같은 뿌리 🫶 Ich vermisse dich. = 보고 싶어.", "warn": "버스를 놓치는 건 vermissen이 아니라 verpassen이에요!"},
+      "B1-372": {"pron": "아인잠", "tip": "ein(하나) + -sam = 혼자 하나뿐인 느낌 🌧️ 영어 lonesome과 닮았어요.", "warn": "allein은 ‘혼자인’, einsam은 ‘외로운’. 혼자여도 안 외로울 수 있죠!"},
+      "B1-1817": {"pron": "트뢰스텐", "tip": "der Trost(위로)에서 온 동사 🤲 영어 trust와 친척, 믿음을 주는 게 위로!", "bonus": "누구를 위로하다는 4격: Ich tröste dich."},
+      "B1-1819": {"pron": "트로스트", "tip": "영어 trust와 같은 뿌리 🫂 기댈 수 있는 단단함이 바로 Trost.", "bonus": "농담 반 표현: Bist du noch bei Trost? = 너 제정신이야?"},
+      "B1-1291": {"pron": "움아르멘", "tip": "um(둘레) + Arm(팔) = 팔로 빙 둘러 안다 🤗 단어 안에 팔이 보이죠?", "warn": "분리동사가 아니에요: Ich umarme dich."},
+      "C2-655": {"pron": "게타일테스 라이트 이스트 할베스 라이트", "tip": "나눈(geteilt) 슬픔(Leid)은 절반(halb) 💞 수학처럼 딱 떨어지는 속담!", "bonus": "짝꿍 속담: Geteilte Freude ist doppelte Freude. = 기쁨은 나누면 두 배"}
+    },
+    "culture": [
+      "독일 사람들은 친한 사이면 인사로도 포옹을 자주 해요. 슬픈 일이 있을 때 말없이 umarmen 해 주는 것만으로도 큰 위로가 돼요.",
+      "친구를 격려할 때는 Kopf hoch!(고개 들어!)라는 말을 많이 써요. 그리고 ‘Liebeskummer lohnt sich nicht’라는 옛날 유행가 제목은 지금도 반 농담으로 자주 인용돼요.",
+      "혼자 감당하기 힘들 땐 TelefonSeelsorge라는 상담 전화가 있어요. 무료이고 익명으로, 밤낮없이 이야기를 들어 줘요. 🕯️"
+    ],
+    "quiz": {"q": "친구가 이별하고 울고 있어요. 어떤 말이 가장 어울릴까요?", "o": ["Ich habe den Bus vermisst.", "Geteiltes Leid ist halbes Leid – erzähl mal.", "Mach doch Schluss mit der Arbeit!"], "a": 1, "why": "슬픔은 나누면 반이 된다며, 얘기해 보라고 다정하게 권하는 말이에요."},
+    "outro": "오늘은 보고 싶은 사람에게 Ich vermisse dich. 한마디 소리 내서 말해 봐요. 직접 보내면 더 좋고요! 💌"
+  },
+  "en": {
+    "title": "Heartbreak and hugs: 10 German words for hard times",
+    "hook": "A breakup hurts in any language — but knowing the words to comfort someone makes it a little less lonely.",
+    "intro": [
+      "A German friend texts you late at night: “Er hat Schluss gemacht.” Would you understand straight away — and could you reply with something kind in German?",
+      "Today's ten words are about breakups and comfort. You'll need them to explain how you feel, and to be there for a friend. A softer side of German today. 💔"
+    ],
+    "words": {
+      "B2-1625": {"pron": "SHLOOSS MAKH-en", "tip": "Schluss (end) + machen (make) = make an end 🔚 Said to a partner, it's a breakup!", "bonus": "to break up with someone = mit jemandem Schluss machen"},
+      "B1-1267": {"pron": "TREN-noong", "tip": "trennen (to separate) + -ung 💔 -ung means die.", "bonus": "Same root: die Mülltrennung = sorting your rubbish for recycling"},
+      "B2-2847": {"pron": "LEE-bes-koom-er", "tip": "Liebe (love) + Kummer (sorrow) = love sorrow 🥀 The last part makes it der.", "warn": "No plural: Sie hat Liebeskummer."},
+      "A1-334": {"pron": "VINE-en", "tip": "Saying “bye-bye” can make you weinen 😢", "bonus": "to cry with joy = vor Freude weinen"},
+      "A2-345": {"pron": "fair-MISS-en", "tip": "Same root as English miss 🫶 Ich vermisse dich. = I miss you.", "warn": "Missing a bus isn't vermissen — that's verpassen!"},
+      "B1-372": {"pron": "INE-zahm", "tip": "ein (one) + -sam, like lonesome 🌧️", "warn": "allein = alone, einsam = lonely. You can be alone without being lonely!"},
+      "B1-1817": {"pron": "TRUH-sten", "tip": "The verb from der Trost 🤲 A cousin of trust — comfort gives you something to lean on.", "bonus": "It takes the accusative: Ich tröste dich."},
+      "B1-1819": {"pron": "TROHST", "tip": "Same root as English trust 🫂 Trost is the firm ground you can lean on.", "bonus": "Half joking: Bist du noch bei Trost? = Are you out of your mind?"},
+      "B1-1291": {"pron": "oom-AR-men", "tip": "um (around) + Arm = wrap your arms around 🤗 You can see the arm in the word!", "warn": "Not separable: Ich umarme dich."},
+      "C2-655": {"pron": "guh-TILE-tes LITE ist HAL-bes LITE", "tip": "Shared (geteilt) sorrow (Leid) is half (halb) 💞 Maths for the heart!", "bonus": "Its partner: Geteilte Freude ist doppelte Freude. = Shared joy is double joy."}
+    },
+    "culture": [
+      "Among friends, Germans often hug to say hello. When someone is sad, a quiet hug (umarmen) can say more than words.",
+      "To cheer someone up, people say Kopf hoch! (Chin up!). The title of an old pop song, “Liebeskummer lohnt sich nicht” (heartache isn't worth it), is still quoted half-jokingly.",
+      "If things feel too heavy to carry alone, there's a phone helpline called TelefonSeelsorge. It's free and anonymous, and someone is there to listen day and night. 🕯️"
+    ],
+    "quiz": {"q": "Your friend has just broken up and is crying. What's the best thing to say?", "o": ["Ich habe den Bus vermisst.", "Geteiltes Leid ist halbes Leid – erzähl mal.", "Mach doch Schluss mit der Arbeit!"], "a": 1, "why": "It gently invites your friend to talk, because a sorrow shared is a sorrow halved."},
+    "outro": "Say Ich vermisse dich. out loud for someone you miss today. Even better, send it to them! 💌"
+  },
+  "ja": {
+    "title": "心が痛むときに寄り添うドイツ語10",
+    "hook": "失恋はどの国の言葉でもつらいもの。でも、なぐさめの言葉を知っていれば少しだけ孤独じゃなくなります。",
+    "intro": [
+      "夜遅く、ドイツ人の友だちからメッセージ。「Er hat Schluss gemacht.」すぐに意味がわかって、ドイツ語であたたかいひとことを返せるでしょうか？",
+      "今日は別れとなぐさめの単語を10個集めました。自分の気持ちを話すときにも、友だちに寄り添うときにも必要な言葉です。今日は少しやわらかいドイツ語でいきましょう。💔"
+    ],
+    "words": {
+      "B2-1625": {"pron": "シュルス マッヘン", "tip": "Schluss（終わり）+ machen（作る）= 終わりにする 🔚 恋人に言えば別れ話！", "bonus": "〜と別れる = mit jemandem Schluss machen"},
+      "B1-1267": {"pron": "トレヌング", "tip": "trennen（分ける）+ -ung 💔 -ung だから die！", "bonus": "同じ根っこで die Mülltrennung = ゴミの分別"},
+      "B2-2847": {"pron": "リーベスクマー", "tip": "Liebe（愛）+ Kummer（悩み）= 恋の悩み 🥀 最後の語に合わせて der！", "warn": "複数形なしで使います：Sie hat Liebeskummer."},
+      "A1-334": {"pron": "ヴァイネン", "tip": "「バイバイ」と別れると泣けてくる…で weinen 😢", "bonus": "うれし泣き = vor Freude weinen"},
+      "A2-345": {"pron": "フェアミッセン", "tip": "英語の miss と同じ根っこ 🫶 Ich vermisse dich. = 会いたいな。", "warn": "バスに乗り遅れるのは vermissen ではなく verpassen です！"},
+      "B1-372": {"pron": "アインザーム", "tip": "ein（ひとつ）+ -sam、英語の lonesome にそっくり 🌧️", "warn": "allein は「ひとりで」、einsam は「さびしい」。ひとりでもさびしくないこともありますよね！"},
+      "B1-1817": {"pron": "トレーステン", "tip": "der Trost（なぐさめ）から来た動詞 🤲 英語の trust の親戚、支えてあげることがなぐさめ！", "bonus": "なぐさめる相手は4格：Ich tröste dich."},
+      "B1-1819": {"pron": "トロースト", "tip": "英語の trust と同じ根っこ 🫂 寄りかかれる確かさが Trost です。", "bonus": "冗談まじりに：Bist du noch bei Trost? = 正気なの？"},
+      "B1-1291": {"pron": "ウムアルメン", "tip": "um（まわり）+ Arm（腕）= 腕でぐるっと包む 🤗 単語の中に腕が見えますね！", "warn": "分離動詞ではありません：Ich umarme dich."},
+      "C2-655": {"pron": "ゲタイルテス ライト イスト ハルベス ライト", "tip": "分けた（geteilt）悲しみ（Leid）は半分（halb）💞 算数みたいなことわざ！", "bonus": "対になることわざ：Geteilte Freude ist doppelte Freude. = 喜びは分ければ2倍"}
+    },
+    "culture": [
+      "ドイツでは仲のいい友だち同士なら、あいさつでもよくハグをします。悲しいとき、黙って umarmen してあげるだけでも大きななぐさめになります。",
+      "友だちを励ますときは Kopf hoch!（顔を上げて！）とよく言います。「Liebeskummer lohnt sich nicht」（失恋なんて割に合わない）という昔のヒット曲のタイトルも、今でも半分冗談でよく引用されます。",
+      "ひとりで抱えきれないときは、TelefonSeelsorge という相談電話があります。無料・匿名で、昼も夜も話を聞いてくれます。🕯️"
+    ],
+    "quiz": {"q": "友だちが失恋して泣いています。いちばんふさわしい言葉は？", "o": ["Ich habe den Bus vermisst.", "Geteiltes Leid ist halbes Leid – erzähl mal.", "Mach doch Schluss mit der Arbeit!"], "a": 1, "why": "悲しみは分ければ半分になるから話してみて、とやさしく促す言葉です。"},
+    "outro": "今日は会いたい人を思い浮かべて、Ich vermisse dich. と声に出してみましょう。本人に送れたらもっといいですね！💌"
+  }
+}

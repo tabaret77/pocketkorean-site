@@ -1,0 +1,84 @@
+{
+  "key": "cooking",
+  "ko": {
+    "title": "독일 레시피, 이제 혼자 읽어요: 주방 단어 10",
+    "hook": "독일 친구 집에서 같이 요리하자는 말을 들었다면, 오늘 단어부터 챙겨 가세요.",
+    "intro": [
+      "주말에 독일 친구가 “Wir kochen zusammen!” 하고 초대했어요. 부엌에 들어가자마자 “Gib mir mal die Pfanne!”, “Ist der Backofen schon an?” 하는데, 저는 냄비랑 프라이팬 사이에서 손만 왔다 갔다 했어요.",
+      "오늘은 부엌에서 제일 많이 쓰는 단어 10개예요. 이것만 알면 독일 레시피를 읽고, 친구와 같이 요리하면서 척척 도울 수 있어요. 🍳"
+    ],
+    "words": {
+      "A1-175": {"pron": "코헨", "tip": "영어 cook과 같은 뿌리 🍲 요리도 하고 물도 끓이는 만능 동사!", "bonus": "물을 끓이다 = Wasser kochen · 요리사는 der Koch"},
+      "A1-004": {"pron": "퀴헤", "tip": "영어 kitchen과 친척 🏠 ü 점 두 개가 부엌의 화구 두 개!", "warn": "Küche(부엌)와 Kuchen(케이크)을 헷갈리지 마세요."},
+      "A2-018": {"pron": "레쳅트", "tip": "영어 recipe와 같은 뿌리 📖 요리법도, 병원 처방전도 Rezept!", "warn": "영수증(receipt)이 아니에요. 영수증은 die Quittung 또는 der Kassenbon."},
+      "B1-1452": {"pron": "추타트", "tip": "zu(더) + tun(넣다) = 더해 넣는 것 🥕 그래서 재료!", "warn": "레시피에서는 보통 복수로 봐요: die Zutaten"},
+      "A2-249": {"pron": "메서", "tip": "옛말로 ‘음식 자르는 칼’ 🔪 Messer로 Essen(음식)을 잘라요.", "bonus": "칼이 잘 들어요 = Das Messer ist scharf."},
+      "A2-433": {"pron": "브라텐", "tip": "프라이팬에서 ‘브라~’ 하고 지글지글 🥓 기름에 굽고 볶을 때!", "warn": "du brätst, er brät 처럼 모음이 바뀌어요.", "bonus": "명사 der Braten = 구운 고기 요리"},
+      "A2-304": {"pron": "바켄", "tip": "영어 bake와 쌍둥이 🥖 빵집은 Bäckerei, 제빵사는 Bäcker!"},
+      "A2-600": {"pron": "톱프", "tip": "‘톱프’ 하고 뚜껑이 들썩이는 소리 🫕 물은 Topf에서 끓여요.", "warn": "복수는 Umlaut: die Töpfe"},
+      "B1-1024": {"pron": "파네", "tip": "영어 pan과 친척, 앞에 P 하나만 더 🍳 -e로 끝나니 die!", "bonus": "계란 프라이 = das Spiegelei (거울 계란!)"},
+      "A2-794": {"pron": "박오펜", "tip": "backen(굽다) + Ofen(화덕) = 굽는 화덕 = 오븐 🔥", "bonus": "줄여서 그냥 der Ofen이라고도 해요."}
+    },
+    "culture": [
+      "독일 레시피를 보면 EL, TL이 자주 나와요. EL은 Esslöffel(큰 숟가락), TL은 Teelöffel(작은 숟가락)이에요. 재료는 보통 그램(g)으로 적고, 컵 단위는 잘 안 써요.",
+      "오븐 온도 옆에는 Ober-/Unterhitze(위아래 열)나 Umluft(열풍)가 같이 적혀 있어요. Umluft로 구우면 보통 온도를 조금 낮춰야 하니 레시피를 잘 읽어 보세요.",
+      "그리고 독일 가정에서는 저녁을 빵과 치즈, 햄으로 간단히 먹는 Abendbrot 전통이 있어요. 따뜻한 요리는 점심에 먹는 집도 많아요. 🥨"
+    ],
+    "quiz": {"q": "친구가 계란 프라이를 하려고 해요. “프라이팬 좀 줘!”는 뭐라고 할까요?", "o": ["Das Wasser kocht im Topf.", "Ich backe einen Kuchen.", "Gib mir mal die Pfanne!"], "a": 2, "why": "Gib mir mal die Pfanne! = 프라이팬 좀 줘! 계란은 Pfanne에서 braten 해요."},
+    "outro": "오늘 저녁 요리를 하면서 쓰는 도구를 하나씩 독일어로 말해 봐요. der Topf, die Pfanne, das Messer! 🍳"
+  },
+  "en": {
+    "title": "Pots, pans and recipes: 10 German kitchen words",
+    "hook": "If a German friend suggests cooking together, pack these words before you go.",
+    "intro": [
+      "A friend invites me over: “Wir kochen zusammen!” As soon as I'm in the kitchen it's “Gib mir mal die Pfanne!” and “Ist der Backofen schon an?” — and my hand hovers helplessly between the pot and the pan.",
+      "Today's ten words are the ones you'll use most in a kitchen. With them you can read a German recipe and actually help when you cook with friends. 🍳"
+    ],
+    "words": {
+      "A1-175": {"pron": "KOKH-en", "tip": "Same root as English cook 🍲 It cooks meals and boils water too.", "bonus": "to boil water = Wasser kochen · a cook = der Koch"},
+      "A1-004": {"pron": "KUE-khuh", "tip": "A cousin of English kitchen 🏠 The two dots on ü are your two hob rings.", "warn": "Don't mix up Küche (kitchen) and Kuchen (cake)."},
+      "A2-018": {"pron": "reh-TSEPT", "tip": "Same root as English recipe 📖 It's also a doctor's prescription.", "warn": "Not a receipt! That's die Quittung or der Kassenbon."},
+      "B1-1452": {"pron": "TSOO-taht", "tip": "zu (in addition) + tun (to put) = the things you add in 🥕", "warn": "In recipes you'll usually see the plural: die Zutaten."},
+      "A2-249": {"pron": "MESS-er", "tip": "Originally a ‘food blade’ 🔪 Don't make a mess with the Messer!", "bonus": "The knife is sharp = Das Messer ist scharf."},
+      "A2-433": {"pron": "BRAH-ten", "tip": "Think of sizzling bratwurst in a pan 🥓", "warn": "The vowel changes: du brätst, er brät.", "bonus": "The noun der Braten = a roast"},
+      "A2-304": {"pron": "BAK-en", "tip": "English bake's twin 🥖 The bakery is die Bäckerei, the baker der Bäcker."},
+      "A2-600": {"pron": "TOPF", "tip": "Sounds like a lid popping on a boiling pot 🫕", "warn": "Plural with umlaut: die Töpfe"},
+      "B1-1024": {"pron": "PFAN-uh", "tip": "English pan with an extra P and -e 🍳 Ends in -e, so die.", "bonus": "a fried egg = das Spiegelei (literally a ‘mirror egg’)"},
+      "A2-794": {"pron": "BAK-oh-fen", "tip": "backen (to bake) + Ofen (oven) = baking oven 🔥", "bonus": "People often just say der Ofen."}
+    },
+    "culture": [
+      "German recipes are full of EL and TL: Esslöffel (tablespoon) and Teelöffel (teaspoon). Ingredients are usually weighed in grams rather than measured in cups.",
+      "Next to the oven temperature you'll often see Ober-/Unterhitze (top and bottom heat) or Umluft (fan). With Umluft you usually set the temperature a little lower, so read carefully.",
+      "Many German households also keep the Abendbrot tradition: a simple evening meal of bread, cheese and cold meats. In those homes the hot meal is often lunch. 🥨"
+    ],
+    "quiz": {"q": "Your friend wants to fry an egg. How do you say ‘Pass me the frying pan!’?", "o": ["Das Wasser kocht im Topf.", "Ich backe einen Kuchen.", "Gib mir mal die Pfanne!"], "a": 2, "why": "Gib mir mal die Pfanne! = Pass me the pan! You braten eggs in a Pfanne."},
+    "outro": "While you cook tonight, name each thing you pick up in German: der Topf, die Pfanne, das Messer! 🍳"
+  },
+  "ja": {
+    "title": "ドイツのレシピが読める！キッチンの単語10",
+    "hook": "ドイツ人の友だちに「一緒に料理しよう」と誘われたら、今日の単語を持っていきましょう。",
+    "intro": [
+      "週末、友だちに「Wir kochen zusammen!」と誘われました。キッチンに入るなり「Gib mir mal die Pfanne!」「Ist der Backofen schon an?」と言われて、私の手は鍋とフライパンの間を行ったり来たり。",
+      "今日はキッチンでいちばんよく使う単語を10個集めました。これでドイツのレシピが読めて、友だちとの料理でもちゃんとお手伝いできます。🍳"
+    ],
+    "words": {
+      "A1-175": {"pron": "コッヘン", "tip": "英語の cook と同じ語源 🍲 料理もお湯を沸かすのもこれひとつ！", "bonus": "お湯を沸かす = Wasser kochen・料理人は der Koch"},
+      "A1-004": {"pron": "キュッヒェ", "tip": "英語の kitchen の親戚 🏠 ü の点2つはコンロの火2つ！", "warn": "Küche（台所）と Kuchen（ケーキ）を混同しないように。"},
+      "A2-018": {"pron": "レツェプト", "tip": "英語の recipe と同じ語源 📖 レシピも病院の処方箋も Rezept！", "warn": "領収書（receipt）ではありません。領収書は die Quittung か der Kassenbon です。"},
+      "B1-1452": {"pron": "ツータート", "tip": "zu（加えて）+ tun（入れる）= 加え入れるもの 🥕 だから材料！", "warn": "レシピではふつう複数形で見かけます：die Zutaten"},
+      "A2-249": {"pron": "メッサー", "tip": "昔の言葉で「食べ物を切る刃物」🔪 Messer で Essen（食事）を切ります。", "bonus": "よく切れる = Das Messer ist scharf."},
+      "A2-433": {"pron": "ブラーテン", "tip": "フライパンでジュージュー焼くブラートヴルスト 🥓 油で焼く・炒めるときに！", "warn": "du brätst, er brät のように母音が変わります。", "bonus": "名詞 der Braten = ロースト料理"},
+      "A2-304": {"pron": "バッケン", "tip": "英語の bake と双子 🥖 パン屋は Bäckerei、パン職人は Bäcker！"},
+      "A2-600": {"pron": "トプフ", "tip": "沸騰してふたが「トプッ」と鳴る音 🫕 お湯は Topf で沸かします。", "warn": "複数形はウムラウト：die Töpfe"},
+      "B1-1024": {"pron": "プファンネ", "tip": "英語の pan に P と -e をプラス 🍳 -e で終わるので die！", "bonus": "目玉焼き = das Spiegelei（直訳は「鏡の卵」）"},
+      "A2-794": {"pron": "バックオーフェン", "tip": "backen（焼く）+ Ofen（かまど）= 焼くかまど = オーブン 🔥", "bonus": "略して der Ofen とも言います。"}
+    },
+    "culture": [
+      "ドイツのレシピには EL や TL がよく出てきます。EL は Esslöffel（大さじ）、TL は Teelöffel（小さじ）です。材料はふつうグラムで書かれていて、カップはあまり使いません。",
+      "オーブンの温度の横には、Ober-/Unterhitze（上下火）や Umluft（熱風）と書いてあります。Umluft で焼くときはふつう温度を少し下げるので、レシピをよく読みましょう。",
+      "また、ドイツの家庭には、夜はパンとチーズ、ハムで簡単にすませる Abendbrot の習慣があります。そういう家では、温かい料理はお昼に食べることが多いです。🥨"
+    ],
+    "quiz": {"q": "友だちが目玉焼きを作ろうとしています。「フライパン取って！」は何と言いますか？", "o": ["Das Wasser kocht im Topf.", "Ich backe einen Kuchen.", "Gib mir mal die Pfanne!"], "a": 2, "why": "Gib mir mal die Pfanne! =「フライパン取って！」卵は Pfanne で braten します。"},
+    "outro": "今夜料理をしながら、手に取った道具をドイツ語で言ってみましょう。der Topf, die Pfanne, das Messer! 🍳"
+  }
+}

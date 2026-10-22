@@ -1,0 +1,84 @@
+{
+  "key": "space",
+  "ko": {
+    "title": "밤하늘 올려다보며 배우는 독일어 10",
+    "hook": "독일어로 하늘을 말할 수 있으면, 산책길이 조금 더 낭만적이 돼요.",
+    "intro": [
+      "여름밤 공원 잔디밭에 누웠는데 옆에서 친구가 ‘Schau mal, die Sterne!’ 하고 말해요. 달이 참 크다고 대답하고 싶은데, 달이 der인지 die인지부터 헷갈려요.",
+      "오늘은 하늘과 우주에 관한 단어 10개를 모았어요. 날씨 이야기부터 별 구경, 우주 뉴스까지 독일어로 즐길 수 있을 거예요. 🌌"
+    ],
+    "words": {
+      "A1-271": {"pron": "힘멜", "tip": "하늘도, 천국도 Himmel ☁️ 하늘 위에 천국이 있으니까요!", "bonus": "‘맙소사!’ = Um Himmels willen!"},
+      "A1-138": {"pron": "조네", "tip": "영어 sun과 같은 뿌리 ☀️ 독일어에서 해는 여성, die Sonne!", "warn": "해는 die Sonne, 달은 der Mond. 영어나 프랑스어와 성이 반대예요."},
+      "A1-272": {"pron": "몬트", "tip": "영어 moon과 친척 🌙 달은 남성, der Mond!", "bonus": "보름달 = der Vollmond, 월요일 Montag는 ‘달의 날’이에요."},
+      "A1-273": {"pron": "슈테른", "tip": "영어 star와 같은 뿌리 ⭐ st는 ‘슈트’로 읽어요!", "bonus": "별똥별 = die Sternschnuppe"},
+      "B1-637": {"pron": "에어데", "tip": "영어 earth와 형제 🌍 지구도, 땅도, 흙도 전부 Erde!", "bonus": "지구 위에서는 auf der Erde라고 해요."},
+      "B1-2494": {"pron": "플라네트", "tip": "그리스어로 ‘떠돌이’ 🪐 하늘을 떠도는 별이라 Planet!", "warn": "약변화 명사: den/dem/des Planeten"},
+      "B1-1721": {"pron": "벨트라움", "tip": "Welt(세계) + Raum(공간, 영어 room) = 세계를 담은 방 🚀", "bonus": "우주 정거장 = die Raumstation"},
+      "B1-1722": {"pron": "아스트로나우트", "tip": "astron(별) + nautes(선원) = 별을 항해하는 선원 👩‍🚀", "warn": "약변화 명사: den/dem/des Astronauten"},
+      "B1-1723": {"pron": "라케테", "tip": "이탈리아어 ‘작은 실패(실 감는 도구)’에서 왔어요, 모양이 닮았죠? 🚀", "bonus": "로켓이 발사되다 = Die Rakete startet."},
+      "B2-1067": {"pron": "자텔리트", "tip": "라틴어 satelles(경호원) = 행성 곁을 지키며 도는 경호원 🛰️", "warn": "약변화 명사: den/dem/des Satelliten"}
+    },
+    "culture": [
+      "독일어 요일 이름에도 하늘이 숨어 있어요. Sonntag는 ‘해의 날’, Montag는 ‘달의 날’이에요. 영어 Sunday, Monday와 똑같은 구조죠.",
+      "독일에는 천문대(Sternwarte)와 플라네타리움이 있는 도시가 많아요. 그리고 다름슈타트에는 유럽우주국(ESA)의 위성 관제 센터가 있어서, 우주 뉴스에 이 도시 이름이 자주 나와요.",
+      "8월이면 페르세우스 유성우를 보러 도시 밖으로 나가는 사람이 많아요. 별똥별을 보면 ‘Wünsch dir was!’(소원 빌어!)라고 말해 보세요. 🌠"
+    ],
+    "quiz": {"q": "뉴스에서 우주 비행사가 국제 우주 정거장에 간대요. 맞는 문장은?", "o": ["Der Satellit fliegt um die Erde.", "Der Astronaut fliegt auf den Mond.", "Der Astronaut fliegt in den Weltraum."], "a": 2, "why": "우주로 가다 = in den Weltraum fliegen, Astronaut은 남성 명사 der예요."},
+    "outro": "오늘 밤 창밖을 보며 ‘Der Mond, die Sonne, die Sterne’를 소리 내 말해 봐요. 성까지 같이 외우면 완벽해요! 🌙"
+  },
+  "en": {
+    "title": "Look up! 10 German words for the sky and space",
+    "hook": "Once you can talk about the sky in German, every evening walk gets a little more romantic.",
+    "intro": [
+      "You're lying on the grass in the park on a summer night and your friend says, ‘Schau mal, die Sterne!’ You want to say the moon looks huge — but is it der or die?",
+      "Here are ten words about the sky and outer space. From weather chat to stargazing to space news, you'll be able to enjoy it all in German. 🌌"
+    ],
+    "words": {
+      "A1-271": {"pron": "HIM-el", "tip": "Sky and heaven in one word ☁️ Heaven is up in the sky, after all!", "bonus": "‘For heaven's sake!’ = Um Himmels willen!"},
+      "A1-138": {"pron": "ZON-uh", "tip": "Same root as English sun ☀️ In German the sun is feminine: die Sonne.", "warn": "die Sonne but der Mond — the opposite of French and Spanish."},
+      "A1-272": {"pron": "MOHNT", "tip": "A cousin of English moon 🌙 And it's masculine: der Mond.", "bonus": "full moon = der Vollmond · Montag is ‘moon day’, just like Monday."},
+      "A1-273": {"pron": "SHTERN", "tip": "Same root as English star ⭐ Remember: st at the start sounds like ‘sht’.", "bonus": "shooting star = die Sternschnuppe"},
+      "B1-637": {"pron": "AIR-duh", "tip": "English earth's sister 🌍 Planet, ground and soil — all Erde.", "bonus": "on Earth = auf der Erde"},
+      "B1-2494": {"pron": "pla-NAYT", "tip": "Greek for ‘wanderer’ 🪐 Planets wander across the sky.", "warn": "Weak noun: den/dem/des Planeten"},
+      "B1-1721": {"pron": "VELT-rowm", "tip": "Welt (world) + Raum (room, space) = the room the world sits in 🚀", "bonus": "space station = die Raumstation"},
+      "B1-1722": {"pron": "as-troh-NOWT", "tip": "astron (star) + nautes (sailor) = a star sailor 👩‍🚀", "warn": "Weak noun: den/dem/des Astronauten"},
+      "B1-1723": {"pron": "ra-KAY-tuh", "tip": "From Italian for a small spool — same shape, right? 🚀", "bonus": "The rocket launches = Die Rakete startet."},
+      "B2-1067": {"pron": "zat-el-EET", "tip": "Latin satelles = bodyguard, circling close to its planet 🛰️", "warn": "Weak noun: den/dem/des Satelliten"}
+    },
+    "culture": [
+      "The sky is hidden in German weekday names too. Sonntag is ‘sun day’ and Montag is ‘moon day’ — the same idea as Sunday and Monday.",
+      "Many German cities have an observatory (Sternwarte) or a planetarium. And Darmstadt is home to the European Space Agency's mission control centre, so the city often pops up in space news.",
+      "In August, lots of people head out of town to watch the Perseid meteor shower. When you see a shooting star, say ‘Wünsch dir was!’ (Make a wish!) 🌠"
+    ],
+    "quiz": {"q": "The news says an astronaut is heading to the space station. Which sentence is right?", "o": ["Der Satellit fliegt um die Erde.", "Der Astronaut fliegt auf den Mond.", "Der Astronaut fliegt in den Weltraum."], "a": 2, "why": "To go into space is in den Weltraum fliegen, and Astronaut is masculine: der."},
+    "outro": "Look out of the window tonight and say ‘der Mond, die Sonne, die Sterne’ out loud — articles included! 🌙"
+  },
+  "ja": {
+    "title": "夜空を見上げて覚えるドイツ語10",
+    "hook": "ドイツ語で空のことが話せたら、夜の散歩がちょっとロマンチックになります。",
+    "intro": [
+      "夏の夜、公園の芝生に寝転んでいたら、友だちが「Schau mal, die Sterne!」と言いました。月が大きいねと返したいのに、月が der なのか die なのかで迷ってしまいます。",
+      "今日は空と宇宙に関する単語を10個集めました。天気の話から星空観察、宇宙のニュースまで、ドイツ語で楽しめるようになりますよ。🌌"
+    ],
+    "words": {
+      "A1-271": {"pron": "ヒンメル", "tip": "空も天国も Himmel ☁️ 天国は空の上にありますからね！", "bonus": "「なんてこと！」= Um Himmels willen!"},
+      "A1-138": {"pron": "ゾネ", "tip": "英語の sun と同じ語源 ☀️ ドイツ語では太陽は女性名詞 die Sonne！", "warn": "太陽は die Sonne、月は der Mond。フランス語やスペイン語とは性が逆です。"},
+      "A1-272": {"pron": "モーント", "tip": "英語の moon の親戚 🌙 月は男性名詞 der Mond！", "bonus": "満月 = der Vollmond。月曜日 Montag は「月の日」です。"},
+      "A1-273": {"pron": "シュテルン", "tip": "英語の star と同じ語源 ⭐ 語頭の st は「シュト」と読みます！", "bonus": "流れ星 = die Sternschnuppe"},
+      "B1-637": {"pron": "エーアデ", "tip": "英語の earth の兄弟 🌍 地球も地面も土も、ぜんぶ Erde！", "bonus": "地球上で = auf der Erde"},
+      "B1-2494": {"pron": "プラネート", "tip": "ギリシャ語で「さまよう者」🪐 空をさまよう星だから Planet！", "warn": "弱変化名詞：den/dem/des Planeten"},
+      "B1-1721": {"pron": "ヴェルトラウム", "tip": "Welt（世界）+ Raum（空間、英語の room）= 世界が入っている部屋 🚀", "bonus": "宇宙ステーション = die Raumstation"},
+      "B1-1722": {"pron": "アストロナウト", "tip": "astron（星）+ nautes（船乗り）= 星の海を行く船乗り 👩‍🚀", "warn": "弱変化名詞：den/dem/des Astronauten"},
+      "B1-1723": {"pron": "ラケーテ", "tip": "イタリア語の「小さな糸巻き」から。形が似ていますよね 🚀", "bonus": "ロケットが打ち上がる = Die Rakete startet."},
+      "B2-1067": {"pron": "ザテリート", "tip": "ラテン語 satelles（護衛）= 惑星のそばを回って守る護衛 🛰️", "warn": "弱変化名詞：den/dem/des Satelliten"}
+    },
+    "culture": [
+      "ドイツ語の曜日の名前にも空が隠れています。Sonntag は「太陽の日」、Montag は「月の日」。日本語の日曜日・月曜日と同じ発想ですね。",
+      "ドイツには天文台（Sternwarte）やプラネタリウムがある町がたくさんあります。またダルムシュタットには欧州宇宙機関（ESA）の運用管制センターがあり、宇宙のニュースでよくこの町の名前が出てきます。",
+      "8月にはペルセウス座流星群を見に郊外へ出かける人が多いです。流れ星を見たら「Wünsch dir was!」（願いごとをして！）と言ってみましょう。🌠"
+    ],
+    "quiz": {"q": "ニュースで、宇宙飛行士が宇宙ステーションへ向かうそうです。正しい文は？", "o": ["Der Satellit fliegt um die Erde.", "Der Astronaut fliegt auf den Mond.", "Der Astronaut fliegt in den Weltraum."], "a": 2, "why": "宇宙へ行くは in den Weltraum fliegen、Astronaut は男性名詞なので der です。"},
+    "outro": "今夜、窓の外を見ながら「der Mond, die Sonne, die Sterne」と声に出してみましょう。冠詞もいっしょに覚えれば完璧です！🌙"
+  }
+}

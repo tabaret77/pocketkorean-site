@@ -1,0 +1,84 @@
+{
+  "key": "integration",
+  "ko": {
+    "title": "어학원 첫날 꼭 필요한 독일어 10",
+    "hook": "독일어 수업 첫날, 선생님 말을 알아듣는 것부터가 수업이에요.",
+    "intro": [
+      "새 교실, 처음 보는 반 친구들, 그리고 화이트보드 앞의 선생님. ‘Welches Niveau haben Sie?’ 하고 물어보는데 순간 머리가 하얘져요.",
+      "오늘은 어학원이나 통합 과정에서 매일 듣게 되는 단어 10개를 모았어요. 이 단어들이면 수업 등록부터 레벨 테스트, 반 친구들과의 수다까지 훨씬 편해질 거예요. 📚"
+    ],
+    "words": {
+      "B2-636": {"pron": "인테그라치온스쿠어스", "tip": "Integration + s + Kurs, 중간의 s는 단어를 이어 주는 접착제예요 🧩", "bonus": "끝에 보는 시험: der Test „Leben in Deutschland“"},
+      "A2-103": {"pron": "쿠어스", "tip": "영어 course와 같은 뿌리, 라틴어 ‘달리기’에서 왔어요 🏃 수업도 쭉 달려가는 코스!", "bonus": "어학 강좌는 der Sprachkurs, 독일어 강좌는 der Deutschkurs"},
+      "A1-151": {"pron": "슈프라헤", "tip": "sprechen(말하다)의 명사 버전 🗣️ 말하는 것 = 언어!", "bonus": "모국어 = die Muttersprache"},
+      "B1-1944": {"pron": "폴크스호흐슐레", "tip": "Volk(사람들, 영어 folk) + Hochschule(대학) = 모두를 위한 대학 🏫 줄여서 VHS!", "warn": "대학교(Universität)가 아니에요. 누구나 들을 수 있는 평생교육 기관이에요."},
+      "B1-1855": {"pron": "니보", "tip": "프랑스어라서 ‘니-보’라고 읽어요 🥐 마지막 eau는 ‘오’!", "bonus": "Welches Niveau hast du? = 너 레벨이 어떻게 돼?"},
+      "A2-274": {"pron": "테스트", "tip": "영어 test 그대로! 시험은 피할 수 없어요 📝", "warn": "‘시험을 보다’는 einen Test schreiben 또는 machen이라고 해요."},
+      "B1-064": {"pron": "타일네멘", "tip": "Teil(부분) + nehmen(가지다) = 영어 take part와 똑같은 구조 🙋", "warn": "분리동사 + an + 3격: Ich nehme an dem Kurs teil."},
+      "B1-892": {"pron": "쿠어스라이터", "tip": "Kurs + Leiter(이끄는 사람) = 수업을 이끄는 사람 👩‍🏫", "bonus": "여자 강사는 die Kursleiterin, 그냥 Lehrer라고도 많이 불러요."},
+      "B1-812": {"pron": "인텐지프쿠어스", "tip": "영어 intensive와 거의 같아요 🔥 매일 몇 시간씩 몰아서 하는 수업!", "bonus": "반대로 일주일에 한두 번 듣는 건 der Abendkurs(저녁반)가 많아요."},
+      "B1-809": {"pron": "인테그리렌", "tip": "라틴어 integer(전체) = 하나로 합쳐지다 🤝 -ieren 동사는 완료형에 ge-가 없어요!", "bonus": "sich integrieren = 적응하다, 녹아들다"}
+    },
+    "culture": [
+      "독일의 통합 과정(Integrationskurs)은 독일어 수업과 ‘오리엔테이션 과정’으로 이뤄져요. 독일어를 B1 수준까지 배우고, 정치·역사·사회에 대해서도 배워요. 체류 조건에 따라 참여가 의무인 사람도 있고, 신청해서 듣는 사람도 있어요.",
+      "가장 쉽게 찾을 수 있는 어학원은 Volkshochschule예요. 거의 모든 도시에 있고, 독일어뿐 아니라 요리, 요가, 다른 외국어 수업까지 있어요. 사설 어학원보다 저렴한 경우가 많아요.",
+      "수업에서는 보통 강사를 Vorname로 부르고 du를 쓰는 경우도 많아요. 반마다 다르니 첫날 분위기를 살펴보세요. ☕"
+    ],
+    "quiz": {"q": "새로 온 반 친구에게 ‘너도 이 독일어 수업 들어?’라고 묻고 싶어요.", "o": ["Nimmst du auch an dem Deutschkurs teil?", "Integrierst du auch den Deutschkurs?", "Nimmst du auch den Deutschkurs an?"], "a": 0, "why": "teilnehmen은 an + 3격과 함께 쓰고, teil이 문장 끝으로 가요."},
+    "outro": "오늘은 ‘Ich mache einen Deutschkurs an der Volkshochschule.’로 내 소개를 한 번 해 봐요. 우리 모두 Niveau 올리기, 파이팅! 💪"
+  },
+  "en": {
+    "title": "Back to class: 10 German words for language courses",
+    "hook": "On your first day of German class, understanding the teacher is already the lesson.",
+    "intro": [
+      "A new classroom, faces you've never seen, and a teacher by the whiteboard asking ‘Welches Niveau haben Sie?’ Your mind goes blank.",
+      "Here are ten words you'll hear every day at a language school or in an integration course. They'll help you sign up, get through the placement test and chat with your classmates. 📚"
+    ],
+    "words": {
+      "B2-636": {"pron": "in-teg-ra-TSYOHNS-koors", "tip": "Integration + s + Kurs — that little s is German word glue 🧩", "bonus": "The final test includes „Leben in Deutschland“ (Life in Germany)."},
+      "A2-103": {"pron": "KOORS", "tip": "Same root as English course, from Latin ‘running’ 🏃 A course runs from start to finish!", "bonus": "language course = der Sprachkurs · German course = der Deutschkurs"},
+      "A1-151": {"pron": "SHPRAH-khuh", "tip": "The noun from sprechen (to speak) 🗣️ What you speak is a language.", "bonus": "mother tongue = die Muttersprache"},
+      "B1-1944": {"pron": "FOLKS-hohkh-shoo-luh", "tip": "Volk (folk) + Hochschule (college) = a college for all the folk 🏫 Everyone says VHS.", "warn": "It's not a university — it's an adult education centre anyone can join."},
+      "B1-1855": {"pron": "nee-VOH", "tip": "French word, French sound 🥐 The eau at the end is just ‘oh’.", "bonus": "Welches Niveau hast du? = What level are you?"},
+      "A2-274": {"pron": "TEST", "tip": "Straight from English — no escaping tests in any language 📝", "warn": "You ‘write’ a test in German: einen Test schreiben (or machen)."},
+      "B1-064": {"pron": "TILE-nay-men", "tip": "Teil (part) + nehmen (take) = literally ‘take part’ 🙋", "warn": "Separable, with an + dative: Ich nehme an dem Kurs teil."},
+      "B1-892": {"pron": "KOORS-ly-ter", "tip": "Kurs + Leiter (leader) = the one who leads the course 👩‍🏫", "bonus": "A female teacher is die Kursleiterin; many people just say Lehrer."},
+      "B1-812": {"pron": "in-ten-ZEEF-koors", "tip": "Looks just like English intensive 🔥 Several hours of German every day!", "bonus": "Courses once or twice a week are often an Abendkurs (evening class)."},
+      "B1-809": {"pron": "in-teg-REE-ren", "tip": "From Latin integer (whole) = become part of the whole 🤝 -ieren verbs take no ge- in the perfect.", "bonus": "sich integrieren = to fit in, to settle in"}
+    },
+    "culture": [
+      "A German integration course (Integrationskurs) has two parts: a language course that aims for level B1 and an ‘orientation course’ about politics, history and society. Depending on your residence situation it may be required, or you can apply to join.",
+      "The easiest place to find a course is the Volkshochschule. Almost every town has one, and besides German they offer cooking, yoga and other languages. They're often cheaper than private schools.",
+      "In class, people often use first names and du with the teacher, but it depends on the group. Watch how others do it on day one. ☕"
+    ],
+    "quiz": {"q": "You want to ask a new classmate, ‘Are you taking this German course too?’", "o": ["Nimmst du auch an dem Deutschkurs teil?", "Integrierst du auch den Deutschkurs?", "Nimmst du auch den Deutschkurs an?"], "a": 0, "why": "teilnehmen goes with an + dative, and teil moves to the end of the sentence."},
+    "outro": "Introduce yourself out loud with ‘Ich mache einen Deutschkurs an der Volkshochschule.’ Here's to raising your Niveau! 💪"
+  },
+  "ja": {
+    "title": "語学学校の初日に役立つドイツ語10",
+    "hook": "ドイツ語クラスの初日は、先生の言葉を聞き取ることからもう授業です。",
+    "intro": [
+      "新しい教室、初めて会うクラスメート、そしてホワイトボードの前の先生。「Welches Niveau haben Sie?」と聞かれて、一瞬頭が真っ白に。",
+      "今日は語学学校や統合コースで毎日のように聞く単語を10個集めました。申し込みからレベルテスト、クラスメートとのおしゃべりまで、ぐっと楽になりますよ。📚"
+    ],
+    "words": {
+      "B2-636": {"pron": "インテグラツィオーンスクルス", "tip": "Integration + s + Kurs、真ん中の s は単語をつなぐのりです 🧩", "bonus": "最後の試験には「Leben in Deutschland」（ドイツでの生活）もあります。"},
+      "A2-103": {"pron": "クルス", "tip": "英語の course と同じ語源で、ラテン語の「走ること」🏃 コースは最後まで走り抜けるもの！", "bonus": "語学コース = der Sprachkurs、ドイツ語コース = der Deutschkurs"},
+      "A1-151": {"pron": "シュプラーへ", "tip": "sprechen（話す）の名詞版 🗣️ 話すもの = 言語！", "bonus": "母語 = die Muttersprache"},
+      "B1-1944": {"pron": "フォルクスホーホシューレ", "tip": "Volk（人々、英語の folk）+ Hochschule（大学）= みんなの大学 🏫 略して VHS！", "warn": "大学（Universität）ではありません。誰でも通える市民講座です。"},
+      "B1-1855": {"pron": "ニヴォー", "tip": "フランス語なので「ニヴォー」と読みます 🥐 最後の eau は「オー」！", "bonus": "Welches Niveau hast du? = レベルはどのくらい？"},
+      "A2-274": {"pron": "テスト", "tip": "英語の test そのまま！テストはどの言語でも避けられません 📝", "warn": "「テストを受ける」は einen Test schreiben または machen と言います。"},
+      "B1-064": {"pron": "タイルネーメン", "tip": "Teil（部分）+ nehmen（取る）= 英語の take part と同じ形 🙋", "warn": "分離動詞 + an + 3格：Ich nehme an dem Kurs teil."},
+      "B1-892": {"pron": "クルスライター", "tip": "Kurs + Leiter（率いる人）= コースを率いる人 👩‍🏫", "bonus": "女性の講師は die Kursleiterin。単に Lehrer と呼ぶ人も多いです。"},
+      "B1-812": {"pron": "インテンズィーフクルス", "tip": "英語の intensive とほぼ同じ 🔥 毎日何時間もドイツ語漬けのコース！", "bonus": "週に1〜2回のコースは Abendkurs（夜のクラス）が多いです。"},
+      "B1-809": {"pron": "インテグリーレン", "tip": "ラテン語 integer（全体）から = 全体の一部になる 🤝 -ieren 動詞は完了形に ge- がつきません！", "bonus": "sich integrieren = なじむ、溶け込む"}
+    },
+    "culture": [
+      "ドイツの統合コース（Integrationskurs）は、B1レベルを目指すドイツ語コースと、政治・歴史・社会を学ぶ「オリエンテーションコース」の2つでできています。滞在の条件によって参加が義務の人もいれば、自分で申し込んで受ける人もいます。",
+      "いちばん見つけやすい語学コースは Volkshochschule です。ほとんどの町にあり、ドイツ語だけでなく料理やヨガ、ほかの外国語の講座もあります。私立の語学学校より安いことが多いです。",
+      "授業では先生をファーストネームで呼び、du を使うこともよくあります。クラスによって違うので、初日はまわりの様子を見てみましょう。☕"
+    ],
+    "quiz": {"q": "新しいクラスメートに「あなたもこのドイツ語コースに参加してるの？」と聞きたいです。", "o": ["Nimmst du auch an dem Deutschkurs teil?", "Integrierst du auch den Deutschkurs?", "Nimmst du auch den Deutschkurs an?"], "a": 0, "why": "teilnehmen は an + 3格と使い、teil は文の最後に来ます。"},
+    "outro": "今日は「Ich mache einen Deutschkurs an der Volkshochschule.」で自己紹介を声に出してみましょう。みんなで Niveau アップを目指しましょう！💪"
+  }
+}

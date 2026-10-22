@@ -1,0 +1,84 @@
+{
+  "key": "literature",
+  "ko": {
+    "title": "시인과 사상가의 나라에서 책 이야기하는 단어 10",
+    "hook": "독일 서점에서 ‘요즘 뭐 읽어?’라는 질문을 받았다면, 오늘 단어로 근사하게 대답할 수 있어요.",
+    "intro": [
+      "비 오는 오후, 동네 서점(Buchhandlung)에 들어갔어요. 직원이 ‘Suchen Sie etwas Bestimmtes?’ 하고 묻는데, 소설이 Roman인지 Novel인지부터 헷갈려요. 좋아하는 작가 이야기도 하고 싶은데 말이죠.",
+      "오늘은 책과 문학에 관한 단어 10개예요. 서점에서 책을 찾고, 독서 모임에서 줄거리를 이야기하고, 독일어 수업에서 시를 외울 때까지 두루 쓸 수 있어요. 📚"
+    ],
+    "words": {
+      "B1-921": {"pron": "리테라투어", "tip": "라틴어 littera(글자)에서 왔어요 ✒️ 글자가 모여 문학이 돼요!", "bonus": "논문에서는 ‘참고 문헌’이라는 뜻으로도 써요."},
+      "A1-049": {"pron": "부흐", "tip": "옛날엔 너도밤나무(Buche) 판에 글을 썼대요 🌳 Buche → Buch!", "warn": "복수는 움라우트: die Bücher"},
+      "B1-1080": {"pron": "로만", "tip": "‘로맨스’가 아니라 그냥 장편소설 📖 끝 ‘만’에 힘을 줘요.", "warn": "연애 소설은 따로 ein Liebesroman이라고 해요."},
+      "B1-722": {"pron": "게디히트", "tip": "dichten(시를 짓다)에서 나온 명사 🌙 ge-로 시작하는 명사는 das가 많아요.", "bonus": "ein Gedicht auswendig lernen = 시를 외우다"},
+      "A2-645": {"pron": "아우토어", "tip": "자동차(Auto)가 아니라 작가 ✍️ ‘아우-토어’, 앞에 힘!", "bonus": "여성 작가는 die Autorin"},
+      "B1-1121": {"pron": "슈리프트슈텔러", "tip": "Schrift(글) + stellen(놓다) + -er = 글을 세워 놓는 사람 🖋️", "bonus": "여성 작가는 die Schriftstellerin"},
+      "B1-832": {"pron": "카피텔", "tip": "라틴어 ‘작은 머리’ = 장의 맨 앞 제목 🔖 영어 chapter의 형제예요.", "warn": "성별 함정: der가 아니라 das Kapitel!"},
+      "B2-1361": {"pron": "디히터", "tip": "dichten(시를 짓다) + -er = 시인 🪶 괴테와 실러가 대표 Dichter!", "bonus": "독일의 별명: das Land der Dichter und Denker"},
+      "B1-648": {"pron": "에어첼룽", "tip": "erzählen(이야기하다) + -ung = 이야기 🗣️ -ung이니까 당연히 die!", "bonus": "동사 erzählen도 같이: Erzähl mal! = 얘기해 봐!"},
+      "B1-997": {"pron": "페어외펜틀리헨", "tip": "öffentlich(공개된)가 숨어 있어요 📢 세상에 공개하니까 ‘출판하다’!", "bonus": "명사형: die Veröffentlichung = 출판, 발표"}
+    },
+    "culture": [
+      "독일은 ‘시인과 사상가의 나라(Land der Dichter und Denker)’라는 별명이 있어요. 괴테, 실러, 토마스 만, 카프카처럼 학교에서 배우는 작가가 많고, 노란 표지의 작은 레클람(Reclam) 문고판은 독일 학생이라면 누구나 한 번쯤 들고 다녀요.",
+      "매년 10월에는 프랑크푸르트 도서전(Frankfurter Buchmesse), 봄에는 라이프치히 도서전이 열려요. 동네마다 작은 서점도 많아서, 직원에게 책을 추천받는 문화도 살아 있어요.",
+      "그리고 독일에서는 새 독일어 책 가격이 대부분 정해져 있어서, 큰 온라인 서점이든 동네 서점이든 값이 거의 같아요. 그러니 마음 편히 동네 서점을 응원해도 돼요. 📖"
+    ],
+    "quiz": {"q": "서점에서 휴가 때 읽을 ‘두꺼운 소설’을 찾고 있다고 말하고 싶어요.", "o": ["Ich suche einen dicken Roman.", "Ich suche ein kurzes Gedicht.", "Ich suche ein neues Kapitel."], "a": 0, "why": "der Roman = 장편소설. 두꺼운 소설은 ein dicker Roman이에요."},
+    "outro": "지금 읽고 있는 책을 떠올리며 ‘Ich lese gerade … von …’을 소리 내서 말해 봐요. 작가 이름까지 넣으면 완벽해요! 📚"
+  },
+  "en": {
+    "title": "Talking books: 10 German words from the land of poets",
+    "hook": "Next time someone in Germany asks what you're reading, you'll have a proper answer.",
+    "intro": [
+      "It's a rainy afternoon and you step into a little bookshop (Buchhandlung). The bookseller asks, ‘Suchen Sie etwas Bestimmtes?’ You want to ask for a good novel and chat about your favourite author — but is a novel a Roman or a Novelle?",
+      "Today's ten words are about books and literature. Use them to find a book in a shop, talk about the plot at a book club or survive the poem your German teacher wants you to learn by heart. 📚"
+    ],
+    "words": {
+      "B1-921": {"pron": "lit-er-a-TOOR", "tip": "From Latin littera, letter ✒️ Letters add up to literature.", "bonus": "In academic writing it also means ‘reading list, references’."},
+      "A1-049": {"pron": "BOOKH", "tip": "People once wrote on beech (Buche) tablets 🌳 Buche → Buch → book.", "warn": "Umlaut in the plural: die Bücher"},
+      "B1-1080": {"pron": "ro-MAHN", "tip": "Not a romance — just a novel 📖 Stress the end: ro-MAHN.", "warn": "A romance novel is ein Liebesroman."},
+      "B1-722": {"pron": "guh-DIKHT", "tip": "From dichten, to write poetry 🌙 Lots of ge- nouns are das.", "bonus": "ein Gedicht auswendig lernen = to learn a poem by heart"},
+      "A2-645": {"pron": "OW-tor", "tip": "Not a car (Auto) — an author ✍️ Stress the first syllable.", "bonus": "A female author is die Autorin."},
+      "B1-1121": {"pron": "SHRIFT-shtel-er", "tip": "Schrift (writing) + stellen (to place) + -er = someone who puts writing in place 🖋️", "bonus": "A female writer is die Schriftstellerin."},
+      "B1-832": {"pron": "ka-PIT-el", "tip": "Latin for ‘little head’, the heading 🔖 A sibling of English chapter.", "warn": "Gender trap: it's das Kapitel."},
+      "B2-1361": {"pron": "DIKH-ter", "tip": "dichten (to write poetry) + -er = poet 🪶 Goethe and Schiller are the famous pair.", "bonus": "Germany's nickname: das Land der Dichter und Denker"},
+      "B1-648": {"pron": "air-TSAY-loong", "tip": "erzählen (to tell) + -ung = a tale 🗣️ -ung means die, of course.", "bonus": "Erzähl mal! = Go on, tell me!"},
+      "B1-997": {"pron": "fair-ERF-ent-likh-en", "tip": "öffentlich (public) is hiding inside 📢 Make it public = publish.", "bonus": "The noun: die Veröffentlichung = publication"}
+    },
+    "culture": [
+      "Germany likes to call itself the ‘land of poets and thinkers’ (Land der Dichter und Denker). Goethe, Schiller, Thomas Mann and Kafka are school reading, and almost every German student has carried around one of the small yellow Reclam paperbacks.",
+      "Every October the Frankfurt Book Fair (Frankfurter Buchmesse) takes place, and Leipzig holds its book fair in spring. Small local bookshops are still common, and asking the bookseller for a recommendation is very normal.",
+      "Also, new German-language books generally cost the same everywhere thanks to fixed book prices, whether you buy online or round the corner. So you can support your local bookshop with a clear conscience. 📖"
+    ],
+    "quiz": {"q": "In a bookshop, you want to say you're looking for a thick novel for your holiday.", "o": ["Ich suche einen dicken Roman.", "Ich suche ein kurzes Gedicht.", "Ich suche ein neues Kapitel."], "a": 0, "why": "der Roman = novel, so a thick novel is ein dicker Roman."},
+    "outro": "Think of the book you're reading now and say out loud: ‘Ich lese gerade … von …’ — with the author's name! 📚"
+  },
+  "ja": {
+    "title": "詩人と思想家の国で本を語るドイツ語10",
+    "hook": "ドイツで「最近何読んでる？」と聞かれたら、今日の単語ですてきに答えられます。",
+    "intro": [
+      "雨の午後、近所の本屋さん（Buchhandlung）に入りました。店員さんに「Suchen Sie etwas Bestimmtes?（何かお探しですか？）」と聞かれたものの、小説って Roman だっけ？好きな作家の話もしたいのに。",
+      "今日は本と文学についての単語10個です。本屋さんで本を探すとき、読書会であらすじを話すとき、ドイツ語の授業で詩を暗記するときまで、幅広く使えます。📚"
+    ],
+    "words": {
+      "B1-921": {"pron": "リテラトゥーア", "tip": "ラテン語 littera（文字）から ✒️ 文字が集まって文学に！", "bonus": "論文では「参考文献」の意味でも使います。"},
+      "A1-049": {"pron": "ブーフ", "tip": "昔はブナ（Buche）の板に文字を書いたそう 🌳 Buche → Buch！", "warn": "複数形はウムラウト：die Bücher"},
+      "B1-1080": {"pron": "ロマーン", "tip": "「ロマンス」ではなく長編小説 📖 「マーン」を強く。", "warn": "恋愛小説は ein Liebesroman と言います。"},
+      "B1-722": {"pron": "ゲディヒト", "tip": "dichten（詩を作る）から生まれた名詞 🌙 ge- で始まる名詞は das が多いです。", "bonus": "ein Gedicht auswendig lernen = 詩を暗記する"},
+      "A2-645": {"pron": "アウトーア", "tip": "車（Auto）ではなく作者 ✍️ 最初の「アウ」を強く。", "bonus": "女性の作者は die Autorin"},
+      "B1-1121": {"pron": "シュリフトシュテラー", "tip": "Schrift（文字）+ stellen（置く）+ -er = 文字を並べる人 🖋️", "bonus": "女性の作家は die Schriftstellerin"},
+      "B1-832": {"pron": "カピテル", "tip": "ラテン語で「小さな頭」＝章の見出し 🔖 英語 chapter の兄弟です。", "warn": "性の罠：der ではなく das Kapitel！"},
+      "B2-1361": {"pron": "ディヒター", "tip": "dichten（詩を作る）+ -er = 詩人 🪶 ゲーテとシラーが代表選手！", "bonus": "ドイツのニックネーム：das Land der Dichter und Denker"},
+      "B1-648": {"pron": "エアツェールング", "tip": "erzählen（語る）+ -ung = 物語 🗣️ -ung なのでもちろん die！", "bonus": "Erzähl mal! = 話して聞かせて！"},
+      "B1-997": {"pron": "フェアエッフェントリヒェン", "tip": "öffentlich（公の）が隠れています 📢 世に公開する＝出版する！", "bonus": "名詞形：die Veröffentlichung = 出版、発表"}
+    },
+    "culture": [
+      "ドイツには「詩人と思想家の国（Land der Dichter und Denker）」というニックネームがあります。ゲーテ、シラー、トーマス・マン、カフカなど学校で読む作家も多く、黄色い表紙の小さなレクラム（Reclam）文庫は、ドイツの学生ならだれでも一度は持ち歩いたことがあるはずです。",
+      "毎年10月にはフランクフルト・ブックフェア（Frankfurter Buchmesse）、春にはライプツィヒのブックフェアが開かれます。町の小さな本屋さんも多く、店員さんにおすすめを聞く文化が今も生きています。",
+      "それから、ドイツ語の新刊は本の定価制度のおかげで、ネットでも町の本屋さんでもほぼ同じ値段です。気兼ねなく町の本屋さんを応援できますね。📖"
+    ],
+    "quiz": {"q": "本屋さんで、休暇に読む「分厚い小説」を探していると言いたいです。", "o": ["Ich suche einen dicken Roman.", "Ich suche ein kurzes Gedicht.", "Ich suche ein neues Kapitel."], "a": 0, "why": "der Roman = 長編小説。分厚い小説は ein dicker Roman です。"},
+    "outro": "いま読んでいる本を思い浮かべて、「Ich lese gerade … von …」と声に出して言ってみましょう。作家の名前も入れたら完璧です！📚"
+  }
+}

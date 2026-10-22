@@ -1,0 +1,84 @@
+{
+  "key": "videogames",
+  "ko": {
+    "title": "독일 친구와 한 판 붙기 전에 알아 둘 단어 10",
+    "hook": "게임 설정 언어를 독일어로 바꾸는 순간, 공부가 놀이가 돼요.",
+    "intro": [
+      "독일 친구가 „Wollen wir heute Abend zocken?“이라고 메시지를 보냈어요. zocken이 뭐지? 한참 사전을 찾아보고 나서야 게임하자는 말인 걸 알았죠. 게임 중에도 „Noch eine Runde!“ 소리만 계속 들렸고요.",
+      "오늘은 게임할 때 정말 자주 쓰는 단어 10개를 모았어요. 이 10개면 독일 친구와 온라인으로 한 판 하면서 수다도 떨고, 게임 리뷰도 대충 읽을 수 있어요. 🎮"
+    ],
+    "words": {
+      "A2-580": {"pron": "슈필", "tip": "spielen(놀다)에서 온 명사 🎲 게임도, 축구 경기도 전부 Spiel!", "bonus": "비디오 게임 = das Videospiel · 컴퓨터 게임 = das Computerspiel"},
+      "C2-3953": {"pron": "초켄", "tip": "‘초켄초켄’ 버튼 누르는 소리 같죠? 🕹️ 친구끼리 쓰는 ‘게임하다’!", "warn": "구어예요. 원래 ‘도박하다’라는 뜻도 있으니 공식 자리에선 spielen."},
+      "B1-2185": {"pron": "레벨", "tip": "영어 level 그대로 ⬆️ 한국어 ‘레벨업’이랑 똑같이 써요!", "warn": "복수는 영어처럼 -s: die Levels"},
+      "B1-726": {"pron": "게그너", "tip": "gegen(~에 맞서) + -er = 맞서는 사람 ⚔️ 게임 속 적도 경기 상대도 Gegner!", "bonus": "보스 몬스터 = der Endgegner"},
+      "B1-1084": {"pron": "룬데", "tip": "영어 round와 같은 뿌리 🔄 한 판 더 = noch eine Runde!", "bonus": "술집에서 eine Runde ausgeben = 한턱 쏘다"},
+      "B1-680": {"pron": "피구어", "tip": "영어 figure처럼 ‘모양, 인물’ 🧍 게임 캐릭터도 Figur라고 해요.", "bonus": "몸매가 좋다 = eine gute Figur haben"},
+      "B2-3291": {"pron": "아바타르", "tip": "산스크리트어 ‘신의 화신’ 👤 화면 속 또 다른 나!", "warn": "독일어는 끝 음절에 강세: 아바타르"},
+      "B1-751": {"pron": "그라피크", "tip": "그리스어 graphein(그리다) ✏️ 영어 graphics처럼 화면 그림!", "bonus": "Die Grafik ist super! = 그래픽 끝내준다!"},
+      "B1-1366": {"pron": "비르투엘", "tip": "영어 virtual과 쌍둥이 🥽 VR은 virtuelle Realität!", "bonus": "명사 die virtuelle Welt = 가상 세계"},
+      "B1-1220": {"pron": "쥐히티히", "tip": "die Sucht(중독) + -ig 😵‍💫 ‘쥐히티히’ 한 번 더, 한 번 더…", "warn": "전치사는 nach: süchtig nach Computerspielen"}
+    },
+    "culture": [
+      "독일은 게임 인구가 많은 나라예요. 쾰른에서는 매년 보통 늦여름에 세계적인 게임 박람회 gamescom이 열려서, 전 세계 게이머들이 몰려와요.",
+      "독일에서 파는 게임 상자에는 USK라는 연령 등급 표시가 크게 붙어 있어요. 색깔과 숫자로 몇 살부터 할 수 있는지 한눈에 보여 줘요.",
+      "그리고 독일어 게임 용어에는 영어가 정말 많아요. leveln, looten, der Boss 같은 말을 그대로 쓰니까, 게이머라면 생각보다 쉽게 따라갈 수 있어요. 🕹️"
+    ],
+    "quiz": {"q": "친구에게 이 게임에 완전 중독됐다고 말하고 싶어요. 맞는 문장은?", "o": ["Ich bin süchtig auf das Spiel.", "Ich bin süchtig von dem Spiel.", "Ich bin süchtig nach dem Spiel."], "a": 2, "why": "süchtig는 항상 nach + 3격과 함께 써요."},
+    "outro": "오늘 게임할 때 „Noch eine Runde!“, „Der Gegner ist zu stark!“를 소리 내서 외쳐 봐요. 물론 süchtig는 되지 않게요! 🎮"
+  },
+  "en": {
+    "title": "Game on! 10 German words for gamers",
+    "hook": "Switch your game's language to German and studying turns into playing.",
+    "intro": [
+      "A German friend texts you: „Wollen wir heute Abend zocken?“ Zocken? After a dictionary hunt you realise it means ‘play games’. Then, mid-game, all you hear is „Noch eine Runde!“",
+      "Today's ten words come up constantly when people play. With them you can chat while gaming online with German friends and get the gist of a German game review. 🎮"
+    ],
+    "words": {
+      "A2-580": {"pron": "SHPEEL", "tip": "From spielen (to play) 🎲 Video games and football matches are both a Spiel.", "bonus": "video game = das Videospiel · computer game = das Computerspiel"},
+      "C2-3953": {"pron": "TSOK-en", "tip": "Sounds like button-mashing: tsok-tsok 🕹️ Casual for ‘play games’.", "warn": "Slang, and it can also mean ‘gamble’. In formal settings use spielen."},
+      "B1-2185": {"pron": "LEV-el", "tip": "Straight from English ⬆️ Level up, same idea.", "warn": "English-style plural: die Levels"},
+      "B1-726": {"pron": "GAYG-ner", "tip": "gegen (against) + -er = the one against you ⚔️ Enemy or opponent.", "bonus": "final boss = der Endgegner"},
+      "B1-1084": {"pron": "ROON-duh", "tip": "Same root as round 🔄 One more round = noch eine Runde!", "bonus": "At the pub: eine Runde ausgeben = to buy a round"},
+      "B1-680": {"pron": "fee-GOOR", "tip": "Like English figure: a shape or a person 🧍 A game character is a Figur too.", "bonus": "to look good = eine gute Figur machen"},
+      "B2-3291": {"pron": "ah-vah-TAR", "tip": "Sanskrit for a god appearing on earth 👤 Now it's you on screen.", "warn": "Stress is on the last syllable in German."},
+      "B1-751": {"pron": "GRAH-fik", "tip": "From Greek graphein (to draw) ✏️ Like graphics.", "bonus": "Die Grafik ist super! = The graphics are amazing!"},
+      "B1-1366": {"pron": "veer-too-EL", "tip": "Twin of virtual 🥽 VR is virtuelle Realität.", "bonus": "die virtuelle Welt = the virtual world"},
+      "B1-1220": {"pron": "ZUEKH-tikh", "tip": "die Sucht (addiction) + -ig 😵‍💫 Just one more level…", "warn": "Use nach: süchtig nach Computerspielen"}
+    },
+    "culture": [
+      "Gaming is huge in Germany. Cologne hosts gamescom, one of the world's biggest gaming fairs, usually in late summer, and gamers travel there from all over the world.",
+      "Games sold in Germany carry a large USK age rating on the box. The colour and number show at a glance which age the game is suitable for.",
+      "German gamer talk is also full of English. Words like leveln, looten and der Boss are used as they are, so if you game, you'll pick it up faster than you think. 🕹️"
+    ],
+    "quiz": {"q": "You want to tell a friend you're totally hooked on this game. Which sentence is right?", "o": ["Ich bin süchtig auf das Spiel.", "Ich bin süchtig von dem Spiel.", "Ich bin süchtig nach dem Spiel."], "a": 2, "why": "süchtig always goes with nach + dative."},
+    "outro": "Next time you play, shout „Noch eine Runde!“ and „Der Gegner ist zu stark!“ out loud. Just don't get süchtig! 🎮"
+  },
+  "ja": {
+    "title": "ドイツの友だちと一戦交える前に覚えたい単語10",
+    "hook": "ゲームの言語設定をドイツ語にした瞬間、勉強が遊びに変わります。",
+    "intro": [
+      "ドイツ人の友だちから „Wollen wir heute Abend zocken?“ とメッセージ。zocken って何？辞書を引いて、やっと「ゲームしよう」という意味だとわかりました。ゲーム中も „Noch eine Runde!“ ばかり聞こえてきます。",
+      "今日はゲームでよく使う単語を10個集めました。この10個があれば、ドイツの友だちとオンラインで遊びながらおしゃべりして、ゲームのレビューもだいたい読めるようになります。🎮"
+    ],
+    "words": {
+      "A2-580": {"pron": "シュピール", "tip": "spielen（遊ぶ）から来た名詞 🎲 ゲームもサッカーの試合も Spiel！", "bonus": "ビデオゲーム = das Videospiel · パソコンゲーム = das Computerspiel"},
+      "C2-3953": {"pron": "ツォッケン", "tip": "ボタンを連打する音みたい：ツォッ、ツォッ 🕹️ 友だちどうしの「ゲームする」！", "warn": "くだけた言葉で、「ギャンブルする」の意味もあります。改まった場では spielen。"},
+      "B1-2185": {"pron": "レヴェル", "tip": "英語の level そのまま ⬆️ 日本語の「レベルアップ」と同じ感覚！", "warn": "複数形は英語風に -s：die Levels"},
+      "B1-726": {"pron": "ゲーグナー", "tip": "gegen（〜に対して）+ -er = 立ち向かってくる人 ⚔️ 敵も対戦相手も Gegner！", "bonus": "ラスボス = der Endgegner"},
+      "B1-1084": {"pron": "ルンデ", "tip": "英語の round と同じ語源 🔄 もう1回 = noch eine Runde!", "bonus": "飲み屋で eine Runde ausgeben = みんなにおごる"},
+      "B1-680": {"pron": "フィグーア", "tip": "英語の figure のように「形・人物」🧍 ゲームのキャラも Figur です。", "bonus": "スタイルがいい = eine gute Figur haben"},
+      "B2-3291": {"pron": "アヴァタール", "tip": "サンスクリット語で「神の化身」👤 画面の中のもう一人の自分！", "warn": "ドイツ語では最後の音節にアクセント：アヴァタール"},
+      "B1-751": {"pron": "グラーフィク", "tip": "ギリシャ語 graphein（描く）から ✏️ 英語の graphics と同じく画面の絵！", "bonus": "Die Grafik ist super! = グラフィックすごい！"},
+      "B1-1366": {"pron": "ヴィルトゥエル", "tip": "英語の virtual と双子 🥽 VR は virtuelle Realität！", "bonus": "die virtuelle Welt = 仮想世界"},
+      "B1-1220": {"pron": "ズュヒティヒ", "tip": "die Sucht（依存）+ -ig 😵‍💫 あと1面だけ、あと1面だけ…", "warn": "前置詞は nach：süchtig nach Computerspielen"}
+    },
+    "culture": [
+      "ドイツはゲーム好きの多い国です。ケルンでは毎年たいてい夏の終わりに、世界最大級のゲーム見本市 gamescom が開かれ、世界中からゲーマーが集まります。",
+      "ドイツで売られているゲームのパッケージには、USK という年齢区分のマークが大きくついています。色と数字で、何歳から遊べるかがひと目でわかります。",
+      "それから、ドイツ語のゲーム用語には英語がとても多いです。leveln、looten、der Boss などをそのまま使うので、ゲーマーなら思ったより早くなじめますよ。🕹️"
+    ],
+    "quiz": {"q": "友だちに、このゲームに完全にハマっていると言いたいです。正しい文は？", "o": ["Ich bin süchtig auf das Spiel.", "Ich bin süchtig von dem Spiel.", "Ich bin süchtig nach dem Spiel."], "a": 2, "why": "süchtig はいつも nach + 3格といっしょに使います。"},
+    "outro": "今日ゲームをするときは „Noch eine Runde!“ „Der Gegner ist zu stark!“ と声に出して叫んでみましょう。もちろん süchtig にならない程度に！🎮"
+  }
+}

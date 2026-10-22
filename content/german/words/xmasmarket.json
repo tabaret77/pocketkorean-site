@@ -1,0 +1,84 @@
+{
+  "key": "xmasmarket",
+  "ko": {
+    "title": "글뤼바인 한 잔과 함께 배우는 크리스마스 마켓 독일어 10",
+    "hook": "독일의 겨울이 길고 어두워도 사람들이 12월을 기다리는 이유, 바로 크리스마스 마켓이에요.",
+    "intro": [
+      "해가 오후 4시면 지는 독일의 겨울. 그런데 광장에 불빛이 켜지고 계피 향이 퍼지기 시작하면 분위기가 확 달라져요. 손에는 따끈한 Glühwein, 머리에는 털모자, 사람들 틈에서 이리저리 밀리며 가판대를 구경하죠.",
+      "오늘은 크리스마스 마켓에서 바로 쓰는 단어 10개예요. 분위기, 향기, 북적임, 그리고 컵 보증금까지! 이 10개면 마켓 구경이 훨씬 더 즐거워져요. 🎄"
+    ],
+    "words": {
+      "A2-836": {"pron": "바이나흐츠마르크트", "tip": "Weihnachten(크리스마스) + Markt(시장) 🎄 중간의 s는 이어 붙이는 접착제!", "warn": "복수형은 움라우트: die Weihnachtsmärkte"},
+      "B1-2073": {"pron": "슈탄트", "tip": "stehen(서다)에서 왔어요 🛖 길에 ‘서 있는’ 가판대 = Stand!", "bonus": "마켓 가판대 = der Marktstand · 복수는 die Stände"},
+      "B1-128": {"pron": "슈티뭉", "tip": "stimmen(악기를 조율하다)에서 🎻 마음이 딱 맞게 조율된 상태 = 분위기!", "bonus": "Die Stimmung ist super! = 분위기 최고예요!"},
+      "B1-828": {"pron": "캘테", "tip": "kalt(추운)에 움라우트 + e = 추위 🥶 형용사가 명사로 변신!", "bonus": "반대말은 die Hitze(더위) · 추워서 떨다 = frieren"},
+      "A2-1075": {"pron": "누스", "tip": "영어 nut과 같은 뿌리 🌰 마켓에서 파는 호두까기 인형은 der Nussknacker!", "warn": "복수형에 움라우트: die Nüsse"},
+      "BL-03-10": {"pron": "프판트", "tip": "컵을 돌려주면 돈이 돌아오는 마법 ♻️ 영어 pawn(담보)과 같은 뿌리예요.", "bonus": "보증금 붙은 병 = die Pfandflasche"},
+      "A2-290": {"pron": "뮈체", "tip": "‘뮈~체’ 하고 머리를 폭 덮는 소리 🧶 귀까지 덮는 털모자!", "bonus": "꼭대기에 방울 달린 모자 = die Bommelmütze"},
+      "B1-2171": {"pron": "두프트", "tip": "‘두프트~’ 코로 크게 들이마시는 소리 👃 좋은 냄새에만 써요!", "bonus": "동사 duften: Es duftet nach Zimt. = 계피 향이 나요."},
+      "B2-2143": {"pron": "부멜른", "tip": "종이 ‘붐~붐~’ 흔들리듯 느긋하게 걷기 🔔 목적지 없이 어슬렁!", "warn": "거닐다의 뜻일 땐 현재완료에 sein: Wir sind über den Markt gebummelt."},
+      "B2-2016": {"pron": "게드렝에", "tip": "drängen(밀치다) + Ge-…-e(잔뜩 모인 것) = 서로 밀치는 인파 👥", "bonus": "같은 틀의 단어: das Gebirge(산맥) = 산이 잔뜩 모인 것"}
+    },
+    "culture": [
+      "독일의 크리스마스 마켓은 보통 11월 말쯤 열어서 크리스마스 직전까지 이어져요. 뉘른베르크나 드레스덴처럼 수백 년 역사를 가진 유명한 마켓도 있고, 동네 작은 광장에 서는 소박한 마켓도 많아요.",
+      "Glühwein을 시키면 컵값으로 Pfand가 붙어요. 다 마시고 컵을 돌려주면 돈을 돌려받고, 마음에 들면 기념품으로 가져가도 돼요. 술을 못 마신다면 따뜻한 Kinderpunsch를 주문해 보세요.",
+      "저녁과 주말에는 Gedränge가 엄청나요. 사람이 붐비는 곳에서는 지갑과 휴대폰을 앞쪽에 잘 챙기고, 여유롭게 bummeln 하고 싶다면 평일 이른 시간이 좋아요. 🍷"
+    ],
+    "quiz": {"q": "Glühwein을 다 마시고 컵을 가판대에 돌려줬어요. 무엇을 돌려받나요?", "o": ["das Pfand", "die Mütze", "das Gedränge"], "a": 0, "why": "das Pfand = 보증금. 컵을 돌려주면 처음 낸 보증금을 돌려받아요."},
+    "outro": "따뜻한 음료 한 잔 들고 ‘Die Stimmung ist toll!’ 하고 소리 내 말해 봐요. 마음만은 벌써 크리스마스 마켓이에요! ✨"
+  },
+  "en": {
+    "title": "Glühwein in hand: 10 German words for the Christmas market",
+    "hook": "German winters are long and dark — and the Christmas market is why people still look forward to December.",
+    "intro": [
+      "In a German winter it's dark by four in the afternoon. But then the lights go up in the square, the smell of cinnamon drifts over, and everything changes. Hot Glühwein in your hands, a woolly hat on your head, you squeeze through the crowd from stall to stall.",
+      "Today's ten words are the ones you'll use right there at the market: the atmosphere, the smells, the crowds — and the deposit on your mug. With them, your next market visit gets even better. 🎄"
+    ],
+    "words": {
+      "A2-836": {"pron": "VYE-nakhts-markt", "tip": "Weihnachten (Christmas) + Markt (market) 🎄 The little s in the middle is just glue.", "warn": "Plural with umlaut: die Weihnachtsmärkte"},
+      "B1-2073": {"pron": "SHTANT", "tip": "From stehen (to stand) — a stall literally stands in the street 🛖", "bonus": "a market stall = der Marktstand · plural: die Stände"},
+      "B1-128": {"pron": "SHTIM-oong", "tip": "From stimmen (to tune an instrument) 🎻 A mood is how your heart is tuned.", "bonus": "Die Stimmung ist super! = The atmosphere is amazing!"},
+      "B1-828": {"pron": "KEL-tuh", "tip": "kalt + umlaut + e = the cold 🥶 An adjective turned into a noun.", "bonus": "The opposite is die Hitze (heat) · to feel cold, shiver = frieren"},
+      "A2-1075": {"pron": "NOOSS", "tip": "Same root as English nut 🌰 The wooden nutcrackers on sale are der Nussknacker.", "warn": "Plural with umlaut: die Nüsse"},
+      "BL-03-10": {"pron": "PFANT", "tip": "Give the mug back, get your money back ♻️ Related to English pawn.", "bonus": "a deposit bottle = die Pfandflasche"},
+      "A2-290": {"pron": "MÜT-suh", "tip": "Sounds snug, like pulling a hat down over your ears — ‘mütze!’ 🧶", "bonus": "a bobble hat = die Bommelmütze"},
+      "B1-2171": {"pron": "DOOFT", "tip": "Take a deep sniff — ‘dooft’ 👃 It's only ever a nice smell.", "bonus": "The verb duften: Es duftet nach Zimt. = It smells of cinnamon."},
+      "B2-2143": {"pron": "BOOM-meln", "tip": "Swing along slowly like a bell going ‘boom, boom’ 🔔 Strolling with nowhere to be.", "warn": "When it means strolling somewhere, the perfect uses sein: Wir sind über den Markt gebummelt."},
+      "B2-2016": {"pron": "geh-DRENG-uh", "tip": "drängen (to push) + Ge-…-e (a whole lot of it) = lots of pushing 👥", "bonus": "Same pattern: das Gebirge (mountain range) = lots of mountains"}
+    },
+    "culture": [
+      "German Christmas markets usually open around the end of November and run until just before Christmas. Some, like those in Nuremberg and Dresden, have centuries of history, but many neighbourhoods have their own small, cosy market too.",
+      "When you order Glühwein, you pay a Pfand for the mug. Bring it back and you get the deposit returned — or keep it as a souvenir. If you don't drink alcohol, ask for a warm Kinderpunsch.",
+      "Evenings and weekends can be one big Gedränge. Keep your wallet and phone close in the crowds, and if you want to bummeln in peace, go early on a weekday. 🍷"
+    ],
+    "quiz": {"q": "You've finished your Glühwein and taken the mug back to the stall. What do you get back?", "o": ["das Pfand", "die Mütze", "das Gedränge"], "a": 0, "why": "das Pfand = the deposit — you get it back when you return the mug."},
+    "outro": "Grab a warm drink and say ‘Die Stimmung ist toll!’ out loud. Your heart is at the Christmas market already! ✨"
+  },
+  "ja": {
+    "title": "グリューワイン片手に覚えるクリスマスマーケットのドイツ語10",
+    "hook": "長くて暗いドイツの冬でも、みんなが12月を待ちわびる理由――それがクリスマスマーケットです。",
+    "intro": [
+      "午後4時には日が沈むドイツの冬。でも広場に明かりがともり、シナモンの香りが漂いはじめると、雰囲気はがらりと変わります。手には温かい Glühwein、頭にはニット帽、人混みにもまれながら屋台をのぞいて回ります。",
+      "今日はクリスマスマーケットですぐ使える単語を10個集めました。雰囲気、香り、人混み、そしてカップのデポジットまで！この10個があれば、マーケット巡りがもっと楽しくなります。🎄"
+    ],
+    "words": {
+      "A2-836": {"pron": "ヴァイナハツマルクト", "tip": "Weihnachten（クリスマス）+ Markt（市場）🎄 真ん中の s はつなぎの接着剤！", "warn": "複数形はウムラウト付き：die Weihnachtsmärkte"},
+      "B1-2073": {"pron": "シュタント", "tip": "stehen（立つ）から 🛖 通りに「立っている」屋台 = Stand！", "bonus": "マーケットの屋台 = der Marktstand · 複数形は die Stände"},
+      "B1-128": {"pron": "シュティムング", "tip": "stimmen（楽器を調律する）から 🎻 心がぴったり調律された状態 = 雰囲気！", "bonus": "Die Stimmung ist super! = 雰囲気最高！"},
+      "B1-828": {"pron": "ケルテ", "tip": "kalt（寒い）にウムラウト + e = 寒さ 🥶 形容詞が名詞に変身！", "bonus": "反対は die Hitze（暑さ）· 寒くて震える = frieren"},
+      "A2-1075": {"pron": "ヌス", "tip": "英語の nut と同じルーツ 🌰 マーケットで売っているくるみ割り人形は der Nussknacker！", "warn": "複数形はウムラウト付き：die Nüsse"},
+      "BL-03-10": {"pron": "プファント", "tip": "カップを返すとお金が戻ってくる魔法 ♻️ 英語の pawn（質）と同じルーツです。", "bonus": "デポジット付きのボトル = die Pfandflasche"},
+      "A2-290": {"pron": "ミュッツェ", "tip": "「ミュッツェ」と耳まですっぽりかぶる感じ 🧶 あったかニット帽！", "bonus": "てっぺんにポンポンのついた帽子 = die Bommelmütze"},
+      "B1-2171": {"pron": "ドゥフト", "tip": "鼻から思いきり吸い込む音「ドゥフト〜」👃 いい香りにだけ使います！", "bonus": "動詞 duften：Es duftet nach Zimt. = シナモンの香りがします。"},
+      "B2-2143": {"pron": "ブンメルン", "tip": "鐘が「ブン、ブン」と揺れるようにのんびり歩く 🔔 目的地なしでぶらぶら！", "warn": "「ぶらつく」の意味では現在完了に sein：Wir sind über den Markt gebummelt."},
+      "B2-2016": {"pron": "ゲドレンゲ", "tip": "drängen（押す）+ Ge-…-e（たくさん集まったもの）= 押し合う人混み 👥", "bonus": "同じパターン：das Gebirge（山脈）= 山がたくさん集まったもの"}
+    },
+    "culture": [
+      "ドイツのクリスマスマーケットは、たいてい11月末ごろに始まり、クリスマスの直前まで続きます。ニュルンベルクやドレスデンのように何百年もの歴史をもつ有名なマーケットもあれば、近所の小さな広場に立つ素朴なマーケットもたくさんあります。",
+      "Glühwein を頼むと、カップ代として Pfand がかかります。飲み終わってカップを返せばお金が戻ってきますし、気に入ったら記念に持ち帰ってもOK。お酒が飲めない人は温かい Kinderpunsch をどうぞ。",
+      "夜や週末はものすごい Gedränge になります。人混みでは財布とスマホを体の前でしっかり持ちましょう。のんびり bummeln したいなら、平日の早い時間がおすすめです。🍷"
+    ],
+    "quiz": {"q": "Glühwein を飲み終えて、カップを屋台に返しました。何が戻ってきますか？", "o": ["das Pfand", "die Mütze", "das Gedränge"], "a": 0, "why": "das Pfand = デポジット。カップを返すと、最初に払ったデポジットが戻ってきます。"},
+    "outro": "温かい飲み物を片手に「Die Stimmung ist toll!」と声に出してみましょう。気分はもうクリスマスマーケットです！✨"
+  }
+}

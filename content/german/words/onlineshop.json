@@ -1,0 +1,84 @@
+{
+  "key": "onlineshop",
+  "ko": {
+    "title": "장바구니부터 반품까지, 독일 온라인 쇼핑 단어 10",
+    "hook": "독일 쇼핑 사이트에서 ‘결제하기’ 버튼 찾느라 헤맨 적 있나요?",
+    "intro": [
+      "독일에 와서 처음으로 온라인으로 신발을 샀어요. Warenkorb, Versandkosten, Rücksendung… 버튼마다 긴 단어가 붙어 있고, 결국 사이즈가 안 맞아서 반품까지 해야 했죠.",
+      "오늘은 온라인 쇼핑할 때 화면에서 바로 보이는 단어 10개를 모았어요. 이 10개면 주문하고, 배송 정보를 확인하고, 반품하고, 리뷰까지 혼자서 할 수 있어요. 🛒"
+    ],
+    "words": {
+      "A2-530": {"pron": "온라인", "tip": "영어 online 그대로예요 💻 독일어 문장에서도 그대로 써요!", "bonus": "online einkaufen = 온라인으로 쇼핑하다"},
+      "BL-01-01": {"pron": "베슈텔룽", "tip": "bestellen + -ung = 주문 📦 -ung으로 끝나면 언제나 die!", "bonus": "die Bestellung aufgeben = 주문을 넣다"},
+      "BL-01-02": {"pron": "베슈텔렌", "tip": "be- + stellen(놓다) = 내 앞에 갖다 놓게 하다 🍽️ 카페에서도, 인터넷에서도 bestellen!", "bonus": "완료형: Ich habe Schuhe bestellt."},
+      "A2-323": {"pron": "리펀", "tip": "프랑스어 livrer에서 왔어요 🚚 영어 deliver의 -liver- 부분과 닮았죠!", "bonus": "배달, 배송은 die Lieferung이에요."},
+      "B2-1433": {"pron": "페어잔트", "tip": "versenden(보내다)의 명사 📮 안에 영어 send가 보여요!", "warn": "보통 복수 없이 써요: Der Versand dauert zwei Tage."},
+      "B1-1720": {"pron": "페어잔트코스텐", "tip": "Versand(배송) + Kosten(비용) = 배송비 💸 ‘무료 배송’은 versandkostenfrei!", "warn": "항상 복수로 써요: die Versandkosten."},
+      "B1-1697": {"pron": "추뤼크쉬켄", "tip": "zurück(뒤로) + schicken(보내다) = 되돌려 보내기 ↩️", "warn": "분리동사예요: Ich schicke die Schuhe zurück."},
+      "B2-1432": {"pron": "뤼크젠둥", "tip": "Rück(뒤로) + Sendung(보낸 물건) = 반품 📦 -ung이라 die예요.", "bonus": "반품 라벨은 das Rücksendeetikett."},
+      "B2-110": {"pron": "베베르퉁", "tip": "Wert(가치)가 들어 있어요 ⭐ 가치를 매기는 것 = 평가, 리뷰!", "bonus": "eine Bewertung schreiben = 리뷰를 쓰다"},
+      "C1-2496": {"pron": "바렌코르프", "tip": "Ware(물건) + Korb(바구니) = 장바구니 🧺 Korb가 der라서 전체도 der!", "bonus": "In den Warenkorb = 장바구니에 담기 (쇼핑 사이트 버튼에 자주 보여요)"}
+    },
+    "culture": [
+      "독일에서 온라인으로 산 물건은 보통 14일 안에 이유 없이 반품할 수 있어요. 이걸 Widerrufsrecht라고 해요. 다만 반품 배송비를 누가 내는지는 가게마다 달라요.",
+      "택배를 받을 때 집에 없으면 이웃이 대신 받아 주는 경우가 많아요. 우편함에 쪽지가 들어 있으면 이웃집이나 근처 우체국, 무인 택배함(Packstation)을 확인해 보세요.",
+      "그리고 독일에서는 물건을 먼저 받고 나중에 돈을 내는 Kauf auf Rechnung(청구서 결제)도 꽤 인기 있어요. 🧾"
+    ],
+    "quiz": {"q": "온라인으로 산 신발이 안 맞아요. 친구에게 뭐라고 말할까요?", "o": ["Ich bestelle sie noch einmal.", "Ich schicke sie zurück.", "Die Lieferung ist kostenlos."], "a": 1, "why": "zurückschicken = 돌려보내다. ‘반품할 거야’라는 뜻이에요."},
+    "outro": "오늘은 쇼핑 앱이나 사이트를 독일어로 바꿔 놓고, 오늘 배운 단어가 어디에 있는지 찾아봐요. 장바구니에 담기만 하고 결제는 참는 걸로! 😉"
+  },
+  "en": {
+    "title": "From basket to returns: German online shopping in 10 words",
+    "hook": "Ever got lost on a German shopping site looking for the checkout button?",
+    "intro": [
+      "The first time I bought shoes online in Germany, every button had a long word on it: Warenkorb, Versandkosten, Rücksendung… And of course they didn't fit, so I had to send them back.",
+      "Today's ten words are the ones you'll see on screen when you shop online. With them you can order, track delivery, return things and even leave a review on your own. 🛒"
+    ],
+    "words": {
+      "A2-530": {"pron": "ON-line", "tip": "Borrowed straight from English 💻 Used just the same in German sentences.", "bonus": "online einkaufen = to shop online"},
+      "BL-01-01": {"pron": "buh-SHTEL-oong", "tip": "bestellen + -ung = order 📦 Words ending in -ung are always die.", "bonus": "eine Bestellung aufgeben = to place an order"},
+      "BL-01-02": {"pron": "buh-SHTEL-en", "tip": "be- + stellen (to put) = have something put in front of you 🍽️ Works in cafés and online.", "bonus": "Perfect: Ich habe Schuhe bestellt."},
+      "A2-323": {"pron": "LEE-fern", "tip": "From French livrer 🚚 Spot the -liver- in English deliver!", "bonus": "The delivery itself is die Lieferung."},
+      "B2-1433": {"pron": "fair-ZANT", "tip": "The noun from versenden, to send out 📮 You can see English send inside.", "warn": "Usually no plural: Der Versand dauert zwei Tage."},
+      "B1-1720": {"pron": "fair-ZANT-kos-ten", "tip": "Versand (shipping) + Kosten (costs) 💸 Free shipping is versandkostenfrei!", "warn": "Always plural: die Versandkosten."},
+      "B1-1697": {"pron": "tsoo-RÜK-shik-en", "tip": "zurück (back) + schicken (to send) = send back ↩️", "warn": "Separable: Ich schicke die Schuhe zurück."},
+      "B2-1432": {"pron": "RÜK-zen-doong", "tip": "Rück (back) + Sendung (parcel) = a return 📦 -ung, so die.", "bonus": "A returns label is das Rücksendeetikett."},
+      "B2-110": {"pron": "buh-VAIR-toong", "tip": "Wert (worth) is inside ⭐ Saying what something is worth = a review.", "bonus": "eine Bewertung schreiben = to write a review"},
+      "C1-2496": {"pron": "VAH-ren-korp", "tip": "Ware (wares) + Korb (basket) = shopping basket 🧺 Korb is der, so it's der.", "bonus": "In den Warenkorb = Add to basket (you'll see it on every shop button)"}
+    },
+    "culture": [
+      "In Germany you can usually return things bought online within 14 days without giving a reason. This is called the Widerrufsrecht. Who pays for return postage depends on the shop, though.",
+      "If you're out when a parcel arrives, a neighbour often takes it in for you. If you find a card in your letterbox, check with your neighbours, the local post office or a parcel locker (Packstation).",
+      "Paying after delivery by invoice, called Kauf auf Rechnung, is also quite popular in Germany. 🧾"
+    ],
+    "quiz": {"q": "The shoes you bought online don't fit. What do you tell your friend?", "o": ["Ich bestelle sie noch einmal.", "Ich schicke sie zurück.", "Die Lieferung ist kostenlos."], "a": 1, "why": "zurückschicken means to send back, so you're returning them."},
+    "outro": "Switch a shopping app or website to German today and hunt for today's words. Adding to the Warenkorb is fine — checking out is optional! 😉"
+  },
+  "ja": {
+    "title": "カートから返品まで：ドイツのネットショッピング10語",
+    "hook": "ドイツの通販サイトで、購入ボタンが見つからずに迷ったことはありませんか？",
+    "intro": [
+      "ドイツで初めてネットで靴を買ったとき、どのボタンにも長い単語が。Warenkorb、Versandkosten、Rücksendung……。しかも結局サイズが合わず、返品することになりました。",
+      "今日はネットショッピングの画面でよく見る単語を10個集めました。この10個があれば、注文、配送の確認、返品、レビューまで一人でできます。🛒"
+    ],
+    "words": {
+      "A2-530": {"pron": "オンライン", "tip": "英語の online そのままです 💻 ドイツ語の文の中でもそのまま使います！", "bonus": "online einkaufen = ネットで買い物する"},
+      "BL-01-01": {"pron": "ベシュテルング", "tip": "bestellen + -ung = 注文 📦 -ung で終わる名詞はいつも die！", "bonus": "eine Bestellung aufgeben = 注文を出す"},
+      "BL-01-02": {"pron": "ベシュテレン", "tip": "be- + stellen（置く）= 自分の前に置いてもらう 🍽️ カフェでもネットでも bestellen！", "bonus": "完了形：Ich habe Schuhe bestellt."},
+      "A2-323": {"pron": "リーファーン", "tip": "フランス語 livrer から 🚚 英語 deliver の -liver- の部分と似ていますね！", "bonus": "配達・配送は die Lieferung."},
+      "B2-1433": {"pron": "フェアザント", "tip": "versenden（発送する）の名詞 📮 中に英語の send が見えます！", "warn": "ふつう複数形なしで使います：Der Versand dauert zwei Tage."},
+      "B1-1720": {"pron": "フェアザントコステン", "tip": "Versand（発送）+ Kosten（費用）= 送料 💸「送料無料」は versandkostenfrei！", "warn": "いつも複数形です：die Versandkosten."},
+      "B1-1697": {"pron": "ツリュックシッケン", "tip": "zurück（戻って）+ schicken（送る）= 送り返す ↩️", "warn": "分離動詞です：Ich schicke die Schuhe zurück."},
+      "B2-1432": {"pron": "リュックゼンドゥング", "tip": "Rück（戻り）+ Sendung（送ったもの）= 返品 📦 -ung なので die です。", "bonus": "返品ラベルは das Rücksendeetikett."},
+      "B2-110": {"pron": "ベヴェールトゥング", "tip": "Wert（価値）が入っています ⭐ 価値をつけること = 評価、レビュー！", "bonus": "eine Bewertung schreiben = レビューを書く"},
+      "C1-2496": {"pron": "ヴァーレンコルプ", "tip": "Ware（商品）+ Korb（かご）= 買い物かご 🧺 Korb が der なので全体も der！", "bonus": "In den Warenkorb =「カートに入れる」（通販サイトのボタンでよく見ます）"}
+    },
+    "culture": [
+      "ドイツでネットで買ったものは、ふつう14日以内なら理由なしで返品できます。これを Widerrufsrecht と言います。ただし、返送料をだれが払うかはお店によって違います。",
+      "荷物が届いたときに留守だと、お隣さんが代わりに受け取ってくれることがよくあります。郵便受けに不在票が入っていたら、お隣さんや近くの郵便局、宅配ロッカー（Packstation）を確認してみましょう。",
+      "また、ドイツでは商品を受け取ってから支払う Kauf auf Rechnung（請求書払い）もけっこう人気です。🧾"
+    ],
+    "quiz": {"q": "ネットで買った靴のサイズが合いません。友だちに何と言いますか？", "o": ["Ich bestelle sie noch einmal.", "Ich schicke sie zurück.", "Die Lieferung ist kostenlos."], "a": 1, "why": "zurückschicken は「送り返す」なので、返品するという意味です。"},
+    "outro": "今日はショッピングアプリやサイトをドイツ語表示にして、今日の単語を探してみましょう。Warenkorb に入れるだけで、購入はがまんでもOK！😉"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "restaurant",
+  "ko": {
+    "title": "독일 식당에서 당황하지 않는 단어 10",
+    "hook": "메뉴판 받고, 주문하고, 계산까지. 이 10개면 웨이터 앞에서 얼어붙을 일이 없어요.",
+    "intro": [
+      "친구랑 동네 식당에 들어갔는데 아무도 자리를 안내해 주지 않아요. 앉아도 되나? 메뉴판은 어떻게 달라고 하지? 다 먹고 나서도 계산서가 안 와서 한참을 기다렸어요.",
+      "오늘은 식당에서 꼭 필요한 단어 10개예요. 예약 전화부터 주문, 추천받기, 계산과 팁까지 한 번에 해결돼요. 배고플 때 외우면 더 잘 외워진대요! 🍽️"
+    ],
+    "words": {
+      "A1-146": {"pron": "레스토랑", "tip": "원래 프랑스어로 ‘기운을 되찾게 하는 곳’ 🍲 배고픔을 회복시켜 주는 곳이 식당!", "bonus": "‘외식하다’는 essen gehen: Gehen wir heute essen?"},
+      "A2-059": {"pron": "레저비렌", "tip": "영어 reserve에 -ieren만 붙이면 끝 📞 -ieren 동사는 과거분사에 ge-가 없어요.", "warn": "식당 자리는 reservieren, 비행기·여행은 보통 buchen이에요."},
+      "A2-136": {"pron": "슈파이제카르테", "tip": "Speise(음식) + Karte(카드) = 음식이 적힌 카드 📜", "warn": "das Menü는 메뉴판이 아니라 코스·세트 메뉴예요. 메뉴판은 Speisekarte!"},
+      "BL-01-02": {"pron": "베슈텔렌", "tip": "be(내 앞에) + stellen(놓다) = ‘내 앞에 놓아 주세요’ ☕", "bonus": "주문을 받을 때 웨이터가 묻는 말: Was darf’s sein?"},
+      "BL-01-10": {"pron": "엠펠렌", "tip": "메뉴가 너무 많을 땐 Was empfehlen Sie? 한마디면 고민 끝 👍", "warn": "불규칙 동사예요: du empfiehlst, er empfiehlt – hat empfohlen"},
+      "A2-733": {"pron": "포어슈파이제", "tip": "vor(앞) + Speise(음식) = 먼저 나오는 음식 🥗", "bonus": "디저트는 die Nachspeise (nach = 뒤)! 둘 다 die예요."},
+      "B2-2453": {"pron": "하웁트게리히트", "tip": "Haupt(주된) + Gericht(요리) = 메인 요리 🐟 Hauptbahnhof의 그 Haupt예요.", "warn": "das Gericht는 ‘요리’도 되고 ‘법원’도 돼요. 식당에서는 당연히 요리!"},
+      "A2-655": {"pron": "켈너", "tip": "원래 지하 와인 저장고(Keller)를 지키던 사람 🍷 그래서 Kellner!", "bonus": "부를 땐 손을 살짝 들고 Entschuldigung! 이라고 하면 돼요."},
+      "BL-01-03": {"pron": "레히눙", "tip": "rechnen(계산하다) + -ung = 계산한 것 🧾 -ung이니까 die!", "bonus": "따로 낼 땐 Getrennt, bitte. 같이 낼 땐 Zusammen, bitte."},
+      "BL-01-05": {"pron": "트링크겔트", "tip": "trinken(마시다) + Geld(돈) = ‘한잔하세요’ 하고 주는 돈 🍺", "bonus": "거스름돈은 됐어요 = Stimmt so!"}
+    },
+    "culture": [
+      "독일의 편한 식당이나 술집에서는 직원이 자리를 안내하지 않고 그냥 빈자리에 앉는 경우가 많아요. 조금 격식 있는 곳이나 Reserviert 팻말이 있으면 기다리는 게 좋아요. 물도 저절로 나오지 않으니 따로 주문해야 해요.",
+      "계산은 보통 테이블에서 해요. 직원이 Zusammen oder getrennt?(같이 하세요, 따로 하세요?) 하고 물어보는 게 흔해요. 팁은 테이블에 두고 가기보다, 낼 때 금액을 말하면서 같이 줘요. 예를 들어 계산서가 18유로면 ‘20’ 하고 말하는 식이에요.",
+      "그리고 아직 현금만 받는 가게도 꽤 있어요. 카드가 되는지 미리 물어보면 마음이 편해요. 💶"
+    ],
+    "quiz": {"q": "식사가 끝나고 계산하고 싶어요. 웨이터에게 뭐라고 할까요?", "o": ["Die Speisekarte, bitte.", "Ich möchte reservieren.", "Die Rechnung, bitte!"], "a": 2, "why": "Die Rechnung, bitte! = 계산서 주세요! 식당에서 계산할 때 쓰는 표현이에요."},
+    "outro": "오늘 저녁엔 상상 속 식당에서 예약부터 Stimmt so!까지 한 번 소리 내서 해 봐요. Guten Appetit! 😋"
+  },
+  "en": {
+    "title": "Eating out in German: 10 words from menu to tip",
+    "hook": "Get the menu, order, pay and tip — these ten words cover the whole meal.",
+    "intro": [
+      "You walk into a little restaurant with a friend and nobody shows you to a table. Can you just sit down? How do you ask for the menu? And after dinner, the bill never seems to come.",
+      "Today's ten words take you through a whole meal out: booking a table, ordering, asking for a recommendation, paying and tipping. Learn them on an empty stomach — hunger helps! 🍽️"
+    ],
+    "words": {
+      "A1-146": {"pron": "res-toh-RONG", "tip": "From French ‘to restore’ 🍲 A restaurant restores you when you're hungry.", "bonus": "‘to eat out’ = essen gehen: Gehen wir heute essen?"},
+      "A2-059": {"pron": "reh-zer-VEE-ren", "tip": "English reserve + -ieren 📞 Verbs in -ieren take no ge- in the past participle: reserviert.", "warn": "Tables: reservieren. Flights and trips: usually buchen."},
+      "A2-136": {"pron": "SHPY-zuh-kar-tuh", "tip": "Speise (food) + Karte (card) = the card with the food on it 📜", "warn": "False friend: das Menü is a set meal, not the menu card."},
+      "BL-01-02": {"pron": "buh-SHTEL-en", "tip": "be- + stellen (to put) = ‘have it put in front of me’ ☕", "bonus": "The waiter may ask: Was darf’s sein? = What can I get you?"},
+      "BL-01-10": {"pron": "emp-FAY-len", "tip": "Can't decide? Was empfehlen Sie? and let the waiter choose 👍", "warn": "Irregular: du empfiehlst, er empfiehlt – hat empfohlen"},
+      "A2-733": {"pron": "FOR-shpy-zuh", "tip": "vor (before) + Speise (dish) = the dish that comes first 🥗", "bonus": "Dessert is die Nachspeise (nach = after)."},
+      "B2-2453": {"pron": "HOWPT-guh-risht", "tip": "Haupt (main) + Gericht (dish) 🐟 Same Haupt as in Hauptbahnhof, the main station.", "warn": "das Gericht also means a court of law — context saves you."},
+      "A2-655": {"pron": "KEL-ner", "tip": "Originally the man who kept the wine cellar (Keller) 🍷", "bonus": "To get his attention, raise a hand and say Entschuldigung!"},
+      "BL-01-03": {"pron": "REKH-noong", "tip": "rechnen (to calculate) + -ung = the reckoning 🧾 -ung means die.", "bonus": "Paying separately: Getrennt, bitte. Together: Zusammen, bitte."},
+      "BL-01-05": {"pron": "TRINK-gelt", "tip": "trinken (drink) + Geld (money) = ‘have a drink on me’ money 🍺", "bonus": "Keep the change = Stimmt so!"}
+    },
+    "culture": [
+      "In casual German restaurants and pubs, you often just pick a free table yourself. In smarter places, or where you see a Reserviert sign, wait to be seated. Tap water usually doesn't arrive automatically, so order drinks when you sit down.",
+      "You normally pay at the table, and the waiter often asks Zusammen oder getrennt? (together or separately?). Rather than leaving a tip on the table, you add it while paying: if the bill is 18 euros, you might just say ‘20’.",
+      "Also, some places still take cash only. It's worth asking about cards before you order. 💶"
+    ],
+    "quiz": {"q": "You've finished your meal and want to pay. What do you say to the waiter?", "o": ["Die Speisekarte, bitte.", "Ich möchte reservieren.", "Die Rechnung, bitte!"], "a": 2, "why": "Die Rechnung, bitte! = The bill, please! It's how you ask to pay."},
+    "outro": "Tonight, act out a whole imaginary dinner out loud, from booking the table to Stimmt so! Guten Appetit! 😋"
+  },
+  "ja": {
+    "title": "ドイツのレストランで困らない単語10",
+    "hook": "メニューをもらって、注文して、お会計まで。この10語があればウェイターの前で固まりません。",
+    "intro": [
+      "友だちと近所のレストランに入ったのに、誰も席に案内してくれない。勝手に座っていいの？メニューはどう頼む？食べ終わってもお会計がなかなか来なくて、ずっと待っていました。",
+      "今日はレストランで欠かせない単語を10個集めました。予約の電話から注文、おすすめを聞くこと、お会計とチップまでこれで一通りできます。おなかが空いているときに覚えると忘れにくいかも！🍽️"
+    ],
+    "words": {
+      "A1-146": {"pron": "レストラン", "tip": "フランス語の「元気を回復させる」から 🍲 空腹から回復させてくれる場所です。", "bonus": "「外食する」は essen gehen：Gehen wir heute essen?"},
+      "A2-059": {"pron": "レゼルヴィーレン", "tip": "英語の reserve に -ieren をつけるだけ 📞 -ieren 動詞の過去分詞には ge- がつきません。", "warn": "店の席は reservieren、飛行機や旅行はふつう buchen です。"},
+      "A2-136": {"pron": "シュパイゼカルテ", "tip": "Speise（料理）+ Karte（カード）= 料理が書かれたカード 📜", "warn": "das Menü はメニュー表ではなくコース・セットメニューのことです。"},
+      "BL-01-02": {"pron": "ベシュテレン", "tip": "be-（自分の前に）+ stellen（置く）=「前に置いてください」☕", "bonus": "注文を取るときの決まり文句：Was darf’s sein?（何になさいますか？）"},
+      "BL-01-10": {"pron": "エンプフェーレン", "tip": "迷ったら Was empfehlen Sie? のひとことで解決 👍", "warn": "不規則動詞：du empfiehlst, er empfiehlt – hat empfohlen"},
+      "A2-733": {"pron": "フォーアシュパイゼ", "tip": "vor（前）+ Speise（料理）= 先に出てくる料理 🥗", "bonus": "デザートは die Nachspeise（nach = 後）。"},
+      "B2-2453": {"pron": "ハウプトゲリヒト", "tip": "Haupt（主な）+ Gericht（料理）🐟 Hauptbahnhof（中央駅）の Haupt と同じです。", "warn": "das Gericht には「裁判所」という意味もあります。レストランではもちろん料理！"},
+      "A2-655": {"pron": "ケルナー", "tip": "もとは地下のワイン蔵（Keller）の番人 🍷 だから Kellner！", "bonus": "呼ぶときは軽く手を挙げて Entschuldigung! と言えばOK。"},
+      "BL-01-03": {"pron": "レヒヌング", "tip": "rechnen（計算する）+ -ung = 計算したもの 🧾 -ung なので die！", "bonus": "別々に払うなら Getrennt, bitte.、一緒なら Zusammen, bitte."},
+      "BL-01-05": {"pron": "トリンクゲルト", "tip": "trinken（飲む）+ Geld（お金）=「一杯どうぞ」のお金 🍺", "bonus": "おつりは結構です = Stimmt so!"}
+    },
+    "culture": [
+      "ドイツの気軽なレストランやパブでは、案内を待たずに空いている席に自分で座ることがよくあります。少しきちんとした店や Reserviert の札がある席では、案内を待ちましょう。水も自動的には出てこないので、座ったら飲み物を注文します。",
+      "お会計はふつうテーブルで行い、店員さんに Zusammen oder getrennt?（ご一緒ですか、別々ですか？）と聞かれることがよくあります。チップはテーブルに置いて帰るより、支払うときに金額を言って渡すのが一般的です。たとえば18ユーロなら「20」と言う感じです。",
+      "それから、今でも現金しか使えないお店がけっこうあります。カードが使えるか先に聞いておくと安心です。💶"
+    ],
+    "quiz": {"q": "食事が終わってお会計をしたいとき、ウェイターに何と言いますか？", "o": ["Die Speisekarte, bitte.", "Ich möchte reservieren.", "Die Rechnung, bitte!"], "a": 2, "why": "Die Rechnung, bitte! =「お会計お願いします！」支払いを頼む表現です。"},
+    "outro": "今夜は想像のレストランで、予約から Stimmt so! までを声に出して演じてみましょう。Guten Appetit! 😋"
+  }
+}

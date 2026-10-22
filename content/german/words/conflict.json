@@ -1,0 +1,84 @@
+{
+  "key": "conflict",
+  "ko": {
+    "title": "싸우고, 삐지고, 화해하는 독일어 10",
+    "hook": "독일어로 싸울 수 있으면 진짜 중급이라는 말, 들어 보셨어요?",
+    "intro": [
+      "독일 친구랑 저녁 약속 시간을 두고 오해가 생긴 적이 있어요. 친구는 ‘Ich bin sauer!’라고 하는데, 저는 순간 ‘레몬이 시다고?’ 하고 멍해졌죠. 화났다는 말인 줄 알았다면 바로 사과했을 텐데요.",
+      "오늘은 다투고, 서운해하고, 다시 화해할 때 쓰는 단어 10개예요. 이 단어들이면 기분을 솔직하게 말하고, 오해를 풀고, 깔끔하게 화해까지 할 수 있어요. 🤝"
+    ],
+    "words": {
+      "B1-072": {"pron": "지히 슈트라이텐", "tip": "영어 strife(다툼)랑 같은 뿌리 😤 둘이서 서로(sich) 싸우는 거예요.", "bonus": "누구와 = mit + 3격, 무엇 때문에 = über + 4격: Wir streiten uns über Geld."},
+      "B1-029": {"pron": "슈트라이트", "tip": "streiten에서 -en만 떼면 명사 💥 짧고 날카로운 소리가 딱 싸움 같죠?", "warn": "파업은 der Streik예요. t와 k 한 글자 차이!"},
+      "A1-368": {"pron": "자우어", "tip": "영어 sour와 같은 말 🍋 기분이 시큼해지면 화난 거예요!", "bonus": "누구에게 화났다 = sauer auf + 4격: Ich bin sauer auf dich."},
+      "A2-064": {"pron": "지히 에르건", "tip": "arg(나쁜)에서 온 말 😠 속이 부글부글 나빠지는 느낌!", "bonus": "Ärger dich nicht! = 신경 쓰지 마, 짜증 내지 마!"},
+      "B2-974": {"pron": "미스페어슈텐트니스", "tip": "miss-(잘못) + Verständnis(이해) = 잘못 이해함 🤷‍♀️ 영어 mis-랑 같아요.", "bonus": "오해를 풀 때: Das war ein Missverständnis!"},
+      "B2-012": {"pron": "포어부르프", "tip": "vor(앞에) + werfen(던지다) = 상대 앞에 잘못을 탁 던지기 🫵", "bonus": "누구를 탓하다 = jemandem Vorwürfe machen"},
+      "B1-1620": {"pron": "벨라이디히트", "tip": "삐진 사람을 독일어로 ‘삐진 간 소시지’라고 불러요 🌭 die beleidigte Leberwurst!", "bonus": "Warum bist du beleidigt? = 왜 삐졌어?"},
+      "B1-1363": {"pron": "페어차이엔", "tip": "ver- + zeihen(탓하다) = 탓하기를 그만두다 🕊️", "warn": "3격을 써요: Verzeih mir! (mich 아니에요)"},
+      "B2-1480": {"pron": "지히 페어죄넨", "tip": "Sohn(아들)처럼 들리지만 아니에요 😄 Sühne(속죄)와 관련된 말, 다시 사이좋아지기!", "bonus": "구어로 더 가볍게: sich wieder vertragen"},
+      "B2-119": {"pron": "콤프로미스", "tip": "영어 compromise와 거의 같아요 ⚖️ 강세는 끝의 -miss에!", "bonus": "타협점을 찾다 = einen Kompromiss finden"}
+    },
+    "culture": [
+      "독일 사람들은 의견이 다르면 비교적 직접적으로 말하는 편이에요. ‘Das sehe ich anders.’(난 다르게 생각해) 같은 말이 대화 중에 자연스럽게 나와요. 사람을 공격하는 게 아니라 내용에 대해 말하는 거라서, 너무 상처받지 않아도 괜찮아요.",
+      "화해할 때 자주 듣는 표현은 ‘Schwamm drüber!’예요. 칠판을 스펀지로 싹 지우듯 ‘이제 잊자!’라는 뜻이에요.",
+      "이웃과 소음 문제로 불편할 때도 보통은 먼저 직접 이야기하거나 짧은 쪽지를 남기는 게 좋다고 여겨요. 대화가 제일 빠른 Kompromiss예요. 🧽"
+    ],
+    "quiz": {"q": "친구와 크게 다툰 다음 날, 먼저 화해하고 싶어요. 뭐라고 말할까요?", "o": ["Ich bin total sauer auf dich!", "Das ist dein Problem.", "Es tut mir leid. Kannst du mir verzeihen?"], "a": 2, "why": "verzeihen = 용서하다, ‘미안해, 용서해 줄래?’로 화해를 시작해요."},
+    "outro": "오늘은 화해 문장 하나를 소리 내서 연습해 봐요: Es tut mir leid. Schwamm drüber? 쓸 일이 없으면 더 좋고요! 🕊️"
+  },
+  "en": {
+    "title": "Falling out and making up: 10 German words",
+    "hook": "They say you're really getting good at German when you can have an argument in it.",
+    "intro": [
+      "A German friend and I once mixed up the time for dinner. She said ‘Ich bin sauer!’ and for a second I thought she was talking about lemons. If I'd known it meant she was annoyed, I'd have apologised straight away.",
+      "Today's ten words are for arguing, sulking and making up again. With them you can say how you feel, clear up a misunderstanding and end the fight properly. 🤝"
+    ],
+    "words": {
+      "B1-072": {"pron": "zikh SHTRYE-ten", "tip": "Same root as English strife 😤 Two people fighting with each other (sich).", "bonus": "with someone = mit + dat., about something = über + acc.: Wir streiten uns über Geld."},
+      "B1-029": {"pron": "SHTRYTE", "tip": "Drop the -en from streiten and you have the noun 💥 Short and sharp, like a fight.", "warn": "A strike is der Streik — only one letter apart!"},
+      "A1-368": {"pron": "ZOW-er", "tip": "It's English sour 🍋 When your mood turns sour, you're annoyed!", "bonus": "annoyed with someone = sauer auf + acc.: Ich bin sauer auf dich."},
+      "A2-064": {"pron": "zikh AIR-gern", "tip": "From arg (bad) 😠 That feeling of things going bad inside you.", "bonus": "Ärger dich nicht! = Don't let it get to you!"},
+      "B2-974": {"pron": "MISS-fair-shtent-nis", "tip": "miss- (wrong) + Verständnis (understanding) = misunderstanding 🤷‍♀️ Just like English mis-.", "bonus": "To clear things up: Das war ein Missverständnis!"},
+      "B2-012": {"pron": "FOR-voorf", "tip": "vor (in front) + werfen (to throw) = throwing blame in someone's face 🫵", "bonus": "to reproach someone = jemandem Vorwürfe machen"},
+      "B1-1620": {"pron": "buh-LYE-dikht", "tip": "A sulker in German is an ‘offended liver sausage’ 🌭 die beleidigte Leberwurst!", "bonus": "Warum bist du beleidigt? = Why are you in a huff?"},
+      "B1-1363": {"pron": "fair-TSYE-en", "tip": "ver- + zeihen (old: to blame) = to stop blaming 🕊️", "warn": "Takes the dative: Verzeih mir! (not mich)"},
+      "B2-1480": {"pron": "zikh fair-ZÖ-nen", "tip": "Nothing to do with Sohn (son) 😄 It's linked to Sühne (atonement) — being friends again.", "bonus": "More casual: sich wieder vertragen"},
+      "B2-119": {"pron": "kom-pro-MISS", "tip": "Almost English compromise ⚖️ Stress on the last bit: -MISS.", "bonus": "to find a compromise = einen Kompromiss finden"}
+    },
+    "culture": [
+      "Germans tend to be fairly direct when they disagree. You'll hear ‘Das sehe ich anders.’ (I see it differently) in everyday conversations. It's usually about the topic, not about you, so try not to take it personally.",
+      "A phrase you'll often hear when people make up is ‘Schwamm drüber!’ — literally ‘sponge over it’, like wiping a blackboard clean. It means: let's forget it.",
+      "With neighbours, too, the usual first step is to talk directly or leave a polite note. Talking is the quickest Kompromiss. 🧽"
+    ],
+    "quiz": {"q": "The day after a big argument, you want to make up with your friend. What do you say?", "o": ["Ich bin total sauer auf dich!", "Das ist dein Problem.", "Es tut mir leid. Kannst du mir verzeihen?"], "a": 2, "why": "verzeihen means to forgive — ‘I'm sorry, can you forgive me?’ is how you start making up."},
+    "outro": "Practise one making-up line out loud today: Es tut mir leid. Schwamm drüber? Even better if you never need it! 🕊️"
+  },
+  "ja": {
+    "title": "けんかして、すねて、仲直りするドイツ語10",
+    "hook": "ドイツ語でけんかができたら本物の中級者、という話を聞いたことはありますか？",
+    "intro": [
+      "ドイツ人の友だちと夕食の時間で行き違いがあったとき、彼女に「Ich bin sauer!」と言われて、一瞬「レモンが酸っぱい？」と固まってしまいました。怒っているという意味だとわかっていたら、すぐに謝れたのに。",
+      "今日は、けんかして、すねて、また仲直りするときの単語10個です。これで気持ちを正直に伝えて、誤解を解いて、すっきり仲直りまでできます。🤝"
+    ],
+    "words": {
+      "B1-072": {"pron": "ズィッヒ シュトライテン", "tip": "英語の strife（争い）と同じ語源 😤 お互いに（sich）言い争うことです。", "bonus": "誰と = mit + 3格、何について = über + 4格：Wir streiten uns über Geld."},
+      "B1-029": {"pron": "シュトライト", "tip": "streiten から -en を取れば名詞 💥 短く鋭い音がけんかっぽいですね。", "warn": "ストライキは der Streik。t と k の一文字違い！"},
+      "A1-368": {"pron": "ザウアー", "tip": "英語の sour と同じ 🍋 気分が酸っぱくなったら、怒っているサイン！", "bonus": "〜に怒っている = sauer auf + 4格：Ich bin sauer auf dich."},
+      "A2-064": {"pron": "ズィッヒ エルガーン", "tip": "arg（悪い）から来た言葉 😠 お腹の中がムカムカ悪くなる感じ！", "bonus": "Ärger dich nicht! = 気にしないで、イライラしないで！"},
+      "B2-974": {"pron": "ミスフェアシュテントニス", "tip": "miss-（誤って）+ Verständnis（理解）= 誤解 🤷‍♀️ 英語の mis- と同じです。", "bonus": "誤解を解くときに：Das war ein Missverständnis!"},
+      "B2-012": {"pron": "フォーアヴルフ", "tip": "vor（前に）+ werfen（投げる）= 相手の前に非をポンと投げつける 🫵", "bonus": "〜を責める = jemandem Vorwürfe machen"},
+      "B1-1620": {"pron": "ベライディヒト", "tip": "すねている人をドイツ語では「侮辱されたレバーソーセージ」と呼びます 🌭 die beleidigte Leberwurst!", "bonus": "Warum bist du beleidigt? = なんですねてるの？"},
+      "B1-1363": {"pron": "フェアツァイエン", "tip": "ver- + zeihen（古語「責める」）= 責めるのをやめる 🕊️", "warn": "3格をとります：Verzeih mir!（mich ではありません）"},
+      "B2-1480": {"pron": "ズィッヒ フェアゼーネン", "tip": "Sohn（息子）に聞こえますが無関係 😄 Sühne（償い）と関係する言葉で、また仲良くなること！", "bonus": "もっと気軽に：sich wieder vertragen"},
+      "B2-119": {"pron": "コンプロミス", "tip": "英語の compromise とほぼ同じ ⚖️ アクセントは最後の -miss に！", "bonus": "妥協点を見つける = einen Kompromiss finden"}
+    },
+    "culture": [
+      "ドイツの人は意見が違うとき、わりとはっきり言う傾向があります。「Das sehe ich anders.」（私は違う考えです）は日常会話でもよく聞く表現。人ではなく内容について話していることが多いので、あまり気にしすぎなくて大丈夫です。",
+      "仲直りのときによく聞くのが「Schwamm drüber!」。黒板をスポンジでさっと消すように「もう水に流そう！」という意味です。",
+      "ご近所との騒音トラブルでも、まずは直接話したり、ていねいなメモを残したりするのがよいとされています。話し合いがいちばんの近道の Kompromiss です。🧽"
+    ],
+    "quiz": {"q": "友だちと大げんかした翌日、自分から仲直りしたいです。何と言いますか？", "o": ["Ich bin total sauer auf dich!", "Das ist dein Problem.", "Es tut mir leid. Kannst du mir verzeihen?"], "a": 2, "why": "verzeihen は「許す」。「ごめんね、許してくれる？」で仲直りを始めます。"},
+    "outro": "今日は仲直りのひとことを声に出して練習してみましょう。Es tut mir leid. Schwamm drüber? 使う機会がなければもっといいですね！🕊️"
+  }
+}

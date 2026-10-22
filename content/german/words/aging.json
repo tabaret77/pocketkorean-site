@@ -1,0 +1,84 @@
+{
+  "key": "aging",
+  "ko": {
+    "title": "뉴스가 들리기 시작하는 저출산·고령화 독일어 10",
+    "hook": "한국 뉴스에서 매일 듣는 저출산·고령화, 독일 뉴스에서도 단골 주제예요.",
+    "intro": [
+      "저녁 뉴스에서 “Die Geburtenrate ist wieder gesunken.”이라는 말이 나오고, 이어서 연금과 요양원 이야기가 길게 이어져요. 단어 몇 개만 알면 뉴스가 훨씬 잘 들릴 텐데요.",
+      "오늘은 저출산과 고령화에 관한 단어 10개를 모았어요. 조금 어렵지만, 이걸 알면 뉴스도 기사도 한결 쉬워지고 독일 친구와 사회 이야기도 나눌 수 있어요. 📊"
+    ],
+    "words": {
+      "B1-031": {"pron": "렌테", "tip": "프랑스어 rente(정기 수입)에서 왔어요 👴 매달 꼬박꼬박 들어오는 돈!", "warn": "영어 rent 아니에요! 월세는 die Miete예요."},
+      "A2-555": {"pron": "렌트너", "tip": "Rente + -er = 연금 받는 사람 🧓 여성은 die Rentnerin.", "bonus": "은퇴하다 = in Rente gehen"},
+      "B1-102": {"pron": "베푈커룽", "tip": "Volk(민족, 영어 folk)이 숨어 있어요 👥 -ung이니까 die!", "bonus": "인구가 늘다/줄다 = Die Bevölkerung wächst / schrumpft."},
+      "B2-608": {"pron": "게부르텐라테", "tip": "Geburt(출생) + Rate(비율) = 출생률 👶 영어 birth rate를 그대로 옮겼어요.", "bonus": "Geburtstag(생일)도 같은 Geburt에서 왔어요!"},
+      "C1-2934": {"pron": "게부르텐뤽강", "tip": "Geburten + Rück(뒤로) + Gang(걸음) = 출생아 수가 뒷걸음질 📉", "warn": "마지막 Gang이 남성이라 der, 복수는 die Geburtenrückgänge"},
+      "B2-609": {"pron": "위버알터룽", "tip": "über(지나치게) + altern(늙다) + -ung = 너무 늙어 가는 사회 ⏳", "warn": "복수 없이 써요: die Überalterung der Gesellschaft"},
+      "B2-246": {"pron": "레벤스에어바르퉁", "tip": "Leben(삶) + Erwartung(기대) = 기대 수명 🎂 -ung으로 끝나니 die!", "bonus": "기대 수명이 늘다 = Die Lebenserwartung steigt."},
+      "B2-256": {"pron": "플레게", "tip": "pflegen(돌보다)의 명사 🤲 사람도, 식물도, 피부도 다 pflegen 해요.", "bonus": "간병인·요양보호사 = die Pflegekraft"},
+      "B2-1135": {"pron": "플레게하임", "tip": "Pflege(돌봄) + Heim(집, 영어 home) = 돌봄의 집 🏡 Heim이 중성이니 das!", "bonus": "비슷한 말: das Altenheim, das Seniorenheim"},
+      "B2-588": {"pron": "알터스아르무트", "tip": "Alter(노년) + Armut(가난) 💸 arm(가난한) + -ut = 가난!", "warn": "Armut이 여성이라 전체도 die예요."}
+    },
+    "culture": [
+      "독일의 공적 연금은 기본적으로 지금 일하는 세대가 내는 돈으로 지금의 연금 생활자를 받치는 구조예요. 그래서 독일 사람들은 이걸 ‘세대 간 계약(Generationenvertrag)’이라고 불러요.",
+      "독일에는 의료보험과 별도로 돌봄을 위한 보험(Pflegeversicherung)도 있어요. 그래도 가족이 집에서 부모님을 돌보는 경우가 아직 많고, 요양 인력이 부족하다는 이야기도 뉴스에 자주 나와요.",
+      "도시에 따라 여러 세대가 함께 모이는 Mehrgenerationenhaus도 있어요. 할머니, 할아버지와 아이들이 같이 밥을 먹고 노는 동네 사랑방 같은 곳이에요. 👵"
+    ],
+    "quiz": {"q": "할아버지가 내년에 은퇴하신다고 말하고 싶어요. 맞는 문장은?", "o": ["Mein Opa geht nächstes Jahr in Rente.", "Mein Opa geht nächstes Jahr ins Pflegeheim.", "Mein Opa hat nächstes Jahr Geburtstag."], "a": 0, "why": "in Rente gehen = 은퇴하다. 연금 생활을 시작한다는 뜻이에요."},
+    "outro": "오늘 독일 뉴스 헤드라인을 하나 찾아서 오늘 단어가 몇 개 나오는지 세어 봐요. 하나라도 보이면 대성공이에요! 📰"
+  },
+  "en": {
+    "title": "Read the news: 10 German words on birth rates and ageing",
+    "hook": "Falling birth rates and an ageing population are a constant topic in the German news, too.",
+    "intro": [
+      "On the evening news you hear, “Die Geburtenrate ist wieder gesunken,” followed by a long report on pensions and care homes. Knowing just a few key words would make it so much easier to follow.",
+      "Today's ten words are about birth rates and ageing. They're a bit harder, but they'll make news reports and articles far clearer — and let you join in when German friends talk about society. 📊"
+    ],
+    "words": {
+      "B1-031": {"pron": "REN-tuh", "tip": "From French rente (regular income) 👴 Money that arrives every month!", "warn": "Not rent! Rent is die Miete."},
+      "A2-555": {"pron": "RENT-ner", "tip": "Rente + -er = someone who gets a pension 🧓 A woman is a Rentnerin.", "bonus": "to retire = in Rente gehen"},
+      "B1-102": {"pron": "beh-FUL-ker-oong", "tip": "Volk (people, like English folk) is inside 👥 -ung means die.", "bonus": "The population is growing / shrinking = Die Bevölkerung wächst / schrumpft."},
+      "B2-608": {"pron": "guh-BOOR-ten-rah-tuh", "tip": "Geburt (birth) + Rate = birth rate 👶 A word-for-word match with English.", "bonus": "Geburtstag (birthday) comes from the same Geburt!"},
+      "C1-2934": {"pron": "guh-BOOR-ten-ruek-gang", "tip": "Geburten + Rück (back) + Gang (walk) = births walking backwards 📉", "warn": "Gang makes it der; plural die Geburtenrückgänge"},
+      "B2-609": {"pron": "UE-ber-al-ter-oong", "tip": "über (over) + altern (to age) + -ung = a society getting “over-aged” ⏳", "warn": "No plural: die Überalterung der Gesellschaft"},
+      "B2-246": {"pron": "LAY-bens-air-var-toong", "tip": "Leben (life) + Erwartung (expectation) = life expectancy 🎂 -ung = die!", "bonus": "Life expectancy is rising = Die Lebenserwartung steigt."},
+      "B2-256": {"pron": "PFLAY-guh", "tip": "The noun from pflegen (to look after) 🤲 You can pflegen people, plants and even your skin.", "bonus": "a care worker = die Pflegekraft"},
+      "B2-1135": {"pron": "PFLAY-guh-hime", "tip": "Pflege (care) + Heim (home) = care home 🏡 Heim is neuter, so das.", "bonus": "Similar words: das Altenheim, das Seniorenheim"},
+      "B2-588": {"pron": "AL-ters-ar-moot", "tip": "Alter (old age) + Armut (poverty) 💸 arm (poor) + -ut = poverty.", "warn": "Armut is feminine, so the whole word is die."}
+    },
+    "culture": [
+      "Germany's state pension mainly works like this: today's workers pay in, and that money goes to today's pensioners. Germans call it the “contract between generations” (Generationenvertrag).",
+      "Alongside health insurance there is also long-term care insurance (Pflegeversicherung). Even so, many families still care for elderly parents at home, and a shortage of care workers is a regular news topic.",
+      "Many towns have a Mehrgenerationenhaus, a “multi-generation house” where older people, parents and children meet, eat and spend time together — like a neighbourhood living room. 👵"
+    ],
+    "quiz": {"q": "You want to say your grandad is retiring next year. Which sentence is right?", "o": ["Mein Opa geht nächstes Jahr in Rente.", "Mein Opa geht nächstes Jahr ins Pflegeheim.", "Mein Opa hat nächstes Jahr Geburtstag."], "a": 0, "why": "in Rente gehen = to retire, literally to go into your pension."},
+    "outro": "Find one German news headline today and count how many of today's words appear in it. Even one is a win! 📰"
+  },
+  "ja": {
+    "title": "ニュースが聞き取れる！少子高齢化のドイツ語10",
+    "hook": "日本のニュースで毎日聞く少子高齢化は、ドイツのニュースでもおなじみのテーマです。",
+    "intro": [
+      "夜のニュースで「Die Geburtenrate ist wieder gesunken.」と聞こえたかと思うと、年金や介護施設の話が長く続きます。キーワードをいくつか知っていれば、ぐっと聞き取りやすくなるのに。",
+      "今日は少子化と高齢化に関する単語を10個集めました。少し難しめですが、これでニュースや記事がずっとわかりやすくなり、ドイツの友だちと社会の話もできるようになります。📊"
+    ],
+    "words": {
+      "B1-031": {"pron": "レンテ", "tip": "フランス語 rente（定期的な収入）から 👴 毎月きちんと入ってくるお金！", "warn": "英語の rent ではありません！家賃は die Miete です。"},
+      "A2-555": {"pron": "レントナー", "tip": "Rente + -er = 年金をもらう人 🧓 女性は die Rentnerin", "bonus": "退職する、年金生活に入る = in Rente gehen"},
+      "B1-102": {"pron": "ベフェルケルング", "tip": "Volk（民族、英語の folk）が隠れています 👥 -ung なので die！", "bonus": "人口が増える／減る = Die Bevölkerung wächst / schrumpft."},
+      "B2-608": {"pron": "ゲブルテンラーテ", "tip": "Geburt（誕生）+ Rate（率）= 出生率 👶 英語の birth rate そのままの作りです。", "bonus": "Geburtstag（誕生日）も同じ Geburt から！"},
+      "C1-2934": {"pron": "ゲブルテンリュックガング", "tip": "Geburten + Rück（後ろへ）+ Gang（歩み）= 出生数が後ずさり 📉", "warn": "Gang が男性名詞なので der、複数形は die Geburtenrückgänge"},
+      "B2-609": {"pron": "ユーバーアルテルング", "tip": "über（過度に）+ altern（年をとる）+ -ung = 年をとりすぎていく社会 ⏳", "warn": "複数形なしで使います：die Überalterung der Gesellschaft"},
+      "B2-246": {"pron": "レーベンスエアヴァルトゥング", "tip": "Leben（人生）+ Erwartung（期待）= 平均寿命 🎂 -ung で終わるので die！", "bonus": "平均寿命が延びる = Die Lebenserwartung steigt."},
+      "B2-256": {"pron": "プフレーゲ", "tip": "pflegen（世話をする）の名詞 🤲 人も植物も肌も pflegen します。", "bonus": "介護職員 = die Pflegekraft"},
+      "B2-1135": {"pron": "プフレーゲハイム", "tip": "Pflege（介護）+ Heim（家、英語の home）= 介護の家 🏡 Heim が中性なので das！", "bonus": "似た言葉：das Altenheim, das Seniorenheim"},
+      "B2-588": {"pron": "アルタースアルムート", "tip": "Alter（老年）+ Armut（貧困）💸 arm（貧しい）+ -ut = 貧困！", "warn": "Armut が女性名詞なので、全体も die です。"}
+    },
+    "culture": [
+      "ドイツの公的年金は、基本的に今働いている世代が払うお金で今の年金生活者を支えるしくみです。ドイツではこれを「世代間の契約（Generationenvertrag）」と呼びます。",
+      "健康保険とは別に、介護のための保険（Pflegeversicherung）もあります。それでも家族が自宅で親を介護するケースはまだ多く、介護の人手不足もよくニュースになります。",
+      "町によっては、いろいろな世代が集まる Mehrgenerationenhaus もあります。お年寄りと親子が一緒にご飯を食べたり過ごしたりする、地域の居間のような場所です。👵"
+    ],
+    "quiz": {"q": "おじいちゃんが来年退職すると言いたいです。正しい文は？", "o": ["Mein Opa geht nächstes Jahr in Rente.", "Mein Opa geht nächstes Jahr ins Pflegeheim.", "Mein Opa hat nächstes Jahr Geburtstag."], "a": 0, "why": "in Rente gehen =「退職して年金生活に入る」という意味です。"},
+    "outro": "今日はドイツのニュースの見出しをひとつ探して、今日の単語がいくつ出てくるか数えてみましょう。ひとつでも見つかれば大成功です！📰"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "tech",
+  "ko": {
+    "title": "독일 뉴스에서 매일 나오는 AI·기술 단어 10",
+    "hook": "독일 뉴스 헤드라인에 ‘KI’가 안 나오는 날이 거의 없어요. 그게 뭔지부터 알아봐요.",
+    "intro": [
+      "지하철에서 독일 신문 앱을 열었는데, 헤드라인마다 KI, Digitalisierung, Algorithmus… 영어 같기도 하고 아닌 것 같기도 하고, 읽다가 결국 번역기를 켰어요.",
+      "오늘은 AI와 기술 뉴스에 자주 나오는 단어 10개예요. 생긴 건 길어도 영어랑 닮은 단어가 많아서 생각보다 쉬워요. 이 10개면 기술 기사 제목 정도는 혼자 읽을 수 있어요! 🤖"
+    ],
+    "words": {
+      "B2-1014": {"pron": "퀸스틀리헤 인텔리겐츠", "tip": "Kunst(기술·예술)로 만든 지능 = 인공지능 🧠 줄여서 KI [카-이]!", "warn": "영어처럼 AI라고 하지 않고 독일어로는 KI라고 해요."},
+      "B2-1032": {"pron": "로보터", "tip": "체코어 robota(고된 노동)에서 왔어요 🦾 일하라고 만든 기계!", "bonus": "복수도 같아요: die Roboter · 로봇청소기는 der Saugroboter"},
+      "B1-1240": {"pron": "테히놀로기", "tip": "-ie로 끝나면 대부분 die 💡 강세는 맨 끝 ‘기’에!", "bonus": "비슷한 말 die Technik = 기술, 기계 장치"},
+      "B1-571": {"pron": "디기탈", "tip": "라틴어 digitus(손가락)에서 👆 손가락으로 숫자를 세던 데서 ‘디지털’이 됐어요.", "bonus": "반대말은 analog"},
+      "B1-053": {"pron": "엔트비켈른", "tip": "ent-(풀다) + wickeln(감다) = 감긴 걸 풀어 펼치기 🧶 아이디어를 펼쳐서 개발!", "bonus": "명사 die Entwicklung = 개발, 발전 · 개발자 = der Entwickler"},
+      "B2-216": {"pron": "디기탈리지룽", "tip": "digital + -isierung(~화) = 디지털화 📲 -ung으로 끝나니 die!", "bonus": "동사: digitalisieren = 디지털화하다"},
+      "B2-988": {"pron": "알고리트무스", "tip": "페르시아 수학자 알콰리즈미의 이름에서 🧮 사람 이름이 단어가 됐어요!", "warn": "복수형: die Algorithmen (-us → -en)"},
+      "B2-1015": {"pron": "아우토마티지룽", "tip": "automatisch(자동의) + -isierung = 자동화 ⚙️ 레고처럼 Digitalisierung과 같은 틀!", "bonus": "형용사 automatisch = 자동의"},
+      "B2-521": {"pron": "이노바치온", "tip": "novus(새로운)가 숨어 있어요 🚀 -tion은 [치온]으로, 그리고 언제나 die!", "bonus": "형용사 innovativ = 혁신적인"},
+      "C1-1041": {"pron": "마시넬레 레르넨", "tip": "Maschine(기계)가 lernen(배우다) = 머신 러닝 🤓 동사가 그대로 명사가 되면 das!", "warn": "형용사가 격변화해요: beim maschinellen Lernen"}
+    },
+    "culture": [
+      "독일 사람들은 개인정보 보호(Datenschutz)에 아주 민감한 편이에요. 새 앱이나 서비스가 나오면 ‘내 데이터는 어디로 가지?’를 먼저 묻는 사람이 많고, 웹사이트마다 동의 창이 꼼꼼하게 떠요.",
+      "결제도 디지털화가 꾸준히 진행 중이지만, 아직도 현금(Bargeld)을 선호하는 사람이 많아요. 작은 빵집이나 가게에서는 카드보다 현금이 편한 경우가 있으니 지갑에 동전 몇 개는 챙겨 두면 좋아요.",
+      "그리고 재미있는 사실 하나! 세계 최초의 프로그래밍 가능한 컴퓨터 중 하나로 꼽히는 Z3는 1941년 독일의 콘라트 추제(Konrad Zuse)가 만들었어요. 💻"
+    ],
+    "quiz": {"q": "독일 신문 헤드라인에 ‘KI’라는 말이 나왔어요. 무엇의 줄임말일까요?", "o": ["Künstliche Information", "Künstliche Intelligenz", "Kluge Innovation"], "a": 1, "why": "KI = Künstliche Intelligenz, 영어의 AI(인공지능)예요."},
+    "outro": "오늘 기술 뉴스 헤드라인을 하나 찾아서 아는 단어에 동그라미를 쳐 봐요. KI 하나만 찾아도 성공이에요! 📰"
+  },
+  "en": {
+    "title": "AI, robots and algorithms: 10 German tech words",
+    "hook": "There's hardly a day without ‘KI’ in German headlines — so let's start with what it means.",
+    "intro": [
+      "You open a German news app on the train and every headline is full of KI, Digitalisierung, Algorithmus… They look almost like English, but not quite — and you end up reaching for a translator.",
+      "Today's ten words come up again and again in news about AI and technology. They're long, but many look like English, so they're easier than they seem. With them, you can read tech headlines on your own! 🤖"
+    ],
+    "words": {
+      "B2-1014": {"pron": "KÜNST-likh-uh in-tel-ee-GENTS", "tip": "Intelligence made by Kunst (skill, art) = artificial intelligence 🧠 Short form: KI, said ‘kah-EE’.", "warn": "Germans don't say AI — they say KI."},
+      "B2-1032": {"pron": "ROH-boh-ter", "tip": "From Czech robota (hard labour) 🦾 A machine made to work!", "bonus": "Same in the plural: die Roboter · robot vacuum = der Saugroboter"},
+      "B1-1240": {"pron": "tekh-noh-loh-GEE", "tip": "Ends in -ie, so it's die 💡 Stress the last syllable.", "bonus": "Similar: die Technik = technology, engineering, gadgets"},
+      "B1-571": {"pron": "dee-gee-TAHL", "tip": "From Latin digitus (finger) 👆 Counting on your fingers became ‘digital’.", "bonus": "The opposite is analog."},
+      "B1-053": {"pron": "ent-VIK-eln", "tip": "ent- (un-) + wickeln (to wind) = to unwind, unfold 🧶 You unfold an idea into a product.", "bonus": "die Entwicklung = development · a developer = der Entwickler"},
+      "B2-216": {"pron": "dee-gee-tah-lee-ZEE-roong", "tip": "digital + -isierung (-ization) = digitalisation 📲 Ends in -ung, so it's die.", "bonus": "The verb: digitalisieren"},
+      "B2-988": {"pron": "al-go-RIT-mooss", "tip": "Named after the Persian mathematician al-Khwarizmi 🧮 A person became a word!", "warn": "Plural: die Algorithmen (-us becomes -en)"},
+      "B2-1015": {"pron": "ow-toh-mah-tee-ZEE-roong", "tip": "automatisch + -isierung = automation ⚙️ Same pattern as Digitalisierung.", "bonus": "automatisch = automatic"},
+      "B2-521": {"pron": "in-oh-vah-TSYOHN", "tip": "novus (new) is hiding inside 🚀 -tion sounds like ‘tsyohn’ — and it's always die.", "bonus": "innovativ = innovative"},
+      "C1-1041": {"pron": "ma-shee-NEL-uh LAIR-nen", "tip": "The Maschine learns = machine learning 🤓 A verb used as a noun is always das.", "warn": "The adjective changes its ending: beim maschinellen Lernen"}
+    },
+    "culture": [
+      "Many Germans care a lot about data protection (Datenschutz). When a new app or service comes out, the first question is often ‘Where does my data go?’, and websites tend to ask carefully for your consent.",
+      "Payments are becoming more digital, but plenty of people still prefer cash (Bargeld). In some small bakeries or shops, cash is easier than a card, so it's handy to keep a few coins in your wallet.",
+      "A fun fact: the Z3, often called one of the world's first programmable computers, was built by Konrad Zuse in Germany in 1941. 💻"
+    ],
+    "quiz": {"q": "You see ‘KI’ in a German newspaper headline. What does it stand for?", "o": ["Künstliche Information", "Künstliche Intelligenz", "Kluge Innovation"], "a": 1, "why": "KI = Künstliche Intelligenz, the German for AI."},
+    "outro": "Find one tech headline today and circle every word you know. Spot a KI and you've already won! 📰"
+  },
+  "ja": {
+    "title": "ドイツのニュースに毎日出てくるAI・テクノロジー単語10",
+    "hook": "ドイツのニュースの見出しに「KI」が出てこない日はほとんどありません。まずはその意味から。",
+    "intro": [
+      "電車でドイツのニュースアプリを開くと、見出しは KI、Digitalisierung、Algorithmus…ばかり。英語っぽいけれどちょっと違う。結局、翻訳アプリに頼ってしまいました。",
+      "今日は AI やテクノロジーのニュースによく出てくる単語を10個集めました。長く見えても英語に似た単語が多いので、思ったより簡単です。この10個で、テクノロジー記事の見出しくらいは一人で読めるようになります！🤖"
+    ],
+    "words": {
+      "B2-1014": {"pron": "キュンストリヒェ インテリゲンツ", "tip": "Kunst（技術・芸術）で作った知能 = 人工知能 🧠 略して KI［カー・イー］！", "warn": "ドイツ語では AI ではなく KI と言います。"},
+      "B2-1032": {"pron": "ロボター", "tip": "チェコ語の robota（つらい労働）から 🦾 働くために作られた機械！", "bonus": "複数形も同じ：die Roboter · ロボット掃除機は der Saugroboter"},
+      "B1-1240": {"pron": "テヒノロギー", "tip": "-ie で終わればたいてい die 💡 アクセントは最後の「ギー」！", "bonus": "似た言葉：die Technik = 技術、機械装置"},
+      "B1-571": {"pron": "ディギタール", "tip": "ラテン語 digitus（指）から 👆 指で数を数えることが「デジタル」になりました。", "bonus": "反対語は analog"},
+      "B1-053": {"pron": "エントヴィッケルン", "tip": "ent-（ほどく）+ wickeln（巻く）= 巻いたものを広げる 🧶 アイデアを広げて開発！", "bonus": "名詞 die Entwicklung = 開発、発展 · 開発者 = der Entwickler"},
+      "B2-216": {"pron": "ディギタリズィールング", "tip": "digital + -isierung（〜化）= デジタル化 📲 -ung で終わるので die！", "bonus": "動詞：digitalisieren = デジタル化する"},
+      "B2-988": {"pron": "アルゴリトムス", "tip": "ペルシャの数学者アル＝フワーリズミーの名前から 🧮 人の名前が単語に！", "warn": "複数形：die Algorithmen（-us → -en）"},
+      "B2-1015": {"pron": "アウトマティズィールング", "tip": "automatisch（自動の）+ -isierung = 自動化 ⚙️ Digitalisierung と同じパターン！", "bonus": "形容詞 automatisch = 自動の"},
+      "B2-521": {"pron": "イノヴァツィオーン", "tip": "novus（新しい）が隠れています 🚀 -tion は「ツィオーン」、そしていつも die！", "bonus": "形容詞 innovativ = 革新的な"},
+      "C1-1041": {"pron": "マシネレ レルネン", "tip": "Maschine（機械）が lernen（学ぶ）= 機械学習 🤓 動詞がそのまま名詞になると das！", "warn": "形容詞は格変化します：beim maschinellen Lernen"}
+    },
+    "culture": [
+      "ドイツの人は個人情報の保護（Datenschutz）にとても敏感なほうです。新しいアプリやサービスが出ると「自分のデータはどこへ行くの？」とまず気にする人が多く、ウェブサイトでも同意の確認がていねいに表示されます。",
+      "支払いもデジタル化が進んでいますが、今でも現金（Bargeld）を好む人はたくさんいます。小さなパン屋やお店ではカードより現金のほうがスムーズなこともあるので、財布に小銭を少し入れておくと安心です。",
+      "おまけの豆知識。世界初のプログラム可能なコンピューターのひとつとされる Z3 は、1941年にドイツのコンラート・ツーゼ（Konrad Zuse）が作りました。💻"
+    ],
+    "quiz": {"q": "ドイツの新聞の見出しに「KI」とありました。何の略でしょう？", "o": ["Künstliche Information", "Künstliche Intelligenz", "Kluge Innovation"], "a": 1, "why": "KI = Künstliche Intelligenz、英語の AI（人工知能）のことです。"},
+    "outro": "今日はテクノロジーのニュースの見出しをひとつ探して、知っている単語に丸をつけてみましょう。KI がひとつ見つかれば大成功です！📰"
+  }
+}

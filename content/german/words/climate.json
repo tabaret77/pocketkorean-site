@@ -1,0 +1,84 @@
+{
+  "key": "climate",
+  "ko": {
+    "title": "독일 뉴스가 들리기 시작하는 기후 단어 10",
+    "hook": "독일 뉴스에 거의 매일 나오는 단어들, 오늘 한 번에 정리해요.",
+    "intro": [
+      "저녁에 독일 뉴스를 틀었더니 앵커가 Hitzewelle, Dürre, Klimawandel을 연달아 말해요. 화면에는 바짝 마른 들판과 물에 잠긴 마을이 번갈아 나오는데, 단어를 몰라서 그림만 보게 돼요.",
+      "오늘은 기후 변화 뉴스에 꼭 나오는 단어 10개예요. 이 10개면 뉴스 헤드라인을 알아듣고, 친구와 날씨 이야기를 한 단계 깊게 나눌 수 있어요. 🌍"
+    ],
+    "words": {
+      "B1-241": {"pron": "클리마", "tip": "영어 climate와 같은 뿌리예요 🌡️ 독일어는 깔끔하게 Klima!", "bonus": "에어컨 = die Klimaanlage · 회사 분위기 = das Betriebsklima"},
+      "B1-007": {"pron": "클리마반델", "tip": "Klima + Wandel(변화) = 기후가 변하는 것 🔄", "warn": "복수 없이 늘 der Klimawandel로 써요."},
+      "B2-749": {"pron": "에어트에어베어뭉", "tip": "Erde(지구) + Erwärmung(따뜻해짐) = 지구 온난화 🌍 warm이 숨어 있어요!"},
+      "B2-752": {"pron": "콜렌디옥시트", "tip": "Kohle(석탄, 탄소) + Dioxid = 이산화탄소 🏭", "bonus": "보통 그냥 CO2라고 하고 ‘체오츠바이’라고 읽어요."},
+      "B2-755": {"pron": "에미시온", "tip": "라틴어 emittere(밖으로 보내다)에서 💨 공장에서 밖으로 내보내는 것!", "warn": "-ion이니까 die예요. 주로 복수: die Emissionen."},
+      "B2-751": {"pron": "트라이브하우스가스", "tip": "Treibhaus(온실) + Gas = 온실가스 🌿 레고처럼 붙이면 끝!", "bonus": "온실 효과 = der Treibhauseffekt"},
+      "B2-778": {"pron": "히체벨레", "tip": "Hitze(더위, 영어 heat) + Welle(파도) = 더위가 파도처럼 밀려와요 🥵", "bonus": "Es ist total heiß heute! = 오늘 진짜 덥다!"},
+      "B2-776": {"pron": "뒤레", "tip": "dürr(바싹 마른)에서 왔어요 🏜️ 땅이 쩍쩍 갈라지는 소리 ‘뒤레’!"},
+      "B2-782": {"pron": "위버슈베뭉", "tip": "über(넘쳐) + schwemmen(쓸어 가다) = 물이 넘쳐서 다 쓸어 가요 🌊", "bonus": "같은 뜻으로 das Hochwasser도 뉴스에 자주 나와요."},
+      "B2-757": {"pron": "클리마노이트랄", "tip": "Klima + neutral = 기후에 플러스도 마이너스도 없는 ⚖️"}
+    },
+    "culture": [
+      "독일 집은 에어컨이 없는 경우가 많아요. 그래서 Hitzewelle가 오면 낮에는 창문과 블라인드(Rollladen)를 꼭 닫아 두고, 시원한 밤이나 새벽에 창문을 활짝 열어 환기해요.",
+      "분리수거(Mülltrennung)도 생활의 일부예요. 종이, 포장재, 음식물, 일반 쓰레기를 나눠 버리는데, 통 색깔과 규칙은 도시마다 조금씩 달라요. 이사하면 동네 안내문을 꼭 확인해 보세요.",
+      "자전거로 출퇴근하는 사람도 많고, 친구끼리 기차와 비행기 중 뭘 탈지 고민하는 대화도 흔해요. 기후 이야기는 독일 사람들과 대화하기 좋은 주제예요. 🚲"
+    ],
+    "quiz": {"q": "뉴스에서 몇 달째 비가 안 와서 밭이 다 말랐대요. 어떤 단어가 나왔을까요?", "o": ["die Überschwemmung", "die Dürre", "die Hitzewelle"], "a": 1, "why": "die Dürre = 가뭄. 비가 오래 안 와서 땅이 마르는 걸 말해요."},
+    "outro": "오늘 독일 뉴스 헤드라인 하나를 찾아보고, 오늘 단어가 몇 개 나오는지 세어 봐요. 생각보다 많이 보일 거예요! 🌍"
+  },
+  "en": {
+    "title": "Understand the German news: 10 climate words",
+    "hook": "These words turn up in German news almost every day — let's sort them out in one go.",
+    "intro": [
+      "You switch on the evening news and the presenter rattles off Hitzewelle, Dürre, Klimawandel. The screen shows parched fields, then flooded villages, but without the words you're just watching the pictures.",
+      "Today's ten words come up in every climate story. With them you can follow the headlines and take your weather small talk a step further. 🌍"
+    ],
+    "words": {
+      "B1-241": {"pron": "KLEE-ma", "tip": "Same root as English climate 🌡️ German keeps it short: Klima.", "bonus": "air conditioning = die Klimaanlage · working atmosphere = das Betriebsklima"},
+      "B1-007": {"pron": "KLEE-ma-van-del", "tip": "Klima + Wandel (change) = the climate changing 🔄", "warn": "No plural — it's always der Klimawandel."},
+      "B2-749": {"pron": "AIRT-air-vair-moong", "tip": "Erde (earth) + Erwärmung (warming) = global warming 🌍 You can spot warm inside."},
+      "B2-752": {"pron": "KOH-len-dee-ox-eet", "tip": "Kohle (coal, carbon) + Dioxid = carbon dioxide 🏭", "bonus": "People usually just say CO2: ‘tsay-oh-TSVY’."},
+      "B2-755": {"pron": "eh-mee-SYOHN", "tip": "From Latin emittere, ‘to send out’ 💨 What factories send into the air.", "warn": "-ion, so it's die — and usually plural: die Emissionen."},
+      "B2-751": {"pron": "TRIBE-house-gahs", "tip": "Treibhaus (greenhouse) + Gas = greenhouse gas 🌿 Pure Lego.", "bonus": "the greenhouse effect = der Treibhauseffekt"},
+      "B2-778": {"pron": "HIT-tsuh-vel-uh", "tip": "Hitze (heat) + Welle (wave) = heat rolling in like a wave 🥵", "bonus": "Es ist total heiß heute! = It's boiling today!"},
+      "B2-776": {"pron": "DUE-ruh", "tip": "From dürr (dry, withered) 🏜️ Hear the cracked earth: DÜR-re."},
+      "B2-782": {"pron": "UE-ber-shvem-oong", "tip": "über (over) + schwemmen (wash away) = water spilling over and sweeping things away 🌊", "bonus": "das Hochwasser (high water, flood) is also common in the news."},
+      "B2-757": {"pron": "KLEE-ma-noy-trahl", "tip": "Klima + neutral = no plus or minus for the climate ⚖️"}
+    },
+    "culture": [
+      "Many German homes have no air conditioning. During a Hitzewelle, people keep windows and shutters (Rollladen) closed during the day, then throw them open at night or early in the morning.",
+      "Sorting your rubbish (Mülltrennung) is part of daily life: paper, packaging, food waste and general waste go in separate bins. Bin colours and rules vary a bit from city to city, so check your local guide when you move.",
+      "Lots of people cycle to work, and friends often discuss whether to take the train or fly. Climate is a good topic for getting a conversation going with Germans. 🚲"
+    ],
+    "quiz": {"q": "The news says it hasn't rained for months and the fields have dried up. Which word did you hear?", "o": ["die Überschwemmung", "die Dürre", "die Hitzewelle"], "a": 1, "why": "die Dürre = drought: a long time without rain that dries out the land."},
+    "outro": "Look up one German news headline today and count how many of today's words you can find. You'll be surprised! 🌍"
+  },
+  "ja": {
+    "title": "ドイツのニュースが聞き取れる気候の単語10",
+    "hook": "ドイツのニュースにほぼ毎日出てくる単語を、今日まとめて覚えましょう。",
+    "intro": [
+      "夜、ドイツのニュースをつけると、キャスターが Hitzewelle、Dürre、Klimawandel と次々に言います。画面には乾ききった畑と水につかった村が映るのに、単語がわからず映像だけを眺めてしまいます。",
+      "今日は気候変動のニュースに必ず出てくる単語を10個集めました。この10個があれば見出しが聞き取れて、友だちとの天気の話も一歩深くなります。🌍"
+    ],
+    "words": {
+      "B1-241": {"pron": "クリーマ", "tip": "英語の climate と同じ語源 🌡️ ドイツ語はすっきり Klima！", "bonus": "エアコン = die Klimaanlage · 職場の雰囲気 = das Betriebsklima"},
+      "B1-007": {"pron": "クリーマヴァンデル", "tip": "Klima + Wandel（変化）= 気候が変わること 🔄", "warn": "複数形はなく、いつも der Klimawandel です。"},
+      "B2-749": {"pron": "エーアトエアヴェルムング", "tip": "Erde（地球）+ Erwärmung（暖まること）= 地球温暖化 🌍 warm が隠れています！"},
+      "B2-752": {"pron": "コーレンディオキシート", "tip": "Kohle（石炭・炭素）+ Dioxid = 二酸化炭素 🏭", "bonus": "ふつうは CO2 と言い、「ツェーオーツヴァイ」と読みます。"},
+      "B2-755": {"pron": "エミスィオーン", "tip": "ラテン語の emittere（外へ送り出す）から 💨 工場が外に出すもの！", "warn": "-ion なので die。たいてい複数形：die Emissionen."},
+      "B2-751": {"pron": "トライプハウスガース", "tip": "Treibhaus（温室）+ Gas = 温室効果ガス 🌿 レゴのようにくっつけるだけ！", "bonus": "温室効果 = der Treibhauseffekt"},
+      "B2-778": {"pron": "ヒッツェヴェレ", "tip": "Hitze（暑さ、英語の heat）+ Welle（波）= 暑さが波のように押し寄せる 🥵", "bonus": "Es ist total heiß heute! = 今日はめちゃくちゃ暑い！"},
+      "B2-776": {"pron": "デュレ", "tip": "dürr（からからに乾いた）から 🏜️ 地面がひび割れる音「デュレ」！"},
+      "B2-782": {"pron": "ユーバーシュヴェムング", "tip": "über（あふれて）+ schwemmen（押し流す）= 水があふれて押し流す 🌊", "bonus": "同じ意味で das Hochwasser もニュースによく出てきます。"},
+      "B2-757": {"pron": "クリーマノイトラール", "tip": "Klima + neutral = 気候にプラスもマイナスもない ⚖️"}
+    },
+    "culture": [
+      "ドイツの家にはエアコンがないことが多いです。そのため Hitzewelle が来ると、昼間は窓とシャッター（Rollladen）をしっかり閉め、涼しい夜や早朝に窓を全開にして換気します。",
+      "ごみの分別（Mülltrennung）も生活の一部です。紙、包装ごみ、生ごみ、一般ごみを分けて捨てますが、容器の色やルールは町によって少しずつ違います。引っ越したら地域の案内を確認しましょう。",
+      "自転車で通勤する人も多く、友だちどうしで電車にするか飛行機にするか話し合うのもよくある光景です。気候の話はドイツ人との会話のきっかけにぴったりです。🚲"
+    ],
+    "quiz": {"q": "ニュースで、何か月も雨が降らず畑がすっかり乾いたと言っています。出てきた単語はどれでしょう？", "o": ["die Überschwemmung", "die Dürre", "die Hitzewelle"], "a": 1, "why": "die Dürre = 干ばつ。長いあいだ雨が降らず、土地が乾くことです。"},
+    "outro": "今日、ドイツのニュースの見出しをひとつ探して、今日の単語がいくつ出てくるか数えてみましょう。意外とたくさん見つかりますよ！🌍"
+  }
+}

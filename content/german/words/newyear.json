@@ -1,0 +1,84 @@
+{
+  "key": "newyear",
+  "ko": {
+    "title": "Guten Rutsch! 독일식 새해 맞이 단어 10",
+    "hook": "독일에서는 새해 인사를 할 때 ‘잘 미끄러지세요’라고 해요. 진짜예요!",
+    "intro": [
+      "12월 31일 밤, 베를린. 저녁부터 여기저기서 폭죽 소리가 들리고, 친구 집에서는 Sekt 잔이 준비돼 있어요. 마트 계산원은 \"Guten Rutsch!\"라고 인사하는데, 미끄러지라니 무슨 뜻이죠?",
+      "오늘은 독일의 연말연시에 꼭 듣는 단어 10개를 모았어요. 이걸로 새해 인사를 하고, 자정 카운트다운을 하고, 새해 결심까지 독일어로 말할 수 있어요. 같이 한 해를 멋지게 넘겨 봐요! 🎆"
+    ],
+    "words": {
+      "A2-686": {"pron": "질베스터", "tip": "12월 31일이 성 실베스테르의 축일이라서 이런 이름이 붙었어요 🎇", "warn": "관사 없이 써요: an Silvester, zu Silvester."},
+      "A2-689": {"pron": "미터나흐트", "tip": "Mitte(가운데) + Nacht(밤) = 밤의 한가운데 🕛 영어 midnight과 똑같은 구조!", "bonus": "자정에 = um Mitternacht"},
+      "A2-825": {"pron": "포이어베르크", "tip": "Feuer(불) + Werk(작품) = 불로 만든 작품 🎆 영어 fire + work 그대로예요.", "bonus": "작은 폭죽은 der Böller라고 해요."},
+      "A2-687": {"pron": "노이야르", "tip": "neu(새로운) + Jahr(해) = 새해 첫날 🌅 영어 new year랑 소리도 닮았죠?", "warn": "Silvester처럼 관사 없이 써요: an Neujahr."},
+      "B1-2326": {"pron": "젝트", "tip": "이탈리아어 secco(드라이한)에서 왔어요 🥂 독일식 스파클링 와인!", "warn": "der Sekt예요. die Sekte는 ‘사이비 종교 집단’이니 조심!"},
+      "B1-2329": {"pron": "루치", "tip": "rutschen(미끄러지다)에서 왔어요 🛷 새해로 ‘슝’ 미끄러져 들어가라는 인사!", "warn": "Guten Rutsch!는 새해가 되기 전에만 써요. 1월 1일부터는 Frohes neues Jahr!"},
+      "C1-3404": {"pron": "포어자츠", "tip": "vor(미리) + Satz(정해 둔 것) = 미리 정한 결심 📝", "bonus": "새해 결심 = gute Vorsätze fürs neue Jahr"},
+      "A2-350": {"pron": "뷘셴", "tip": "영어 wish와 같은 뿌리예요 🌠 별똥별에 소원을 빌 때도 wünschen!", "bonus": "Ich wünsche dir ein frohes neues Jahr! = 새해 복 많이 받아!"},
+      "B2-3602": {"pron": "글뤽스브링어", "tip": "Glück(행운) + Bringer(가져오는 사람) = 행운을 가져다주는 것 🍀", "bonus": "대표 Glücksbringer: das Glücksschwein(돼지), der Schornsteinfeger(굴뚝 청소부), das Kleeblatt(네잎클로버)"},
+      "B2-3912": {"pron": "야레스벡셀", "tip": "Jahr(해) + Wechsel(바뀜) = 해가 바뀌는 때 🔄 환전소도 Wechselstube예요!", "bonus": "연말연시에 = zum Jahreswechsel"}
+    },
+    "culture": [
+      "독일의 Silvester 밤에는 집집마다 친구들과 모여 라클렛이나 퐁듀를 먹으며 자정을 기다리는 경우가 많아요. 그리고 꽤 많은 집에서 영국 흑백 코미디 \"Dinner for One\"을 TV로 보는 게 오래된 전통이에요.",
+      "자정이 되면 Sekt로 건배하고 곳곳에서 불꽃놀이가 시작돼요. 새해 운세를 점치는 놀이도 있는데, 요즘은 녹인 왁스를 물에 떨어뜨려 생긴 모양으로 보는 경우가 많아요.",
+      "그리고 이 시기엔 마지팬 돼지나 굴뚝 청소부 인형 같은 Glücksbringer를 선물하곤 해요. 독일에서는 돼지도 행운의 상징이랍니다! 🐷"
+    ],
+    "quiz": {"q": "12월 30일, 퇴근하는 동료에게 연말 인사를 하려면?", "o": ["Guten Rutsch!", "Frohe Ostern!", "Gute Besserung!"], "a": 0, "why": "Guten Rutsch! = 새해 잘 맞이해! 새해가 오기 전에 하는 인사예요."},
+    "outro": "올해의 Vorsatz를 하나 정해서 Mein Vorsatz fürs neue Jahr ist … 로 소리 내어 말해 봐요. 미리 Guten Rutsch! 🍀"
+  },
+  "en": {
+    "title": "Guten Rutsch! 10 words for a German New Year",
+    "hook": "In Germany, people wish you a ‘good slide’ into the New Year. Really!",
+    "intro": [
+      "It's the night of 31 December in Berlin. Bangers have been going off since the afternoon, and at your friend's flat the Sekt glasses are ready. Even the supermarket cashier wished you \"Guten Rutsch!\" — but why would anyone want you to slide?",
+      "Today's ten words are the ones you'll hear all over Germany at New Year. With them you can wish people a happy New Year, count down to midnight and share your resolutions in German. Let's see the year out in style! 🎆"
+    ],
+    "words": {
+      "A2-686": {"pron": "zil-VES-ter", "tip": "31 December is Saint Sylvester's day, hence the name 🎇", "warn": "No article: an Silvester, zu Silvester."},
+      "A2-689": {"pron": "MIT-ter-nakht", "tip": "Mitte (middle) + Nacht (night) = midnight 🕛 Exactly the same build as English!", "bonus": "at midnight = um Mitternacht"},
+      "A2-825": {"pron": "FOY-er-vairk", "tip": "Feuer (fire) + Werk (work) = firework 🎆 A word-for-word match.", "bonus": "A banger or firecracker is der Böller."},
+      "A2-687": {"pron": "NOY-yar", "tip": "neu (new) + Jahr (year) = New Year's Day 🌅 Sounds a bit like ‘new year’ too.", "warn": "Like Silvester, no article: an Neujahr."},
+      "B1-2326": {"pron": "zekt", "tip": "From Italian secco (dry) 🥂 Germany's own sparkling wine.", "warn": "It's der Sekt. die Sekte means ‘sect, cult’ — careful!"},
+      "B1-2329": {"pron": "rootch", "tip": "From rutschen (to slide) 🛷 Slide smoothly into the New Year!", "warn": "Say Guten Rutsch! only before New Year. From 1 January it's Frohes neues Jahr!"},
+      "C1-3404": {"pron": "FOR-zats", "tip": "vor (before) + Satz (something set) = something you decide in advance 📝", "bonus": "New Year's resolutions = gute Vorsätze fürs neue Jahr"},
+      "A2-350": {"pron": "VUEN-shen", "tip": "Same root as English wish 🌠 Wish upon a star: wünschen!", "bonus": "Ich wünsche dir ein frohes neues Jahr! = Happy New Year to you!"},
+      "B2-3602": {"pron": "GLUEKS-bring-er", "tip": "Glück (luck) + Bringer (bringer) = luck-bringer 🍀", "bonus": "Classic Glücksbringer: das Glücksschwein (pig), der Schornsteinfeger (chimney sweep), das Kleeblatt (clover)"},
+      "B2-3912": {"pron": "YAH-res-vek-sel", "tip": "Jahr (year) + Wechsel (change) = the changing of the year 🔄 A bureau de change is a Wechselstube!", "bonus": "around New Year = zum Jahreswechsel"}
+    },
+    "culture": [
+      "On Silvester many Germans get together with friends at home, often over raclette or fondue, and wait for midnight. A long-standing tradition in lots of homes is watching the old British comedy sketch \"Dinner for One\" on TV.",
+      "At midnight people toast with Sekt and fireworks go off everywhere. There's also a fortune-telling game: you drop melted wax into cold water and read the shape — these days it's usually wax rather than the old lead.",
+      "Around this time people like to give little Glücksbringer, such as marzipan pigs or chimney-sweep figures. Yes, in Germany a pig means good luck! 🐷"
+    ],
+    "quiz": {"q": "It's 30 December and a colleague is heading home. What do you say?", "o": ["Guten Rutsch!", "Frohe Ostern!", "Gute Besserung!"], "a": 0, "why": "Guten Rutsch! = Have a good New Year! It's what you say before the year changes."},
+    "outro": "Pick one resolution and say it out loud: Mein Vorsatz fürs neue Jahr ist … And a little early: Guten Rutsch! 🍀"
+  },
+  "ja": {
+    "title": "Guten Rutsch! ドイツ流・年越しのドイツ語10",
+    "hook": "ドイツでは新年のあいさつに「うまく滑ってね」と言うんです。本当ですよ！",
+    "intro": [
+      "12月31日の夜、ベルリン。夕方からあちこちで爆竹の音が響き、友だちの家では Sekt のグラスが用意されています。スーパーのレジの人にも \"Guten Rutsch!\" と言われたけど、滑れってどういうこと？",
+      "今日はドイツの年末年始に必ず耳にする単語を10個集めました。これで新年のあいさつをして、真夜中のカウントダウンをして、新年の抱負までドイツ語で言えます。一緒にすてきな年越しをしましょう！🎆"
+    ],
+    "words": {
+      "A2-686": {"pron": "ズィルヴェスター", "tip": "12月31日は聖シルヴェステルの祝日なので、この名前に 🎇", "warn": "冠詞なしで使います：an Silvester、zu Silvester."},
+      "A2-689": {"pron": "ミッターナハト", "tip": "Mitte（真ん中）+ Nacht（夜）= 夜の真ん中 🕛 英語の midnight とまったく同じ作り！", "bonus": "真夜中に = um Mitternacht"},
+      "A2-825": {"pron": "フォイアーヴェルク", "tip": "Feuer（火）+ Werk（作品）= 火の作品 🎆 英語の fire + work そのまま。", "bonus": "爆竹は der Böller と言います。"},
+      "A2-687": {"pron": "ノイヤール", "tip": "neu（新しい）+ Jahr（年）= 元日 🌅 英語の new year と音も似ていますね。", "warn": "Silvester と同じく冠詞なし：an Neujahr."},
+      "B1-2326": {"pron": "ゼクト", "tip": "イタリア語の secco（辛口）から 🥂 ドイツのスパークリングワイン！", "warn": "der Sekt です。die Sekte は「カルト教団」なので要注意！"},
+      "B1-2329": {"pron": "ルッチュ", "tip": "rutschen（滑る）から 🛷 新しい年へスーッと滑り込んでね、というあいさつ！", "warn": "Guten Rutsch! は年が明ける前だけ。1月1日からは Frohes neues Jahr!"},
+      "C1-3404": {"pron": "フォーアザッツ", "tip": "vor（前もって）+ Satz（決めたこと）= 前もって決めた決心 📝", "bonus": "新年の抱負 = gute Vorsätze fürs neue Jahr"},
+      "A2-350": {"pron": "ヴュンシェン", "tip": "英語の wish と同じルーツ 🌠 流れ星に願うときも wünschen！", "bonus": "Ich wünsche dir ein frohes neues Jahr! = あけましておめでとう！"},
+      "B2-3602": {"pron": "グリュックスブリンガー", "tip": "Glück（幸運）+ Bringer（運ぶもの）= 幸運を運ぶもの 🍀", "bonus": "定番の Glücksbringer：das Glücksschwein（ブタ）、der Schornsteinfeger（煙突掃除人）、das Kleeblatt（クローバー）"},
+      "B2-3912": {"pron": "ヤーレスヴェクセル", "tip": "Jahr（年）+ Wechsel（交代）= 年が替わるとき 🔄 両替所も Wechselstube です！", "bonus": "年末年始に = zum Jahreswechsel"}
+    },
+    "culture": [
+      "ドイツの Silvester の夜は、友だちと家に集まってラクレットやフォンデュを食べながら真夜中を待つことが多いです。そして多くの家庭で、イギリスの白黒コメディ \"Dinner for One\" をテレビで見るのが昔からの恒例です。",
+      "真夜中になると Sekt で乾杯し、あちこちで花火が上がります。新年の運勢を占う遊びもあって、溶かしたろうを冷たい水に落とし、できた形で占います。昔は鉛でしたが、今はろうがふつうです。",
+      "この時期には、マジパンのブタや煙突掃除人の人形などの Glücksbringer を贈り合います。ドイツではブタも幸運のシンボルなんです！🐷"
+    ],
+    "quiz": {"q": "12月30日、帰宅する同僚に年末のあいさつをするなら？", "o": ["Guten Rutsch!", "Frohe Ostern!", "Gute Besserung!"], "a": 0, "why": "Guten Rutsch! = よいお年を！年が明ける前に言うあいさつです。"},
+    "outro": "今年の Vorsatz をひとつ決めて、Mein Vorsatz fürs neue Jahr ist … と声に出してみましょう。ひと足早く、Guten Rutsch! 🍀"
+  }
+}

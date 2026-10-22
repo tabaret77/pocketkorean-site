@@ -1,0 +1,84 @@
+{
+  "key": "tastes",
+  "ko": {
+    "title": "„맛있어요“ 말고도 할 말 많은 독일어 맛 표현 10",
+    "hook": "독일 식당에서 „Hat's geschmeckt?“라고 물을 때, 매번 „Ja“만 하긴 아쉽잖아요.",
+    "intro": [
+      "독일 친구 집에 초대받았어요. 직접 만든 수프를 한 숟갈 떴는데 친구가 기대에 찬 눈으로 봐요. 맛있다고는 하고 싶은데, 솔직히 좀 싱겁기도 하고… 독일어로 어떻게 말하죠?",
+      "오늘은 맛을 표현하는 단어 10개를 모았어요. 달다, 짜다, 맵다부터 ‘싱거워요’, ‘끝내줘요’까지 이 10개면 식탁에서 할 말이 확 늘어나요. 먹는 게 제일 즐거운 공부죠! 😋"
+    ],
+    "words": {
+      "A2-160": {"pron": "슈메켄", "tip": "‘쉬~ 맛 깨워!’ 혀가 반응하는 동사 👅 맛있으면 Das schmeckt!", "bonus": "Lass es dir schmecken! = 맛있게 먹어!", "warn": "‘나는 이게 맛있어’는 3격: Das schmeckt mir."},
+      "BL-01-09": {"pron": "레커", "tip": "lecken(핥다)과 같은 뿌리, 영어 lick 🍦 손가락까지 핥고 싶은 맛!", "bonus": "일상에서 제일 많이 쓰는 ‘맛있다’예요: Mmh, lecker!"},
+      "A1-367": {"pron": "쥐스", "tip": "영어 sweet과 같은 뿌리 🍰 아기나 강아지한테 써도 돼요, ‘귀엽다’는 뜻도 있거든요!", "bonus": "Die Katze ist so süß! = 고양이 너무 귀여워!"},
+      "B1-1090": {"pron": "잘치히", "tip": "das Salz(소금) + -ig 🧂 영어 salt + y = salty랑 똑같은 구조!", "bonus": "‘너무 짜요’는 Das ist zu salzig."},
+      "A1-368": {"pron": "자우어", "tip": "영어 sour와 같은 뿌리 🍋 레몬 먹은 얼굴 = 화난 얼굴!", "warn": "Ich bin sauer.는 ‘나 시어’가 아니라 ‘나 화났어’예요!"},
+      "A2-566": {"pron": "샤프", "tip": "영어 sharp처럼 혀를 찌르는 맛 🌶️ 매운 건 scharf!", "warn": "매운 걸 heiß라고 하면 ‘뜨겁다’가 돼요. 맵다는 꼭 scharf."},
+      "A1-439": {"pron": "비터", "tip": "영어 bitter랑 철자까지 똑같아요 ☕ 공짜 단어!"},
+      "B1-736": {"pron": "게슈막", "tip": "schmecken의 명사형 🍽️ ge- 붙이고 e 하나 빼면 Geschmack!", "bonus": "Über Geschmack lässt sich nicht streiten. = 취향은 따질 게 못 돼요.", "warn": "복수에 움라우트: die Geschmäcker"},
+      "A2-786": {"pron": "쾨스틀리히", "tip": "die Kost(음식)에서 왔어요 ✨ lecker보다 한 단계 위, 고급스러운 ‘맛있다’!", "bonus": "sich köstlich amüsieren = 아주 즐겁게 놀다"},
+      "B2-2216": {"pron": "파데", "tip": "프랑스어 fade(맛없는)에서 왔어요 🥄 ‘파~’ 하고 맛이 빠져나간 느낌!", "bonus": "싱거우면 소금을 부탁해요: Kannst du mir das Salz geben?"}
+    },
+    "culture": [
+      "독일 식당에서는 식사가 끝날 무렵 직원이 „Hat es Ihnen geschmeckt?“라고 자주 물어요. 그냥 인사에 가까워서 „Ja, sehr lecker, danke!“ 정도면 충분해요.",
+      "회사 점심시간에는 „Mahlzeit!“라는 인사를 듣게 될 거예요. 지역이나 회사에 따라 다르지만, 점심 무렵 복도에서 마주치면 이렇게 인사하는 곳이 많아요.",
+      "독일 사람 입맛에 scharf는 한국이나 일본 기준보다 훨씬 약할 때가 많아요. 식당에서 ‘맵다’고 적혀 있어도 기대는 살짝 낮추는 게 좋아요! 🌶️"
+    ],
+    "quiz": {"q": "친구가 만든 수프가 너무 싱거워요. 조심스럽게 말한다면?", "o": ["Die Suppe ist sehr scharf.", "Die Suppe schmeckt ein bisschen fade.", "Die Zitrone ist sehr sauer."], "a": 1, "why": "fade는 싱겁다는 뜻이라서 ‘수프가 조금 싱거워’라는 말이에요."},
+    "outro": "오늘 저녁밥을 먹으면서 맛을 독일어로 하나씩 말해 봐요. süß? salzig? 아니면 köstlich? 😋"
+  },
+  "en": {
+    "title": "Beyond „lecker“: 10 German words for taste",
+    "hook": "When a German waiter asks „Hat's geschmeckt?“, it would be nice to say more than „Ja“.",
+    "intro": [
+      "You're invited to a German friend's place. You try their homemade soup and they watch you, hopeful. You want to be nice, but honestly it's a bit bland… How do you say any of that in German?",
+      "Today's ten words are all about taste. Sweet, salty, spicy, bland, absolutely delicious — with these you'll have plenty to say at the table. Eating really is the tastiest way to learn! 😋"
+    ],
+    "words": {
+      "A2-160": {"pron": "SHMECK-en", "tip": "Imagine smacking your lips 👅 If it's good: Das schmeckt!", "bonus": "Lass es dir schmecken! = Enjoy your meal!", "warn": "‘I like the taste’ uses the dative: Das schmeckt mir."},
+      "BL-01-09": {"pron": "LECK-er", "tip": "Same root as lecken (to lick) — finger-licking good 🍦", "bonus": "The everyday word for yummy: Mmh, lecker!"},
+      "A1-367": {"pron": "ZOOSS", "tip": "Same root as sweet 🍰 It also means cute, so you can use it for babies and puppies!", "bonus": "Die Katze ist so süß! = The cat is so cute!"},
+      "B1-1090": {"pron": "ZAL-tsish", "tip": "das Salz (salt) + -ig 🧂 Just like salt + y = salty.", "bonus": "‘It's too salty’ = Das ist zu salzig."},
+      "A1-368": {"pron": "ZOW-er", "tip": "Same root as sour 🍋 Your lemon face is also your angry face!", "warn": "Ich bin sauer. means ‘I'm annoyed’, not ‘I'm sour’!"},
+      "A2-566": {"pron": "SHARF", "tip": "Like sharp — it stabs your tongue 🌶️ Spicy food is scharf.", "warn": "Don't say heiß for spicy; heiß only means hot in temperature."},
+      "A1-439": {"pron": "BIT-er", "tip": "Spelled exactly like English bitter ☕ A free word!"},
+      "B1-736": {"pron": "guh-SHMAK", "tip": "The noun from schmecken 🍽️ Add ge-, drop an e: Geschmack.", "bonus": "Über Geschmack lässt sich nicht streiten. = There's no accounting for taste.", "warn": "Umlaut in the plural: die Geschmäcker"},
+      "A2-786": {"pron": "KURST-likh", "tip": "From die Kost (food) ✨ One step fancier than lecker.", "bonus": "sich köstlich amüsieren = to have a great time"},
+      "B2-2216": {"pron": "FAH-duh", "tip": "From French fade, tasteless 🥄 The flavour has faded away.", "bonus": "If it's bland, ask for salt: Kannst du mir das Salz geben?"}
+    },
+    "culture": [
+      "Near the end of a meal in a German restaurant, staff will often ask „Hat es Ihnen geschmeckt?“ It's mostly a polite routine, so „Ja, sehr lecker, danke!“ is plenty.",
+      "At lunchtime in many workplaces you'll hear „Mahlzeit!“ as a greeting. It depends on the region and the company, but in lots of offices it's what people say when they pass each other around lunch.",
+      "For many Germans, scharf is a lot milder than what you might expect from Korean, Thai or Indian food. If a menu says spicy, it's often wise to keep your hopes modest! 🌶️"
+    ],
+    "quiz": {"q": "Your friend's soup is very bland. How do you say so gently?", "o": ["Die Suppe ist sehr scharf.", "Die Suppe schmeckt ein bisschen fade.", "Die Zitrone ist sehr sauer."], "a": 1, "why": "fade means bland, so this says ‘The soup tastes a little bland’."},
+    "outro": "At dinner tonight, describe each thing you eat in German. süß? salzig? Or maybe köstlich? 😋"
+  },
+  "ja": {
+    "title": "「おいしい」だけじゃない！ドイツ語の味の表現10",
+    "hook": "ドイツのレストランで「Hat's geschmeckt?」と聞かれたとき、毎回「Ja」だけではもったいないですよね。",
+    "intro": [
+      "ドイツ人の友だちの家に招かれました。手作りのスープをひと口飲むと、友だちが期待の目でこちらを見ています。おいしいと言いたいけれど、正直ちょっと味が薄い…。ドイツ語でどう言えばいいでしょう？",
+      "今日は味を表す単語を10個集めました。甘い、しょっぱい、辛いから「味が薄い」「絶品！」まで、この10個で食卓での会話がぐっと広がります。食べることがいちばん楽しい勉強ですね！😋"
+    ],
+    "words": {
+      "A2-160": {"pron": "シュメッケン", "tip": "舌が「シュッ」と反応する動詞 👅 おいしければ Das schmeckt!", "bonus": "Lass es dir schmecken! = 召し上がれ！", "warn": "「私にはおいしい」は3格：Das schmeckt mir."},
+      "BL-01-09": {"pron": "レッカー", "tip": "lecken（なめる）と同じ語源、英語の lick 🍦 指までなめたくなる味！", "bonus": "日常でいちばんよく使う「おいしい」：Mmh, lecker!"},
+      "A1-367": {"pron": "ズュース", "tip": "英語の sweet と同じ語源 🍰「かわいい」という意味もあるので、赤ちゃんや子犬にも使えます！", "bonus": "Die Katze ist so süß! = 猫がすごくかわいい！"},
+      "B1-1090": {"pron": "ザルツィヒ", "tip": "das Salz（塩）+ -ig 🧂 英語の salt + y = salty と同じ作り！", "bonus": "「しょっぱすぎる」は Das ist zu salzig."},
+      "A1-368": {"pron": "ザウアー", "tip": "英語の sour と同じ語源 🍋 レモンを食べた顔 = 怒った顔！", "warn": "Ich bin sauer. は「すっぱい」ではなく「怒ってるよ」という意味です！"},
+      "A2-566": {"pron": "シャルフ", "tip": "英語の sharp のように舌を刺す味 🌶️ 辛いものは scharf！", "warn": "辛いを heiß と言うと「熱い」になってしまいます。辛いは必ず scharf。"},
+      "A1-439": {"pron": "ビッター", "tip": "英語の bitter とつづりまで同じ ☕ タダで覚えられる単語！"},
+      "B1-736": {"pron": "ゲシュマック", "tip": "schmecken の名詞形 🍽️ ge- をつけて e をひとつ取れば Geschmack！", "bonus": "Über Geschmack lässt sich nicht streiten. = 好みは人それぞれ（蓼食う虫も好き好き）。", "warn": "複数形はウムラウト：die Geschmäcker"},
+      "A2-786": {"pron": "ケストリヒ", "tip": "die Kost（食べ物）から ✨ lecker より一段上の、上品な「おいしい」！", "bonus": "sich köstlich amüsieren = とても楽しく過ごす"},
+      "B2-2216": {"pron": "ファーデ", "tip": "フランス語の fade（味のない）から 🥄「ファ〜」と味が抜けていく感じ！", "bonus": "味が薄ければ塩をお願い：Kannst du mir das Salz geben?"}
+    },
+    "culture": [
+      "ドイツのレストランでは、食事の終わりごろに店員さんがよく「Hat es Ihnen geschmeckt?」と聞きます。ほぼあいさつなので、「Ja, sehr lecker, danke!」と答えれば十分です。",
+      "職場の昼休みには「Mahlzeit!」というあいさつを耳にするでしょう。地域や会社によりますが、お昼どきに廊下ですれ違うとこう言い合う職場が多いです。",
+      "ドイツの人にとっての scharf は、韓国やタイの料理に比べてずっとマイルドなことが多いです。メニューに「辛い」とあっても、期待はほどほどにしておきましょう！🌶️"
+    ],
+    "quiz": {"q": "友だちのスープがとても薄味です。やんわり伝えるなら？", "o": ["Die Suppe ist sehr scharf.", "Die Suppe schmeckt ein bisschen fade.", "Die Zitrone ist sehr sauer."], "a": 1, "why": "fade は味が薄いという意味なので、「スープがちょっと薄味だね」となります。"},
+    "outro": "今日の夕ごはんで、食べるものの味をひとつずつドイツ語で言ってみましょう。süß？ salzig？ それとも köstlich？😋"
+  }
+}

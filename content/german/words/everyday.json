@@ -1,0 +1,84 @@
+{
+  "key": "everyday",
+  "ko": {
+    "title": "독일 사람들이 입에 달고 사는 표현 10",
+    "hook": "독일 사람 대화를 듣다 보면 똑같은 말이 계속 들려요. 바로 이 10개예요.",
+    "intro": [
+      "독일 친구들과 카페에 앉아 있으면 \"Keine Ahnung!\", \"Auf jeden Fall!\", \"Kommt drauf an.\" 같은 말이 쉴 새 없이 오가요. 단어 하나하나는 아는데, 왜 이렇게 빨리 지나가는 걸까요?",
+      "오늘은 일상 대화에서 정말 자주 쓰는 표현 10개를 모았어요. 이걸 통째로 외워 두면 대답이 빨라지고, 독일어가 훨씬 자연스럽게 들려요. 오늘부터 하나씩 입에 붙여 봐요! 🗨️"
+    ],
+    "words": {
+      "A2-099": {"pron": "에스 콤트 다라우프 안", "tip": "독일 사람들의 최애 대답 🤷 뭐든 ‘상황에 따라 다르죠’!", "bonus": "말할 땐 줄여서: Kommt drauf an."},
+      "B1-1894": {"pron": "카이네 아눙", "tip": "Ahnung(짐작)이 하나도(keine) 없다 = 전혀 몰라 🤯", "warn": "꽤 편한 말이에요. 공손하게는 Das weiß ich leider nicht."},
+      "A2-411": {"pron": "아우프 예덴 팔", "tip": "jeder(모든) + Fall(경우) = 어떤 경우에도 → 무조건! 👍", "bonus": "대답으로 혼자 써도 돼요: Kommst du? – Auf jeden Fall!"},
+      "A2-1034": {"pron": "아우프 카이넨 팔", "tip": "jeden 자리에 keinen만 넣으면 정반대 🙅 절대 안 돼!", "bonus": "한 단어로 거절할 때: Auf keinen Fall!"},
+      "A2-870": {"pron": "압 운트 추", "tip": "ab(떨어져) + zu(가까이) = 왔다 갔다 → 가끔 🔁", "bonus": "비슷한 말: manchmal, ab und an"},
+      "A2-875": {"pron": "마이너 마이눙 나흐", "tip": "nach가 맨 뒤로 가는 특이한 표현 💭 Meinung은 -ung이라 die!", "warn": "바로 뒤에 동사가 와요: Meiner Meinung nach ist das falsch."},
+      "A2-549": {"pron": "레히트 하벤", "tip": "독일어로는 옳음을 ‘가지고(haben)’ 있어요 ✅", "warn": "Du hast recht. (Du bist recht ❌)"},
+      "A2-100": {"pron": "필 에어폴크", "tip": "Erfolg(성공)를 많이(viel)! = 잘되길 바라! 🍀", "bonus": "시험·면접 앞둔 친구에게: Viel Erfolg bei der Prüfung!"},
+      "A2-401": {"pron": "춤 바이슈필", "tip": "글에서는 줄여서 z. B. ✍️ 영어 e.g.와 같아요!", "bonus": "같은 뜻: beispielsweise"},
+      "B1-096": {"pron": "베샤이트 자겐", "tip": "Bescheid(통지)를 말해 주다 = 알려 주다 📲 약속 잡을 때 필수!", "warn": "알려 주는 상대는 3격: Sag mir Bescheid!"}
+    },
+    "culture": [
+      "독일 사람에게 무언가 물으면 \"Es kommt darauf an.\"이라는 대답을 자주 들어요. 피하는 게 아니라, 정확하게 말하고 싶어서 조건부터 따지는 경우가 많아요.",
+      "약속을 잡을 때는 \"Sag mir Bescheid!\"가 거의 빠지지 않아요. 독일에서는 계획이 바뀌면 미리 알려 주는 걸 중요하게 여기는 편이에요.",
+      "그리고 Keine Ahnung!은 친구 사이에선 괜찮지만, 회사나 관청에서는 Das weiß ich leider nicht. 처럼 조금 더 공손하게 말하는 게 좋아요. 😉"
+    ],
+    "quiz": {"q": "친구가 \"Kommst du heute Abend zur Party?\" 하고 물어요. 시간이 있을지 아직 모르겠다면 뭐라고 할까요?", "o": ["Auf keinen Fall!", "Es kommt darauf an.", "Viel Erfolg!"], "a": 1, "why": "Es kommt darauf an. = 상황에 따라 달라, 라는 뜻이에요."},
+    "outro": "오늘 하루 동안 이 표현들 중 세 개를 골라 혼잣말로라도 써 봐요. 내일 독일 친구에게 \"Auf jeden Fall!\" 하고 대답할 수 있을 거예요! 😄"
+  },
+  "en": {
+    "title": "The 10 phrases Germans say all the time",
+    "hook": "Listen to Germans chatting and you'll hear the same few phrases again and again — these ten.",
+    "intro": [
+      "Sitting in a café with German friends, you hear \"Keine Ahnung!\", \"Auf jeden Fall!\" and \"Kommt drauf an.\" flying back and forth. You know each word, so why do they whizz past so fast?",
+      "Today's ten are everyday phrases you'll hear constantly. Learn them as whole chunks and you'll answer faster and sound much more natural. Start using them today! 🗨️"
+    ],
+    "words": {
+      "A2-099": {"pron": "es komt da-ROWF an", "tip": "Germany's favourite answer 🤷 Whatever you ask: ‘it depends’!", "bonus": "In speech it's often shortened: Kommt drauf an."},
+      "B1-1894": {"pron": "KY-nuh AH-noong", "tip": "Not even a hint (Ahnung) = no idea 🤯", "warn": "It's casual. More politely: Das weiß ich leider nicht."},
+      "A2-411": {"pron": "owf YAY-den fal", "tip": "jeder (every) + Fall (case) = in every case → definitely! 👍", "bonus": "Works as a reply on its own: Kommst du? – Auf jeden Fall!"},
+      "A2-1034": {"pron": "owf KY-nen fal", "tip": "Swap jeden for keinen and it flips 🙅 No way!", "bonus": "A one-phrase refusal: Auf keinen Fall!"},
+      "A2-870": {"pron": "ap oont TSOO", "tip": "ab (away) + zu (towards) = to and fro → now and then 🔁", "bonus": "Similar: manchmal, ab und an"},
+      "A2-875": {"pron": "MY-ner MY-noong nahkh", "tip": "Here nach goes at the end 💭 Meinung ends in -ung, so die.", "warn": "The verb comes right after: Meiner Meinung nach ist das falsch."},
+      "A2-549": {"pron": "REKHT hah-ben", "tip": "In German you ‘have’ right ✅", "warn": "Du hast recht. (not Du bist recht)"},
+      "A2-100": {"pron": "feel air-FOLK", "tip": "Lots (viel) of success (Erfolg)! = Good luck! 🍀", "bonus": "Before an exam: Viel Erfolg bei der Prüfung!"},
+      "A2-401": {"pron": "tsoom BY-shpeel", "tip": "In writing it's z. B. ✍️ Just like English e.g.", "bonus": "Same meaning: beispielsweise"},
+      "B1-096": {"pron": "buh-SHYTE ZAH-gen", "tip": "Say the notice (Bescheid) = let someone know 📲 Essential for making plans!", "warn": "The person takes the dative: Sag mir Bescheid!"}
+    },
+    "culture": [
+      "Ask a German something and you'll often hear \"Es kommt darauf an.\" It's not dodging the question — people often want to get the conditions straight before giving a precise answer.",
+      "When making plans, \"Sag mir Bescheid!\" almost always comes up. In Germany it's generally seen as important to let people know in advance if plans change.",
+      "Keine Ahnung! is fine among friends, but at work or at a government office it's better to say something more polite, like Das weiß ich leider nicht. 😉"
+    ],
+    "quiz": {"q": "A friend asks, \"Kommst du heute Abend zur Party?\" You don't know yet if you'll have time. What do you say?", "o": ["Auf keinen Fall!", "Es kommt darauf an.", "Viel Erfolg!"], "a": 1, "why": "Es kommt darauf an. means ‘It depends.’"},
+    "outro": "Pick three of these phrases and use them today, even if it's just talking to yourself. Tomorrow you'll be ready to answer a German friend with \"Auf jeden Fall!\" 😄"
+  },
+  "ja": {
+    "title": "ドイツ人の口ぐせフレーズ10",
+    "hook": "ドイツ人の会話を聞いていると、同じフレーズが何度も出てきます。それがこの10個です。",
+    "intro": [
+      "ドイツ人の友だちとカフェにいると、「Keine Ahnung!」「Auf jeden Fall!」「Kommt drauf an.」がひっきりなしに飛び交います。単語は全部知っているのに、どうしてこんなに速く聞こえるんでしょう？",
+      "今日は日常会話で本当によく使う表現を10個集めました。まるごと覚えておけば返事が速くなり、ドイツ語がぐっと自然に聞こえます。今日からひとつずつ口ぐせにしてみましょう！🗨️"
+    ],
+    "words": {
+      "A2-099": {"pron": "エス コムト ダラウフ アン", "tip": "ドイツ人のお気に入りの答え 🤷 何を聞いても「場合によるね」！", "bonus": "話し言葉では短く：Kommt drauf an."},
+      "B1-1894": {"pron": "カイネ アーヌング", "tip": "Ahnung（予感）がまったく（keine）ない = さっぱりわからない 🤯", "warn": "くだけた言い方です。ていねいには Das weiß ich leider nicht."},
+      "A2-411": {"pron": "アウフ イェーデン ファル", "tip": "jeder（すべての）+ Fall（場合）= どんな場合でも → 絶対！👍", "bonus": "返事としてそれだけでも使えます：Kommst du? – Auf jeden Fall!"},
+      "A2-1034": {"pron": "アウフ カイネン ファル", "tip": "jeden を keinen に替えるだけで正反対 🙅 絶対ダメ！", "bonus": "ひとことで断るとき：Auf keinen Fall!"},
+      "A2-870": {"pron": "アップ ウント ツー", "tip": "ab（離れて）+ zu（近づいて）= 行ったり来たり → ときどき 🔁", "bonus": "似た言葉：manchmal、ab und an"},
+      "A2-875": {"pron": "マイナー マイヌング ナーハ", "tip": "nach が最後に来る珍しい表現 💭 Meinung は -ung なので die！", "warn": "すぐ後に動詞が来ます：Meiner Meinung nach ist das falsch."},
+      "A2-549": {"pron": "レヒト ハーベン", "tip": "ドイツ語では正しさを「持って（haben）」います ✅", "warn": "Du hast recht.（Du bist recht ではありません）"},
+      "A2-100": {"pron": "フィール エアフォルク", "tip": "Erfolg（成功）をたくさん（viel）！= うまくいきますように！🍀", "bonus": "試験前の友だちに：Viel Erfolg bei der Prüfung!"},
+      "A2-401": {"pron": "ツム バイシュピール", "tip": "書くときは略して z. B. ✍️ 英語の e.g. と同じです！", "bonus": "同じ意味：beispielsweise"},
+      "B1-096": {"pron": "ベシャイト ザーゲン", "tip": "Bescheid（知らせ）を言う = 知らせる 📲 予定を決めるときの必須フレーズ！", "warn": "知らせる相手は3格：Sag mir Bescheid!"}
+    },
+    "culture": [
+      "ドイツ人に何か聞くと「Es kommt darauf an.」とよく返ってきます。はぐらかしているのではなく、正確に答えたいから条件を確かめていることが多いのです。",
+      "予定を決めるときは「Sag mir Bescheid!」がほぼ必ず出てきます。ドイツでは、予定が変わったら前もって知らせることが大切だと考えられています。",
+      "Keine Ahnung! は友だち同士なら大丈夫ですが、職場や役所では Das weiß ich leider nicht. のように少していねいに言うのがおすすめです。😉"
+    ],
+    "quiz": {"q": "友だちに「Kommst du heute Abend zur Party?」と聞かれました。時間があるかまだわからないときは何と言いますか？", "o": ["Auf keinen Fall!", "Es kommt darauf an.", "Viel Erfolg!"], "a": 1, "why": "Es kommt darauf an. は「場合によるよ」という意味です。"},
+    "outro": "今日はこの中から3つ選んで、ひとりごとでもいいので使ってみましょう。明日にはドイツ人の友だちに「Auf jeden Fall!」と返せるはずです！😄"
+  }
+}

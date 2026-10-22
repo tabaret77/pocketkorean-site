@@ -1,0 +1,84 @@
+{
+  "key": "streaming",
+  "ko": {
+    "title": "정주행 좋아하는 사람을 위한 독일어 10",
+    "hook": "독일 드라마로 공부하고 싶다면, 먼저 ‘시즌’이 독일어로 Saison이 아니라는 것부터 알아야 해요.",
+    "intro": [
+      "주말 밤, 독일 친구가 “Hast du die neue Staffel schon geguckt?” 하고 물어요. 다음 화가 궁금해서 새벽까지 봤다고, 구독료가 너무 많이 나간다고 수다를 떨고 싶은데 단어가 안 떠올라요.",
+      "오늘은 드라마와 스트리밍에 관한 단어 10개를 모았어요. 이것만 알면 최애 드라마 이야기도, 구독 해지도 독일어로 할 수 있어요. 팝콘 준비됐나요? 🍿"
+    ],
+    "words": {
+      "B1-1142": {"pron": "제리에", "tip": "영어 series랑 똑같아요 📺 -ie로 끝나는 외래어는 대부분 die!", "bonus": "드라마를 정주행하다 = eine Serie am Stück schauen"},
+      "B2-1020": {"pron": "스트리멘", "tip": "영어 stream에 -en만 붙였어요 🌊 완료형도 쉽게: hat gestreamt", "bonus": "명사로는 das Streaming"},
+      "B2-1021": {"pron": "스트리밍딘스트", "tip": "streamen + Dienst(서비스) 🛎️ 마지막 Dienst가 남성이니 der!", "warn": "복수는 die Streamingdienste"},
+      "B1-225": {"pron": "폴게", "tip": "folgen(따라오다)에서 왔어요 ➡️ 앞 회차를 따라오는 다음 회차!", "warn": "‘결과’라는 뜻도 있어요: Das hat Folgen. = 그건 후폭풍이 있을 거야."},
+      "B2-3874": {"pron": "슈타펠", "tip": "원래 ‘계단’이라는 뜻 🪜 한 계단씩 올라가는 시즌 1, 시즌 2!", "warn": "드라마 시즌은 Saison이 아니라 Staffel이에요."},
+      "B1-2533": {"pron": "아보", "tip": "das Abonnement의 줄임말 📰 독일 사람들은 줄여서 Abo라고만 해요.", "bonus": "교통 정기권도 Abo라고 불러요."},
+      "B1-408": {"pron": "아보니어렌", "tip": "프랑스어에서 온 Abo의 동사 버전 🔔 유튜브 ‘구독’도 이 단어!", "warn": "-ieren 동사라 완료형에 ge-가 없어요: hat abonniert"},
+      "A2-068": {"pron": "퀸디겐", "tip": "원래 ‘알리다’라는 뜻 ✂️ 그만두겠다고 알리면 해지!", "warn": "회사를 그만둘 때도, 해고당할 때도 써요: Mir wurde gekündigt. = 저 잘렸어요."},
+      "B1-761": {"pron": "구켄", "tip": "‘구경’하고 소리가 비슷하죠? 👀 북부·중부 구어에서 ‘보다’예요.", "bonus": "남부에서는 보통 schauen: einen Film schauen"},
+      "B2-1022": {"pron": "빌트시름차이트", "tip": "Bildschirm(화면) + Zeit(시간) ⏰ 마지막 Zeit 따라 die!", "bonus": "줄이다 = die Bildschirmzeit reduzieren"}
+    },
+    "culture": [
+      "독일에서는 외국 영화와 드라마를 대부분 독일어로 더빙해서 봐요. 할리우드 배우마다 전담 성우가 있어서, 그 목소리가 곧 그 배우의 목소리처럼 느껴질 정도예요.",
+      "공부할 때는 독일어 음성에 독일어 자막을 켜고 이미 아는 드라마를 다시 보는 게 좋아요. 내용을 아니까 귀가 단어에 집중할 수 있거든요.",
+      "그리고 독일에서는 계약을 직접 kündigen 하지 않으면 자동으로 연장되는 경우가 많아요. 구독을 시작할 때 언제까지, 어떻게 해지하는지 꼭 확인해 두세요! 📅"
+    ],
+    "quiz": {"q": "좋아하는 드라마의 시즌 3이 가을에 나온대요. 독일어로 맞게 말한 건?", "o": ["Die dritte Saison startet im Herbst.", "Die dritte Staffel startet im Herbst.", "Das dritte Abo startet im Herbst."], "a": 1, "why": "드라마 시즌은 Staffel이에요. Saison은 휴가철이나 스포츠 시즌에 써요."},
+    "outro": "오늘 밤 드라마 볼 때 Folge와 Staffel을 소리 내서 세어 보세요. 딱 한 편만 더, 아시죠? 😉"
+  },
+  "en": {
+    "title": "Binge-watcher's German: 10 streaming words",
+    "hook": "Want to learn German from TV series? First you need to know that a “season” isn't Saison.",
+    "intro": [
+      "Saturday night, and a German friend asks, “Hast du die neue Staffel schon geguckt?” You want to say you stayed up till 2 am for one more episode and that your subscriptions cost too much — but the words won't come.",
+      "Today's ten words are all about series and streaming. With them you can talk about your favourite show and even cancel a subscription in German. Popcorn ready? 🍿"
+    ],
+    "words": {
+      "B1-1142": {"pron": "ZAY-ree-uh", "tip": "Just like English series 📺 Borrowed words ending in -ie are mostly die.", "bonus": "to binge a series = eine Serie am Stück schauen"},
+      "B2-1020": {"pron": "STREE-men", "tip": "English stream + -en 🌊 The perfect is easy too: hat gestreamt", "bonus": "The noun: das Streaming"},
+      "B2-1021": {"pron": "STREE-ming-deenst", "tip": "streamen + Dienst (service) 🛎️ Dienst is masculine, so der.", "warn": "Plural: die Streamingdienste"},
+      "B1-225": {"pron": "FOL-guh", "tip": "From folgen (to follow) ➡️ Each episode follows the last.", "warn": "It also means consequence: Das hat Folgen."},
+      "B2-3874": {"pron": "SHTAF-el", "tip": "Originally a step 🪜 Season 1, season 2 — climbing one step at a time!", "warn": "A TV season is Staffel, not Saison."},
+      "B1-2533": {"pron": "AH-bo", "tip": "Short for das Abonnement 📰 Everyone just says Abo.", "bonus": "A season ticket for public transport is also an Abo."},
+      "B1-408": {"pron": "ah-bo-NEE-ren", "tip": "The verb behind Abo, from French 🔔 Also used for subscribing to a channel.", "warn": "An -ieren verb, so no ge-: hat abonniert"},
+      "A2-068": {"pron": "KUEN-di-gen", "tip": "It once meant “to announce” ✂️ You announce you're leaving — contract cancelled!", "warn": "Also for quitting a job or being fired: Mir wurde gekündigt. = I was let go."},
+      "B1-761": {"pron": "GOOK-en", "tip": "Sounds a bit like “look” with a G 👀 Casual “watch” in the north and centre.", "bonus": "In the south people usually say schauen: einen Film schauen"},
+      "B2-1022": {"pron": "BILT-sheerm-tsite", "tip": "Bildschirm (screen) + Zeit (time) ⏰ Zeit makes it die.", "bonus": "to cut down = die Bildschirmzeit reduzieren"}
+    },
+    "culture": [
+      "Most foreign films and series in Germany are dubbed into German. Big Hollywood stars often have their own regular German voice actor, so the voice almost becomes part of the star.",
+      "For learning, try rewatching a series you already know with German audio and German subtitles. Since you know the story, your ears can focus on the words.",
+      "Also, in Germany many contracts renew automatically unless you actively kündigen. When you sign up for a subscription, check how and by when you can cancel! 📅"
+    ],
+    "quiz": {"q": "Season 3 of your favourite show starts in autumn. Which sentence is right?", "o": ["Die dritte Saison startet im Herbst.", "Die dritte Staffel startet im Herbst.", "Das dritte Abo startet im Herbst."], "a": 1, "why": "A TV season is a Staffel; Saison is for holidays or sport."},
+    "outro": "When you watch something tonight, count the Folgen and Staffeln out loud in German. Just one more episode, right? 😉"
+  },
+  "ja": {
+    "title": "一気見好きのためのドイツ語10",
+    "hook": "ドイツのドラマで勉強したいなら、まず「シーズン」が Saison ではないことを知っておきましょう。",
+    "intro": [
+      "週末の夜、ドイツ人の友だちに「Hast du die neue Staffel schon geguckt?」と聞かれました。続きが気になって夜中まで見ちゃったとか、サブスク代がかさむとか話したいのに、単語が出てきません。",
+      "今日はドラマと配信サービスの単語を10個集めました。これで推しドラマの話も、サブスクの解約もドイツ語でできます。ポップコーンの準備はいいですか？🍿"
+    ],
+    "words": {
+      "B1-1142": {"pron": "ゼーリエ", "tip": "英語の series とそっくり 📺 -ie で終わる外来語はたいてい die！", "bonus": "ドラマを一気見する = eine Serie am Stück schauen"},
+      "B2-1020": {"pron": "ストリーメン", "tip": "英語の stream に -en をつけただけ 🌊 完了形もかんたん：hat gestreamt", "bonus": "名詞は das Streaming"},
+      "B2-1021": {"pron": "ストリーミングディーンスト", "tip": "streamen + Dienst（サービス）🛎️ Dienst が男性名詞なので der！", "warn": "複数形は die Streamingdienste"},
+      "B1-225": {"pron": "フォルゲ", "tip": "folgen（後に続く）から ➡️ 前の回に続く次の回！", "warn": "「結果」という意味もあります：Das hat Folgen. = それは後で響くよ。"},
+      "B2-3874": {"pron": "シュタッフェル", "tip": "もとは「段」という意味 🪜 シーズン1、シーズン2と一段ずつ上るイメージ！", "warn": "ドラマのシーズンは Saison ではなく Staffel です。"},
+      "B1-2533": {"pron": "アボ", "tip": "das Abonnement の短縮形 📰 ドイツ人はみんな Abo と言います。", "bonus": "交通機関の定期券も Abo と呼びます。"},
+      "B1-408": {"pron": "アボニーレン", "tip": "フランス語から来た Abo の動詞版 🔔 チャンネル登録の「登録」もこれ！", "warn": "-ieren 動詞なので ge- はつきません：hat abonniert"},
+      "A2-068": {"pron": "キュンディゲン", "tip": "もとは「知らせる」という意味 ✂️ やめますと知らせたら解約！", "warn": "退職にも解雇にも使います：Mir wurde gekündigt. = クビになりました。"},
+      "B1-761": {"pron": "グッケン", "tip": "「ぐっと見る」で gucken 👀 北部・中部の話し言葉で「見る」です。", "bonus": "南部ではふつう schauen：einen Film schauen"},
+      "B2-1022": {"pron": "ビルトシルムツァイト", "tip": "Bildschirm（画面）+ Zeit（時間）⏰ Zeit に合わせて die！", "bonus": "減らす = die Bildschirmzeit reduzieren"}
+    },
+    "culture": [
+      "ドイツでは外国の映画やドラマのほとんどがドイツ語に吹き替えられています。ハリウッドスターにはそれぞれ専属の声優さんがいることも多く、その声がスター本人の声のように感じられるほどです。",
+      "勉強には、もう知っているドラマをドイツ語音声＋ドイツ語字幕で見直すのがおすすめ。話の流れがわかっているので、耳が単語に集中できます。",
+      "それから、ドイツでは自分から kündigen しないと自動で更新される契約が多いです。サブスクを始めるときは、いつまでに、どうやって解約するのかを必ず確認しておきましょう！📅"
+    ],
+    "quiz": {"q": "好きなドラマのシーズン3が秋に始まるそうです。正しいドイツ語は？", "o": ["Die dritte Saison startet im Herbst.", "Die dritte Staffel startet im Herbst.", "Das dritte Abo startet im Herbst."], "a": 1, "why": "ドラマのシーズンは Staffel。Saison は旅行シーズンやスポーツのシーズンに使います。"},
+    "outro": "今夜ドラマを見るとき、Folge と Staffel をドイツ語で声に出して数えてみましょう。あと1話だけ、ですよね？😉"
+  }
+}

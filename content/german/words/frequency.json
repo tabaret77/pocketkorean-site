@@ -1,0 +1,84 @@
+{
+  "key": "frequency",
+  "ko": {
+    "title": "항상, 가끔, 절대! ‘얼마나 자주’ 독일어 10",
+    "hook": "작은 부사 하나로 내 이야기가 훨씬 생생해져요.",
+    "intro": [
+      "어학원에서 선생님이 ‘Wie oft machst du Sport?’ 하고 물어요. 사실 운동은 거의 안 하는데… 그냥 ‘Ja’라고만 하고 웃고 말았어요.",
+      "오늘은 ‘얼마나 자주’를 말하는 단어 10개를 모았어요. 이 단어들이면 내 하루 습관, 주말 루틴, 좋아하는 것과 싫어하는 것까지 자연스럽게 이야기할 수 있어요. 🔁"
+    ],
+    "words": {
+      "A1-088": {"pron": "임머", "tip": "‘임머~ 또 늦었어!’ 늘 늦는 친구에게 딱 🕰️ Er kommt immer zu spät.", "bonus": "immer noch = 아직도 · immer mehr = 점점 더"},
+      "A1-089": {"pron": "오프트", "tip": "영어 often의 옛날 모양 그대로예요 🔄 시인들이 쓰던 oft!", "bonus": "더 자주 = öfter · Wie oft? = 얼마나 자주?"},
+      "A1-385": {"pron": "만히말", "tip": "manch(몇몇) + Mal(번) = 몇 번씩 = 가끔 🎲", "bonus": "비슷한 말: ab und zu"},
+      "A1-384": {"pron": "니", "tip": "‘니~’ 하고 짧게 끊어요. 절대 안 해! 🙅", "bonus": "한 번도 ~ 안 해 봤어요 = noch nie: Ich war noch nie in Wien."},
+      "A2-377": {"pron": "젤텐", "tip": "영어 seldom과 같은 뿌리 🦄 드물다 = selten!", "bonus": "형용사로도 써요: eine seltene Blume = 희귀한 꽃"},
+      "A2-399": {"pron": "마이스텐스", "tip": "meist(가장 많은, 영어 most) + -ens = 대부분의 경우 📊", "bonus": "die meisten Leute = 대부분의 사람들"},
+      "A2-870": {"pron": "압 운트 추", "tip": "ab(떠나서) und zu(다가와서), 왔다 갔다 하듯 가끔 ↔️", "warn": "관용 표현이라 순서를 바꾸면 안 돼요: zu und ab ✗"},
+      "B1-820": {"pron": "예데스 말", "tip": "jedes(모든) + Mal(번) = 매번 🔂 das Mal이라 jedes!", "warn": "두 단어로 띄어 써요. 반면 manchmal은 한 단어!"},
+      "B1-194": {"pron": "레겔매시히", "tip": "Regel(규칙) + -mäßig(~에 맞게) = 규칙대로 꼬박꼬박 📅", "bonus": "형용사로도: ein regelmäßiges Verb = 규칙 동사"},
+      "B1-991": {"pron": "노르말러바이제", "tip": "normal + -erweise = 평소 방식대로 😴 길지만 영어 normally와 똑같아요!", "bonus": "같은 꼬리: glücklicherweise = 다행히도"}
+    },
+    "culture": [
+      "독일에는 Stammtisch라는 문화가 있어요. 같은 사람들이 정해진 날 같은 술집 테이블에 regelmäßig 모이는 거예요. 요즘은 외국인들이 모여 독일어를 연습하는 ‘Sprach-Stammtisch’도 많아요.",
+      "독일 사람들은 일상을 정해진 리듬대로 사는 걸 좋아한다는 이야기를 자주 들어요. 동네 식당이 일주일에 하루 쉬는 날(Ruhetag)을 정해 두는 것도 흔하니, 가기 전에 확인해 보세요.",
+      "그리고 일요일에는 대부분의 가게가 문을 닫아요. 그래서 ‘Samstags kaufe ich immer ein.’ 같은 문장이 정말 자연스럽게 들려요. 🛒"
+    ],
+    "quiz": {"q": "친구가 비엔나에 가 봤냐고 물어요. ‘한 번도 안 가 봤어’라고 하려면?", "o": ["Ich war oft in Wien.", "Ich war noch nie in Wien.", "Ich bin jedes Mal in Wien."], "a": 1, "why": "noch nie = 한 번도 ~한 적 없다예요."},
+    "outro": "오늘 단어로 내 습관 문장 세 개를 만들어 소리 내 봐요. 예를 들면 ‘Ich trinke immer Kaffee.’처럼요! ☕"
+  },
+  "en": {
+    "title": "Always, sometimes, never: 10 German words for how often",
+    "hook": "One tiny adverb can make what you say sound much more alive.",
+    "intro": [
+      "Your German teacher asks, ‘Wie oft machst du Sport?’ The honest answer is ‘hardly ever’ — but you just say ‘Ja’ and smile.",
+      "Here are ten words for saying how often you do things. With them you can talk about your habits, your weekend routine, and what you love or avoid. 🔁"
+    ],
+    "words": {
+      "A1-088": {"pron": "IM-er", "tip": "‘IM-mer late again!’ — perfect for that friend 🕰️ Er kommt immer zu spät.", "bonus": "immer noch = still · immer mehr = more and more"},
+      "A1-089": {"pron": "OFT", "tip": "The old English form of often, still alive in poems 🔄", "bonus": "more often = öfter · Wie oft? = How often?"},
+      "A1-385": {"pron": "MANKH-mahl", "tip": "manch (some) + Mal (time) = some times 🎲", "bonus": "Similar: ab und zu"},
+      "A1-384": {"pron": "NEE", "tip": "Short and sharp, like a firm ‘nee!’ — never! 🙅", "bonus": "never before = noch nie: Ich war noch nie in Wien."},
+      "A2-377": {"pron": "ZEL-ten", "tip": "Same root as English seldom 🦄", "bonus": "Also an adjective: eine seltene Blume = a rare flower"},
+      "A2-399": {"pron": "MY-stens", "tip": "meist (most) + -ens = most of the time 📊", "bonus": "die meisten Leute = most people"},
+      "A2-870": {"pron": "AP oont TSOO", "tip": "ab (away) und zu (towards) — to and fro, now and then ↔️", "warn": "It's a fixed phrase: never zu und ab."},
+      "B1-820": {"pron": "YAY-des MAHL", "tip": "jedes (every) + Mal (time) = every time 🔂 das Mal, so jedes.", "warn": "Two words! But manchmal is one."},
+      "B1-194": {"pron": "RAY-gel-may-sikh", "tip": "Regel (rule) + -mäßig (according to) = by the rule, like clockwork 📅", "bonus": "Also an adjective: ein regelmäßiges Verb = a regular verb"},
+      "B1-991": {"pron": "nor-MAH-ler-vy-zuh", "tip": "normal + -erweise = in the normal way 😴 Long, but it's just normally.", "bonus": "Same ending: glücklicherweise = luckily"}
+    },
+    "culture": [
+      "Germany has the Stammtisch: the same group meeting regularly at the same pub table on a set day. Many cities also have a ‘Sprach-Stammtisch’ where people meet to practise languages.",
+      "You'll often hear that Germans like a steady rhythm to the week. Local restaurants commonly have a fixed day off (Ruhetag), so check before you go.",
+      "And on Sundays most shops are closed, which is why a sentence like ‘Samstags kaufe ich immer ein.’ sounds so natural. 🛒"
+    ],
+    "quiz": {"q": "A friend asks if you've been to Vienna. How do you say ‘I've never been there’?", "o": ["Ich war oft in Wien.", "Ich war noch nie in Wien.", "Ich bin jedes Mal in Wien."], "a": 1, "why": "noch nie means never (up to now)."},
+    "outro": "Make three sentences about your habits with today's words and say them out loud — like ‘Ich trinke immer Kaffee.’ ☕"
+  },
+  "ja": {
+    "title": "いつも・ときどき・決して！頻度のドイツ語10",
+    "hook": "小さな副詞ひとつで、話がぐっと生き生きします。",
+    "intro": [
+      "語学学校で先生に「Wie oft machst du Sport?」と聞かれました。本当はほとんど運動していないのに…「Ja」とだけ言って笑ってごまかしました。",
+      "今日は「どのくらいよく」を表す単語を10個集めました。これで毎日の習慣や週末のルーティン、好きなこと・苦手なことまで自然に話せるようになりますよ。🔁"
+    ],
+    "words": {
+      "A1-088": {"pron": "イマー", "tip": "「イマー（今）もまた遅刻！」いつも遅れる友だちにぴったり 🕰️ Er kommt immer zu spät.", "bonus": "immer noch = まだ · immer mehr = ますます"},
+      "A1-089": {"pron": "オフト", "tip": "英語 often の昔の形そのまま 🔄 詩の中ではいまも oft！", "bonus": "もっとよく = öfter · Wie oft? = どのくらいよく？"},
+      "A1-385": {"pron": "マンヒマール", "tip": "manch（いくつかの）+ Mal（回）= 何回か = ときどき 🎲", "bonus": "似た表現：ab und zu"},
+      "A1-384": {"pron": "ニー", "tip": "「ニー」と短く言い切って、絶対しない！🙅", "bonus": "一度も〜したことがない = noch nie：Ich war noch nie in Wien."},
+      "A2-377": {"pron": "ゼルテン", "tip": "英語の seldom と同じ語源 🦄 めったにない = selten！", "bonus": "形容詞でも使います：eine seltene Blume = 珍しい花"},
+      "A2-399": {"pron": "マイステンス", "tip": "meist（いちばん多い、英語の most）+ -ens = たいていの場合 📊", "bonus": "die meisten Leute = ほとんどの人"},
+      "A2-870": {"pron": "アップ ウント ツー", "tip": "ab（離れて）und zu（近づいて）、行ったり来たりするように、ときどき ↔️", "warn": "決まった言い方なので順番は変えられません：zu und ab ✗"},
+      "B1-820": {"pron": "イェーデス マール", "tip": "jedes（毎）+ Mal（回）= 毎回 🔂 das Mal なので jedes！", "warn": "2語に分けて書きます。でも manchmal は1語！"},
+      "B1-194": {"pron": "レーゲルメースィッヒ", "tip": "Regel（規則）+ -mäßig（〜に沿って）= 規則どおりきちんと 📅", "bonus": "形容詞でも：ein regelmäßiges Verb = 規則動詞"},
+      "B1-991": {"pron": "ノルマーラーヴァイゼ", "tip": "normal + -erweise = ふだんのやり方で 😴 長いけど英語の normally と同じ！", "bonus": "同じ語尾：glücklicherweise = 幸いにも"}
+    },
+    "culture": [
+      "ドイツには Stammtisch という文化があります。同じ仲間が決まった曜日に、同じ酒場のテーブルに regelmäßig 集まるものです。最近は外国人がドイツ語を練習する「Sprach-Stammtisch」も多くあります。",
+      "ドイツの人は決まったリズムで暮らすのが好きだ、とよく言われます。近所のレストランが週に一日の定休日（Ruhetag）を決めていることも多いので、行く前に確認しましょう。",
+      "それから日曜日はほとんどのお店が閉まっています。だから「Samstags kaufe ich immer ein.」のような文がとても自然に聞こえるんです。🛒"
+    ],
+    "quiz": {"q": "友だちにウィーンに行ったことがあるか聞かれました。「一度もない」と言うには？", "o": ["Ich war oft in Wien.", "Ich war noch nie in Wien.", "Ich bin jedes Mal in Wien."], "a": 1, "why": "noch nie = 一度も〜したことがない、という意味です。"},
+    "outro": "今日の単語で自分の習慣の文を3つ作って、声に出してみましょう。たとえば「Ich trinke immer Kaffee.」のように！☕"
+  }
+}

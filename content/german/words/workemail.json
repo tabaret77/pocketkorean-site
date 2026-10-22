@@ -1,0 +1,84 @@
+{
+  "key": "workemail",
+  "ko": {
+    "title": "독일 회사 메일함이 무섭지 않은 단어 10",
+    "hook": "독일어 업무 메일, 첫 줄과 마지막 줄만 알아도 절반은 쓴 거예요.",
+    "intro": [
+      "월요일 아침, 메일함에 독일어 메일이 잔뜩 쌓여 있어요. 첨부 파일을 확인하라는 건지, 다시 전화하라는 건지 번역기를 돌려 봐도 애매해요. 게다가 답장은 Sehr geehrte로 시작해야 하나, Hallo로 시작해야 하나?",
+      "오늘은 업무 메일과 전화에서 매일 쓰는 단어 10개예요. 이 10개면 메일을 읽고, 답장하고, 전달하고, 전화로 연락까지 할 수 있어요. 📧"
+    ],
+    "words": {
+      "A1-463": {"pron": "이메일", "tip": "영어 그대로예요 📧 독일어 발음도 거의 ‘이메일’!", "warn": "보통 die E-Mail이에요. 남부 독일과 오스트리아에서는 das도 써요."},
+      "A2-425": {"pron": "베안트보르텐", "tip": "be- + antworten(대답하다) = 질문을 바로 목적어로! ↩️", "bonus": "같은 뜻 다른 구조: auf eine E-Mail antworten = eine E-Mail beantworten"},
+      "B2-1012": {"pron": "안항", "tip": "an(~에) + hängen(걸다) = 메일 끝에 대롱대롱 매달린 파일 📎", "bonus": "메일 단골 문장: Im Anhang finden Sie den Vertrag."},
+      "B1-1801": {"pron": "바이터라이텐", "tip": "weiter(더 멀리) + leiten(이끌다) = 메일을 다음 사람에게 넘기기 ➡️", "warn": "분리동사예요: Ich leite die Mail weiter."},
+      "A2-472": {"pron": "제어 게에르테", "tip": "ehren(존경하다)에서 온 말 🎩 ‘매우 존경하는 ~님께’ 느낌이에요.", "warn": "남자에게는 r이 붙어요: Sehr geehrter Herr Müller · Sehr geehrte Frau Weber"},
+      "A2-234": {"pron": "그루스", "tip": "영어 greet와 친척이에요 👋 메일 끝 인사는 언제나 Grüße!", "bonus": "격식: Mit freundlichen Grüßen · 동료끼리: Viele Grüße / Beste Grüße"},
+      "B1-203": {"pron": "안루프", "tip": "an(~에게) + Ruf(부름) = 누군가를 전화로 부르기 📞", "bonus": "부재중 전화 = der verpasste Anruf"},
+      "A2-823": {"pron": "추뤼크루펜", "tip": "zurück(다시, 뒤로) + rufen(부르다) = 전화 되걸기 🔁", "warn": "분리동사예요: Ich rufe Sie gleich zurück."},
+      "B1-069": {"pron": "에어라이헨", "tip": "영어 reach와 쌍둥이 🙌 전화로 닿으면 erreichen!", "bonus": "Wie kann ich Sie erreichen? = 어떻게 연락드리면 될까요?"},
+      "B1-506": {"pron": "베샤이트 게벤", "tip": "Bescheid(알림, 답)를 주다 = 알려 주다 💬 Sag mir Bescheid! = 알려 줘!", "bonus": "Ich gebe Ihnen Bescheid. = 결과 나오면 알려 드릴게요."}
+    },
+    "culture": [
+      "독일 업무 메일은 처음 연락하는 상대라면 Sehr geehrte Frau …, / Sehr geehrter Herr …,로 시작하고 Mit freundlichen Grüßen으로 끝내는 게 기본이에요. 그런데 이미 아는 동료끼리는 Hallo로 시작하고 Viele Grüße로 끝내는 경우도 많아요. 회사 분위기에 따라 달라요.",
+      "작은 팁 하나! 인사말 뒤에 쉼표를 찍으면 다음 줄 본문은 소문자로 시작해요. 명사라면 원래대로 대문자고요.",
+      "전화를 받을 때 독일 사람들은 “여보세요” 대신 자기 성이나 회사 이름을 먼저 말하는 경우가 많아요. “Weber, guten Tag!” 이런 식이요. 📞"
+    ],
+    "quiz": {"q": "처음 연락하는 회사에 문의 메일을 써요. 담당자 이름을 몰라요. 어떻게 시작할까요?", "o": ["Sehr geehrte Damen und Herren,", "Hallo zusammen,", "Viele Grüße,"], "a": 0, "why": "받는 사람을 모를 때 격식 메일은 Sehr geehrte Damen und Herren,으로 시작해요."},
+    "outro": "오늘 쓰는 메일 하나를 독일어 인사말로 시작하고 끝내 봐요. 전화 끝에는 Ich gebe Ihnen Bescheid! 한마디도 잊지 말고요. 📧"
+  },
+  "en": {
+    "title": "Inbox German: 10 words for work emails and calls",
+    "hook": "Know how a German work email starts and ends, and you've already written half of it.",
+    "intro": [
+      "Monday morning, and your inbox is full of German emails. Is this one asking you to check an attachment, or to call someone back? Even the translator isn't sure. And should your reply start with Sehr geehrte or just Hallo?",
+      "Today's ten words come up every day in work emails and phone calls. With them you can read, reply, forward and get hold of people by phone. 📧"
+    ],
+    "words": {
+      "A1-463": {"pron": "EE-mail", "tip": "Borrowed straight from English 📧 and said almost the same way.", "warn": "Usually die E-Mail; in southern Germany and Austria das is also used."},
+      "A2-425": {"pron": "be-ANT-vor-ten", "tip": "be- + antworten (answer) = the question becomes a direct object ↩️", "bonus": "Same meaning, different build: auf eine E-Mail antworten = eine E-Mail beantworten"},
+      "B2-1012": {"pron": "AN-hang", "tip": "an (on) + hängen (hang) = the file hanging off the end of your email 📎", "bonus": "Classic email line: Im Anhang finden Sie den Vertrag."},
+      "B1-1801": {"pron": "VY-ter-ly-ten", "tip": "weiter (further) + leiten (lead) = send it on to the next person ➡️", "warn": "Separable: Ich leite die Mail weiter."},
+      "A2-472": {"pron": "zair ge-AIR-tuh", "tip": "From ehren, to honour 🎩 Literally ‘very honoured’.", "warn": "Add an r for men: Sehr geehrter Herr Müller · Sehr geehrte Frau Weber"},
+      "A2-234": {"pron": "GROOSS", "tip": "A relative of English greet 👋 Emails always end with Grüße.", "bonus": "Formal: Mit freundlichen Grüßen · colleagues: Viele Grüße / Beste Grüße"},
+      "B1-203": {"pron": "AN-roof", "tip": "an (to) + Ruf (call) = calling out to someone by phone 📞", "bonus": "missed call = der verpasste Anruf"},
+      "A2-823": {"pron": "tsoo-RUECK-roo-fen", "tip": "zurück (back) + rufen (call) = call back 🔁", "warn": "Separable: Ich rufe Sie gleich zurück."},
+      "B1-069": {"pron": "air-RY-khen", "tip": "Twin of English reach 🙌 If you reach someone by phone, you erreichen them.", "bonus": "Wie kann ich Sie erreichen? = How can I contact you?"},
+      "B1-506": {"pron": "be-SHYTE GAY-ben", "tip": "Give a Bescheid (notice) = let someone know 💬 Sag mir Bescheid! = Let me know!", "bonus": "Ich gebe Ihnen Bescheid. = I'll let you know."}
+    },
+    "culture": [
+      "A first email to someone you don't know usually starts with Sehr geehrte Frau …, / Sehr geehrter Herr …, and ends with Mit freundlichen Grüßen. Between colleagues who know each other, Hallo and Viele Grüße are very common. It depends a lot on the company.",
+      "A small tip: if you put a comma after the greeting, the next line starts with a lower-case letter — unless it's a noun, which keeps its capital.",
+      "When Germans answer the phone, many say their surname or the company name instead of ‘hello’: ‘Weber, guten Tag!’ 📞"
+    ],
+    "quiz": {"q": "You're writing to a company for the first time and don't know the contact's name. How do you start?", "o": ["Sehr geehrte Damen und Herren,", "Hallo zusammen,", "Viele Grüße,"], "a": 0, "why": "For a formal email to an unknown recipient, start with Sehr geehrte Damen und Herren,."},
+    "outro": "Start and end one of today's emails with a German greeting. And finish your next call with Ich gebe Ihnen Bescheid! 📧"
+  },
+  "ja": {
+    "title": "ドイツの仕事メールと電話に強くなる単語10",
+    "hook": "ドイツ語の仕事メールは、書き出しと結びがわかれば半分書けたも同然です。",
+    "intro": [
+      "月曜の朝、受信トレイにドイツ語のメールがずらり。添付ファイルを見てほしいのか、折り返し電話がほしいのか、翻訳ツールでもいまいちわかりません。しかも返信は Sehr geehrte で始める？それとも Hallo？",
+      "今日は仕事のメールと電話で毎日使う単語を10個集めました。メールを読む、返信する、転送する、電話で連絡をとる。この10個でぐっと楽になります。📧"
+    ],
+    "words": {
+      "A1-463": {"pron": "イーメール", "tip": "英語からそのまま 📧 発音もほぼ同じです。", "warn": "ふつうは die E-Mail。南ドイツやオーストリアでは das も使います。"},
+      "A2-425": {"pron": "ベアントヴォルテン", "tip": "be- + antworten（答える）= 質問をそのまま目的語に ↩️", "bonus": "同じ意味で形が違う：auf eine E-Mail antworten = eine E-Mail beantworten"},
+      "B2-1012": {"pron": "アンハング", "tip": "an（〜に）+ hängen（掛ける）= メールの最後にぶら下がったファイル 📎", "bonus": "メールの定番：Im Anhang finden Sie den Vertrag."},
+      "B1-1801": {"pron": "ヴァイターライテン", "tip": "weiter（先へ）+ leiten（導く）= 次の人へ回す ➡️", "warn": "分離動詞です：Ich leite die Mail weiter."},
+      "A2-472": {"pron": "ゼーア ゲエーアテ", "tip": "ehren（敬う）から 🎩「たいへん尊敬する〜様」という感じです。", "warn": "男性には r がつきます：Sehr geehrter Herr Müller · Sehr geehrte Frau Weber"},
+      "A2-234": {"pron": "グルース", "tip": "英語の greet の親戚 👋 メールの結びはいつも Grüße！", "bonus": "改まった場合：Mit freundlichen Grüßen · 同僚どうし：Viele Grüße / Beste Grüße"},
+      "B1-203": {"pron": "アンルーフ", "tip": "an（〜へ）+ Ruf（呼び声）= 電話で人を呼ぶこと 📞", "bonus": "不在着信 = der verpasste Anruf"},
+      "A2-823": {"pron": "ツリュックルーフェン", "tip": "zurück（戻して）+ rufen（呼ぶ）= 折り返し電話する 🔁", "warn": "分離動詞です：Ich rufe Sie gleich zurück."},
+      "B1-069": {"pron": "エアライヒェン", "tip": "英語の reach とふたご 🙌 電話で相手に届けば erreichen！", "bonus": "Wie kann ich Sie erreichen? = どうやってご連絡すればいいですか？"},
+      "B1-506": {"pron": "ベシャイト ゲーベン", "tip": "Bescheid（知らせ）を与える = 知らせる 💬 Sag mir Bescheid! = 知らせてね！", "bonus": "Ich gebe Ihnen Bescheid. = 決まったらお知らせします。"}
+    },
+    "culture": [
+      "初めて連絡する相手には Sehr geehrte Frau …, / Sehr geehrter Herr …, で始め、Mit freundlichen Grüßen で結ぶのが基本です。ただ、すでに知っている同僚どうしなら Hallo で始めて Viele Grüße で終えることもよくあります。会社の雰囲気によって違います。",
+      "小さなコツをひとつ。書き出しのあとにカンマを打ったら、次の行の本文は小文字で始めます。名詞ならもちろん大文字のままです。",
+      "電話に出るとき、ドイツ人は「もしもし」ではなく、自分の名字や会社名を名乗ることが多いです。「Weber, guten Tag!」のように。📞"
+    ],
+    "quiz": {"q": "初めての会社に問い合わせメールを書きます。担当者の名前はわかりません。どう書き始めますか？", "o": ["Sehr geehrte Damen und Herren,", "Hallo zusammen,", "Viele Grüße,"], "a": 0, "why": "宛先の人がわからない改まったメールは Sehr geehrte Damen und Herren, で始めます。"},
+    "outro": "今日のメールをひとつ、ドイツ語のあいさつで始めて結んでみましょう。電話の最後には Ich gebe Ihnen Bescheid! もお忘れなく。📧"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "preptime",
+  "ko": {
+    "title": "약속 시간 안 헷갈리는 시간 전치사 10",
+    "hook": "um, seit, ab, bis… 작은 단어 하나 틀리면 약속 시간이 통째로 어긋나요.",
+    "intro": [
+      "독일 친구가 “Wir treffen uns gegen acht.”라고 보냈어요. 8시 정각? 아니면 8시쯤? 병원에서는 “Bitte melden Sie sich innerhalb einer Woche.”라는데 일주일 뒤에 하라는 걸까요, 일주일 안에 하라는 걸까요?",
+      "오늘은 시간을 말할 때 꼭 필요한 작은 전치사 10개예요. 짧지만 이것만 확실히 알면 약속, 영업시간, 마감일까지 헷갈릴 일이 확 줄어요. ⏳"
+    ],
+    "words": {
+      "A1-564": {"pron": "움", "tip": "시계 바늘이 ‘움’ 하고 딱 멈추는 정각 ⏰ um 8 Uhr = 8시 정각!", "bonus": "대략적인 시간은 gegen: gegen 8 Uhr = 8시쯤"},
+      "A1-552": {"pron": "자이트", "tip": "영어 since와 같은 뿌리 📅 과거에 시작해서 지금도 계속!", "warn": "독일어는 현재형을 써요: Ich lerne seit einem Jahr Deutsch. (완료형 아님!)"},
+      "A1-438": {"pron": "비스", "tip": "‘비스듬히’ 끝까지 쭉 ~까지 🏁 작별 인사에도 쓰여요!", "bonus": "Bis morgen! / Bis später! / Bis bald! = 내일 봐 / 이따 봐 / 또 봐"},
+      "A1-570": {"pron": "포어", "tip": "영어 before의 fore 🔙 시간에선 ‘~ 전에’", "warn": "‘~ 전’은 vor + 3격을 앞에 둬요: vor einer Woche = 일주일 전. 영어 ago처럼 뒤에 붙지 않아요!"},
+      "A1-525": {"pron": "나흐", "tip": "‘나중에’의 ‘나’로 시작하는 nach 🔜 nach dem Essen = 밥 먹은 후에", "bonus": "도시·나라로 갈 때도 nach: nach Berlin fahren"},
+      "A1-401": {"pron": "압", "tip": "영어 off처럼 ‘여기서 출발!’ 🚀 ab Montag = 월요일부터 쭉", "bonus": "ab und zu = 가끔"},
+      "A2-092": {"pron": "배렌트", "tip": "währen(지속되다)에서 왔어요 ⌛ 쭉 이어지는 ‘~ 동안’", "warn": "표준어에선 2격: während des Urlaubs. 말할 때는 3격도 자주 들려요."},
+      "A1-569": {"pron": "폰", "tip": "von A bis B, 시작점은 von 🟢 von 9 bis 17 Uhr = 9시부터 5시까지"},
+      "BL-08-10": {"pron": "게겐", "tip": "‘게~겐’ 하고 늘어지는 대략적인 시간 🕗 gegen acht = 8시쯤", "bonus": "약국에서는 ‘~에 듣는’: etwas gegen Kopfschmerzen"},
+      "B1-804": {"pron": "이너할프", "tip": "inner(안쪽) + halb(쪽) = 기간 ‘안쪽’ 📦 innerhalb einer Woche = 일주일 이내", "warn": "2격을 써요: innerhalb eines Monats."}
+    },
+    "culture": [
+      "독일에서는 약속 시간을 잘 지키는 게(pünktlich) 아주 중요하게 여겨져요. 병원 예약이나 면접에는 몇 분 일찍 가는 게 보통이에요. 늦을 것 같으면 미리 메시지 한 통 보내는 게 매너예요.",
+      "시간 말할 때 제일 많이 헷갈리는 함정! halb acht는 8시 반이 아니라 7시 반이에요. ‘8시까지 절반 남았다’는 뜻이거든요.",
+      "많은 대학에서는 수업 시간 옆에 c.t.라고 쓰여 있으면 15분 늦게 시작한다는 뜻이에요. 이걸 akademisches Viertel이라고 해요. 단, 학교와 수업마다 다를 수 있어요. 🎓"
+    ],
+    "quiz": {"q": "베를린에 2년째 살고 있어요. 독일어로 맞는 문장은?", "o": ["Ich wohne seit zwei Jahren in Berlin.", "Ich wohne vor zwei Jahren in Berlin.", "Ich wohne bis zwei Jahren in Berlin."], "a": 0, "why": "과거부터 지금까지 계속되는 일은 seit + 3격 + 현재형으로 말해요."},
+    "outro": "오늘 하루 일정을 “Um 9 Uhr…, ab 12 Uhr…, bis 18 Uhr…”처럼 독일어로 소리 내 말해 봐요. ⏰"
+  },
+  "en": {
+    "title": "Never miss a meeting: 10 time prepositions",
+    "hook": "um, seit, ab, bis — get one tiny word wrong and you're at the wrong place at the wrong time.",
+    "intro": [
+      "A German friend texts: “Wir treffen uns gegen acht.” Is that eight sharp or around eight? A letter says “Bitte melden Sie sich innerhalb einer Woche.” — in a week, or within a week?",
+      "Today's ten words are the little prepositions you need for talking about time. They're short, but once you've got them, appointments, opening hours and deadlines get much less confusing. ⏳"
+    ],
+    "words": {
+      "A1-564": {"pron": "OOM", "tip": "um = on the dot ⏰ um 8 Uhr = at eight o'clock sharp.", "bonus": "For ‘around’, use gegen: gegen 8 Uhr = about eight"},
+      "A1-552": {"pron": "ZITE", "tip": "Same root as since 📅 Started in the past, still going.", "warn": "German uses the present tense: Ich lerne seit einem Jahr Deutsch. = I've been learning German for a year."},
+      "A1-438": {"pron": "BISS", "tip": "bis = until — and a handy way to say goodbye 🏁", "bonus": "Bis morgen! / Bis später! / Bis bald! = See you tomorrow / later / soon!"},
+      "A1-570": {"pron": "FOR", "tip": "Like fore in before 🔙 With time it means ‘before’ or ‘ago’.", "warn": "‘Ago’ comes first, with the dative: vor einer Woche = a week ago. Not after, like English."},
+      "A1-525": {"pron": "NAHKH", "tip": "nach = next, after 🔜 nach dem Essen = after the meal", "bonus": "Also for travelling to cities and countries: nach Berlin fahren"},
+      "A1-401": {"pron": "AP", "tip": "Like off — and we're off from this point! 🚀 ab Montag = from Monday on", "bonus": "ab und zu = now and then"},
+      "A2-092": {"pron": "VAIR-ent", "tip": "From währen (to last) ⌛ for the whole time something lasts", "warn": "Standard German uses the genitive: während des Urlaubs. You'll often hear the dative in speech."},
+      "A1-569": {"pron": "FON", "tip": "von A bis B: von marks the start 🟢 von 9 bis 17 Uhr = from 9 to 5"},
+      "BL-08-10": {"pron": "GAY-gen", "tip": "gegen = give or take a few minutes 🕗 gegen acht = around eight", "bonus": "At the pharmacy it means ‘for’: etwas gegen Kopfschmerzen"},
+      "B1-804": {"pron": "IN-er-halp", "tip": "inner + halb (side) = on the inside of a time span 📦 innerhalb einer Woche = within a week", "warn": "Takes the genitive: innerhalb eines Monats."}
+    },
+    "culture": [
+      "Being on time (pünktlich) matters a lot in Germany. People usually arrive a few minutes early for appointments and interviews, and if you're running late, it's polite to send a message.",
+      "The biggest time trap: halb acht is half past seven, not half past eight. It means ‘half way to eight’.",
+      "At many universities, c.t. next to a class time means it starts fifteen minutes later — the akademisches Viertel. It can differ between universities and courses, though. 🎓"
+    ],
+    "quiz": {"q": "You've lived in Berlin for two years. Which sentence is right?", "o": ["Ich wohne seit zwei Jahren in Berlin.", "Ich wohne vor zwei Jahren in Berlin.", "Ich wohne bis zwei Jahren in Berlin."], "a": 0, "why": "For something that started in the past and is still true, use seit + dative + present tense."},
+    "outro": "Say your plan for today out loud: “Um 9 Uhr…, ab 12 Uhr…, bis 18 Uhr…” ⏰"
+  },
+  "ja": {
+    "title": "待ち合わせで迷わない時の前置詞10",
+    "hook": "um、seit、ab、bis…小さな単語ひとつで、約束の時間がまるごとずれてしまいます。",
+    "intro": [
+      "ドイツ人の友だちから「Wir treffen uns gegen acht.」とメッセージ。8時ちょうど？それとも8時ごろ？手紙には「Bitte melden Sie sich innerhalb einer Woche.」。1週間後に？それとも1週間以内に？",
+      "今日は時間を言うのに欠かせない小さな前置詞10個です。短いけれど、これをしっかり押さえれば、待ち合わせも営業時間も締め切りも迷わなくなりますよ。⏳"
+    ],
+    "words": {
+      "A1-564": {"pron": "ウム", "tip": "時計の針が「ウム」とぴたり止まる、ちょうどの時刻 ⏰ um 8 Uhr = 8時ちょうど！", "bonus": "「〜ごろ」は gegen：gegen 8 Uhr = 8時ごろ"},
+      "A1-552": {"pron": "ザイト", "tip": "英語の since と同じ語源 📅 過去に始まって今も続いている！", "warn": "ドイツ語では現在形を使います：Ich lerne seit einem Jahr Deutsch.（完了形ではありません！）"},
+      "A1-438": {"pron": "ビス", "tip": "「〜まで」の bis、別れのあいさつにも大活躍 🏁", "bonus": "Bis morgen! / Bis später! / Bis bald! = また明日／また後で／またね"},
+      "A1-570": {"pron": "フォーア", "tip": "英語 before の fore 🔙 時間では「〜前に」", "warn": "「〜前」は vor + 3格を前に置きます：vor einer Woche = 1週間前。英語の ago のように後ろには付きません！"},
+      "A1-525": {"pron": "ナーハ", "tip": "「〜のあと」は nach 🔜 nach dem Essen = 食事のあとで", "bonus": "都市・国へ行くときも nach：nach Berlin fahren"},
+      "A1-401": {"pron": "アプ", "tip": "英語の off のように「ここからスタート！」🚀 ab Montag = 月曜日から", "bonus": "ab und zu = 時々"},
+      "A2-092": {"pron": "ヴェーレント", "tip": "währen（続く）から ⌛ ずっと続いている「〜の間」", "warn": "標準語では2格：während des Urlaubs。会話では3格もよく聞きます。"},
+      "A1-569": {"pron": "フォン", "tip": "von A bis B、スタート地点は von 🟢 von 9 bis 17 Uhr = 9時から17時まで"},
+      "BL-08-10": {"pron": "ゲーゲン", "tip": "「ゲーゲン」とゆるく伸びる、だいたいの時間 🕗 gegen acht = 8時ごろ", "bonus": "薬局では「〜に効く」：etwas gegen Kopfschmerzen"},
+      "B1-804": {"pron": "インナーハルプ", "tip": "inner（内側）+ halb（側）= 期間の内側 📦 innerhalb einer Woche = 1週間以内に", "warn": "2格を使います：innerhalb eines Monats."}
+    },
+    "culture": [
+      "ドイツでは時間を守ること（pünktlich）がとても大切にされます。病院の予約や面接には数分早めに着くのがふつうです。遅れそうなときは、前もってひとことメッセージを送るのがマナーです。",
+      "時刻でいちばん間違えやすいワナ！halb acht は8時半ではなく7時半です。「8時まであと半分」という意味なんです。",
+      "多くの大学では、授業時間の横に c.t. と書いてあれば15分遅れて始まるという意味です。これを akademisches Viertel と言います。ただし大学や授業によって違うこともあります。🎓"
+    ],
+    "quiz": {"q": "ベルリンに住んで2年になります。正しい文はどれ？", "o": ["Ich wohne seit zwei Jahren in Berlin.", "Ich wohne vor zwei Jahren in Berlin.", "Ich wohne bis zwei Jahren in Berlin."], "a": 0, "why": "過去から今まで続いていることは seit + 3格 + 現在形で言います。"},
+    "outro": "今日の予定を「Um 9 Uhr…, ab 12 Uhr…, bis 18 Uhr…」のようにドイツ語で声に出してみましょう。⏰"
+  }
+}

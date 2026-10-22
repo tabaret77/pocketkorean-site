@@ -1,0 +1,84 @@
+{
+  "key": "university",
+  "ko": {
+    "title": "독일 대학 첫 학기 생존 단어 10",
+    "hook": "독일 대학에서는 강의가 8시 정각이 아니라 8시 15분에 시작하기도 해요. 왜 그런지 궁금하죠?",
+    "intro": [
+      "합격 메일을 받고 두근두근 독일 대학에 도착했어요. 그런데 등록은 어디서 하는지, 강의실은 어디인지, 점심은 어디서 먹는지 전부 독일어로만 적혀 있네요.",
+      "오늘은 대학 생활에서 매일 듣게 될 단어 10개를 모았어요. 이 10개면 등록부터 강의, 학생 식당까지 첫 학기를 무사히 시작할 수 있어요. 교환학생이나 유학을 꿈꾸는 분들도 미리 챙겨 가요! 🎓"
+    ],
+    "words": {
+      "A2-613": {"pron": "우니베어지테트", "tip": "라틴어 universitas(공동체)에서 왔어요 🏛️ 줄여서 그냥 die Uni라고 해요!", "bonus": "전치사는 an: an der Uni studieren = 대학에 다니다"},
+      "A1-277": {"pron": "슈투덴트", "tip": "영어 student와 똑같은데 st를 ‘슈트’로 읽기만 하면 돼요 🎒", "warn": "약변화 명사라서 4격·3격도 den/dem Studenten이에요."},
+      "A1-314": {"pron": "슈투디어렌", "tip": "대학에서 전공하는 건 studieren, 시험 공부는 lernen 📚 둘을 헷갈리면 안 돼요!", "bonus": "Was studierst du? = 너 전공이 뭐야?"},
+      "A2-270": {"pron": "슈투디움", "tip": "studieren의 명사형 🎓 -um으로 끝나는 라틴어 단어는 대부분 das!", "bonus": "nach dem Studium = 졸업하고 나서"},
+      "B2-1272": {"pron": "포어레중", "tip": "vor(앞에서) + lesen(읽다) 📖 옛날 교수님은 앞에서 책을 읽어 줬대요!", "warn": "die Lektüre는 강의가 아니라 ‘읽을거리’예요. 영어 lecture와 헷갈리지 마요."},
+      "B1-1136": {"pron": "제메스터", "tip": "라틴어로 ‘6개월마다’라는 뜻 🗓️ 1년에 딱 두 번이에요.", "warn": "복수도 die Semester, 모양이 그대로예요.", "bonus": "Ich bin im dritten Semester. = 저 3학기째예요."},
+      "B1-1042": {"pron": "프로페소어", "tip": "단수는 ‘프로페-소어’, 복수는 ‘프로페소-렌’ 👨‍🏫 강세가 뒤로 이사 가요!", "bonus": "여자 교수님은 die Professorin"},
+      "B1-2253": {"pron": "지히 아인슈라이벤", "tip": "ein(안에) + schreiben(쓰다) ✍️ 명부 안에 내 이름을 써넣는 거예요!", "warn": "분리동사예요: Ich schreibe mich ein. / Ich habe mich eingeschrieben."},
+      "B1-944": {"pron": "멘자", "tip": "라틴어 mensa는 ‘식탁’ 🍽️ 대학의 큰 식탁 = 학생 식당!", "bonus": "복수는 die Mensen"},
+      "B2-2901": {"pron": "캄푸스", "tip": "라틴어로 ‘들판’ 🌳 영어를 거쳐 독일어로 왔어요.", "bonus": "auf dem Campus = 캠퍼스에서"}
+    },
+    "culture": [
+      "독일 대학 시간표에서 c.t.를 보면 정각보다 15분 늦게 시작한다는 뜻이에요. ‘학술적 15분(akademisches Viertel)’이라는 오래된 전통이에요. s.t.라고 적혀 있으면 정각 시작이니 조심해요!",
+      "강의가 끝나면 박수 대신 주먹으로 책상을 똑똑 두드리는 학생들을 볼 수 있어요. 교수님께 ‘좋은 강의였어요’ 하고 인사하는 독일식 방법이에요.",
+      "학기는 보통 겨울학기(Wintersemester)와 여름학기(Sommersemester)로 나뉘어요. 매 학기 학생회비(Semesterbeitrag)를 내는데, 학교에 따라 대중교통 학기권(Semesterticket)이 포함되기도 해요. 🚌"
+    ],
+    "quiz": {"q": "친구가 대학에서 무엇을 전공하는지 묻고 싶어요. 어떻게 말할까요?", "o": ["Wann beginnt die Vorlesung?", "Wo ist die Mensa?", "Was studierst du?"], "a": 2, "why": "studieren은 대학에서 전공한다는 뜻이라서 Was studierst du? = 너 뭐 전공해?예요."},
+    "outro": "오늘은 자기소개를 해 봐요. „Ich studiere …, ich bin im … Semester.“ 빈칸을 채워서 소리 내 말해 보면 끝이에요! 📚"
+  },
+  "en": {
+    "title": "Your first semester in Germany, in 10 words",
+    "hook": "At a German university, an eight o'clock lecture might start at quarter past. Want to know why?",
+    "intro": [
+      "You've got your acceptance email and you arrive at a German university, buzzing. But where do you register? Which lecture hall? Where's lunch? Every sign is in German.",
+      "Today's ten words are the ones you'll hear every day at uni. With them you can enrol, follow your timetable and find the canteen — enough to get through your first semester. Great for exchange students too! 🎓"
+    ],
+    "words": {
+      "A2-613": {"pron": "oo-nee-vair-zee-TAIT", "tip": "From Latin universitas, a community 🏛️ Everyone just says die Uni.", "bonus": "The preposition is an: an der Uni studieren = to be at uni"},
+      "A1-277": {"pron": "shtoo-DENT", "tip": "Just like English student — only the st sounds like ‘sht’ 🎒", "warn": "It's a weak noun: den Studenten, dem Studenten."},
+      "A1-314": {"pron": "shtoo-DEE-ren", "tip": "studieren = study a subject at uni; lernen = revise for a test 📚 Don't mix them up!", "bonus": "Was studierst du? = What are you studying?"},
+      "A2-270": {"pron": "SHTOO-dee-oom", "tip": "The noun for studieren 🎓 Latin words ending in -um are usually das.", "bonus": "nach dem Studium = after graduating"},
+      "B2-1272": {"pron": "FOR-lay-zoong", "tip": "vor (in front) + lesen (read) 📖 Professors once read their books aloud to the room.", "warn": "die Lektüre is reading material, not a lecture. False friend alert!"},
+      "B1-1136": {"pron": "zay-MESS-ter", "tip": "Latin for ‘every six months’ 🗓️ Two a year, that's it.", "warn": "The plural is the same: die Semester.", "bonus": "Ich bin im dritten Semester. = I'm in my third semester."},
+      "B1-1042": {"pron": "pro-FESS-or", "tip": "Singular: pro-FESS-or. Plural: pro-fess-OR-en 👨‍🏫 The stress moves house!", "bonus": "A female professor is die Professorin."},
+      "B1-2253": {"pron": "zikh INE-shry-ben", "tip": "ein (in) + schreiben (write) ✍️ You write your name into the register.", "warn": "Separable: Ich schreibe mich ein. / Ich habe mich eingeschrieben."},
+      "B1-944": {"pron": "MEN-za", "tip": "Latin mensa means table 🍽️ The big table at uni = the canteen.", "bonus": "Plural: die Mensen"},
+      "B2-2901": {"pron": "KAM-poos", "tip": "Latin for field 🌳 It came into German via English.", "bonus": "auf dem Campus = on campus"}
+    },
+    "culture": [
+      "If your timetable says c.t., the class starts fifteen minutes after the hour. It's an old tradition called the ‘academic quarter’ (akademisches Viertel). If it says s.t., it starts on the dot — be careful!",
+      "At the end of a lecture, students often knock on their desks with their knuckles instead of clapping. It's the German way of saying ‘thanks, good lecture’.",
+      "The year is usually split into a winter semester (Wintersemester) and a summer semester (Sommersemester). Students pay a fee each semester (Semesterbeitrag), which at many universities includes a public transport pass (Semesterticket). 🚌"
+    ],
+    "quiz": {"q": "You want to ask a new friend what subject they study. What do you say?", "o": ["Wann beginnt die Vorlesung?", "Wo ist die Mensa?", "Was studierst du?"], "a": 2, "why": "studieren means to study a subject at university, so Was studierst du? = What are you studying?"},
+    "outro": "Introduce yourself out loud today: „Ich studiere …, ich bin im … Semester.“ Fill in the gaps and you're done! 📚"
+  },
+  "ja": {
+    "title": "ドイツの大学、最初の学期を乗り切る10語",
+    "hook": "ドイツの大学では、8時の講義が8時15分に始まることがあります。なぜだと思いますか？",
+    "intro": [
+      "合格メールを受け取って、わくわくしながらドイツの大学へ。でも、登録はどこで？講義室はどこ？お昼はどこで食べるの？案内は全部ドイツ語です。",
+      "今日は大学生活で毎日耳にする単語を10個集めました。この10個があれば、登録から講義、学食まで、最初の学期を無事にスタートできます。留学を考えている方もぜひ！🎓"
+    ],
+    "words": {
+      "A2-613": {"pron": "ウニヴェルジテート", "tip": "ラテン語 universitas（共同体）から 🏛️ ふだんは die Uni と略します！", "bonus": "前置詞は an：an der Uni studieren = 大学で学ぶ"},
+      "A1-277": {"pron": "シュトゥデント", "tip": "英語の student と同じ。st を「シュト」と読むだけ 🎒", "warn": "弱変化名詞なので、4格・3格は den/dem Studenten です。"},
+      "A1-314": {"pron": "シュトゥディーレン", "tip": "大学で専攻するのが studieren、試験勉強は lernen 📚 混ぜないように！", "bonus": "Was studierst du? = 専攻は何？"},
+      "A2-270": {"pron": "シュトゥーディウム", "tip": "studieren の名詞形 🎓 -um で終わるラテン語由来の名詞はたいてい das！", "bonus": "nach dem Studium = 大学を出たあとで"},
+      "B2-1272": {"pron": "フォーアレーズング", "tip": "vor（前で）+ lesen（読む）📖 昔の教授は前で本を読み上げていたそう！", "warn": "die Lektüre は講義ではなく「読み物」です。英語の lecture と混同しないで。"},
+      "B1-1136": {"pron": "ゼメスター", "tip": "ラテン語で「6か月ごとの」🗓️ 1年に2回です。", "warn": "複数形も die Semester で形は同じです。", "bonus": "Ich bin im dritten Semester. = 今3学期目です。"},
+      "B1-1042": {"pron": "プロフェッソア", "tip": "単数は「プロフェッ・ソア」、複数は「プロフェソー・レン」👨‍🏫 アクセントがお引っ越し！", "bonus": "女性の教授は die Professorin"},
+      "B1-2253": {"pron": "ズィヒ アインシュライベン", "tip": "ein（中へ）+ schreiben（書く）✍️ 名簿に自分の名前を書き込むイメージ！", "warn": "分離動詞です：Ich schreibe mich ein. / Ich habe mich eingeschrieben."},
+      "B1-944": {"pron": "メンザ", "tip": "ラテン語 mensa は「食卓」🍽️ 大学の大きな食卓 = 学食！", "bonus": "複数形は die Mensen"},
+      "B2-2901": {"pron": "カンプス", "tip": "ラテン語で「野原」🌳 英語を経由してドイツ語に入りました。", "bonus": "auf dem Campus = キャンパスで"}
+    },
+    "culture": [
+      "時間割に c.t. とあれば、ちょうどの時刻より15分遅れて始まるという意味です。「アカデミックな15分（akademisches Viertel）」という古い伝統です。s.t. とあれば時間ぴったりに始まるので要注意！",
+      "講義が終わると、拍手の代わりにこぶしで机をコンコンとたたく学生がいます。教授に「いい講義でした」と伝えるドイツ流のあいさつです。",
+      "学期はふつう冬学期（Wintersemester）と夏学期（Sommersemester）に分かれています。毎学期、学期納付金（Semesterbeitrag）を払いますが、大学によっては公共交通の学期パス（Semesterticket）が含まれることもあります。🚌"
+    ],
+    "quiz": {"q": "新しい友だちに大学の専攻を聞きたいです。何と言いますか？", "o": ["Wann beginnt die Vorlesung?", "Wo ist die Mensa?", "Was studierst du?"], "a": 2, "why": "studieren は大学で専攻するという意味なので、Was studierst du? = 何を専攻しているの？です。"},
+    "outro": "今日は自己紹介を声に出してみましょう。「Ich studiere …, ich bin im … Semester.」空欄を埋めて言えば完成です！📚"
+  }
+}

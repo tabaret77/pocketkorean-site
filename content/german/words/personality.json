@@ -1,0 +1,84 @@
+{
+  "key": "personality",
+  "ko": {
+    "title": "“어떤 사람이야?”에 답하는 성격 단어 10",
+    "hook": "새로 사귄 독일 친구를 소개할 때 ‘nett’ 하나로 버티고 있다면, 오늘 단어로 표현을 늘려 봐요.",
+    "intro": [
+      "어학원에서 새 친구를 사귀었어요. 다른 친구가 ‘Wie ist sie denn so?’ 하고 묻는데, 머릿속에 떠오르는 단어는 nett뿐이에요. 부지런하고, 좀 수줍고, 엄청 웃긴 친구인데 말이죠.",
+      "오늘은 사람의 성격을 말하는 단어 10개를 모았어요. 친구 소개, 자기소개, 면접에서 ‘저는 어떤 사람이에요’라고 말할 때 바로 쓸 수 있어요. 🧠"
+    ],
+    "words": {
+      "B1-1888": {"pron": "카락터", "tip": "Ch를 ‘ㅋ’으로 읽어요 🎭 영어 character처럼 ‘카-락-터’!", "warn": "복수는 강세가 바뀌어요: die Charaktere(카락테레)."},
+      "A1-361": {"pron": "넷", "tip": "영어 neat(깔끔한)에서 왔어요 😊 짧고 깔끔하게 ‘넷!’", "bonus": "Das ist nett von Ihnen! = 친절하시네요, 감사해요!"},
+      "A2-184": {"pron": "프로인틀리히", "tip": "Freund(친구) + -lich = 친구 같은 🤝 가게 점원에게 딱 맞는 칭찬!", "bonus": "반대말: unfreundlich = 불친절한"},
+      "A2-370": {"pron": "루스티히", "tip": "Lust(즐거움) + -ig = 즐거움이 가득한 😂", "warn": "영어 lusty와 상관없어요. lustig는 그냥 ‘웃긴, 재밌는’이에요."},
+      "A2-079": {"pron": "에얼리히", "tip": "Ehre(명예) + -lich = 명예로운 사람은 거짓말을 안 해요 🙋", "bonus": "Ehrlich gesagt, … = 솔직히 말하면, …"},
+      "B1-375": {"pron": "플라이시히", "tip": "‘플라이~’ 날아다니듯 바쁜 꿀벌을 떠올려 봐요 🐝", "bonus": "반대말은 바로 다음 단어 faul!"},
+      "B1-374": {"pron": "파울", "tip": "축구에서 ‘파울’ 하면 반칙이지만, 독일어 faul은 소파에 누운 게으름뱅이 🛋️", "bonus": "과일이 썩었을 때도 써요: Der Apfel ist faul."},
+      "B1-1645": {"pron": "쉬히턴", "tip": "쉿! 조용히 숨고 싶은 수줍은 사람 🙈", "bonus": "비슷한 말: zurückhaltend = 조심스러운, 내성적인"},
+      "B1-188": {"pron": "게둘디히", "tip": "Geduld(인내) + -ig 🐢 ‘Geduld, Geduld!’ 하고 기다리는 사람이에요.", "bonus": "반대말: ungeduldig = 참을성 없는"},
+      "B2-381": {"pron": "그로스취기히", "tip": "groß(큰) + Zug(성향) = 마음 씀씀이가 큰 🎁", "bonus": "반대말: geizig = 인색한, 짠돌이"}
+    },
+    "culture": [
+      "독일에서는 솔직함(Ehrlichkeit)을 아주 중요하게 생각하는 편이에요. ‘그 옷 별로야’ 같은 말을 돌려 말하지 않는 사람도 많은데, 무례해서가 아니라 진심으로 도와주려는 거라고 여기는 경우가 많아요.",
+      "재미있는 건 nett의 미묘한 느낌이에요. 친구가 소개팅 상대를 두고 ‘Er ist ganz nett.’라고만 하면, 나쁘진 않지만 엄청 좋지도 않았다는 뜻일 때가 많아요. 말투와 표정을 같이 봐야 해요.",
+      "그리고 독일 사람이 처음엔 좀 차갑게 느껴져도 너무 실망하지 마세요. 친해지는 데 시간이 걸릴 뿐, 한번 친구가 되면 오래 가는 경우가 많다고들 해요. 🤝"
+    ],
+    "quiz": {"q": "친구가 모두의 저녁값을 한 번에 계산했어요. 뭐라고 말할까요?", "o": ["Du bist so großzügig!", "Du bist so faul!", "Du bist so schüchtern!"], "a": 0, "why": "großzügig = 너그러운, 후한. 아낌없이 베푸는 사람에게 하는 말이에요."},
+    "outro": "오늘 단어 중 세 개를 골라 ‘Ich bin … und …, aber manchmal ein bisschen …’으로 자기소개를 소리 내서 해 봐요. 😄"
+  },
+  "en": {
+    "title": "Beyond ‘nett’: 10 German words for personality",
+    "hook": "If ‘nett’ is the only word you use to describe people, today is your upgrade.",
+    "intro": [
+      "You've made a new friend at your language school. Someone asks, ‘Wie ist sie denn so?’ — what's she like? — and all you can think of is nett. But she's hard-working, a bit shy and really funny.",
+      "Today's ten words describe personality. Use them to introduce friends, talk about yourself, or answer that classic job interview question about what kind of person you are. 🧠"
+    ],
+    "words": {
+      "B1-1888": {"pron": "ka-RAK-ter", "tip": "The Ch sounds like K 🎭 Just like English character.", "warn": "The stress moves in the plural: die Charaktere (ka-rak-TAIR-uh)."},
+      "A1-361": {"pron": "NET", "tip": "From the same root as English neat 😊 Short, neat and kind.", "bonus": "Das ist nett von Ihnen! = That's kind of you!"},
+      "A2-184": {"pron": "FROYNT-likh", "tip": "Freund (friend) + -lich = friend-like 🤝 The perfect word for helpful shop staff.", "bonus": "The opposite: unfreundlich = unfriendly"},
+      "A2-370": {"pron": "LOOS-tikh", "tip": "Lust (fun, pleasure) + -ig = full of fun 😂", "warn": "False friend: lustig = funny, not ‘lusty’."},
+      "A2-079": {"pron": "AIR-likh", "tip": "Ehre (honour) + -lich = honourable, so honest 🙋", "bonus": "Ehrlich gesagt, … = To be honest, …"},
+      "B1-375": {"pron": "FLY-sikh", "tip": "Picture a busy bee flying around: FLY-sikh 🐝", "bonus": "Its opposite is the next word: faul."},
+      "B1-374": {"pron": "FOWL", "tip": "Sounds like foul — same root! A lazy person lying on the sofa 🛋️", "bonus": "It also means rotten: Der Apfel ist faul."},
+      "B1-1645": {"pron": "SHÜKH-tern", "tip": "Shh… the shy person wants to stay quiet 🙈", "bonus": "Similar: zurückhaltend = reserved"},
+      "B1-188": {"pron": "guh-DOOL-dikh", "tip": "Geduld (patience) + -ig 🐢 Slow and steady.", "bonus": "The opposite: ungeduldig = impatient"},
+      "B2-381": {"pron": "GROHS-tsü-gikh", "tip": "groß (big) + Zug (trait) = big-hearted 🎁", "bonus": "The opposite: geizig = stingy"}
+    },
+    "culture": [
+      "Honesty (Ehrlichkeit) is highly valued in Germany. Many people will tell you straight out that your idea or your outfit doesn't work. It's usually meant as help, not as rudeness.",
+      "Watch out for nett, though. If a friend says of a date, ‘Er ist ganz nett,’ it often means he was fine — but nothing special. Listen to the tone as much as the word.",
+      "And if Germans seem a little reserved at first, don't be discouraged. Friendships often take time to build, but people say they tend to last once they do. 🤝"
+    ],
+    "quiz": {"q": "Your friend has just paid for everyone's dinner. What do you say?", "o": ["Du bist so großzügig!", "Du bist so faul!", "Du bist so schüchtern!"], "a": 0, "why": "großzügig = generous, which is exactly what your friend was."},
+    "outro": "Pick three words from today and describe yourself out loud: ‘Ich bin … und …, aber manchmal ein bisschen …’ 😄"
+  },
+  "ja": {
+    "title": "「どんな人？」に答える性格のドイツ語10",
+    "hook": "新しいドイツの友だちを nett のひとことで紹介しているなら、今日で表現を増やしましょう。",
+    "intro": [
+      "語学学校で新しい友だちができました。別の友だちに「Wie ist sie denn so?（どんな人？）」と聞かれても、浮かぶのは nett だけ。本当はまじめで、ちょっと恥ずかしがり屋で、すごくおもしろい人なのに。",
+      "今日は人の性格を表す単語を10個集めました。友だちの紹介や自己紹介、面接で「私はこういう人です」と言うときにすぐ使えます。🧠"
+    ],
+    "words": {
+      "B1-1888": {"pron": "カラクター", "tip": "Ch は「カ」と読みます 🎭 英語の character と同じです。", "warn": "複数形はアクセントが移ります：die Charaktere（カラクテーレ）。"},
+      "A1-361": {"pron": "ネット", "tip": "英語の neat（きちんとした）と同じ語源 😊 短くすっきり「ネット」！", "bonus": "Das ist nett von Ihnen! = ご親切にありがとうございます！"},
+      "A2-184": {"pron": "フロイントリヒ", "tip": "Freund（友だち）+ -lich = 友だちのような 🤝 お店の人へのほめ言葉にぴったり。", "bonus": "反対は unfreundlich = 不親切な"},
+      "A2-370": {"pron": "ルスティヒ", "tip": "Lust（楽しさ）+ -ig = 楽しさいっぱい 😂", "warn": "英語の lusty とは関係ありません。lustig は「おもしろい、愉快な」です。"},
+      "A2-079": {"pron": "エーアリヒ", "tip": "Ehre（名誉）+ -lich = 名誉を重んじる人はうそをつかない 🙋", "bonus": "Ehrlich gesagt, … = 正直に言うと、…"},
+      "B1-375": {"pron": "フライスィヒ", "tip": "「フライ」＝飛び回る働き者のミツバチを想像して 🐝", "bonus": "反対語は次の単語 faul！"},
+      "B1-374": {"pron": "ファウル", "tip": "サッカーの「ファウル」ではなく、ソファでごろごろする怠け者 🛋️", "bonus": "果物が腐っているときにも使います：Der Apfel ist faul."},
+      "B1-1645": {"pron": "シュヒターン", "tip": "「シーッ」と静かに隠れたい恥ずかしがり屋さん 🙈", "bonus": "似た言葉：zurückhaltend = 控えめな"},
+      "B1-188": {"pron": "ゲドゥルディヒ", "tip": "Geduld（忍耐）+ -ig 🐢 ゆっくりでもあきらめない人です。", "bonus": "反対は ungeduldig = せっかちな"},
+      "B2-381": {"pron": "グロースツューギヒ", "tip": "groß（大きい）+ Zug（性質）= 心が大きい、太っ腹 🎁", "bonus": "反対は geizig = けちな"}
+    },
+    "culture": [
+      "ドイツでは正直さ（Ehrlichkeit）がとても大切にされています。「そのアイデアはいまいち」「その服は似合わない」とはっきり言う人も多いですが、失礼なのではなく、助けたい気持ちからだと考えられることがほとんどです。",
+      "おもしろいのが nett の微妙なニュアンス。友だちがデートの相手について「Er ist ganz nett.」とだけ言ったら、悪くはないけど特別でもなかった、という意味のことがよくあります。言い方や表情もいっしょに見ましょう。",
+      "ドイツの人が最初は少しよそよそしく感じても、がっかりしないでください。仲良くなるのに時間がかかるだけで、一度友だちになると長く続くことが多いと言われます。🤝"
+    ],
+    "quiz": {"q": "友だちが全員の夕食代をまとめて払ってくれました。何と言いますか？", "o": ["Du bist so großzügig!", "Du bist so faul!", "Du bist so schüchtern!"], "a": 0, "why": "großzügig = 気前がいい。惜しまずにごちそうしてくれた人へのひとことです。"},
+    "outro": "今日の単語から3つ選んで、「Ich bin … und …, aber manchmal ein bisschen …」と声に出して自己紹介してみましょう。😄"
+  }
+}

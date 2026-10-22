@@ -1,0 +1,84 @@
+{
+  "key": "cafe",
+  "ko": {
+    "title": "독일 카페에서 주문부터 계산까지, 단어 10개면 끝",
+    "hook": "카푸치노는 쉽게 시켰는데, 계산할 때 ‘Zusammen oder getrennt?’에서 멈칫한 적 있나요?",
+    "intro": [
+      "일요일 오후, 친구랑 동네 카페에 앉았어요. 케이크 진열장 앞에서 한참 고민하다가 겨우 주문했는데, 이번엔 직원이 와서 뭘 물어봐요. 크림을 올려 줄까? 같이 계산할까? 머릿속이 하얘지죠.",
+      "오늘은 독일 카페에서 꼭 필요한 단어 10개예요. 커피 고르기, 케이크 한 조각 시키기, 크림 추가, 그리고 계산까지 이 단어들로 자연스럽게 할 수 있어요. ☕"
+    ],
+    "words": {
+      "A1-444": {"pron": "카페", "tip": "프랑스에서 건너온 카페라서 철자에 é가 그대로 ☕ 장소는 das Café!", "warn": "커피는 der Kaffee, 카페는 das Café. 성도 철자도 달라요."},
+      "A1-020": {"pron": "카페", "tip": "f도 두 개, e도 두 개, 더블 샷 커피 ☕ 그게 Kaffee의 철자예요!", "bonus": "Kaffee und Kuchen = 독일식 오후 커피와 케이크 시간"},
+      "A1-680": {"pron": "카푸치노", "tip": "카푸친 수도사 옷 색깔에서 온 이름 🟤 거품 모자를 쓴 수도사를 떠올려요.", "bonus": "독일 카페 단골 메뉴: der Milchkaffee (우유 듬뿍 커피)"},
+      "A2-1023": {"pron": "에스프레소", "tip": "압력으로 꾹 짜낸(espresso) 진한 한 잔 💪 독일어로도 똑같아요.", "warn": "독일어엔 x가 없어요! Expresso가 아니라 Espresso."},
+      "A1-115": {"pron": "타세", "tip": "손잡이 달린 잔은 Tasse 🍵 eine Tasse Kaffee = 커피 한 잔", "bonus": "물이나 주스는 Glas에: ein Glas Wasser"},
+      "BL-01-08": {"pron": "쿠헨", "tip": "영어 cake와 같은 뿌리 🍰 Kuchen ≈ cake, 소리도 살짝 닮았죠?", "warn": "복수도 그대로 die Kuchen이에요."},
+      "BL-01-07": {"pron": "추자멘", "tip": "sammeln(모으다)처럼 한데 모으면 zusammen 🤝 계산서도 하나로!", "bonus": "Das macht zusammen 8 Euro. = 합해서 8유로예요."},
+      "BL-01-06": {"pron": "게트렌트", "tip": "trennen(나누다)에서 왔어요 ✂️ 계산서를 가위로 싹둑 나누는 느낌!", "bonus": "분리수거도 같은 동사: Müll trennen"},
+      "BL-11-05": {"pron": "슈튁", "tip": "케이크를 ‘슉’ 잘라 낸 한 조각 🔪 ein Stück Kuchen!", "warn": "셀 때는 복수여도 Stück 그대로: zwei Stück Kuchen."},
+      "A2-778": {"pron": "자네", "tip": "케이크 위에 ‘자, 네~’ 하고 올려 주는 크림 🍦 mit Sahne = 크림 얹어서", "bonus": "휘핑크림은 die Schlagsahne"}
+    },
+    "culture": [
+      "독일에는 Kaffee und Kuchen이라는 오후 문화가 있어요. 특히 주말 오후에 가족이나 친구와 모여 커피와 케이크를 먹는 시간이에요. 동네 빵집이나 카페 진열장에서 케이크를 고르고, 직원이 자리로 가져다주는 곳도 많아요.",
+      "카페나 식당에서는 보통 자리에서 계산해요. ‘Zahlen, bitte!’ 하고 부르면 직원이 와서 ‘Zusammen oder getrennt?’ 하고 물어봐요. 팁은 금액을 조금 올려서 ‘10 Euro, bitte.’처럼 낼 금액을 말하는 식으로 주는 경우가 많아요.",
+      "그리고 그냥 ‘einen Kaffee’를 시키면 곳에 따라 필터 커피가 나오기도 해요. 진한 게 마시고 싶다면 메뉴를 꼭 확인해요! 🍰"
+    ],
+    "quiz": {"q": "친구랑 카페에서 각자 계산하고 싶어요. 직원이 ‘Zusammen oder getrennt?’ 하고 물으면?", "o": ["Zusammen, bitte.", "Getrennt, bitte.", "Mit Sahne, bitte."], "a": 1, "why": "getrennt = 따로따로, 각자 계산하고 싶을 때 쓰는 말이에요."},
+    "outro": "오늘은 머릿속으로 카페 주문을 한 번 해 봐요. ‘Einen Cappuccino und ein Stück Kuchen mit Sahne, bitte!’ 소리 내서 세 번! 🍰"
+  },
+  "en": {
+    "title": "Coffee, cake and the bill: 10 words for a German café",
+    "hook": "Ordering a cappuccino is easy, but have you ever frozen when the waiter asked ‘Zusammen oder getrennt?’",
+    "intro": [
+      "It's Sunday afternoon and you're at a local café with a friend. You spend ages at the cake counter, finally order, and then the waiter asks you something else. Cream with that? One bill or two? Your mind goes blank.",
+      "Today's ten words get you through a German café visit from start to finish: choosing a coffee, ordering a slice of cake, adding cream and paying the bill. ☕"
+    ],
+    "words": {
+      "A1-444": {"pron": "ka-FAY", "tip": "It came from France, so it kept its French é ☕ The place is das Café.", "warn": "Coffee is der Kaffee, the café is das Café. Different gender, different spelling."},
+      "A1-020": {"pron": "KA-feh", "tip": "Double f, double e — a double shot of coffee ☕ That's how you spell Kaffee.", "bonus": "Kaffee und Kuchen = the German coffee-and-cake afternoon"},
+      "A1-680": {"pron": "ka-poo-CHEE-no", "tip": "Named after the brown robes of Capuchin friars 🟤 Picture a monk in a foamy hood.", "bonus": "A café favourite in Germany: der Milchkaffee (milky coffee)"},
+      "A2-1023": {"pron": "es-PRESS-oh", "tip": "Coffee pressed out under pressure 💪 Same word in German.", "warn": "There's no x in it: Espresso, not ‘expresso’."},
+      "A1-115": {"pron": "TASS-uh", "tip": "Sounds a bit like ‘tasse-l’ hanging off a cup handle 🍵 eine Tasse Kaffee = a cup of coffee.", "bonus": "Water and juice come in a Glas: ein Glas Wasser"},
+      "BL-01-08": {"pron": "KOO-khen", "tip": "Same Germanic root as English cake 🍰 Kuchen ≈ cake.", "warn": "The plural doesn't change: die Kuchen."},
+      "BL-01-07": {"pron": "tsoo-ZAM-en", "tip": "Like sammeln (to collect): gather it all into one 🤝 One bill for everyone.", "bonus": "Das macht zusammen 8 Euro. = That's 8 euros altogether."},
+      "BL-01-06": {"pron": "guh-TRENT", "tip": "From trennen (to separate) ✂️ Imagine snipping the bill in two.", "bonus": "Same verb for sorting rubbish: Müll trennen"},
+      "BL-11-05": {"pron": "SHTUEK", "tip": "Think of a piece that got ‘stuck’ on your fork 🍴 ein Stück Kuchen!", "warn": "When counting, it stays singular: zwei Stück Kuchen."},
+      "A2-778": {"pron": "ZAH-nuh", "tip": "Sahne sounds like ‘sauna’ — and cream melts like it's in one 🍦 mit Sahne = with cream.", "bonus": "Whipped cream = die Schlagsahne"}
+    },
+    "culture": [
+      "Germany has a whole afternoon ritual called Kaffee und Kuchen. Especially at weekends, families and friends meet for coffee and cake. Often you pick your slice at the counter and staff bring it to your table.",
+      "In cafés and restaurants you usually pay at the table. Say ‘Zahlen, bitte!’ and the server will come over and ask ‘Zusammen oder getrennt?’. People often tip by rounding up and simply saying the amount they want to pay, like ‘10 Euro, bitte.’",
+      "And if you just order ‘einen Kaffee’, some places will bring you filter coffee. If you want something stronger, check the menu! 🍰"
+    ],
+    "quiz": {"q": "You want to pay separately from your friend. The waiter asks ‘Zusammen oder getrennt?’. What do you say?", "o": ["Zusammen, bitte.", "Getrennt, bitte.", "Mit Sahne, bitte."], "a": 1, "why": "getrennt means separately, so it's what you say when everyone pays for themselves."},
+    "outro": "Practise one full café order out loud: ‘Einen Cappuccino und ein Stück Kuchen mit Sahne, bitte!’ Three times, then treat yourself! 🍰"
+  },
+  "ja": {
+    "title": "注文から会計まで！ドイツのカフェで困らない10語",
+    "hook": "カプチーノは頼めたのに、会計で「Zusammen oder getrennt?」と聞かれて固まったことはありませんか？",
+    "intro": [
+      "日曜の午後、友だちと近所のカフェへ。ケーキのショーケースの前でさんざん迷ってやっと注文したら、今度は店員さんが何か聞いてきます。クリームはのせる？お会計は一緒？頭が真っ白になりますよね。",
+      "今日はドイツのカフェで必ず役立つ10語です。コーヒー選び、ケーキを一切れ頼む、クリームを追加する、そして会計まで、この単語でスムーズにできます。☕"
+    ],
+    "words": {
+      "A1-444": {"pron": "カフェー", "tip": "フランスから来たので é がそのまま ☕ お店は das Café！", "warn": "コーヒーは der Kaffee、カフェは das Café。性も綴りも違います。"},
+      "A1-020": {"pron": "カフェ", "tip": "f も e も2つずつ、ダブルショットのコーヒー ☕ それが Kaffee の綴り。", "bonus": "Kaffee und Kuchen = ドイツの午後のコーヒーとケーキの時間"},
+      "A1-680": {"pron": "カプチーノ", "tip": "カプチン会修道士の茶色い服から付いた名前 🟤 泡のフードをかぶった修道士をイメージ！", "bonus": "ドイツのカフェの定番：der Milchkaffee（ミルクたっぷりのコーヒー）"},
+      "A2-1023": {"pron": "エスプレッソ", "tip": "圧力でぎゅっと抽出した（espresso）濃い一杯 💪 ドイツ語でも同じです。", "warn": "x は入りません。Expresso ではなく Espresso です。"},
+      "A1-115": {"pron": "タッセ", "tip": "取っ手付きのカップは Tasse 🍵「たっせ」と軽くすすって一杯！", "bonus": "水やジュースは Glas で：ein Glas Wasser"},
+      "BL-01-08": {"pron": "クーヘン", "tip": "英語の cake と同じ語源 🍰 バウムクーヘンの「クーヘン」です！", "warn": "複数形も同じ形：die Kuchen"},
+      "BL-01-07": {"pron": "ツザメン", "tip": "sammeln（集める）のように一つにまとめると zusammen 🤝 会計もひとまとめ！", "bonus": "Das macht zusammen 8 Euro. = 全部で8ユーロです。"},
+      "BL-01-06": {"pron": "ゲトレント", "tip": "trennen（分ける）から ✂️ 伝票をはさみでチョキンと分けるイメージ！", "bonus": "ゴミの分別も同じ動詞：Müll trennen"},
+      "BL-11-05": {"pron": "シュテュック", "tip": "ケーキをシュッと切った一切れ 🔪 ein Stück Kuchen！", "warn": "数えるときは複数でも Stück のまま：zwei Stück Kuchen"},
+      "A2-778": {"pron": "ザーネ", "tip": "ケーキに「ざーっ」とのせる生クリーム 🍦 mit Sahne = クリームのせで", "bonus": "ホイップクリームは die Schlagsahne"}
+    },
+    "culture": [
+      "ドイツには Kaffee und Kuchen という午後の習慣があります。特に週末の午後、家族や友だちと集まってコーヒーとケーキを楽しみます。カウンターでケーキを選ぶと、店員さんが席まで運んでくれるお店も多いです。",
+      "カフェやレストランでは、ふつう席で会計します。「Zahlen, bitte!」と声をかけると、店員さんが来て「Zusammen oder getrennt?」と聞きます。チップは少し切り上げて、「10 Euro, bitte.」のように払いたい金額を伝える形がよくあります。",
+      "それから、ただ「einen Kaffee」と頼むと、お店によってはフィルターコーヒーが出てきます。濃いのが飲みたいときはメニューをよく見てくださいね。🍰"
+    ],
+    "quiz": {"q": "友だちと別々に払いたいです。店員さんに「Zusammen oder getrennt?」と聞かれたら？", "o": ["Zusammen, bitte.", "Getrennt, bitte.", "Mit Sahne, bitte."], "a": 1, "why": "getrennt は「別々に」なので、各自で払いたいときに使います。"},
+    "outro": "今日はカフェでの注文を声に出して練習してみましょう。「Einen Cappuccino und ein Stück Kuchen mit Sahne, bitte!」を3回どうぞ！🍰"
+  }
+}

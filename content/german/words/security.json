@@ -1,0 +1,84 @@
+{
+  "key": "security",
+  "ko": {
+    "title": "로그인 화면이 무섭지 않은 계정·보안 독일어 10",
+    "hook": "독일어 로그인 화면 앞에서 멈칫한 적 있다면, 오늘 단어로 끝내요.",
+    "intro": [
+      "새로 산 휴대폰으로 은행 앱을 열었더니 화면 가득 독일어. Benutzername? Passwort vergessen? 엉뚱한 버튼을 눌렀다가 계정이 잠길까 봐 손가락이 멈춰요.",
+      "오늘은 계정과 보안에 관한 단어 10개를 모았어요. 이걸 알면 회원가입, 로그인, 비밀번호 찾기를 혼자 할 수 있고, 수상한 메일도 알아볼 수 있어요. 🔐"
+    ],
+    "words": {
+      "A2-534": {"pron": "파스보르트", "tip": "pass(통과) + Wort(단어) = 문을 통과하는 단어 🔑", "warn": "복수는 die Passwörter", "bonus": "Ich habe mein Passwort vergessen. = 비밀번호를 잊어버렸어요."},
+      "B2-1008": {"pron": "베누처콘토", "tip": "Benutzer(쓰는 사람) + Konto(계좌, 계정) 👤 은행 계좌도 Konto예요.", "warn": "복수는 die Benutzerkonten", "bonus": "계정을 만들다 = ein Konto anlegen"},
+      "B1-1905": {"pron": "베누처나메", "tip": "Benutzer + Name = 사용자 이름, 우리가 말하는 ‘아이디’ 🪪", "bonus": "줄여서 der Nutzername라고도 많이 써요."},
+      "B2-1009": {"pron": "지히 아인로겐", "tip": "ein(안으로) + log in, 영어를 독일식으로 굴린 말 🔓", "warn": "재귀동사이면서 분리동사: Ich logge mich ein. · 현재완료 hat sich eingeloggt", "bonus": "로그아웃은 sich ausloggen · 같은 뜻으로 sich anmelden"},
+      "B2-1010": {"pron": "지히 레기스트리렌", "tip": "영어 register와 같은 말 📝 처음 오면 일단 registrieren!", "bonus": "명사는 die Registrierung"},
+      "B1-1477": {"pron": "다텐", "tip": "라틴어로 ‘주어진 것들’ 💾 그래서 늘 여러 개, 복수!", "warn": "단수 das Datum은 ‘날짜’예요. 데이터는 항상 복수 Daten!"},
+      "B2-295": {"pron": "다텐슈츠", "tip": "Daten + Schutz(보호) = 데이터를 지키는 방패 🛡️", "bonus": "EU 개인정보 보호법은 die DSGVO (영어로 GDPR)"},
+      "B2-992": {"pron": "프리바트스패레", "tip": "privat + Sphäre(영역) = 나만의 영역 🏠", "bonus": "앱 메뉴에서 자주 봐요: Privatsphäre-Einstellungen = 개인정보 설정"},
+      "B2-993": {"pron": "하커", "tip": "영어 그대로지만 발음은 ‘하커’ 💻", "bonus": "해킹 공격은 der Hackerangriff"},
+      "B2-1030": {"pron": "피싱", "tip": "fishing처럼 내 정보를 낚아 가요 🎣", "bonus": "사기꾼은 der Betrüger · 피싱 메일은 die Phishing-Mail"}
+    },
+    "culture": [
+      "독일은 개인정보 보호(Datenschutz)에 진심인 나라로 유명해요. 웹사이트마다 쿠키 동의 창이 뜨고, 회사나 학교에서도 사진이나 연락처를 쓸 때 동의를 꼼꼼히 묻는 경우가 많아요.",
+      "몇 년 전 지도 서비스의 거리 사진이 처음 나왔을 때, 많은 독일 사람들이 자기 집을 흐리게 처리해 달라고 신청했던 일은 지금도 자주 이야기돼요.",
+      "은행이나 택배 회사를 사칭한 피싱 문자도 흔해요. 은행은 보통 메일이나 문자로 비밀번호나 PIN을 묻지 않으니, 그런 링크는 누르지 말고 앱이나 공식 사이트로 직접 확인하세요. 🎣"
+    ],
+    "quiz": {"q": "쇼핑몰에 로그인하려는데 비밀번호가 생각나지 않아요. 어떤 버튼을 눌러야 할까요?", "o": ["Jetzt registrieren", "Passwort vergessen?", "Datenschutz"], "a": 1, "why": "Passwort vergessen? = 비밀번호를 잊으셨나요? 여기서 새 비밀번호를 만들 수 있어요."},
+    "outro": "오늘은 휴대폰 설정 언어를 잠깐 독일어로 바꿔서 Passwort, Benutzername, Datenschutz를 찾아보세요. 생각보다 금방 눈에 들어올 거예요! 📱"
+  },
+  "en": {
+    "title": "Log in, stay safe: 10 German words for accounts and security",
+    "hook": "If a German login screen has ever made you freeze, today's words will fix that.",
+    "intro": [
+      "You open your banking app on your new phone and the screen is full of German. Benutzername? Passwort vergessen? You hesitate, worried that one wrong tap will lock you out.",
+      "Today's ten words are all about accounts and security. With them you can sign up, log in and reset your password on your own, and spot a dodgy email when one lands in your inbox. 🔐"
+    ],
+    "words": {
+      "A2-534": {"pron": "PASS-vort", "tip": "pass + Wort (word) = the word that lets you pass 🔑", "warn": "The plural is die Passwörter.", "bonus": "Ich habe mein Passwort vergessen. = I've forgotten my password."},
+      "B2-1008": {"pron": "buh-NOOT-ser-kon-toh", "tip": "Benutzer (user) + Konto (account) 👤 A bank account is a Konto too.", "warn": "The plural is die Benutzerkonten.", "bonus": "to create an account = ein Konto anlegen"},
+      "B1-1905": {"pron": "buh-NOOT-ser-nah-muh", "tip": "Benutzer + Name = username, no tricks 🪪", "bonus": "You'll often see the shorter der Nutzername too."},
+      "B2-1009": {"pron": "zikh INE-log-en", "tip": "English log in, given a German makeover 🔓", "warn": "Reflexive and separable: Ich logge mich ein. · perfect: hat sich eingeloggt", "bonus": "to log out = sich ausloggen · also common: sich anmelden"},
+      "B2-1010": {"pron": "zikh reg-is-TREE-ren", "tip": "Just like register 📝 New here? Then registrieren first.", "bonus": "the noun: die Registrierung"},
+      "B1-1477": {"pron": "DAH-ten", "tip": "Latin for ‘things given’ — always more than one 💾", "warn": "The singular das Datum means ‘date’. Data is always plural: Daten."},
+      "B2-295": {"pron": "DAH-ten-shoots", "tip": "Daten + Schutz (protection) = a shield for your data 🛡️", "bonus": "The EU data law is die DSGVO (GDPR in English)."},
+      "B2-992": {"pron": "pree-VAHT-sfair-uh", "tip": "privat + Sphäre (sphere) = your own private sphere 🏠", "bonus": "You'll see it in app menus: Privatsphäre-Einstellungen = privacy settings"},
+      "B2-993": {"pron": "HACK-er", "tip": "Straight from English — the German a just sounds a bit more like ‘ah’ 💻", "bonus": "a cyberattack = der Hackerangriff"},
+      "B2-1030": {"pron": "FISH-ing", "tip": "Like fishing, they're trying to hook your details 🎣", "bonus": "a fraudster = der Betrüger · a phishing email = die Phishing-Mail"}
+    },
+    "culture": [
+      "Germany is known for taking data protection (Datenschutz) very seriously. You'll see cookie banners on almost every website, and workplaces and schools often ask for your consent before using your photo or contact details.",
+      "When street-level photos first appeared on online maps, lots of people in Germany asked for their houses to be blurred, and people still bring it up as a typical German story.",
+      "Phishing texts pretending to be from a bank or delivery company are common. Banks usually don't ask for your password or PIN by email or text, so don't tap the link — check in the app or on the official website instead. 🎣"
+    ],
+    "quiz": {"q": "You want to log in to an online shop but can't remember your password. Which button do you tap?", "o": ["Jetzt registrieren", "Passwort vergessen?", "Datenschutz"], "a": 1, "why": "Passwort vergessen? means ‘Forgotten your password?’ — that's where you set a new one."},
+    "outro": "Try switching your phone to German for a few minutes today and find Passwort, Benutzername and Datenschutz. They'll jump out at you sooner than you think! 📱"
+  },
+  "ja": {
+    "title": "ログイン画面がこわくなくなるドイツ語10",
+    "hook": "ドイツ語のログイン画面で手が止まったことがあるなら、今日の単語で解決しましょう。",
+    "intro": [
+      "新しいスマホで銀行アプリを開いたら、画面はドイツ語だらけ。Benutzername？Passwort vergessen？変なボタンを押してアカウントがロックされたらどうしよう、と指が止まります。",
+      "今日はアカウントとセキュリティの単語を10個集めました。会員登録、ログイン、パスワードの再設定が一人でできるようになり、怪しいメールにも気づけるようになります。🔐"
+    ],
+    "words": {
+      "A2-534": {"pron": "パスヴォルト", "tip": "pass（通る）+ Wort（言葉）= 扉を通るための言葉 🔑", "warn": "複数形は die Passwörter", "bonus": "Ich habe mein Passwort vergessen. = パスワードを忘れました。"},
+      "B2-1008": {"pron": "ベヌッツァーコント", "tip": "Benutzer（使う人）+ Konto（口座、アカウント）👤 銀行口座も Konto です。", "warn": "複数形は die Benutzerkonten", "bonus": "アカウントを作る = ein Konto anlegen"},
+      "B1-1905": {"pron": "ベヌッツァーナーメ", "tip": "Benutzer + Name = ユーザー名、いわゆる「ID」🪪", "bonus": "短く der Nutzername ともよく書かれます。"},
+      "B2-1009": {"pron": "ズィヒ アインロッゲン", "tip": "ein（中へ）+ log in、英語をドイツ語風にアレンジ 🔓", "warn": "再帰動詞で分離動詞：Ich logge mich ein. · 現在完了は hat sich eingeloggt", "bonus": "ログアウトは sich ausloggen · 同じ意味で sich anmelden も"},
+      "B2-1010": {"pron": "ズィヒ レギストリーレン", "tip": "英語の register と同じ 📝 初めてならまず registrieren！", "bonus": "名詞は die Registrierung"},
+      "B1-1477": {"pron": "ダーテン", "tip": "ラテン語で「与えられたものたち」💾 だからいつも複数！", "warn": "単数 das Datum は「日付」です。データはいつも複数 Daten！"},
+      "B2-295": {"pron": "ダーテンシュッツ", "tip": "Daten + Schutz（保護）= データを守る盾 🛡️", "bonus": "EU の個人情報保護法は die DSGVO（英語では GDPR）"},
+      "B2-992": {"pron": "プリヴァートスフェーレ", "tip": "privat + Sphäre（領域）= 自分だけの領域 🏠", "bonus": "アプリのメニューでよく見ます：Privatsphäre-Einstellungen = プライバシー設定"},
+      "B2-993": {"pron": "ハッカー", "tip": "英語そのまま、ドイツ語では a をはっきり「ア」と 💻", "bonus": "ハッキング攻撃は der Hackerangriff"},
+      "B2-1030": {"pron": "フィッシング", "tip": "fishing のように、あなたの情報を釣り上げようとします 🎣", "bonus": "詐欺師は der Betrüger · フィッシングメールは die Phishing-Mail"}
+    },
+    "culture": [
+      "ドイツは個人情報保護（Datenschutz）にとても熱心な国として知られています。ほとんどのサイトでクッキーの同意画面が出ますし、職場や学校でも写真や連絡先を使う前にきちんと同意を求められることがよくあります。",
+      "地図サービスの街並み写真が始まったとき、ドイツでは多くの人が自宅をぼかしてほしいと申し出ました。今でもドイツらしいエピソードとしてよく話題になります。",
+      "銀行や宅配業者を装ったフィッシングのメッセージもよくあります。銀行はふつうメールやSMSでパスワードや PIN を聞かないので、リンクは押さずにアプリや公式サイトで直接確認しましょう。🎣"
+    ],
+    "quiz": {"q": "ネットショップにログインしたいのに、パスワードを思い出せません。どのボタンを押しますか？", "o": ["Jetzt registrieren", "Passwort vergessen?", "Datenschutz"], "a": 1, "why": "Passwort vergessen? は「パスワードをお忘れですか？」で、ここから新しいパスワードを設定できます。"},
+    "outro": "今日はスマホの言語を少しだけドイツ語にして、Passwort、Benutzername、Datenschutz を探してみましょう。思ったより早く見つけられますよ！📱"
+  }
+}

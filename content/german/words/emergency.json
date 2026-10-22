@@ -1,0 +1,84 @@
+{
+  "key": "emergency",
+  "ko": {
+    "title": "112에 전화하기 전에 알아 둘 독일어 10",
+    "hook": "응급 상황은 미리 알려 주고 오지 않아요. 그래서 이 단어들은 오늘 외워 두는 게 좋아요.",
+    "intro": [
+      "공원에서 자전거 타던 사람이 넘어져서 일어나지 못해요. 다리에서는 피가 나고, 주변 사람들은 “Ruf einen Krankenwagen!” 하고 외쳐요. 휴대폰을 꺼냈는데, 112에 연결되면 독일어로 뭐라고 해야 할지 머릿속이 하얘져요.",
+      "오늘은 응급 상황에서 꼭 필요한 단어 10개예요. 이 단어들이면 112에 전화해서 상황을 설명하고, 응급실에서도 기본적인 말을 할 수 있어요. 쓸 일이 없기를 바라면서, 그래도 꼭 알아 둬요. 🚑"
+    ],
+    "words": {
+      "B1-121": {"pron": "노트팔", "tip": "Not(위급) + Fall(경우) = 위급한 경우 🚨", "bonus": "비상구는 der Notausgang · 응급 의사는 der Notarzt"},
+      "A1-291": {"pron": "힐페", "tip": "영어 help와 같은 뿌리 🆘 위급할 땐 그냥 크게 “Hilfe!”", "bonus": "도와주세요! = Können Sie mir helfen?"},
+      "A2-255": {"pron": "노트루프", "tip": "Not(위급) + Ruf(부름) = 위급할 때 부르는 번호 ☎️", "bonus": "독일 Notruf: 구급·소방 112, 경찰 110"},
+      "B1-885": {"pron": "크랑켄바겐", "tip": "Kranke(환자) + Wagen(차) = 환자 태우는 차 🚑", "warn": "복수도 똑같이 die Krankenwagen이에요."},
+      "A2-716": {"pron": "페어레츠트", "tip": "verletzen(다치게 하다)의 과거분사 🩹 몸도 마음도 다칠 수 있어요.", "bonus": "부상자는 der/die Verletzte"},
+      "A2-065": {"pron": "지히 페어레첸", "tip": "‘나 자신(sich)을’ 다치게 하다 = 다치다 🤕", "warn": "재귀동사라 sich가 꼭 필요해요: Ich habe mich verletzt."},
+      "B1-531": {"pron": "블루텐", "tip": "Blut(피) + -en = 피가 나다 🩸 영어 blood, bleed와 친척!", "bonus": "반창고는 das Pflaster"},
+      "B2-1160": {"pron": "베부스트로스", "tip": "bewusst(의식 있는) + -los(~없는) = 의식이 없는 😵 -los는 영어 -less!", "bonus": "112에 꼭 말해야 할 정보: Die Person ist bewusstlos."},
+      "B2-2718": {"pron": "에어스테 힐페 라이스텐", "tip": "첫(erste) 도움(Hilfe)을 행하다(leisten) = 응급 처치 ⛑️", "bonus": "응급 처치 강좌 = der Erste-Hilfe-Kurs"},
+      "B1-992": {"pron": "노트아우프나메", "tip": "Not(위급) + Aufnahme(받아들임) = 위급한 사람을 받아 주는 곳 🏥", "bonus": "응급실에 가다 = in die Notaufnahme gehen"}
+    },
+    "culture": [
+      "독일에서 112는 구급차와 소방차, 경찰은 110이에요. 한국에서는 112가 경찰이니 헷갈리지 않게 꼭 기억해 두세요. 112는 유럽 대부분 나라에서 통하는 공통 긴급 번호이기도 해요.",
+      "112에 전화하면 차분하게 ‘어디서(Wo?), 무슨 일이(Was?), 몇 명이(Wie viele?)’를 말하고, 상대가 끊기 전까지 전화를 끊지 않는 게 기본이에요. 영어로 도움을 받을 수 있는 경우도 많아요.",
+      "목숨이 위험하진 않지만 밤이나 주말에 의사가 필요하다면, 응급실 대신 116117(의료 당직 서비스)에 전화할 수 있어요. 휴대폰에 두 번호를 미리 저장해 두면 든든해요. ☎️"
+    ],
+    "quiz": {"q": "길에서 사람이 쓰러져 움직이지 않아요. 112에 뭐라고 말할까요?", "o": ["Ich habe mich verletzt.", "Eine Person ist bewusstlos.", "Danke für deine Hilfe!"], "a": 1, "why": "Eine Person ist bewusstlos. = 한 사람이 의식을 잃었어요. 위급한 상황을 바로 알릴 수 있어요."},
+    "outro": "오늘은 112에 전화하는 장면을 상상하며 ‘Wo, Was, Wie viele’를 독일어로 소리 내어 말해 봐요. 🚑"
+  },
+  "en": {
+    "title": "Before you dial 112: 10 German words for emergencies",
+    "hook": "Emergencies don't send a warning first, so these are words worth learning today.",
+    "intro": [
+      "A cyclist falls in the park and doesn't get up. His leg is bleeding, and someone shouts, “Ruf einen Krankenwagen!” You grab your phone — but what will you say in German when 112 answers?",
+      "Today's ten words are the ones you need in an emergency. With them you can call 112, explain what's happening and manage the basics in A&E. Here's hoping you never need them. 🚑"
+    ],
+    "words": {
+      "B1-121": {"pron": "NOHT-fal", "tip": "Not (distress) + Fall (case) = a case of need 🚨", "bonus": "emergency exit: der Notausgang · emergency doctor: der Notarzt"},
+      "A1-291": {"pron": "HIL-fuh", "tip": "Same root as English help 🆘 In a crisis, just shout “Hilfe!”", "bonus": "Can you help me? = Können Sie mir helfen?"},
+      "A2-255": {"pron": "NOHT-roof", "tip": "Not (emergency) + Ruf (call) = the number you call in an emergency ☎️", "bonus": "In Germany: ambulance and fire 112, police 110"},
+      "B1-885": {"pron": "KRAHN-ken-vah-gen", "tip": "Kranke (sick people) + Wagen (vehicle) = ambulance 🚑", "warn": "The plural is the same: die Krankenwagen."},
+      "A2-716": {"pron": "fair-LETST", "tip": "The past participle of verletzen (to injure) 🩹 Bodies and feelings can both be verletzt.", "bonus": "an injured person = der/die Verletzte"},
+      "A2-065": {"pron": "zikh fair-LET-sen", "tip": "To injure yourself (sich) = to get hurt 🤕", "warn": "It's reflexive, so you need sich: Ich habe mich verletzt."},
+      "B1-531": {"pron": "BLOO-ten", "tip": "Blut (blood) + -en = to bleed 🩸 A cousin of English blood and bleed.", "bonus": "a plaster = das Pflaster"},
+      "B2-1160": {"pron": "beh-VOOST-lohs", "tip": "bewusst (conscious) + -los (-less) = unconscious 😵 -los works like English -less.", "bonus": "Key sentence for 112: Die Person ist bewusstlos."},
+      "B2-2718": {"pron": "AIR-stuh HIL-fuh LYE-sten", "tip": "To perform (leisten) the first (erste) help (Hilfe) ⛑️", "bonus": "a first-aid course = der Erste-Hilfe-Kurs"},
+      "B1-992": {"pron": "NOHT-owf-nah-muh", "tip": "Not (emergency) + Aufnahme (admission) = where emergencies are taken in 🏥", "bonus": "to go to A&E = in die Notaufnahme gehen"}
+    },
+    "culture": [
+      "In Germany, 112 is for an ambulance or the fire brigade, and 110 is for the police. 112 also works as the emergency number across most of Europe.",
+      "When you call 112, stay calm and say where it is (Wo?), what happened (Was?) and how many people are hurt (Wie viele?). Don't hang up until the operator ends the call. Help in English is often possible.",
+      "If it's not life-threatening but you need a doctor at night or at the weekend, you can call 116117, the out-of-hours medical service, instead of going to A&E. Save both numbers in your phone today. ☎️"
+    ],
+    "quiz": {"q": "Someone has collapsed in the street and isn't moving. What do you tell 112?", "o": ["Ich habe mich verletzt.", "Eine Person ist bewusstlos.", "Danke für deine Hilfe!"], "a": 1, "why": "Eine Person ist bewusstlos. = Someone is unconscious. It tells them straight away how serious it is."},
+    "outro": "Imagine a call to 112 and practise Wo, Was and Wie viele out loud in German. 🚑"
+  },
+  "ja": {
+    "title": "112番に電話する前に知っておきたいドイツ語10",
+    "hook": "緊急事態は前ぶれなくやってきます。だからこそ、今日覚えておきたい単語です。",
+    "intro": [
+      "公園で自転車に乗っていた人が転んで、起き上がれません。足から血が出ていて、周りの人が「Ruf einen Krankenwagen!」と叫んでいます。スマホを取り出したものの、112番につながったら何と言えばいいのか、頭が真っ白に。",
+      "今日は緊急時にどうしても必要な単語を10個集めました。これで112番に電話して状況を伝え、救急外来でも基本的なことが言えます。使う日が来ないことを願いつつ、覚えておきましょう。🚑"
+    ],
+    "words": {
+      "B1-121": {"pron": "ノートファル", "tip": "Not（窮地）+ Fall（場合）= 緊急の場合 🚨", "bonus": "非常口は der Notausgang・救急医は der Notarzt"},
+      "A1-291": {"pron": "ヒルフェ", "tip": "英語の help と同じ語源 🆘 いざというときは大きな声で「Hilfe!」", "bonus": "助けてもらえますか？ = Können Sie mir helfen?"},
+      "A2-255": {"pron": "ノートルーフ", "tip": "Not（緊急）+ Ruf（呼び声）= 緊急時にかける番号 ☎️", "bonus": "ドイツの Notruf：救急・消防は112、警察は110"},
+      "B1-885": {"pron": "クランケンヴァーゲン", "tip": "Kranke（病人）+ Wagen（車）= 病人を乗せる車 🚑", "warn": "複数形も同じ形：die Krankenwagen"},
+      "A2-716": {"pron": "フェアレッツト", "tip": "verletzen（傷つける）の過去分詞 🩹 体も心も傷つくことがあります。", "bonus": "けが人は der/die Verletzte"},
+      "A2-065": {"pron": "ズィヒ フェアレッツェン", "tip": "自分自身（sich）を傷つける = けがをする 🤕", "warn": "再帰動詞なので sich が必要です：Ich habe mich verletzt."},
+      "B1-531": {"pron": "ブルーテン", "tip": "Blut（血）+ -en = 出血する 🩸 英語の blood、bleed の親戚！", "bonus": "絆創膏は das Pflaster"},
+      "B2-1160": {"pron": "ベヴストロース", "tip": "bewusst（意識のある）+ -los（〜のない）= 意識がない 😵 -los は英語の -less！", "bonus": "112番で伝えるべき一言：Die Person ist bewusstlos."},
+      "B2-2718": {"pron": "エーアステ ヒルフェ ライステン", "tip": "最初の（erste）助け（Hilfe）を行う（leisten）= 応急手当 ⛑️", "bonus": "応急手当講習 = der Erste-Hilfe-Kurs"},
+      "B1-992": {"pron": "ノートアウフナーメ", "tip": "Not（緊急）+ Aufnahme（受け入れ）= 緊急の人を受け入れる場所 🏥", "bonus": "救急外来に行く = in die Notaufnahme gehen"}
+    },
+    "culture": [
+      "ドイツでは救急車と消防は112、警察は110です。警察は日本と同じですが、救急は119ではないので、しっかり覚えておきましょう。112はヨーロッパのほとんどの国で使える共通の緊急番号でもあります。",
+      "112番に電話したら、落ち着いて「どこで（Wo?）、何が（Was?）、何人（Wie viele?）」を伝え、相手が切るまで電話を切らないのが基本です。英語で対応してもらえることも多いです。",
+      "命に関わらないけれど、夜や週末に医師が必要なときは、救急外来の代わりに116117（医療当番サービス）に電話できます。今日のうちに2つの番号をスマホに登録しておくと安心です。☎️"
+    ],
+    "quiz": {"q": "道で人が倒れて動きません。112番に何と伝えますか？", "o": ["Ich habe mich verletzt.", "Eine Person ist bewusstlos.", "Danke für deine Hilfe!"], "a": 1, "why": "Eine Person ist bewusstlos. =「人が意識を失っています」。緊急度がすぐに伝わります。"},
+    "outro": "112番に電話する場面を想像して、Wo、Was、Wie viele をドイツ語で声に出して練習してみましょう。🚑"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "animals",
+  "ko": {
+    "title": "농장부터 동물원까지, 독일어 동물 이름 10",
+    "hook": "독일에서는 운이 좋을 때 ‘돼지를 가졌다’고 말해요. 진짜예요!",
+    "intro": [
+      "주말에 독일 시골로 자전거 여행을 갔어요. 들판엔 소와 양, 마당엔 닭이 돌아다니고, 아이들은 ‘Guck mal, ein Pferd!’ 하고 소리쳐요. 그런데 나는 ‘말’이 독일어로 뭐였는지 기억이 안 나요.",
+      "오늘은 기본 동물 이름 10개예요. 농장 동물부터 동물원 친구들까지, 그리고 독일 사람들이 일상에서 자주 쓰는 재밌는 동물 표현도 같이 챙겨 가요. 🐄"
+    ],
+    "words": {
+      "A1-269": {"pron": "티어", "tip": "영어 deer(사슴)과 같은 뿌리, 옛날엔 모든 동물을 뜻했대요 🦌", "bonus": "반려동물은 das Haustier (집 + 동물)"},
+      "A1-270": {"pron": "포겔", "tip": "영어 fowl(가금)과 같은 뿌리 🐦 V는 ‘ㅍ’ 소리!", "bonus": "Du hast einen Vogel! = 너 좀 이상해! (장난스러운 말)"},
+      "A2-536": {"pron": "프페어트", "tip": "Pf는 입술을 ‘프’ 하고 터뜨리며 시작 🐴 말이 콧김 뿜는 소리 같죠?", "bonus": "놀랐을 때: Ich glaub, mich tritt ein Pferd!"},
+      "B1-1974": {"pron": "쿠", "tip": "영어 cow와 같은 뿌리 🐄 ‘쿠~’ 하고 길게 울어요.", "warn": "복수는 모음이 바뀌어요: die Kühe"},
+      "A2-573": {"pron": "슈바인", "tip": "영어 swine과 같은 뿌리 🐷 슈바인스학세(족발)의 그 슈바인!", "bonus": "Schwein haben = 운이 좋다"},
+      "B1-1979": {"pron": "샤프", "tip": "영어 sheep과 같은 뿌리 🐑 샤프하게 털 깎인 양!", "bonus": "das schwarze Schaf = 집안의 말썽꾼"},
+      "A2-762": {"pron": "훈", "tip": "영어 hen과 친척 🐔 ‘훈훈’한 달걀을 낳아 줘요.", "warn": "요리된 닭은 das Hähnchen: ein halbes Hähnchen"},
+      "B1-1975": {"pron": "뢰베", "tip": "라틴어 leo에서 왔어요 🦁 사자자리 Leo와 친척!", "warn": "남성 약변화: den/dem Löwen"},
+      "B1-1967": {"pron": "엘레판트", "tip": "그리스어 elephas에서 왔어요 🐘 영어 elephant의 ph가 f로!", "warn": "남성 약변화: den/dem Elefanten"},
+      "B1-1965": {"pron": "배어", "tip": "영어 bear와 같아요 🐻 베를린의 상징 동물!", "warn": "남성 약변화: den/dem Bären"}
+    },
+    "culture": [
+      "베를린의 상징은 곰이에요. 시의 문장에도 곰이 있고, 거리 곳곳에서 알록달록하게 칠한 곰 조각상을 볼 수 있어요. 베를린 기념품 가게에도 곰이 빠지지 않아요.",
+      "돼지는 독일에서 행운의 동물이에요. 그래서 ‘Schwein haben’은 운이 좋다는 뜻이고, 새해에는 마지팬으로 만든 작은 돼지(Glücksschwein)를 선물하기도 해요.",
+      "알프스 지역에서는 가을에 소들이 산 위 목초지에서 마을로 내려오는 행사(Almabtrieb)가 열리기도 해요. 꽃으로 장식한 소들이 줄지어 걸어오는 모습이 정말 장관이에요. 🐄"
+    ],
+    "quiz": {"q": "친구가 길에서 50유로를 주웠대요. 뭐라고 말할까요?", "o": ["Du hast einen Vogel!", "Du hast Schwein gehabt!", "Du bist ein schwarzes Schaf!"], "a": 1, "why": "Schwein haben = 운이 좋다, 돈을 주운 친구에게 딱 맞는 말이에요."},
+    "outro": "오늘은 동물 10마리를 관사까지 붙여서 소리 내 불러 봐요. 그리고 내일 누군가에게 ‘Schwein gehabt!’를 써 보기! 🍀"
+  },
+  "en": {
+    "title": "Pigs, bears and lucky charms: 10 German animal words",
+    "hook": "In Germany, when you're lucky, you say you ‘had a pig’. Really!",
+    "intro": [
+      "You're on a weekend bike ride through the German countryside. There are cows and sheep in the fields, chickens in the yard, and a child shouts ‘Guck mal, ein Pferd!’ And you can't remember the German word for horse.",
+      "Today's ten words are basic animal names, from farm animals to zoo favourites. Along the way you'll pick up some fun animal expressions Germans use all the time. 🐄"
+    ],
+    "words": {
+      "A1-269": {"pron": "teer", "tip": "Same root as English deer, which once meant any animal 🦌", "bonus": "A pet is das Haustier (house + animal)"},
+      "A1-270": {"pron": "FOH-gel", "tip": "Same root as English fowl 🐦 The V sounds like an F.", "bonus": "Du hast einen Vogel! = You're nuts! (playful)"},
+      "A2-536": {"pron": "pfairt", "tip": "Start with a puff: pf! 🐴 Like a horse snorting.", "bonus": "When you're amazed: Ich glaub, mich tritt ein Pferd!"},
+      "B1-1974": {"pron": "koo", "tip": "Same root as English cow 🐄 Moo, koo.", "warn": "The plural changes the vowel: die Kühe"},
+      "A2-573": {"pron": "shvine", "tip": "Same root as English swine 🐷 As in Schweinshaxe, the famous pork knuckle.", "bonus": "Schwein haben = to be lucky"},
+      "B1-1979": {"pron": "shahf", "tip": "Same root as English sheep 🐑 Just a German accent away.", "bonus": "das schwarze Schaf = the black sheep (of the family)"},
+      "A2-762": {"pron": "hoon", "tip": "A relative of English hen 🐔 ‘Hoon’ — the noise of a busy hen house.", "warn": "Chicken as food is das Hähnchen: ein halbes Hähnchen"},
+      "B1-1975": {"pron": "LER-vuh", "tip": "From Latin leo 🦁 Related to the star sign Leo.", "warn": "It takes -n in other cases: den/dem Löwen"},
+      "B1-1967": {"pron": "eh-leh-FANT", "tip": "From Greek elephas 🐘 English ph becomes f.", "warn": "It takes -en in other cases: den/dem Elefanten"},
+      "B1-1965": {"pron": "bair", "tip": "Sounds just like English bear 🐻 And it's Berlin's mascot.", "warn": "It takes -en in other cases: den/dem Bären"}
+    },
+    "culture": [
+      "Berlin's symbol is the bear. It's on the city's coat of arms, and you'll spot brightly painted bear statues all over town. No Berlin souvenir shop is complete without one.",
+      "In Germany the pig is a lucky animal. That's why ‘Schwein haben’ means to be lucky, and at New Year people sometimes give little marzipan pigs (Glücksschwein) as gifts.",
+      "In Alpine regions, autumn can bring the Almabtrieb, when cows come down from the mountain pastures to the village. The cows are often decorated with flowers, and it's quite a sight. 🐄"
+    ],
+    "quiz": {"q": "Your friend just found a 50-euro note on the street. What do you say?", "o": ["Du hast einen Vogel!", "Du hast Schwein gehabt!", "Du bist ein schwarzes Schaf!"], "a": 1, "why": "Schwein haben means to be lucky, which is perfect for someone who found money."},
+    "outro": "Name all ten animals out loud today, with their articles. Then try to use ‘Schwein gehabt!’ on someone tomorrow! 🍀"
+  },
+  "ja": {
+    "title": "牧場から動物園まで！ドイツ語の動物の名前10",
+    "hook": "ドイツでは運がいいとき「豚を持っていた」と言います。本当です！",
+    "intro": [
+      "週末にドイツの田舎へサイクリング。畑には牛と羊、庭にはニワトリ、子どもが「Guck mal, ein Pferd!」と叫びます。なのに「馬」がドイツ語で何だったか思い出せません。",
+      "今日は基本の動物の名前10個です。牧場の動物から動物園の人気者まで。ドイツ人が日常でよく使う、動物を使ったおもしろい表現も一緒に覚えましょう。🐄"
+    ],
+    "words": {
+      "A1-269": {"pron": "ティーア", "tip": "英語の deer（シカ）と同じ語源、昔はすべての動物を指しました 🦌", "bonus": "ペットは das Haustier（家 + 動物）"},
+      "A1-270": {"pron": "フォーゲル", "tip": "英語の fowl（家禽）と同じ語源 🐦 V は「フ」の音！", "bonus": "Du hast einen Vogel! = 頭おかしいんじゃない？（冗談っぽく）"},
+      "A2-536": {"pron": "プフェーアト", "tip": "Pf は唇で「プフッ」と破裂させて 🐴 馬が鼻を鳴らす音みたい！", "bonus": "驚いたとき：Ich glaub, mich tritt ein Pferd!"},
+      "B1-1974": {"pron": "クー", "tip": "英語の cow と同じ語源 🐄「クー」と長めに！", "warn": "複数形は母音が変わります：die Kühe"},
+      "A2-573": {"pron": "シュヴァイン", "tip": "英語の swine と同じ語源 🐷 名物料理シュヴァインスハクセのシュヴァイン！", "bonus": "Schwein haben = 運がいい"},
+      "B1-1979": {"pron": "シャーフ", "tip": "英語の sheep と同じ語源 🐑 毛を刈られてシャープな羊！", "bonus": "das schwarze Schaf = 一家の厄介者"},
+      "A2-762": {"pron": "フーン", "tip": "英語の hen と親戚 🐔「フーン」と得意げに卵を産むニワトリ！", "warn": "料理した鶏は das Hähnchen：ein halbes Hähnchen"},
+      "B1-1975": {"pron": "レーヴェ", "tip": "ラテン語 leo から 🦁 しし座 Leo の親戚です！", "warn": "男性弱変化：den/dem Löwen"},
+      "B1-1967": {"pron": "エレファント", "tip": "ギリシャ語 elephas から 🐘 英語の ph が f に！", "warn": "男性弱変化：den/dem Elefanten"},
+      "B1-1965": {"pron": "ベーア", "tip": "英語の bear と同じ 🐻 ベルリンのシンボル動物！", "warn": "男性弱変化：den/dem Bären"}
+    },
+    "culture": [
+      "ベルリンのシンボルはクマです。市の紋章にもクマが描かれていて、街のあちこちでカラフルに塗られたクマの像を見かけます。ベルリンのお土産屋さんにもクマは欠かせません。",
+      "ドイツでは豚は幸運の動物です。だから「Schwein haben」は「運がいい」という意味。新年にはマジパンで作った小さな豚（Glücksschwein）を贈ることもあります。",
+      "アルプス地方では秋に、牛たちが山の放牧地から村へ下りてくる行事（Almabtrieb）が開かれることがあります。花で飾られた牛たちが列になって歩く姿は圧巻です。🐄"
+    ],
+    "quiz": {"q": "友だちが道で50ユーロを拾ったそうです。何と言いますか？", "o": ["Du hast einen Vogel!", "Du hast Schwein gehabt!", "Du bist ein schwarzes Schaf!"], "a": 1, "why": "Schwein haben は「運がいい」なので、お金を拾った友だちにぴったりです。"},
+    "outro": "今日は10匹の動物を冠詞付きで声に出して呼んでみましょう。そして明日、誰かに「Schwein gehabt!」と言ってみて！🍀"
+  }
+}

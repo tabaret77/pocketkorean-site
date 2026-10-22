@@ -1,0 +1,84 @@
+{
+  "key": "cinema",
+  "ko": {
+    "title": "팝콘 들고 독일 영화관 가기: 꼭 필요한 단어 10",
+    "hook": "독일 영화관에서 표를 샀는데 영화가 전부 독일어 더빙이라면? 오늘 단어로 미리 피해 가요.",
+    "intro": [
+      "금요일 저녁, 친구가 “Gehen wir ins Kino?” 하고 연락했어요. 예매 사이트를 열었더니 Vorstellung, Reihe, OmU… 낯선 말투성이. 좌석을 고르다가 맨 앞줄을 눌러 버려서 두 시간 내내 고개를 젖히고 봤어요.",
+      "오늘은 영화관에서 쓰는 단어 10개예요. 이 단어들이면 상영 시간을 확인하고, 좋은 자리를 고르고, 영화가 끝난 뒤 감상까지 독일어로 말할 수 있어요. 🎬"
+    ],
+    "words": {
+      "A1-149": {"pron": "키노", "tip": "Kinematograph(영사기)의 줄임말 🎞️ 영화관에 가다는 ins Kino gehen!", "warn": "Kino는 ‘영화’가 아니라 ‘영화관’이에요. 영화 한 편은 der Film."},
+      "A1-286": {"pron": "필름", "tip": "영어 film이랑 똑같아서 외울 필요 없는 단어 🎥", "bonus": "영화 어땠어? = Wie war der Film?"},
+      "A2-773": {"pron": "키노카르테", "tip": "Kino + Karte(표) = 영화표 🎟️ 독일어는 레고처럼 붙여요.", "bonus": "같은 원리로 콘서트 표는 die Konzertkarte"},
+      "B1-269": {"pron": "포어슈텔룽", "tip": "vor(앞에) + stellen(세우다) = 사람들 앞에 세워 보여 주는 것 🎭 공연, 소개, 상상 모두!", "bonus": "취업 면접은 das Vorstellungsgespräch"},
+      "A2-551": {"pron": "라이에", "tip": "의자들이 나란히 줄지어 선 모습 💺 영어 row와 친척일지도!", "bonus": "내 차례야 = Ich bin an der Reihe."},
+      "BL-14-05": {"pron": "지츠플라츠", "tip": "sitzen(앉다) + Platz(자리) = 앉는 자리 🪑", "bonus": "자리 있어요? = Ist der Platz noch frei?"},
+      "B2-1345": {"pron": "라인반트", "tip": "Leinen(리넨) + 옛말 wat(천) = 리넨 천 🖼️ 화가의 캔버스도, 영화 스크린도!", "bonus": "auf der großen Leinwand = 큰 스크린에서, 극장에서"},
+      "A2-960": {"pron": "포프코른", "tip": "영어 그대로, 대신 독일식 발음으로 🍿", "bonus": "독일에서는 단 팝콘(süß)이냐 짠 팝콘(salzig)이냐를 꼭 물어봐요."},
+      "B2-3910": {"pron": "포어퓌룽", "tip": "vor(앞에) + führen(이끌다) = 앞으로 끌어내 보여 주기 📽️ -ung이니 die!", "bonus": "동사 vorführen = 상영하다, 시연하다"},
+      "A2-186": {"pron": "슈파넨트", "tip": "spannen(팽팽히 당기다) → 마음이 팽팽해지는 영화 😱", "bonus": "반대말은 langweilig(지루한)"}
+    },
+    "culture": [
+      "독일 영화관에서는 외국 영화를 대부분 독일어로 더빙해서 상영해요. 원어로 보고 싶다면 OV(원어판)나 OmU(원어+독일어 자막) 표시가 있는 Vorstellung을 찾으세요. 대도시에는 이런 상영관이 꽤 있어요.",
+      "영화 시작 시간이 되어도 바로 영화가 나오지 않아요. 광고와 예고편이 꽤 길게 나오는 경우가 많아서, 몇 분 늦어도 괜찮은 일이 흔해요. 좌석은 보통 지정석이라 예매할 때 Reihe와 Platz를 골라요.",
+      "많은 영화관이 일주일에 하루 표를 싸게 파는 Kinotag을 운영해요. 동네 영화관 홈페이지에서 한번 확인해 보세요. 🍿"
+    ],
+    "quiz": {"q": "영화관에서 빈자리 옆 사람에게 자리가 비었는지 물어보고 싶어요.", "o": ["Ist der Platz noch frei?", "Der Film war super.", "Ich bin an der Reihe."], "a": 0, "why": "Ist der Platz noch frei? = 이 자리 비었어요? 영화관, 기차, 카페 어디서나 쓸 수 있어요."},
+    "outro": "최근에 본 영화를 한 문장으로 말해 봐요. Der Film war sehr spannend! 처럼요. 🎬"
+  },
+  "en": {
+    "title": "Popcorn ready? 10 German words for the cinema",
+    "hook": "Imagine buying a ticket and discovering the whole film is dubbed into German. Today's words help you avoid that.",
+    "intro": [
+      "Friday evening, a friend texts: “Gehen wir ins Kino?” I open the booking site and it's all Vorstellung, Reihe, OmU… I pick a seat in a hurry and end up in the very first row, craning my neck for two hours.",
+      "Here are ten words for a trip to the cinema. With them you can check showtimes, choose a good seat and even tell your friends what you thought afterwards. 🎬"
+    ],
+    "words": {
+      "A1-149": {"pron": "KEE-noh", "tip": "Short for Kinematograph, an early projector 🎞️ to go to the cinema = ins Kino gehen", "warn": "Kino is the place. The film itself is der Film."},
+      "A1-286": {"pron": "FILM", "tip": "Same as English — a word you get for free 🎥", "bonus": "How was the film? = Wie war der Film?"},
+      "A2-773": {"pron": "KEE-noh-kar-tuh", "tip": "Kino + Karte (ticket) = cinema ticket 🎟️ German snaps words together like Lego.", "bonus": "Same pattern: a concert ticket is die Konzertkarte."},
+      "B1-269": {"pron": "FOR-shtel-oong", "tip": "vor (in front) + stellen (to put) = putting something in front of people 🎭 A show, an introduction or an idea.", "bonus": "a job interview = das Vorstellungsgespräch"},
+      "A2-551": {"pron": "RYE-uh", "tip": "Seats lined up side by side 💺 Maybe a cousin of English row.", "bonus": "It's my turn = Ich bin an der Reihe."},
+      "BL-14-05": {"pron": "ZITS-plats", "tip": "sitzen (to sit) + Platz (place) = a place to sit 🪑", "bonus": "Is this seat free? = Ist der Platz noch frei?"},
+      "B2-1345": {"pron": "LINE-vahnt", "tip": "Leinen (linen) + an old word for cloth 🖼️ A painter's canvas or a cinema screen.", "bonus": "auf der großen Leinwand = on the big screen"},
+      "A2-960": {"pron": "POP-korn", "tip": "Straight from English, just said the German way 🍿", "bonus": "You'll often be asked: süß (sweet) oder salzig (salty)?"},
+      "B2-3910": {"pron": "FOR-fue-roong", "tip": "vor (forward) + führen (to lead) = leading something out to show it 📽️ -ung, so die.", "bonus": "The verb vorführen = to screen, to demonstrate"},
+      "A2-186": {"pron": "SHPAN-ent", "tip": "From spannen (to pull tight) — a film that keeps you tense 😱", "bonus": "The opposite: langweilig (boring)"}
+    },
+    "culture": [
+      "Most foreign films in German cinemas are dubbed into German. To see the original, look for showings marked OV (original version) or OmU (original with German subtitles). Big cities usually have a few cinemas that show them.",
+      "The film rarely starts at the listed time: there's often a long block of adverts and trailers first, so arriving a few minutes late is common. Seats are usually assigned, so you choose your Reihe and Platz when you book.",
+      "Many cinemas also have a Kinotag, one day a week when tickets are cheaper. Check your local cinema's website. 🍿"
+    ],
+    "quiz": {"q": "At the cinema you want to ask whether the seat next to someone is free. What do you say?", "o": ["Ist der Platz noch frei?", "Der Film war super.", "Ich bin an der Reihe."], "a": 0, "why": "Ist der Platz noch frei? = Is this seat free? It works in cinemas, trains and cafés."},
+    "outro": "Sum up the last film you saw in one sentence — for example, Der Film war sehr spannend! 🎬"
+  },
+  "ja": {
+    "title": "ポップコーン片手に！映画館で使うドイツ語10",
+    "hook": "チケットを買ったら、映画がまるごとドイツ語吹き替えだった…。今日の単語でそんな失敗を防ぎましょう。",
+    "intro": [
+      "金曜の夜、友だちから「Gehen wir ins Kino?」と連絡が来ました。予約サイトを開くと、Vorstellung、Reihe、OmU…知らない言葉ばかり。急いで席を選んだら最前列で、2時間ずっと首をそらして観ることになりました。",
+      "今日は映画館で使う単語を10個集めました。上映時間を確認して、いい席を選んで、観たあとの感想までドイツ語で言えるようになります。🎬"
+    ],
+    "words": {
+      "A1-149": {"pron": "キーノ", "tip": "Kinematograph（映写機）の短縮形 🎞️ 映画館に行く = ins Kino gehen！", "warn": "Kino は「映画館」です。映画作品は der Film。"},
+      "A1-286": {"pron": "フィルム", "tip": "英語の film と同じなので、覚えなくていい単語 🎥", "bonus": "映画どうだった？ = Wie war der Film?"},
+      "A2-773": {"pron": "キーノカルテ", "tip": "Kino + Karte（券）= 映画のチケット 🎟️ ドイツ語はレゴのように組み立てます。", "bonus": "同じ仕組みで、コンサートのチケットは die Konzertkarte"},
+      "B1-269": {"pron": "フォーアシュテルング", "tip": "vor（前に）+ stellen（置く）= 人の前に出して見せること 🎭 上演も紹介も想像も！", "bonus": "採用面接は das Vorstellungsgespräch"},
+      "A2-551": {"pron": "ライエ", "tip": "いすが横一列に並んだ様子 💺 英語の row の親戚かも！", "bonus": "私の番です = Ich bin an der Reihe."},
+      "BL-14-05": {"pron": "ジッツプラッツ", "tip": "sitzen（座る）+ Platz（場所）= 座る場所 🪑", "bonus": "この席空いていますか？ = Ist der Platz noch frei?"},
+      "B2-1345": {"pron": "ラインヴァント", "tip": "Leinen（リネン）+ 古い言葉で「布」🖼️ 画家のキャンバスも映画のスクリーンも！", "bonus": "auf der großen Leinwand = 大きなスクリーンで、映画館で"},
+      "A2-960": {"pron": "ポップコルン", "tip": "英語そのまま、最後の r を少し響かせてドイツ語らしく 🍿", "bonus": "ドイツでは süß（甘い）か salzig（塩味）かをよく聞かれます。"},
+      "B2-3910": {"pron": "フォーアフュールング", "tip": "vor（前へ）+ führen（導く）= 前に引き出して見せること 📽️ -ung なので die！", "bonus": "動詞 vorführen = 上映する、実演する"},
+      "A2-186": {"pron": "シュパネント", "tip": "spannen（ぴんと張る）から、気持ちが張りつめる映画 😱", "bonus": "反対は langweilig（退屈な）"}
+    },
+    "culture": [
+      "ドイツの映画館では、外国映画はほとんどドイツ語吹き替えで上映されます。元の言語で観たいなら、OV（オリジナル版）や OmU（オリジナル＋ドイツ語字幕）と書かれた Vorstellung を探しましょう。大きな都市にはそういう映画館がけっこうあります。",
+      "上映時間になっても、すぐには本編が始まりません。広告と予告編がかなり長く流れることが多いので、数分遅れても間に合うことがよくあります。席はふつう指定席なので、予約のときに Reihe と Platz を選びます。",
+      "多くの映画館には、週に一日チケットが安くなる Kinotag があります。近所の映画館のサイトで確認してみてください。🍿"
+    ],
+    "quiz": {"q": "映画館で、隣の席が空いているか聞きたいです。何と言いますか？", "o": ["Ist der Platz noch frei?", "Der Film war super.", "Ich bin an der Reihe."], "a": 0, "why": "Ist der Platz noch frei? =「この席は空いていますか？」映画館でも電車でもカフェでも使えます。"},
+    "outro": "最近観た映画を一文で言ってみましょう。Der Film war sehr spannend! のように。🎬"
+  }
+}

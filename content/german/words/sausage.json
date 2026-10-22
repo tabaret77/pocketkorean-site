@@ -1,0 +1,225 @@
+{
+  "key": "sausage",
+  "ko": {
+    "title": "소시지의 나라에서 고기 살 때 필요한 10단어",
+    "hook": "정육점 진열대 앞에서 손가락만 가리키는 건 오늘로 끝이에요.",
+    "intro": [
+      "독일 마트의 고기 코너나 동네 정육점 앞에 서면 소시지 종류만 수십 가지예요. 뒤에는 줄이 길게 서 있고, 점원은 “Was darf's sein?” 하고 기다리는데, 다진 고기가 뭐였더라? 햄은 얼마나 달라고 하지?",
+      "오늘은 고기와 소시지를 살 때, 식당에서 메뉴를 고를 때 바로 쓰는 단어 10개예요. 이 단어들이면 정육점에서도 당당하게 주문할 수 있어요. 🌭"
+    ],
+    "words": {
+      "A1-236": {
+        "pron": "부어스트",
+        "tip": "‘부어서 터질 듯’ 통통한 소시지 = Wurst 🌭",
+        "bonus": "Das ist mir Wurst. = 난 아무래도 상관없어. (진짜 자주 써요!)",
+        "warn": "복수는 움라우트: die Würste."
+      },
+      "A1-025": {
+        "pron": "플라이슈",
+        "tip": "영어 flesh(살)와 같은 뿌리 🥩 고기 종류는 전부 ○○fleisch!",
+        "bonus": "Ich esse kein Fleisch. = 저 고기 안 먹어요."
+      },
+      "A1-547": {
+        "pron": "슁켄",
+        "tip": "원래 ‘넓적다리’라는 뜻, 영어 shin(정강이)과 친척 🍖 다리 고기로 만든 게 햄!"
+      },
+      "A2-1037": {
+        "pron": "뷔르스트헨",
+        "tip": "Wurst + -chen(작은) = 꼬마 소시지 🌭 -chen이 붙으면 무조건 das!",
+        "warn": "u가 ü로 바뀌어요: die Wurst → das Würstchen."
+      },
+      "A2-839": {
+        "pron": "슈바이네플라이슈",
+        "tip": "Schwein(돼지, 영어 swine) + Fleisch = 돼지고기 🐷",
+        "bonus": "“Ist da Schweinefleisch drin?” = 여기 돼지고기 들었어요?"
+      },
+      "A2-838": {
+        "pron": "린트플라이슈",
+        "tip": "Rind(소) + Fleisch = 소고기 🐄 ‘린트’ 소가 음메~"
+      },
+      "A1-238": {
+        "pron": "핸헨",
+        "tip": "Hahn(수탉) + -chen = 닭고기 🍗 -chen이니까 das!",
+        "bonus": "살아 있는 닭은 보통 das Huhn이라고 해요."
+      },
+      "A2-1005": {
+        "pron": "메츠거",
+        "tip": "‘메츠메츠’ 칼질하는 소리 같은 정육점 주인 🔪",
+        "warn": "지역마다 달라요: 남·서부는 Metzger, 북부는 Fleischer나 Schlachter."
+      },
+      "B1-1479": {
+        "pron": "하크플라이슈",
+        "tip": "hacken(다지다, 영어 hack) + Fleisch = 다진 고기 🍝",
+        "bonus": "줄여서 그냥 Hack · gemischtes Hack = 소·돼지 혼합"
+      },
+      "B2-2475": {
+        "pron": "아우프슈니트",
+        "tip": "auf + schneiden(자르다) = 얇게 썰어 빵 위에 올리는 것 🥪"
+      }
+    },
+    "culture": [
+      "독일에는 지역마다 대표 소시지가 있어요. 튀링겐의 Rostbratwurst, 뉘른베르크의 작은 Nürnberger, 바이에른의 하얀 Weißwurst, 베를린과 루르 지방의 Currywurst까지. 여행할 때 그 지역 소시지를 먹어 보는 재미가 쏠쏠해요.",
+      "많은 집에서는 저녁을 차갑게 먹어요. 이걸 Abendbrot라고 하는데, 빵에 Aufschnitt와 치즈를 올려 먹는 간단한 저녁이에요.",
+      "정육점이나 마트 고기 코너(Fleischtheke)에서는 무게로 주문해요. “200 Gramm Aufschnitt, bitte.”처럼요. 아이와 함께 가면 점원이 소시지 한 조각을 건네주는 경우도 많아요. 🥩"
+    ],
+    "quiz": {
+      "q": "정육점에서 볼로네제 소스용 다진 고기를 사고 싶어요. 뭐라고 말할까요?",
+      "o": [
+        "Eine Bratwurst, bitte.",
+        "500 Gramm Hackfleisch, bitte.",
+        "Das ist mir Wurst."
+      ],
+      "a": 1,
+      "why": "Hackfleisch가 다진 고기예요. 무게 + Hackfleisch, bitte로 주문하면 돼요."
+    },
+    "outro": "다음에 마트에 가면 고기 코너 라벨을 하나씩 읽어 보세요. 그리고 누가 뭐 먹을지 물으면 “Das ist mir Wurst!”로 받아쳐 봐요. 😄"
+  },
+  "en": {
+    "title": "10 meaty words for the land of sausages",
+    "hook": "No more pointing silently at the butcher's counter.",
+    "intro": [
+      "Stand at a German meat counter and you'll see dozens of sausages. There's a queue behind you, the assistant asks “Was darf's sein?” — and you can't remember the word for mince or how to ask for ham.",
+      "Today's ten words help you buy meat and sausages and read menus. With them, you can order at the butcher's with confidence. 🌭"
+    ],
+    "words": {
+      "A1-236": {
+        "pron": "VOORST",
+        "tip": "Wurst case scenario: you can't decide which sausage to pick 🌭",
+        "bonus": "Das ist mir Wurst. = I really don't mind. (People say it all the time!)",
+        "warn": "The plural gets an umlaut: die Würste."
+      },
+      "A1-025": {
+        "pron": "FLYSH",
+        "tip": "Same root as English flesh 🥩 Every type of meat is ___fleisch.",
+        "bonus": "Ich esse kein Fleisch. = I don't eat meat."
+      },
+      "A1-547": {
+        "pron": "SHING-ken",
+        "tip": "Originally ‘thigh’, related to English shin 🍖 Ham comes from the leg!"
+      },
+      "A2-1037": {
+        "pron": "VÜRST-khen",
+        "tip": "Wurst + -chen (little) = a little sausage 🌭 -chen always means das.",
+        "warn": "The u becomes ü: die Wurst → das Würstchen."
+      },
+      "A2-839": {
+        "pron": "SHVY-nuh-flysh",
+        "tip": "Schwein (think swine) + Fleisch = pork 🐷",
+        "bonus": "“Ist da Schweinefleisch drin?” = Is there pork in it?"
+      },
+      "A2-838": {
+        "pron": "RINT-flysh",
+        "tip": "Rind (cattle) + Fleisch = beef 🐄 Think of the rind on a steak."
+      },
+      "A1-238": {
+        "pron": "HAIN-khen",
+        "tip": "Hahn (cockerel) + -chen = chicken 🍗 -chen, so it's das.",
+        "bonus": "A live hen is usually das Huhn."
+      },
+      "A2-1005": {
+        "pron": "METS-ger",
+        "tip": "Imagine a butcher called Mets who never forgets your order 🔪",
+        "warn": "It's regional: Metzger in the south and west, Fleischer or Schlachter in the north."
+      },
+      "B1-1479": {
+        "pron": "HAK-flysh",
+        "tip": "hacken (to chop — English hack) + Fleisch = mince 🍝",
+        "bonus": "Often just Hack · gemischtes Hack = mixed beef and pork"
+      },
+      "B2-2475": {
+        "pron": "OWF-shnit",
+        "tip": "auf + schneiden (to cut) = slices to put on your bread 🥪"
+      }
+    },
+    "culture": [
+      "Every region has its own sausage: Thüringer Rostbratwurst, small Nürnberger, white Bavarian Weißwurst, and Currywurst in Berlin and the Ruhr. Trying the local one is half the fun of travelling.",
+      "In many homes, dinner is a cold meal called Abendbrot: bread with Aufschnitt and cheese. Simple and quick.",
+      "At the meat counter (Fleischtheke) you order by weight: “200 Gramm Aufschnitt, bitte.” If you have a child with you, the assistant often hands them a free slice of sausage. 🥩"
+    ],
+    "quiz": {
+      "q": "You want minced meat for a Bolognese sauce. What do you say at the butcher's?",
+      "o": [
+        "Eine Bratwurst, bitte.",
+        "500 Gramm Hackfleisch, bitte.",
+        "Das ist mir Wurst."
+      ],
+      "a": 1,
+      "why": "Hackfleisch is mince; just say the weight + Hackfleisch, bitte."
+    },
+    "outro": "Next time you're at the supermarket, read the labels at the meat counter. And when someone asks what you want for dinner, try “Das ist mir Wurst!” 😄"
+  },
+  "ja": {
+    "title": "ソーセージの国で肉を買うときの10単語",
+    "hook": "肉屋のショーケースの前で指さしするだけなのは、今日でおしまいです。",
+    "intro": [
+      "ドイツのスーパーの肉売り場や町の肉屋に行くと、ソーセージだけで何十種類も並んでいます。後ろには行列、店員さんは「Was darf's sein?」と待っているのに、ひき肉って何だっけ？ハムはどう頼むの？",
+      "今日は肉やソーセージを買うとき、レストランでメニューを選ぶときにすぐ使える単語10個です。これで肉屋でも堂々と注文できますよ。🌭"
+    ],
+    "words": {
+      "A1-236": {
+        "pron": "ヴルスト",
+        "tip": "「ブルッ」とはじけそうなソーセージ = Wurst 🌭",
+        "bonus": "Das ist mir Wurst. =「どっちでもいいよ」（本当によく使います！）",
+        "warn": "複数形はウムラウト：die Würste。"
+      },
+      "A1-025": {
+        "pron": "フライシュ",
+        "tip": "英語の flesh（肉体）と同じ語源 🥩 肉の種類はみんな〇〇fleisch！",
+        "bonus": "Ich esse kein Fleisch. = 肉は食べません。"
+      },
+      "A1-547": {
+        "pron": "シンケン",
+        "tip": "元は「もも」の意味、英語の shin（すね）の親戚 🍖 脚の肉からハム！"
+      },
+      "A2-1037": {
+        "pron": "ヴュルストヒェン",
+        "tip": "Wurst + -chen（小さい）= ちびソーセージ 🌭 -chen が付けば必ず das！",
+        "warn": "u が ü に変わります：die Wurst → das Würstchen。"
+      },
+      "A2-839": {
+        "pron": "シュヴァイネフライシュ",
+        "tip": "Schwein（豚、英語 swine）+ Fleisch = 豚肉 🐷",
+        "bonus": "「Ist da Schweinefleisch drin?」= 豚肉は入っていますか？"
+      },
+      "A2-838": {
+        "pron": "リントフライシュ",
+        "tip": "Rind（牛）+ Fleisch = 牛肉 🐄 「リント」と牛がモー！"
+      },
+      "A1-238": {
+        "pron": "ヘーンヒェン",
+        "tip": "Hahn（雄鶏）+ -chen = 鶏肉 🍗 -chen だから das！",
+        "bonus": "生きているニワトリはふつう das Huhn と言います。"
+      },
+      "A2-1005": {
+        "pron": "メッツガー",
+        "tip": "「メッツメッツ」と包丁の音がしそうな肉屋さん 🔪",
+        "warn": "地域で違います：南部・西部は Metzger、北部は Fleischer や Schlachter。"
+      },
+      "B1-1479": {
+        "pron": "ハックフライシュ",
+        "tip": "hacken（刻む、英語 hack）+ Fleisch = ひき肉 🍝",
+        "bonus": "短く Hack とも · gemischtes Hack = 合いびき肉"
+      },
+      "B2-2475": {
+        "pron": "アウフシュニット",
+        "tip": "auf + schneiden（切る）= 薄く切ってパンにのせるもの 🥪"
+      }
+    },
+    "culture": [
+      "ドイツには地域ごとに名物ソーセージがあります。テューリンゲンの Rostbratwurst、小さな Nürnberger、バイエルンの白い Weißwurst、ベルリンやルール地方の Currywurst など。旅先でその土地のソーセージを食べるのも楽しみのひとつです。",
+      "多くの家庭では、夕食は火を使わない Abendbrot です。パンに Aufschnitt やチーズをのせて食べる、シンプルな夕食です。",
+      "肉屋やスーパーの肉売り場（Fleischtheke）では重さで注文します。「200 Gramm Aufschnitt, bitte.」のように。子ども連れだと、店員さんがソーセージを一切れくれることもよくあります。🥩"
+    ],
+    "quiz": {
+      "q": "ボロネーゼ用のひき肉を買いたいです。肉屋で何と言いますか？",
+      "o": [
+        "Eine Bratwurst, bitte.",
+        "500 Gramm Hackfleisch, bitte.",
+        "Das ist mir Wurst."
+      ],
+      "a": 1,
+      "why": "Hackfleisch がひき肉です。重さ + Hackfleisch, bitte で注文できます。"
+    },
+    "outro": "次にスーパーへ行ったら、肉売り場のラベルを読んでみましょう。夕飯何がいい？と聞かれたら「Das ist mir Wurst!」と返してみてください。😄"
+  }
+}

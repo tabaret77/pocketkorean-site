@@ -1,0 +1,84 @@
+{
+  "key": "music",
+  "ko": {
+    "title": "좋아하는 노래 이야기할 때 쓰는 독일어 10",
+    "hook": "‘요즘 무슨 노래 들어?’ 이 질문 하나로 독일 친구와 한 시간도 떠들 수 있어요.",
+    "intro": [
+      "독일 친구 차를 탔는데 라디오에서 처음 듣는 노래가 흘러나왔어요. 친구는 신나서 따라 부르는데, 저는 ‘이 노래 뭐야? 가수 누구야?’ 이 한마디가 독일어로 안 나오더라고요.",
+      "오늘은 음악과 노래 이야기에 꼭 필요한 단어 10개예요. 좋아하는 가수, 목소리, 멜로디, 가사까지 이 10개면 취향 토크가 시작돼요. 이어폰 끼고 같이 가 볼까요? 🎧"
+    ],
+    "words": {
+      "A1-157": {"pron": "무지크", "tip": "강세는 뒤에! 무-지크 🎵 영어처럼 ‘뮤-직’ 하면 독일 사람이 갸웃해요.", "bonus": "Musik hören = 음악을 듣다 · Musik machen = 음악을 하다(연주하다)"},
+      "A1-287": {"pron": "리트", "tip": "클래식의 ‘가곡(Lied)’이 바로 이 단어 🎼 짧고 굵게 ‘리트’!", "warn": "복수형은 die Lieder. 마지막 d는 [t]로 발음해요."},
+      "A1-177": {"pron": "징엔", "tip": "영어 sing과 쌍둥이 🎤 단, s는 [z]로 부드럽게 ‘징엔’!", "warn": "불규칙 동사예요: sang – hat gesungen"},
+      "A2-663": {"pron": "젱어", "tip": "singen + -er = 노래하는 사람 🧑‍🎤 i가 ä로 변신했어요!", "bonus": "여자 가수는 die Sängerin"},
+      "A2-271": {"pron": "슈티메", "tip": "Stimmung(분위기)과 한 가족 🗣️ 목소리가 분위기를 만들죠!", "bonus": "선거의 ‘표’도 die Stimme예요: Jede Stimme zählt."},
+      "B1-2300": {"pron": "멜로디", "tip": "강세는 맨 끝 ‘디’ 🎶 -ie로 끝나는 외래어는 대부분 die!", "bonus": "머리에서 안 떠나는 노래 = der Ohrwurm (귀벌레!)"},
+      "A1-559": {"pron": "텍스트", "tip": "영어 text 그대로 📝 노래에서는 ‘가사’라는 뜻이 돼요.", "bonus": "가사 = der Songtext · Ich kenne den Text nicht. = 가사를 몰라요."},
+      "B2-3121": {"pron": "뤼트무스", "tip": "Rh, th, y… 철자만 보면 어려워 보여도 발음은 ‘뤼트무스’ 🥁", "warn": "복수형: die Rhythmen · 철자에 h가 두 개예요."},
+      "B1-2014": {"pron": "히트", "tip": "영어 hit 그대로 💥 차트를 강타한 노래!", "bonus": "여름 히트곡 = der Sommerhit"},
+      "B1-2116": {"pron": "알붐", "tip": "라틴어 ‘하얀 판’에서 💿 하얀 종이에 사진 붙이던 것도 Album!", "warn": "복수형이 특이해요: die Alben"}
+    },
+    "culture": [
+      "독일에는 합창단(Chor)에서 노래하는 사람이 정말 많아요. 교회, 회사, 동네 협회(Verein)마다 합창단이 있는 경우가 흔하고, 나이와 상관없이 취미로 즐겨요.",
+      "파티나 축제에서는 Schlager라는 독일식 대중가요가 자주 나와요. 촌스럽다고 놀리면서도 막상 노래가 나오면 다 같이 따라 부르는 게 국룰이에요.",
+      "집에서 악기를 연습한다면 Hausordnung을 꼭 확인하세요. 많은 건물에서 점심시간이나 밤에는 조용히 해야 하는 Ruhezeit가 정해져 있어요. 🎹"
+    ],
+    "quiz": {"q": "친구가 가수에 대해 물어요. 나는 그 가수의 목소리가 정말 좋아요. 뭐라고 할까요?", "o": ["Sie hat einen tollen Rhythmus.", "Das Lied ist ein Hit.", "Sie hat eine tolle Stimme."], "a": 2, "why": "die Stimme = 목소리. ‘목소리가 멋져’는 Sie hat eine tolle Stimme.예요."},
+    "outro": "오늘 좋아하는 노래 하나를 골라서 ‘Mein Lieblingslied ist …’라고 소개해 봐요. 독일어 노래라면 가사 한 줄 따라 부르기까지 도전! 🎤"
+  },
+  "en": {
+    "title": "Talk about your favourite songs: 10 German music words",
+    "hook": "‘What are you listening to at the moment?’ — one question that can keep you chatting with a German friend for an hour.",
+    "intro": [
+      "You're in a German friend's car and a song you've never heard comes on the radio. Your friend sings along happily, but you can't even get out ‘What's this song? Who's the singer?’ in German.",
+      "Today's ten words are what you need to talk about music. Your favourite singer, their voice, the melody, the lyrics — with these, you can start swapping music tastes. Headphones on! 🎧"
+    ],
+    "words": {
+      "A1-157": {"pron": "moo-ZEEK", "tip": "Stress at the end: moo-ZEEK 🎵 Say ‘MEW-zik’ and Germans will look puzzled.", "bonus": "Musik hören = to listen to music · Musik machen = to make/play music"},
+      "A1-287": {"pron": "LEET", "tip": "Classical music fans know Lieder, art songs 🎼 Short and simple: ‘leet’.", "warn": "Plural: die Lieder. The final d sounds like t."},
+      "A1-177": {"pron": "ZING-en", "tip": "English sing's twin 🎤 But the s is a soft z: ‘zing-en’.", "warn": "Irregular: sang – hat gesungen"},
+      "A2-663": {"pron": "ZENG-er", "tip": "singen + -er = someone who sings 🧑‍🎤 The i changes to ä.", "bonus": "A female singer is die Sängerin."},
+      "A2-271": {"pron": "SHTIM-muh", "tip": "Family of Stimmung (mood) 🗣️ A voice sets the mood!", "bonus": "It also means a vote: Jede Stimme zählt. = Every vote counts."},
+      "B1-2300": {"pron": "meh-loh-DEE", "tip": "Stress on the very end: -DIE 🎶 Loanwords in -ie are usually die.", "bonus": "A tune stuck in your head = der Ohrwurm — English earworm comes from it!"},
+      "A1-559": {"pron": "TEKST", "tip": "Just English text 📝 For songs, it means the lyrics.", "bonus": "lyrics = der Songtext · Ich kenne den Text nicht. = I don't know the words."},
+      "B2-3121": {"pron": "RÜT-mooss", "tip": "Rh, th, y — scary spelling, simple sound: ‘RÜT-mooss’ 🥁", "warn": "Plural: die Rhythmen · and watch the two h's."},
+      "B1-2014": {"pron": "HIT", "tip": "Straight from English 💥 A song that hits the charts.", "bonus": "summer hit = der Sommerhit"},
+      "B1-2116": {"pron": "AL-boom", "tip": "Latin for ‘white tablet’ 💿 Photo albums started as blank white pages.", "warn": "Odd plural: die Alben"}
+    },
+    "culture": [
+      "Lots of people in Germany sing in a choir (Chor). Churches, companies and local clubs (Vereine) often have one, and people of all ages join just for fun.",
+      "At parties and festivals you'll often hear Schlager, a kind of very German pop. People love to tease it as cheesy — and then everyone sings along the moment it comes on.",
+      "If you practise an instrument at home, check your building's Hausordnung. Many buildings have quiet hours (Ruhezeiten), often at lunchtime and at night. 🎹"
+    ],
+    "quiz": {"q": "A friend asks about a singer. You love how she sounds. What do you say?", "o": ["Sie hat einen tollen Rhythmus.", "Das Lied ist ein Hit.", "Sie hat eine tolle Stimme."], "a": 2, "why": "die Stimme = voice, so Sie hat eine tolle Stimme. means she has a great voice."},
+    "outro": "Pick a favourite song today and introduce it: ‘Mein Lieblingslied ist …’. If it's a German song, try singing one line along! 🎤"
+  },
+  "ja": {
+    "title": "好きな歌を語るためのドイツ語10",
+    "hook": "「最近どんな曲聴いてる？」この質問ひとつで、ドイツ人の友だちと1時間でも話せます。",
+    "intro": [
+      "ドイツ人の友だちの車に乗ったら、ラジオから初めて聞く曲が流れてきました。友だちはノリノリで一緒に歌っているのに、私は「この曲なに？歌手は誰？」のひとことがドイツ語で出てきませんでした。",
+      "今日は音楽や歌の話に欠かせない単語を10個集めました。好きな歌手、声、メロディー、歌詞まで、この10個で好きな音楽の話が始められます。イヤホンをつけて、一緒にいきましょう！🎧"
+    ],
+    "words": {
+      "A1-157": {"pron": "ムズィーク", "tip": "アクセントは後ろ！ム・ズィーク 🎵 英語のように「ミュージック」と言うと通じにくいです。", "bonus": "Musik hören = 音楽を聴く · Musik machen = 音楽をやる（演奏する）"},
+      "A1-287": {"pron": "リート", "tip": "クラシックの「リート（歌曲）」はこの単語 🎼 短く「リート」！", "warn": "複数形は die Lieder。最後の d は [t] と発音します。"},
+      "A1-177": {"pron": "ズィンゲン", "tip": "英語の sing と双子 🎤 ただし s はにごって「ズィンゲン」！", "warn": "不規則動詞です：sang – hat gesungen"},
+      "A2-663": {"pron": "ゼンガー", "tip": "singen + -er = 歌う人 🧑‍🎤 i が ä に変身しています！", "bonus": "女性の歌手は die Sängerin"},
+      "A2-271": {"pron": "シュティンメ", "tip": "Stimmung（雰囲気）の仲間 🗣️ 声が雰囲気をつくるんです！", "bonus": "選挙の「票」も die Stimme：Jede Stimme zählt. = 一票一票が大切。"},
+      "B1-2300": {"pron": "メロディー", "tip": "アクセントは最後の「ディー」🎶 -ie で終わる外来語はたいてい die！", "bonus": "頭から離れない曲 = der Ohrwurm（耳の虫！）"},
+      "A1-559": {"pron": "テクスト", "tip": "英語の text そのまま 📝 歌の話では「歌詞」という意味になります。", "bonus": "歌詞 = der Songtext · Ich kenne den Text nicht. = 歌詞を知りません。"},
+      "B2-3121": {"pron": "リュトムス", "tip": "Rh、th、y…つづりは難しそうでも、音は「リュトムス」🥁", "warn": "複数形：die Rhythmen · つづりの h は2つです。"},
+      "B1-2014": {"pron": "ヒット", "tip": "英語の hit そのまま 💥 チャートを直撃した曲！", "bonus": "夏のヒット曲 = der Sommerhit"},
+      "B1-2116": {"pron": "アルブム", "tip": "ラテン語の「白い板」から 💿 白い台紙に写真を貼るのも Album！", "warn": "複数形に注意：die Alben"}
+    },
+    "culture": [
+      "ドイツでは合唱団（Chor）で歌う人がとても多いです。教会、会社、地域のクラブ（Verein）に合唱団があることも珍しくなく、年齢に関係なく趣味として楽しんでいます。",
+      "パーティーやお祭りでは、Schlager というドイツ流の歌謡曲がよく流れます。「ダサい」とからかいながらも、曲がかかるとみんなで大合唱するのがお約束です。",
+      "家で楽器を練習するなら、Hausordnung を必ず確認しましょう。多くの建物で、昼や夜に静かにする Ruhezeit が決められています。🎹"
+    ],
+    "quiz": {"q": "友だちに歌手のことを聞かれました。あなたはその歌手の声が大好きです。何と言いますか？", "o": ["Sie hat einen tollen Rhythmus.", "Das Lied ist ein Hit.", "Sie hat eine tolle Stimme."], "a": 2, "why": "die Stimme = 声。「声がすてき」は Sie hat eine tolle Stimme. です。"},
+    "outro": "今日は好きな曲をひとつ選んで、「Mein Lieblingslied ist …」と紹介してみましょう。ドイツ語の歌なら、歌詞を1行一緒に歌うところまで挑戦！🎤"
+  }
+}

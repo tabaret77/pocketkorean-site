@@ -1,0 +1,84 @@
+{
+  "key": "prepplace",
+  "ko": {
+    "title": "‘어디에?’에 답하는 작은 단어 10개",
+    "hook": "열쇠는 어디 있고, 약국은 어디 있죠? 이 작은 단어들이 없으면 대답을 못 해요.",
+    "intro": [
+      "독일 친구 집에서 “Wo ist das Bad?” 하고 물었더니 “Hinter der Küche, neben dem Schlafzimmer.”라는 대답이 돌아왔어요. 단어는 짧은데, 순간 머릿속이 하얘지더라고요.",
+      "오늘은 위치를 말할 때 쓰는 전치사 10개를 모았어요. 이 10개면 물건이 어디 있는지 말하고, 길을 묻고, 길 안내도 알아들을 수 있어요. 📍"
+    ],
+    "words": {
+      "A1-093": {"pron": "인", "tip": "영어 in과 똑같아요 📦 냉장고 안의 우유는 im Kühlschrank!", "warn": "어디에(wo?)는 3격 im, 어디로(wohin?)는 4격 ins: Ich gehe ins Kino."},
+      "A1-417": {"pron": "아우프", "tip": "영어 up과 같은 뿌리 📚 표면에 딱 붙어서 위에 있을 때 auf!", "warn": "닿지 않고 위에 떠 있으면 über예요. Das Buch liegt auf dem Tisch."},
+      "A1-566": {"pron": "운터", "tip": "영어 under와 거의 똑같아요 🐈 탁자 밑의 고양이는 unter dem Tisch!", "bonus": "unter uns = 우리끼리 얘긴데"},
+      "A2-523": {"pron": "네벤", "tip": "in eben(같은 높이에)이 줄어든 말 🧍‍♂️ 나란히 같은 높이에 = 옆에!", "bonus": "Die Bank ist neben der Post. = 은행은 우체국 옆에 있어요."},
+      "A2-485": {"pron": "힌터", "tip": "영어 behind, hind(뒤쪽)와 친척 🏡 집 뒤 정원은 hinter dem Haus!", "warn": "위치는 3격(hinter dem Haus), 이동은 4격(hinter das Haus)."},
+      "A1-592": {"pron": "츠비셴", "tip": "zwei(둘)가 숨어 있어요 ✌️ 두 개 사이에 끼어 있는 것!", "bonus": "zwischen der Bank und der Post = 은행과 우체국 사이에"},
+      "A1-406": {"pron": "안", "tip": "영어 on과 같은 뿌리 🖼️ 벽에 걸린 그림처럼 옆면에 붙어 있으면 an!", "bonus": "an + dem = am: am Fenster(창가에), am Montag(월요일에)"},
+      "A1-562": {"pron": "위버", "tip": "영어 over와 같은 뿌리 💡 탁자 위에 떠 있는 전등은 über dem Tisch!", "bonus": "‘~에 관해’라는 뜻도 있어요: über das Wetter sprechen"},
+      "A2-094": {"pron": "게겐위버", "tip": "gegen(~을 향해) + über(건너) = 길 건너 맞은편 ↔️", "warn": "항상 3격이고, 대명사와 쓰면 뒤에 와요: mir gegenüber."},
+      "A1-431": {"pron": "바이", "tip": "영어 by와 같은 뿌리 🏠 사람 옆, 사람 집에 있을 때 bei!", "warn": "항상 3격이에요. bei + dem = beim: Ich bin beim Arzt."}
+    },
+    "culture": [
+      "독일에서 길을 물으면 보통 아주 정확하게 알려 줘요. “Gegenüber der Apotheke, neben dem Supermarkt” 같은 식으로요. 오늘 단어를 알면 길 안내가 훨씬 잘 들릴 거예요.",
+      "층수 말하기도 조심하세요! 독일에서 1층은 das Erdgeschoss이고, im ersten Stock은 한국식으로 2층이에요. 약속 장소를 정할 때 헷갈리기 쉬워요.",
+      "그리고 ‘○○네 집에서’는 bei로 간단히 말해요. Ich bin bei Anna. = 안나네 집에 있어요. 독일 사람들이 정말 자주 쓰는 표현이에요. 🏠"
+    ],
+    "quiz": {"q": "고양이가 탁자 밑에서 자고 있어요. 맞는 문장은 뭘까요?", "o": ["Die Katze liegt unter dem Tisch.", "Die Katze liegt auf dem Tisch.", "Die Katze liegt über dem Tisch."], "a": 0, "why": "unter = ~ 아래에. auf는 탁자 위에, über는 탁자 위 공중에 있다는 뜻이에요."},
+    "outro": "지금 방 안을 둘러보고 물건 다섯 개의 위치를 독일어로 말해 봐요. Das Handy liegt auf dem Tisch! 📱"
+  },
+  "en": {
+    "title": "Where is it? 10 little German words that tell you",
+    "hook": "Where are the keys? Where's the pharmacy? Without these tiny words, you can't answer.",
+    "intro": [
+      "At a German friend's flat, I asked, “Wo ist das Bad?” The answer: “Hinter der Küche, neben dem Schlafzimmer.” Short words — but my mind went blank.",
+      "Today's ten words are prepositions of place. With them you can say where things are, ask the way and understand directions. 📍"
+    ],
+    "words": {
+      "A1-093": {"pron": "IN", "tip": "Just like English in 📦 The milk in the fridge is im Kühlschrank.", "warn": "Where? takes the dative (im); where to? takes the accusative (ins): Ich gehe ins Kino."},
+      "A1-417": {"pron": "OWF", "tip": "Same root as English up 📚 On top and touching: auf!", "warn": "Above without touching is über. Das Buch liegt auf dem Tisch."},
+      "A1-566": {"pron": "OON-ter", "tip": "Almost identical to English under 🐈 The cat under the table: unter dem Tisch.", "bonus": "unter uns = between you and me"},
+      "A2-523": {"pron": "NAY-ben", "tip": "A squashed form of in eben, ‘level with’ 🧍‍♂️ Side by side = next to.", "bonus": "Die Bank ist neben der Post. = The bank is next to the post office."},
+      "A2-485": {"pron": "HIN-ter", "tip": "A cousin of English behind and hind 🏡 The garden behind the house: hinter dem Haus.", "warn": "Location takes the dative (hinter dem Haus), movement the accusative (hinter das Haus)."},
+      "A1-592": {"pron": "TSVISH-en", "tip": "zwei (two) is hiding in it ✌️ Squeezed between two things.", "bonus": "zwischen der Bank und der Post = between the bank and the post office"},
+      "A1-406": {"pron": "AHN", "tip": "Same root as English on 🖼️ Touching a side, like a picture on the wall: an.", "bonus": "an + dem = am: am Fenster (by the window), am Montag (on Monday)"},
+      "A1-562": {"pron": "Ü-ber", "tip": "Same root as English over 💡 The lamp hanging over the table: über dem Tisch.", "bonus": "It also means ‘about’: über das Wetter sprechen"},
+      "A2-094": {"pron": "gay-gen-Ü-ber", "tip": "gegen (towards) + über (across) = across the road ↔️", "warn": "Always dative, and it comes after pronouns: mir gegenüber."},
+      "A1-431": {"pron": "BYE", "tip": "Same root as English by 🏠 By someone, or at their place: bei.", "warn": "Always dative. bei + dem = beim: Ich bin beim Arzt."}
+    },
+    "culture": [
+      "Ask for directions in Germany and you'll usually get a very precise answer, like “Gegenüber der Apotheke, neben dem Supermarkt.” With today's words, directions get much easier to follow.",
+      "Watch out with floors! The ground floor is das Erdgeschoss, so im ersten Stock is one floor up — what Americans call the second floor. Easy to get wrong when you're meeting someone.",
+      "And ‘at someone's place’ is simply bei: Ich bin bei Anna. = I'm at Anna's. Germans use it all the time. 🏠"
+    ],
+    "quiz": {"q": "The cat is asleep under the table. Which sentence is right?", "o": ["Die Katze liegt unter dem Tisch.", "Die Katze liegt auf dem Tisch.", "Die Katze liegt über dem Tisch."], "a": 0, "why": "unter means under; auf is on the table, and über is above it."},
+    "outro": "Look around your room and say where five things are, in German. Das Handy liegt auf dem Tisch! 📱"
+  },
+  "ja": {
+    "title": "「どこ？」に答える小さなドイツ語10",
+    "hook": "鍵はどこ？薬局はどこ？この小さな単語がないと答えられません。",
+    "intro": [
+      "ドイツ人の友だちの家で「Wo ist das Bad?」と聞いたら、返ってきたのは「Hinter der Küche, neben dem Schlafzimmer.」。短い単語なのに、一瞬頭が真っ白になりました。",
+      "今日は場所を表す前置詞を10個集めました。この10個があれば、物がどこにあるか言えて、道を聞いたり、道案内を聞き取ったりできます。📍"
+    ],
+    "words": {
+      "A1-093": {"pron": "イン", "tip": "英語の in とまったく同じ 📦 冷蔵庫の中の牛乳は im Kühlschrank！", "warn": "「どこに（wo?）」は3格 im、「どこへ（wohin?）」は4格 ins：Ich gehe ins Kino."},
+      "A1-417": {"pron": "アウフ", "tip": "英語の up と同じ語源 📚 表面にくっついて上にあるときが auf！", "warn": "触れずに上に浮いているなら über です。Das Buch liegt auf dem Tisch."},
+      "A1-566": {"pron": "ウンター", "tip": "英語の under とほぼ同じ 🐈 テーブルの下の猫は unter dem Tisch！", "bonus": "unter uns = ここだけの話"},
+      "A2-523": {"pron": "ネーベン", "tip": "in eben（同じ高さに）が縮まった言葉 🧍‍♂️ 並んで同じ高さ = 隣に！", "bonus": "Die Bank ist neben der Post. = 銀行は郵便局の隣にあります。"},
+      "A2-485": {"pron": "ヒンター", "tip": "英語の behind、hind（後ろの）の親戚 🏡 家の裏の庭は hinter dem Haus！", "warn": "位置は3格（hinter dem Haus）、移動は4格（hinter das Haus）。"},
+      "A1-592": {"pron": "ツヴィッシェン", "tip": "zwei（2）が隠れています ✌️ 2つのものの間にはさまれている！", "bonus": "zwischen der Bank und der Post = 銀行と郵便局の間に"},
+      "A1-406": {"pron": "アン", "tip": "英語の on と同じ語源 🖼️ 壁に掛かった絵のように、側面にくっついているなら an！", "bonus": "an + dem = am：am Fenster（窓辺で）、am Montag（月曜日に）"},
+      "A1-562": {"pron": "ユーバー", "tip": "英語の over と同じ語源 💡 テーブルの上に吊るされたランプは über dem Tisch！", "bonus": "「〜について」の意味も：über das Wetter sprechen"},
+      "A2-094": {"pron": "ゲーゲンユーバー", "tip": "gegen（〜に向かって）+ über（越えて）= 道を渡った向かい側 ↔️", "warn": "いつも3格で、代名詞と使うと後ろに来ます：mir gegenüber."},
+      "A1-431": {"pron": "バイ", "tip": "英語の by と同じ語源 🏠 人のそば、人の家にいるときは bei！", "warn": "いつも3格です。bei + dem = beim：Ich bin beim Arzt."}
+    },
+    "culture": [
+      "ドイツで道を聞くと、たいていとても正確に教えてくれます。「Gegenüber der Apotheke, neben dem Supermarkt」という具合です。今日の単語を知っていれば、道案内がずっと聞き取りやすくなります。",
+      "階の数え方にも注意！ドイツでは日本の1階が das Erdgeschoss で、im ersten Stock は日本式の2階です。待ち合わせ場所を決めるときに間違えやすいんです。",
+      "それから「〇〇さんの家で」は bei でかんたんに言えます。Ich bin bei Anna. = アンナの家にいます。ドイツ人が本当によく使う表現です。🏠"
+    ],
+    "quiz": {"q": "猫がテーブルの下で寝ています。正しい文はどれでしょう？", "o": ["Die Katze liegt unter dem Tisch.", "Die Katze liegt auf dem Tisch.", "Die Katze liegt über dem Tisch."], "a": 0, "why": "unter は「〜の下に」。auf はテーブルの上、über はテーブルの上の空中という意味です。"},
+    "outro": "今いる部屋を見回して、5つの物の場所をドイツ語で言ってみましょう。Das Handy liegt auf dem Tisch！📱"
+  }
+}

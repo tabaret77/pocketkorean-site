@@ -1,0 +1,84 @@
+{
+  "key": "bread",
+  "ko": {
+    "title": "빵 덕후를 위한 독일어 10: 브레첼부터 Abendbrot까지",
+    "hook": "독일에 살면 빵집에 가는 게 하루 일과가 돼요. 주문할 단어는 준비됐나요?",
+    "intro": [
+      "토요일 아침, 동네 빵집(Bäckerei) 앞에 사람들이 줄을 서 있어요. 진열장에는 이름 모를 빵이 수십 가지. 내 차례가 오면 손가락으로 가리키기만 하게 되죠. “Das da, bitte!”",
+      "오늘은 빵집과 부엌에서 쓰는 단어 10개를 모았어요. 이 10개면 빵을 주문하고, 한 조각 더 달라고 하고, 집에서 직접 빵 반죽까지 도전해 볼 수 있어요. 🥨"
+    ],
+    "words": {
+      "A1-019": {"pron": "브로트", "tip": "영어 bread와 같은 뿌리예요 🍞 b-r-로 시작하는 것까지 닮았어요!", "bonus": "작은 빵 한 개는 das Brötchen이에요. -chen이 붙으면 언제나 das!"},
+      "BL-11-04": {"pron": "브레첼", "tip": "팔짱 낀 팔 모양이라 라틴어 ‘팔(bracchium)’에서 왔다는 설이 있어요 🥨", "bonus": "버터 바른 브레첼은 die Butterbrezel, 남부 빵집의 인기 메뉴예요."},
+      "C2-1895": {"pron": "젬멜", "tip": "라틴어 simila(고운 밀가루)에서 왔어요. 영어 semolina랑 친척 🌾", "bonus": "weggehen wie warme Semmeln = 불티나게 팔리다"},
+      "B1-1100": {"pron": "샤이베", "tip": "원래 ‘둥글고 납작한 것’이라는 뜻 💿 빵 한 조각도, 유리창도 Scheibe!", "bonus": "eine Scheibe Brot = 빵 한 조각 · eine Scheibe Käse = 치즈 한 장"},
+      "B1-938": {"pron": "멜", "tip": "mahlen(빻다)과 같은 뿌리 🌾 곡식을 빻으면 Mehl이 돼요.", "warn": "셀 수 없는 명사라 복수 없이 써요: 500 Gramm Mehl."},
+      "B2-2445": {"pron": "타이크", "tip": "영어 dough와 먼 친척이에요 🫓 손으로 주물주물하는 그것!", "bonus": "Der Teig geht. = 반죽이 부풀어요. (직역하면 ‘반죽이 걸어가요’ 😄)"},
+      "B2-2446": {"pron": "헤페", "tip": "heben(들어 올리다)과 관련 있다는 설이 있어요 ⬆️ 반죽을 위로 들어 올려 주는 이스트!", "bonus": "마트에서는 생이스트 한 덩이를 ein Würfel Hefe라고 해요."},
+      "B2-2919": {"pron": "코른", "tip": "영어 corn과 같은 뿌리지만 뜻은 ‘낟알’ 🌰 Vollkornbrot = 통곡물빵!", "warn": "옥수수는 der Mais예요. 그리고 der Korn은 곡물로 만든 독한 술이에요."},
+      "B2-2790": {"pron": "린데", "tip": "영어 rind(껍질)와 쌍둥이 🌳 나무껍질도, 빵 껍질도 Rinde!", "bonus": "빵 끝부분 꽁다리는 der Kanten 또는 das Endstück이라고 해요."},
+      "A2-967": {"pron": "아벤트브로트", "tip": "Abend(저녁) + Brot(빵) = 빵으로 먹는 저녁 🌙 이름에 메뉴가 다 들어 있어요!", "bonus": "남부에서는 같은 식사를 die Brotzeit이라고 부르기도 해요."}
+    },
+    "culture": [
+      "독일은 빵 종류가 정말 많기로 유명해요. 호밀빵, 통곡물빵, 씨앗이 잔뜩 박힌 빵까지, 빵집마다 진열장이 꽉 차 있어요. 독일 빵 문화는 독일의 무형문화유산 목록에도 올라 있어요.",
+      "작은 빵 이름은 지역마다 달라요. 보통은 Brötchen이지만 바이에른과 오스트리아에서는 Semmel, 베를린에서는 Schrippe, 남서부에서는 Weck이나 Weckle이라고 해요.",
+      "그리고 많은 가정에서 저녁은 따뜻한 요리 대신 빵에 치즈, 햄, 채소를 곁들이는 간단한 Abendbrot로 먹어요. 따뜻한 식사는 점심에 먹는 집이 많아요. 🧀"
+    ],
+    "quiz": {"q": "빵집에서 브레첼 하나와 커피를 주문하고 싶어요. 뭐라고 말할까요?", "o": ["Ich backe gern Brot.", "Eine Brezel und einen Kaffee, bitte.", "Der Teig muss eine Stunde gehen."], "a": 1, "why": "Eine Brezel und einen Kaffee, bitte. = 브레첼 하나랑 커피 주세요. 주문할 때 딱 쓰는 문장이에요."},
+    "outro": "다음에 빵집에 가면 손가락 대신 오늘 단어로 주문해 봐요. “Eine Scheibe … bitte!”까지 말하면 완벽해요! 🥐"
+  },
+  "en": {
+    "title": "Bread, pretzels and more: 10 words for the German bakery",
+    "hook": "Living in Germany, the bakery quickly becomes part of your daily routine — so let's get your order ready.",
+    "intro": [
+      "Saturday morning, and there's a queue outside the local bakery (Bäckerei). Behind the glass are dozens of loaves and rolls you can't name. When it's your turn, you just point: “Das da, bitte!”",
+      "Today's ten words come from the bakery and the kitchen. With them you can order, ask for another slice, and even try making your own dough at home. 🥨"
+    ],
+    "words": {
+      "A1-019": {"pron": "BROHT", "tip": "Same Germanic root as English bread 🍞 Both even start with br-.", "bonus": "A single roll is das Brötchen. Anything ending in -chen is das!"},
+      "BL-11-04": {"pron": "BRAY-tsel", "tip": "Shaped like folded arms — it may come from Latin bracchium, ‘arm’ 🥨", "bonus": "A pretzel with butter is a Butterbrezel, a southern bakery favourite."},
+      "C2-1895": {"pron": "ZEM-mel", "tip": "From Latin simila, fine flour — a cousin of English semolina 🌾", "bonus": "weggehen wie warme Semmeln = to sell like hot cakes"},
+      "B1-1100": {"pron": "SHY-buh", "tip": "Originally ‘a round flat thing’ 💿 A slice of bread and a window pane are both Scheibe.", "bonus": "eine Scheibe Brot = a slice of bread · eine Scheibe Käse = a slice of cheese"},
+      "B1-938": {"pron": "MAIL", "tip": "Same root as mahlen (to grind) and English meal, as in oatmeal 🌾 Grind the grain, get Mehl.", "warn": "Uncountable, so no plural: 500 Gramm Mehl."},
+      "B2-2445": {"pron": "TIKE", "tip": "A distant cousin of English dough 🫓 The stuff you knead with your hands.", "bonus": "Der Teig geht. = The dough is rising. (Literally ‘the dough is walking’ 😄)"},
+      "B2-2446": {"pron": "HAY-fuh", "tip": "Possibly related to heben (to lift) ⬆️ Yeast lifts the dough.", "bonus": "A cube of fresh yeast from the supermarket is ein Würfel Hefe."},
+      "B2-2919": {"pron": "KORN", "tip": "Same root as English corn, but it means grain 🌰 Vollkornbrot = wholegrain bread.", "warn": "Maize is der Mais, and der Korn is a grain schnapps."},
+      "B2-2790": {"pron": "RIN-duh", "tip": "Twin of English rind 🌳 Tree bark and bread crust are both Rinde.", "bonus": "The end piece of a loaf is der Kanten or das Endstück."},
+      "A2-967": {"pron": "AH-bent-broht", "tip": "Abend (evening) + Brot (bread) = a bread supper 🌙 The menu is in the name!", "bonus": "In the south, a similar meal is often called die Brotzeit."}
+    },
+    "culture": [
+      "Germany is famous for its huge variety of bread: rye, wholegrain, loaves packed with seeds — every bakery counter is full. German bread culture is even listed in the country's inventory of intangible cultural heritage.",
+      "The word for a bread roll changes with the region. Brötchen is the general word, but in Bavaria and Austria it's Semmel, in Berlin Schrippe, and in the south-west Weck or Weckle.",
+      "In many homes, dinner is a simple Abendbrot: bread with cheese, cold meats and vegetables instead of a hot meal. Lots of families eat their warm meal at lunchtime. 🧀"
+    ],
+    "quiz": {"q": "At the bakery, you want a pretzel and a coffee. What do you say?", "o": ["Ich backe gern Brot.", "Eine Brezel und einen Kaffee, bitte.", "Der Teig muss eine Stunde gehen."], "a": 1, "why": "Eine Brezel und einen Kaffee, bitte. = A pretzel and a coffee, please — the perfect order sentence."},
+    "outro": "Next time you're at the bakery, skip the pointing and order with today's words. Add “Eine Scheibe … bitte!” and you're a local! 🥐"
+  },
+  "ja": {
+    "title": "パン好きのためのドイツ語10：ブレーツェルから Abendbrot まで",
+    "hook": "ドイツに住むと、パン屋さん通いが毎日の習慣になります。注文の言葉は準備できていますか？",
+    "intro": [
+      "土曜の朝、近所のパン屋さん（Bäckerei）の前には行列。ショーケースには名前もわからないパンが何十種類も並んでいます。自分の番が来ると、つい指さしてしまうんですよね。「Das da, bitte!」",
+      "今日はパン屋さんとキッチンで使う単語を10個集めました。この10個があれば、パンを注文したり、もう一切れ頼んだり、家でパン生地づくりに挑戦したりもできます。🥨"
+    ],
+    "words": {
+      "A1-019": {"pron": "ブロート", "tip": "英語の bread と同じ語源 🍞 br- で始まるところまでそっくり！", "bonus": "小さいパン1個は das Brötchen。-chen がつくといつも das！"},
+      "BL-11-04": {"pron": "ブレーツェル", "tip": "腕を組んだ形から、ラテン語の「腕（bracchium）」が語源という説も 🥨", "bonus": "バターを塗ったものは die Butterbrezel、南ドイツのパン屋さんの人気者です。"},
+      "C2-1895": {"pron": "ゼンメル", "tip": "ラテン語 simila（上質の小麦粉）から。英語の semolina の親戚です 🌾", "bonus": "weggehen wie warme Semmeln = 飛ぶように売れる"},
+      "B1-1100": {"pron": "シャイベ", "tip": "もとは「丸くて平たいもの」💿 パン一切れも窓ガラスも Scheibe！", "bonus": "eine Scheibe Brot = パン一切れ · eine Scheibe Käse = チーズ1枚"},
+      "B1-938": {"pron": "メール", "tip": "mahlen（ひく）と同じ語源 🌾 穀物をひくと Mehl になります。", "warn": "数えられない名詞なので複数形なしで使います：500 Gramm Mehl."},
+      "B2-2445": {"pron": "タイク", "tip": "英語の dough の遠い親戚 🫓 手でこねるあれです！", "bonus": "Der Teig geht. = 生地が発酵してふくらむ。（直訳は「生地が歩く」😄）"},
+      "B2-2446": {"pron": "ヘーフェ", "tip": "heben（持ち上げる）と関係があるという説も ⬆️ 生地を持ち上げてくれるのが酵母！", "bonus": "スーパーの生イースト1個は ein Würfel Hefe."},
+      "B2-2919": {"pron": "コルン", "tip": "英語の corn と同じ語源ですが、意味は「穀粒」🌰 Vollkornbrot = 全粒粉パン！", "warn": "トウモロコシは der Mais。そして der Korn は穀物から作る強いお酒です。"},
+      "B2-2790": {"pron": "リンデ", "tip": "英語の rind（皮）とそっくり 🌳 木の皮もパンの皮も Rinde！", "bonus": "パンの端っこは der Kanten または das Endstück."},
+      "A2-967": {"pron": "アーベントブロート", "tip": "Abend（夜）+ Brot（パン）= パンでとる夕食 🌙 名前にメニューが入っています！", "bonus": "南ドイツでは似た食事を die Brotzeit と呼ぶこともあります。"}
+    },
+    "culture": [
+      "ドイツはパンの種類がとても多いことで有名です。ライ麦パン、全粒粉パン、種がたっぷりのパンまで、どのパン屋さんもショーケースがいっぱい。ドイツのパン文化は、国の無形文化遺産のリストにも載っています。",
+      "小さな丸パンの呼び名は地域によって違います。一般的には Brötchen ですが、バイエルンやオーストリアでは Semmel、ベルリンでは Schrippe、南西部では Weck や Weckle と言います。",
+      "また多くの家庭では、夕食は温かい料理ではなく、パンにチーズやハム、野菜を添えたシンプルな Abendbrot です。温かい食事は昼に食べる家庭も多いんですよ。🧀"
+    ],
+    "quiz": {"q": "パン屋さんでブレーツェル1つとコーヒーを注文したいです。何と言いますか？", "o": ["Ich backe gern Brot.", "Eine Brezel und einen Kaffee, bitte.", "Der Teig muss eine Stunde gehen."], "a": 1, "why": "Eine Brezel und einen Kaffee, bitte. =「ブレーツェル1つとコーヒーをください」で、注文にぴったりの文です。"},
+    "outro": "次にパン屋さんへ行ったら、指さしではなく今日の単語で注文してみましょう。「Eine Scheibe … bitte!」まで言えたら完璧です！🥐"
+  }
+}

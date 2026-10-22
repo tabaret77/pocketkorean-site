@@ -1,0 +1,84 @@
+{
+  "key": "greetings",
+  "ko": {
+    "title": "첫 만남을 술술 여는 독일어 인사 10",
+    "hook": "독일어 대화의 첫 30초, 오늘로 끝내 버려요.",
+    "intro": [
+      "어학원 첫날, 옆자리 친구가 웃으며 „Hallo, ich bin Lukas. Woher kommst du?“ 하고 물었어요. 대답은 머릿속에 있는데 입에서는 „Äh…“만 나오더라고요.",
+      "오늘은 인사하고, 이름을 말하고, 어디서 왔는지 묻고, 헤어질 때까지 쓰는 단어 10개를 모았어요. 이 10개면 처음 만난 사람과 짧은 대화를 끝까지 이어 갈 수 있어요. 👋"
+    ],
+    "words": {
+      "A1-399": {"pron": "할로", "tip": "영어 hello랑 거의 쌍둥이 👋 친구, 동료, 가게 점원 누구에게나 OK!", "bonus": "북독일에서는 하루 종일 Moin!이라고도 해요."},
+      "A1-099": {"pron": "구텐 탁", "tip": "gut(좋은) + Tag(날) = 좋은 날 되세요 ☀️ 낮에 쓰는 공손한 인사!", "bonus": "아침엔 Guten Morgen, 저녁엔 Guten Abend"},
+      "A1-100": {"pron": "취스", "tip": "프랑스어 adieu가 북쪽에서 ‘취스’로 변신 😄 가볍게 손 흔들며 Tschüss!", "warn": "친한 사이용이에요. 공식 자리에서는 Auf Wiedersehen."},
+      "A1-400": {"pron": "아우프 비더제엔", "tip": "wieder(다시) + sehen(보다) = 다시 봬요 👀 직역해도 예쁜 인사!", "bonus": "전화로는 Auf Wiederhören! (다시 들어요)"},
+      "A1-071": {"pron": "하이센", "tip": "‘하이! 센’ 하고 이름을 부르는 느낌 📛 Ich heiße Minji.", "warn": "불규칙 과거분사: hat geheißen"},
+      "A1-048": {"pron": "나메", "tip": "영어 name과 철자가 같아요 🏷️ 읽을 때만 ‘나메’!", "warn": "약변화 명사예요: den Namen, des Namens"},
+      "A1-395": {"pron": "보헤어", "tip": "wo(어디) + her(이쪽으로) = 어디서 이쪽으로? 🌍 출신을 물을 때 딱!", "bonus": "대답은 Ich komme aus Korea."},
+      "BL-15-04": {"pron": "지히 포어슈텔렌", "tip": "vor(앞에) + stellen(세우다) = 사람들 앞에 나를 세우다 🙋 그게 자기소개!", "warn": "분리동사예요: Ich stelle mich kurz vor."},
+      "A1-325": {"pron": "케넨레르넨", "tip": "kennen(알다) + lernen(배우다) = 알아 가기를 배우다 🤝 처음 만나는 순간!", "bonus": "Schön, Sie kennenzulernen! = 만나서 반갑습니다!"},
+      "B1-181": {"pron": "안게넴", "tip": "annehmen(받아들이다)과 같은 뿌리 😊 받아들이기 편한 = 기분 좋은!", "bonus": "날씨에도 써요: Das Wetter ist angenehm."}
+    },
+    "culture": [
+      "독일에서는 처음 만나는 어른이나 직장에서는 보통 Sie를 써요. 상대가 „Wir können uns duzen.“이라고 하면 그때부터 du로 바꾸면 돼요. 어학원이나 대학, 젊은 사람들끼리는 처음부터 du가 흔해요.",
+      "공식적인 첫 만남에서는 악수가 흔하고, 눈을 보면서 하는 게 예의예요. 가게나 빵집에 들어갈 때도 „Hallo!“나 „Guten Tag!“ 한마디 하는 사람이 많아요.",
+      "지역마다 인사도 달라요. 남쪽에서는 Grüß Gott, 북쪽에서는 Moin을 자주 들을 수 있어요. 들리는 대로 따라 해 보면 금방 동네 사람 느낌이 나요. 🙂"
+    ],
+    "quiz": {"q": "새 집주인 Weber 씨를 처음 만났어요. 그분이 „Ich bin Frau Weber.“라고 해요. 뭐라고 대답할까요?", "o": ["Angenehm! Mein Name ist Kim.", "Tschüss, bis morgen!", "Woher kommst du?"], "a": 0, "why": "Angenehm! = 반갑습니다. 처음 소개받을 때 쓰는 공손한 인사예요."},
+    "outro": "거울 앞에서 Hallo부터 Auf Wiedersehen까지 30초 자기소개를 소리 내서 해 봐요. 내일 누군가에게 진짜로 써 보면 더 좋고요! 👋"
+  },
+  "en": {
+    "title": "Hello, nice to meet you: 10 German words for first meetings",
+    "hook": "Nail the first thirty seconds of any German conversation, starting today.",
+    "intro": [
+      "First day of language school. The person next to you smiles and says, „Hallo, ich bin Lukas. Woher kommst du?“ You know the answer, but all that comes out is „Äh…“.",
+      "Today's ten words take you from hello to goodbye: greeting, giving your name, asking where someone's from and saying it was nice to meet them. With them you can get through a whole first conversation. 👋"
+    ],
+    "words": {
+      "A1-399": {"pron": "HAH-loh", "tip": "Basically English hello 👋 Fine with friends, colleagues and shop staff.", "bonus": "In northern Germany you'll hear Moin! all day long."},
+      "A1-099": {"pron": "GOO-ten TAHK", "tip": "gut (good) + Tag (day) = have a good day ☀️ The polite daytime hello.", "bonus": "Morning: Guten Morgen. Evening: Guten Abend."},
+      "A1-100": {"pron": "CHUESS", "tip": "French adieu, reshaped by northern Germans into tschüss 😄 Wave and go.", "warn": "It's casual. In formal settings, say Auf Wiedersehen."},
+      "A1-400": {"pron": "owf VEE-der-zay-en", "tip": "wieder (again) + sehen (see) = see you again 👀 Lovely when you take it literally.", "bonus": "On the phone: Auf Wiederhören! (hear you again)"},
+      "A1-071": {"pron": "HY-sen", "tip": "Think ‘Hi, I'm…’ — heißen is how you give your name 📛 Ich heiße Anna.", "warn": "Irregular past participle: hat geheißen"},
+      "A1-048": {"pron": "NAH-muh", "tip": "Spelt like English name 🏷️ Just say it ‘NAH-muh’.", "warn": "Weak noun: den Namen, des Namens"},
+      "A1-395": {"pron": "voh-HAIR", "tip": "wo (where) + her (towards here) = from where to here? 🌍 Perfect for asking someone's origin.", "bonus": "The answer: Ich komme aus England."},
+      "BL-15-04": {"pron": "zikh FOR-shtel-en", "tip": "vor (in front) + stellen (put) = put yourself in front of people 🙋 That's introducing yourself.", "warn": "Separable: Ich stelle mich kurz vor."},
+      "A1-325": {"pron": "KEN-en-lair-nen", "tip": "kennen (know) + lernen (learn) = learn to know someone 🤝 The moment you meet.", "bonus": "Schön, Sie kennenzulernen! = Nice to meet you!"},
+      "B1-181": {"pron": "AN-guh-naym", "tip": "Related to annehmen (accept) 😊 Easy to accept = pleasant.", "bonus": "Works for weather too: Das Wetter ist angenehm."}
+    },
+    "culture": [
+      "In Germany, adults meeting for the first time and colleagues at work usually start with Sie. If someone says „Wir können uns duzen.“, you can switch to du. At language schools, universities and among young people, du is common from the start.",
+      "A handshake is common at formal first meetings, and eye contact matters. Many people also say a quick „Hallo!“ or „Guten Tag!“ when they walk into a shop or bakery.",
+      "Greetings change by region, too. In the south you'll often hear Grüß Gott, in the north Moin. Copy what the locals say and you'll blend right in. 🙂"
+    ],
+    "quiz": {"q": "You meet your new landlady for the first time. She says „Ich bin Frau Weber.“ How do you reply?", "o": ["Angenehm! Mein Name ist Kim.", "Tschüss, bis morgen!", "Woher kommst du?"], "a": 0, "why": "Angenehm! means ‘pleased to meet you’ — the polite reply when you're introduced."},
+    "outro": "Stand in front of a mirror and do a thirty-second introduction, from Hallo to Auf Wiedersehen, out loud. Even better: try it on someone real tomorrow! 👋"
+  },
+  "ja": {
+    "title": "はじめましてがスムーズになるドイツ語10",
+    "hook": "ドイツ語の会話、最初の30秒は今日でばっちりです。",
+    "intro": [
+      "語学学校の初日。隣の席の人がにっこり笑って „Hallo, ich bin Lukas. Woher kommst du?“。答えは頭にあるのに、口から出たのは „Äh…“ だけでした。",
+      "今日はあいさつから名前、出身、そしてお別れまでに使う単語を10個集めました。この10個があれば、初対面の人との短い会話を最後まで続けられます。👋"
+    ],
+    "words": {
+      "A1-399": {"pron": "ハロー", "tip": "英語の hello とほぼ双子 👋 友だちにも同僚にもお店の人にもOK！", "bonus": "北ドイツでは一日中 Moin! とも言います。"},
+      "A1-099": {"pron": "グーテン ターク", "tip": "gut（良い）+ Tag（日）= 良い一日を ☀️ 昼間のていねいなあいさつ！", "bonus": "朝は Guten Morgen、夜は Guten Abend"},
+      "A1-100": {"pron": "チュス", "tip": "フランス語の adieu が北ドイツで「チュス」に変身 😄 手を振って Tschüss!", "warn": "親しい人向けです。改まった場では Auf Wiedersehen。"},
+      "A1-400": {"pron": "アウフ ヴィーダーゼーエン", "tip": "wieder（また）+ sehen（見る）= また会いましょう 👀 直訳してもすてきなあいさつ！", "bonus": "電話では Auf Wiederhören!（また聞きましょう）"},
+      "A1-071": {"pron": "ハイセン", "tip": "「はい、〇〇です」と名乗るイメージ 📛 Ich heiße Yuki.", "warn": "不規則な過去分詞：hat geheißen"},
+      "A1-048": {"pron": "ナーメ", "tip": "つづりは英語の name と同じ 🏷️ 読み方だけ「ナーメ」！", "warn": "弱変化名詞です：den Namen, des Namens"},
+      "A1-395": {"pron": "ヴォヘーア", "tip": "wo（どこ）+ her（こちらへ）= どこからこちらへ？🌍 出身を聞くときにぴったり！", "bonus": "答えは Ich komme aus Japan."},
+      "BL-15-04": {"pron": "ズィッヒ フォーアシュテレン", "tip": "vor（前に）+ stellen（立てる）= みんなの前に自分を立てる 🙋 それが自己紹介！", "warn": "分離動詞です：Ich stelle mich kurz vor."},
+      "A1-325": {"pron": "ケネンレルネン", "tip": "kennen（知っている）+ lernen（学ぶ）= 知り合うことを学ぶ 🤝 出会いの瞬間！", "bonus": "Schön, Sie kennenzulernen! = お会いできてうれしいです！"},
+      "B1-181": {"pron": "アンゲネーム", "tip": "annehmen（受け入れる）と同じ語源 😊 受け入れやすい = 心地よい！", "bonus": "天気にも使えます：Das Wetter ist angenehm."}
+    },
+    "culture": [
+      "ドイツでは、初対面の大人どうしや職場ではふつう Sie を使います。相手が „Wir können uns duzen.“ と言ったら、そこから du に切り替えればOK。語学学校や大学、若い人どうしでは最初から du がよくあります。",
+      "改まった初対面では握手がよくあり、相手の目を見るのが礼儀です。お店やパン屋に入るときに „Hallo!“ や „Guten Tag!“ とひとこと言う人も多いですよ。",
+      "あいさつは地域によっても違います。南では Grüß Gott、北では Moin をよく耳にします。聞こえたとおりにまねすると、すぐ地元の人っぽくなれます。🙂"
+    ],
+    "quiz": {"q": "新しい大家さんに初めて会いました。„Ich bin Frau Weber.“ と言われたら、何と答えますか？", "o": ["Angenehm! Mein Name ist Kim.", "Tschüss, bis morgen!", "Woher kommst du?"], "a": 0, "why": "Angenehm! = はじめまして、紹介されたときのていねいな返事です。"},
+    "outro": "鏡の前で、Hallo から Auf Wiedersehen まで30秒の自己紹介を声に出してやってみましょう。明日だれかに本番で使えたら最高です！👋"
+  }
+}

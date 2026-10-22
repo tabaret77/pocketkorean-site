@@ -1,0 +1,84 @@
+{
+  "key": "holidays",
+  "ko": {
+    "title": "휴가 계획 세울 때 필요한 독일어 10",
+    "hook": "독일 사람들이 1년 내내 기다리는 그것, 바로 Urlaub이에요.",
+    "intro": [
+      "회사 휴게실에서 동료들이 벌써 내년 여름 얘기를 하고 있어요. \"Wohin fährst du im Urlaub?\" \"Wir haben schon gebucht!\" 아직 10월인데요?",
+      "오늘은 휴가 계획에 꼭 필요한 단어 10개를 모았어요. 이 단어들이면 휴가를 내고, 여행지를 고르고, 예약하고, 돌아와서 \"푹 쉬었어요!\"까지 말할 수 있어요. 🏝️"
+    ],
+    "words": {
+      "BL-10-06": {"pron": "우어라웁", "tip": "erlauben(허락하다)과 같은 뿌리 🏖️ 회사가 ‘떠나도 좋다’고 허락한 시간!", "warn": "학교·대학 방학은 die Ferien이에요. 직장인은 Urlaub!"},
+      "B2-1380": {"pron": "파우샬라이제", "tip": "pauschal(한꺼번에) + Reise = 비행기·호텔 다 묶은 패키지 📦", "bonus": "pauschal은 ‘싸잡아서’라는 뜻도: Das kann man nicht pauschal sagen."},
+      "A1-216": {"pron": "라이제", "tip": "reisen의 명사 🧳 떠나는 사람에게 Gute Reise!", "warn": "der Reis(쌀)와 헷갈리지 마세요. 끝에 -e가 있으면 여행!"},
+      "A1-180": {"pron": "라이젠", "tip": "원래 ‘일어나 떠나다’라는 뜻 ✈️ 짐 싸서 일어나는 느낌!", "warn": "완료형은 sein: Ich bin nach Italien gereist."},
+      "A2-617": {"pron": "페어라이젠", "tip": "ver-(멀리) + reisen = 집을 떠나 여행 가다 🚗", "bonus": "부재 중일 때: Er ist gerade verreist. = 그는 지금 여행 중이에요."},
+      "A2-058": {"pron": "부헨", "tip": "Buch(장부)에 이름을 적는다 = 예약 📖 영어 book이랑 똑같죠?", "bonus": "ausgebucht = 예약이 꽉 찬"},
+      "B2-1379": {"pron": "라이제치일", "tip": "Reise(여행) + Ziel(목표) = 여행의 목표 지점 🎯", "bonus": "das Ziel만 써도 ‘목적지, 목표’예요."},
+      "A1-542": {"pron": "라이제뷔로", "tip": "Reise + Büro(사무실) = 여행 사무실 🏢 프랑스어 bureau에서 온 Büro라 das!", "bonus": "요즘은 온라인으로도 많이 하지만, 패키지는 Reisebüro에서 묻기도 해요."},
+      "A2-116": {"pron": "슈트란트", "tip": "영어 strand(해안가)와 같은 뿌리 🏖️ 모래사장 위에 서(stand) 있는 느낌!", "warn": "복수는 움라우트: die Strände"},
+      "B1-065": {"pron": "지히 에어홀렌", "tip": "er- + holen(가져오다) = 힘을 다시 가져오다 🔋 충전 완료!", "bonus": "휴가 가는 사람에게: Erhol dich gut!"}
+    },
+    "culture": [
+      "독일에서 학교 여름 방학(Sommerferien)은 주마다 시기가 달라요. 모든 주가 한꺼번에 쉬면 고속도로와 휴양지가 너무 붐비기 때문에 순서를 돌려 가며 정해요.",
+      "독일 사람들은 휴가를 꽤 일찍 계획하는 편이에요. 회사에서는 연초에 동료들과 휴가 날짜를 맞춰 정하는 경우가 많고, 인기 있는 숙소는 몇 달 전에 예약이 차기도 해요.",
+      "휴가 중에는 회사 메일에 자동 응답(Abwesenheitsnotiz)을 걸어 두고 정말로 쉬는 게 보통이에요. 휴가는 쉬라고 있는 거니까요! 🌴"
+    ],
+    "quiz": {"q": "동료가 내일부터 2주 휴가를 간대요. 뭐라고 인사할까요?", "o": ["Ich reise gern allein.", "Wir haben einen Flug gebucht.", "Schönen Urlaub! Erhol dich gut!"], "a": 2, "why": "Erhol dich gut! = 푹 쉬고 와! 휴가 가는 사람에게 하는 인사예요."},
+    "outro": "오늘은 \"Ich nehme nächste Woche Urlaub.\" 를 소리 내서 말해 봐요. 다음 휴가 때 여러분도 꼭 푹 erholen 하길 바라요! ☀️"
+  },
+  "en": {
+    "title": "Planning time off? 10 German holiday words",
+    "hook": "There's one thing Germans look forward to all year: Urlaub.",
+    "intro": [
+      "In the office kitchen, your colleagues are already talking about next summer. \"Wohin fährst du im Urlaub?\" \"Wir haben schon gebucht!\" But it's only October!",
+      "Today's ten words are what you need to plan a holiday. With them you can take time off, pick a destination, book it and, when you're back, tell everyone you had a great rest. 🏝️"
+    ],
+    "words": {
+      "BL-10-06": {"pron": "OOR-lowp", "tip": "Same root as erlauben (to allow) 🏖️ Time your boss allows you to leave!", "warn": "School and university holidays are die Ferien. Working people take Urlaub."},
+      "B2-1380": {"pron": "pow-SHAHL-ry-zuh", "tip": "pauschal (all-in) + Reise = flight and hotel in one bundle 📦", "bonus": "pauschal also means ‘sweeping’: Das kann man nicht pauschal sagen."},
+      "A1-216": {"pron": "RY-zuh", "tip": "The noun of reisen 🧳 Wish travellers Gute Reise!", "warn": "Don't confuse it with der Reis (rice). With -e, it's a trip!"},
+      "A1-180": {"pron": "RY-zen", "tip": "It originally meant ‘to rise and set out’ ✈️ Pack up and go!", "warn": "Perfect with sein: Ich bin nach Italien gereist."},
+      "A2-617": {"pron": "fair-RY-zen", "tip": "ver- (away) + reisen = to go away on a trip 🚗", "bonus": "When someone's away: Er ist gerade verreist. = He's away at the moment."},
+      "A2-058": {"pron": "BOO-khen", "tip": "Writing your name in the Buch (ledger) = booking 📖 Just like English book.", "bonus": "ausgebucht = fully booked"},
+      "B2-1379": {"pron": "RY-zuh-tseel", "tip": "Reise (trip) + Ziel (goal) = where the trip is aiming 🎯", "bonus": "das Ziel alone means ‘goal’ or ‘destination’."},
+      "A1-542": {"pron": "RY-zuh-bü-roh", "tip": "Reise + Büro (office) = travel office 🏢 Büro comes from French bureau, and it's das.", "bonus": "Lots of people book online now, but some still ask at a Reisebüro for package trips."},
+      "A2-116": {"pron": "shtrant", "tip": "Same root as English strand (shore) 🏖️ Picture yourself standing on the sand.", "warn": "Plural with umlaut: die Strände"},
+      "B1-065": {"pron": "zikh air-HOH-len", "tip": "er- + holen (to fetch) = fetch your strength back 🔋 Fully recharged!", "bonus": "To someone going on holiday: Erhol dich gut!"}
+    },
+    "culture": [
+      "In Germany, school summer holidays (Sommerferien) fall at different times in different states. If everyone went at once, motorways and resorts would be packed, so the dates rotate.",
+      "Germans tend to plan their holidays early. At many workplaces, colleagues agree on their holiday dates at the start of the year, and popular places can be booked up months ahead.",
+      "On holiday, people usually set an out-of-office reply (Abwesenheitsnotiz) and genuinely switch off. That's what holidays are for! 🌴"
+    ],
+    "quiz": {"q": "Your colleague is going on a two-week holiday tomorrow. What do you say?", "o": ["Ich reise gern allein.", "Wir haben einen Flug gebucht.", "Schönen Urlaub! Erhol dich gut!"], "a": 2, "why": "Erhol dich gut! means ‘Have a good rest!’ — the usual send-off before a holiday."},
+    "outro": "Say \"Ich nehme nächste Woche Urlaub.\" out loud today. And on your next holiday, make sure you really erholen! ☀️"
+  },
+  "ja": {
+    "title": "休暇の計画に欠かせないドイツ語10",
+    "hook": "ドイツの人が一年中楽しみにしているもの、それが Urlaub です。",
+    "intro": [
+      "会社の休憩室で、同僚たちがもう来年の夏の話をしています。「Wohin fährst du im Urlaub?」「Wir haben schon gebucht!」まだ10月なのに？",
+      "今日は休暇の計画に必要な単語を10個集めました。これで休みを取って、旅行先を選んで、予約して、帰ってきたら「しっかり休めました！」まで言えます。🏝️"
+    ],
+    "words": {
+      "BL-10-06": {"pron": "ウーアラウプ", "tip": "erlauben（許可する）と同じ語源 🏖️ 会社が「行っていいよ」と許してくれる時間！", "warn": "学校や大学の休みは die Ferien。社会人は Urlaub です！"},
+      "B2-1380": {"pron": "パウシャールライゼ", "tip": "pauschal（ひとまとめの）+ Reise = 飛行機もホテルもまとめたパック旅行 📦", "bonus": "pauschal は「ひとくくりに」の意味も：Das kann man nicht pauschal sagen."},
+      "A1-216": {"pron": "ライゼ", "tip": "reisen の名詞 🧳 出発する人には Gute Reise!", "warn": "der Reis（米）と混同しないように。最後に -e があれば旅行！"},
+      "A1-180": {"pron": "ライゼン", "tip": "もとは「立ち上がって出発する」という意味 ✈️ 荷物を持って出発！", "warn": "完了形は sein：Ich bin nach Italien gereist."},
+      "A2-617": {"pron": "フェアライゼン", "tip": "ver-（遠くへ）+ reisen = 家を離れて旅に出る 🚗", "bonus": "不在のとき：Er ist gerade verreist. = 彼は今旅行中です。"},
+      "A2-058": {"pron": "ブーヘン", "tip": "Buch（帳簿）に名前を書く = 予約 📖 英語の book と同じですね。", "bonus": "ausgebucht = 予約でいっぱいの"},
+      "B2-1379": {"pron": "ライゼツィール", "tip": "Reise（旅行）+ Ziel（目標）= 旅のゴール地点 🎯", "bonus": "das Ziel だけでも「目的地、目標」です。"},
+      "A1-542": {"pron": "ライゼビュロー", "tip": "Reise + Büro（事務所）= 旅行の事務所 🏢 フランス語 bureau から来た Büro は das！", "bonus": "今はネット予約も多いですが、パック旅行は Reisebüro で相談する人もいます。"},
+      "A2-116": {"pron": "シュトラント", "tip": "英語の strand（岸辺）と同じ語源 🏖️ 砂浜に立つ（stand）イメージ！", "warn": "複数形はウムラウト：die Strände"},
+      "B1-065": {"pron": "ズィッヒ エアホーレン", "tip": "er- + holen（取ってくる）= 元気を取り戻す 🔋 充電完了！", "bonus": "休暇に行く人へ：Erhol dich gut!"}
+    },
+    "culture": [
+      "ドイツでは学校の夏休み（Sommerferien）の時期が州ごとに違います。全部の州が一斉に休むと高速道路や観光地が混みすぎるので、順番をずらして決めています。",
+      "ドイツの人は休暇をかなり早めに計画する傾向があります。職場では年の初めに同僚と休みの日程を調整することが多く、人気の宿は数か月前に埋まることもあります。",
+      "休暇中は会社のメールに自動返信（Abwesenheitsnotiz）を設定して、本当に休むのがふつうです。休暇は休むためにあるのですから！🌴"
+    ],
+    "quiz": {"q": "同僚が明日から2週間の休暇に出かけます。何と声をかけますか？", "o": ["Ich reise gern allein.", "Wir haben einen Flug gebucht.", "Schönen Urlaub! Erhol dich gut!"], "a": 2, "why": "Erhol dich gut! は「ゆっくり休んでね！」という、休暇前の定番のあいさつです。"},
+    "outro": "今日は「Ich nehme nächste Woche Urlaub.」を声に出して言ってみましょう。次の休暇では、みなさんもしっかり erholen できますように！☀️"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "religion",
+  "ko": {
+    "title": "교회 종소리 들리는 독일, 종교 단어 10",
+    "hook": "독일에 살다 보면 생각보다 자주 ‘종교’ 칸을 만나게 돼요.",
+    "intro": [
+      "주민 등록을 하러 갔더니 서류에 ‘Religion’ 칸이 있어요. 일요일 아침엔 동네 교회 종이 울리고, 남부 여행 중엔 사람들이 ‘Grüß Gott!’ 하고 인사해요.",
+      "오늘은 독일 문화를 이해하는 데 꼭 필요한 종교 단어 10개를 모았어요. 서류 작성부터 성당 구경, 독일 역사 이야기까지 훨씬 잘 들릴 거예요. ⛪"
+    ],
+    "words": {
+      "A2-672": {"pron": "렐리기온", "tip": "-ion으로 끝나는 명사는 언제나 die ⛪ 영어 religion과 철자도 같아요!", "bonus": "독일 학교에서는 Religion이 과목 이름이기도 해요."},
+      "A1-148": {"pron": "키르헤", "tip": "영어 church와 원래 같은 단어 🔔 ‘키르-’ 하고 종이 울리는 느낌!", "bonus": "큰 성당은 der Dom이라고 해요: der Kölner Dom"},
+      "B1-750": {"pron": "고트", "tip": "영어 god과 거의 똑같아요 🙏 놀랐다 안심하면 Gott sei Dank!", "warn": "복수는 움라우트: die Götter (신화 속 신들)"},
+      "B1-2085": {"pron": "글라우베", "tip": "glauben(믿다)의 명사, 영어 belief와도 친척 ✨", "warn": "2격이 조금 특이해요: des Glaubens"},
+      "B2-3340": {"pron": "베텐", "tip": "bitten(부탁하다)과 사촌, 신에게 부탁하는 게 기도 🙏", "warn": "헷갈림 주의: beten 기도하다 · bitten 부탁하다 · bieten 제공하다"},
+      "B1-1843": {"pron": "고테스딘스트", "tip": "Gott + es + Dienst(봉사) = 하느님께 드리는 봉사 = 예배 🕯️", "bonus": "개신교 예배도, 가톨릭 미사도 Gottesdienst라고 할 수 있어요. 미사만 따로 말하면 die Messe"},
+      "B1-2350": {"pron": "파러", "tip": "die Pfarre(교구)에서 왔어요, 영어 parish와 비슷하죠 ⛪", "bonus": "목사님도, 가톨릭 주임 신부님도 Pfarrer라고 불러요."},
+      "B1-2098": {"pron": "카톨리슈", "tip": "그리스어 katholikos(보편적인)에서 왔어요 🌍 h는 소리 안 나요!", "bonus": "가톨릭 신자 = der Katholik / die Katholikin"},
+      "B1-1844": {"pron": "에방겔리슈", "tip": "das Evangelium(복음)에서 온 말 📖 독일에서는 그냥 ‘개신교’예요.", "warn": "영어 evangelical(복음주의)과 같은 뜻이 아니에요."},
+      "B1-2230": {"pron": "비벨", "tip": "그리스어 biblía(책들)에서 왔어요 📚 책 중의 책!", "bonus": "복수는 die Bibeln"}
+    },
+    "culture": [
+      "독일에서는 큰 교회(가톨릭, 개신교)에 등록된 신자라면 보통 교회세(Kirchensteuer)를 내요. 월급에서 세금과 함께 빠져나가요. 그래서 주민 등록 서류에 종교를 묻는 칸이 있는 거예요.",
+      "지역마다 분위기가 달라요. 바이에른 같은 남부는 가톨릭이 많고 ‘Grüß Gott!’ 하고 인사해요. 북부와 동부는 개신교 전통이 강하거나, 종교가 없는 사람이 많은 편이에요.",
+      "마르틴 루터가 성경을 독일어로 번역하면서 지금의 표준 독일어에도 큰 영향을 줬어요. 교회는 관광객도 들어가 볼 수 있는 곳이 많지만, 예배 중에는 조용히 해 주세요. 🔔"
+    ],
+    "quiz": {"q": "남부 독일 빵집에 들어갔더니 직원이 ‘Grüß Gott!’라고 해요. 같은 뜻의 말은?", "o": ["Gott sei Dank!", "Guten Tag!", "Gute Besserung!"], "a": 1, "why": "Grüß Gott!는 남부와 오스트리아에서 쓰는 인사로, Guten Tag!와 같은 뜻이에요."},
+    "outro": "오늘은 beten, bitten, bieten 세 단어를 빠르게 세 번씩 말해 보며 구별해 봐요. 🙏"
+  },
+  "en": {
+    "title": "Church bells and Grüß Gott: 10 German words about religion",
+    "hook": "Live in Germany for a while and you'll meet the word ‘religion’ more often than you'd think.",
+    "intro": [
+      "You go to register your address and the form has a box for ‘Religion’. On Sunday morning the church bells ring, and on a trip to the south people greet you with ‘Grüß Gott!’",
+      "Here are ten words that help you understand this side of German culture. Forms, church visits and German history will all make a lot more sense. ⛪"
+    ],
+    "words": {
+      "A2-672": {"pron": "reh-lee-GYOHN", "tip": "Nouns ending in -ion are always die ⛪ Same spelling as English!", "bonus": "In German schools, Religion is also the name of a school subject."},
+      "A1-148": {"pron": "KEER-khuh", "tip": "Originally the same word as English church 🔔 Hear the bell in ‘KEER’?", "bonus": "A big cathedral is der Dom: der Kölner Dom"},
+      "B1-750": {"pron": "GOT", "tip": "Almost the same as English god 🙏 Relieved? Gott sei Dank! (Thank God!)", "warn": "Plural with umlaut: die Götter (gods in myths)"},
+      "B1-2085": {"pron": "GLOW-buh", "tip": "The noun from glauben (believe) — a cousin of English belief ✨", "warn": "Irregular genitive: des Glaubens"},
+      "B2-3340": {"pron": "BAY-ten", "tip": "A cousin of bitten (ask) — praying is asking God 🙏", "warn": "Don't mix them up: beten pray · bitten ask · bieten offer"},
+      "B1-1843": {"pron": "GOT-es-deenst", "tip": "Gott + es + Dienst (service) = service to God 🕯️", "bonus": "It covers Protestant services and Catholic Mass; Mass alone is die Messe."},
+      "B1-2350": {"pron": "PFAR-er", "tip": "From die Pfarre (parish) — like English parish ⛪", "bonus": "Used for both Protestant ministers and Catholic parish priests."},
+      "B1-2098": {"pron": "ka-TOH-lish", "tip": "From Greek katholikos (universal) 🌍 The h is silent.", "bonus": "a Catholic = der Katholik / die Katholikin"},
+      "B1-1844": {"pron": "ay-vahn-GAY-lish", "tip": "From das Evangelium (gospel) 📖 In Germany it simply means Protestant.", "warn": "It doesn't mean ‘evangelical’ in the English sense."},
+      "B1-2230": {"pron": "BEE-bel", "tip": "From Greek biblía (books) 📚 The book of books!", "bonus": "Plural: die Bibeln"}
+    },
+    "culture": [
+      "In Germany, registered members of the big churches (Catholic and Protestant) usually pay church tax (Kirchensteuer), taken from their salary along with income tax. That's why the registration form asks about your religion.",
+      "It varies by region. The south, such as Bavaria, is largely Catholic, and people say ‘Grüß Gott!’ The north and east have a stronger Protestant tradition or many people with no religion.",
+      "Martin Luther's translation of the Bible into German had a big influence on today's standard German. Many churches welcome visitors, but please keep quiet during a service. 🔔"
+    ],
+    "quiz": {"q": "You walk into a bakery in southern Germany and hear ‘Grüß Gott!’ Which phrase means the same?", "o": ["Gott sei Dank!", "Guten Tag!", "Gute Besserung!"], "a": 1, "why": "Grüß Gott! is a greeting in southern Germany and Austria, just like Guten Tag!"},
+    "outro": "Say beten, bitten, bieten three times each, quickly, and feel the difference. 🙏"
+  },
+  "ja": {
+    "title": "教会の鐘が鳴るドイツで、宗教の単語10",
+    "hook": "ドイツで暮らしていると、思ったより「宗教」という欄に出会います。",
+    "intro": [
+      "住民登録に行ったら、書類に「Religion」の欄がありました。日曜の朝には近所の教会の鐘が鳴り、南ドイツを旅すると「Grüß Gott!」とあいさつされます。",
+      "今日はドイツ文化を理解するのに欠かせない宗教の単語を10個集めました。書類の記入から教会めぐり、ドイツの歴史の話まで、ぐっとわかりやすくなりますよ。⛪"
+    ],
+    "words": {
+      "A2-672": {"pron": "レリギオーン", "tip": "-ion で終わる名詞はいつも die ⛪ 英語の religion とつづりも同じ！", "bonus": "ドイツの学校では Religion は科目の名前でもあります。"},
+      "A1-148": {"pron": "キルヒェ", "tip": "英語の church ともとは同じ単語 🔔「キル」と鐘が鳴るイメージ！", "bonus": "大きな大聖堂は der Dom：der Kölner Dom"},
+      "B1-750": {"pron": "ゴット", "tip": "英語の god とほぼ同じ 🙏 ほっとしたら Gott sei Dank!（よかった！）", "warn": "複数形はウムラウト：die Götter（神話の神々）"},
+      "B1-2085": {"pron": "グラウベ", "tip": "glauben（信じる）の名詞、英語の belief とも親戚 ✨", "warn": "2格が不規則で des Glaubens になります。"},
+      "B2-3340": {"pron": "ベーテン", "tip": "bitten（頼む）のいとこ、神様に頼むのがお祈り 🙏", "warn": "要注意：beten 祈る · bitten 頼む · bieten 提供する"},
+      "B1-1843": {"pron": "ゴッテスディーンスト", "tip": "Gott + es + Dienst（奉仕）= 神への奉仕 = 礼拝 🕯️", "bonus": "プロテスタントの礼拝もカトリックのミサも Gottesdienst。ミサだけなら die Messe"},
+      "B1-2350": {"pron": "プファラー", "tip": "die Pfarre（教区）から、英語の parish に似ています ⛪", "bonus": "プロテスタントの牧師にもカトリックの主任司祭にも使います。"},
+      "B1-2098": {"pron": "カトーリッシュ", "tip": "ギリシャ語 katholikos（普遍的な）から 🌍 h は発音しません！", "bonus": "カトリック信者 = der Katholik / die Katholikin"},
+      "B1-1844": {"pron": "エヴァンゲーリッシュ", "tip": "das Evangelium（福音）から来た言葉 📖 ドイツではただ「プロテスタントの」という意味です。", "warn": "英語の evangelical（福音派）と同じ意味ではありません。"},
+      "B1-2230": {"pron": "ビーベル", "tip": "ギリシャ語 biblía（本の複数）から 📚 本の中の本！", "bonus": "複数形は die Bibeln"}
+    },
+    "culture": [
+      "ドイツでは、大きな教会（カトリック・プロテスタント）に登録している信者は、ふつう教会税（Kirchensteuer）を払います。給料から税金と一緒に引かれます。だから住民登録の書類に宗教の欄があるのです。",
+      "地域によって雰囲気が違います。バイエルンなど南部はカトリックが多く、「Grüß Gott!」とあいさつします。北部や東部はプロテスタントの伝統が強かったり、無宗教の人が多かったりします。",
+      "マルティン・ルターが聖書をドイツ語に訳したことは、今の標準ドイツ語にも大きな影響を与えました。観光客が入れる教会も多いですが、礼拝中は静かにしましょう。🔔"
+    ],
+    "quiz": {"q": "南ドイツのパン屋さんに入ったら「Grüß Gott!」と言われました。同じ意味の表現は？", "o": ["Gott sei Dank!", "Guten Tag!", "Gute Besserung!"], "a": 1, "why": "Grüß Gott! は南ドイツやオーストリアのあいさつで、Guten Tag! と同じ意味です。"},
+    "outro": "今日は beten、bitten、bieten を3回ずつ早口で言って、違いを体で覚えてみましょう。🙏"
+  }
+}

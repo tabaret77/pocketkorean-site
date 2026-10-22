@@ -1,0 +1,84 @@
+{
+  "key": "beach",
+  "ko": {
+    "title": "여름이면 꺼내 쓰는 바다·호수 독일어 10",
+    "hook": "독일 여름의 진짜 주인공은 바다보다 호수일지도 몰라요.",
+    "intro": [
+      "베를린에 여름이 오면 주말마다 친구들이 묻어요. ‘이번 주에 See 갈래?’ 바다라는 거야, 호수라는 거야? 수건이랑 수영복을 챙기면서도 헷갈려요.",
+      "오늘은 바다와 호수에서 쓰는 단어 10개를 모았어요. 이걸로 주말 물놀이 약속을 잡고, 파도 상태를 묻고, 햇볕에 탔을 때 약국에서 말할 수도 있어요. 🏖️"
+    ],
+    "words": {
+      "A2-112": {"pron": "메어", "tip": "‘메어~’ 하고 끝없이 펼쳐진 바다 🌊", "bonus": "ans Meer fahren = 바다에 가다 · am Meer = 바닷가에서"},
+      "A2-114": {"pron": "제", "tip": "관사 하나로 물 크기가 달라져요 🏞️ der See는 호수!", "warn": "der See(호수) ↔ die See(바다). 복수는 die Seen"},
+      "A2-116": {"pron": "슈트란트", "tip": "배가 해변(Strand)에 걸리면 영어로 stranded! 🏖️", "warn": "복수는 움라우트: die Strände", "bonus": "am Strand liegen = 해변에 누워 있다"},
+      "A1-178": {"pron": "슈비멘", "tip": "영어 swim과 형제 🏊 w는 ‘ㅂ’ 소리로!", "warn": "현재완료는 sein과: Ich bin geschwommen."},
+      "A1-427": {"pron": "바덴", "tip": "das Bad(목욕)의 동사 🛁 욕조에서도 호수에서도 baden!", "bonus": "baden gehen = 물에 들어가 놀다 · 물놀이 호수는 der Badesee"},
+      "B1-2004": {"pron": "비키니", "tip": "태평양 비키니 섬에서 온 이름이에요 👙", "bonus": "원피스 수영복은 der Badeanzug, 남자 수영복은 die Badehose"},
+      "B1-2234": {"pron": "벨레", "tip": "물결이 ‘벨~레’ 하고 넘실넘실 🌊", "bonus": "die Hitzewelle = 폭염 · 유행의 ‘물결’에도 써요."},
+      "B1-1092": {"pron": "잔트", "tip": "영어 sand와 똑같지만 s는 ‘ㅈ’ 소리 ⏳", "bonus": "모래성은 die Sandburg"},
+      "A2-286": {"pron": "조넨브릴레", "tip": "Sonne(해) + Brille(안경) = 해 가리는 안경 😎", "warn": "하나는 단수: eine Sonnenbrille"},
+      "B2-2684": {"pron": "조넨브란트", "tip": "Sonne + Brand(불) = 해한테 불탄 피부 🔥", "bonus": "선크림은 die Sonnencreme · Ich habe einen Sonnenbrand. = 햇볕에 탔어요."}
+    },
+    "culture": [
+      "독일 사람들은 여름이면 가까운 호수(Badesee)로 수영하러 가는 걸 정말 좋아해요. 바다가 먼 지역이 많아서, 호숫가에 수건 깔고 하루 종일 노는 게 흔한 주말 풍경이에요.",
+      "북해(Nordsee)와 발트해(Ostsee) 해변에는 바람을 막아 주는 지붕 달린 바구니 의자(Strandkorb)가 줄지어 있어요. 보통 하루나 일주일 단위로 빌려 써요.",
+      "그리고 놀라지 마세요! 해변이나 호숫가 일부에는 옷을 다 벗고 즐기는 FKK(Freikörperkultur) 구역이 따로 있기도 해요. 표지판을 잘 보면 돼요. 😎"
+    ],
+    "quiz": {"q": "주말에 호수에서 수영하고 왔어요. 친구에게 뭐라고 말할까요?", "o": ["Ich war am Meer.", "Ich war an der See.", "Ich war am See."], "a": 2, "why": "der See가 호수예요. das Meer와 die See는 바다라서 다른 장소가 돼요."},
+    "outro": "오늘은 ‘der See, die See, das Meer’를 소리 내서 세 번 말해 봐요. 이번 여름 물놀이 약속은 독일어로 잡아 보는 걸로! 🌞"
+  },
+  "en": {
+    "title": "Sun, sand and lakes: 10 German words for summer",
+    "hook": "In a German summer, the real star might be the lake, not the sea.",
+    "intro": [
+      "When summer arrives in Berlin, friends start asking every weekend: ‘Shall we go to the See?’ Do they mean the sea or a lake? You pack your towel and swimsuit, still not quite sure.",
+      "Today's ten words are for the beach and the lake. With them you can make weekend swimming plans, ask about the waves, and explain your sunburn at the pharmacy. 🏖️"
+    ],
+    "words": {
+      "A2-112": {"pron": "MAIR", "tip": "Say it slowly — ‘MAIR’ — and picture a sea stretching out forever 🌊", "bonus": "ans Meer fahren = to go to the seaside · am Meer = by the sea"},
+      "A2-114": {"pron": "ZAY", "tip": "One little article changes the size of the water 🏞️ der See is a lake.", "warn": "der See = lake, die See = sea. Plural: die Seen"},
+      "A2-116": {"pron": "SHTRANT", "tip": "When a ship gets stuck on the Strand, it's stranded 🏖️", "warn": "The plural has an umlaut: die Strände", "bonus": "am Strand liegen = to lie on the beach"},
+      "A1-178": {"pron": "SHVIM-en", "tip": "A sibling of swim 🏊 Just say the w like a v.", "warn": "The perfect tense uses sein: Ich bin geschwommen."},
+      "A1-427": {"pron": "BAH-den", "tip": "The verb from das Bad (bath) 🛁 In the tub or in the lake, it's baden.", "bonus": "baden gehen = to go for a swim · a swimming lake = der Badesee"},
+      "B1-2004": {"pron": "bee-KEE-nee", "tip": "Named after Bikini Atoll in the Pacific 👙", "bonus": "a swimsuit = der Badeanzug · swimming trunks = die Badehose"},
+      "B1-2234": {"pron": "VEL-uh", "tip": "Think of the sea swelling up — Welle, wave 🌊", "bonus": "die Hitzewelle = heatwave · also used for a ‘wave’ of trends."},
+      "B1-1092": {"pron": "ZANT", "tip": "Same as English sand, but the s buzzes like a z ⏳", "bonus": "a sandcastle = die Sandburg"},
+      "A2-286": {"pron": "ZON-en-bril-uh", "tip": "Sonne (sun) + Brille (glasses) = sun glasses, literally 😎", "warn": "One pair is singular: eine Sonnenbrille"},
+      "B2-2684": {"pron": "ZON-en-brant", "tip": "Sonne + Brand (fire) = skin set on fire by the sun 🔥", "bonus": "sun cream = die Sonnencreme · Ich habe einen Sonnenbrand. = I'm sunburnt."}
+    },
+    "culture": [
+      "Germans love heading to a nearby swimming lake (Badesee) in summer. Many regions are far from the coast, so spreading out a towel by a lake for the whole day is a classic weekend.",
+      "On North Sea (Nordsee) and Baltic (Ostsee) beaches you'll see rows of hooded wicker beach chairs (Strandkorb) that shelter you from the wind. You can usually rent one by the day or the week.",
+      "And don't be surprised: some beaches and lakes have FKK (Freikörperkultur) areas where people swim and sunbathe naked. Just keep an eye on the signs. 😎"
+    ],
+    "quiz": {"q": "You went swimming in a lake at the weekend. What do you tell your friend?", "o": ["Ich war am Meer.", "Ich war an der See.", "Ich war am See."], "a": 2, "why": "der See is a lake; das Meer and die See both mean the sea."},
+    "outro": "Say ‘der See, die See, das Meer’ out loud three times today. Then try making this summer's swimming plans in German! 🌞"
+  },
+  "ja": {
+    "title": "夏に大活躍！海と湖のドイツ語10",
+    "hook": "ドイツの夏の主役は、海より湖かもしれません。",
+    "intro": [
+      "ベルリンに夏が来ると、週末のたびに友だちが聞いてきます。「今週 See に行かない？」海のこと？湖のこと？タオルと水着をバッグに入れながらも、まだ迷っています。",
+      "今日は海と湖で使う単語を10個集めました。週末の水遊びの約束をしたり、波の様子を聞いたり、日焼けしたときに薬局で説明したりできるようになります。🏖️"
+    ],
+    "words": {
+      "A2-112": {"pron": "メーア", "tip": "「メーア〜」と伸ばすと、どこまでも続く海が見えてきます 🌊", "bonus": "ans Meer fahren = 海に行く · am Meer = 海辺で"},
+      "A2-114": {"pron": "ゼー", "tip": "冠詞ひとつで水の大きさが変わります 🏞️ der See は湖！", "warn": "der See（湖）↔ die See（海）。複数形は die Seen"},
+      "A2-116": {"pron": "シュトラント", "tip": "船が浜（Strand）に乗り上げると、英語で stranded！🏖️", "warn": "複数形はウムラウト付き：die Strände", "bonus": "am Strand liegen = 浜辺で寝そべる"},
+      "A1-178": {"pron": "シュヴィメン", "tip": "英語の swim の兄弟 🏊 w は「ヴ」の音で！", "warn": "現在完了は sein を使います：Ich bin geschwommen."},
+      "A1-427": {"pron": "バーデン", "tip": "das Bad（お風呂）の動詞 🛁 湯船でも湖でも baden！", "bonus": "baden gehen = 水浴びに行く · 泳げる湖は der Badesee"},
+      "B1-2004": {"pron": "ビキーニ", "tip": "太平洋のビキニ環礁から来た名前です 👙", "bonus": "ワンピース水着は der Badeanzug、男性用の水着は die Badehose"},
+      "B1-2234": {"pron": "ヴェレ", "tip": "波が「ヴェ〜レ」とうねるイメージ 🌊", "bonus": "die Hitzewelle = 熱波 · 流行の「波」にも使います。"},
+      "B1-1092": {"pron": "ザント", "tip": "英語の sand と同じつづりで、s は「ザ」の音 ⏳", "bonus": "砂のお城は die Sandburg"},
+      "A2-286": {"pron": "ゾネンブリレ", "tip": "Sonne（太陽）+ Brille（めがね）= 太陽よけのめがね 😎", "warn": "1つなら単数：eine Sonnenbrille"},
+      "B2-2684": {"pron": "ゾネンブラント", "tip": "Sonne + Brand（火事）= 太陽に焼かれた肌 🔥", "bonus": "日焼け止めは die Sonnencreme · Ich habe einen Sonnenbrand. = 日焼けしてヒリヒリします。"}
+    },
+    "culture": [
+      "ドイツの人は、夏になると近くの湖（Badesee）へ泳ぎに行くのが大好きです。海から遠い地域が多いので、湖畔にタオルを広げて一日過ごすのが定番の週末です。",
+      "北海（Nordsee）やバルト海（Ostsee）の浜辺には、風よけの屋根がついたかご型のビーチチェア（Strandkorb）がずらりと並んでいます。たいてい1日や1週間単位で借りられます。",
+      "そして驚かないでくださいね。浜辺や湖の一部には、服を着ずに楽しむ FKK（Freikörperkultur）のエリアがあることも。看板をよく見ておけば大丈夫です。😎"
+    ],
+    "quiz": {"q": "週末に湖で泳いできました。友だちに何と言いますか？", "o": ["Ich war am Meer.", "Ich war an der See.", "Ich war am See."], "a": 2, "why": "der See が湖です。das Meer と die See は海なので、別の場所になってしまいます。"},
+    "outro": "今日は「der See, die See, das Meer」を3回声に出して言ってみましょう。この夏の水遊びの約束は、ぜひドイツ語で！🌞"
+  }
+}

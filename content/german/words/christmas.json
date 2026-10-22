@@ -1,0 +1,84 @@
+{
+  "key": "christmas",
+  "ko": {
+    "title": "독일식 크리스마스를 200% 즐기는 단어 10",
+    "hook": "독일 크리스마스는 25일이 아니라 24일 저녁에 진짜 시작돼요.",
+    "intro": [
+      "12월이 되면 창문마다 촛불 장식이 켜지고, 집집마다 버터 쿠키 굽는 냄새가 나요. 동료는 “Hast du schon alle Geschenke?” 하고 묻고요. 독일의 크리스마스는 한 달 내내 이어지는 축제예요.",
+      "오늘은 크리스마스 시즌에 꼭 듣게 되는 단어 10개를 모았어요. 이 단어들만 있으면 트리 장식부터 선물 이야기까지 독일 친구들과 신나게 나눌 수 있어요. 🎄"
+    ],
+    "words": {
+      "A2-684": {"pron": "바이나흐텐", "tip": "weih(신성한) + Nacht(밤) = 거룩한 밤들 🌟 노래 ‘고요한 밤’이 떠오르죠?", "warn": "보통 관사 없이 써요: an Weihnachten, zu Weihnachten"},
+      "A2-1042": {"pron": "하일리히아벤트", "tip": "heilig(거룩한) + Abend(저녁) = 크리스마스이브 🕯️ Abend가 남성이니 der!", "bonus": "선물을 푸는 순간은 die Bescherung이라고 해요."},
+      "A2-1083": {"pron": "바이나흐츠바움", "tip": "Weihnacht + s + Baum(나무) = 트리 🎄 중간의 -s-는 이음새예요.", "bonus": "남부와 오스트리아에서는 der Christbaum"},
+      "A2-1016": {"pron": "바이나흐츠게셴크", "tip": "schenken(선물하다)에서 온 Geschenk 🎁 마지막 단어 따라 das!", "warn": "영어 gift를 생각하면 큰일! 독일어 das Gift는 ‘독’이에요."},
+      "B1-2243": {"pron": "아트벤트", "tip": "라틴어 adventus(도착) ⏳ 예수님의 ‘오심’을 기다리는 4주예요.", "bonus": "초 네 개 꽂힌 리스는 der Adventskranz, 매일 하나씩 여는 달력은 der Adventskalender"},
+      "A2-917": {"pron": "바이나흐츠만", "tip": "Weihnacht + Mann(남자) = 크리스마스 아저씨 🎅 이름이 너무 정직해요!", "warn": "복수는 die Weihnachtsmänner"},
+      "B1-844": {"pron": "케르체", "tip": "‘케르~체’ 하고 불을 켜는 느낌으로 🕯️ -e로 끝나니 die!", "bonus": "초를 켜다 = eine Kerze anzünden"},
+      "A2-1009": {"pron": "플레츠헨", "tip": "Platz + -chen(작은) = 작고 납작한 과자 🍪 -chen은 무조건 das!", "warn": "‘작은 자리’라는 뜻도 있어요: ein ruhiges Plätzchen"},
+      "B1-560": {"pron": "데코리어렌", "tip": "영어 decorate랑 닮았죠 ✨ -ieren 동사라 완료형은 hat dekoriert.", "bonus": "트리를 꾸밀 땐 schmücken도 많이 써요: den Baum schmücken"},
+      "B1-2343": {"pron": "바이나흐틀리히", "tip": "Weihnacht + -lich = 크리스마스다운 🔔 거리 분위기를 말할 때 딱!", "bonus": "Es ist schon richtig weihnachtlich! = 벌써 크리스마스 분위기 물씬!"}
+    },
+    "culture": [
+      "독일에서는 선물을 25일 아침이 아니라 24일 저녁(Heiligabend)에 풀어요. 이날은 가족끼리 조용히 보내는 날이라, 오후가 되면 거리가 금방 한산해져요.",
+      "25일과 26일은 둘 다 공휴일이에요. 친척 집을 돌거나 거위 요리 같은 푸짐한 식사를 하는 집이 많아요.",
+      "선물을 가져오는 사람도 지역마다 달라요. 북부에서는 보통 Weihnachtsmann, 남부와 오스트리아에서는 아기 천사 같은 Christkind가 온다고 해요. 👼"
+    ],
+    "quiz": {"q": "12월 23일, 퇴근하며 이웃과 마주쳤어요. 뭐라고 인사할까요?", "o": ["Alles Gute zum Geburtstag!", "Gute Besserung!", "Frohe Weihnachten!"], "a": 2, "why": "Frohe Weihnachten! = 메리 크리스마스! 연말에 가장 많이 하는 인사예요."},
+    "outro": "올해는 카드 한 장에 Frohe Weihnachten! 을 직접 써 보는 건 어때요? 소리 내서 읽어 보는 것도 잊지 마세요! 🎁"
+  },
+  "en": {
+    "title": "Christmas the German way: 10 festive words",
+    "hook": "In Germany, Christmas really starts on the evening of the 24th — not the morning of the 25th.",
+    "intro": [
+      "In December, candle lights appear in windows and whole buildings smell of butter biscuits. Colleagues ask, “Hast du schon alle Geschenke?” In Germany, Christmas is a celebration that lasts all month.",
+      "Today's ten words are ones you'll hear all season. With them you can chat with German friends about everything from the tree to the presents. 🎄"
+    ],
+    "words": {
+      "A2-684": {"pron": "VY-nakh-ten", "tip": "weih (holy) + Nacht (night) = the holy nights 🌟 Think of “Silent Night”.", "warn": "Usually no article: an Weihnachten, zu Weihnachten"},
+      "A2-1042": {"pron": "HY-likh-ah-bent", "tip": "heilig (holy) + Abend (evening) = Christmas Eve 🕯️ Abend is masculine, so der.", "bonus": "The moment presents are opened is called die Bescherung."},
+      "A2-1083": {"pron": "VY-nakhts-bowm", "tip": "Weihnacht + s + Baum (tree) 🎄 The -s- in the middle just glues the parts.", "bonus": "In the south and Austria: der Christbaum"},
+      "A2-1016": {"pron": "VY-nakhts-guh-shenk", "tip": "Geschenk comes from schenken (to give) 🎁 The last part makes it das.", "warn": "Never say Gift — in German das Gift means poison!"},
+      "B1-2243": {"pron": "at-VENT", "tip": "From Latin adventus (arrival) ⏳ Four weeks of waiting for Christmas.", "bonus": "The wreath with four candles is der Adventskranz; the calendar is der Adventskalender."},
+      "A2-917": {"pron": "VY-nakhts-man", "tip": "Weihnacht + Mann = the Christmas man 🎅 Very honest naming!", "warn": "Plural: die Weihnachtsmänner"},
+      "B1-844": {"pron": "KAIR-tsuh", "tip": "Ends in -e, so it's die 🕯️ Light it up!", "bonus": "to light a candle = eine Kerze anzünden"},
+      "A2-1009": {"pron": "PLETS-khen", "tip": "Platz + -chen (little) = a little flat biscuit 🍪 -chen words are always das!", "warn": "It can also mean a little spot: ein ruhiges Plätzchen"},
+      "B1-560": {"pron": "deh-ko-REE-ren", "tip": "Looks like decorate ✨ An -ieren verb, so the perfect is hat dekoriert.", "bonus": "For the tree, Germans also say schmücken: den Baum schmücken"},
+      "B1-2343": {"pron": "VY-nakht-likh", "tip": "Weihnacht + -lich = Christmassy 🔔 Perfect for describing the streets.", "bonus": "Es ist schon richtig weihnachtlich! = It already feels really Christmassy!"}
+    },
+    "culture": [
+      "Germans open their presents on Christmas Eve (Heiligabend), not on the morning of the 25th. It's a quiet family evening, so the streets empty out quickly in the afternoon.",
+      "The 25th and 26th are both public holidays. Many families visit relatives and sit down to a big meal, such as roast goose.",
+      "Who brings the presents depends on where you are. In the north it's usually the Weihnachtsmann; in the south and Austria it's often the angel-like Christkind. 👼"
+    ],
+    "quiz": {"q": "It's 23 December and you bump into a neighbour on your way home. What do you say?", "o": ["Alles Gute zum Geburtstag!", "Gute Besserung!", "Frohe Weihnachten!"], "a": 2, "why": "Frohe Weihnachten! = Merry Christmas! It's the greeting you'll hear most at the end of the year."},
+    "outro": "This year, why not write Frohe Weihnachten! in a card yourself? And read it out loud, too! 🎁"
+  },
+  "ja": {
+    "title": "ドイツ流クリスマスを楽しむための単語10",
+    "hook": "ドイツのクリスマスは、25日ではなく24日の夜に本番が始まります。",
+    "intro": [
+      "12月になると窓という窓にろうそくの明かりが灯り、建物中にバタークッキーを焼くにおいが広がります。同僚には「Hast du schon alle Geschenke?」と聞かれたり。ドイツのクリスマスはひと月続くお祭りです。",
+      "今日はクリスマスシーズンに必ず耳にする単語を10個集めました。これでツリーの飾りつけからプレゼントの話まで、ドイツの友だちと盛り上がれます。🎄"
+    ],
+    "words": {
+      "A2-684": {"pron": "ヴァイナハテン", "tip": "weih（聖なる）+ Nacht（夜）= 聖なる夜 🌟「きよしこの夜」を思い出して。", "warn": "ふつう冠詞なしで使います：an Weihnachten, zu Weihnachten"},
+      "A2-1042": {"pron": "ハイリヒアーベント", "tip": "heilig（聖なる）+ Abend（夜）= クリスマスイブ 🕯️ Abend が男性名詞なので der！", "bonus": "プレゼントを開ける時間は die Bescherung と言います。"},
+      "A2-1083": {"pron": "ヴァイナハツバウム", "tip": "Weihnacht + s + Baum（木）= ツリー 🎄 真ん中の -s- はつなぎの役目です。", "bonus": "南ドイツやオーストリアでは der Christbaum"},
+      "A2-1016": {"pron": "ヴァイナハツゲシェンク", "tip": "schenken（贈る）から来た Geschenk 🎁 最後の語に合わせて das！", "warn": "英語の gift のつもりで Gift と言うと大変！ドイツ語の das Gift は「毒」です。"},
+      "B1-2243": {"pron": "アトヴェント", "tip": "ラテン語 adventus（到来）から ⏳ クリスマスを待つ4週間です。", "bonus": "ろうそく4本のリースは der Adventskranz、毎日ひとつ開けるカレンダーは der Adventskalender"},
+      "A2-917": {"pron": "ヴァイナハツマン", "tip": "Weihnacht + Mann（男の人）= クリスマスのおじさん 🎅 ネーミングが正直すぎます！", "warn": "複数形は die Weihnachtsmänner"},
+      "B1-844": {"pron": "ケルツェ", "tip": "-e で終わるので die 🕯️ 火を灯すイメージで「ケルツェ」！", "bonus": "ろうそくに火をつける = eine Kerze anzünden"},
+      "A2-1009": {"pron": "プレッツヒェン", "tip": "Platz + -chen（小さい）= 小さく平たいお菓子 🍪 -chen はいつも das！", "warn": "「小さな場所」という意味もあります：ein ruhiges Plätzchen"},
+      "B1-560": {"pron": "デコリーレン", "tip": "英語の decorate に似ていますね ✨ -ieren 動詞なので完了形は hat dekoriert", "bonus": "ツリーを飾るときは schmücken もよく使います：den Baum schmücken"},
+      "B1-2343": {"pron": "ヴァイナハトリヒ", "tip": "Weihnacht + -lich = クリスマスらしい 🔔 街の雰囲気を言うのにぴったり！", "bonus": "Es ist schon richtig weihnachtlich! = もうすっかりクリスマス気分！"}
+    },
+    "culture": [
+      "ドイツではプレゼントを25日の朝ではなく、24日の夜（Heiligabend）に開けます。家族で静かに過ごす日なので、午後になると街はあっという間に静かになります。",
+      "25日と26日はどちらも祝日です。親戚の家を回ったり、ガチョウのローストのようなごちそうを囲んだりする家庭が多いです。",
+      "プレゼントを持ってくる人も地域によって違います。北部ではふつう Weihnachtsmann、南部やオーストリアでは天使のような Christkind が来ると言われています。👼"
+    ],
+    "quiz": {"q": "12月23日、帰り道でご近所さんに会いました。何とあいさつしますか？", "o": ["Alles Gute zum Geburtstag!", "Gute Besserung!", "Frohe Weihnachten!"], "a": 2, "why": "Frohe Weihnachten! =「メリークリスマス！」年末にいちばんよく聞くあいさつです。"},
+    "outro": "今年はカードに Frohe Weihnachten! と自分で書いてみませんか？声に出して読むのもお忘れなく！🎁"
+  }
+}

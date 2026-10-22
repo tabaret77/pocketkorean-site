@@ -1,0 +1,84 @@
+{
+  "key": "carnival",
+  "ko": {
+    "title": "쾰른 카니발에 뛰어들기 전 알아 둘 독일어 10",
+    "hook": "2월의 어느 목요일, 회사 동료가 갑자기 해적 옷을 입고 출근했다면?",
+    "intro": [
+      "독일에 와서 처음 맞은 2월, 쾰른 거리가 온통 광대, 해적, 꿀벌로 가득해요. 지하철 옆자리 아저씨는 사자 옷을 입고 있고, 사람들은 서로 \"Alaaf!\"를 외쳐요. 대체 무슨 일이죠?",
+      "오늘은 독일 카니발을 제대로 즐기기 위한 단어 10개예요. 이걸로 의상 이야기도 하고, 퍼레이드도 따라가고, 쾰른 사람들처럼 신나게 놀 수 있어요. 🎭"
+    ],
+    "words": {
+      "A2-688": {"pron": "카르네발", "tip": "이탈리아어 carne(고기) + vale(안녕) = 고기야 안녕 🍖 금식 기간 전에 실컷 노는 축제예요!", "bonus": "남부 독일과 오스트리아에서는 der Fasching이라고 해요."},
+      "B1-879": {"pron": "코스튐", "tip": "영어 costume과 같은 말 🦸 끝의 ü는 입술을 동그랗게 '위'!", "warn": "의상 말고 '여성용 치마 정장'이라는 뜻도 있어요."},
+      "B2-3749": {"pron": "지히 페어클라이덴", "tip": "ver-(바꾸다) + Kleid(옷) = 옷을 바꿔 입다 🧙 다른 사람으로 변신!", "bonus": "~로 분장하다 = sich als … verkleiden: Ich verkleide mich als Hexe."},
+      "A2-863": {"pron": "마스케", "tip": "영어 mask에 -e만 붙이면 끝 🎭 끝의 e도 꼭 '에'로 읽어요.", "bonus": "가면을 쓰다 = eine Maske tragen"},
+      "A2-612": {"pron": "움추크", "tip": "um(빙 돌아) + Zug(행렬) = 거리를 빙 도는 행렬 🎺 이사도 짐이 옮겨 가는 행렬이라 Umzug!", "warn": "평소엔 주로 '이사'라는 뜻이에요. 카니발 퍼레이드는 der Karnevalsumzug."},
+      "B2-3643": {"pron": "파라데", "tip": "영어 parade와 같은 말 🥁 강세는 가운데 '라'에!", "bonus": "축구에서는 골키퍼의 선방도 Parade라고 해요."},
+      "B1-2369": {"pron": "클라운", "tip": "영어 clown 그대로 🤡 읽는 법까지 똑같아요.", "bonus": "카니발의 광대 같은 사람은 der Narr라고도 해요."},
+      "A1-290": {"pron": "슈파스", "tip": "s+p는 '슈프' 🥳 '슈파스!' 하고 터지는 재미!", "bonus": "재밌어! = Das macht Spaß! · 즐거운 시간 보내! = Viel Spaß!"},
+      "A2-592": {"pron": "쥐시히카이트", "tip": "süß(달콤한, 영어 sweet) + -igkeit 🍬 -keit이면 언제나 die!", "warn": "보통 복수로 말해요: Süßigkeiten"},
+      "C2-3426": {"pron": "예크", "tip": "Geck(바보)의 쾰른 사투리 🃏 카니발 기간엔 모두가 자랑스러운 Jeck!", "bonus": "쾰른 속담: Jeder Jeck ist anders. = 사람은 다 제각각이에요."}
+    },
+    "culture": [
+      "카니발 시즌은 11월 11일 11시 11분에 시작한다고 해요. 하지만 진짜 하이라이트는 2월쯤, 사순절이 시작되는 재의 수요일(Aschermittwoch) 직전 며칠이에요. 날짜는 부활절에 따라 해마다 달라져요.",
+      "목요일 Weiberfastnacht에는 여자들이 남자들의 넥타이를 가위로 싹둑 자르는 풍습이 있어요. 그날 라인 지방에서 출근한다면 아끼는 넥타이는 집에 두세요! 그리고 월요일 Rosenmontag에는 쾰른, 뒤셀도르프, 마인츠에서 큰 퍼레이드가 열려요.",
+      "퍼레이드 차에서는 사탕과 초콜릿(쾰른 말로 Kamelle)이 비처럼 쏟아져요. 쾰른에서는 \"Alaaf!\", 뒤셀도르프와 마인츠에서는 \"Helau!\"라고 외쳐요. 도시를 헷갈리면 다들 웃을 거예요! 🍬"
+    ],
+    "quiz": {"q": "카니발에서 \"나 해적으로 분장했어!\"라고 말하려면?", "o": ["Ich habe mich als Pirat verkleidet.", "Ich habe einen Piraten verkleidet.", "Ich bin als Pirat umgezogen."], "a": 0, "why": "sich als … verkleiden = ~로 분장하다. 재귀대명사 mich가 꼭 필요해요."},
+    "outro": "올해 카니발에 무슨 의상을 입을지 독일어로 말해 봐요. Ich verkleide mich als …! 🎉"
+  },
+  "en": {
+    "title": "Carnival in Cologne: 10 German words to join the party",
+    "hook": "One Thursday in February, your colleague turns up to work dressed as a pirate — what's going on?",
+    "intro": [
+      "Your first February in Germany, and the streets of Cologne are full of clowns, pirates and bumblebees. The man next to you on the tram is dressed as a lion, and strangers are shouting \"Alaaf!\" at each other. What on earth is happening?",
+      "Today's ten words are for enjoying German carnival properly. With them you can talk about costumes, follow the parades and party like a local. 🎭"
+    ],
+    "words": {
+      "A2-688": {"pron": "KAR-neh-vahl", "tip": "From Italian carne (meat) + vale (farewell) = goodbye, meat 🍖 One last big party before Lent.", "bonus": "In southern Germany and Austria it's called der Fasching."},
+      "B1-879": {"pron": "kos-TUEM", "tip": "The same word as costume 🦸 Round your lips for the ü.", "warn": "It can also mean a woman's skirt suit."},
+      "B2-3749": {"pron": "zikh fair-KLY-den", "tip": "ver- (change) + Kleid (clothes) = to change your clothes into someone else 🧙", "bonus": "to dress up as = sich als … verkleiden: Ich verkleide mich als Hexe."},
+      "A2-863": {"pron": "MAS-kuh", "tip": "English mask with an -e on the end 🎭 Don't forget to say the final e.", "bonus": "to wear a mask = eine Maske tragen"},
+      "A2-612": {"pron": "OOM-tsook", "tip": "um (around) + Zug (procession) = a procession around town 🎺 Moving house is a procession of boxes, so that's Umzug too!", "warn": "Day to day it usually means moving house. A carnival parade is der Karnevalsumzug."},
+      "B2-3643": {"pron": "pa-RAH-duh", "tip": "The same as English parade 🥁 Stress the middle syllable.", "bonus": "In football, a goalkeeper's save is also a Parade."},
+      "B1-2369": {"pron": "KLOWN", "tip": "Straight from English clown 🤡 Even the pronunciation matches.", "bonus": "A carnival fool is also called der Narr."},
+      "A1-290": {"pron": "SHPAHS", "tip": "s+p at the start sounds like ‘shp’ 🥳 SHPAHS — fun with a splash.", "bonus": "That's fun! = Das macht Spaß! · Have fun! = Viel Spaß!"},
+      "A2-592": {"pron": "ZUE-sikh-kite", "tip": "süß (sweet) + -igkeit 🍬 Nouns ending in -keit are always die.", "warn": "Usually plural: Süßigkeiten = sweets"},
+      "C2-3426": {"pron": "YECK", "tip": "Cologne dialect for Geck (fool) 🃏 During carnival, everyone is a proud Jeck.", "bonus": "Cologne saying: Jeder Jeck ist anders. = Everyone's different."}
+    },
+    "culture": [
+      "The carnival season is said to start on 11 November at 11:11. But the real highlight comes a few months later, in the days just before Ash Wednesday (Aschermittwoch). The dates change every year because they depend on Easter.",
+      "On the Thursday, Weiberfastnacht, women traditionally snip off men's ties with scissors. If you work in the Rhineland that day, leave your favourite tie at home! On Rosenmontag, the Monday, there are big parades in Cologne, Düsseldorf and Mainz.",
+      "Sweets and chocolates (Kamelle in Cologne) rain down from the parade floats. In Cologne people shout \"Alaaf!\", in Düsseldorf and Mainz it's \"Helau!\". Mix them up and everyone will laugh! 🍬"
+    ],
+    "quiz": {"q": "At carnival, how do you say \"I dressed up as a pirate\"?", "o": ["Ich habe mich als Pirat verkleidet.", "Ich habe einen Piraten verkleidet.", "Ich bin als Pirat umgezogen."], "a": 0, "why": "sich als … verkleiden = to dress up as, and it needs the reflexive mich."},
+    "outro": "Say in German what you'd dress up as this carnival. Ich verkleide mich als …! 🎉"
+  },
+  "ja": {
+    "title": "ケルンのカーニバルに飛び込む前のドイツ語10",
+    "hook": "2月のある木曜日、同僚が海賊の格好で出社してきたら？",
+    "intro": [
+      "ドイツで迎える初めての2月、ケルンの街はピエロや海賊、ミツバチであふれています。電車の隣のおじさんはライオンの着ぐるみ、みんな口々に「Alaaf!」と叫んでいます。いったい何ごと？",
+      "今日はドイツのカーニバルを思いきり楽しむための単語を10個集めました。これで衣装の話をして、パレードについていき、地元の人のように盛り上がれます。🎭"
+    ],
+    "words": {
+      "A2-688": {"pron": "カルネヴァル", "tip": "イタリア語 carne（肉）+ vale（さようなら）= お肉よさようなら 🍖 断食期間の前に思いきり楽しむお祭りです！", "bonus": "南ドイツやオーストリアでは der Fasching と言います。"},
+      "B1-879": {"pron": "コステューム", "tip": "英語の costume と同じ言葉 🦸 ü は唇を丸めて「ュ」！", "warn": "衣装のほかに「女性用のスカートスーツ」という意味もあります。"},
+      "B2-3749": {"pron": "ズィッヒ フェアクライデン", "tip": "ver-（変える）+ Kleid（服）= 服を変えて別人に 🧙 変身です！", "bonus": "〜に仮装する = sich als … verkleiden：Ich verkleide mich als Hexe."},
+      "A2-863": {"pron": "マスケ", "tip": "英語の mask に -e をつけるだけ 🎭 最後の e も「エ」と読みます。", "bonus": "仮面をつける = eine Maske tragen"},
+      "A2-612": {"pron": "ウムツーク", "tip": "um（ぐるりと）+ Zug（行列）= 街をぐるりと回る行列 🎺 引っ越しも荷物の行列なので Umzug！", "warn": "ふだんはたいてい「引っ越し」の意味。カーニバルのパレードは der Karnevalsumzug です。"},
+      "B2-3643": {"pron": "パラーデ", "tip": "英語の parade と同じ言葉 🥁 アクセントは真ん中の「ラー」に！", "bonus": "サッカーではゴールキーパーのセーブも Parade と言います。"},
+      "B1-2369": {"pron": "クラウン", "tip": "英語の clown そのまま 🤡 読み方まで同じです。", "bonus": "カーニバルの道化は der Narr とも言います。"},
+      "A1-290": {"pron": "シュパース", "tip": "語頭の sp は「シュプ」 🥳「シュパース！」とはじける楽しさ！", "bonus": "楽しい！= Das macht Spaß!、楽しんでね！= Viel Spaß!"},
+      "A2-592": {"pron": "ズュースィヒカイト", "tip": "süß（甘い、英語の sweet）+ -igkeit 🍬 -keit で終わればいつも die！", "warn": "ふつう複数形で言います：Süßigkeiten"},
+      "C2-3426": {"pron": "イェック", "tip": "Geck（おどけ者）のケルン方言 🃏 カーニバルの間はみんな誇り高き Jeck！", "bonus": "ケルンのことわざ：Jeder Jeck ist anders. = 人それぞれ。"}
+    },
+    "culture": [
+      "カーニバルのシーズンは11月11日11時11分に始まると言われます。でも本当のクライマックスは2月ごろ、灰の水曜日（Aschermittwoch）直前の数日間です。日付はイースターによって毎年変わります。",
+      "木曜日の Weiberfastnacht には、女性が男性のネクタイをはさみでちょきんと切る風習があります。その日ラインラントで出勤するなら、お気に入りのネクタイは家に置いていきましょう！月曜日の Rosenmontag には、ケルン、デュッセルドルフ、マインツで大きなパレードがあります。",
+      "パレードの車からはキャンディーやチョコレート（ケルンでは Kamelle）が雨のように降ってきます。ケルンでは「Alaaf!」、デュッセルドルフとマインツでは「Helau!」と叫びます。街を間違えるとみんなに笑われますよ！🍬"
+    ],
+    "quiz": {"q": "カーニバルで「海賊に仮装したよ！」と言うには？", "o": ["Ich habe mich als Pirat verkleidet.", "Ich habe einen Piraten verkleidet.", "Ich bin als Pirat umgezogen."], "a": 0, "why": "sich als … verkleiden = 〜に仮装する。再帰代名詞の mich が必要です。"},
+    "outro": "今年のカーニバルで何に仮装するか、ドイツ語で言ってみましょう。Ich verkleide mich als …! 🎉"
+  }
+}

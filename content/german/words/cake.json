@@ -1,0 +1,84 @@
+{
+  "key": "cake",
+  "ko": {
+    "title": "달콤한 독일어 10: 케이크부터 아이스크림까지",
+    "hook": "독일 카페 진열장 앞에서 손가락으로 가리키기만 하던 날은 오늘로 끝이에요.",
+    "intro": [
+      "일요일 오후 세 시, 동네 카페 진열장에 케이크가 줄지어 있어요. 먹고 싶은 건 분명한데 이름을 몰라서 „Das da, bitte“만 반복하다가, 생크림 얹을지 묻는 말도 못 알아들었던 적이 있어요.",
+      "오늘은 케이크와 디저트 단어 10개를 모았어요. 이 10개면 카페에서 주문하고, 아이스크림 맛을 고르고, 친구 집 Kaffee und Kuchen 자리에서 칭찬까지 할 수 있어요. 🍰"
+    ],
+    "words": {
+      "BL-01-08": {"pron": "쿠헨", "tip": "영어 cake와 같은 뿌리 🎂 ‘쿡!’ 찍어 먹는 쿠헨!", "warn": "복수도 똑같이 die Kuchen이에요."},
+      "B1-2301": {"pron": "바닐레", "tip": "스페인어로 ‘작은 꼬투리’ 🌼 바닐라 열매가 콩깍지처럼 생겼거든요!", "bonus": "아이스크림 가게에서: Eine Kugel Vanille, bitte."},
+      "A1-240": {"pron": "추커", "tip": "아랍어 sukkar에서 왔어요 🍬 영어 sugar랑 친척!", "bonus": "무설탕 = ohne Zucker · 슈가파우더 = der Puderzucker"},
+      "A1-249": {"pron": "아이스", "tip": "영어 ice랑 똑같이 생겼는데 독일에선 아이스크림 🍦 여름엔 Eis가 진리!", "warn": "음료에 넣는 얼음도 Eis라서, 문맥으로 구별해요."},
+      "A2-200": {"pron": "나흐티시", "tip": "nach(뒤에) + Tisch(식탁) = 식사 뒤에 나오는 것 🍮 바로 디저트!", "bonus": "같은 뜻: das Dessert · zum Nachtisch = 디저트로"},
+      "A1-248": {"pron": "쇼콜라데", "tip": "끝에 -ade가 붙으면 레모네이드처럼 달콤한 느낌 🍫 쇼콜라데!", "bonus": "핫초코도 eine heiße Schokolade라고 해요."},
+      "A2-805": {"pron": "켁스", "tip": "영어 cakes가 독일로 와서 Keks가 됐어요 🍪 귀여운 이름!", "bonus": "Du gehst mir auf den Keks! = 너 진짜 신경 쓰이게 한다!"},
+      "A2-1038": {"pron": "푸딩", "tip": "말랑말랑 탱글탱글 🍮 영어에서 빌려 온 그대로예요.", "warn": "한국 푸딩보다 부드러운 커스터드 느낌이에요. 마트 냉장 코너에 가득!"},
+      "B1-2544": {"pron": "슐락자네", "tip": "schlagen(치다) + Sahne(크림) = 마구 쳐서 만든 크림 🥄 팔이 아파요!", "bonus": "오스트리아에서는 das Schlagobers라고 해요."},
+      "B1-715": {"pron": "게베크", "tip": "backen(굽다)에서 온 모아 부르는 말 🥐 구운 과자를 몽땅 묶어서 Gebäck!", "warn": "보통 단수로만 써요: das Gebäck"}
+    },
+    "culture": [
+      "독일에는 오후에 커피와 케이크를 즐기는 Kaffee und Kuchen 문화가 있어요. 특히 주말 오후에 가족이나 친구가 모여서 집에서 구운 케이크를 나눠 먹는 경우가 많아요.",
+      "독일어로 Kuchen은 보통 사과 케이크처럼 소박한 케이크고, 크림이 층층이 들어간 화려한 건 Torte라고 불러요. 케이크 가게 겸 카페는 Konditorei라고 해요.",
+      "그리고 직장에서 생일을 맞으면, 내가 동료들에게 케이크를 가져가는 경우가 많아요. 한국과 반대라서 처음엔 다들 놀라요! 🎂"
+    ],
+    "quiz": {"q": "카페에서 케이크 한 조각을 생크림과 함께 먹고 싶어요. 뭐라고 주문할까요?", "o": ["Ein Stück Kuchen mit Keks, bitte.", "Einen Nachtisch mit Zucker, bitte.", "Ein Stück Kuchen mit Schlagsahne, bitte."], "a": 2, "why": "Schlagsahne = 휘핑크림이라서, 케이크에 생크림을 올려 달라는 주문이에요."},
+    "outro": "오늘 간식 먹을 때 „Ein Stück Kuchen mit Schlagsahne, bitte!“를 소리 내서 주문해 봐요. 다이어트는 내일부터! 🍰"
+  },
+  "en": {
+    "title": "10 sweet German words for cake lovers",
+    "hook": "No more pointing at the cake counter and hoping for the best.",
+    "intro": [
+      "Three o'clock on a Sunday, and the café counter is full of cakes. You know exactly what you want, but not what it's called, so you keep saying „Das da, bitte“ — and then miss the question about cream.",
+      "Today's ten words are all about cakes and desserts. With them you can order in a café, choose your ice cream flavour and pay a proper compliment at a friend's Kaffee und Kuchen. 🍰"
+    ],
+    "words": {
+      "BL-01-08": {"pron": "KOO-khen", "tip": "Same Germanic root as cake 🎂 Say it with a happy throaty ch.", "warn": "The plural is the same: die Kuchen."},
+      "B1-2301": {"pron": "va-NIL-yuh", "tip": "From Spanish for ‘little pod’ 🌼 Vanilla grows in pods, after all.", "bonus": "At the ice cream shop: Eine Kugel Vanille, bitte."},
+      "A1-240": {"pron": "TSOOK-er", "tip": "From Arabic sukkar — a cousin of sugar 🍬", "bonus": "sugar-free = ohne Zucker · icing sugar = der Puderzucker"},
+      "A1-249": {"pron": "ICE", "tip": "Looks like ice, but in a café it means ice cream 🍦 Summer's best word.", "warn": "Ice cubes are also Eis, so context decides."},
+      "A2-200": {"pron": "NAKH-tish", "tip": "nach (after) + Tisch (table) = what comes after the meal 🍮 Dessert!", "bonus": "Same meaning: das Dessert · zum Nachtisch = for dessert"},
+      "A1-248": {"pron": "sho-ko-LAH-duh", "tip": "Ends in -ade, like lemonade — sweet stuff 🍫", "bonus": "Hot chocolate is eine heiße Schokolade."},
+      "A2-805": {"pron": "KAYKS", "tip": "English cakes travelled to Germany and became Keks 🍪", "bonus": "Du gehst mir auf den Keks! = You're getting on my nerves!"},
+      "A2-1038": {"pron": "POOD-ing", "tip": "Wobbly and borrowed straight from English 🍮", "warn": "German Pudding is a set, custard-style dessert, not a British steamed pudding."},
+      "B1-2544": {"pron": "SHLAHK-zah-nuh", "tip": "schlagen (beat) + Sahne (cream) = cream you beat up 🥄 Arm workout included.", "bonus": "In Austria: das Schlagobers"},
+      "B1-715": {"pron": "guh-BECK", "tip": "From backen (bake): everything baked, bundled into one word 🥐", "warn": "Usually singular only: das Gebäck"}
+    },
+    "culture": [
+      "Germany has a lovely afternoon ritual called Kaffee und Kuchen. Especially at weekends, families and friends often get together around three or four o'clock for coffee and homemade cake.",
+      "A Kuchen is usually a simpler cake, like apple cake, while the tall, layered cream cakes are called Torte. A shop that makes them, often with a café, is a Konditorei.",
+      "And if it's your birthday at work, it's often you who brings the cake for your colleagues. It surprises lots of newcomers! 🎂"
+    ],
+    "quiz": {"q": "In a café, you want a slice of cake with whipped cream. What do you say?", "o": ["Ein Stück Kuchen mit Keks, bitte.", "Einen Nachtisch mit Zucker, bitte.", "Ein Stück Kuchen mit Schlagsahne, bitte."], "a": 2, "why": "Schlagsahne is whipped cream, so this orders cake with cream on top."},
+    "outro": "At snack time today, order out loud: „Ein Stück Kuchen mit Schlagsahne, bitte!“ The diet can start tomorrow! 🍰"
+  },
+  "ja": {
+    "title": "甘いもの好きのためのドイツ語10",
+    "hook": "カフェのショーケースを指さすだけの日々は、今日で卒業です。",
+    "intro": [
+      "日曜の午後3時、近所のカフェのショーケースにケーキがずらり。食べたいものは決まっているのに名前がわからず、„Das da, bitte“ をくり返すだけ。生クリームをのせるか聞かれたのもわかりませんでした。",
+      "今日はケーキとデザートの単語を10個集めました。この10個があれば、カフェで注文して、アイスの味を選んで、友だちの家の Kaffee und Kuchen でほめることまでできます。🍰"
+    ],
+    "words": {
+      "BL-01-08": {"pron": "クーヘン", "tip": "英語の cake と同じ語源 🎂 バウムクーヘンのクーヘンです！", "warn": "複数形も同じ die Kuchen です。"},
+      "B1-2301": {"pron": "ヴァニレ", "tip": "スペイン語で「小さなさや」🌼 バニラの実はさやの形なんです！", "bonus": "アイス屋さんで：Eine Kugel Vanille, bitte."},
+      "A1-240": {"pron": "ツッカー", "tip": "アラビア語 sukkar から来た言葉 🍬 英語の sugar の親戚！", "bonus": "砂糖なし = ohne Zucker · 粉砂糖 = der Puderzucker"},
+      "A1-249": {"pron": "アイス", "tip": "日本語の「アイス」と同じでアイスクリーム 🍦 夏は Eis に限ります！", "warn": "飲み物に入れる氷も Eis なので、文脈で区別します。"},
+      "A2-200": {"pron": "ナーハティッシュ", "tip": "nach（後に）+ Tisch（食卓）= 食事の後に出るもの 🍮 つまりデザート！", "bonus": "同じ意味：das Dessert · zum Nachtisch = デザートに"},
+      "A1-248": {"pron": "ショコラーデ", "tip": "最後が -ade、レモネードみたいに甘そう 🍫 ショコラーデ！", "bonus": "ホットチョコレートは eine heiße Schokolade。"},
+      "A2-805": {"pron": "ケークス", "tip": "英語の cakes がドイツに来て Keks に 🍪 かわいい名前！", "bonus": "Du gehst mir auf den Keks! = ほんとにイライラさせるなあ！"},
+      "A2-1038": {"pron": "プディング", "tip": "ぷるぷるのプリン 🍮 英語からそのまま借りた言葉です。", "warn": "日本のプリンよりやわらかいカスタード風。スーパーの冷蔵コーナーにいっぱい！"},
+      "B1-2544": {"pron": "シュラークザーネ", "tip": "schlagen（たたく）+ Sahne（クリーム）= たたいて泡立てたクリーム 🥄 腕が疲れます！", "bonus": "オーストリアでは das Schlagobers と言います。"},
+      "B1-715": {"pron": "ゲベック", "tip": "backen（焼く）から来たまとめ言葉 🥐 焼き菓子をぜんぶまとめて Gebäck！", "warn": "ふつう単数で使います：das Gebäck"}
+    },
+    "culture": [
+      "ドイツには、午後にコーヒーとケーキを楽しむ Kaffee und Kuchen という習慣があります。特に週末の午後、家族や友人が集まって手作りケーキを囲むことがよくあります。",
+      "ドイツ語の Kuchen はりんごケーキのような素朴なものが多く、クリームを何層も重ねた豪華なものは Torte と呼びます。ケーキ屋さん兼カフェは Konditorei です。",
+      "それから、職場で自分の誕生日を迎えると、自分が同僚にケーキを持っていくことが多いんです。最初はみんな驚きます！🎂"
+    ],
+    "quiz": {"q": "カフェでケーキ1切れを生クリーム添えで食べたいです。何と注文しますか？", "o": ["Ein Stück Kuchen mit Keks, bitte.", "Einen Nachtisch mit Zucker, bitte.", "Ein Stück Kuchen mit Schlagsahne, bitte."], "a": 2, "why": "Schlagsahne = ホイップクリームなので、ケーキに生クリームを添えてもらう注文です。"},
+    "outro": "今日のおやつの時間に „Ein Stück Kuchen mit Schlagsahne, bitte!“ と声に出して注文してみましょう。ダイエットは明日から！🍰"
+  }
+}

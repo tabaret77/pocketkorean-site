@@ -1,0 +1,84 @@
+{
+  "key": "sunday",
+  "ko": {
+    "title": "독일의 조용한 일요일을 버티는 단어 10",
+    "hook": "독일에서 맞는 첫 일요일, 마트 문 앞에서 멍하니 서 있지 않으려면 이 단어부터 알아 두세요.",
+    "intro": [
+      "일요일 아침, 장 보러 나갔더니 마트도 옷 가게도 전부 셔터가 내려가 있어요. 거리는 조용하고, 문에는 geschlossen이라는 글자만 보여요. 한국의 일요일과는 완전히 다른 풍경이에요.",
+      "오늘은 독일의 일요일과 공휴일을 이해하는 단어 10개예요. 가게가 열었는지 닫았는지 읽고, 늦잠과 산책으로 독일식 일요일을 즐기는 법까지 배워 봐요. 😴"
+    ],
+    "words": {
+      "A1-259": {"pron": "존탁", "tip": "Sonne(해) + Tag(날) = 해의 날, 영어 Sunday랑 똑같은 구조예요 ☀️", "bonus": "‘일요일마다’는 sonntags. 요일 이름은 전부 der예요."},
+      "A2-681": {"pron": "파이어탁", "tip": "feiern(축하하다) + Tag(날) = 쉬면서 축하하는 날 🎉", "bonus": "반대말: 평일, 근무일 = der Werktag"},
+      "A2-364": {"pron": "게슐로센", "tip": "schließen(닫다)의 과거분사 🔒 가게 문에 붙어 있으면 오늘은 포기!", "bonus": "말할 때는 짧게 zu도 많이 써요: Der Laden ist zu."},
+      "A2-363": {"pron": "게외프넷", "tip": "öffnen(열다)의 과거분사 🔓 geschlossen의 반대말이에요.", "bonus": "가게 문에서 보는 영업시간 = die Öffnungszeiten"},
+      "C1-2503": {"pron": "라덴외프눙스차이트", "tip": "Laden(가게) + Öffnung(열림) + Zeit(시간) = 긴 단어도 레고처럼 🧱 마지막이 Zeit니까 die!", "warn": "보통 복수 die Ladenöffnungszeiten로 써요."},
+      "A2-560": {"pron": "루에", "tip": "‘루~에’ 길게 늘어지는 소리부터 느긋해요 🧘 일요일은 Ruhe의 날!", "bonus": "Immer mit der Ruhe! = 천천히 해, 서두르지 마!"},
+      "B1-1892": {"pron": "아우스슐라펜", "tip": "aus(끝까지) + schlafen(자다) = 잠을 끝까지 다 자다 🛌", "warn": "분리동사예요: Ich schlafe aus. 늦잠으로 지각하는 건 verschlafen이에요."},
+      "A2-579": {"pron": "슈파치어강", "tip": "spazieren(산책하다) + Gang(걸음) = 산책 🚶‍♀️ 일요일 오후 독일 국민 스포츠!", "bonus": "einen Spaziergang machen = 산책하다"},
+      "B2-2886": {"pron": "슈페티", "tip": "Spätkauf(늦은 쇼핑)를 귀엽게 줄인 말 🌙 베를린의 구세주!", "bonus": "다른 지역에서는 der Kiosk나 die Trinkhalle이라고도 해요."},
+      "A2-107": {"pron": "아우스플룩", "tip": "aus(밖으로) + Flug(비행) = 잠깐 날아갔다 오는 나들이 🪁", "warn": "복수는 움라우트: die Ausflüge"}
+    },
+    "culture": [
+      "독일에서 일요일과 공휴일은 법으로 정한 ‘쉬는 날’이라서 대부분의 가게가 문을 닫아요. 대신 기차역이나 주유소 안 가게, 일부 빵집은 열 때가 많아서 급할 땐 그쪽으로 가요.",
+      "일요일에는 조용히 지내는 게 매너예요. 시끄러운 공사나 잔디 깎기는 피하는 게 보통이고, 동네에 따라 유리병 수거함도 일요일엔 쓰지 말라고 적혀 있어요. 정확한 규칙은 지역이나 건물의 생활 규칙(Hausordnung)에 따라 달라요.",
+      "공휴일도 주(Bundesland)마다 조금씩 달라요. 이웃 주에서는 평일인데 우리 동네만 쉬는 날도 있으니, 장은 미리 봐 두는 게 독일 생활의 기본이에요. 🛒"
+    ],
+    "quiz": {"q": "일요일 밤, 우유가 떨어졌는데 마트는 닫았어요. 베를린에서 어디로 갈까요?", "o": ["Ich mache einen Ausflug.", "Ich schlafe aus.", "Ich gehe zum Späti."], "a": 2, "why": "Späti는 늦게까지, 일요일에도 여는 경우가 많은 동네 가게예요."},
+    "outro": "이번 일요일엔 ‘Am Sonntag schlafe ich aus und mache einen Spaziergang.’을 소리 내서 말하고, 진짜로 그렇게 보내 봐요. 🌿"
+  },
+  "en": {
+    "title": "Quiet Sundays: 10 words to survive them in Germany",
+    "hook": "Your first Sunday in Germany can be a shock — unless you know these words.",
+    "intro": [
+      "It's Sunday morning and you head out to do your shopping. The supermarket is shut, the clothes shop is shut, everything is shut. The streets are quiet and every door says geschlossen.",
+      "Today's ten words help you understand German Sundays and public holidays. You'll be able to read opening signs, plan ahead, and enjoy a proper German Sunday of sleeping in and going for a walk. 😴"
+    ],
+    "words": {
+      "A1-259": {"pron": "ZON-tahk", "tip": "Sonne (sun) + Tag (day) = Sunday, built exactly like the English ☀️", "bonus": "‘On Sundays’ = sonntags. All days of the week are der."},
+      "A2-681": {"pron": "FIRE-tahk", "tip": "feiern (to celebrate) + Tag = a day for celebrating 🎉", "bonus": "The opposite, a working day = der Werktag"},
+      "A2-364": {"pron": "guh-SHLOSS-en", "tip": "From schließen (to close) 🔒 See it on the door? Try again tomorrow.", "bonus": "In speech people often just say zu: Der Laden ist zu."},
+      "A2-363": {"pron": "guh-ERF-net", "tip": "From öffnen (to open) 🔓 The happy opposite of geschlossen.", "bonus": "Opening hours on the door = die Öffnungszeiten"},
+      "C1-2503": {"pron": "LAH-den-erf-noongs-tsite", "tip": "Laden (shop) + Öffnung (opening) + Zeit (time) — long words are just Lego 🧱 It ends in Zeit, so die.", "warn": "Usually used in the plural: die Ladenöffnungszeiten."},
+      "A2-560": {"pron": "ROO-uh", "tip": "Even the sound is relaxed: ROO-uh 🧘 Sunday is all about Ruhe.", "bonus": "Immer mit der Ruhe! = Take it easy!"},
+      "B1-1892": {"pron": "OWSS-shlah-fen", "tip": "aus (to the end) + schlafen (sleep) = sleep until you're done 🛌", "warn": "Separable: Ich schlafe aus. Oversleeping by accident is verschlafen."},
+      "A2-579": {"pron": "shpa-TSEER-gahng", "tip": "spazieren (stroll) + Gang (walk) 🚶‍♀️ The national Sunday afternoon sport.", "bonus": "einen Spaziergang machen = to go for a walk"},
+      "B2-2886": {"pron": "SHPAY-tee", "tip": "A cute short form of Spätkauf, ‘late shopping’ 🌙 Berlin's lifesaver.", "bonus": "In other regions you'll hear der Kiosk or die Trinkhalle."},
+      "A2-107": {"pron": "OWSS-flook", "tip": "aus (out) + Flug (flight) = a little flight out of town 🪁", "warn": "Umlaut in the plural: die Ausflüge."}
+    },
+    "culture": [
+      "In Germany, Sundays and public holidays are protected days of rest, so most shops are closed. Shops in big train stations and petrol stations, and some bakeries, are often open, so that's where people go in an emergency.",
+      "Sundays are meant to be quiet. People usually avoid noisy jobs like drilling or mowing the lawn, and many bottle banks have signs asking you not to use them on Sundays. The exact rules depend on your town and your building's house rules (Hausordnung).",
+      "Public holidays also vary by state (Bundesland). Your town might have a day off while the next state is working, so doing your shopping in advance is a basic German life skill. 🛒"
+    ],
+    "quiz": {"q": "It's Sunday night in Berlin, you're out of milk and the supermarket is closed. Where do you go?", "o": ["Ich mache einen Ausflug.", "Ich schlafe aus.", "Ich gehe zum Späti."], "a": 2, "why": "A Späti is a corner shop that's usually open late, often on Sundays too."},
+    "outro": "Say ‘Am Sonntag schlafe ich aus und mache einen Spaziergang.’ out loud — and then actually do it this weekend. 🌿"
+  },
+  "ja": {
+    "title": "静かな日曜日をのりきるドイツ語10",
+    "hook": "ドイツで初めて迎える日曜日、スーパーの前で立ちつくさないために覚えておきたい単語です。",
+    "intro": [
+      "日曜の朝、買い物に出かけたら、スーパーも洋服屋さんも全部シャッターが下りていました。通りは静かで、ドアには geschlossen の文字だけ。日本の日曜日とはまったく違う風景です。",
+      "今日はドイツの日曜日と祝日を理解するための単語10個です。お店が開いているかを読み取り、朝寝坊と散歩でドイツ式の日曜日を楽しむ方法まで学びましょう。😴"
+    ],
+    "words": {
+      "A1-259": {"pron": "ゾンターク", "tip": "Sonne（太陽）+ Tag（日）= 太陽の日。英語の Sunday と同じ作りです ☀️", "bonus": "「毎週日曜に」は sonntags。曜日はすべて der です。"},
+      "A2-681": {"pron": "ファイアーターク", "tip": "feiern（祝う）+ Tag（日）= 祝う日 🎉", "bonus": "反対は平日 = der Werktag"},
+      "A2-364": {"pron": "ゲシュロッセン", "tip": "schließen（閉める）の過去分詞 🔒 ドアにこれがあったら今日はあきらめましょう。", "bonus": "話し言葉では zu もよく使います：Der Laden ist zu."},
+      "A2-363": {"pron": "ゲエフネット", "tip": "öffnen（開ける）の過去分詞 🔓 geschlossen の反対です。", "bonus": "ドアに書いてある営業時間 = die Öffnungszeiten"},
+      "C1-2503": {"pron": "ラーデンエフヌングスツァイト", "tip": "Laden（店）+ Öffnung（開くこと）+ Zeit（時間）。長い単語もレゴのように 🧱 最後が Zeit なので die！", "warn": "ふつうは複数形 die Ladenöffnungszeiten で使います。"},
+      "A2-560": {"pron": "ルーエ", "tip": "「ルーエ」という音からしてのんびり 🧘 日曜日は Ruhe の日です。", "bonus": "Immer mit der Ruhe! = 落ち着いて、あわてないで！"},
+      "B1-1892": {"pron": "アウスシュラーフェン", "tip": "aus（最後まで）+ schlafen（眠る）= とことん眠る 🛌", "warn": "分離動詞です：Ich schlafe aus. 寝過ごして遅刻するのは verschlafen です。"},
+      "A2-579": {"pron": "シュパツィーアガング", "tip": "spazieren（散歩する）+ Gang（歩み）🚶‍♀️ 日曜午後のドイツの国民的スポーツ！", "bonus": "einen Spaziergang machen = 散歩する"},
+      "B2-2886": {"pron": "シュペーティ", "tip": "Spätkauf（遅い買い物）をかわいく短くした言葉 🌙 ベルリンの救世主です。", "bonus": "ほかの地域では der Kiosk や die Trinkhalle とも言います。"},
+      "A2-107": {"pron": "アウスフルーク", "tip": "aus（外へ）+ Flug（飛行）= ちょっと外へ飛んでいく小旅行 🪁", "warn": "複数形はウムラウト：die Ausflüge"}
+    },
+    "culture": [
+      "ドイツでは日曜日と祝日は法律で守られた休息日なので、ほとんどのお店が閉まります。ただ、大きな駅の中の店やガソリンスタンド、一部のパン屋さんは開いていることが多いので、困ったときはそちらへ。",
+      "日曜日は静かに過ごすのがマナーです。工事の音や芝刈りなど大きな音は避けるのがふつうで、空き瓶の回収ボックスに「日曜は使わないで」と書かれていることもよくあります。細かいルールは町や建物のハウスルール（Hausordnung）によって違います。",
+      "祝日も州（Bundesland）によって少しずつ違います。隣の州は平日なのに自分の町だけ休み、ということもあるので、買い物は前もって済ませておくのがドイツ生活の基本です。🛒"
+    ],
+    "quiz": {"q": "日曜の夜、牛乳が切れたのにスーパーは閉まっています。ベルリンならどこへ行きますか？", "o": ["Ich mache einen Ausflug.", "Ich schlafe aus.", "Ich gehe zum Späti."], "a": 2, "why": "Späti は夜遅くまで、日曜日も開いていることが多い街角のお店です。"},
+    "outro": "「Am Sonntag schlafe ich aus und mache einen Spaziergang.」を声に出して言ってみて、今週末は本当にそう過ごしてみましょう。🌿"
+  }
+}

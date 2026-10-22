@@ -1,0 +1,84 @@
+{
+  "key": "housing",
+  "ko": {
+    "title": "독일 집 구하기 뉴스가 들리는 단어 10",
+    "hook": "독일 뉴스에서 매일같이 나오는 집 이야기, 오늘 단어 10개면 귀에 쏙 들어와요.",
+    "intro": [
+      "독일 친구들과 모이면 꼭 나오는 얘기가 있어요. 월세가 또 올랐다, 집 보러 갔더니 50명이 줄 서 있더라, 중개인 수수료가 얼마더라… 뉴스에서도 Wohnungsnot라는 말이 끊이지 않죠.",
+      "오늘은 월세, 집주인, 대출, 부동산처럼 집과 주거에 관한 단어 10개예요. 이걸로 집 구할 때도, 독일 뉴스를 볼 때도 무슨 얘기인지 따라갈 수 있어요. 🏘️"
+    ],
+    "words": {
+      "A2-003": {"pron": "미테", "tip": "mieten(빌리다)의 명사 🏠 매달 빠져나가는 그 돈!", "bonus": "Kaltmiete = 관리비 빼고 · Warmmiete = 난방비 등 관리비 포함"},
+      "B2-218": {"pron": "아이겐튀머", "tip": "eigen(자기 자신의) = 영어 own 🔑 ‘자기 것’을 가진 사람 = 소유자!", "bonus": "세입자에게 집을 빌려주는 집주인은 der Vermieter, 세입자는 der Mieter예요."},
+      "A2-501": {"pron": "크레디트", "tip": "라틴어 credere(믿다) 🤝 은행이 나를 믿고 빌려주는 돈이에요.", "bonus": "대출을 받다 = einen Kredit aufnehmen"},
+      "B2-1407": {"pron": "이모빌리에", "tip": "im(못) + mobil(움직이는) = 움직일 수 없는 재산 🏢 부동산 그대로예요!", "warn": "보통 복수 die Immobilien으로 ‘부동산’ 전체를 말해요."},
+      "B2-1401": {"pron": "아이겐툼스보눙", "tip": "Eigentum(소유) + s + Wohnung(집) = 내 소유의 집 🏡 -ung이니까 die!", "bonus": "반대로 세 들어 사는 집 = die Mietwohnung"},
+      "B2-1408": {"pron": "마클러", "tip": "‘막—’ 연결해 주는 사람이라고 기억해요 🤝 집과 사람을 이어 주는 중개인!", "bonus": "중개 수수료 = die Provision"},
+      "B2-1424": {"pron": "보눙스마르크트", "tip": "Wohnung + Markt = 주택 시장 📈 마지막 Markt가 der라서 der!", "bonus": "뉴스 단골 표현: Der Wohnungsmarkt ist angespannt. (주택 시장이 빠듯하다)"},
+      "B2-607": {"pron": "보눙스노트", "tip": "Not은 ‘어려움, 부족’ 🆘 Notfall(비상), Notruf(긴급 전화)의 그 Not!", "warn": "복수 없이 써요. 마지막 Not이 die라서 die Wohnungsnot."},
+      "B2-1420": {"pron": "미트프라이스브렘제", "tip": "Miete + Preis(가격) + Bremse(브레이크) = 월세에 브레이크 🛑 단어 세 개를 이어 붙였어요.", "warn": "길어도 마지막 Bremse가 die라서 die Mietpreisbremse예요."},
+      "B2-545": {"pron": "휘포테크", "tip": "Bibliothek처럼 -thek로 끝나요 🏦 강세도 똑같이 맨 끝!"}
+    },
+    "culture": [
+      "독일은 다른 나라에 비해 평생 세 들어 사는 사람이 많은 편이에요. 그래서 세입자를 보호하는 문화가 강하고, 계약도 기간을 정하지 않는 경우가 흔해요.",
+      "인기 있는 도시에서 집을 보러 가면(Wohnungsbesichtigung) 여러 사람이 동시에 오는 경우가 많아요. 집주인이 신용 정보(Schufa-Auskunft)나 소득 증명을 달라고 하는 일이 흔하니 미리 준비해 두면 좋아요.",
+      "광고에서 월세를 볼 때는 Kaltmiete인지 Warmmiete인지 꼭 확인하세요. 보증금(Kaution)도 따로 있는 게 보통이에요. 🔑"
+    ],
+    "quiz": {"q": "집 광고를 보고 있어요. 이 금액에 관리비가 포함됐는지 물어보려면?", "o": ["Ist das die Hypothek?", "Wer ist der Makler?", "Ist das die Warmmiete?"], "a": 2, "why": "Warmmiete는 관리비가 포함된 월세라서 이 질문이 맞아요."},
+    "outro": "지금 사는 집을 떠올리며 Meine Miete ist … , Mein Vermieter ist … 를 소리 내서 말해 봐요. 다음에 독일 뉴스에서 Wohnungsmarkt가 나오면 귀가 번쩍 뜨일 거예요! 🏠"
+  },
+  "en": {
+    "title": "Rent, owners and mortgages: 10 German housing words",
+    "hook": "Housing is in the German news almost every day — these ten words help you follow it.",
+    "intro": [
+      "Get a group of people in Germany together and someone will mention the rent going up again, or a flat viewing with fifty people in the queue. In the news, the word Wohnungsnot never seems to go away.",
+      "Today's ten words cover rent, owners, loans and the property market. With them you can follow housing stories in the news — and understand what's going on when you hunt for a flat yourself. 🏘️"
+    ],
+    "words": {
+      "A2-003": {"pron": "MEE-tuh", "tip": "The noun from mieten (to rent) 🏠 The money that leaves your account every month.", "bonus": "Kaltmiete = rent without utilities · Warmmiete = rent including heating and other costs"},
+      "B2-218": {"pron": "EYE-gen-tue-mer", "tip": "eigen = own 🔑 Someone who owns something = the owner.", "bonus": "The landlord who rents to you is der Vermieter; the tenant is der Mieter."},
+      "A2-501": {"pron": "kreh-DEET", "tip": "From Latin credere (to believe) 🤝 The bank believes in you and lends you money.", "bonus": "to take out a loan = einen Kredit aufnehmen"},
+      "B2-1407": {"pron": "im-oh-BEE-lee-uh", "tip": "im (not) + mobil (movable) = property you can't move 🏢 Real estate!", "warn": "Mostly used in the plural: die Immobilien = real estate."},
+      "B2-1401": {"pron": "EYE-gen-tooms-voh-noong", "tip": "Eigentum (ownership) + s + Wohnung (flat) = a flat you own 🏡 -ung means die.", "bonus": "The opposite, a rented flat = die Mietwohnung"},
+      "B2-1408": {"pron": "MAHK-ler", "tip": "Think ‘maker of deals’ 🤝 The agent who matches flats and people.", "bonus": "the agent's fee = die Provision"},
+      "B2-1424": {"pron": "VOH-noongs-markt", "tip": "Wohnung + Markt = housing market 📈 The last part decides: der Markt.", "bonus": "A news favourite: Der Wohnungsmarkt ist angespannt. (The housing market is tight.)"},
+      "B2-607": {"pron": "VOH-noongs-note", "tip": "Not means ‘need, hardship’ 🆘 As in Notfall (emergency) and Notruf (emergency call).", "warn": "No plural. The last part is die Not, so it's die Wohnungsnot."},
+      "B2-1420": {"pron": "MEET-price-brem-zuh", "tip": "Miete + Preis (price) + Bremse (brake) = a brake on rent 🛑 Three words in one.", "warn": "However long, the last word decides: die Bremse → die Mietpreisbremse."},
+      "B2-545": {"pron": "hue-poh-TAKE", "tip": "Ends in -thek like Bibliothek 🏦 And the stress goes at the end, too."}
+    },
+    "culture": [
+      "Compared with many countries, lots of people in Germany rent for their whole lives. Tenants' rights are taken seriously, and open-ended rental contracts are common.",
+      "In popular cities a flat viewing (Wohnungsbesichtigung) can mean many people turning up at once. Landlords often ask for a credit report (Schufa-Auskunft) and proof of income, so it helps to have them ready.",
+      "When you read a flat advert, always check whether the price is Kaltmiete or Warmmiete. There's usually a deposit (Kaution) on top. 🔑"
+    ],
+    "quiz": {"q": "You're looking at a flat advert. How do you ask whether the price includes utilities?", "o": ["Ist das die Hypothek?", "Wer ist der Makler?", "Ist das die Warmmiete?"], "a": 2, "why": "Warmmiete is rent including utilities, so this is the right question."},
+    "outro": "Think of your own home and say out loud: Meine Miete ist … and Mein Vermieter ist … Next time Wohnungsmarkt comes up in the news, you'll catch it! 🏠"
+  },
+  "ja": {
+    "title": "ドイツの住宅ニュースがわかる単語10",
+    "hook": "ドイツのニュースに毎日のように出てくる住まいの話、今日の10語で聞き取れるようになります。",
+    "intro": [
+      "ドイツで友だちと集まると必ず出る話題があります。家賃がまた上がった、内見に行ったら50人並んでいた、仲介手数料がいくらだった……。ニュースでも Wohnungsnot という言葉が絶えません。",
+      "今日は家賃、所有者、ローン、不動産など、住まいに関する単語10個です。これで部屋探しのときも、ドイツのニュースを見るときも話についていけます。🏘️"
+    ],
+    "words": {
+      "A2-003": {"pron": "ミーテ", "tip": "mieten（借りる）の名詞 🏠 毎月口座から出ていくあのお金！", "bonus": "Kaltmiete = 光熱費などを含まない家賃 · Warmmiete = 暖房費などを含む家賃"},
+      "B2-218": {"pron": "アイゲンテューマー", "tip": "eigen（自分の）= 英語の own 🔑 自分のものを持つ人 = 所有者！", "bonus": "部屋を貸してくれる大家さんは der Vermieter、借りる人は der Mieter です。"},
+      "A2-501": {"pron": "クレディート", "tip": "ラテン語の credere（信じる）🤝 銀行が信用して貸してくれるお金です。", "bonus": "ローンを組む = einen Kredit aufnehmen"},
+      "B2-1407": {"pron": "イモビーリエ", "tip": "im（不）+ mobil（動く）= 動かせない財産 🏢 まさに不動産！", "warn": "ふつう複数形 die Immobilien で「不動産」全体を指します。"},
+      "B2-1401": {"pron": "アイゲントゥームスヴォーヌング", "tip": "Eigentum（所有）+ s + Wohnung（住まい）= 自分の持ち家 🏡 -ung なので die！", "bonus": "反対に賃貸の住まい = die Mietwohnung"},
+      "B2-1408": {"pron": "マークラー", "tip": "部屋と人をつなぐ「マッチング屋さん」🤝 = 不動産仲介業者！", "bonus": "仲介手数料 = die Provision"},
+      "B2-1424": {"pron": "ヴォーヌングスマルクト", "tip": "Wohnung + Markt = 住宅市場 📈 最後の Markt が der なので der！", "bonus": "ニュースの定番：Der Wohnungsmarkt ist angespannt.（住宅市場がひっ迫している）"},
+      "B2-607": {"pron": "ヴォーヌングスノート", "tip": "Not は「困窮、不足」🆘 Notfall（緊急事態）、Notruf（緊急通報）の Not です！", "warn": "複数形はありません。最後の die Not で性が決まり、die Wohnungsnot。"},
+      "B2-1420": {"pron": "ミートプライスブレムゼ", "tip": "Miete + Preis（価格）+ Bremse（ブレーキ）= 家賃にブレーキ 🛑 3語をつなげただけ！", "warn": "長くても最後の die Bremse で決まるので die Mietpreisbremse です。"},
+      "B2-545": {"pron": "ヒュポテーク", "tip": "Bibliothek と同じく -thek で終わります 🏦 アクセントも同じく最後に！"}
+    },
+    "culture": [
+      "ドイツはほかの国に比べて、一生賃貸で暮らす人が多いほうです。そのため借り手を守る意識が強く、期間を決めない賃貸契約もよくあります。",
+      "人気の都市で内見（Wohnungsbesichtigung）に行くと、たくさんの人が同時に来ていることがよくあります。大家さんから信用情報（Schufa-Auskunft）や収入証明を求められることが多いので、前もって準備しておくと安心です。",
+      "物件広告で家賃を見るときは、Kaltmiete か Warmmiete かを必ず確認しましょう。保証金（Kaution）も別にかかるのがふつうです。🔑"
+    ],
+    "quiz": {"q": "物件広告を見ています。この金額に光熱費などが含まれているか聞くには？", "o": ["Ist das die Hypothek?", "Wer ist der Makler?", "Ist das die Warmmiete?"], "a": 2, "why": "Warmmiete は光熱費などを含んだ家賃なので、この質問が正解です。"},
+    "outro": "今住んでいる家を思い浮かべて、Meine Miete ist … と Mein Vermieter ist … を声に出してみましょう。次にニュースで Wohnungsmarkt と聞こえたら、きっとピンときますよ！🏠"
+  }
+}

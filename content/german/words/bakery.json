@@ -1,0 +1,84 @@
+{
+  "key": "bakery",
+  "ko": {
+    "title": "독일 빵집에서 당당하게 주문하는 단어 10",
+    "hook": "독일 빵집 앞에서 손가락으로만 가리키던 날은 오늘로 끝이에요.",
+    "intro": [
+      "일요일 아침, 동네 빵집에 갔더니 유리 진열장 안에 빵이 수십 가지. 뒤에는 줄이 길게 서 있고, 점원은 \"Was darf's sein?\" 하고 저를 쳐다봐요. 머릿속이 하얘져서 결국 \"Das… bitte\" 하고 손가락으로 가리켰죠.",
+      "오늘은 빵집에서 바로 쓰는 단어 10개를 모았어요. 이 단어들만 있으면 빵 이름을 말하고, 속을 넣은 빵을 고르고, 포장까지 부탁할 수 있어요. 내일 아침엔 꼭 말로 주문해 봐요! 🥐"
+    ],
+    "words": {
+      "BL-11-01": {"pron": "베커라이", "tip": "Bäcker(제빵사) + -ei(가게) = 빵집 🏠 -ei로 끝나면 언제나 die!", "bonus": "같은 패턴: die Metzgerei(정육점), die Konditorei(케이크 가게)"},
+      "A2-646": {"pron": "베커", "tip": "backen(굽다) + -er = 굽는 사람 👨‍🍳 영어 baker와 쌍둥이예요.", "bonus": "‘빵집에 가요’는 그냥 Ich gehe zum Bäcker. 라고 많이 말해요."},
+      "A1-019": {"pron": "브로트", "tip": "영어 bread와 같은 뿌리 🍞 독일 사람들의 영혼의 음식!", "bonus": "통곡물빵 = das Vollkornbrot, 호밀빵 = das Roggenbrot"},
+      "BL-11-02": {"pron": "브뢰트헨", "tip": "Brot + 작게 만드는 -chen = 작은 빵 🥯 -chen으로 끝나면 무조건 das!", "warn": "지역마다 이름이 달라요: 남부에선 Semmel, 베를린에선 Schrippe라고도 해요."},
+      "B1-2607": {"pron": "베를리너", "tip": "베를린 사람이자 잼 도넛 🍩 빵집에선 사람이 아니라 도넛이에요!", "bonus": "지역에 따라 Pfannkuchen이나 Krapfen이라고 부르기도 해요."},
+      "BL-03-04": {"pron": "프리쉬", "tip": "영어 fresh랑 소리도 뜻도 비슷 ✨ 갓 구운 빵 냄새가 나는 단어예요.", "bonus": "frisch gebacken = 갓 구운"},
+      "BL-11-06": {"pron": "벨렉트", "tip": "빵 위에 치즈랑 햄을 ‘올려 깐(belegt)’ 느낌 🧀", "warn": "자리 얘기할 때도 써요: Der Platz ist belegt. = 자리 있어요(차 있어요)."},
+      "B1-2023": {"pron": "샌드위치", "tip": "영어 그대로 가져온 말 🥪 발음도 영어처럼 하면 돼요.", "bonus": "das와 der 둘 다 쓰지만 das Sandwich가 더 흔해요."},
+      "A2-932": {"pron": "머핀", "tip": "영어에서 그대로 온 말 🧁 남성이라 der Muffin!", "bonus": "복수는 영어처럼 -s: zwei Muffins"},
+      "BL-11-09": {"pron": "미트네멘", "tip": "mit(같이) + nehmen(가져가다) = 가지고 가다 🛍️ 테이크아웃은 zum Mitnehmen!", "warn": "분리동사예요: Ich nehme das mit. / 완료형은 hat mitgenommen."}
+    },
+    "culture": [
+      "독일 사람들에게 빵집은 거의 매일 가는 곳이에요. 특히 주말 아침에 갓 구운 Brötchen을 사 와서 가족이 함께 아침을 먹는 게 흔한 풍경이에요.",
+      "대부분의 주에서 일요일엔 마트가 문을 닫지만, 빵집은 일요일 오전에 여는 곳이 많아요. 영업시간은 주와 가게마다 다르니 미리 확인해 보세요.",
+      "그리고 작은 동네 빵집은 아직 현금만 받는 곳도 있어요. 동전 몇 개는 늘 챙겨 두면 마음이 편해요. 🪙"
+    ],
+    "quiz": {"q": "빵집 점원이 \"Zum Hieressen?\" 하고 물어요. 가져가고 싶다면 뭐라고 할까요?", "o": ["Nein, zum Mitnehmen, bitte.", "Der Platz ist belegt.", "Das Brot ist frisch."], "a": 0, "why": "zum Mitnehmen = 포장해서 가져갈게요, 라는 뜻이에요."},
+    "outro": "내일 빵집에서 \"Zwei Brötchen, bitte!\" 하고 꼭 말로 주문해 봐요. 갓 구운 빵 한 입이 최고의 상이에요! 🥨"
+  },
+  "en": {
+    "title": "Order like a local: 10 German bakery words",
+    "hook": "No more pointing silently at the glass counter.",
+    "intro": [
+      "It's Sunday morning at your local bakery. There are dozens of breads behind the glass, a queue behind you, and the assistant asks, \"Was darf's sein?\" Your mind goes blank, so you point and say, \"Das… bitte.\"",
+      "Today's ten words are the ones you need at the bakery. With them you can name your bread, pick a filled roll and ask for it to take away. Tomorrow morning, order with words instead of fingers! 🥐"
+    ],
+    "words": {
+      "BL-11-01": {"pron": "beck-er-EYE", "tip": "Bäcker (baker) + -ei (shop) = bakery 🏠 Nouns ending in -ei are always die.", "bonus": "Same pattern: die Metzgerei (butcher's), die Konditorei (cake shop)"},
+      "A2-646": {"pron": "BECK-er", "tip": "backen (to bake) + -er = the one who bakes 👨‍🍳 A twin of English baker.", "bonus": "People often say Ich gehe zum Bäcker. = I'm going to the bakery."},
+      "A1-019": {"pron": "broht", "tip": "Same root as English bread 🍞 The heart of every German breakfast table.", "bonus": "wholemeal bread = das Vollkornbrot · rye bread = das Roggenbrot"},
+      "BL-11-02": {"pron": "BRURT-khen", "tip": "Brot + the small-maker -chen = a little bread 🥯 Every -chen noun is das.", "warn": "Names vary by region: Semmel in the south, Schrippe in Berlin."},
+      "B1-2607": {"pron": "bair-LEE-ner", "tip": "A person from Berlin and a jam doughnut 🍩 At the bakery, it's the doughnut!", "bonus": "In some regions it's called Pfannkuchen or Krapfen."},
+      "BL-03-04": {"pron": "frish", "tip": "Sounds just like English fresh ✨ You can almost smell the warm bread.", "bonus": "frisch gebacken = freshly baked"},
+      "BL-11-06": {"pron": "buh-LAYKT", "tip": "Cheese and ham are ‘laid on’ the roll 🧀 belegt = topped, filled.", "warn": "Also for seats: Der Platz ist belegt. = This seat is taken."},
+      "B1-2023": {"pron": "SAND-vitch", "tip": "Borrowed straight from English 🥪 Say it the English way.", "bonus": "Both das and der are used, but das Sandwich is more common."},
+      "A2-932": {"pron": "MUFF-in", "tip": "Straight from English 🧁 It's masculine: der Muffin.", "bonus": "Plural with -s, like English: zwei Muffins"},
+      "BL-11-09": {"pron": "MIT-nay-men", "tip": "mit (along) + nehmen (take) = take along 🛍️ Takeaway is zum Mitnehmen.", "warn": "Separable verb: Ich nehme das mit. · Perfect: hat mitgenommen."}
+    },
+    "culture": [
+      "For many Germans the bakery is an almost daily stop. A classic weekend scene is someone fetching warm Brötchen in the morning for a family breakfast.",
+      "In most states supermarkets close on Sundays, but many bakeries open on Sunday mornings. Opening hours depend on the state and the shop, so it's worth checking.",
+      "Small neighbourhood bakeries sometimes still take cash only, so keep a few coins handy. 🪙"
+    ],
+    "quiz": {"q": "The assistant asks, \"Zum Hieressen?\" You want to take it with you. What do you say?", "o": ["Nein, zum Mitnehmen, bitte.", "Der Platz ist belegt.", "Das Brot ist frisch."], "a": 0, "why": "zum Mitnehmen means ‘to take away’."},
+    "outro": "Next time you're at the bakery, say \"Zwei Brötchen, bitte!\" out loud. A warm roll is the best reward! 🥨"
+  },
+  "ja": {
+    "title": "ドイツのパン屋で堂々と注文できる単語10",
+    "hook": "ショーケースを指さすだけの注文は、今日で卒業です。",
+    "intro": [
+      "日曜の朝、近所のパン屋へ。ガラスケースには何十種類ものパン、後ろには長い列。店員さんに「Was darf's sein?」と聞かれて頭が真っ白になり、結局「Das… bitte」と指さしてしまいました。",
+      "今日はパン屋ですぐ使える単語を10個集めました。これでパンの名前を言ったり、具をはさんだパンを選んだり、持ち帰りを頼んだりできます。明日の朝はぜひ言葉で注文してみましょう。🥐"
+    ],
+    "words": {
+      "BL-11-01": {"pron": "ベッカライ", "tip": "Bäcker（パン職人）+ -ei（店）= パン屋 🏠 -ei で終わる名詞はいつも die！", "bonus": "同じ形：die Metzgerei（肉屋）、die Konditorei（ケーキ屋）"},
+      "A2-646": {"pron": "ベッカー", "tip": "backen（焼く）+ -er = 焼く人 👨‍🍳 英語の baker とそっくりです。", "bonus": "「パン屋に行く」は Ich gehe zum Bäcker. とよく言います。"},
+      "A1-019": {"pron": "ブロート", "tip": "英語の bread と同じ語源 🍞 ドイツの食卓の主役です。", "bonus": "全粒粉パン = das Vollkornbrot、ライ麦パン = das Roggenbrot"},
+      "BL-11-02": {"pron": "ブレートヒェン", "tip": "Brot + 小さくする -chen = 小さなパン 🥯 -chen で終わればいつも das！", "warn": "地域で呼び方が違います：南では Semmel、ベルリンでは Schrippe とも。"},
+      "B1-2607": {"pron": "ベルリーナー", "tip": "ベルリンの人、そしてジャム入りドーナツ 🍩 パン屋ではドーナツのほう！", "bonus": "地域によっては Pfannkuchen や Krapfen と呼びます。"},
+      "BL-03-04": {"pron": "フリッシュ", "tip": "英語の fresh と音も意味もそっくり ✨ 焼きたての香りがする単語です。", "bonus": "frisch gebacken = 焼きたての"},
+      "BL-11-06": {"pron": "ベレークト", "tip": "パンの上にチーズやハムを「のせた」イメージ 🧀", "warn": "席にも使います：Der Platz ist belegt. = この席はふさがっています。"},
+      "B1-2023": {"pron": "サンドウィッチ", "tip": "英語からそのまま来た言葉 🥪 発音も英語風でOK。", "bonus": "das も der も使いますが、das Sandwich のほうが一般的です。"},
+      "A2-932": {"pron": "マフィン", "tip": "英語からそのまま 🧁 男性名詞なので der Muffin！", "bonus": "複数形は英語と同じ -s：zwei Muffins"},
+      "BL-11-09": {"pron": "ミットネーメン", "tip": "mit（一緒に）+ nehmen（取る）= 持っていく 🛍️ テイクアウトは zum Mitnehmen！", "warn": "分離動詞です：Ich nehme das mit. 完了形は hat mitgenommen。"}
+    },
+    "culture": [
+      "ドイツの人にとってパン屋はほぼ毎日寄る場所です。週末の朝に焼きたての Brötchen を買ってきて、家族で朝ごはんを食べるのはよくある光景です。",
+      "多くの州では日曜日にスーパーが閉まりますが、パン屋は日曜の午前中に開いていることが多いです。営業時間は州やお店によって違うので、確認しておくと安心です。",
+      "小さな町のパン屋では、今も現金のみのお店があります。小銭を少し持っておくと便利ですよ。🪙"
+    ],
+    "quiz": {"q": "店員さんに「Zum Hieressen?」と聞かれました。持ち帰りたいときは何と言いますか？", "o": ["Nein, zum Mitnehmen, bitte.", "Der Platz ist belegt.", "Das Brot ist frisch."], "a": 0, "why": "zum Mitnehmen は「持ち帰りで」という意味です。"},
+    "outro": "次にパン屋に行ったら「Zwei Brötchen, bitte!」と声に出して注文してみましょう。焼きたてのパンが最高のごほうびです！🥨"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "office",
+  "ko": {
+    "title": "독일 회사 첫 출근 전에 알아 둘 사무실 단어 10",
+    "hook": "독일 회사 첫날, ‘Der Drucker spinnt!’라는 말을 들으면 무슨 일인지 알 수 있을까요?",
+    "intro": [
+      "독일 회사에 첫 출근한 날, 옆자리 동료가 점심 먹으러 Kantine에 가자고 했는데 무슨 말인지 몰라서 웃기만 했어요. 오후엔 프린터가 고장 나서 다들 웅성거리는데 저만 눈치를 봤고요.",
+      "오늘은 사무실에서 매일 듣는 단어 10개예요. 이 10개면 동료와 점심 약속을 하고, 프린터 앞에서 도움을 청하고, 어느 부서에서 일하는지도 말할 수 있어요. 💼"
+    ],
+    "words": {
+      "A2-142": {"pron": "뷔로", "tip": "프랑스어 bureau에서 왔어요 🏢 강세는 뒤쪽 ‘로’에 꾹!", "bonus": "사무실에 있어요 = im Büro · 사무실에 가요 = ins Büro"},
+      "BL-10-01": {"pron": "콜레게", "tip": "영어 colleague랑 거의 같아요 👥 끝의 e도 꼭 발음해요.", "warn": "n-변화 명사라서 Ich frage meinen Kollegen.처럼 -n이 붙어요. 여자 동료는 die Kollegin."},
+      "BL-10-02": {"pron": "셰프", "tip": "요리사가 아니라 회사의 ‘머리’예요 👔 라틴어 caput(머리)에서 왔거든요.", "warn": "요리사는 der Koch / die Köchin이에요. 여자 상사는 die Chefin."},
+      "A2-747": {"pron": "슈라이프티쉬", "tip": "schreiben(쓰다) + Tisch(탁자) = 글 쓰는 탁자 ✍️ 레고처럼 붙였어요.", "bonus": "책상에 앉아 있다 = am Schreibtisch sitzen"},
+      "A2-218": {"pron": "드루커", "tip": "drucken(인쇄하다) + -er = 인쇄하는 기계 🖨️ -er로 끝나는 기계는 보통 der!", "bonus": "회화에서 자주: Der Drucker spinnt! = 프린터가 또 말썽이야!"},
+      "B1-472": {"pron": "아우스드루켄", "tip": "aus(밖으로) + drucken = 밖으로 뽑아내다 📄 영어 print out과 똑같아요.", "warn": "분리동사예요: Ich drucke das aus. 움라우트가 붙은 ausdrücken은 ‘표현하다’라는 전혀 다른 말!"},
+      "BL-10-07": {"pron": "파우제", "tip": "영어 pause와 같은데 끝의 e를 살려서 ‘파우제’ ☕", "bonus": "쉬자 = Lass uns eine Pause machen. · 점심시간 = die Mittagspause"},
+      "A2-239": {"pron": "칸티네", "tip": "영어 canteen과 같은 뿌리 🍛 회사 밥 먹는 곳!", "bonus": "대학 학생식당은 die Mensa라고 해요."},
+      "B1-202": {"pron": "압타일룽", "tip": "ab + Teil(부분) + -ung = 회사를 나눈 한 부분 🧩 -ung이니까 die!", "bonus": "인사부 = die Personalabteilung"},
+      "B1-875": {"pron": "코피어러", "tip": "kopieren(복사하다) + -er = 복사하는 기계 📠 Drucker랑 같은 원리!", "bonus": "동사 kopieren: Kannst du das bitte kopieren?"}
+    },
+    "culture": [
+      "독일 사무실에서는 점심때쯤 복도에서 ‘Mahlzeit!’라는 인사를 자주 들어요. ‘식사 맛있게!’ 정도의 뜻인데, 회사나 지역에 따라 많이 쓰기도 하고 거의 안 쓰기도 해요.",
+      "동료끼리 du를 쓸지 Sie를 쓸지도 회사마다 달라요. 스타트업은 대부분 처음부터 du, 전통적인 회사는 Sie로 시작하는 경우가 많아요. 헷갈리면 상대가 먼저 du를 제안할 때까지 기다리면 안전해요.",
+      "퇴근할 때는 ‘Schönen Feierabend!’ 하고 인사해요. Feierabend는 일이 끝난 저녁 시간을 뜻하는데, 독일 사람들이 정말 소중하게 여기는 시간이에요. 🌇"
+    ],
+    "quiz": {"q": "동료에게 파일을 종이로 뽑아 달라고 부탁하고 싶어요. 빈칸에 들어갈 말은? ‘Kannst du mir das bitte ___?’", "o": ["ausdrucken", "ausdrücken", "ausmachen"], "a": 0, "why": "ausdrucken = 출력하다예요. ausdrücken은 ‘표현하다’, ausmachen은 ‘끄다’예요."},
+    "outro": "오늘 단어로 ‘Ich arbeite in der … Abteilung.’ 하고 내 자기소개를 한 문장 소리 내서 말해 봐요. 그리고 오늘도 Schönen Feierabend! 💼"
+  },
+  "en": {
+    "title": "First day at a German office? Learn these 10 words",
+    "hook": "On your first day in a German office, someone shouts ‘Der Drucker spinnt!’ — would you know what's going on?",
+    "intro": [
+      "Your first day at a German company: a colleague invites you to the Kantine for lunch and you just smile, unsure what that is. In the afternoon the printer breaks and everyone grumbles, while you try to look like you understand.",
+      "Today's ten words are ones you'll hear in the office every day. With them you can arrange lunch with colleagues, ask for help at the printer and say which department you work in. 💼"
+    ],
+    "words": {
+      "A2-142": {"pron": "bew-ROH", "tip": "From French bureau 🏢 Put the stress at the end: bü-RO.", "bonus": "in the office = im Büro · to the office = ins Büro"},
+      "BL-10-01": {"pron": "ko-LAY-guh", "tip": "Basically English colleague 👥 Don't forget to say the final e.", "warn": "It's a weak noun, so it adds -n: Ich frage meinen Kollegen. A female colleague is die Kollegin."},
+      "BL-10-02": {"pron": "SHEF", "tip": "Not a cook but the ‘head’ of the company 👔 From Latin caput (head).", "warn": "A cook is der Koch / die Köchin. A female boss is die Chefin."},
+      "A2-747": {"pron": "SHRIPE-tish", "tip": "schreiben (to write) + Tisch (table) = writing table ✍️ German Lego again.", "bonus": "to sit at your desk = am Schreibtisch sitzen"},
+      "A2-218": {"pron": "DROOK-er", "tip": "drucken (to print) + -er = printing machine 🖨️ Machines ending in -er are usually der.", "bonus": "Very common: Der Drucker spinnt! = The printer's playing up again!"},
+      "B1-472": {"pron": "OWS-drook-en", "tip": "aus (out) + drucken (print) = print out 📄 Exactly like English.", "warn": "Separable: Ich drucke das aus. With umlaut, ausdrücken means ‘to express’ — a totally different verb!"},
+      "BL-10-07": {"pron": "POW-zuh", "tip": "English pause, but say the final e: POW-zuh ☕", "bonus": "Let's take a break = Lass uns eine Pause machen. · lunch break = die Mittagspause"},
+      "A2-239": {"pron": "kan-TEE-nuh", "tip": "Same root as English canteen 🍛 Where the office eats lunch.", "bonus": "A university canteen is die Mensa."},
+      "B1-202": {"pron": "AP-tile-oong", "tip": "ab + Teil (part) + -ung = one part of the company 🧩 -ung means die!", "bonus": "HR department = die Personalabteilung"},
+      "B1-875": {"pron": "ko-PEER-er", "tip": "kopieren (to copy) + -er = copying machine 📠 Same pattern as Drucker.", "bonus": "The verb: Kannst du das bitte kopieren?"}
+    },
+    "culture": [
+      "Around lunchtime in many German offices you'll hear people greet each other in the corridor with ‘Mahlzeit!’ — roughly ‘enjoy your meal’. How common it is depends a lot on the company and the region.",
+      "Whether colleagues use du or Sie also varies. Most start-ups use du from day one, while more traditional companies often start with Sie. If you're unsure, wait until the other person offers du.",
+      "When you leave, say ‘Schönen Feierabend!’ Feierabend is your free time after work, and people in Germany take it seriously. 🌇"
+    ],
+    "quiz": {"q": "You'd like a colleague to print a file for you. Fill the gap: ‘Kannst du mir das bitte ___?’", "o": ["ausdrucken", "ausdrücken", "ausmachen"], "a": 0, "why": "ausdrucken means to print out; ausdrücken means to express and ausmachen means to switch off."},
+    "outro": "Introduce yourself out loud with one sentence: ‘Ich arbeite in der … Abteilung.’ And today too: Schönen Feierabend! 💼"
+  },
+  "ja": {
+    "title": "ドイツの会社に初出勤する前に覚えたいオフィス単語10",
+    "hook": "ドイツの会社で初日に「Der Drucker spinnt!」と聞こえたら、何が起きたかわかりますか？",
+    "intro": [
+      "ドイツの会社に初出勤した日、隣の同僚に「Kantine でお昼食べよう」と誘われたのに、意味がわからず笑うだけでした。午後にはプリンターが壊れてみんながざわざわする中、私だけ空気を読んでいました。",
+      "今日はオフィスで毎日耳にする単語を10個集めました。これで同僚とランチの約束をしたり、プリンターの前で助けを求めたり、どの部署で働いているか言ったりできます。💼"
+    ],
+    "words": {
+      "A2-142": {"pron": "ビュロー", "tip": "フランス語 bureau から 🏢 アクセントは後ろの「ロー」に！", "bonus": "オフィスにいる = im Büro・オフィスに行く = ins Büro"},
+      "BL-10-01": {"pron": "コレーゲ", "tip": "英語の colleague とほぼ同じ 👥 最後の e もちゃんと発音します。", "warn": "男性弱変化名詞なので Ich frage meinen Kollegen. のように -n が付きます。女性の同僚は die Kollegin。"},
+      "BL-10-02": {"pron": "シェフ", "tip": "料理人ではなく会社の「頭」です 👔 ラテン語 caput（頭）から。", "warn": "料理人は der Koch / die Köchin。女性の上司は die Chefin です。"},
+      "A2-747": {"pron": "シュライプティッシュ", "tip": "schreiben（書く）+ Tisch（テーブル）= 書くための机 ✍️ レゴのようにくっつけるだけ。", "bonus": "机に向かっている = am Schreibtisch sitzen"},
+      "A2-218": {"pron": "ドゥルッカー", "tip": "drucken（印刷する）+ -er = 印刷する機械 🖨️ -er で終わる機械はたいてい der！", "bonus": "会話でよく聞く：Der Drucker spinnt! = プリンターがまた変だよ！"},
+      "B1-472": {"pron": "アウスドゥルッケン", "tip": "aus（外へ）+ drucken = 外へ刷り出す 📄 英語の print out と同じです。", "warn": "分離動詞です：Ich drucke das aus. ウムラウト付きの ausdrücken は「表現する」でまったく別の言葉！"},
+      "BL-10-07": {"pron": "パウゼ", "tip": "英語の pause と同じですが、最後の e を発音して「パウゼ」☕", "bonus": "休憩しよう = Lass uns eine Pause machen.・昼休み = die Mittagspause"},
+      "A2-239": {"pron": "カンティーネ", "tip": "英語の canteen と同じ語源 🍛 会社でごはんを食べる場所！", "bonus": "大学の学食は die Mensa と言います。"},
+      "B1-202": {"pron": "アップタイルング", "tip": "ab + Teil（部分）+ -ung = 会社を分けたひとつの部分 🧩 -ung なので die！", "bonus": "人事部 = die Personalabteilung"},
+      "B1-875": {"pron": "コピーラー", "tip": "kopieren（コピーする）+ -er = コピーする機械 📠 Drucker と同じしくみです。", "bonus": "動詞 kopieren：Kannst du das bitte kopieren?"}
+    },
+    "culture": [
+      "ドイツのオフィスでは、お昼どきに廊下で「Mahlzeit!」とあいさつするのをよく耳にします。「いい食事を！」くらいの意味ですが、会社や地域によってよく使ったりほとんど使わなかったりします。",
+      "同僚同士で du を使うか Sie を使うかも会社次第です。スタートアップはたいてい最初から du、伝統的な会社は Sie から始まることが多いです。迷ったら、相手から du を提案されるまで待つのが安全です。",
+      "帰るときは「Schönen Feierabend!」とあいさつします。Feierabend は仕事が終わった後の自由な時間のことで、ドイツの人たちがとても大切にしている時間です。🌇"
+    ],
+    "quiz": {"q": "同僚にファイルを紙に印刷してほしいとき、空欄に入るのは？「Kannst du mir das bitte ___?」", "o": ["ausdrucken", "ausdrücken", "ausmachen"], "a": 0, "why": "ausdrucken は「印刷する」です。ausdrücken は「表現する」、ausmachen は「消す」です。"},
+    "outro": "「Ich arbeite in der … Abteilung.」と、自己紹介をひとこと声に出して言ってみましょう。今日もお疲れさまでした、Schönen Feierabend！💼"
+  }
+}

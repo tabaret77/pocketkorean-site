@@ -1,0 +1,84 @@
+{
+  "key": "visa",
+  "ko": {
+    "title": "외국인청 가기 전에 꼭 외울 독일어 10",
+    "hook": "독일 생활에서 제일 긴장되는 순간은 시험도 면접도 아니라 외국인청 대기실일지 몰라요.",
+    "intro": [
+      "드디어 잡은 외국인청 예약 날. 번호표를 들고 앉아 있는데 서류마다 Aufenthaltserlaubnis, gültig, beantragen … 긴 단어들이 줄줄이 나와요. 담당자가 질문하면 바로 알아들을 수 있을까요?",
+      "오늘은 비자와 체류 허가에 꼭 나오는 단어 10개를 골랐어요. 이걸 알면 서류를 읽고, 이메일을 쓰고, 창구에서 내 상황을 설명할 수 있어요. 긴장 대신 자신감을 챙겨 가요! 🛂"
+    ],
+    "words": {
+      "B1-1369": {"pron": "비줌", "tip": "라틴어 ‘본 것’에서 왔어요 👀 여권에 ‘확인함’ 도장을 찍는 거죠!", "warn": "복수는 die Visa 또는 die Visen이에요. Visums가 아니에요!"},
+      "A1-535": {"pron": "파스", "tip": "국경을 pass(통과)하게 해 주는 종이 🛂 정식 이름은 der Reisepass!", "warn": "복수는 움라우트가 생겨요: die Pässe."},
+      "B2-630": {"pron": "아우프엔트할츠에어라우프니스", "tip": "Aufenthalt(머무름) + Erlaubnis(허락) = 머물러도 된다는 허락 🏠 -nis가 끝이라 die!", "bonus": "흔히 줄여서 der Aufenthaltstitel(체류 자격)이라는 말도 써요."},
+      "B1-1541": {"pron": "아우스렌더베회르데", "tip": "Ausländer(외국인) + Behörde(관청) = 외국인을 위한 관청 🏛️ 이름 그대로예요.", "bonus": "줄여서 die ABH라고 쓰는 경우도 많아요."},
+      "B2-065": {"pron": "베안트라겐", "tip": "der Antrag(신청서)를 들고(tragen) 가는 것 📝 be-가 붙어 4격을 바로 받아요.", "bonus": "같은 뜻의 관청 표현: einen Antrag stellen"},
+      "B1-381": {"pron": "귈티히", "tip": "gelten(효력이 있다)에서 왔어요 ✅ 반대는 ungültig(무효인)!", "bonus": "~까지 유효하다 = gültig bis …"},
+      "B2-2507": {"pron": "압라우펜", "tip": "ab(끝으로) + laufen(달리다) = 시간이 다 달려 나가 버림 ⏳", "warn": "분리동사이고 완료는 sein: Mein Pass ist abgelaufen."},
+      "B1-448": {"pron": "아르바이츠에어라우프니스", "tip": "Arbeit(일) + Erlaubnis(허락) = 일해도 된다는 허락 💼 Arbeit에서 바로 ‘알바’가 나왔어요!", "warn": "체류 허가가 있어도 일할 수 있는지는 따로 적혀 있어요. 카드를 꼭 확인하세요."},
+      "B1-534": {"pron": "보트샤프트", "tip": "der Bote(심부름꾼)가 메시지를 전하는 곳 📨 그래서 ‘메시지’라는 뜻도 있어요.", "bonus": "총영사관은 das Generalkonsulat이에요."},
+      "B2-1387": {"pron": "아인라이제", "tip": "ein(안으로) + Reise(여행) = 나라 안으로 들어가는 여행 🛬", "bonus": "반대말: die Ausreise(출국)"}
+    },
+    "culture": [
+      "독일에서 체류 허가 업무는 보통 사는 도시의 외국인청이 맡아요. 도시에 따라 이름이 조금 다르기도 하고, 큰 도시에서는 예약(Termin) 잡기가 쉽지 않아서 미리미리 움직이는 게 중요해요.",
+      "갈 때는 여권, 생체 사진(biometrisches Foto), 전입 신고 확인서(Meldebescheinigung), 건강보험 증명서 같은 서류를 챙기는 경우가 많아요. 필요한 서류는 체류 목적과 도시에 따라 다르니 홈페이지의 목록을 꼭 확인하세요.",
+      "그리고 만료일 전에 연장을 신청하는 게 기본이에요. 모든 서류는 복사본도 한 부씩 들고 가면 마음이 편해요. 📂"
+    ],
+    "quiz": {"q": "다음 달에 여권이 만료돼요. 외국인청에서 뭐라고 설명할까요?", "o": ["Mein Pass ist gültig bis 2030.", "Ich arbeite bei der Botschaft.", "Mein Pass läuft nächsten Monat ab."], "a": 2, "why": "ablaufen = 만료되다. ‘제 여권이 다음 달에 만료돼요’라는 뜻이에요."},
+    "outro": "오늘은 내 여권과 체류 카드의 만료일을 확인하면서 Mein Pass ist gültig bis … 를 소리 내어 말해 봐요. 서류 걱정 없는 하루 되세요! 📅"
+  },
+  "en": {
+    "title": "Visa paperwork in German: the 10 words you can't skip",
+    "hook": "The most nerve-racking moment of life in Germany might not be an exam or an interview, but the waiting room at the immigration office.",
+    "intro": [
+      "You've finally got an appointment at the immigration office. You sit there with your number while every form throws long words at you: Aufenthaltserlaubnis, gültig, beantragen … Will you understand when the officer asks you something?",
+      "Today's ten words come up in every visa and residence permit process. With them you can read the forms, write an email and explain your situation at the desk. Bring confidence instead of nerves! 🛂"
+    ],
+    "words": {
+      "B1-1369": {"pron": "VEE-zoom", "tip": "From Latin ‘thing seen’ 👀 The officer has seen it and stamped it!", "warn": "Plural: die Visa or die Visen, never ‘Visums’."},
+      "A1-535": {"pron": "pass", "tip": "The paper that lets you pass the border 🛂 Full name: der Reisepass.", "warn": "Plural with umlaut: die Pässe."},
+      "B2-630": {"pron": "OWF-ent-halts-air-lowp-nis", "tip": "Aufenthalt (stay) + Erlaubnis (permission) = permission to stay 🏠 Ends in -nis, so die.", "bonus": "You'll also see der Aufenthaltstitel (residence title)."},
+      "B1-1541": {"pron": "OWS-len-der-buh-hur-duh", "tip": "Ausländer (foreigner) + Behörde (authority) = the foreigners' authority 🏛️ Says what it is.", "bonus": "Often shortened to die ABH."},
+      "B2-065": {"pron": "buh-AN-trah-gen", "tip": "You carry (tragen) your application (der Antrag) to the office 📝 be- lets it take a direct object.", "bonus": "Formal version: einen Antrag stellen"},
+      "B1-381": {"pron": "GUEL-tikh", "tip": "From gelten (to count, to be in force) ✅ Opposite: ungültig (invalid).", "bonus": "valid until … = gültig bis …"},
+      "B2-2507": {"pron": "AP-low-fen", "tip": "ab (off, to the end) + laufen (to run) = time has run out ⏳", "warn": "Separable, and the perfect uses sein: Mein Pass ist abgelaufen."},
+      "B1-448": {"pron": "AR-bites-air-lowp-nis", "tip": "Arbeit (work) + Erlaubnis (permission) = permission to work 💼", "warn": "A residence permit doesn't always include work. Check what your card says."},
+      "B1-534": {"pron": "BOHT-shaft", "tip": "Where der Bote (the messenger) brings messages 📨 That's why it also means ‘message’.", "bonus": "A consulate general is das Generalkonsulat."},
+      "B2-1387": {"pron": "INE-ry-zuh", "tip": "ein (in) + Reise (journey) = the journey into a country 🛬", "bonus": "Opposite: die Ausreise (departure, leaving the country)"}
+    },
+    "culture": [
+      "In Germany, residence permits are usually handled by the immigration office of the town or city where you live. The name can vary a little from place to place, and in big cities appointments (Termin) can be hard to get, so start early.",
+      "People often bring their passport, a biometric photo (biometrisches Foto), their registration certificate (Meldebescheinigung) and proof of health insurance. What you need depends on your reason for staying and on the city, so always check the office's own list.",
+      "The golden rule: apply for an extension before your permit runs out. Bringing a copy of every document can save you a second trip, too. 📂"
+    ],
+    "quiz": {"q": "Your passport runs out next month. How do you explain this at the immigration office?", "o": ["Mein Pass ist gültig bis 2030.", "Ich arbeite bei der Botschaft.", "Mein Pass läuft nächsten Monat ab."], "a": 2, "why": "ablaufen = to expire, so this means ‘My passport expires next month.’"},
+    "outro": "Check the expiry dates on your passport and permit today, and say Mein Pass ist gültig bis … out loud. May your paperwork always be in order! 📅"
+  },
+  "ja": {
+    "title": "外国人局に行く前に覚えたいドイツ語10",
+    "hook": "ドイツ生活でいちばん緊張する瞬間は、試験でも面接でもなく、外国人局の待合室かもしれません。",
+    "intro": [
+      "やっと取れた外国人局の予約の日。番号札を持って座っていると、書類には Aufenthaltserlaubnis、gültig、beantragen … と長い単語がずらり。担当者に質問されたら、すぐ聞き取れるでしょうか？",
+      "今日はビザと滞在許可の手続きで必ず出てくる単語を10個選びました。これがわかれば、書類を読み、メールを書き、窓口で自分の状況を説明できます。緊張のかわりに自信を持っていきましょう！🛂"
+    ],
+    "words": {
+      "B1-1369": {"pron": "ヴィーズム", "tip": "ラテン語の「見られたもの」から 👀 係官が見て、スタンプを押したしるしです！", "warn": "複数形は die Visa または die Visen。Visums ではありません！"},
+      "A1-535": {"pron": "パス", "tip": "国境を pass（通過）させてくれる書類 🛂 正式には der Reisepass！", "warn": "複数形はウムラウトがつきます：die Pässe."},
+      "B2-630": {"pron": "アウフエントハルツエアラウプニス", "tip": "Aufenthalt（滞在）+ Erlaubnis（許可）= 滞在の許可 🏠 -nis で終わるので die！", "bonus": "der Aufenthaltstitel（滞在資格）という言葉もよく見かけます。"},
+      "B1-1541": {"pron": "アウスレンダーベヘールデ", "tip": "Ausländer（外国人）+ Behörde（役所）= 外国人のための役所 🏛️ 名前そのままです。", "bonus": "略して die ABH と書かれることも多いです。"},
+      "B2-065": {"pron": "ベアントラーゲン", "tip": "der Antrag（申請書）を運んで（tragen）いくイメージ 📝 be- がつくと4格をそのままとります。", "bonus": "役所っぽい言い方：einen Antrag stellen"},
+      "B1-381": {"pron": "ギュルティヒ", "tip": "gelten（効力がある）から ✅ 反対は ungültig（無効の）！", "bonus": "〜まで有効 = gültig bis …"},
+      "B2-2507": {"pron": "アップラウフェン", "tip": "ab（終わりへ）+ laufen（走る）= 時間が走り切ってしまう ⏳", "warn": "分離動詞で、完了形は sein：Mein Pass ist abgelaufen."},
+      "B1-448": {"pron": "アルバイツエアラウプニス", "tip": "Arbeit（仕事）+ Erlaubnis（許可）= 働く許可 💼 日本語の「アルバイト」はこの Arbeit から！", "warn": "滞在許可があっても、働けるかどうかは別に書かれています。カードを確認しましょう。"},
+      "B1-534": {"pron": "ボートシャフト", "tip": "der Bote（使者）がメッセージを届ける場所 📨 だから「メッセージ」という意味もあります。", "bonus": "総領事館は das Generalkonsulat です。"},
+      "B2-1387": {"pron": "アインライゼ", "tip": "ein（中へ）+ Reise（旅）= 国の中へ入る旅 🛬", "bonus": "反対語：die Ausreise（出国）"}
+    },
+    "culture": [
+      "ドイツの滞在許可の手続きは、ふつう住んでいる町の外国人局が担当します。町によって名前が少し違うこともあり、大都市では予約（Termin）を取るのが大変なので、早めに動くのが大切です。",
+      "持っていくのは、パスポート、生体認証写真（biometrisches Foto）、住民登録証明（Meldebescheinigung）、健康保険の証明などが多いです。必要な書類は滞在目的や町によって違うので、かならず公式サイトのリストを確認しましょう。",
+      "基本は、期限が切れる前に延長を申請すること。すべての書類のコピーも一部ずつ持っていくと安心です。📂"
+    ],
+    "quiz": {"q": "来月パスポートの期限が切れます。外国人局でどう説明しますか？", "o": ["Mein Pass ist gültig bis 2030.", "Ich arbeite bei der Botschaft.", "Mein Pass läuft nächsten Monat ab."], "a": 2, "why": "ablaufen = 期限が切れる。「私のパスポートは来月期限が切れます」という意味です。"},
+    "outro": "今日は自分のパスポートと滞在カードの有効期限を確かめながら、Mein Pass ist gültig bis … と声に出してみましょう。書類の心配のない一日を！📅"
+  }
+}

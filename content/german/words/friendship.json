@@ -1,0 +1,84 @@
+{
+  "key": "friendship",
+  "ko": {
+    "title": "독일 친구에게 마음을 전하는 단어 10",
+    "hook": "독일에서 ‘친구’라고 말할 때, 단어 하나 잘못 고르면 연인이 돼 버려요.",
+    "intro": [
+      "어학원에서 친해진 친구를 다른 친구에게 소개하는데, Das ist mein Freund! 했더니 다들 눈이 동그래졌어요. 알고 보니 ‘제 남자 친구예요’로 들렸던 거예요. 😳",
+      "오늘은 친구, 지인, 우정, 그리고 서로 믿고 도와주는 마음을 표현하는 단어 10개예요. 이걸로 내 친구를 제대로 소개하고, 고마운 마음도 독일어로 전할 수 있어요. 🤝"
+    ],
+    "words": {
+      "A1-015": {"pron": "프로인트", "tip": "영어 friend와 같은 뿌리, 원래 ‘사랑하는 사람’이라는 뜻이었대요 💛", "warn": "mein Freund는 보통 ‘내 남자 친구’예요. 그냥 친구는 ein Freund von mir!"},
+      "B1-028": {"pron": "프로인트샤프트", "tip": "-schaft = 영어 -ship 🚢 friendship = Freundschaft, 그대로 짝꿍이에요. -schaft는 언제나 die!", "bonus": "평생 가는 우정 = eine Freundschaft fürs Leben"},
+      "B1-1701": {"pron": "베프로인데트", "tip": "be- + Freund = 친구로 맺어진 상태 🫶 Wir sind befreundet. = 우리 친구 사이예요.", "bonus": "누구와 친구인지 말할 땐 mit: Ich bin mit Lena befreundet."},
+      "B2-1661": {"pron": "프로인트샤프트 슐리센", "tip": "schließen은 ‘닫다, 맺다’ 🔐 계약을 맺듯 우정도 맺어요.", "warn": "machen이 아니에요! Freundschaft schließen mit + 3격."},
+      "A1-433": {"pron": "베칸테", "tip": "bekannt(알려진)에서 온 말 👋 아는 사이 = 지인!", "warn": "형용사처럼 변해요: der Bekannte, 하지만 ein Bekannter."},
+      "A2-175": {"pron": "지히 트레펜", "tip": "treffen은 원래 ‘과녁을 맞히다’ 🎯 약속 장소에서 딱 만나는 거죠!", "bonus": "누구와 만날 땐: Ich treffe mich mit Anna."},
+      "B1-177": {"pron": "페어트라우엔", "tip": "영어 trust와 같은 뿌리예요 🤞 trau-trust, 소리로 기억해요.", "warn": "3격을 써요: Ich vertraue dir. (dich 아니에요!)"},
+      "B2-1782": {"pron": "지히 페어라센 아우프", "tip": "‘너한테 다 맡길게’ 하고 기대는 느낌 🛟 auf 다음에는 4격!", "warn": "sich 없이 verlassen만 쓰면 ‘떠나다’예요: Er verlässt die Stadt."},
+      "B1-068": {"pron": "운터슈튀첸", "tip": "unter(아래) + stützen(받치다) = 아래에서 받쳐 주기 🏗️", "warn": "비분리동사라서 ge-가 없어요: hat unterstützt."},
+      "B2-1981": {"pron": "추자멘할텐", "tip": "zusammen(함께) + halten(붙잡다) = 똘똘 뭉치기 🧲", "bonus": "명사 der Zusammenhalt = 결속력, 단합"}
+    },
+    "culture": [
+      "독일 사람들은 Freund와 Bekannter를 꽤 분명하게 나누는 편이에요. 같이 일하고 가끔 맥주 마시는 사이는 보통 Bekannter이고, Freund는 정말 가까운 사람에게 아껴 쓰는 경우가 많아요.",
+      "그래서 처음에는 조금 거리감이 느껴질 수 있지만, 한번 친구가 되면 오래 가는 우정이 많아요. 운동이나 취미 동호회(Verein)에 들어가는 게 독일에서 친구를 사귀는 좋은 방법이에요.",
+      "친구 사이에서는 거의 언제나 du로 불러요. 누가 ‘우리 말 놓을까요?’ 하고 du를 먼저 제안하면, 가까워졌다는 신호예요. 🍻"
+    ],
+    "quiz": {"q": "남자 사람 친구를 소개하려고요. 오해 없이 말하려면?", "o": ["Das ist mein Freund.", "Das ist ein Freund von mir.", "Das ist meine Freundschaft."], "a": 1, "why": "ein Freund von mir가 ‘내 친구 중 한 명’이라서 남자 친구로 오해받지 않아요."},
+    "outro": "오늘 생각나는 친구 한 명을 떠올리며 Ich kann mich auf dich verlassen. 을 소리 내서 말해 봐요. 직접 문자로 보내 보는 것도 좋고요! 💌"
+  },
+  "en": {
+    "title": "Friend or boyfriend? 10 German words about friendship",
+    "hook": "In German, one wrong little word can turn your friend into your partner.",
+    "intro": [
+      "You introduce a mate from your language class: Das ist mein Freund! Everyone raises an eyebrow. In German that usually sounds like ‘This is my boyfriend.’ 😳",
+      "Today's ten words are about friends, acquaintances, friendship and the trust and support that hold it together. You'll be able to introduce people properly and tell your friends what they mean to you. 🤝"
+    ],
+    "words": {
+      "A1-015": {"pron": "FROYNT", "tip": "Same root as English friend — it first meant ‘someone who loves’ 💛", "warn": "mein Freund usually means ‘my boyfriend’. For a friend, say ein Freund von mir."},
+      "B1-028": {"pron": "FROYNT-shaft", "tip": "-schaft = English -ship 🚢 friendship = Freundschaft. And -schaft is always die.", "bonus": "a lifelong friendship = eine Freundschaft fürs Leben"},
+      "B1-1701": {"pron": "buh-FROYN-det", "tip": "be- + Freund = joined as friends 🫶 Wir sind befreundet. = We're friends.", "bonus": "With whom? Use mit: Ich bin mit Lena befreundet."},
+      "B2-1661": {"pron": "FROYNT-shaft SHLEE-sen", "tip": "schließen can mean ‘to conclude’ 🔐 You seal a friendship like a deal.", "warn": "Not machen! Freundschaft schließen mit + dative."},
+      "A1-433": {"pron": "buh-KAN-tuh", "tip": "From bekannt (known) 👋 Someone you know = an acquaintance.", "warn": "It changes like an adjective: der Bekannte, but ein Bekannter."},
+      "A2-175": {"pron": "zikh TREF-fen", "tip": "treffen first meant ‘to hit a target’ 🎯 You hit the meeting spot.", "bonus": "Meeting someone: Ich treffe mich mit Anna."},
+      "B1-177": {"pron": "fair-TROW-en", "tip": "Same root as English trust 🤞 trau, trust — hear it?", "warn": "Takes the dative: Ich vertraue dir. (not dich!)"},
+      "B2-1782": {"pron": "zikh fair-LASS-en owf", "tip": "Lean back and let someone catch you 🛟 After auf: accusative.", "warn": "Without sich, verlassen means ‘to leave’: Er verlässt die Stadt."},
+      "B1-068": {"pron": "oon-ter-SHTUE-tsen", "tip": "unter (under) + stützen (prop up) = holding someone up from below 🏗️", "warn": "Inseparable, so no ge-: hat unterstützt."},
+      "B2-1981": {"pron": "tsoo-ZAM-men-hal-ten", "tip": "zusammen (together) + halten (hold) = stick together 🧲", "bonus": "The noun der Zusammenhalt = solidarity, team spirit"}
+    },
+    "culture": [
+      "Germans often draw a clear line between a Freund and a Bekannter. Colleagues you have the odd beer with are usually Bekannte; Freund tends to be saved for people who are really close.",
+      "That can feel a bit distant at first, but once you're friends, it often lasts. Joining a club (Verein) — for sport, music or almost any hobby — is a classic way to make friends in Germany.",
+      "Friends almost always call each other du. When someone suggests switching from Sie to du, it's a sign you're getting closer. 🍻"
+    ],
+    "quiz": {"q": "You want to introduce a male friend without any confusion. What do you say?", "o": ["Das ist mein Freund.", "Das ist ein Freund von mir.", "Das ist meine Freundschaft."], "a": 1, "why": "ein Freund von mir means ‘a friend of mine’, so nobody thinks he's your boyfriend."},
+    "outro": "Think of a good friend and say Ich kann mich auf dich verlassen. out loud — or better, send it to them! 💌"
+  },
+  "ja": {
+    "title": "ドイツ人の友だちに気持ちを伝える10の言葉",
+    "hook": "ドイツ語で「友だち」と言うとき、言い方ひとつで恋人になってしまうことがあります。",
+    "intro": [
+      "語学学校で仲良くなった友だちを紹介しようと、Das ist mein Freund! と言ったら、みんな目を丸くしました。ドイツ語ではふつう「私の彼氏です」に聞こえるのです。😳",
+      "今日は友だち、知り合い、友情、そしてお互いに信頼し支え合う気持ちを表す単語10個です。これで友だちを正しく紹介して、感謝の気持ちもドイツ語で伝えられます。🤝"
+    ],
+    "words": {
+      "A1-015": {"pron": "フロイント", "tip": "英語の friend と同じ語源で、もとは「愛する人」という意味 💛", "warn": "mein Freund はふつう「私の彼氏」。ただの友だちなら ein Freund von mir！"},
+      "B1-028": {"pron": "フロイントシャフト", "tip": "-schaft = 英語の -ship 🚢 friendship = Freundschaft。-schaft はいつも die！", "bonus": "一生の友情 = eine Freundschaft fürs Leben"},
+      "B1-1701": {"pron": "ベフロインデット", "tip": "be- + Freund = 友だちとして結ばれた状態 🫶 Wir sind befreundet. = 私たちは友だちです。", "bonus": "誰と友だちかは mit で：Ich bin mit Lena befreundet."},
+      "B2-1661": {"pron": "フロイントシャフト シュリーセン", "tip": "schließen は「閉じる、結ぶ」🔐 契約を結ぶように友情も結びます。", "warn": "machen ではありません！Freundschaft schließen mit + 3格。"},
+      "A1-433": {"pron": "ベカンテ", "tip": "bekannt（知られた）から 👋 知っている人 = 知り合い！", "warn": "形容詞のように変化します：der Bekannte、でも ein Bekannter。"},
+      "A2-175": {"pron": "ズィッヒ トレッフェン", "tip": "treffen はもともと「的に当てる」🎯 待ち合わせ場所でぴたりと会う！", "bonus": "誰かと会うとき：Ich treffe mich mit Anna."},
+      "B1-177": {"pron": "フェアトラウエン", "tip": "英語の trust と同じ語源 🤞 trau と trust、音で覚えましょう。", "warn": "3格をとります：Ich vertraue dir.（dich ではありません！）"},
+      "B2-1782": {"pron": "ズィッヒ フェアラッセン アウフ", "tip": "「任せたよ」と寄りかかるイメージ 🛟 auf のあとは4格！", "warn": "sich なしの verlassen は「去る」：Er verlässt die Stadt."},
+      "B1-068": {"pron": "ウンターシュテュッツェン", "tip": "unter（下）+ stützen（支える）= 下から支える 🏗️", "warn": "非分離動詞なので ge- が付きません：hat unterstützt。"},
+      "B2-1981": {"pron": "ツザメンハルテン", "tip": "zusammen（一緒に）+ halten（つかむ）= 一致団結 🧲", "bonus": "名詞 der Zusammenhalt = 結束、団結"}
+    },
+    "culture": [
+      "ドイツの人は Freund と Bekannter をかなりはっきり分ける傾向があります。一緒に働いてたまにビールを飲む程度ならふつうは Bekannter で、Freund は本当に親しい人のためにとっておくことが多いです。",
+      "最初は少し距離を感じるかもしれませんが、一度友だちになると長く続く友情が多いです。スポーツや趣味のクラブ（Verein）に入るのは、ドイツで友だちを作る定番の方法です。",
+      "友だち同士はほぼいつも du で呼び合います。誰かが Sie から du に切り替えようと提案してくれたら、仲良くなったしるしです。🍻"
+    ],
+    "quiz": {"q": "男性の友だちを、誤解されないように紹介したいです。何と言いますか？", "o": ["Das ist mein Freund.", "Das ist ein Freund von mir.", "Das ist meine Freundschaft."], "a": 1, "why": "ein Freund von mir は「友だちの一人」なので、彼氏と誤解されません。"},
+    "outro": "大切な友だちを思い浮かべて、Ich kann mich auf dich verlassen. と声に出してみましょう。実際にメッセージで送ってみるのもいいですね！💌"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "shopping",
+  "ko": {
+    "title": "독일 가게에서 지갑 열기 전에 알아 둘 단어 10",
+    "hook": "독일에서 장보기, 가격표만 읽어도 반은 성공이에요. 나머지 반은 오늘 단어들이 해 줄 거예요.",
+    "intro": [
+      "토요일 오후, 일주일 치 장을 보러 마트에 갔더니 계산대 줄이 끝이 없어요. 내일은 일요일이라 가게가 다 문을 닫거든요. 겨우 계산을 마쳤는데, 영수증 달라는 말이 입에서 안 나와요.",
+      "오늘은 쇼핑할 때 꼭 필요한 단어 10개를 모았어요. 가격 묻기부터 할인 찾기, 영수증 받기, 교환하기까지 이 10개면 혼자서도 문제없어요. 🛍️"
+    ],
+    "words": {
+      "A1-073": {"pron": "아인카우펜", "tip": "ein(안으로) + kaufen(사다) = 장바구니 안에 쏙쏙 담기 🛒", "warn": "분리동사예요: Ich kaufe heute ein."},
+      "A2-230": {"pron": "게셰프트", "tip": "가게는 늘 바쁘게 일하는(schaffen) 곳 🏪 그래서 Geschäft!", "bonus": "‘장사, 사업’이라는 뜻도 있어요: Wie laufen die Geschäfte? = 장사는 잘돼요?"},
+      "A2-119": {"pron": "프라이스", "tip": "영어 price와 prize가 한 단어에 쏙 🏷️ 가격도 상도 다 Preis예요.", "bonus": "가성비 = das Preis-Leistungs-Verhältnis"},
+      "A1-320": {"pron": "코스텐", "tip": "영어 cost와 거의 같아요 💶 Was kostet das? 한 문장이면 어디서든 OK!", "bonus": "여러 개면 복수로: Was kosten die Äpfel?"},
+      "A1-082": {"pron": "토이어", "tip": "영어 dear(소중한)와 사촌이에요 💎 비싼 건 소중하니까요!", "warn": "비교급에서 e가 빠져요: teuer → teurer."},
+      "A1-083": {"pron": "빌리히", "tip": "계산서(bill)가 가벼우면 billig 🪙 싸다!", "warn": "‘싸구려’ 느낌이 날 수 있어요. 좋은 가격이라고 칭찬할 땐 günstig가 더 자연스러워요."},
+      "B1-258": {"pron": "라바트", "tip": "가격을 ‘탁’ 쳐서 내린다는 이탈리아어에서 왔어요 🔨", "bonus": "Gibt es Rabatt für Studenten? = 학생 할인 있어요?"},
+      "BL-17-08": {"pron": "레두치어트", "tip": "영어 reduced 그대로예요 📉 빨간 가격표 옆에 자주 붙어 있어요.", "bonus": "‘특가’는 im Angebot: Die Butter ist heute im Angebot."},
+      "A2-027": {"pron": "크비퉁", "tip": "quitt = 셈이 끝남 🧾 돈 냈으니 이제 우린 quitt!", "bonus": "마트 영수증은 der Kassenbon, 줄여서 der Bon이라고도 해요."},
+      "A2-061": {"pron": "움타우셴", "tip": "um(바꿔서) + tauschen(교환하다) = 다른 걸로 휙 바꾸기 🔄 환전도 Geld umtauschen!", "warn": "분리동사예요: Ich tausche die Schuhe um."}
+    },
+    "culture": [
+      "독일에서는 일요일에 대부분의 가게가 문을 닫아요. 그래서 토요일 마트는 늘 붐벼요. 기차역이나 공항 안 가게, 주유소 같은 예외도 있고, 평일 영업시간은 주(Bundesland)와 가게마다 달라요.",
+      "장바구니도 꼭 챙기세요. 계산대 봉투는 보통 따로 돈을 받아서 다들 천 가방(Stoffbeutel)을 들고 다녀요. 페트병과 캔에는 보증금(Pfand)이 붙어 있어서, 마트에 있는 기계에 넣으면 돌려받을 수 있어요.",
+      "매장에서 산 물건은 하자가 없으면 교환이 법적인 권리는 아니에요. 그래도 많은 가게가 영수증만 있으면 바꿔 줘요. 그러니 Quittung은 꼭 챙기기! 🧾"
+    ],
+    "quiz": {"q": "마음에 드는 재킷을 찾았는데 가격표가 없어요. 점원에게 뭐라고 물어볼까요?", "o": ["Ist das reduziert?", "Was kostet die Jacke?", "Kann ich das umtauschen?"], "a": 1, "why": "Was kostet …? = …은/는 얼마예요? 가격을 물을 때 쓰는 기본 문장이에요."},
+    "outro": "다음에 장 볼 때 Was kostet das? 하고 꼭 한 번 물어봐요. 계산 끝나고 Eine Quittung, bitte! 까지 하면 완벽해요. 🛒"
+  },
+  "en": {
+    "title": "Shopping in Germany: 10 words before you pay",
+    "hook": "Reading the price tag is half of shopping in Germany — these ten words do the other half.",
+    "intro": [
+      "It's Saturday afternoon and the supermarket queue goes on forever, because tomorrow is Sunday and everything will be shut. You finally reach the till, pay — and then can't remember how to ask for a receipt.",
+      "Today's ten words cover the whole trip: asking what something costs, spotting a discount, getting a receipt and exchanging something that doesn't fit. 🛍️"
+    ],
+    "words": {
+      "A1-073": {"pron": "EYEN-kow-fen", "tip": "ein (in) + kaufen (buy) = putting things in your basket 🛒", "warn": "Separable: Ich kaufe heute ein."},
+      "A2-230": {"pron": "ge-SHEFT", "tip": "A shop is a place where people work hard (schaffen) 🏪 so it's a Geschäft.", "bonus": "It also means business: Wie laufen die Geschäfte? = How's business?"},
+      "A2-119": {"pron": "PRICE", "tip": "English price and prize in one word 🏷️ Both are Preis.", "bonus": "value for money = das Preis-Leistungs-Verhältnis"},
+      "A1-320": {"pron": "KOS-ten", "tip": "Just like English cost 💶 Was kostet das? works in every shop.", "bonus": "For more than one thing: Was kosten die Äpfel?"},
+      "A1-082": {"pron": "TOY-er", "tip": "A cousin of English dear 💎 Expensive things are dear to us!", "warn": "The comparative drops an e: teuer → teurer."},
+      "A1-083": {"pron": "BILL-ish", "tip": "A light bill means billig 🪙 cheap!", "warn": "It can sound cheap and nasty. To praise a good price, günstig is more natural."},
+      "B1-258": {"pron": "ra-BAT", "tip": "From Italian for knocking the price down 🔨", "bonus": "Gibt es Rabatt für Studenten? = Is there a student discount?"},
+      "BL-17-08": {"pron": "reh-doo-TSEERT", "tip": "It's simply English reduced 📉 Look for it next to red price tags.", "bonus": "on special offer = im Angebot: Die Butter ist heute im Angebot."},
+      "A2-027": {"pron": "KVIT-toong", "tip": "quitt = square, settled 🧾 You've paid, so now you're quits!", "bonus": "A till receipt is also called der Kassenbon or just der Bon."},
+      "A2-061": {"pron": "OOM-tow-shen", "tip": "um (round, differently) + tauschen (swap) = swap it for another 🔄 Changing money too: Geld umtauschen.", "warn": "Separable: Ich tausche die Schuhe um."}
+    },
+    "culture": [
+      "Most shops in Germany are closed on Sundays, which is why supermarkets are so busy on Saturdays. Shops in stations and airports and petrol stations are common exceptions, and weekday opening hours depend on the state and the shop.",
+      "Bring your own bag. Bags at the till usually cost extra, so many people carry a cotton bag (Stoffbeutel). Plastic bottles and cans carry a deposit (Pfand), which you get back by feeding them into a machine at the supermarket.",
+      "If you buy something in a shop and it isn't faulty, an exchange isn't a legal right. Still, many shops will swap it if you have the receipt — so hold on to your Quittung! 🧾"
+    ],
+    "quiz": {"q": "You've found a jacket you like, but there's no price tag. What do you ask the assistant?", "o": ["Ist das reduziert?", "Was kostet die Jacke?", "Kann ich das umtauschen?"], "a": 1, "why": "Was kostet …? = How much is …? It's the basic way to ask a price."},
+    "outro": "Next time you shop, ask Was kostet das? at least once. Add Eine Quittung, bitte! at the till and you're a pro. 🛒"
+  },
+  "ja": {
+    "title": "ドイツのお店で使える買い物ドイツ語10",
+    "hook": "ドイツでの買い物、値札が読めたら半分成功。残りの半分は今日の単語におまかせです。",
+    "intro": [
+      "土曜の午後、1週間分の買い出しにスーパーへ行くと、レジは長蛇の列。明日は日曜日でお店が閉まるからです。やっと会計が終わったのに、「レシートください」がとっさに出てきません。",
+      "今日は買い物で必ず使う単語を10個集めました。値段を聞く、割引を見つける、レシートをもらう、交換をお願いする。この10個があれば一人で大丈夫です。🛍️"
+    ],
+    "words": {
+      "A1-073": {"pron": "アインカウフェン", "tip": "ein（中へ）+ kaufen（買う）= かごの中にポイポイ入れる 🛒", "warn": "分離動詞です：Ich kaufe heute ein."},
+      "A2-230": {"pron": "ゲシェフト", "tip": "お店は忙しく働く（schaffen）ところ 🏪 だから Geschäft！", "bonus": "「商売・ビジネス」の意味も：Wie laufen die Geschäfte? = 商売はどうですか？"},
+      "A2-119": {"pron": "プライス", "tip": "英語の price と prize がひとつに 🏷️ 値段も賞も Preis です。", "bonus": "コスパ = das Preis-Leistungs-Verhältnis"},
+      "A1-320": {"pron": "コステン", "tip": "英語の cost とそっくり 💶 Was kostet das? のひとことでどこでもOK！", "bonus": "複数なら：Was kosten die Äpfel?"},
+      "A1-082": {"pron": "トイアー", "tip": "英語の dear（大切な）のいとこ 💎 高いものは大切ですからね！", "warn": "比較級では e が落ちます：teuer → teurer."},
+      "A1-083": {"pron": "ビリヒ", "tip": "請求書（bill）が軽ければ billig 🪙 安い！", "warn": "「安っぽい」感じになることも。お得な値段をほめるなら günstig のほうが自然です。"},
+      "B1-258": {"pron": "ラバット", "tip": "値段を「トン」とたたいて下げる、というイタリア語から 🔨", "bonus": "Gibt es Rabatt für Studenten? = 学割はありますか？"},
+      "BL-17-08": {"pron": "レドゥツィーアト", "tip": "英語の reduced そのまま 📉 赤い値札の横によく書いてあります。", "bonus": "「特売」は im Angebot：Die Butter ist heute im Angebot."},
+      "A2-027": {"pron": "クヴィットゥング", "tip": "quitt = 貸し借りなし 🧾 払ったからもう quitt！", "bonus": "スーパーのレシートは der Kassenbon、略して der Bon とも言います。"},
+      "A2-061": {"pron": "ウムタウシェン", "tip": "um（別のものに）+ tauschen（交換する）= ほかのものにチェンジ 🔄 両替も Geld umtauschen！", "warn": "分離動詞です：Ich tausche die Schuhe um."}
+    },
+    "culture": [
+      "ドイツでは日曜日、ほとんどのお店が閉まります。だから土曜日のスーパーはいつも混雑。駅や空港の中のお店、ガソリンスタンドなどは例外で、平日の営業時間は州（Bundesland）やお店によって違います。",
+      "エコバッグも忘れずに。レジ袋はたいてい有料なので、みんな布のバッグ（Stoffbeutel）を持ち歩いています。ペットボトルや缶にはデポジット（Pfand）がついていて、スーパーの回収機に入れるとお金が戻ってきます。",
+      "お店で買った商品は、不良品でなければ交換は法律上の権利ではありません。それでも多くのお店はレシートがあれば交換してくれます。Quittung は必ずもらっておきましょう！🧾"
+    ],
+    "quiz": {"q": "気に入ったジャケットを見つけましたが、値札がありません。店員さんに何と聞きますか？", "o": ["Ist das reduziert?", "Was kostet die Jacke?", "Kann ich das umtauschen?"], "a": 1, "why": "Was kostet …? = …はいくらですか？値段を聞く基本の文です。"},
+    "outro": "次の買い物で、Was kostet das? と一度聞いてみましょう。レジで Eine Quittung, bitte! まで言えたら完璧です。🛒"
+  }
+}

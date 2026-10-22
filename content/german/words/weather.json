@@ -1,0 +1,84 @@
+{
+  "key": "weather",
+  "ko": {
+    "title": "독일 사람과 스몰토크 시작하는 날씨 단어 10",
+    "hook": "독일에서 대화가 막힐 땐 날씨 얘기 하나면 충분해요.",
+    "intro": [
+      "베를린 버스 정류장에서 옆 할머니가 하늘을 보며 한마디 하세요. \"Schon wieder Regen!\" 웃으면서 대답하고 싶은데, 머릿속이 하얘져요. 독일 날씨는 하루에도 몇 번씩 바뀌니까 이런 순간이 정말 자주 와요.",
+      "오늘은 날씨 얘기할 때 꼭 필요한 단어 10개예요. 이걸로 일기 예보를 알아듣고, 우산을 챙길지 정하고, 이웃과 가볍게 수다도 떨 수 있어요. ☔"
+    ],
+    "words": {
+      "A1-043": {"pron": "베터", "tip": "영어 weather와 쌍둥이예요 🌦️ w를 'ㅂ'으로 읽으면 Wetter!", "bonus": "날씨가 좋아요 = Das Wetter ist schön."},
+      "A1-138": {"pron": "조네", "tip": "sun과 같은 뿌리 ☀️ 해는 die, 달은 der Mond — 한국어 느낌과 반대라서 오히려 잘 외워져요.", "bonus": "형용사: sonnig = 화창한"},
+      "A1-044": {"pron": "레겐", "tip": "영어 rain과 같은 뿌리 🌧️ '레~겐' 하고 길게 늘이면 장맛비 소리 같아요.", "bonus": "우산 = der Regenschirm, 무지개 = der Regenbogen"},
+      "A2-337": {"pron": "레그넨", "tip": "der Regen + -en = 비가 오다 ☔ 주어는 언제나 es!", "warn": "주어 없이 쓰지 않아요: Es regnet. (Regnet. ✗)"},
+      "A1-139": {"pron": "슈네", "tip": "snow와 s-n이 똑같아요 ❄️ 앞에 '슈'만 붙이면 Schnee!", "bonus": "눈이 오다 = schneien: Es schneit."},
+      "A1-140": {"pron": "빈트", "tip": "철자는 영어 wind랑 완전히 같아요 🌬️ 읽을 때만 '빈트'!", "bonus": "바람 부는 = windig: Es ist windig."},
+      "A2-427": {"pron": "베뵐크트", "tip": "안에 die Wolke(구름)가 숨어 있어요 ☁️ 구름을 뒤집어쓴 하늘 = bewölkt!", "bonus": "반대말: sonnig(화창한), wolkenlos(구름 한 점 없는)"},
+      "A2-145": {"pron": "게비터", "tip": "ge- + Wetter = 날씨가 한꺼번에 몰려온 것 ⛈️ 천둥 번개 세트!", "bonus": "번개 = der Blitz, 천둥 = der Donner"},
+      "A1-487": {"pron": "그라트", "tip": "영어 grade, degree랑 친척이에요 🌡️ 온도계 눈금 한 칸 한 칸이 Grad!", "warn": "숫자 뒤에서도 복수형을 안 써요: 25 Grad (Grade ✗). 동사는 sind: Es sind 25 Grad."},
+      "B1-1402": {"pron": "베터포어헤어자게", "tip": "Wetter + vorher(미리) + sagen(말하다) = 날씨를 미리 말해 주는 것 📺 단어 자체가 설명서예요."}
+    },
+    "culture": [
+      "독일 사람들은 정말 날씨 얘기를 좋아해요. 엘리베이터에서도, 계산대에서도 \"Schönes Wetter heute!\" 한마디면 대화가 시작돼요. 특히 해가 귀한 겨울이 지나고 첫 봄볕이 나면, 공원과 카페 테라스가 순식간에 꽉 차요.",
+      "4월 날씨는 하루에도 해, 비, 우박이 번갈아 와서 Aprilwetter라는 말이 따로 있어요. \"April, April, der macht, was er will.\"(4월은 제 맘대로야) 라는 속담도 있답니다.",
+      "그래서 독일 사람들이 자주 하는 말: \"Es gibt kein schlechtes Wetter, nur falsche Kleidung.\" 나쁜 날씨는 없고 잘못 입은 옷만 있을 뿐! 가방에 얇은 비옷 하나 넣어 다니는 사람이 많아요. 🧥"
+    ],
+    "quiz": {"q": "친구가 \"오늘 몇 도야?\"라고 물어요. 맞는 대답은?", "o": ["Es regnet seit Stunden.", "Es sind 18 Grad.", "Es gibt heute viel Schnee."], "a": 1, "why": "Es sind 18 Grad. = 18도야. 온도는 Grad로 말하고, 숫자 뒤에서도 Grad 그대로예요."},
+    "outro": "오늘 창밖을 보고 날씨를 독일어로 한 문장 말해 봐요. Heute ist es bewölkt, aber es regnet nicht! 🌤️"
+  },
+  "en": {
+    "title": "Talk about the weather like a German: 10 words",
+    "hook": "When a German conversation stalls, the weather will always rescue you.",
+    "intro": [
+      "You're waiting at a bus stop in Berlin and the older lady next to you looks up and sighs, \"Schon wieder Regen!\" You'd love to answer, but your mind goes blank. German weather changes several times a day, so moments like this come up a lot.",
+      "Today's ten words are the ones you need for weather chat. With them you can follow the forecast, decide whether to take an umbrella and have a quick moan with the neighbours. ☔"
+    ],
+    "words": {
+      "A1-043": {"pron": "VET-er", "tip": "A twin of English weather 🌦️ Just say the W like a V.", "bonus": "The weather is nice = Das Wetter ist schön."},
+      "A1-138": {"pron": "ZON-uh", "tip": "Same root as sun ☀️ The sun is feminine (die), the moon is masculine (der Mond) — the opposite of many languages.", "bonus": "Adjective: sonnig = sunny"},
+      "A1-044": {"pron": "RAY-gen", "tip": "Same family as rain 🌧️ Stretch out the ‘RAY’ and you can hear a long grey drizzle.", "bonus": "umbrella = der Regenschirm · rainbow = der Regenbogen"},
+      "A2-337": {"pron": "RAYG-nen", "tip": "der Regen + -en = to rain ☔ Just like English, it always needs an ‘it’: es.", "warn": "Never without es: Es regnet."},
+      "A1-139": {"pron": "SHNAY", "tip": "Snow with an extra ‘sh’ ❄️ s-n-o → Schn-ee.", "bonus": "to snow = schneien: Es schneit."},
+      "A1-140": {"pron": "VINT", "tip": "Spelt exactly like English wind 🌬️ but the W sounds like V and the d like t.", "bonus": "windy = windig: Es ist windig."},
+      "A2-427": {"pron": "buh-VURLKT", "tip": "die Wolke (cloud) is hiding inside ☁️ A sky wrapped in clouds is bewölkt.", "bonus": "Opposites: sonnig (sunny), wolkenlos (cloudless)"},
+      "A2-145": {"pron": "guh-VIT-er", "tip": "ge- + Wetter = all the weather at once ⛈️ Thunder and lightning included.", "bonus": "lightning = der Blitz · thunder = der Donner"},
+      "A1-487": {"pron": "GRAHT", "tip": "A cousin of grade and degree 🌡️ Each little step on the thermometer is a Grad.", "warn": "No plural after numbers: 25 Grad, not Grade. And the verb is plural: Es sind 25 Grad."},
+      "B1-1402": {"pron": "VET-er-for-hair-zah-guh", "tip": "Wetter + vorher (beforehand) + sagen (to say) = saying the weather in advance 📺 The word explains itself."}
+    },
+    "culture": [
+      "Germans love talking about the weather. In the lift or at the till, a simple \"Schönes Wetter heute!\" is enough to start a chat. After a long grey winter, the first sunny spring day fills every park and café terrace in minutes.",
+      "April weather can bring sun, rain and hail in a single afternoon, so German has a word for it: Aprilwetter. There's even a rhyme: \"April, April, der macht, was er will.\" (April does whatever it wants.)",
+      "That's why you'll often hear: \"Es gibt kein schlechtes Wetter, nur falsche Kleidung.\" There's no bad weather, only the wrong clothes. Plenty of people carry a light rain jacket in their bag just in case. 🧥"
+    ],
+    "quiz": {"q": "A friend asks you how warm it is today. What do you say?", "o": ["Es regnet seit Stunden.", "Es sind 18 Grad.", "Es gibt heute viel Schnee."], "a": 1, "why": "Es sind 18 Grad. = It's 18 degrees — temperature uses Grad, with no plural ending."},
+    "outro": "Look out of the window and describe today's weather in one German sentence. Heute ist es bewölkt, aber es regnet nicht! 🌤️"
+  },
+  "ja": {
+    "title": "ドイツ人との雑談が弾む天気の単語10",
+    "hook": "ドイツで会話に困ったら、天気の話をすれば間違いありません。",
+    "intro": [
+      "ベルリンのバス停で、隣のおばあさんが空を見上げてひとこと。「Schon wieder Regen!」笑顔で返したいのに、頭が真っ白に。ドイツの天気は一日に何度も変わるので、こんな場面は本当によくあります。",
+      "今日は天気の話に欠かせない単語を10個集めました。これで天気予報を聞き取って、傘を持っていくか決めて、ご近所さんと軽くおしゃべりもできます。☔"
+    ],
+    "words": {
+      "A1-043": {"pron": "ヴェッター", "tip": "英語の weather とそっくり 🌦️ W を「ヴ」と読めば Wetter！", "bonus": "いい天気です = Das Wetter ist schön."},
+      "A1-138": {"pron": "ゾンネ", "tip": "英語の sun と同じ語源 ☀️ 太陽は女性の die、月は男性の der Mond です。", "bonus": "形容詞：sonnig = 晴れた"},
+      "A1-044": {"pron": "レーゲン", "tip": "英語の rain と同じ語源 🌧️「レーーゲン」と伸ばすと、しとしと続く雨みたい。", "bonus": "傘 = der Regenschirm、虹 = der Regenbogen"},
+      "A2-337": {"pron": "レーグネン", "tip": "der Regen + -en = 雨が降る ☔ 主語はいつも es！", "warn": "主語を省きません：Es regnet."},
+      "A1-139": {"pron": "シュネー", "tip": "snow の s-n がそのまま ❄️ 頭に「シュ」をつければ Schnee！", "bonus": "雪が降る = schneien：Es schneit."},
+      "A1-140": {"pron": "ヴィント", "tip": "綴りは英語の wind とまったく同じ 🌬️ 読み方だけ「ヴィント」！", "bonus": "風が強い = windig：Es ist windig."},
+      "A2-427": {"pron": "ベヴェルクト", "tip": "中に die Wolke（雲）が隠れています ☁️ 雲をかぶった空 = bewölkt！", "bonus": "反対語：sonnig（晴れた）、wolkenlos（雲ひとつない）"},
+      "A2-145": {"pron": "ゲヴィッター", "tip": "ge- + Wetter = 天気がまとめて押し寄せる ⛈️ 雷と稲妻のセット！", "bonus": "稲妻 = der Blitz、雷鳴 = der Donner"},
+      "A1-487": {"pron": "グラート", "tip": "英語の grade、degree の親戚 🌡️ 温度計の目盛りひとつひとつが Grad！", "warn": "数字の後でも複数形にしません：25 Grad（Grade は×）。動詞は sind：Es sind 25 Grad."},
+      "B1-1402": {"pron": "ヴェッターフォーアヘーアザーゲ", "tip": "Wetter + vorher（前もって）+ sagen（言う）= 天気を前もって言うこと 📺 単語そのものが説明書です。"}
+    },
+    "culture": [
+      "ドイツの人は天気の話が大好きです。エレベーターでもレジでも「Schönes Wetter heute!」のひとことで会話が始まります。長くて暗い冬のあと、春の最初の晴れの日には公園もカフェのテラスもあっという間に満席です。",
+      "4月は晴れ、雨、あられが一日のうちに入れ替わるので、Aprilwetter という言葉まであります。「April, April, der macht, was er will.」（4月は好き勝手）ということわざも有名です。",
+      "だからドイツでよく聞くのがこの言葉。「Es gibt kein schlechtes Wetter, nur falsche Kleidung.」悪い天気はない、あるのは間違った服だけ！薄いレインジャケットをいつもかばんに入れている人も多いです。🧥"
+    ],
+    "quiz": {"q": "友だちに「今日は何度？」と聞かれました。正しい答えは？", "o": ["Es regnet seit Stunden.", "Es sind 18 Grad.", "Es gibt heute viel Schnee."], "a": 1, "why": "Es sind 18 Grad. = 18度だよ。気温は Grad で言い、数字の後でも形は変わりません。"},
+    "outro": "今日は窓の外を見て、天気をドイツ語でひとこと言ってみましょう。Heute ist es bewölkt, aber es regnet nicht! 🌤️"
+  }
+}

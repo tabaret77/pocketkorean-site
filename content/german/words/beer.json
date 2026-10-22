@@ -1,0 +1,84 @@
+{
+  "key": "beer",
+  "ko": {
+    "title": "Prost! 독일 술자리에서 쓰는 단어 10",
+    "hook": "독일 술자리에서 제일 먼저 배우는 말은 ‘Prost!’, 그다음은 오늘 배울 10개예요.",
+    "intro": [
+      "퇴근 후 동료가 ‘Gehen wir noch in die Kneipe?’ 하고 물어요. 메뉴판엔 맥주 종류가 끝없이 이어지고, 다들 잔을 들며 눈을 맞추는데 나만 어색해요.",
+      "오늘은 맥주와 와인 자리에서 바로 쓰는 단어 10개를 모았어요. 주문부터 건배, 양조장 구경까지 자신 있게 할 수 있을 거예요. 🍺"
+    ],
+    "words": {
+      "A1-251": {"pron": "비어", "tip": "영어 beer와 소리가 거의 같아요 🍺 주문은 간단하게 Ein Bier, bitte!", "warn": "주문할 때는 복수형 없이 Zwei Bier, bitte!라고 해요."},
+      "A1-250": {"pron": "바인", "tip": "W는 v 소리라서 ‘와인’이 아니라 ‘바인’ 🍷 영어 vine(포도나무)을 떠올려요!", "bonus": "백포도주 = der Weißwein"},
+      "A2-140": {"pron": "플라셰", "tip": "영어 flask와 같은 뿌리 🍾 -e로 끝나는 명사는 대부분 die!", "bonus": "병 보증금 = das Pfand · 병을 돌려주면 돈이 돌아와요."},
+      "A1-114": {"pron": "글라스", "tip": "영어 glass 그대로 🥛 그런데 of 없이 ein Glas Wasser!", "warn": "복수는 움라우트가 생겨요: zwei Gläser"},
+      "A2-1041": {"pron": "로트바인", "tip": "rot(빨간) + Wein = 레드 와인 🍷 색깔 + Wein으로 끝!", "bonus": "로제 와인은 der Roséwein, 독일 식당에선 Rosé라고도 해요."},
+      "A2-242": {"pron": "크나이페", "tip": "‘크나이페’, 이름부터 동네 단골집 냄새가 나죠 🍻 옛날 대학생 은어에서 왔어요.", "bonus": "조금 세련된 술집은 die Bar라고 해요."},
+      "B1-2326": {"pron": "젝트", "tip": "이탈리아어 secco(드라이한)에서 왔어요 🥂 새해 자정엔 Sekt로 건배!", "warn": "die Sekte는 ‘사이비 종교’! 와인은 꼭 der Sekt예요."},
+      "C1-313": {"pron": "안슈토센", "tip": "an(~에) + stoßen(부딪치다) = 잔을 쨍 부딪치기 🥂", "warn": "분리동사예요: Wir stoßen an! 누구를 위해 건배하는지는 auf + 4격"},
+      "B2-3882": {"pron": "브라우어라이", "tip": "brauen(양조하다, 영어 brew) + -erei(작업장) 🏭 -ei로 끝나면 언제나 die!", "bonus": "빵집 die Bäckerei도 같은 -erei 가족이에요."},
+      "B1-420": {"pron": "알코홀", "tip": "아랍어 al-kuḥl에서 왔어요 🧪 al-은 아랍어 관사예요!", "bonus": "무알코올 맥주 = alkoholfreies Bier"}
+    },
+    "culture": [
+      "독일에서 건배할 때는 잔을 부딪치면서 상대의 눈을 꼭 봐요. 눈을 안 보면 7년 동안 운이 나쁘다는 농담도 있어요. 맥주는 ‘Prost!’, 와인은 ‘Zum Wohl!’이라고 많이 해요.",
+      "독일 맥주라고 다 같은 게 아니에요. 지역마다 자랑하는 맥주가 있어서 쾰른에서는 작은 잔의 Kölsch, 뒤셀도르프에서는 Altbier, 바이에른에서는 Weißbier를 많이 마셔요. 프랑켄 지방의 밤베르크는 작은 양조장이 많기로 유명해요.",
+      "와인 하면 프랑스를 떠올리지만, 독일도 라인강과 모젤강을 따라 리슬링(Riesling)으로 유명한 와인 산지가 있어요. 🍇"
+    ],
+    "quiz": {"q": "친구 생일에 다 같이 잔을 들었어요. ‘네 생일을 위해 건배하자!’는?", "o": ["Lasst uns auf deinen Geburtstag anstoßen!", "Lasst uns deinen Geburtstag abheben!", "Lasst uns zu deinem Geburtstag bremsen!"], "a": 0, "why": "auf + 4격 + anstoßen = ~을 위해 건배하다예요."},
+    "outro": "오늘 저녁 음료를 마실 때, 물이든 맥주든 눈을 맞추며 ‘Prost!’ 한 번 해 봐요. 🥂"
+  },
+  "en": {
+    "title": "Prost! 10 German words for the pub and the wine bar",
+    "hook": "The first word you learn at a German table is ‘Prost!’ — the next ten are right here.",
+    "intro": [
+      "After work a colleague asks, ‘Gehen wir noch in die Kneipe?’ The menu lists more beers than you can count, everyone raises their glass and locks eyes — and you feel a bit lost.",
+      "Here are ten words for evenings with beer and wine. You'll be able to order, toast and even chat your way round a brewery. 🍺"
+    ],
+    "words": {
+      "A1-251": {"pron": "BEER", "tip": "Sounds almost exactly like English beer 🍺 Order it simply: Ein Bier, bitte!", "warn": "When ordering, no plural: Zwei Bier, bitte!"},
+      "A1-250": {"pron": "VINE", "tip": "W sounds like v, so it's ‘vine’ 🍷 Grapes grow on vines — easy!", "bonus": "white wine = der Weißwein"},
+      "A2-140": {"pron": "FLAH-shuh", "tip": "Same root as English flask 🍾 Most nouns ending in -e are die.", "bonus": "bottle deposit = das Pfand — bring the bottle back, get money back."},
+      "A1-114": {"pron": "GLAHS", "tip": "Just like English glass 🥛 but no ‘of’: ein Glas Wasser.", "warn": "The plural gets an umlaut: zwei Gläser"},
+      "A2-1041": {"pron": "ROHT-vine", "tip": "rot (red) + Wein = red wine 🍷 Colour + Wein, done.", "bonus": "Rosé is der Roséwein, often just Rosé on the menu."},
+      "A2-242": {"pron": "KNY-puh", "tip": "Say the K! ‘k-NY-puh’ sounds like a cosy corner pub 🍻 It came from old student slang.", "bonus": "A smarter place is die Bar."},
+      "B1-2326": {"pron": "ZEKT", "tip": "From Italian secco (dry) 🥂 At midnight on New Year's Eve, it's Sekt time.", "warn": "die Sekte means ‘cult’! The drink is der Sekt."},
+      "C1-313": {"pron": "AHN-shtoh-sen", "tip": "an (against) + stoßen (bump) = bump glasses together 🥂", "warn": "Separable: Wir stoßen an! Toast to something with auf + acc."},
+      "B2-3882": {"pron": "brow-uh-RYE", "tip": "brauen (brew) + -erei (workplace) = brewery 🏭 Nouns in -ei are always die.", "bonus": "The bakery, die Bäckerei, is in the same -erei family."},
+      "B1-420": {"pron": "AL-koh-hohl", "tip": "From Arabic al-kuḥl 🧪 That al- is the Arabic word for ‘the’.", "bonus": "alcohol-free beer = alkoholfreies Bier"}
+    },
+    "culture": [
+      "When Germans clink glasses, they look each other in the eye. There's a joke that if you don't, you'll have seven years of bad luck. With beer people usually say ‘Prost!’, with wine often ‘Zum Wohl!’",
+      "German beer isn't one thing. Regions are proud of their own styles: small glasses of Kölsch in Cologne, Altbier in Düsseldorf, Weißbier in Bavaria. Bamberg in Franconia is famous for its many small breweries.",
+      "Wine makes people think of France, but Germany has well-known wine regions too, especially along the Rhine and the Moselle, famous for Riesling. 🍇"
+    ],
+    "quiz": {"q": "Everyone raises their glass at your friend's birthday. How do you say ‘Let's toast to your birthday!’?", "o": ["Lasst uns auf deinen Geburtstag anstoßen!", "Lasst uns deinen Geburtstag abheben!", "Lasst uns zu deinem Geburtstag bremsen!"], "a": 0, "why": "auf + accusative + anstoßen means to toast to something."},
+    "outro": "Next time you have a drink — water counts — look someone in the eye and say ‘Prost!’ 🥂"
+  },
+  "ja": {
+    "title": "Prost! ドイツの酒場で使える単語10",
+    "hook": "ドイツの飲み会で最初に覚えるのは「Prost!」、その次が今日の10語です。",
+    "intro": [
+      "仕事のあと、同僚に「Gehen wir noch in die Kneipe?」と誘われました。メニューにはビールの種類がずらり、みんなグラスを持って目を合わせるのに、自分だけぎこちない…。",
+      "今日はビールとワインの席ですぐ使える単語を10個集めました。注文から乾杯、醸造所めぐりまで自信を持って楽しめますよ。🍺"
+    ],
+    "words": {
+      "A1-251": {"pron": "ビーア", "tip": "英語の beer とほぼ同じ音 🍺 注文はシンプルに Ein Bier, bitte!", "warn": "注文するときは複数形にせず Zwei Bier, bitte! と言います。"},
+      "A1-250": {"pron": "ヴァイン", "tip": "W は v の音なので「ワイン」ではなく「ヴァイン」🍷 英語の vine（ぶどうのつる）を思い出して！", "bonus": "白ワイン = der Weißwein"},
+      "A2-140": {"pron": "フラッシェ", "tip": "英語の flask と同じ語源 🍾 -e で終わる名詞はたいてい die！", "bonus": "瓶のデポジット = das Pfand。瓶を返すとお金が戻ってきます。"},
+      "A1-114": {"pron": "グラース", "tip": "英語の glass そのまま 🥛 でも of なしで ein Glas Wasser！", "warn": "複数形はウムラウトがつきます：zwei Gläser"},
+      "A2-1041": {"pron": "ロートヴァイン", "tip": "rot（赤い）+ Wein = 赤ワイン 🍷 色 + Wein で完成！", "bonus": "ロゼは der Roséwein、メニューでは Rosé とだけ書くことも。"},
+      "A2-242": {"pron": "クナイペ", "tip": "K もちゃんと発音して「クナイペ」、なじみの居酒屋の雰囲気 🍻 昔の学生スラングから来ています。", "bonus": "少しおしゃれなお店は die Bar です。"},
+      "B1-2326": {"pron": "ゼクト", "tip": "イタリア語の secco（辛口）から 🥂 大みそかの真夜中は Sekt で乾杯！", "warn": "die Sekte は「カルト教団」！お酒は必ず der Sekt です。"},
+      "C1-313": {"pron": "アンシュトーセン", "tip": "an（〜に）+ stoßen（ぶつける）= グラスをカチンと合わせる 🥂", "warn": "分離動詞です：Wir stoßen an! 何に乾杯するかは auf + 4格"},
+      "B2-3882": {"pron": "ブラオエライ", "tip": "brauen（醸造する、英語の brew）+ -erei（作業場）🏭 -ei で終わる名詞はいつも die！", "bonus": "パン屋さん die Bäckerei も同じ -erei の仲間です。"},
+      "B1-420": {"pron": "アルコホール", "tip": "アラビア語の al-kuḥl から 🧪 al- はアラビア語の冠詞です！", "bonus": "ノンアルコールビール = alkoholfreies Bier"}
+    },
+    "culture": [
+      "ドイツで乾杯するときは、グラスを合わせながら相手の目をしっかり見ます。目を見ないと7年間運が悪くなる、という冗談もあるほどです。ビールなら「Prost!」、ワインなら「Zum Wohl!」とよく言います。",
+      "ドイツビールとひと口に言っても、地域ごとに自慢のビールがあります。ケルンでは小さなグラスの Kölsch、デュッセルドルフでは Altbier、バイエルンでは Weißbier がよく飲まれます。フランケン地方のバンベルクは、小さな醸造所が多いことで有名です。",
+      "ワインといえばフランスを思い浮かべますが、ドイツにもライン川やモーゼル川沿いに、リースリング（Riesling）で知られるワインの産地があります。🍇"
+    ],
+    "quiz": {"q": "友だちの誕生日にみんなでグラスを持ちました。「誕生日に乾杯しよう！」は？", "o": ["Lasst uns auf deinen Geburtstag anstoßen!", "Lasst uns deinen Geburtstag abheben!", "Lasst uns zu deinem Geburtstag bremsen!"], "a": 0, "why": "auf + 4格 + anstoßen で「〜に乾杯する」という意味です。"},
+    "outro": "今夜飲み物を飲むときは、水でもビールでも、目を合わせて「Prost!」と言ってみましょう。🥂"
+  }
+}

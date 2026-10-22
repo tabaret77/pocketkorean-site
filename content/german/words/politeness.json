@@ -1,0 +1,84 @@
+{
+  "key": "politeness",
+  "ko": {
+    "title": "고마워요·미안해요·부탁해요, 독일어 매너 단어 10",
+    "hook": "단어 몇 개만 바꿔도 독일 사람들 표정이 확 달라져요.",
+    "intro": [
+      "빵집에서 손가락으로 가리키며 ‘Das!’ 한마디만 했더니 점원 표정이 살짝 굳었던 경험, 있지 않나요? 뜻은 통했는데 뭔가 부족했던 거죠.",
+      "오늘은 고맙다, 미안하다, 부탁한다는 말을 모았어요. 이 10개만 있으면 길을 묻고, 실수를 사과하고, 이웃에게 작은 부탁까지 예의 바르게 할 수 있어요. 🙏"
+    ],
+    "words": {
+      "A1-098": {"pron": "당케", "tip": "영어 thank와 쌍둥이 같은 사이 🙏", "bonus": "더 정중하게: Danke schön / Vielen Dank · 너도!: Danke, gleichfalls!"},
+      "A2-937": {"pron": "비테쇤", "tip": "Danke가 오면 Bitteschön으로 받아치는 핑퐁 🏓", "bonus": "물건을 건넬 때도 Bitteschön! = 여기 있어요 · 같은 답: Gern geschehen!"},
+      "A1-465": {"pron": "엔트슐디궁", "tip": "Schuld(잘못)를 없애(ent-) 주세요 😅 길 물을 때 첫마디로 딱!", "bonus": "말 걸 때: Entschuldigung, wo ist der Bahnhof?"},
+      "A2-176": {"pron": "지히 엔트슐디겐", "tip": "잘못(Schuld)을 털어내는(ent-) 동사 🧹", "warn": "재귀동사예요. 사람은 bei, 이유는 für: Ich entschuldige mich bei dir für die Verspätung."},
+      "A2-505": {"pron": "라이트툰", "tip": "Leid(슬픔)를 끼쳐서 미안한 마음 😢", "warn": "주어는 es, 나는 3격 mir: Es tut mir leid. (Ich tue leid ✗)", "bonus": "위로할 때도 써요: Das tut mir leid. = 그거 참 안됐다"},
+      "B1-1364": {"pron": "페어차이웅", "tip": "‘용서(Verzeihung)를 구합니다’, 살짝 우아한 사과 🎩", "bonus": "동사 verzeihen = 용서하다: Verzeihen Sie bitte!"},
+      "A2-307": {"pron": "비텐", "tip": "bitte의 동사 버전 🤲 영어 bid와 먼 친척이에요.", "warn": "bitten(부탁) · bieten(제공) · beten(기도) 헷갈리지 않기! 부탁할 땐 um + 4격: um Hilfe bitten"},
+      "B1-147": {"pron": "지히 베당켄", "tip": "be- + Dank(감사) = 감사를 정식으로 전하다 💌", "bonus": "Ich bedanke mich bei Ihnen für die Einladung. = 초대해 주셔서 감사합니다."},
+      "B2-2871": {"pron": "아이넨 게팔렌 툰", "tip": "Gefallen은 호의 선물 🎁 Kannst du mir einen Gefallen tun? = 부탁 하나 들어줄래?", "warn": "der Gefallen(호의) ≠ das Gefallen(마음에 듦). 관사가 달라요!"},
+      "A2-083": {"pron": "회플리히", "tip": "Hof(궁정) + -lich = 궁정 사람처럼 👑 영어 courteous ← court와 같은 발상", "bonus": "반대말 unhöflich · 명사는 die Höflichkeit"}
+    },
+    "culture": [
+      "독일에서 누가 음료를 권할 때 ‘Danke’라고만 하면 ‘아니요, 괜찮아요’로 들릴 때가 많아요. 받고 싶으면 ‘Ja, bitte!’나 ‘Gerne!’라고 분명하게 말하는 게 좋아요.",
+      "작은 가게나 병원 대기실에 들어갈 때 ‘Hallo’나 ‘Guten Tag’, 나갈 때 ‘Tschüss’나 ‘Auf Wiedersehen’이라고 인사하는 사람이 많아요. 계산대에서도 인사는 기본이에요.",
+      "독일 사람들은 말이 직설적인 편이라 처음엔 차갑게 느껴질 수 있어요. 하지만 대부분 무례해서가 아니라, 분명하게 말하는 게 오히려 예의라고 생각하는 거예요. 🙂"
+    ],
+    "quiz": {"q": "뒤에 오는 사람을 위해 문을 잡아 줬더니 ‘Danke!’라고 해요. 뭐라고 답할까요?", "o": ["Bitteschön!", "Es tut mir leid.", "Verzeihung!"], "a": 0, "why": "Bitteschön! = 천만에요. Danke에 대한 가장 자연스러운 대답이에요."},
+    "outro": "오늘은 Danke, Bitteschön, Entschuldigung을 하루에 한 번씩 꼭 써 보기로 해요. 빵집 점원 표정이 달라지는지 확인해 보세요! 🥨"
+  },
+  "en": {
+    "title": "Please, thank you, sorry: 10 German words for good manners",
+    "hook": "Swap in a few of these words and you'll notice people in Germany warm up to you straight away.",
+    "intro": [
+      "Have you ever pointed at a pastry and just said ‘Das!’, then noticed the baker's smile fade a little? You got your pastry, but something was missing.",
+      "Today's ten words are all about saying thank you, sorry and please. With them you can ask for directions, apologise for a mistake and even ask a neighbour for a small favour, all politely. 🙏"
+    ],
+    "words": {
+      "A1-098": {"pron": "DAN-kuh", "tip": "Practically a twin of English thank 🙏", "bonus": "More polite: Danke schön / Vielen Dank · ‘You too!’: Danke, gleichfalls!"},
+      "A2-937": {"pron": "BIT-uh-shern", "tip": "Danke comes over the net, Bitteschön goes back 🏓", "bonus": "Also when handing something over: Bitteschön! = Here you are · Same reply: Gern geschehen!"},
+      "A1-465": {"pron": "ent-SHOOL-di-goong", "tip": "ent- (remove) + Schuld (guilt) = please take my guilt away 😅", "bonus": "To get someone's attention: Entschuldigung, wo ist der Bahnhof?"},
+      "A2-176": {"pron": "zikh ent-SHOOL-di-gen", "tip": "The verb that brushes the guilt (Schuld) away 🧹", "warn": "It's reflexive. To a person: bei; for something: für. Ich entschuldige mich bei dir für die Verspätung."},
+      "A2-505": {"pron": "LITE-toon", "tip": "Leid means sorrow — something ‘does sorrow’ to me 😢", "warn": "The subject is es and you are dative mir: Es tut mir leid. (Not: Ich tue leid.)", "bonus": "For sympathy too: Das tut mir leid. = I'm sorry to hear that."},
+      "B1-1364": {"pron": "fair-TSY-oong", "tip": "Literally ‘forgiveness’ — a slightly elegant way to say sorry 🎩", "bonus": "The verb verzeihen = to forgive: Verzeihen Sie bitte!"},
+      "A2-307": {"pron": "BIT-en", "tip": "The verb behind bitte 🤲 A distant cousin of English bid.", "warn": "Don't mix up bitten (ask), bieten (offer) and beten (pray). You ask for something with um + acc.: um Hilfe bitten"},
+      "B1-147": {"pron": "zikh buh-DAN-ken", "tip": "be- + Dank (thanks) = to give your thanks properly 💌", "bonus": "Ich bedanke mich bei Ihnen für die Einladung. = Thank you for the invitation."},
+      "B2-2871": {"pron": "EYE-nen guh-FAL-en TOON", "tip": "A Gefallen is a little gift of kindness 🎁 Kannst du mir einen Gefallen tun? = Could you do me a favour?", "warn": "der Gefallen (favour) is not das Gefallen (liking). Same spelling, different article!"},
+      "A2-083": {"pron": "HURF-likh", "tip": "Hof (court) + -lich = behaving like someone at court 👑 Just like courteous comes from court.", "bonus": "The opposite: unhöflich · the noun: die Höflichkeit"}
+    },
+    "culture": [
+      "If someone offers you a drink in Germany and you just say ‘Danke’, it often sounds like ‘No, thanks’. If you'd like it, say ‘Ja, bitte!’ or ‘Gerne!’ clearly.",
+      "Many people say ‘Hallo’ or ‘Guten Tag’ when they walk into a small shop or a doctor's waiting room, and ‘Tschüss’ or ‘Auf Wiedersehen’ when they leave. A greeting at the till is normal too.",
+      "Germans tend to speak quite directly, which can feel cold at first. But usually it isn't rudeness: many people see being clear as the polite thing to do. 🙂"
+    ],
+    "quiz": {"q": "You hold the door for someone and they say ‘Danke!’. What do you reply?", "o": ["Bitteschön!", "Es tut mir leid.", "Verzeihung!"], "a": 0, "why": "Bitteschön! means ‘You're welcome’ — the natural answer to Danke."},
+    "outro": "Challenge for today: use Danke, Bitteschön and Entschuldigung at least once each. See if the baker smiles a bit more! 🥨"
+  },
+  "ja": {
+    "title": "ありがとう・ごめんね・お願い、ドイツ語のマナー単語10",
+    "hook": "ほんの数語を足すだけで、ドイツの人たちの表情がぐっとやわらかくなりますよ。",
+    "intro": [
+      "パン屋さんで指をさして「Das!」とだけ言ったら、店員さんの顔がちょっとこわばった…そんな経験はありませんか？意味は通じたけれど、何かが足りなかったんです。",
+      "今日は「ありがとう」「ごめんなさい」「お願い」の言葉を集めました。この10個があれば、道を聞いたり、失敗を謝ったり、ご近所さんにちょっとしたお願いをしたりが、礼儀正しくできます。🙏"
+    ],
+    "words": {
+      "A1-098": {"pron": "ダンケ", "tip": "英語の thank とほぼ双子 🙏", "bonus": "もっと丁寧に：Danke schön / Vielen Dank · 「あなたもね」：Danke, gleichfalls!"},
+      "A2-937": {"pron": "ビッテシェーン", "tip": "Danke が来たら Bitteschön で打ち返すピンポン 🏓", "bonus": "物を渡すときにも Bitteschön! = はいどうぞ · 同じ返事：Gern geschehen!"},
+      "A1-465": {"pron": "エントシュルディグング", "tip": "Schuld（罪）を取り除いて（ent-）ください 😅 道を聞くときの第一声にぴったり！", "bonus": "話しかけるとき：Entschuldigung, wo ist der Bahnhof?"},
+      "A2-176": {"pron": "ズィヒ エントシュルディゲン", "tip": "責任（Schuld）を払いのける（ent-）動詞 🧹", "warn": "再帰動詞です。相手は bei、理由は für：Ich entschuldige mich bei dir für die Verspätung."},
+      "A2-505": {"pron": "ライトトゥーン", "tip": "Leid（悲しみ）を与えてしまって申し訳ない気持ち 😢", "warn": "主語は es、「私」は3格 mir：Es tut mir leid.（Ich tue leid ✗）", "bonus": "同情するときにも：Das tut mir leid. = それは気の毒に"},
+      "B1-1364": {"pron": "フェアツァイウング", "tip": "「お許しを」という、ちょっと上品な謝り方 🎩", "bonus": "動詞 verzeihen = 許す：Verzeihen Sie bitte!"},
+      "A2-307": {"pron": "ビッテン", "tip": "bitte の動詞バージョン 🤲 英語の bid と遠い親戚です。", "warn": "bitten（頼む）· bieten（提供する）· beten（祈る）を混同しないで！頼む内容は um + 4格：um Hilfe bitten"},
+      "B1-147": {"pron": "ズィヒ ベダンケン", "tip": "be- + Dank（感謝）= きちんとお礼を伝える 💌", "bonus": "Ich bedanke mich bei Ihnen für die Einladung. = ご招待ありがとうございます。"},
+      "B2-2871": {"pron": "アイネン ゲファレン トゥーン", "tip": "Gefallen は親切のプレゼント 🎁 Kannst du mir einen Gefallen tun? = ひとつお願いしてもいい？", "warn": "der Gefallen（親切）と das Gefallen（気に入ること）は別の語。冠詞に注意！"},
+      "A2-083": {"pron": "ヘーフリヒ", "tip": "Hof（宮廷）+ -lich = 宮廷の人のように 👑 英語 courteous ← court と同じ発想です。", "bonus": "反対は unhöflich · 名詞は die Höflichkeit"}
+    },
+    "culture": [
+      "ドイツで飲み物をすすめられて「Danke」とだけ答えると、「いいえ、けっこうです」と受け取られることがよくあります。欲しいときは「Ja, bitte!」や「Gerne!」とはっきり言いましょう。",
+      "小さなお店や病院の待合室に入るときに「Hallo」や「Guten Tag」、出るときに「Tschüss」や「Auf Wiedersehen」とあいさつする人が多いです。レジでのあいさつも基本です。",
+      "ドイツの人は話し方がわりと率直なので、最初は冷たく感じるかもしれません。でもたいていは失礼なのではなく、はっきり言うことこそ礼儀だと考えているんです。🙂"
+    ],
+    "quiz": {"q": "後ろの人のためにドアを押さえていたら「Danke!」と言われました。何と返しますか？", "o": ["Bitteschön!", "Es tut mir leid.", "Verzeihung!"], "a": 0, "why": "Bitteschön! は「どういたしまして」で、Danke へのいちばん自然な返事です。"},
+    "outro": "今日は Danke、Bitteschön、Entschuldigung をそれぞれ1回は使ってみましょう。パン屋さんの笑顔が変わるか、ぜひ確かめてみてください！🥨"
+  }
+}

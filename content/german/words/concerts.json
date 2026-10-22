@@ -1,0 +1,84 @@
+{
+  "key": "concerts",
+  "ko": {
+    "title": "예매부터 앙코르까지, 콘서트 독일어 10",
+    "hook": "독일 콘서트장에서는 ‘앙코르!’ 대신 다 같이 외치는 독일어 한 단어가 있어요.",
+    "intro": [
+      "좋아하는 밴드가 베를린에 온다는 소식! 티켓 사이트에 들어갔더니 Vorverkauf, ausverkauft, Abendkasse… 모르는 단어투성이였어요. 겨우 표를 구해서 갔는데, 공연이 끝나자 관객들이 뭐라고 외치는지도 몰랐고요.",
+      "오늘은 콘서트에 갈 때 꼭 필요한 단어 10개예요. 이 10개면 표를 예매하고, 매진 소식을 알아듣고, 공연 후기를 독일어로 이야기할 수 있어요. 🎤"
+    ],
+    "words": {
+      "A2-133": {"pron": "콘체르트", "tip": "이탈리아어 concerto에서 왔어요 🎻 독일어 z는 ‘ㅊ’ 소리라서 콘체르트!", "bonus": "콘서트에 가다 = ins Konzert gehen"},
+      "A2-420": {"pron": "밴트", "tip": "영어 band를 빌려 왔는데, 끝은 ‘트’처럼 들려요 🎸", "warn": "관사 주의! das Band는 리본·끈, der Band는 책의 ‘권’. 음악 밴드만 die예요."},
+      "A2-033": {"pron": "아인트리츠카르테", "tip": "ein(안으로) + Tritt(발걸음) + Karte(표) = 발을 들여놓는 표 🎟️", "bonus": "der Eintritt = 입장(료) · Eintritt frei = 무료 입장"},
+      "B1-1047": {"pron": "푸블리쿰", "tip": "영어 public과 같은 뿌리 👏 공연을 보러 온 사람들 전체예요.", "warn": "여러 사람이지만 단수예요: Das Publikum klatscht."},
+      "A2-861": {"pron": "클라첸", "tip": "‘클랏! 클랏!’ 손뼉 소리 그대로예요 👏", "bonus": "‘수다 떨다’라는 뜻도 있어요: der Klatsch = 뒷담화, 가십"},
+      "B1-467": {"pron": "아우프트리트", "tip": "auf(위로) + Tritt(발걸음) = 무대 위로 한 발 🎤", "bonus": "무대 공포증은 das Lampenfieber(조명 열병)이라고 해요."},
+      "B2-3440": {"pron": "포어페어카우프", "tip": "vor(미리) + Verkauf(판매) = 미리 파는 것, 예매 🗓️", "bonus": "공연 당일 현장 매표소는 die Abendkasse"},
+      "B1-1883": {"pron": "아우스페어카우프트", "tip": "aus(끝까지) + verkauft(팔린) = 싹 다 팔림 😭", "bonus": "Das Konzert ist leider ausverkauft. = 아쉽게도 매진이에요."},
+      "B2-2211": {"pron": "투르네", "tip": "프랑스어 tournée(돌기)에서 왔어요 🚌 끝의 ‘네’에 힘을 줘요!", "bonus": "투어를 떠나다 = auf Tournee gehen"},
+      "A2-462": {"pron": "페스티벌", "tip": "영어 festival과 똑같아요 ⛺ 독일 여름은 페스티벌의 계절!", "bonus": "복수는 die Festivals · 음악 페스티벌 = das Musikfestival"}
+    },
+    "culture": [
+      "독일 콘서트에서 앙코르를 원할 때는 ‘Zugabe! Zugabe!’ 하고 외쳐요. Zugabe는 ‘덤, 추가’라는 뜻이에요. 클래식 공연에서는 보통 악장 사이에는 박수를 치지 않고 곡이 완전히 끝난 뒤에 쳐요.",
+      "인기 공연은 예매 오픈과 동시에 매진되기도 해서 Vorverkauf 날짜를 미리 챙기는 사람이 많아요. 운이 좋으면 당일 Abendkasse에서 남은 표를 살 수 있기도 해요.",
+      "여름에는 전국 곳곳에서 야외 음악 페스티벌이 열려요. 며칠 동안 텐트를 치고 지내는 페스티벌도 많아서 장화와 우비는 필수예요. ⛺"
+    ],
+    "quiz": {"q": "친구가 티켓을 사려고 했는데 남은 표가 하나도 없대요. 뭐라고 할까요? ‘Das Konzert ist ___.’", "o": ["im Vorverkauf", "ausverkauft", "auf Tournee"], "a": 1, "why": "ausverkauft = 매진된이에요. 표가 다 팔렸다는 뜻이죠."},
+    "outro": "좋아하는 노래 한 곡을 틀어 놓고 끝날 때 ‘Zugabe!’를 외쳐 봐요. 다음 콘서트에서 독일 관객들과 함께 외칠 수 있도록요! 🎶"
+  },
+  "en": {
+    "title": "From tickets to encores: 10 German concert words",
+    "hook": "At German gigs, the crowd doesn't shout ‘Encore!’ — they shout a German word instead.",
+    "intro": [
+      "Your favourite band is coming to Berlin! You open the ticket site and see Vorverkauf, ausverkauft, Abendkasse… and you have no idea what's going on. You manage to get in, and at the end everyone starts chanting something you don't understand.",
+      "Today's ten words are what you need for a night out at a concert. With them you can book tickets, understand when a show is sold out and talk about the gig afterwards in German. 🎤"
+    ],
+    "words": {
+      "A2-133": {"pron": "kon-TSAIRT", "tip": "From Italian concerto 🎻 German z sounds like ts: kon-TSERT.", "bonus": "to go to a concert = ins Konzert gehen"},
+      "A2-420": {"pron": "BENT", "tip": "Borrowed from English band, but it ends with more of a t sound 🎸", "warn": "Watch the article! das Band = ribbon or tape, der Band = volume of a book. Only the music band is die."},
+      "A2-033": {"pron": "INE-trits-kar-tuh", "tip": "ein (in) + Tritt (step) + Karte (ticket) = the ticket that lets you step in 🎟️", "bonus": "der Eintritt = admission · Eintritt frei = free entry"},
+      "B1-1047": {"pron": "POO-blee-koom", "tip": "Same root as English public 👏 Everyone who came to watch.", "warn": "Lots of people, but singular: Das Publikum klatscht."},
+      "A2-861": {"pron": "KLAT-shen", "tip": "It sounds just like hands clapping 👏 Klatsch, klatsch!", "bonus": "It also means to gossip: der Klatsch = gossip"},
+      "B1-467": {"pron": "OWF-trit", "tip": "auf (up) + Tritt (step) = stepping up onto the stage 🎤", "bonus": "Stage fright is das Lampenfieber — ‘lamp fever’."},
+      "B2-3440": {"pron": "FOR-fair-kowf", "tip": "vor (before) + Verkauf (sale) = selling in advance 🗓️", "bonus": "The box office on the night is die Abendkasse."},
+      "B1-1883": {"pron": "OWS-fair-kowft", "tip": "aus (all out) + verkauft (sold) = completely sold out 😭", "bonus": "Das Konzert ist leider ausverkauft. = Sorry, the concert's sold out."},
+      "B2-2211": {"pron": "toor-NAY", "tip": "From French tournée, going round 🚌 Stress the end: toor-NAY.", "bonus": "to go on tour = auf Tournee gehen"},
+      "A2-462": {"pron": "FES-tee-val", "tip": "Same as English festival ⛺ German summers are festival season.", "bonus": "plural: die Festivals · music festival = das Musikfestival"}
+    },
+    "culture": [
+      "If you want an encore at a German concert, shout ‘Zugabe! Zugabe!’ — Zugabe means ‘extra’. At classical concerts, people usually don't clap between movements, only when the whole piece has finished.",
+      "Popular shows can sell out the moment tickets go on sale, so many people keep an eye on Vorverkauf dates. If you're lucky, there may be leftover tickets at the Abendkasse on the night.",
+      "In summer there are open-air music festivals all over the country. Plenty of them last several days with camping, so wellies and a rain jacket are a must. ⛺"
+    ],
+    "quiz": {"q": "Your friend tried to buy tickets, but there are none left. What do you say? ‘Das Konzert ist ___.’", "o": ["im Vorverkauf", "ausverkauft", "auf Tournee"], "a": 1, "why": "ausverkauft means sold out — all the tickets are gone."},
+    "outro": "Play your favourite song and shout ‘Zugabe!’ when it ends. Then you'll be ready to join a German crowd at your next gig! 🎶"
+  },
+  "ja": {
+    "title": "チケットからアンコールまで、コンサートのドイツ語10",
+    "hook": "ドイツのコンサートでは「アンコール！」の代わりに、みんなで叫ぶドイツ語があるんです。",
+    "intro": [
+      "好きなバンドがベルリンに来る！チケットサイトを開いたら、Vorverkauf、ausverkauft、Abendkasse…知らない単語ばかり。なんとかチケットを取って行ったものの、終演後に観客が何と叫んでいるのかもわかりませんでした。",
+      "今日はコンサートに行くときに必要な単語を10個集めました。これでチケットを予約して、売り切れの知らせを聞き取って、ライブの感想をドイツ語で話せます。🎤"
+    ],
+    "words": {
+      "A2-133": {"pron": "コンツェルト", "tip": "イタリア語 concerto から 🎻 ドイツ語の z は「ツ」の音なのでコンツェルト！", "bonus": "コンサートに行く = ins Konzert gehen"},
+      "A2-420": {"pron": "ベント", "tip": "英語の band を借りた言葉ですが、語尾は「ト」に近く聞こえます 🎸", "warn": "冠詞に注意！das Band はリボン・テープ、der Band は本の「巻」。音楽のバンドだけ die です。"},
+      "A2-033": {"pron": "アイントリッツカルテ", "tip": "ein（中へ）+ Tritt（一歩）+ Karte（券）= 中へ一歩入るための券 🎟️", "bonus": "der Eintritt = 入場（料）・Eintritt frei = 入場無料"},
+      "B1-1047": {"pron": "プーブリクム", "tip": "英語の public と同じ語源 👏 見に来た人たち全体のことです。", "warn": "大勢でも単数扱い：Das Publikum klatscht."},
+      "A2-861": {"pron": "クラッチェン", "tip": "「クラッチ、クラッチ」と手をたたく音そのまま 👏", "bonus": "「うわさ話をする」という意味も：der Klatsch = ゴシップ"},
+      "B1-467": {"pron": "アウフトリット", "tip": "auf（上へ）+ Tritt（一歩）= ステージに一歩上がること 🎤", "bonus": "あがり症は das Lampenfieber（照明熱）と言います。"},
+      "B2-3440": {"pron": "フォーアフェアカウフ", "tip": "vor（前もって）+ Verkauf（販売）= 前売り 🗓️", "bonus": "当日券売り場は die Abendkasse"},
+      "B1-1883": {"pron": "アウスフェアカウフト", "tip": "aus（すっかり）+ verkauft（売れた）= 完売 😭", "bonus": "Das Konzert ist leider ausverkauft. = 残念ながら売り切れです。"},
+      "B2-2211": {"pron": "トゥルネー", "tip": "フランス語 tournée（巡回）から 🚌 最後の「ネー」を強く！", "bonus": "ツアーに出る = auf Tournee gehen"},
+      "A2-462": {"pron": "フェスティバル", "tip": "英語の festival と同じ ⛺ ドイツの夏はフェスの季節！", "bonus": "複数形は die Festivals・音楽フェス = das Musikfestival"}
+    },
+    "culture": [
+      "ドイツのコンサートでアンコールを求めるときは「Zugabe! Zugabe!」と叫びます。Zugabe は「おまけ、追加」という意味です。クラシックの演奏会では、ふつう楽章の間には拍手をせず、曲が完全に終わってからたたきます。",
+      "人気公演は発売と同時に売り切れることもあるので、Vorverkauf の日程を前もってチェックする人が多いです。運がよければ、当日 Abendkasse で残りのチケットが買えることもあります。",
+      "夏には全国各地で野外音楽フェスが開かれます。何日もテントに泊まるフェスも多いので、長靴とレインコートは必需品です。⛺"
+    ],
+    "quiz": {"q": "友だちがチケットを買おうとしたら、もう1枚も残っていませんでした。何と言いますか？「Das Konzert ist ___.」", "o": ["im Vorverkauf", "ausverkauft", "auf Tournee"], "a": 1, "why": "ausverkauft は「売り切れ」で、チケットが全部売れたという意味です。"},
+    "outro": "好きな曲を流して、終わったら「Zugabe!」と叫んでみましょう。次のコンサートでドイツの観客と一緒に叫べるように！🎶"
+  }
+}

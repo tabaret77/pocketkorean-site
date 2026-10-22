@@ -1,0 +1,84 @@
+{
+  "key": "law",
+  "ko": {
+    "title": "뉴스가 들리기 시작하는 법·범죄 독일어 10",
+    "hook": "독일 뉴스에서 매일 나오는 단어들인데, 정작 교과서에는 잘 안 나와요.",
+    "intro": [
+      "어느 날 아침, 자전거를 세워 둔 자리에 자물쇠만 덩그러니 남아 있었어요. 경찰서에 신고하러 갔는데 ‘gestohlen’, ‘Anzeige’ 같은 단어가 쏟아져서 진땀을 뺐죠. 그날 저녁 뉴스에서도 Gericht, Urteil 같은 말이 계속 나오더라고요.",
+      "오늘은 법과 범죄에 관한 단어 10개예요. 이 단어들이면 뉴스 헤드라인이 훨씬 잘 들리고, 혹시 무슨 일이 생겨도 상황을 설명할 수 있어요. ⚖️"
+    ],
+    "words": {
+      "B1-231": {"pron": "게제츠", "tip": "setzen(놓다)에서 왔어요 📜 사회가 딱 정해 놓은 규칙이 바로 법!", "bonus": "Das ist gegen das Gesetz. = 그건 불법이에요."},
+      "B1-278": {"pron": "게리히트", "tip": "richten(판단하다; 음식을 차리다)에서 온 말 🍲⚖️ 그래서 법원도 요리도 Gericht!", "warn": "메뉴판의 Gericht는 ‘요리’예요. 식당에서 놀라지 마세요!"},
+      "B1-1078": {"pron": "리히터", "tip": "richten(바로잡다) + -er = 바로잡는 사람 🧑‍⚖️ recht(옳은)가 숨어 있어요.", "bonus": "여성 판사는 die Richterin · 판결 = das Urteil"},
+      "B1-445": {"pron": "안발트", "tip": "an + walten(다스리다) = 내 일을 대신 맡아 처리해 주는 사람 💼", "warn": "복수형은 움라우트: die Anwälte. 정식 명칭은 der Rechtsanwalt예요."},
+      "B2-277": {"pron": "페어브레헨", "tip": "brechen(깨다)이 들어 있어요 🔨 법을 깨뜨리는 것 = 범죄! 영어 break와 사촌이에요.", "bonus": "범죄자 = der Verbrecher"},
+      "B2-709": {"pron": "딥슈탈", "tip": "Dieb(도둑) + stahl(훔침) = 도둑질 🦹 영어 thief + steal 콤보예요.", "bonus": "도둑 = der Dieb · 빈집털이 = der Einbruch"},
+      "B1-1195": {"pron": "슈텔렌", "tip": "영어 steal이랑 똑같은 뿌리 🚲 소리도 비슷하죠?", "warn": "‘내 것을 도둑맞았다’는 3격으로: Mir wurde das Fahrrad gestohlen."},
+      "B1-725": {"pron": "게펭니스", "tip": "fangen(잡다)과 같은 뿌리 🔒 잡힌 사람이 가는 곳! -nis라서 das예요.", "bonus": "감옥에 가다 = ins Gefängnis kommen"},
+      "B1-129": {"pron": "슈트라페", "tip": "주차 딱지 Strafzettel의 그 Strafe 💸 벌도 벌금도 다 Strafe!", "bonus": "벌금을 내다 = eine Strafe zahlen"},
+      "B1-1124": {"pron": "슐디히", "tip": "die Schuld(죄, 빚) + -ig = 죄가 있는, 빚진 😳", "bonus": "가게에서도 써요: Was bin ich Ihnen schuldig? = 얼마 드리면 돼요?"}
+    },
+    "culture": [
+      "독일의 헌법은 ‘Grundgesetz’(기본법)라고 불러요. 첫 문장이 ‘Die Würde des Menschen ist unantastbar.’(인간의 존엄은 침해될 수 없다)로 유명해서, 독일 사람이라면 대부분 알고 있어요.",
+      "도시에서는 자전거 도난이 흔한 편이라, 튼튼한 자물쇠를 쓰고 프레임까지 묶어 두는 게 좋아요. 도난당하면 경찰에 신고(Anzeige erstatten)해 두면 보험 처리할 때 도움이 돼요.",
+      "그리고 독일에는 법률 비용을 대비하는 보험(Rechtsschutzversicherung)을 들어 두는 사람도 많아요. 이웃이나 집주인과 분쟁이 생겼을 때 든든하다고 해요. 📄"
+    ],
+    "quiz": {"q": "자전거를 도둑맞았어요. 경찰에게 뭐라고 말할까요?", "o": ["Ich habe ein Fahrrad gestohlen.", "Mir wurde das Fahrrad gestohlen.", "Ich bin schuldig."], "a": 1, "why": "Mir wurde … gestohlen = 제 …를 도둑맞았어요. 첫 번째는 ‘제가 훔쳤어요’라는 자백이에요!"},
+    "outro": "오늘 독일 뉴스 헤드라인을 하나 읽고 오늘 단어를 찾아봐요. Gericht를 보면 요리인지 법원인지도 맞혀 보고요! ⚖️"
+  },
+  "en": {
+    "title": "Law and order in 10 German words",
+    "hook": "These words are in German news every day, yet textbooks barely mention them.",
+    "intro": [
+      "One morning all that was left of my bike was the lock. At the police station, words like ‘gestohlen’ and ‘Anzeige’ came at me so fast I was sweating. That evening the news was full of Gericht and Urteil too.",
+      "Today's ten words are about law and crime. With them, news headlines get much easier to follow — and if something ever happens, you can explain it. ⚖️"
+    ],
+    "words": {
+      "B1-231": {"pron": "guh-ZETS", "tip": "From setzen (to set) 📜 A law is a rule that's been set down.", "bonus": "Das ist gegen das Gesetz. = That's against the law."},
+      "B1-278": {"pron": "guh-RIKHT", "tip": "From richten (to judge; to prepare food) 🍲⚖️ So a court and a dish are both Gericht!", "warn": "On a menu, Gericht means a dish. Don't panic in the restaurant!"},
+      "B1-1078": {"pron": "RIKH-ter", "tip": "richten (to set right) + -er = the one who sets things right 🧑‍⚖️ recht (right) is inside.", "bonus": "A female judge is die Richterin · verdict = das Urteil"},
+      "B1-445": {"pron": "AN-vahlt", "tip": "an + walten (to manage; cf. wield) = someone who handles your case 💼", "warn": "Plural with umlaut: die Anwälte. The official title is der Rechtsanwalt."},
+      "B2-277": {"pron": "fair-BREKH-en", "tip": "brechen (to break) is inside 🔨 breaking the law = crime.", "bonus": "a criminal = der Verbrecher"},
+      "B2-709": {"pron": "DEEP-shtahl", "tip": "Dieb (thief) + stahl (stealing) = theft 🦹 A thief-plus-steal combo.", "bonus": "thief = der Dieb · burglary = der Einbruch"},
+      "B1-1195": {"pron": "SHTAY-len", "tip": "Same root as English steal 🚲 They even sound alike.", "warn": "‘My … was stolen’ uses the dative: Mir wurde das Fahrrad gestohlen."},
+      "B1-725": {"pron": "guh-FENG-nis", "tip": "Same root as fangen (to catch) 🔒 Where the caught end up. -nis, so das.", "bonus": "to go to prison = ins Gefängnis kommen"},
+      "B1-129": {"pron": "SHTRAH-fuh", "tip": "The Strafe from Strafzettel, the parking ticket 💸 Punishment or fine — both Strafe.", "bonus": "to pay a fine = eine Strafe zahlen"},
+      "B1-1124": {"pron": "SHOOL-dikh", "tip": "die Schuld (guilt, debt) + -ig = guilty, or owing 😳", "bonus": "Handy in shops too: Was bin ich Ihnen schuldig? = What do I owe you?"}
+    },
+    "culture": [
+      "Germany's constitution is called the ‘Grundgesetz’ (Basic Law). Its first sentence is famous: ‘Die Würde des Menschen ist unantastbar.’ (Human dignity shall be inviolable.) Most Germans know it by heart.",
+      "Bike theft is common in cities, so use a strong lock and lock the frame to something solid. If your bike is stolen, reporting it to the police (Anzeige erstatten) helps when you claim on insurance.",
+      "Many people in Germany also have legal expenses insurance (Rechtsschutzversicherung). It's popular for peace of mind in disputes with neighbours or landlords. 📄"
+    ],
+    "quiz": {"q": "Your bike has been stolen. What do you tell the police?", "o": ["Ich habe ein Fahrrad gestohlen.", "Mir wurde das Fahrrad gestohlen.", "Ich bin schuldig."], "a": 1, "why": "Mir wurde … gestohlen means ‘my … was stolen’ — the first option is a confession that you stole one!"},
+    "outro": "Read one German news headline today and hunt for today's words. If you spot Gericht, decide: court or dish? ⚖️"
+  },
+  "ja": {
+    "title": "ニュースが聞き取れる！法律・犯罪のドイツ語10",
+    "hook": "ドイツのニュースには毎日出てくるのに、教科書にはなかなか出てこない単語たちです。",
+    "intro": [
+      "ある朝、自転車を停めていた場所に鍵だけがぽつんと残っていました。警察に届けに行くと「gestohlen」「Anzeige」といった言葉が次々に出てきて冷や汗。その夜のニュースでも Gericht や Urteil という言葉が何度も聞こえてきました。",
+      "今日は法律と犯罪についての単語10個です。これでニュースの見出しがぐっとわかりやすくなり、万一のときも状況を説明できます。⚖️"
+    ],
+    "words": {
+      "B1-231": {"pron": "ゲゼッツ", "tip": "setzen（置く）から 📜 社会がきちんと定めたルールが法律！", "bonus": "Das ist gegen das Gesetz. = それは法律違反です。"},
+      "B1-278": {"pron": "ゲリヒト", "tip": "richten（裁く；料理を用意する）から 🍲⚖️ だから裁判所も料理も Gericht！", "warn": "メニューの Gericht は「料理」です。レストランで驚かないで！"},
+      "B1-1078": {"pron": "リヒター", "tip": "richten（正す）+ -er = 正す人 🧑‍⚖️ recht（正しい）が隠れています。", "bonus": "女性の裁判官は die Richterin · 判決 = das Urteil"},
+      "B1-445": {"pron": "アンヴァルト", "tip": "an + walten（管理する）= 自分の件を代わりに扱ってくれる人 💼", "warn": "複数形はウムラウト：die Anwälte。正式には der Rechtsanwalt です。"},
+      "B2-277": {"pron": "フェアブレッヒェン", "tip": "brechen（壊す）が入っています 🔨 法を破ること = 犯罪！英語の break の親戚です。", "bonus": "犯罪者 = der Verbrecher"},
+      "B2-709": {"pron": "ディープシュタール", "tip": "Dieb（泥棒）+ stahl（盗み）= 窃盗 🦹 英語の thief と steal のコンビです。", "bonus": "泥棒 = der Dieb · 空き巣 = der Einbruch"},
+      "B1-1195": {"pron": "シュテーレン", "tip": "英語の steal と同じ語源 🚲 音も似ていますね。", "warn": "「〜を盗まれた」は3格で：Mir wurde das Fahrrad gestohlen."},
+      "B1-725": {"pron": "ゲフェングニス", "tip": "fangen（捕まえる）と同じ語源 🔒 捕まった人が行く場所！-nis なので das。", "bonus": "刑務所に入る = ins Gefängnis kommen"},
+      "B1-129": {"pron": "シュトラーフェ", "tip": "違反切符 Strafzettel の Strafe 💸 罰も罰金も Strafe！", "bonus": "罰金を払う = eine Strafe zahlen"},
+      "B1-1124": {"pron": "シュルディヒ", "tip": "die Schuld（罪、借り）+ -ig = 罪がある、借りがある 😳", "bonus": "お店でも使えます：Was bin ich Ihnen schuldig? = おいくらですか？"}
+    },
+    "culture": [
+      "ドイツの憲法は「Grundgesetz」（基本法）と呼ばれます。最初の一文「Die Würde des Menschen ist unantastbar.」（人間の尊厳は不可侵である）はとても有名で、多くのドイツ人が知っています。",
+      "都市部では自転車の盗難がよくあるので、丈夫な鍵でフレームごと固定するのがおすすめです。盗まれたら警察に届け出（Anzeige erstatten）をしておくと、保険の手続きに役立ちます。",
+      "またドイツでは、弁護士費用などに備える保険（Rechtsschutzversicherung）に入っている人も多いです。隣人や大家さんとのトラブルのときに心強いそうです。📄"
+    ],
+    "quiz": {"q": "自転車を盗まれました。警察に何と言いますか？", "o": ["Ich habe ein Fahrrad gestohlen.", "Mir wurde das Fahrrad gestohlen.", "Ich bin schuldig."], "a": 1, "why": "Mir wurde … gestohlen は「〜を盗まれました」。1つ目は「私が盗みました」という自白になります！"},
+    "outro": "今日はドイツのニュースの見出しをひとつ読んで、今日の単語を探してみましょう。Gericht を見つけたら、料理か裁判所か当ててみてください！⚖️"
+  }
+}

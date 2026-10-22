@@ -1,0 +1,84 @@
+{
+  "key": "taxes",
+  "ko": {
+    "title": "첫 월급명세서가 덜 무서워지는 독일어 10",
+    "hook": "월급은 분명 3,500인데 통장엔 왜 이것만 들어왔을까요?",
+    "intro": [
+      "독일에서 첫 월급명세서(Gehaltsabrechnung)를 받던 날, 저는 한참 동안 종이만 쳐다봤어요. 줄줄이 빠져나간 항목에 Steuer, Sozialabgaben, Kirchensteuer… 이게 다 뭐지 싶었죠.",
+      "오늘은 월급명세서와 세금 신고에서 꼭 나오는 단어 10개를 모았어요. 이 10개면 명세서를 혼자 읽고, 세무서에서 온 편지도 대충 감을 잡을 수 있어요. 🧾"
+    ],
+    "words": {
+      "B1-105": {"pron": "슈토이어", "tip": "나라가 내 돈을 ‘스토어’에 쌓아 둔다… 슈토이어 💸 세금은 die Steuer!", "warn": "das Steuer는 자동차 핸들이에요. 관사 하나로 뜻이 바뀌어요."},
+      "B2-565": {"pron": "슈토이어에어클래룽", "tip": "Steuer + Erklärung(설명) = 나라에 내 돈을 설명하는 서류 📑 -ung이니까 die!", "bonus": "세금 신고를 하다 = die Steuererklärung machen"},
+      "B2-566": {"pron": "피난츠암트", "tip": "Finanz(재정) + Amt(관청) = 세무서 🏛️ 편지 봉투에 이 단어가 보이면 일단 열어 보세요!", "warn": "복수는 움라우트: die Finanzämter"},
+      "B2-440": {"pron": "브루토", "tip": "이탈리아어로 ‘거친, 다듬지 않은’ 🪨 아직 아무것도 안 뺀 날것의 금액!", "bonus": "세전 연봉 = das Bruttogehalt"},
+      "B2-441": {"pron": "네토", "tip": "영어 net처럼 깔끔하게 걸러진 금액 🥅 진짜 내 통장에 들어오는 돈!", "bonus": "brutto − Abzüge = netto 공식으로 외워요."},
+      "B2-2496": {"pron": "슈토이어누머", "tip": "Steuer + Nummer = 세금 번호 🔢 프리랜서라면 영수증마다 써야 해요!", "warn": "직장인이 받는 Steuer-ID(납세자 식별번호)와는 다른 번호예요."},
+      "B2-2497": {"pron": "슈토이어베샤이트", "tip": "Bescheid(통지)는 ‘결과 알려 줄게’ 📬 신고 후 기다리던 바로 그 편지!", "bonus": "Bescheid sagen = 알려 주다: Sag mir Bescheid!"},
+      "C1-3715": {"pron": "조치알압가벤", "tip": "sozial + Abgabe(내는 것) = 사회를 위해 내는 돈 🤝 연금·건강보험·실업보험이 여기 들어가요.", "warn": "거의 항상 복수로 써요: die Sozialabgaben"},
+      "C1-1469": {"pron": "키르헨슈토이어", "tip": "Kirche(교회) + Steuer = 교회세 ⛪ 명세서에서 이 줄을 보고 놀라는 사람이 많아요!"},
+      "C1-1877": {"pron": "압제첸", "tip": "ab(떼어) + setzen(놓다) = 세금에서 떼어 내다 ✂️ 공제받는 기쁨!", "warn": "분리동사예요: Ich setze den Laptop von der Steuer ab."}
+    },
+    "culture": [
+      "독일에서 직장인의 소득세(Lohnsteuer)는 회사가 월급에서 미리 떼서 내 줘요. 그래서 세금 신고가 꼭 의무가 아닌 사람도 많은데, 출퇴근 거리나 업무용 물건을 absetzen 하면 돈을 돌려받는 경우가 많아서 자진해서 신고하는 사람이 많아요.",
+      "주민 등록(Anmeldung)을 하고 나면 보통 몇 주 안에 Steuer-ID가 우편으로 와요. 회사에서 꼭 물어보니까 잘 보관해 두세요.",
+      "교회세는 등록할 때 가톨릭이나 개신교 같은 종교를 적으면 붙을 수 있어요. 처음 등록할 때 종교 칸을 어떻게 쓸지 미리 생각해 두는 게 좋아요. 📋"
+    ],
+    "quiz": {"q": "명세서에 3.500 Euro brutto라고 적혀 있어요. 실제로 통장에 들어오는 금액은 뭐라고 할까요?", "o": ["brutto", "die Kirchensteuer", "netto"], "a": 2, "why": "netto = 세금과 사회 보험료를 뺀 실수령액이에요."},
+    "outro": "오늘은 내 월급(또는 꿈의 월급)을 „Ich verdiene … brutto, netto bleiben …“ 문장으로 소리 내서 말해 봐요. 숫자 연습도 덤이에요! 💶"
+  },
+  "en": {
+    "title": "Payslip panic? 10 German words to decode it",
+    "hook": "Your contract says 3,500, so why is your bank account showing so much less?",
+    "intro": [
+      "The day my first German payslip (Gehaltsabrechnung) arrived, I just stared at it. Line after line of deductions: Steuer, Sozialabgaben, Kirchensteuer… What was all this?",
+      "Today's ten words come up on every payslip and tax form. With them you can read your payslip on your own and get the gist of any letter from the tax office. 🧾"
+    ],
+    "words": {
+      "B1-105": {"pron": "SHTOY-er", "tip": "The state ‘stores’ a slice of your money 💸 Tax is die Steuer.", "warn": "das Steuer is a steering wheel. One article changes everything."},
+      "B2-565": {"pron": "SHTOY-er-air-klair-oong", "tip": "Steuer + Erklärung (explanation) = explaining your money to the state 📑 -ung, so die.", "bonus": "to do your tax return = die Steuererklärung machen"},
+      "B2-566": {"pron": "fee-NANTS-amt", "tip": "Finanz (finance) + Amt (office) = tax office 🏛️ See it on an envelope? Open it!", "warn": "Plural with umlaut: die Finanzämter"},
+      "B2-440": {"pron": "BROO-toh", "tip": "Italian for ‘rough, unrefined’ 🪨 The raw amount, nothing taken off yet.", "bonus": "gross salary = das Bruttogehalt"},
+      "B2-441": {"pron": "NET-toh", "tip": "Like English net: what's left after filtering 🥅 The money that actually lands in your account.", "bonus": "Remember: brutto − Abzüge = netto"},
+      "B2-2496": {"pron": "SHTOY-er-noo-mer", "tip": "Steuer + Nummer = tax number 🔢 Freelancers put it on every invoice.", "warn": "It's not the same as the Steuer-ID (personal tax ID) employees use."},
+      "B2-2497": {"pron": "SHTOY-er-buh-shite", "tip": "A Bescheid is a ‘here's the result’ letter 📬 The one you wait for after filing.", "bonus": "Bescheid sagen = to let someone know: Sag mir Bescheid!"},
+      "C1-3715": {"pron": "zoh-TSYAHL-ap-gah-ben", "tip": "sozial + Abgabe (what you hand over) = money for the social system 🤝 Pension, health and unemployment insurance.", "warn": "Almost always plural: die Sozialabgaben"},
+      "C1-1469": {"pron": "KEER-khen-shtoy-er", "tip": "Kirche (church) + Steuer = church tax ⛪ This line surprises a lot of newcomers."},
+      "C1-1877": {"pron": "AP-zet-sen", "tip": "ab (off) + setzen (set) = set it off your taxes ✂️ The joy of a deduction.", "warn": "Separable: Ich setze den Laptop von der Steuer ab."}
+    },
+    "culture": [
+      "If you're employed in Germany, your employer takes income tax (Lohnsteuer) straight out of your salary. Many employees don't strictly have to file a tax return, but lots do anyway, because things like your commute or work equipment can be abgesetzt and money often comes back.",
+      "After you register your address (Anmeldung), your Steuer-ID usually arrives by post within a few weeks. Your employer will ask for it, so keep it somewhere safe.",
+      "Church tax can apply if you register as a member of a church such as the Catholic or Protestant church. It's worth thinking about what you put in the religion box before you register. 📋"
+    ],
+    "quiz": {"q": "Your payslip says 3.500 Euro brutto. What do you call the amount that actually reaches your account?", "o": ["brutto", "die Kirchensteuer", "netto"], "a": 2, "why": "netto is your take-home pay after tax and social contributions."},
+    "outro": "Say your salary (real or dream) out loud: „Ich verdiene … brutto, netto bleiben …“ Bonus number practice included! 💶"
+  },
+  "ja": {
+    "title": "給与明細がこわくなくなるドイツ語10",
+    "hook": "契約では3,500ユーロなのに、口座にはどうしてこれだけ？",
+    "intro": [
+      "ドイツで初めての給与明細（Gehaltsabrechnung）を受け取った日、しばらく紙をじっと見つめてしまいました。Steuer、Sozialabgaben、Kirchensteuer…ずらりと並ぶ控除の項目。これはいったい何？",
+      "今日は給与明細と税金の申告で必ず出てくる単語を10個集めました。この10個で明細を自分で読めて、税務署からの手紙もだいたいわかるようになります。🧾"
+    ],
+    "words": {
+      "B1-105": {"pron": "シュトイアー", "tip": "国がお金を「ストア」してしまう…シュトイアー 💸 税金は die Steuer！", "warn": "das Steuer は車のハンドル。冠詞ひとつで意味が変わります。"},
+      "B2-565": {"pron": "シュトイアーエアクレールング", "tip": "Steuer + Erklärung（説明）= 国にお金のことを説明する書類 📑 -ung だから die！", "bonus": "確定申告をする = die Steuererklärung machen"},
+      "B2-566": {"pron": "フィナンツアムト", "tip": "Finanz（財政）+ Amt（役所）= 税務署 🏛️ 封筒にこの文字があったら、まず開けましょう！", "warn": "複数形はウムラウト：die Finanzämter"},
+      "B2-440": {"pron": "ブルット", "tip": "イタリア語で「粗い、加工していない」🪨 まだ何も引かれていない生の金額！", "bonus": "税込みの月給 = das Bruttogehalt"},
+      "B2-441": {"pron": "ネット", "tip": "英語の net のように、こしてきれいになった金額 🥅 本当に口座に入るお金！", "bonus": "brutto − Abzüge = netto の式で覚えましょう。"},
+      "B2-2496": {"pron": "シュトイアーヌマー", "tip": "Steuer + Nummer = 税番号 🔢 フリーランスなら請求書に毎回書きます！", "warn": "会社員が使う Steuer-ID（納税者識別番号）とは別の番号です。"},
+      "B2-2497": {"pron": "シュトイアーベシャイト", "tip": "Bescheid（通知）は「結果をお知らせします」📬 申告後に待ちわびるあの手紙！", "bonus": "Bescheid sagen = 知らせる：Sag mir Bescheid!"},
+      "C1-3715": {"pron": "ゾツィアールアップガーベン", "tip": "sozial + Abgabe（納めるもの）= 社会のために払うお金 🤝 年金・健康保険・失業保険など。", "warn": "ほぼいつも複数形：die Sozialabgaben"},
+      "C1-1469": {"pron": "キルヒェンシュトイアー", "tip": "Kirche（教会）+ Steuer = 教会税 ⛪ 明細でこの行を見て驚く人は多いです！"},
+      "C1-1877": {"pron": "アップゼッツェン", "tip": "ab（離して）+ setzen（置く）= 税金から差し引く ✂️ 控除はうれしい！", "warn": "分離動詞です：Ich setze den Laptop von der Steuer ab."}
+    },
+    "culture": [
+      "ドイツの会社員の所得税（Lohnsteuer）は、会社が給料から天引きして納めてくれます。そのため申告が義務でない人も多いのですが、通勤距離や仕事用の物を absetzen するとお金が戻ってくることが多く、自主的に申告する人もたくさんいます。",
+      "住民登録（Anmeldung）をすると、ふつう数週間以内に Steuer-ID が郵便で届きます。会社で必ず聞かれるので、大切に保管しておきましょう。",
+      "教会税は、登録のときにカトリックやプロテスタントなどの教会の信者として届け出るとかかることがあります。宗教欄をどう書くか、登録前に考えておくと安心です。📋"
+    ],
+    "quiz": {"q": "明細に 3.500 Euro brutto と書いてあります。実際に口座に入る金額は何と言いますか？", "o": ["brutto", "die Kirchensteuer", "netto"], "a": 2, "why": "netto は税金と社会保険料を引いた手取り額です。"},
+    "outro": "自分のお給料（または夢のお給料）を „Ich verdiene … brutto, netto bleiben …“ で声に出して言ってみましょう。数字の練習にもなりますよ！💶"
+  }
+}

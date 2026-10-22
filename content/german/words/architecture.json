@@ -1,0 +1,84 @@
+{
+  "key": "architecture",
+  "ko": {
+    "title": "독일 도시 산책이 즐거워지는 건축 단어 10",
+    "hook": "고개를 들어 건물을 보는 순간, 독일 도시가 완전히 다르게 보여요.",
+    "intro": [
+      "쾰른 중앙역을 나서자마자 눈앞에 거대한 성당이 서 있었어요. 옆에 있던 독일 할머니가 \"An dem Dom hat man über 600 Jahre gebaut!\" 하고 자랑스럽게 말씀하셨는데, 저는 \"Schön!\"밖에 못 했어요.",
+      "오늘은 건축과 건물에 관한 단어 10개를 모았어요. 이 단어들이면 도시 투어 설명을 알아듣고, 마음에 드는 건물에 대해 한두 마디 감상도 말할 수 있어요. 🏛️"
+    ],
+    "words": {
+      "A2-228": {"pron": "게보이데", "tip": "bauen(짓다)에서 온 명사 🏢 지어진 것 = 건물!", "bonus": "복수도 똑같아요: ein Gebäude, zwei Gebäude"},
+      "B2-3366": {"pron": "아르히텍투어", "tip": "-ur로 끝나는 외래어라 die 📐 영어 architecture와 거의 같아요.", "bonus": "형용사: architektonisch = 건축적인"},
+      "B1-450": {"pron": "아르히텍트", "tip": "그리스어로 ‘으뜸 건축가’ 👷 영어 architect 그대로!", "warn": "약변화 명사예요: den/dem/des Architekten"},
+      "A2-423": {"pron": "바우엔", "tip": "레고 쌓듯 바우바우 🧱 집도, 다리도, 눈사람도 bauen!", "bonus": "공사장 = die Baustelle (독일 도시 어디에나 있어요)"},
+      "B1-1274": {"pron": "투엄", "tip": "라틴어 turris에서 왔어요 🗼 영어 turret(작은 탑)이 친척이에요.", "warn": "복수는 움라우트: die Türme"},
+      "A2-215": {"pron": "브뤼케", "tip": "영어 bridge와 같은 뿌리 🌉 g가 ck로 바뀌었을 뿐!", "bonus": "징검다리 휴일 = der Brückentag (주말과 공휴일 사이에 낀 날)"},
+      "B1-1200": {"pron": "슈틸", "tip": "라틴어 stilus(펜)에서 왔어요 🖋️ 쓰는 방식 → 스타일!", "warn": "발음이 같은 der Stiel(손잡이, 줄기)와 헷갈리지 마세요."},
+      "A2-742": {"pron": "호흐하우스", "tip": "hoch(높은) + Haus(집) = 높은 집 🏙️ 프랑크푸르트에 많아요!", "warn": "복수는 움라우트 + -er: die Hochhäuser"},
+      "B1-2169": {"pron": "돔", "tip": "라틴어 domus(집) = 교회의 집 ⛪ 쾰른 대성당은 der Kölner Dom!", "warn": "영어 dome(돔 지붕)이 아니에요. 돔 지붕은 die Kuppel이에요."},
+      "B2-3520": {"pron": "조일레", "tip": "건물을 떠받치는 기둥 🏛️ ‘조이는’ 힘으로 버틴다고 외워요!", "bonus": "비유적으로도 써요: eine Säule der Gesellschaft = 사회의 기둥"}
+    },
+    "culture": [
+      "독일 구시가지에서는 나무 뼈대가 바깥으로 드러난 Fachwerkhaus를 자주 볼 수 있어요. 마치 동화책에서 튀어나온 것 같은 집들이에요.",
+      "현대 디자인에 큰 영향을 준 Bauhaus도 독일에서 시작됐어요. 1919년 바이마르에서 문을 연 학교로, 단순하고 실용적인 스타일로 유명해요.",
+      "집을 구할 때도 건축 단어가 나와요. 광고에서 Altbau는 보통 천장이 높은 옛날 건물, Neubau는 비교적 새로 지은 건물을 말해요. 🏠"
+    ],
+    "quiz": {"q": "쾰른에서 친구가 대성당을 가리키며 이름을 물어봐요. 뭐라고 답할까요?", "o": ["Das ist ein Hochhaus.", "Das ist eine Brücke.", "Das ist der Kölner Dom."], "a": 2, "why": "der Dom = 대성당, 쾰른 대성당은 der Kölner Dom이에요."},
+    "outro": "오늘 길을 걸으며 보이는 건물 하나에 \"Das Gebäude hat einen schönen Stil!\" 하고 말해 봐요. 도시가 갑자기 박물관처럼 느껴질 거예요! 🌇"
+  },
+  "en": {
+    "title": "Look up! 10 German words for buildings",
+    "hook": "The moment you look up at the buildings, a German city starts to look completely different.",
+    "intro": [
+      "You step out of Cologne's main station and a huge cathedral fills the sky. An older lady next to you says proudly, \"An dem Dom hat man über 600 Jahre gebaut!\" — and all you can manage is \"Schön!\"",
+      "Today's ten words are about architecture and buildings. With them you can follow a city tour and say a sentence or two about a building you like. 🏛️"
+    ],
+    "words": {
+      "A2-228": {"pron": "guh-BOY-duh", "tip": "A noun from bauen (to build) 🏢 Something built = a building.", "bonus": "The plural looks the same: ein Gebäude, zwei Gebäude"},
+      "B2-3366": {"pron": "ar-khi-tek-TOOR", "tip": "A borrowed noun in -ur, so die 📐 Almost the same as English.", "bonus": "Adjective: architektonisch = architectural"},
+      "B1-450": {"pron": "ar-khi-TEKT", "tip": "Greek for ‘master builder’ 👷 Just like English architect.", "warn": "Weak noun: den/dem/des Architekten"},
+      "A2-423": {"pron": "BOW-en", "tip": "Stack it up like Lego 🧱 Houses, bridges, snowmen — you bauen them all.", "bonus": "building site = die Baustelle (you'll see them everywhere)"},
+      "B1-1274": {"pron": "toorm", "tip": "From Latin turris 🗼 English turret is a cousin.", "warn": "Plural with umlaut: die Türme"},
+      "A2-215": {"pron": "BRÜ-kuh", "tip": "Same root as English bridge 🌉 The g just turned into ck.", "bonus": "A ‘bridge day’ between a holiday and the weekend = der Brückentag"},
+      "B1-1200": {"pron": "shteel", "tip": "From Latin stilus (pen) 🖋️ A way of writing → a style.", "warn": "Sounds exactly like der Stiel (handle, stem)."},
+      "A2-742": {"pron": "HOHKH-hows", "tip": "hoch (high) + Haus (house) = a high house 🏙️ Frankfurt is full of them.", "warn": "Plural with umlaut and -er: die Hochhäuser"},
+      "B1-2169": {"pron": "dohm", "tip": "From Latin domus (house) = the house of the church ⛪ der Kölner Dom!", "warn": "Not a dome! A dome is die Kuppel."},
+      "B2-3520": {"pron": "ZOY-luh", "tip": "Säule sounds like ‘soy-luh’ — picture a giant soy sauce bottle holding up the roof 🏛️", "bonus": "Figuratively too: eine Säule der Gesellschaft = a pillar of society"}
+    },
+    "culture": [
+      "In old town centres you'll often see a Fachwerkhaus, a half-timbered house with its wooden frame on show. They look like something out of a fairy tale.",
+      "The Bauhaus, which shaped modern design worldwide, also began in Germany. It was a school founded in Weimar in 1919, famous for a simple, practical style.",
+      "Architecture words also pop up when you look for a flat. In ads, Altbau usually means an older building with high ceilings, and Neubau a more recently built one. 🏠"
+    ],
+    "quiz": {"q": "In Cologne, a friend points at the cathedral and asks what it is. What do you say?", "o": ["Das ist ein Hochhaus.", "Das ist eine Brücke.", "Das ist der Kölner Dom."], "a": 2, "why": "der Dom means cathedral, and Cologne's is der Kölner Dom."},
+    "outro": "On your next walk, pick a building and say, \"Das Gebäude hat einen schönen Stil!\" Your city will suddenly feel like a museum! 🌇"
+  },
+  "ja": {
+    "title": "ドイツの街歩きが楽しくなる建築の単語10",
+    "hook": "顔を上げて建物を見た瞬間、ドイツの街がまったく違って見えてきます。",
+    "intro": [
+      "ケルン中央駅を出ると、目の前に巨大な大聖堂がそびえていました。隣にいたドイツ人のおばあさんが「An dem Dom hat man über 600 Jahre gebaut!」と誇らしげに教えてくれたのに、私は「Schön!」しか言えませんでした。",
+      "今日は建築と建物の単語を10個集めました。これで街のガイドツアーの説明がわかり、気に入った建物についてひとこと感想も言えるようになります。🏛️"
+    ],
+    "words": {
+      "A2-228": {"pron": "ゲボイデ", "tip": "bauen（建てる）からできた名詞 🏢 建てられたもの = 建物！", "bonus": "複数形も同じ形：ein Gebäude, zwei Gebäude"},
+      "B2-3366": {"pron": "アルヒテクトゥーア", "tip": "-ur で終わる外来語なので die 📐 英語の architecture とほぼ同じ。", "bonus": "形容詞：architektonisch = 建築の"},
+      "B1-450": {"pron": "アルヒテクト", "tip": "ギリシャ語で「棟梁」👷 英語の architect そのまま！", "warn": "弱変化名詞です：den/dem/des Architekten"},
+      "A2-423": {"pron": "バウエン", "tip": "レゴを積むように 🧱 家も橋も雪だるまも bauen！", "bonus": "工事現場 = die Baustelle（ドイツの街のあちこちにあります）"},
+      "B1-1274": {"pron": "トゥルム", "tip": "ラテン語 turris から 🗼 英語の turret（小塔）の親戚です。", "warn": "複数形はウムラウト：die Türme"},
+      "A2-215": {"pron": "ブリュッケ", "tip": "英語の bridge と同じ語源 🌉 g が ck に変わっただけ！", "bonus": "祝日と週末の間の「橋渡しの日」= der Brückentag"},
+      "B1-1200": {"pron": "シュティール", "tip": "ラテン語 stilus（ペン）から 🖋️ 書き方 → スタイル！", "warn": "同じ発音の der Stiel（柄、茎）と混同しないように。"},
+      "A2-742": {"pron": "ホーホハウス", "tip": "hoch（高い）+ Haus（家）= 高い家 🏙️ フランクフルトにたくさん！", "warn": "複数形はウムラウト + -er：die Hochhäuser"},
+      "B1-2169": {"pron": "ドーム", "tip": "ラテン語 domus（家）= 教会の家 ⛪ ケルン大聖堂は der Kölner Dom！", "warn": "英語の dome（丸屋根）ではありません。丸屋根は die Kuppel です。"},
+      "B2-3520": {"pron": "ゾイレ", "tip": "建物を支える柱 🏛️「ぞいっ」と支える柱、で覚えましょう！", "bonus": "比喩でも使います：eine Säule der Gesellschaft = 社会の柱"}
+    },
+    "culture": [
+      "ドイツの旧市街では、木の骨組みが外から見える Fachwerkhaus をよく見かけます。まるで絵本から飛び出してきたような家です。",
+      "現代デザインに大きな影響を与えた Bauhaus もドイツで生まれました。1919年にヴァイマルで開校した学校で、シンプルで実用的なスタイルで知られています。",
+      "部屋探しでも建築の言葉が出てきます。広告の Altbau はふつう天井の高い古い建物、Neubau は比較的新しく建てられた建物のことです。🏠"
+    ],
+    "quiz": {"q": "ケルンで友だちが大聖堂を指さして名前を聞いてきました。何と答えますか？", "o": ["Das ist ein Hochhaus.", "Das ist eine Brücke.", "Das ist der Kölner Dom."], "a": 2, "why": "der Dom は大聖堂のことで、ケルン大聖堂は der Kölner Dom です。"},
+    "outro": "今日歩きながら見かけた建物に「Das Gebäude hat einen schönen Stil!」と言ってみましょう。街が急に美術館のように感じられますよ！🌇"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "key": "police",
+  "ko": {
+    "title": "자전거를 도둑맞았다면? 경찰서에서 쓰는 독일어 10",
+    "hook": "독일에서 한 번쯤 겪는다는 자전거 도난, 그날 필요한 건 열쇠가 아니라 단어예요.",
+    "intro": [
+      "아침에 나와 보니 집 앞에 묶어 둔 자전거가 사라졌어요. 자물쇠만 덩그러니. 경찰에 신고해야 한다는데, 뭐라고 말해야 할지 머릿속이 하얘져요.",
+      "오늘은 경찰에 신고할 때 꼭 필요한 단어 10개를 모았어요. 도둑, 침입, 목격자, 진술까지, 이 10개면 경찰서에서 상황을 차분하게 설명할 수 있어요. 쓸 일이 없기를 바라지만, 알아 두면 든든해요! 👮"
+    ],
+    "words": {
+      "A1-218": {"pron": "폴리차이", "tip": "영어 police와 같은 뿌리 🚓 끝을 ‘-차이’로 읽으면 완성!", "warn": "복수 없이 die Polizei로만 써요. 경찰 한 사람은 der Polizist."},
+      "A2-662": {"pron": "폴리치스트", "tip": "die Polizei + -ist = 경찰관 한 명 👮 Pianist처럼 -ist는 사람!", "warn": "약변화 명사: den Polizisten, dem Polizisten"},
+      "B1-1486": {"pron": "페스트네멘", "tip": "fest(꽉) + nehmen(잡다) = 꽉 붙잡다 🚔 체포!", "warn": "분리동사예요: Die Polizei nimmt ihn fest. / hat ihn festgenommen"},
+      "B1-568": {"pron": "디프", "tip": "영어 thief와 같은 뿌리 🦹 ‘디프’ 하고 슬쩍 사라져요.", "bonus": "훔치다 = stehlen · 도난 = der Diebstahl"},
+      "B2-3583": {"pron": "폴리차이레비어", "tip": "Polizei + Revier(구역) = 동네 경찰서 🏢 구역을 지키는 곳!", "bonus": "가는 곳은 auf: aufs Polizeirevier gehen"},
+      "B1-602": {"pron": "아인브루흐", "tip": "ein(안으로) + brechen(부수다) = 부수고 들어옴 🔨 침입, 빈집털이!", "bonus": "bei Einbruch der Dunkelheit = 해 질 무렵에"},
+      "B2-1681": {"pron": "안차이게 에어슈타텐", "tip": "경찰서에서 쓰는 공식 표현 📝 ‘안차이게(신고서)를 에어슈타텐(제출)!’", "bonus": "짧게 말하면 anzeigen: Ich möchte einen Diebstahl anzeigen.", "warn": "die Anzeige는 신문 ‘광고’라는 뜻도 있어요."},
+      "B1-274": {"pron": "초이게", "tip": "zeugen(증언하다)에서 왔어요 👀 본 걸 말해 주는 사람!", "warn": "약변화 명사: den/dem/des Zeugen"},
+      "A1-424": {"pron": "아우스자게", "tip": "aus(밖으로) + sagen(말하다) = 밖으로 꺼낸 말 🗣️ 진술!", "bonus": "진술하다 = eine Aussage machen"},
+      "B2-271": {"pron": "테터", "tip": "die Tat(행위) + -er, a가 ä로 변신 🕵️ 일을 저지른 사람 = 범인!", "bonus": "피해자는 das Opfer"}
+    },
+    "culture": [
+      "독일의 긴급 전화번호는 경찰 110, 소방·구급 112예요. 위급하지 않은 신고는 가까운 경찰서에 직접 가거나, 많은 주에서 운영하는 온라인 신고(Onlinewache)를 이용할 수도 있어요.",
+      "자전거나 물건을 도둑맞았을 때 보험 처리를 하려면 경찰 신고 확인서가 필요한 경우가 많아요. 그래서 독일 사람들은 자전거 프레임 번호를 미리 적어 두거나 사진을 찍어 두기도 해요. 🚲"
+    ],
+    "quiz": {"q": "경찰서에서 자전거 도난을 신고하려고 해요. 처음에 뭐라고 할까요?", "o": ["Ich möchte einen Diebstahl anzeigen.", "Der Polizist hilft uns.", "Gab es Zeugen für den Unfall?"], "a": 0, "why": "anzeigen은 신고하다라서 ‘도난 신고를 하고 싶어요’라는 뜻이에요."},
+    "outro": "오늘 단어로 ‘자전거를 도둑맞았어요’ 신고 장면을 소리 내 연습해 봐요. 실제로는 쓸 일이 없기를! 🍀"
+  },
+  "en": {
+    "title": "Bike gone? 10 German words for the police station",
+    "hook": "Having your bike stolen is almost a rite of passage in Germany — and that day you'll need words, not a key.",
+    "intro": [
+      "You step outside in the morning and the bike you locked in front of your building is gone. Just the lock is left. You need to report it to the police, but your mind goes completely blank.",
+      "Today's ten words are the ones you need when reporting something to the police. Thief, break-in, witness, statement — with these you can explain calmly what happened. Hopefully you'll never need them, but it's good to be ready! 👮"
+    ],
+    "words": {
+      "A1-218": {"pron": "po-lee-TSY", "tip": "Same root as police 🚓 Just end it with ‘-tsy’.", "warn": "No plural: die Polizei is the force. One officer is der Polizist."},
+      "A2-662": {"pron": "po-lee-TSIST", "tip": "die Polizei + -ist = one officer 👮 Like Pianist, -ist is a person.", "warn": "Weak noun: den Polizisten, dem Polizisten"},
+      "B1-1486": {"pron": "FEST-nay-men", "tip": "fest (firmly) + nehmen (take) = to take firmly 🚔 Arrested!", "warn": "Separable: Die Polizei nimmt ihn fest. / hat ihn festgenommen"},
+      "B1-568": {"pron": "DEEP", "tip": "Same root as thief 🦹 The b sounds like a p at the end.", "bonus": "to steal = stehlen · theft = der Diebstahl"},
+      "B2-3583": {"pron": "po-lee-TSY-ray-veer", "tip": "Polizei + Revier (district) = your local station 🏢 It guards its patch.", "bonus": "Use auf: aufs Polizeirevier gehen"},
+      "B1-602": {"pron": "INE-brookh", "tip": "ein (in) + brechen (break) = a break-in 🔨 Easy to picture!", "bonus": "bei Einbruch der Dunkelheit = at nightfall"},
+      "B2-1681": {"pron": "AN-tsy-guh air-SHTAT-en", "tip": "The official way to report a crime 📝 Hand in (erstatten) a report (Anzeige).", "bonus": "Shorter: anzeigen — Ich möchte einen Diebstahl anzeigen.", "warn": "die Anzeige can also mean a newspaper advert."},
+      "B1-274": {"pron": "TSOY-guh", "tip": "From zeugen, to testify 👀 The person who tells what they saw.", "warn": "Weak noun: den/dem/des Zeugen"},
+      "A1-424": {"pron": "OWS-zah-guh", "tip": "aus (out) + sagen (say) = what you say out loud 🗣️ A statement.", "bonus": "to give a statement = eine Aussage machen"},
+      "B2-271": {"pron": "TAY-ter", "tip": "die Tat (deed) + -er, with a → ä 🕵️ The one who did the deed!", "bonus": "victim = das Opfer"}
+    },
+    "culture": [
+      "Germany's emergency numbers are 110 for the police and 112 for the fire brigade and ambulance. For non-urgent matters you can go to your local police station, and many states also have an online reporting service (Onlinewache).",
+      "If something is stolen, your insurer will often want proof that you reported it to the police. That's why many people note down their bike's frame number or take a photo of it in advance. 🚲"
+    ],
+    "quiz": {"q": "You're at the police station to report your stolen bike. What do you say first?", "o": ["Ich möchte einen Diebstahl anzeigen.", "Der Polizist hilft uns.", "Gab es Zeugen für den Unfall?"], "a": 0, "why": "anzeigen means to report to the police, so this says ‘I'd like to report a theft’."},
+    "outro": "Act out reporting a stolen bike with today's words, out loud. And let's hope you only ever need it for practice! 🍀"
+  },
+  "ja": {
+    "title": "自転車を盗まれたら？警察で使うドイツ語10",
+    "hook": "ドイツでは一度は経験すると言われる自転車の盗難。その日に必要なのは、鍵より単語です。",
+    "intro": [
+      "朝、家の前にとめておいた自転車がなくなっていました。残っているのはロックだけ。警察に届けないといけないのに、何と言えばいいのか頭が真っ白です。",
+      "今日は警察に届け出るときに欠かせない単語を10個集めました。泥棒、侵入、目撃者、供述まで、この10個があれば警察で落ち着いて状況を説明できます。使う日が来ないのがいちばんですが、知っておくと心強いですよ！👮"
+    ],
+    "words": {
+      "A1-218": {"pron": "ポリツァイ", "tip": "英語の police と同じ語源 🚓 最後を「ツァイ」と読めば完成！", "warn": "複数形はなく die Polizei だけ。警察官ひとりは der Polizist です。"},
+      "A2-662": {"pron": "ポリツィスト", "tip": "die Polizei + -ist = 警察官ひとり 👮 Pianist と同じく -ist は人！", "warn": "弱変化名詞：den Polizisten, dem Polizisten"},
+      "B1-1486": {"pron": "フェストネーメン", "tip": "fest（しっかり）+ nehmen（取る）= がっちりつかまえる 🚔 逮捕！", "warn": "分離動詞です：Die Polizei nimmt ihn fest. / hat ihn festgenommen"},
+      "B1-568": {"pron": "ディープ", "tip": "英語の thief と同じ語源 🦹 語末の b は「プ」の音です。", "bonus": "盗む = stehlen・盗難 = der Diebstahl"},
+      "B2-3583": {"pron": "ポリツァイレヴィーア", "tip": "Polizei + Revier（管区）= 地域の警察署 🏢 自分の区域を守る場所！", "bonus": "前置詞は auf：aufs Polizeirevier gehen"},
+      "B1-602": {"pron": "アインブルフ", "tip": "ein（中へ）+ brechen（壊す）= 壊して入ること 🔨 侵入、空き巣！", "bonus": "bei Einbruch der Dunkelheit = 日暮れどきに"},
+      "B2-1681": {"pron": "アンツァイゲ エアシュタッテン", "tip": "警察で使う正式な言い方 📝 Anzeige（届け）を erstatten（提出する）！", "bonus": "短く言うなら anzeigen：Ich möchte einen Diebstahl anzeigen.", "warn": "die Anzeige には新聞の「広告」という意味もあります。"},
+      "B1-274": {"pron": "ツォイゲ", "tip": "zeugen（証言する）から 👀 見たことを話してくれる人！", "warn": "弱変化名詞：den/dem/des Zeugen"},
+      "A1-424": {"pron": "アウスザーゲ", "tip": "aus（外へ）+ sagen（言う）= 口に出した言葉 🗣️ 供述！", "bonus": "供述する = eine Aussage machen"},
+      "B2-271": {"pron": "テーター", "tip": "die Tat（行い）+ -er、a が ä に変身 🕵️ 事をやらかした人 = 犯人！", "bonus": "被害者は das Opfer"}
+    },
+    "culture": [
+      "ドイツの緊急番号は、警察が110、消防・救急が112です。急ぎでない届け出は近くの警察署に行くか、多くの州にあるオンライン届け出（Onlinewache）を使うこともできます。",
+      "自転車や持ち物を盗まれて保険を使うときは、警察に届けた証明が必要になることが多いです。そのため、自転車のフレーム番号をメモしたり、写真を撮っておいたりする人もいます。🚲"
+    ],
+    "quiz": {"q": "警察署で自転車の盗難を届けたいです。最初に何と言いますか？", "o": ["Ich möchte einen Diebstahl anzeigen.", "Der Polizist hilft uns.", "Gab es Zeugen für den Unfall?"], "a": 0, "why": "anzeigen は警察に届け出るという意味なので、「盗難を届けたいのですが」となります。"},
+    "outro": "今日の単語で、自転車の盗難を届ける場面を声に出して練習してみましょう。本番がこないことを祈って！🍀"
+  }
+}

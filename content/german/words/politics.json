@@ -1,0 +1,84 @@
+{
+  "key": "politics",
+  "ko": {
+    "title": "독일 뉴스가 들리기 시작하는 정치 단어 10",
+    "hook": "독일 선거철, 거리마다 붙은 포스터를 읽을 수 있으면 뉴스가 훨씬 재밌어져요.",
+    "intro": [
+      "선거가 다가오면 독일 거리의 가로등마다 정당 포스터가 줄줄이 걸려요. 저녁 뉴스에서는 Koalition, Bundestag, Regierung 같은 단어가 쉬지 않고 나오고, 동료들은 점심시간에 “Wen wählst du?” 하고 진지하게 이야기하죠.",
+      "오늘은 독일 정치 뉴스에 꼭 나오는 단어 10개예요. 이 단어들만 알아도 헤드라인을 읽고, 동료들의 대화에 조금씩 끼어들 수 있어요. 🗳️"
+    ],
+    "words": {
+      "B1-104": {"pron": "발", "tip": "wählen(고르다)의 명사형 🗳️ 선거도 결국 고르는 일!", "bonus": "선택의 여지가 없어요 = Ich habe keine Wahl."},
+      "B1-178": {"pron": "벨렌", "tip": "투표할 때도, 메뉴 고를 때도, 전화번호 누를 때도 wählen ☎️", "bonus": "누구 뽑았어? = Wen hast du gewählt?"},
+      "B1-256": {"pron": "파르타이", "tip": "라틴어 pars(부분) = 사회의 한 부분을 대표하는 무리 🏛️", "warn": "영어 party(파티)가 아니에요! 파티는 die Party."},
+      "A2-271": {"pron": "슈티메", "tip": "목소리를 내는 것 = 표를 던지는 것 🎤 목소리도 표도 Stimme!", "bonus": "동사 stimmen = 맞다: Das stimmt! (맞아!)"},
+      "B1-103": {"pron": "레기룽", "tip": "regieren(다스리다) + -ung = 다스리는 쪽 = 정부 🏢 -ung이니 die!"},
+      "B1-257": {"pron": "폴리티크", "tip": "그리스어 polis(도시국가)에서 🏛️ 영어 politics에서 s를 빼고 k로!", "bonus": "형용사는 politisch: politische Themen"},
+      "B1-1034": {"pron": "폴리티커", "tip": "Politik + -er = 정치를 하는 사람 👔 강세는 ‘리’에!", "bonus": "여성 정치인은 die Politikerin"},
+      "B1-1952": {"pron": "분데스타크", "tip": "Bund(연방) + Tag(옛말로 ‘회의’) = 연방 회의 🏛️", "warn": "여기 Tag는 ‘날’이 아니라 옛 뜻 ‘회의’예요."},
+      "B1-1950": {"pron": "분데스칸츨러", "tip": "Bund(연방) + Kanzler(총리) 🇩🇪 Bundestag과 같은 Bund 형제예요.", "bonus": "대통령은 der Bundespräsident, 장관은 der Minister"},
+      "B2-668": {"pron": "코알리치온", "tip": "라틴어 ‘함께 자라다’ 🤝 여러 정당이 손잡고 함께 정부를 꾸려요.", "bonus": "연정을 구성하다 = eine Koalition bilden"}
+    },
+    "culture": [
+      "독일 연방의회 선거에서는 표를 두 개 던져요. 첫 번째 표(Erststimme)는 우리 지역 후보에게, 두 번째 표(Zweitstimme)는 정당에게 줘요. 그래서 “Wem gibst du deine Zweitstimme?” 같은 말이 선거철에 자주 들려요.",
+      "한 정당이 혼자 과반을 차지하는 일이 드물어서, 선거가 끝나면 여러 정당이 Koalition을 만들기 위해 몇 주씩 협상하는 게 보통이에요. 정당마다 색깔이 있어서 연정도 색깔 조합으로 부르곤 해요.",
+      "선거는 보통 일요일에 열리고, 우편으로 미리 투표하는 Briefwahl도 많이 해요. 참고로 독일에 사는 EU 시민은 지방선거에는 참여할 수 있지만, 연방의회 선거는 독일 국적자만 투표할 수 있어요. 🗳️"
+    ],
+    "quiz": {"q": "동료가 “Welche Partei wählst du?”라고 물었어요. 이것과 거의 같은 뜻의 질문은?", "o": ["Gehst du heute auf eine Party?", "Wie ist deine Stimme?", "Wen wählst du bei der Wahl?"], "a": 2, "why": "Partei는 파티가 아니라 정당! “어느 정당 뽑아?”라는 뜻이라 Wen wählst du bei der Wahl?과 가장 가까워요."},
+    "outro": "오늘은 독일 뉴스 헤드라인 하나를 찾아서, 오늘 배운 단어가 몇 개 나오는지 세어 봐요. 📰"
+  },
+  "en": {
+    "title": "Read the headlines: 10 German words for politics",
+    "hook": "At election time, once you can read the posters on every lamppost, the news suddenly gets interesting.",
+    "intro": [
+      "Before an election, lampposts all over Germany fill up with party posters. The evening news is full of Koalition, Bundestag and Regierung, and at lunch your colleagues ask each other, quite seriously, “Wen wählst du?”",
+      "Today's ten words come up in every German political news story. With them you can follow the headlines and start joining in when colleagues talk politics. 🗳️"
+    ],
+    "words": {
+      "B1-104": {"pron": "VAHL", "tip": "The noun of wählen (to choose) 🗳️ An election is just a big choice.", "bonus": "I have no choice = Ich habe keine Wahl."},
+      "B1-178": {"pron": "VAY-len", "tip": "To vote, to pick from a menu, even to dial a number — all wählen ☎️", "bonus": "Who did you vote for? = Wen hast du gewählt?"},
+      "B1-256": {"pron": "par-TIE", "tip": "From Latin pars (part): a group that speaks for one part of society 🏛️", "warn": "False friend! A party you go to is die Party."},
+      "A2-271": {"pron": "SHTIM-uh", "tip": "Your voice and your vote are the same word — use it! 🎤", "bonus": "The verb stimmen = to be right: Das stimmt! (That's true!)"},
+      "B1-103": {"pron": "reh-GEE-roong", "tip": "regieren (to govern) + -ung = the people who govern 🏢 -ung, so die."},
+      "B1-257": {"pron": "po-li-TEEK", "tip": "From Greek polis (city-state) 🏛️ English politics without the s, with a k.", "bonus": "The adjective: politisch — politische Themen"},
+      "B1-1034": {"pron": "po-LEE-ti-ker", "tip": "Politik + -er = someone who does politics 👔 Stress on ‘LEE’.", "bonus": "A female politician is die Politikerin."},
+      "B1-1952": {"pron": "BOON-des-tahk", "tip": "Bund (federation) + Tag (an old word for assembly) 🏛️", "warn": "This Tag doesn't mean ‘day’ — it's the old sense, ‘assembly’."},
+      "B1-1950": {"pron": "BOON-des-kants-ler", "tip": "Bund (federation) + Kanzler (chancellor) 🇩🇪 Same Bund as in Bundestag.", "bonus": "President: der Bundespräsident · minister: der Minister"},
+      "B2-668": {"pron": "ko-ah-li-TSYOHN", "tip": "From Latin for ‘growing together’ 🤝 Several parties form one government.", "bonus": "to form a coalition = eine Koalition bilden"}
+    },
+    "culture": [
+      "In German federal elections you get two votes. The first (Erststimme) goes to a local candidate, the second (Zweitstimme) to a party. That's why you'll hear questions like “Wem gibst du deine Zweitstimme?” before an election.",
+      "One party rarely wins a majority on its own, so after an election parties usually spend weeks negotiating a Koalition. Each party has a colour, and coalitions are often nicknamed after their colour combinations.",
+      "Elections are usually held on a Sunday, and many people vote early by post (Briefwahl). EU citizens living in Germany can vote in local elections, but only German citizens can vote for the Bundestag. 🗳️"
+    ],
+    "quiz": {"q": "A colleague asks, “Welche Partei wählst du?” Which question means roughly the same?", "o": ["Gehst du heute auf eine Party?", "Wie ist deine Stimme?", "Wen wählst du bei der Wahl?"], "a": 2, "why": "A Partei is a political party, not a party you go to, so the closest question is Wen wählst du bei der Wahl?"},
+    "outro": "Find one German news headline today and count how many of today's words you can spot. 📰"
+  },
+  "ja": {
+    "title": "ドイツのニュースがわかり始める政治の単語10",
+    "hook": "選挙の時期、街じゅうのポスターが読めるようになると、ニュースがぐっと面白くなります。",
+    "intro": [
+      "選挙が近づくと、ドイツの街の街灯には政党のポスターがずらりと並びます。夜のニュースでは Koalition、Bundestag、Regierung といった言葉が次々と流れ、同僚たちはランチタイムに「Wen wählst du?」と真剣に話しています。",
+      "今日はドイツの政治ニュースに必ず出てくる単語を10個集めました。これだけで見出しが読めて、同僚の会話にも少しずつ入れるようになります。🗳️"
+    ],
+    "words": {
+      "B1-104": {"pron": "ヴァール", "tip": "wählen（選ぶ）の名詞形 🗳️ 選挙も結局は「選ぶ」こと！", "bonus": "選択の余地がない = Ich habe keine Wahl."},
+      "B1-178": {"pron": "ヴェーレン", "tip": "投票するのも、メニューを選ぶのも、電話番号を押すのも wählen ☎️", "bonus": "誰に投票した？ = Wen hast du gewählt?"},
+      "B1-256": {"pron": "パルタイ", "tip": "ラテン語 pars（部分）から = 社会の一部分を代表するグループ 🏛️", "warn": "英語の party（パーティー）ではありません！パーティーは die Party です。"},
+      "A2-271": {"pron": "シュティンメ", "tip": "声を上げる = 票を入れる 🎤 声も票も Stimme！", "bonus": "動詞 stimmen = 合っている：Das stimmt!（その通り！）"},
+      "B1-103": {"pron": "レギールング", "tip": "regieren（治める）+ -ung = 治める側 = 政府 🏢 -ung なので die！"},
+      "B1-257": {"pron": "ポリティーク", "tip": "ギリシャ語 polis（都市国家）から 🏛️ 英語の politics から s を取って k に！", "bonus": "形容詞は politisch：politische Themen"},
+      "B1-1034": {"pron": "ポリーティカー", "tip": "Politik + -er = 政治をする人 👔 アクセントは「リー」に！", "bonus": "女性の政治家は die Politikerin"},
+      "B1-1952": {"pron": "ブンデスターク", "tip": "Bund（連邦）+ Tag（古い意味で「会議」）= 連邦の会議 🏛️", "warn": "この Tag は「日」ではなく、古い意味の「会議」です。"},
+      "B1-1950": {"pron": "ブンデスカンツラー", "tip": "Bund（連邦）+ Kanzler（首相）🇩🇪 Bundestag と同じ Bund の仲間です。", "bonus": "大統領は der Bundespräsident、大臣は der Minister"},
+      "B2-668": {"pron": "コアリツィオーン", "tip": "ラテン語の「一緒に育つ」🤝 いくつかの政党が手を組んで政府を作ります。", "bonus": "連立を組む = eine Koalition bilden"}
+    },
+    "culture": [
+      "ドイツの連邦議会選挙では、一人2票を投じます。第1票（Erststimme）は地元の候補者に、第2票（Zweitstimme）は政党に入れます。選挙の時期には「Wem gibst du deine Zweitstimme?」という会話がよく聞こえます。",
+      "一つの政党だけで過半数を取ることはめったにないので、選挙のあとは複数の政党が Koalition を組むために何週間も交渉するのがふつうです。政党にはそれぞれ色があり、連立は色の組み合わせで呼ばれることもあります。",
+      "選挙はふつう日曜日に行われ、郵便で事前に投票する Briefwahl もよく使われます。ちなみに、ドイツに住むEU市民は地方選挙には参加できますが、連邦議会選挙で投票できるのはドイツ国籍の人だけです。🗳️"
+    ],
+    "quiz": {"q": "同僚に「Welche Partei wählst du?」と聞かれました。ほぼ同じ意味の質問はどれ？", "o": ["Gehst du heute auf eine Party?", "Wie ist deine Stimme?", "Wen wählst du bei der Wahl?"], "a": 2, "why": "Partei はパーティーではなく政党なので、いちばん近いのは Wen wählst du bei der Wahl? です。"},
+    "outro": "今日はドイツのニュースの見出しを一つ探して、今日の単語がいくつ出てくるか数えてみましょう。📰"
+  }
+}

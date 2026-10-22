@@ -1,0 +1,84 @@
+{
+  "key": "reactions",
+  "ko": {
+    "title": "대화가 술술 풀리는 독일어 맞장구 10",
+    "hook": "독일어 대화에서 말문이 막힐 때, 한 단어 리액션이 분위기를 살려 줘요.",
+    "intro": [
+      "독일 친구 이야기를 열심히 듣고 있는데, 저는 계속 고개만 끄덕끄덕. ‘Ja… ja…’만 반복하다 보니 친구가 ‘듣고 있어?’ 하는 눈빛을 보내더라고요.",
+      "오늘은 독일 사람들이 입에 달고 사는 맞장구와 리액션 10개예요. 맞아!, 진짜?, 아쉽다!, 몰라~까지, 이 10개면 문장을 길게 못 만들어도 대화에 쏙 들어갈 수 있어요. 😲"
+    ],
+    "words": {
+      "B1-379": {"pron": "게나우", "tip": "독일 사람 하루 100번 쓰는 말 🎯 ‘맞아, 바로 그거!’ 고개 끄덕이며 Genau!", "bonus": "더 확신할 땐 Ganz genau! = 완전 맞아!"},
+      "A2-632": {"pron": "비어클리히", "tip": "끝을 올려 Wirklich? 하면 ‘정말?’ 🤨 문장 안에선 Das ist wirklich gut! = 정말 좋아!", "bonus": "같은 뜻으로 tatsächlich도 많이 써요."},
+      "B1-368": {"pron": "에히트", "tip": "Echt?! = 진짜?! 🤯 친구끼리는 wirklich보다 echt가 더 자주 나와요.", "bonus": "강조할 때: echt gut = 진짜 좋아 · echt schlimm = 진짜 심해"},
+      "A2-1091": {"pron": "아하", "tip": "머릿속에 전구가 켜지는 소리 💡 우리말 ‘아하!’랑 똑같아요.", "bonus": "더 자연스러운 짝꿍: Ach so! = 아, 그렇구나!"},
+      "A1-375": {"pron": "톨", "tip": "원래 ‘미친’이라는 뜻이었대요 🤩 미친 듯이 좋다 → 멋지다!", "warn": "비꼬는 말투로 Na toll! 하면 ‘아주 잘~됐네’라는 반대 뜻이에요."},
+      "A2-565": {"pron": "샤데", "tip": "Schaden(손해)에서 온 말 😢 손해 봐서 아쉽다 = Schade!", "bonus": "Wie schade! = 너무 아쉽다! · Schade, dass… = ~라서 아쉬워"},
+      "A2-1043": {"pron": "와우", "tip": "영어 그대로 빌려 왔어요 🤩 독일식으로는 Wahnsinn! (대박!)도 함께!", "bonus": "젊은 사람들은 krass! (쩐다!)도 자주 써요."},
+      "B1-2138": {"pron": "오예", "tip": "‘오예~’ 신나는 소리 같지만 사실은 ‘아이고!’ 😩 반대 뜻이니 조심!", "bonus": "더 극적으로: Ach du meine Güte! = 어머나 세상에!"},
+      "A2-921": {"pron": "나야", "tip": "na(글쎄) + ja(응) = ‘음… 뭐 그럭저럭’ 🤷 망설임이 다 들어 있어요.", "bonus": "naja 또는 na ja, 둘 다 써요."},
+      "B1-1894": {"pron": "카이네 아눙", "tip": "Ahnung(짐작)이 kein(없음) = 1도 모르겠어 🤷‍♀️ 어깨 으쓱하며 말하기!", "warn": "친구 사이 표현이에요. 정중하게는 Das weiß ich leider nicht."}
+    },
+    "culture": [
+      "독일 사람과 대화하다 보면 ‘Genau’가 정말 자주 들려요. 맞장구로도 쓰고, 말을 정리할 때 ‘Genau, also…’처럼 습관처럼 넣기도 해요. 처음엔 웃기지만, 어느새 나도 따라 하게 돼요.",
+      "독일어 리액션은 꽤 솔직한 편이에요. ‘Naja’나 ‘Geht so’라는 대답이 나오면 정말로 그저 그렇다는 뜻이고, 반대로 ‘Nicht schlecht!’는 생각보다 높은 칭찬이에요.",
+      "그리고 대학 강의가 끝나면 박수 대신 책상을 주먹으로 똑똑 두드리는 경우가 많아요. 처음 보면 깜짝 놀라지만, 그게 독일식 ‘잘 들었습니다’ 리액션이에요. 👏"
+    ],
+    "quiz": {"q": "친구가 ‘Ich kann leider nicht zu deiner Party kommen.’이라고 해요. 어떤 리액션이 어울릴까요?", "o": ["Toll!", "Schade!", "Genau!"], "a": 1, "why": "Schade! = 아쉽다! 친구가 못 온다는 아쉬운 소식에 딱 맞는 반응이에요."},
+    "outro": "오늘 하루 한국어로 맞장구칠 때마다 속으로 독일어 리액션을 하나씩 붙여 봐요. Genau부터 시작하면 금방 입에 붙어요! 😉"
+  },
+  "en": {
+    "title": "10 German reactions that keep a conversation going",
+    "hook": "When your German runs out mid-chat, a one-word reaction can save the moment.",
+    "intro": [
+      "Your German friend is telling a long story, and all you can do is nod. ‘Ja… ja… ja…’ — until they give you that look that says ‘Are you even listening?’",
+      "Today's ten words are the little reactions Germans use all the time: exactly!, really?, what a shame!, no idea! Even if you can't build long sentences yet, these let you jump right into a conversation. 😲"
+    ],
+    "words": {
+      "B1-379": {"pron": "geh-NOW", "tip": "Germans say it a hundred times a day 🎯 Nod and go Genau! = Exactly!", "bonus": "Even stronger: Ganz genau! = Absolutely!"},
+      "A2-632": {"pron": "VEERK-likh", "tip": "Raise your voice: Wirklich? = Really? 🤨 In a sentence: Das ist wirklich gut!", "bonus": "tatsächlich is another common way to say ‘really, actually’."},
+      "B1-368": {"pron": "EKHT", "tip": "Echt?! = Seriously?! 🤯 Among friends it's even more common than wirklich.", "bonus": "As a booster: echt gut = really good · echt schlimm = really bad"},
+      "A2-1091": {"pron": "a-HA", "tip": "The sound of a light bulb switching on in your head 💡 Same as English!", "bonus": "Its best friend: Ach so! = Oh, I see!"},
+      "A1-375": {"pron": "TOLL", "tip": "It used to mean ‘mad’ — madly good = great 🤩", "warn": "Said sarcastically, Na toll! means ‘Oh, great…’ — the opposite."},
+      "A2-565": {"pron": "SHAH-duh", "tip": "From Schaden (damage) — a little loss = what a shame 😢", "bonus": "Wie schade! = What a pity! · Schade, dass… = It's a shame that…"},
+      "A2-1043": {"pron": "WOW", "tip": "Borrowed straight from English 🤩 The German-flavoured version: Wahnsinn! (Insane!)", "bonus": "Younger people also say krass! (wild!)"},
+      "B1-2138": {"pron": "oh-YAY", "tip": "Sounds like ‘oh yay!’ but means ‘oh dear!’ 😩 Don't mix them up!", "bonus": "More dramatic: Ach du meine Güte! = Oh my goodness!"},
+      "A2-921": {"pron": "na-YA", "tip": "na (well) + ja (yes) = ‘weeell… yes, sort of’ 🤷 All the hesitation in one word.", "bonus": "You'll see it written naja or na ja."},
+      "B1-1894": {"pron": "KY-nuh AH-noong", "tip": "No Ahnung (inkling) at all = no idea 🤷‍♀️ Shrug while you say it!", "warn": "It's casual. To be polite: Das weiß ich leider nicht."}
+    },
+    "culture": [
+      "Talk to Germans for a while and you'll hear Genau everywhere. It's a reaction, but people also use it as a filler when wrapping up a thought: ‘Genau, also…’. It sounds funny at first — then you catch yourself doing it.",
+      "German reactions tend to be honest. If someone answers ‘Naja’ or ‘Geht so’, they really mean it was just okay. On the other hand, ‘Nicht schlecht!’ is often bigger praise than it sounds.",
+      "And at many universities, students knock on their desks at the end of a lecture instead of clapping. It's startling the first time, but it's a very German way of saying thank you. 👏"
+    ],
+    "quiz": {"q": "Your friend says, ‘Ich kann leider nicht zu deiner Party kommen.’ Which reaction fits?", "o": ["Toll!", "Schade!", "Genau!"], "a": 1, "why": "Schade! = What a shame! — the right response to disappointing news."},
+    "outro": "Every time you react to something today, add the German version in your head. Start with Genau and it'll be stuck in your mouth by tonight! 😉"
+  },
+  "ja": {
+    "title": "会話が弾むドイツ語のあいづち10",
+    "hook": "ドイツ語の会話で言葉に詰まったら、ひとことリアクションが場を救ってくれます。",
+    "intro": [
+      "ドイツ人の友だちの話を一生懸命聞いているのに、私はうなずくだけ。「Ja… ja…」を繰り返していたら、友だちに「ちゃんと聞いてる？」という目で見られてしまいました。",
+      "今日はドイツ人が口ぐせのように使うあいづちとリアクションを10個集めました。そうそう！、本当？、残念！、知らない〜まで、長い文が作れなくても、この10個で会話にすっと入れます。😲"
+    ],
+    "words": {
+      "B1-379": {"pron": "ゲナウ", "tip": "ドイツ人が1日100回は言う言葉 🎯 うなずきながら Genau! =「そうそう、それ！」", "bonus": "もっと強く：Ganz genau! =「まさにそのとおり！」"},
+      "A2-632": {"pron": "ヴィルクリヒ", "tip": "語尾を上げて Wirklich? =「本当？」🤨 文の中では Das ist wirklich gut! =「本当にいいね！」", "bonus": "同じような意味で tatsächlich もよく使います。"},
+      "B1-368": {"pron": "エヒト", "tip": "Echt?! =「マジで？！」🤯 友だち同士なら wirklich より echt のほうがよく出てきます。", "bonus": "強調にも：echt gut =「すごくいい」· echt schlimm =「本当にひどい」"},
+      "A2-1091": {"pron": "アハ", "tip": "頭の中で電球がパッとつく音 💡 日本語の「あっ、なるほど！」です。", "bonus": "相棒は Ach so! =「ああ、そうなんだ！」"},
+      "A1-375": {"pron": "トル", "tip": "もとは「狂った」という意味 🤩 狂うほどいい → すごい！", "warn": "皮肉っぽく Na toll! と言うと「あーあ、最高だね…」という逆の意味になります。"},
+      "A2-565": {"pron": "シャーデ", "tip": "Schaden（損害）から 😢 損した気分 = Schade!（残念！）", "bonus": "Wie schade! =「なんて残念！」· Schade, dass… =「〜なのは残念」"},
+      "A2-1043": {"pron": "ワオ", "tip": "英語からそのまま借りた言葉 🤩 ドイツっぽく言うなら Wahnsinn!（ヤバい！）", "bonus": "若い人は krass!（すげー！）もよく使います。"},
+      "B1-2138": {"pron": "オイェ", "tip": "「オーイエー！」と喜んでいるようで、実は「あらら…」😩 意味は逆なので要注意！", "bonus": "もっと大げさに：Ach du meine Güte! =「まあ、なんてこと！」"},
+      "A2-921": {"pron": "ナヤ", "tip": "na（さて）+ ja（うん）=「うーん、まあね」🤷 ためらいがぜんぶ詰まっています。", "bonus": "naja とも na ja とも書きます。"},
+      "B1-1894": {"pron": "カイネ アーヌング", "tip": "Ahnung（見当）が kein（ない）= さっぱりわからない 🤷‍♀️ 肩をすくめながらどうぞ！", "warn": "くだけた表現です。丁寧には Das weiß ich leider nicht."}
+    },
+    "culture": [
+      "ドイツ人と話していると、Genau が本当によく聞こえてきます。あいづちとしてだけでなく、話をまとめるときに「Genau, also…」と口ぐせのように入れる人も。最初はおかしく感じても、いつの間にか自分もまねしています。",
+      "ドイツ語のリアクションはかなり正直です。「Naja」や「Geht so」と返ってきたら、本当に「まあまあ」という意味。逆に「Nicht schlecht!」は、聞こえる以上のほめ言葉であることが多いです。",
+      "それから、大学の講義が終わると、拍手のかわりに机をこぶしでコンコンたたくことがよくあります。初めて見るとびっくりしますが、これがドイツ流の「ありがとうございました」です。👏"
+    ],
+    "quiz": {"q": "友だちが「Ich kann leider nicht zu deiner Party kommen.」と言いました。合うリアクションはどれ？", "o": ["Toll!", "Schade!", "Genau!"], "a": 1, "why": "Schade! =「残念！」。友だちが来られないという残念な知らせにぴったりの反応です。"},
+    "outro": "今日はあいづちを打つたびに、心の中でドイツ語のリアクションも添えてみましょう。まずは Genau から始めれば、すぐ口ぐせになりますよ！😉"
+  }
+}

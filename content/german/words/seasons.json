@@ -1,0 +1,84 @@
+{
+  "key": "seasons",
+  "ko": {
+    "title": "봄여름가을겨울, 독일어 10단어로 한 바퀴",
+    "hook": "독일 사람과 친해지는 가장 쉬운 주제는 날씨, 그리고 계절이에요.",
+    "intro": [
+      "베를린의 첫 겨울, 오후 네 시만 되면 깜깜해져서 깜짝 놀랐어요. 동료가 „Der Winter hier ist lang, oder?“ 하길래 고개를 끄덕였는데, 사실 „저 추워요“라는 말도 틀리게 하고 있었더라고요.",
+      "오늘은 사계절과 날씨에 관한 단어 10개를 모았어요. 이 10개면 좋아하는 계절을 말하고, 덥다·춥다를 제대로 표현하고, 엘리베이터 스몰토크도 문제없어요. 🍂"
+    ],
+    "words": {
+      "A1-647": {"pron": "야레스차이트", "tip": "Jahr(해) + Zeit(시간) = 한 해 속의 시간 🗓️ 계절은 die Zeit을 따라 die!", "bonus": "좋아하는 계절 = die Lieblingsjahreszeit"},
+      "A1-260": {"pron": "프륄링", "tip": "früh(이른) + -ling = 한 해의 이른 부분 🌸 봄은 일찍 오는 아이!", "bonus": "계절 앞엔 im: im Frühling"},
+      "A1-136": {"pron": "조머", "tip": "영어 summer와 같은 뿌리 ☀️ s는 ‘ㅈ’처럼 부드럽게 조머!", "bonus": "여름휴가 = der Sommerurlaub"},
+      "A1-261": {"pron": "헤릅스트", "tip": "영어 harvest(수확)와 같은 뿌리 🍁 가을은 거두는 계절!", "warn": "rbst 자음 덩어리가 어려워요. ‘헤릅스트’ 천천히 연습!"},
+      "A1-137": {"pron": "빈터", "tip": "영어 winter와 철자가 똑같아요 ❄️ w만 ‘ㅂ’으로 읽으면 끝!", "bonus": "계절 이름은 전부 der: der Frühling, der Sommer, der Herbst, der Winter"},
+      "A1-200": {"pron": "바름", "tip": "영어 warm 그대로 🧣 Zieh dich warm an! = 따뜻하게 입어!", "warn": "비교급은 움라우트: wärmer, am wärmsten"},
+      "A1-364": {"pron": "하이스", "tip": "영어 hot과 같은 뿌리 🔥 ‘하이스’ 하고 뜨거운 숨을 내쉬어요!", "warn": "‘나 더워’는 Mir ist heiß. Ich bin heiß.는 야한 뜻이 돼요!"},
+      "A1-199": {"pron": "칼트", "tip": "영어 cold와 같은 뿌리 🥶 콜드 → 칼트!", "warn": "‘나 추워’는 Mir ist kalt. Ich bin kalt.는 ‘나는 차가운 사람이야’예요."},
+      "A1-139": {"pron": "슈네", "tip": "영어 snow와 같은 뿌리 ☃️ 눈사람은 der Schneemann!", "bonus": "눈이 와요 = Es schneit."},
+      "B1-1652": {"pron": "라웁", "tip": "영어 leaf와 같은 뿌리 🍂 바닥에 수북이 쌓인 나뭇잎 전체가 Laub!", "warn": "모아 부르는 말이라 단수만 써요. 잎 한 장은 das Blatt."}
+    },
+    "culture": [
+      "독일은 계절마다 해 길이 차이가 커요. 6월에는 밤 열 시가 가까워도 밝은 날이 많고, 12월에는 오후 네 시쯤 어두워지기도 해요. 그래서 독일 사람들은 여름 햇빛을 정말 소중하게 즐겨요.",
+      "계절마다 기다리는 음식도 있어요. 봄에는 흰 아스파라거스(Spargel) 철이 오고, 가을에는 막 만든 와인 Federweißer에 양파 케이크 Zwiebelkuchen을 곁들이는 지역이 많아요.",
+      "독일 사람들이 자주 하는 말이 있어요. „Es gibt kein schlechtes Wetter, nur falsche Kleidung.“ 나쁜 날씨는 없고 잘못된 옷만 있다는 뜻이에요. 🧥"
+    ],
+    "quiz": {"q": "겨울에 너무 추워요. ‘나 추워요’를 독일어로 맞게 말한 건?", "o": ["Ich bin kalt.", "Mir ist kalt.", "Ich habe kalt."], "a": 1, "why": "추위나 더위를 느낄 땐 Mir ist kalt.처럼 3격 mir를 써요."},
+    "outro": "오늘 창밖을 보고 „Heute ist es …“로 날씨를 한 문장 말해 봐요. 그리고 좋아하는 계절도요: „Meine Lieblingsjahreszeit ist …“ 🍂"
+  },
+  "en": {
+    "title": "A year in 10 German words",
+    "hook": "The easiest way to chat with Germans? Talk about the weather and the seasons.",
+    "intro": [
+      "My first winter in Berlin, it got dark at four in the afternoon. A colleague said „Der Winter hier ist lang, oder?“ and I nodded — but it turned out I'd been saying ‘I'm cold’ wrong all along.",
+      "Today's ten words cover the four seasons and the weather. With them you can say which season you love, say you're hot or cold the right way and handle any small talk in the lift. 🍂"
+    ],
+    "words": {
+      "A1-647": {"pron": "YAH-res-tsite", "tip": "Jahr (year) + Zeit (time) = a time of the year 🗓️ It follows die Zeit, so die.", "bonus": "favourite season = die Lieblingsjahreszeit"},
+      "A1-260": {"pron": "FRUE-ling", "tip": "früh (early) + -ling = the early part of the year 🌸", "bonus": "Seasons take im: im Frühling"},
+      "A1-136": {"pron": "ZOM-er", "tip": "Same root as summer ☀️ The s sounds like a soft z.", "bonus": "summer holiday = der Sommerurlaub"},
+      "A1-261": {"pron": "HAIRPST", "tip": "Same root as harvest 🍁 Autumn is when you bring the crops in.", "warn": "That rbst cluster is tricky. Practise it slowly!"},
+      "A1-137": {"pron": "VIN-ter", "tip": "Spelt just like winter ❄️ Just say the w as a v.", "bonus": "All seasons are der: der Frühling, der Sommer, der Herbst, der Winter"},
+      "A1-200": {"pron": "VARM", "tip": "English warm, German v-sound 🧣 Zieh dich warm an! = Wrap up warm!", "warn": "Comparative with umlaut: wärmer, am wärmsten"},
+      "A1-364": {"pron": "HICE", "tip": "Same root as hot 🔥 Breathe out a hot ‘hice’.", "warn": "I'm hot = Mir ist heiß. Ich bin heiß. means you're sexy!"},
+      "A1-199": {"pron": "KALT", "tip": "Cold → kalt, nearly the same 🥶", "warn": "I'm cold = Mir ist kalt. Ich bin kalt. means you're cold-hearted."},
+      "A1-139": {"pron": "SHNAY", "tip": "Same root as snow ☃️ A snowman is der Schneemann.", "bonus": "It's snowing = Es schneit."},
+      "B1-1652": {"pron": "LOWP", "tip": "Same root as leaf 🍂 Laub is the whole pile on the ground.", "warn": "Collective, singular only. One leaf is das Blatt."}
+    },
+    "culture": [
+      "Daylight changes a lot through the German year. In June it's often still light close to 10 p.m., while in December it can be dark by around four. No wonder Germans make the most of summer sunshine.",
+      "Each season has food people look forward to. Spring brings white asparagus season (Spargel), and in autumn many regions enjoy young, still-fermenting wine called Federweißer with onion tart (Zwiebelkuchen).",
+      "You'll often hear Germans say: „Es gibt kein schlechtes Wetter, nur falsche Kleidung.“ There's no bad weather, only the wrong clothes. 🧥"
+    ],
+    "quiz": {"q": "It's freezing in winter. How do you say ‘I'm cold’ correctly?", "o": ["Ich bin kalt.", "Mir ist kalt.", "Ich habe kalt."], "a": 1, "why": "For feeling hot or cold, German uses the dative: Mir ist kalt."},
+    "outro": "Look out of the window and describe today's weather in one sentence: „Heute ist es …“ Then add „Meine Lieblingsjahreszeit ist …“ 🍂"
+  },
+  "ja": {
+    "title": "春夏秋冬をドイツ語10語でひとめぐり",
+    "hook": "ドイツの人と仲良くなるいちばん簡単な話題は、天気と季節です。",
+    "intro": [
+      "ベルリンで迎えた初めての冬、午後4時には真っ暗になって驚きました。同僚に „Der Winter hier ist lang, oder?“ と言われてうなずいたものの、実は「寒い」の言い方をずっと間違えていたんです。",
+      "今日は四季と天気の単語を10個集めました。この10個があれば、好きな季節を話したり、暑い・寒いを正しく言ったり、エレベーターでの世間話も大丈夫です。🍂"
+    ],
+    "words": {
+      "A1-647": {"pron": "ヤーレスツァイト", "tip": "Jahr（年）+ Zeit（時）= 一年の中の時 🗓️ die Zeit にならって die！", "bonus": "好きな季節 = die Lieblingsjahreszeit"},
+      "A1-260": {"pron": "フリューリング", "tip": "früh（早い）+ -ling = 一年の早い部分 🌸 春は早起きさん！", "bonus": "季節には im：im Frühling"},
+      "A1-136": {"pron": "ゾマー", "tip": "英語の summer と同じ語源 ☀️ s はやわらかく「ゾ」！", "bonus": "夏休み = der Sommerurlaub"},
+      "A1-261": {"pron": "ヘルプスト", "tip": "英語の harvest（収穫）と同じ語源 🍁 秋は実りの季節！", "warn": "rbst の子音の連続が難しいです。ゆっくり練習を！"},
+      "A1-137": {"pron": "ヴィンター", "tip": "つづりは英語の winter と同じ ❄️ w を「ヴ」と読めばOK！", "bonus": "季節はすべて der：der Frühling, der Sommer, der Herbst, der Winter"},
+      "A1-200": {"pron": "ヴァルム", "tip": "英語の warm そのまま 🧣 Zieh dich warm an! = 暖かくしてね！", "warn": "比較級はウムラウト：wärmer, am wärmsten"},
+      "A1-364": {"pron": "ハイス", "tip": "英語の hot と同じ語源 🔥「ハイス」と熱い息を吐くイメージ！", "warn": "「暑い」は Mir ist heiß. Ich bin heiß. は性的な意味になります！"},
+      "A1-199": {"pron": "カルト", "tip": "英語の cold と同じ語源 🥶 コールド → カルト！", "warn": "「寒い」は Mir ist kalt. Ich bin kalt. は「私は冷たい人間だ」です。"},
+      "A1-139": {"pron": "シュネー", "tip": "英語の snow と同じ語源 ☃️ 雪だるまは der Schneemann！", "bonus": "雪が降る = Es schneit."},
+      "B1-1652": {"pron": "ラウプ", "tip": "英語の leaf と同じ語源 🍂 地面にどっさり積もった葉っぱ全体が Laub！", "warn": "まとめて呼ぶ言葉なので単数のみ。葉っぱ1枚は das Blatt。"}
+    },
+    "culture": [
+      "ドイツは季節による日の長さの差が大きい国です。6月は夜10時近くまで明るい日が多く、12月は午後4時ごろには暗くなることも。だからドイツの人は夏の日差しをとても大切に楽しみます。",
+      "季節ごとの楽しみな食べ物もあります。春は白アスパラガス（Spargel）の季節、秋は発酵途中の新しいワイン Federweißer に玉ねぎのケーキ Zwiebelkuchen を合わせる地域が多いです。",
+      "ドイツの人がよく言う言葉があります。„Es gibt kein schlechtes Wetter, nur falsche Kleidung.“ 悪い天気はない、あるのは間違った服だけ、という意味です。🧥"
+    ],
+    "quiz": {"q": "冬、とても寒いです。「寒いです」を正しく言っているのは？", "o": ["Ich bin kalt.", "Mir ist kalt.", "Ich habe kalt."], "a": 1, "why": "暑さや寒さを感じるときは、Mir ist kalt. のように3格の mir を使います。"},
+    "outro": "今日は窓の外を見て „Heute ist es …“ で天気をひとこと言ってみましょう。好きな季節も：„Meine Lieblingsjahreszeit ist …“ 🍂"
+  }
+}

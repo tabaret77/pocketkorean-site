@@ -1,0 +1,81 @@
+{
+  "key": "genres",
+  "ko": {
+    "title": "오늘 밤 뭐 볼까? 영화·드라마 장르 독일어 10",
+    "hook": "독일에서는 일요일 밤 8시 15분이 되면 온 나라가 같은 범죄 드라마를 켜요.",
+    "intro": [
+      "금요일 저녁, 독일 친구들과 영화 보기로 했어요. „Lieber Krimi oder Komödie?“ 다들 의견을 내는데 나는 그냥 „Egal!“만 외쳤죠. 사실 공포 영화만 빼면 다 좋은데 말이에요.",
+      "오늘은 영화와 드라마 장르를 말하는 단어 10개를 모았어요. 이 10개면 좋아하는 장르를 말하고, 보고 난 감상까지 한마디 할 수 있어요. 독일 드라마로 공부할 때도 도움이 돼요! 📺"
+    ],
+    "words": {
+      "A2-502": {"pron": "크리미", "tip": "Kriminalroman을 귀엽게 줄인 말 🔍 crime이랑 소리가 비슷하죠?", "bonus": "Ich liebe Krimis! = 나 추리물 너무 좋아!"},
+      "B2-1358": {"pron": "코뫼디에", "tip": "영어 comedy와 같은 그리스어 뿌리 😂 -ie로 끝나서 die!", "warn": "복수는 die Komödien, 발음은 ‘코뫼디엔’이에요."},
+      "B1-1650": {"pron": "드라마", "tip": "한국어 ‘드라마’랑 똑같아요 🎭 공짜 단어!", "bonus": "Mach kein Drama daraus! = 별일 아닌 걸로 호들갑 떨지 마!", "warn": "복수는 die Dramen이에요."},
+      "B2-2908": {"pron": "호러", "tip": "라틴어 horror(소름)에서 왔어요 👻 말할 때도 몸이 떨려요!", "bonus": "구어로 ‘최악’이라는 뜻도: Das war der totale Horror!"},
+      "B2-961": {"pron": "도쿠멘타어필름", "tip": "dokumentarisch + Film 🎥 영어 documentary film과 똑같은 구조예요.", "bonus": "줄여서 die Doku라고 많이 해요."},
+      "B2-1357": {"pron": "슈필필름", "tip": "spielen(연기하다) + Film 🎬 배우가 연기하는 영화 = 극영화!"},
+      "B2-2978": {"pron": "타트오어트", "tip": "die Tat(범행) + der Ort(장소) = 범행 현장 🕵️ 독일 국민 드라마 이름이기도 해요!", "bonus": "Heute Abend kommt ein neuer Tatort. = 오늘 밤 새 타트오르트 해!"},
+      "A2-370": {"pron": "루스티히", "tip": "die Lust(즐거움) + -ig = 웃긴 😆 즐거움이 가득한 영화!", "warn": "영어 lusty(욕정적인)랑은 전혀 상관없어요. lustig는 그냥 ‘웃긴’이에요."},
+      "B1-1608": {"pron": "그루젤리히", "tip": "sich gruseln(오싹해하다)에서 왔어요 🕸️ ‘그루~젤’ 하고 등골이 서늘!", "bonus": "명사 der Grusel = 오싹함 · Mir ist das zu gruselig. = 나한텐 너무 무서워."},
+      "C1-4074": {"pron": "장르", "tip": "프랑스어 그대로라서 한국어 ‘장르’랑 소리가 거의 같아요 🇫🇷", "bonus": "Was ist dein Lieblingsgenre? = 제일 좋아하는 장르가 뭐야?"}
+    },
+    "culture": [
+      "Tatort는 1970년부터 이어진 독일의 대표 범죄 드라마예요. 보통 일요일 저녁 8시 15분에 방송되고, 도시마다 다른 형사 팀이 나와요. 친구들끼리 모여 보거나 술집에서 다 같이 보는 사람도 많아요.",
+      "독일 영화관과 TV에서는 외국 영화를 대부분 독일어로 더빙해서 보여 줘요. 원어로 보고 싶다면 영화관 시간표에서 OV(원어)나 OmU(원어+독일어 자막)를 찾아봐요. 🎬"
+    ],
+    "quiz": {"q": "영화를 보고 나왔는데 너무 웃겼어요. 친구에게 뭐라고 할까요?", "o": ["Der Keller ist mir zu gruselig.", "Die Polizei sperrte den Tatort ab.", "Der Film war sehr lustig."], "a": 2, "why": "lustig는 웃기다는 뜻이라서 ‘영화 정말 웃겼어’라는 말이에요."},
+    "outro": "제일 좋아하는 영화 세 편을 떠올리고 독일어로 장르를 말해 봐요. Krimi? Komödie? 아니면 Horror? 🍿"
+  },
+  "en": {
+    "title": "What shall we watch? 10 German words for film genres",
+    "hook": "In Germany, at quarter past eight on a Sunday evening, half the country switches on the same crime show.",
+    "intro": [
+      "It's Friday night and you're watching a film with German friends. „Lieber Krimi oder Komödie?“ Everyone has an opinion, and you just shout „Egal!“ — even though you'd actually watch anything except horror.",
+      "Today's ten words are for talking about film and TV genres. With them you can say what you like and give a quick verdict afterwards. Handy when you start learning with German series, too! 📺"
+    ],
+    "words": {
+      "A2-502": {"pron": "KREE-mee", "tip": "A cute short form of Kriminalroman 🔍 Sounds a bit like crime, right?", "bonus": "Ich liebe Krimis! = I love crime dramas!"},
+      "B2-1358": {"pron": "ko-MUR-dee-uh", "tip": "Same Greek root as comedy 😂 Ends in -ie, so it's die.", "warn": "Plural: die Komödien."},
+      "B1-1650": {"pron": "DRAH-ma", "tip": "Just like English drama 🎭 A free word!", "bonus": "Mach kein Drama daraus! = Don't make a fuss about it!", "warn": "Plural: die Dramen."},
+      "B2-2908": {"pron": "HOR-or", "tip": "From Latin horror, a shudder 👻 You shiver just saying it!", "bonus": "Colloquially it means a nightmare: Das war der totale Horror!"},
+      "B2-961": {"pron": "doh-koo-men-TAR-film", "tip": "dokumentarisch + Film 🎥 Built just like documentary film.", "bonus": "People usually just say die Doku."},
+      "B2-1357": {"pron": "SHPEEL-film", "tip": "spielen (to act) + Film 🎬 A film where actors play roles = a feature film."},
+      "B2-2978": {"pron": "TAHT-ort", "tip": "die Tat (deed, crime) + der Ort (place) = crime scene 🕵️ Also Germany's most famous TV series!", "bonus": "Heute Abend kommt ein neuer Tatort. = There's a new Tatort on tonight."},
+      "A2-370": {"pron": "LOOS-tish", "tip": "die Lust (fun, pleasure) + -ig = funny 😆 A film full of fun!", "warn": "False friend: it has nothing to do with lusty. lustig just means funny."},
+      "B1-1608": {"pron": "GROO-zuh-lish", "tip": "From sich gruseln, to shudder 🕸️ GROO-zuh-lish — a chill down your spine!", "bonus": "Mir ist das zu gruselig. = That's too creepy for me."},
+      "C1-4074": {"pron": "ZHAHN-ruh", "tip": "Straight from French, pronounced the French way 🇫🇷", "bonus": "Was ist dein Lieblingsgenre? = What's your favourite genre?"}
+    },
+    "culture": [
+      "Tatort is Germany's best-known crime series and has been running since 1970. It's usually on Sunday evenings at 8:15 pm, with a different team of detectives in each city. Lots of people watch it together with friends, or even in pubs.",
+      "Foreign films in German cinemas and on TV are mostly dubbed into German. If you want the original, look for OV (original version) or OmU (original with German subtitles) on the cinema listings. 🎬"
+    ],
+    "quiz": {"q": "You've just seen a really funny film. What do you tell your friend?", "o": ["Der Keller ist mir zu gruselig.", "Die Polizei sperrte den Tatort ab.", "Der Film war sehr lustig."], "a": 2, "why": "lustig means funny, so this says ‘The film was really funny’."},
+    "outro": "Think of your three favourite films and say their genres in German. Krimi? Komödie? Or Horror? 🍿"
+  },
+  "ja": {
+    "title": "今夜は何を見る？映画・ドラマのジャンルのドイツ語10",
+    "hook": "ドイツでは日曜の夜8時15分になると、国じゅうが同じ刑事ドラマをつけます。",
+    "intro": [
+      "金曜の夜、ドイツ人の友だちと映画を見ることに。「Lieber Krimi oder Komödie?」みんなが意見を言うなか、私は「Egal!」と言うだけ。ホラー以外なら何でもいいんですけどね。",
+      "今日は映画やドラマのジャンルを表す単語を10個集めました。この10個があれば、好きなジャンルを伝えたり、見終わった感想をひとこと言ったりできます。ドイツのドラマで勉強するときにも役立ちますよ！📺"
+    ],
+    "words": {
+      "A2-502": {"pron": "クリーミ", "tip": "Kriminalroman をかわいく略した言葉 🔍 crime と音が似ていますね？", "bonus": "Ich liebe Krimis! = ミステリーが大好き！"},
+      "B2-1358": {"pron": "コメーディエ", "tip": "英語の comedy と同じギリシャ語が語源 😂 -ie で終わるので die！", "warn": "複数形は die Komödien です。"},
+      "B1-1650": {"pron": "ドラーマ", "tip": "日本語の「ドラマ」とほぼ同じ 🎭 タダで覚えられる単語！", "bonus": "Mach kein Drama daraus! = 大げさに騒がないで！", "warn": "複数形は die Dramen です。"},
+      "B2-2908": {"pron": "ホロア", "tip": "ラテン語の horror（身震い）から 👻 言うだけでぞくっ！", "bonus": "口語で「最悪」の意味も：Das war der totale Horror!"},
+      "B2-961": {"pron": "ドクメンタールフィルム", "tip": "dokumentarisch + Film 🎥 英語の documentary film と同じ作りです。", "bonus": "ふだんは略して die Doku と言います。"},
+      "B2-1357": {"pron": "シュピールフィルム", "tip": "spielen（演じる）+ Film 🎬 俳優が演じる映画 = 劇映画！"},
+      "B2-2978": {"pron": "タートオルト", "tip": "die Tat（犯行）+ der Ort（場所）= 犯行現場 🕵️ ドイツの国民的ドラマの名前でもあります！", "bonus": "Heute Abend kommt ein neuer Tatort. = 今夜、新しい Tatort をやるよ。"},
+      "A2-370": {"pron": "ルスティヒ", "tip": "die Lust（楽しさ）+ -ig = おもしろい 😆 楽しさいっぱいの映画！", "warn": "英語の lusty（好色な）とは無関係。lustig はただ「おもしろい」です。"},
+      "B1-1608": {"pron": "グルーゼリヒ", "tip": "sich gruseln（ぞっとする）から 🕸️「グルーゼ…」と背筋がひんやり！", "bonus": "Mir ist das zu gruselig. = 私には怖すぎる。"},
+      "C1-4074": {"pron": "ジャンル", "tip": "フランス語のままなので、日本語の「ジャンル」とほぼ同じ音 🇫🇷", "bonus": "Was ist dein Lieblingsgenre? = いちばん好きなジャンルは？"}
+    },
+    "culture": [
+      "Tatort は1970年から続くドイツの代表的な刑事ドラマです。ふつう日曜の夜8時15分に放送され、町ごとに違う刑事チームが登場します。友だちと集まって見たり、バーでみんなで見たりする人もたくさんいます。",
+      "ドイツの映画館やテレビでは、外国映画はほとんどドイツ語吹き替えです。原語で見たいときは、映画館の上映表で OV（オリジナル版）や OmU（原語＋ドイツ語字幕）を探してみましょう。🎬"
+    ],
+    "quiz": {"q": "見てきた映画がすごくおもしろかったです。友だちに何と言いますか？", "o": ["Der Keller ist mir zu gruselig.", "Die Polizei sperrte den Tatort ab.", "Der Film war sehr lustig."], "a": 2, "why": "lustig はおもしろいという意味なので、「映画すごくおもしろかった」となります。"},
+    "outro": "好きな映画を3本思い浮かべて、ジャンルをドイツ語で言ってみましょう。Krimi？ Komödie？ それとも Horror？🍿"
+  }
+}

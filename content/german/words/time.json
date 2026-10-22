@@ -1,0 +1,84 @@
+{
+  "key": "time",
+  "ko": {
+    "title": "약속 시간 안 헷갈리는 독일어 10",
+    "hook": "‘halb drei’에 맞춰 3시 반에 나갔다면, 이미 한 시간 늦은 거예요.",
+    "intro": [
+      "독일 친구가 ‘Treffen wir uns um halb drei?’라고 해서 3시 반에 카페에 갔어요. 그런데 친구는 이미 커피를 다 마시고 있더라고요. 네, halb drei는 2시 반이었어요.",
+      "오늘은 시간 말하기와 약속 잡기에 꼭 필요한 단어 10개예요. 몇 시인지 묻고, 약속을 잡고, 미루고, 취소하는 것까지 이 10개면 해결돼요. 시간 약속에 진심인 나라니까 미리 챙겨 둬요! ⏰"
+    ],
+    "words": {
+      "A1-029": {"pron": "우어", "tip": "영어 hour와 같은 뿌리 ⌚ drei Uhr = 3시, 손목의 Uhr = 시계!", "warn": "‘한 시간(60분)’은 eine Stunde예요. Uhr는 시계와 시각에만 써요."},
+      "A1-646": {"pron": "우어차이트", "tip": "Uhr(시계) + Zeit(시간) = 시계가 가리키는 시각 🕒", "bonus": "몇 시예요? = Wie viel Uhr ist es?"},
+      "A1-631": {"pron": "할프", "tip": "영어 half 🍕 halb drei는 ‘3시로 가는 길의 반’ = 2시 반!", "warn": "halb 뒤의 숫자에서 1을 빼야 해요: halb acht = 7시 30분."},
+      "A2-278": {"pron": "피어텔", "tip": "vier(4)가 들어 있으니 4분의 1 🕞 1시간의 4분의 1 = 15분!", "bonus": "Viertel nach drei = 3시 15분 · Viertel vor vier = 3시 45분"},
+      "A1-378": {"pron": "프뤼", "tip": "Frühstück(아침밥)은 ‘이른 한 조각’ 🌅 일찍 먹으니까 früh!", "bonus": "morgen früh = 내일 아침"},
+      "A1-379": {"pron": "슈페트", "tip": "‘슈페트~’ 하고 늘어지는 소리, 딱 늦잠 잔 느낌 😴", "bonus": "Wie spät ist es? = 몇 시예요? (직역은 ‘얼마나 늦었어요?’)"},
+      "A2-078": {"pron": "퓡크틀리히", "tip": "Punkt(점, 영어 point)에 딱 맞춘 = 정시 🎯 ‘퓡!’ 하고 정각 도착!", "bonus": "명사 die Pünktlichkeit = 시간 엄수"},
+      "BL-02-02": {"pron": "테어민", "tip": "독일 생활은 Termin으로 시작해서 Termin으로 끝나요 📅 병원도 관청도 미용실도 전부 Termin!", "bonus": "einen Termin machen/vereinbaren = 예약을 잡다"},
+      "A2-173": {"pron": "페어쉬벤", "tip": "schieben(밀다) = 약속을 다른 날로 쓱 밀기 👉 영어 shove와 같은 뿌리예요.", "bonus": "~로 미루다 = verschieben auf + 4격: auf Freitag verschieben"},
+      "A2-172": {"pron": "압자겐", "tip": "ab(떨어져) + sagen(말하다) = ‘안 갈게’라고 말하기 🙅 반대로 ‘갈게’는 zusagen!", "warn": "분리동사예요: Ich sage ab. · Ich habe abgesagt."}
+    },
+    "culture": [
+      "독일에서 ‘정시’는 정말 정시예요. 친구 약속은 몇 분 늦어도 괜찮지만, 업무 미팅이나 병원 예약은 조금 일찍 도착하는 게 예의예요. 늦을 것 같으면 미리 문자나 전화로 알리는 게 기본이에요.",
+      "대학에는 재미있는 규칙이 있어요. 강의 시간 옆에 c.t.(cum tempore)라고 적혀 있으면 15분 늦게 시작하고, s.t.(sine tempore)면 정각에 시작해요. 이 15분을 ‘akademisches Viertel’이라고 불러요.",
+      "그리고 약속을 못 지킬 것 같으면 그냥 안 가는 대신 꼭 absagen 하세요. 특히 병원이나 관청 Termin은 잡기 어려운 경우가 많아서, 일찍 취소해 주면 다른 사람이 그 자리를 쓸 수 있어요. 📅"
+    ],
+    "quiz": {"q": "친구가 몇 시냐고 물어요. 시계를 보니 2시 30분이에요. 뭐라고 할까요?", "o": ["Es ist halb zwei.", "Es ist Viertel nach zwei.", "Es ist halb drei."], "a": 2, "why": "halb drei는 ‘3시가 되기 반 시간 전’, 즉 2시 30분이에요."},
+    "outro": "오늘 시계를 볼 때마다 독일어로 시간을 말해 봐요. halb랑 Viertel만 익숙해지면 약속에 늦을 일은 없어요! ⌚"
+  },
+  "en": {
+    "title": "Never be late again: 10 German time words",
+    "hook": "If you turned up at 3:30 for ‘halb drei’, you're already an hour late.",
+    "intro": [
+      "A German friend asks, ‘Treffen wir uns um halb drei?’ So you stroll into the café at half past three — and your friend has already finished their coffee. Yes: halb drei means 2:30.",
+      "Today's ten words help you tell the time and handle appointments. Ask what time it is, set a meeting, move it and cancel it — all in German. In a country that takes time seriously, these are worth knowing! ⏰"
+    ],
+    "words": {
+      "A1-029": {"pron": "OOR", "tip": "Same root as English hour ⌚ drei Uhr = three o'clock, and the Uhr on your wrist is your watch.", "warn": "‘An hour’ (60 minutes) is eine Stunde. Uhr is only for clocks and clock times."},
+      "A1-646": {"pron": "OOR-tsite", "tip": "Uhr (clock) + Zeit (time) = the time the clock shows 🕒", "bonus": "What time is it? = Wie viel Uhr ist es?"},
+      "A1-631": {"pron": "HALP", "tip": "English half 🍕 halb drei = halfway to three = 2:30!", "warn": "Take one off the number: halb acht = 7:30, not 8:30."},
+      "A2-278": {"pron": "FEER-tel", "tip": "vier (four) is inside — a fourth, a quarter 🕞 A quarter of an hour is 15 minutes.", "bonus": "Viertel nach drei = 3:15 · Viertel vor vier = 3:45"},
+      "A1-378": {"pron": "FRÜ", "tip": "Frühstück (breakfast) is the ‘early piece’ 🌅 You eat it früh!", "bonus": "morgen früh = tomorrow morning"},
+      "A1-379": {"pron": "SHPAYT", "tip": "Say it slowly, ‘shpaaayt’ — sounds like someone who overslept 😴", "bonus": "Wie spät ist es? = What time is it? (literally ‘How late is it?’)"},
+      "A2-078": {"pron": "PÜNKT-likh", "tip": "Punkt = point: right on the point 🎯 Same idea as English punctual.", "bonus": "The noun: die Pünktlichkeit = punctuality"},
+      "BL-02-02": {"pron": "tair-MEEN", "tip": "Life in Germany runs on Termine 📅 Doctor, town hall, hairdresser — you need a Termin for all of them.", "warn": "False friend: a Termin is an appointment, not a school term (das Semester)."},
+      "A2-173": {"pron": "fair-SHEE-ben", "tip": "schieben = to push (like English shove) — you push the meeting to another day 👉", "bonus": "to move it to Friday = auf Freitag verschieben"},
+      "A2-172": {"pron": "AP-zah-gen", "tip": "ab (off) + sagen (say) = say it's off 🙅 Saying yes to an invite is zusagen.", "warn": "Separable verb: Ich sage ab. · Ich habe abgesagt."}
+    },
+    "culture": [
+      "In Germany, on time really means on time. A few minutes late for friends is usually fine, but for work meetings or doctor's appointments it's polite to arrive a little early. If you're running late, a quick message or call is expected.",
+      "Universities have a fun rule: if a lecture time says c.t. (cum tempore), it starts fifteen minutes later; s.t. (sine tempore) means it starts sharp. Those fifteen minutes are called the akademisches Viertel.",
+      "And if you can't make an appointment, don't just stay away — absagen! Doctor's and office appointments are often hard to get, so cancelling early lets someone else take your slot. 📅"
+    ],
+    "quiz": {"q": "A friend asks the time. Your watch says 2:30. What do you say?", "o": ["Es ist halb zwei.", "Es ist Viertel nach zwei.", "Es ist halb drei."], "a": 2, "why": "halb drei means ‘half an hour before three’, so 2:30."},
+    "outro": "Each time you check the clock today, say the time in German. Once halb and Viertel feel natural, you'll never be late for a German friend again! ⌚"
+  },
+  "ja": {
+    "title": "待ち合わせで迷わないドイツ語10",
+    "hook": "「halb drei」と言われて3時半に行ったら、もう1時間の遅刻です。",
+    "intro": [
+      "ドイツ人の友だちに「Treffen wir uns um halb drei?」と言われ、3時半にカフェへ。すると友だちはもうコーヒーを飲み終えていました。そう、halb drei は2時半だったんです。",
+      "今日は時間の言い方と約束に欠かせない単語を10個集めました。時間を聞く、約束する、延期する、キャンセルする――この10個でぜんぶできます。時間に厳しい国なので、しっかり準備しておきましょう！⏰"
+    ],
+    "words": {
+      "A1-029": {"pron": "ウーア", "tip": "英語の hour と同じルーツ ⌚ drei Uhr = 3時、手首の Uhr = 時計！", "warn": "「1時間（60分）」は eine Stunde。Uhr は時計と時刻だけに使います。"},
+      "A1-646": {"pron": "ウーアツァイト", "tip": "Uhr（時計）+ Zeit（時間）= 時計が指す時刻 🕒", "bonus": "今何時ですか？ = Wie viel Uhr ist es?"},
+      "A1-631": {"pron": "ハルプ", "tip": "英語の half 🍕 halb drei は「3時への道の半分」= 2時半！", "warn": "後ろの数字から1を引きます：halb acht = 7時半。"},
+      "A2-278": {"pron": "フィアテル", "tip": "vier（4）が入っているので4分の1 🕞 1時間の4分の1 = 15分！", "bonus": "Viertel nach drei = 3時15分 · Viertel vor vier = 3時45分"},
+      "A1-378": {"pron": "フリュー", "tip": "Frühstück（朝ごはん）は「早いひと口」🌅 早く食べるから früh！", "bonus": "morgen früh = 明日の朝"},
+      "A1-379": {"pron": "シュペート", "tip": "「シュペ〜ト」と伸ばすと、寝坊した感じが出ます 😴", "bonus": "Wie spät ist es? = 何時ですか？（直訳は「どれくらい遅い？」）"},
+      "A2-078": {"pron": "ピュンクトリヒ", "tip": "Punkt（点、英語の point）にぴったり = 時間どおり 🎯", "bonus": "名詞 die Pünktlichkeit = 時間厳守"},
+      "BL-02-02": {"pron": "テルミーン", "tip": "ドイツ生活は Termin で始まり Termin で終わる 📅 病院も役所も美容院もぜんぶ Termin！", "bonus": "予約を取る = einen Termin machen / vereinbaren"},
+      "A2-173": {"pron": "フェアシーベン", "tip": "schieben（押す）= 約束を別の日へスッと押しやる 👉 英語の shove と同じルーツです。", "bonus": "〜に延期する = verschieben auf + 4格：auf Freitag verschieben"},
+      "A2-172": {"pron": "アップザーゲン", "tip": "ab（離れて）+ sagen（言う）=「行けません」と言う 🙅「行きます」は zusagen！", "warn": "分離動詞です：Ich sage ab. · Ich habe abgesagt."}
+    },
+    "culture": [
+      "ドイツでは「時間どおり」は本当に時間どおりです。友だちとの約束なら数分の遅れはふつう大丈夫ですが、仕事の打ち合わせや病院の予約は少し早めに着くのがマナー。遅れそうなときは、早めにメッセージや電話で知らせるのが基本です。",
+      "大学には面白いルールがあります。講義の時間に c.t.（cum tempore）とあれば15分遅れて始まり、s.t.（sine tempore）なら時間ちょうどに始まります。この15分を akademisches Viertel と呼びます。",
+      "それから、約束に行けないときは黙って休まず、必ず absagen しましょう。病院や役所の Termin は取りにくいことが多いので、早めにキャンセルすれば他の人がその枠を使えます。📅"
+    ],
+    "quiz": {"q": "友だちに時間を聞かれました。時計は2時30分です。何と言いますか？", "o": ["Es ist halb zwei.", "Es ist Viertel nach zwei.", "Es ist halb drei."], "a": 2, "why": "halb drei は「3時の30分前」、つまり2時30分です。"},
+    "outro": "今日は時計を見るたびに、ドイツ語で時間を言ってみましょう。halb と Viertel に慣れれば、もう待ち合わせで迷いません！⌚"
+  }
+}

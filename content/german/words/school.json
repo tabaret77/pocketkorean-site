@@ -1,0 +1,84 @@
+{
+  "key": "school",
+  "ko": {
+    "title": "독일 교실로 들어가는 단어 10개",
+    "hook": "아이의 첫 학부모 상담, 혹은 어학원 첫날. 교실 단어부터 알고 들어가면 훨씬 덜 떨려요.",
+    "intro": [
+      "베를린 이웃집 아이가 큰 원뿔 모양 선물 봉투를 안고 학교에 가요. 엄마는 시간표 얘기, 숙제 얘기를 하는데 저는 반쯤만 알아들었어요. 독일어 수업에서도 선생님이 “Schreibt das von der Tafel ab!” 하는데 순간 멍해졌고요.",
+      "오늘은 학교생활에서 매일 듣는 단어 10개예요. 이 단어들이면 아이 학교 이야기도, 내 어학원 수업도 훨씬 편하게 따라갈 수 있어요. 🏫"
+    ],
+    "words": {
+      "A1-036": {"pron": "슐레", "tip": "영어 school에 -e만 붙이면 끝 🏫 학교에 가다는 in die Schule gehen", "bonus": "초등학교 die Grundschule · 어학원 die Sprachschule"},
+      "A1-150": {"pron": "레러", "tip": "lehren(가르치다) + -er = 가르치는 사람 👩‍🏫 lernen(배우다)과 형제 단어예요."},
+      "A1-276": {"pron": "쉴러", "tip": "Schule + -er = 학교 다니는 사람 🎒 Ü는 입을 ‘우’ 모양으로 하고 ‘이’ 소리!", "warn": "대학생은 Schüler가 아니라 Student예요."},
+      "A1-278": {"pron": "클라세", "tip": "반도 학년도 Klasse, 그리고 감탄사로 “Klasse!” 하면 ‘최고!’ 👍", "bonus": "몇 학년이에요? = In welcher Klasse bist du?"},
+      "A2-104": {"pron": "운터리히트", "tip": "unter(아래) + richten(바로잡다) → 앞에 서서 바로잡아 주는 시간 📚", "bonus": "동사 unterrichten = 가르치다"},
+      "A2-105": {"pron": "하우스아우프가베", "tip": "Haus(집) + Aufgabe(과제) = 집에 가져가는 과제 📝 -e로 끝나니 die!", "warn": "보통 복수로 써요: Hausaufgaben machen (숙제하다)"},
+      "A2-680": {"pron": "슈툰덴플란", "tip": "Stunde(교시) + Plan(계획) = 교시 계획표 🗓️", "bonus": "학교에서 die Stunde는 ‘한 시간’이 아니라 ‘한 교시’예요."},
+      "A2-223": {"pron": "파흐", "tip": "원래 ‘칸’이라는 뜻 🗄️ 지식을 칸칸이 나눈 게 과목!", "warn": "복수는 Umlaut가 생겨요: die Fächer", "bonus": "제일 좋아하는 과목 = das Lieblingsfach"},
+      "A2-594": {"pron": "타펠", "tip": "라틴어 tabula, 영어 table과 친척 🧑‍🏫 판판한 판이면 다 Tafel!", "bonus": "초콜릿 한 판 = eine Tafel Schokolade"},
+      "A1-289": {"pron": "페리엔", "tip": "라틴어 ‘축제일’에서 왔어요 🏖️ 방학은 늘 축제죠!", "warn": "복수로만 써요: die Ferien. 직장인 휴가는 der Urlaub예요."}
+    },
+    "culture": [
+      "독일 아이들은 초등학교 입학 날 커다란 원뿔 모양 봉투, Schultüte를 받아요. 안에는 사탕과 학용품이 가득해서, 아이들에게는 생일만큼 기다려지는 날이에요. 🎒",
+      "성적은 숫자로 매기는데 1이 제일 좋고 6이 제일 나빠요. 한국 감각으로 “1점 받았어!” 하면 슬퍼 보이지만, 독일에서는 최고 점수라는 뜻이에요.",
+      "방학 날짜는 주(Bundesland)마다 달라요. 특히 여름방학은 주마다 시기를 나눠서, 고속도로가 한꺼번에 막히지 않게 해요. 휴가를 계획할 때는 그 지역 Ferien 일정을 먼저 확인해 보세요."
+    ],
+    "quiz": {"q": "아이에게 숙제를 했는지 묻고 싶어요. 뭐라고 할까요?", "o": ["Die Ferien beginnen morgen.", "Der Lehrer schreibt an die Tafel.", "Hast du deine Hausaufgaben gemacht?"], "a": 2, "why": "Hast du deine Hausaufgaben gemacht? = 숙제 했어? Hausaufgaben은 보통 복수로 써요."},
+    "outro": "오늘은 내 시간표를 독일어로 말해 봐요. Am Montag habe ich… 로 시작하면 돼요. 📚"
+  },
+  "en": {
+    "title": "Back to school: 10 German classroom words",
+    "hook": "Whether it's a parents' evening or your first day at language school, these words make the classroom less scary.",
+    "intro": [
+      "The neighbours' little girl walks to school hugging a huge cone full of sweets. Her mum chats to me about the timetable and homework, and I follow about half. In my own German class, the teacher says “Schreibt das von der Tafel ab!” and my mind goes blank.",
+      "Today's ten words are the ones you hear in school every single day. With them you can follow your child's school news and your own language course much more easily. 🏫"
+    ],
+    "words": {
+      "A1-036": {"pron": "SHOO-luh", "tip": "English school with an -e on the end 🏫 to go to school = in die Schule gehen", "bonus": "primary school: die Grundschule · language school: die Sprachschule"},
+      "A1-150": {"pron": "LAY-rer", "tip": "lehren (to teach) + -er = the one who teaches 👩‍🏫 A cousin of lernen and English learn."},
+      "A1-276": {"pron": "SHUE-ler", "tip": "Schule + -er = someone who goes to school 🎒 For ü, say ‘ee’ with rounded lips.", "warn": "University students are Studenten, not Schüler."},
+      "A1-278": {"pron": "KLAS-suh", "tip": "Class, school year — and “Klasse!” means ‘Great!’ 👍", "bonus": "What year are you in? = In welcher Klasse bist du?"},
+      "A2-104": {"pron": "OON-ter-risht", "tip": "From unterrichten (to teach) — the time when someone teaches you 📚", "bonus": "The verb: unterrichten = to teach"},
+      "A2-105": {"pron": "HOWSS-owf-gah-buh", "tip": "Haus (house) + Aufgabe (task) = the task you take home 📝 Ends in -e, so die.", "warn": "Usually plural: Hausaufgaben machen (to do homework)"},
+      "A2-680": {"pron": "SHTOON-den-plahn", "tip": "Stunde (lesson) + Plan = a plan of your lessons 🗓️", "bonus": "At school, die Stunde means a lesson or period, not just an hour."},
+      "A2-223": {"pron": "FAKH", "tip": "It first meant a compartment 🗄️ Subjects are knowledge in little boxes!", "warn": "Plural with umlaut: die Fächer", "bonus": "favourite subject = das Lieblingsfach"},
+      "A2-594": {"pron": "TAH-fel", "tip": "From Latin tabula, like English table 🧑‍🏫 Any flat board is a Tafel.", "bonus": "a bar of chocolate = eine Tafel Schokolade"},
+      "A1-289": {"pron": "FAIR-ee-en", "tip": "From Latin for feast days 🏖️ The holidays are always a party!", "warn": "Plural only: die Ferien. A worker's holiday is der Urlaub."}
+    },
+    "culture": [
+      "On their first day of primary school, German children get a Schultüte: a big paper cone filled with sweets and school things. For many kids it's as exciting as a birthday. 🎒",
+      "Grades go from 1 to 6, and 1 is the best. So if a German child proudly says they got a 1, that's top marks, not a disaster.",
+      "School holiday dates depend on the federal state (Bundesland). Summer holidays are staggered between states, partly so that not everyone hits the motorway at once. If you're planning a trip, check the local Ferien dates first."
+    ],
+    "quiz": {"q": "You want to ask your child if they've done their homework. What do you say?", "o": ["Die Ferien beginnen morgen.", "Der Lehrer schreibt an die Tafel.", "Hast du deine Hausaufgaben gemacht?"], "a": 2, "why": "Hast du deine Hausaufgaben gemacht? = Have you done your homework? Hausaufgaben is usually plural."},
+    "outro": "Say your own timetable out loud in German today. Start with Am Montag habe ich… 📚"
+  },
+  "ja": {
+    "title": "ドイツの教室で毎日聞く単語10",
+    "hook": "子どもの保護者面談でも、語学学校の初日でも、教室の単語を知っていれば緊張がぐっと減ります。",
+    "intro": [
+      "近所の女の子が、大きな円すい形の袋を抱えて学校へ向かいます。お母さんが時間割や宿題の話をしてくれるのに、私がわかったのは半分くらい。自分のドイツ語の授業でも、先生に「Schreibt das von der Tafel ab!」と言われて一瞬固まりました。",
+      "今日は学校生活で毎日聞く単語を10個集めました。これで子どもの学校の話も、自分の語学クラスも、ずっと楽についていけます。🏫"
+    ],
+    "words": {
+      "A1-036": {"pron": "シューレ", "tip": "英語の school に -e をつけるだけ 🏫 学校へ行く = in die Schule gehen", "bonus": "小学校 die Grundschule・語学学校 die Sprachschule"},
+      "A1-150": {"pron": "レーラー", "tip": "lehren（教える）+ -er = 教える人 👩‍🏫 lernen（学ぶ）とは兄弟の単語です。"},
+      "A1-276": {"pron": "シューラー", "tip": "Schule + -er = 学校に通う人 🎒 ü は口を「ウ」の形にして「イ」と言います。", "warn": "大学生は Schüler ではなく Student です。"},
+      "A1-278": {"pron": "クラッセ", "tip": "クラスも学年も Klasse。「Klasse!」と言えば「最高！」👍", "bonus": "何年生？ = In welcher Klasse bist du?"},
+      "A2-104": {"pron": "ウンターリヒト", "tip": "unterrichten（教える）から来た、教えてもらう時間 📚", "bonus": "動詞 unterrichten = 教える"},
+      "A2-105": {"pron": "ハウスアウフガーベ", "tip": "Haus（家）+ Aufgabe（課題）= 家に持ち帰る課題 📝 -e で終わるので die！", "warn": "ふつう複数形で使います：Hausaufgaben machen（宿題をする）"},
+      "A2-680": {"pron": "シュトゥンデンプラーン", "tip": "Stunde（時限）+ Plan（計画）= 授業の予定表 🗓️", "bonus": "学校の die Stunde は「1時間」ではなく「1時限」のことです。"},
+      "A2-223": {"pron": "ファッハ", "tip": "もとは「仕切り」の意味 🗄️ 知識を棚に分けたものが教科！", "warn": "複数形はウムラウトがつきます：die Fächer", "bonus": "いちばん好きな教科 = das Lieblingsfach"},
+      "A2-594": {"pron": "ターフェル", "tip": "ラテン語 tabula、英語の table の親戚 🧑‍🏫 平らな板ならみんな Tafel！", "bonus": "板チョコ1枚 = eine Tafel Schokolade"},
+      "A1-289": {"pron": "フェーリエン", "tip": "ラテン語の「祝祭日」から 🏖️ 長い休みはいつだってお祭りです！", "warn": "複数形だけで使います：die Ferien。社会人の休暇は der Urlaub です。"}
+    },
+    "culture": [
+      "ドイツの子どもは小学校の入学式の日に、大きな円すい形の袋 Schultüte をもらいます。中にはお菓子や文房具がぎっしり。誕生日と同じくらい楽しみな日です。🎒",
+      "成績は数字で、1がいちばん良くて6がいちばん悪い評価です。ドイツの子が「1を取った！」と喜んでいたら、それは最高点という意味です。",
+      "学校の休みの日程は州（Bundesland）ごとに違います。特に夏休みは州ごとに時期をずらして、高速道路がいっせいに混まないようにしています。旅行を計画するときは、その地域の Ferien の日程を先に確認しましょう。"
+    ],
+    "quiz": {"q": "子どもに宿題をやったか聞きたいです。何と言いますか？", "o": ["Die Ferien beginnen morgen.", "Der Lehrer schreibt an die Tafel.", "Hast du deine Hausaufgaben gemacht?"], "a": 2, "why": "Hast du deine Hausaufgaben gemacht? =「宿題やった？」Hausaufgaben はふつう複数形で使います。"},
+    "outro": "今日は自分の時間割をドイツ語で言ってみましょう。Am Montag habe ich… から始めればOKです。📚"
+  }
+}

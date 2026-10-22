@@ -1,0 +1,84 @@
+{
+  "key": "sightseeing",
+  "ko": {
+    "title": "독일 여행 가방에 넣어 갈 관광 단어 10",
+    "hook": "성 앞까지 갔는데 투어 시간을 못 알아들어서 놓친다면, 너무 아깝잖아요.",
+    "intro": [
+      "주말 여행으로 하이델베르크에 왔어요. 구시가지를 걷다가 성으로 올라가는데, 매표소에 \"Nächste Führung: 14 Uhr\"라고 쓰여 있어요. 사진은 찍어도 되는지, 기념품 가게는 어디인지도 궁금하고요.",
+      "오늘은 관광할 때 꼭 만나는 단어 10개를 골랐어요. 이걸로 안내판을 읽고, 투어에 참여하고, 사진 찍어도 되는지까지 물어볼 수 있어요. 카메라 배터리만큼 단어도 충전해 가요! 📸"
+    ],
+    "words": {
+      "A2-034": {"pron": "제엔스뷔르디히카이트", "tip": "sehen(보다) + würdig(~할 가치가 있는) + -keit = 볼 가치가 있는 것 👀 -keit이니까 die!", "warn": "길어서 겁나지만 복수만 조심: die Sehenswürdigkeiten"},
+      "A1-434": {"pron": "베지히티겐", "tip": "die Sicht(시야)가 들어 있어요 🔭 이리저리 시선을 주며 둘러보기!", "bonus": "집을 보러 갈 때도 써요: eine Wohnung besichtigen"},
+      "A2-604": {"pron": "투리스트", "tip": "Tour + -ist = 투어 하는 사람 🧳 -ist로 끝나는 사람은 남성 der!", "warn": "약변화 명사예요: den/dem/des Touristen. 여성은 die Touristin."},
+      "A1-478": {"pron": "퓌룽", "tip": "führen(이끌다) + -ung = 이끌어 주는 것, 가이드 투어 🚩", "bonus": "투어는 몇 시에 시작해요? = Wann beginnt die Führung?"},
+      "A1-543": {"pron": "라이제퓌러", "tip": "Reise(여행) + Führer(이끄는 사람) 📖 사람 가이드도, 가이드북도 둘 다 돼요!", "bonus": "복수도 모양이 같아요: die Reiseführer"},
+      "A2-1087": {"pron": "알트슈타트", "tip": "alt(오래된) + Stadt(도시) = 구시가지 🏘️ 영어 old와 alt가 닮았죠?", "warn": "복수는 움라우트: die Altstädte."},
+      "A2-253": {"pron": "무제움", "tip": "그리스어로 ‘뮤즈 여신들의 집’ 🏛️ 영어 museum과 같아요.", "warn": "복수는 die Museen이에요. Museums가 아니에요!"},
+      "A2-570": {"pron": "슐로스", "tip": "schließen(잠그다)에서 왔어요 🏰 그래서 ‘자물쇠’라는 뜻도 있어요!", "warn": "Schloss는 화려한 궁전, 요새 같은 성은 die Burg예요."},
+      "A1-312": {"pron": "포토그라피렌", "tip": "Foto + -ieren = 사진 찍다 📷 -ieren 동사는 과거분사에 ge-가 안 붙어요: hat fotografiert", "bonus": "사진 한 장 찍어 주시겠어요? = Könnten Sie ein Foto von uns machen?"},
+      "B1-1157": {"pron": "주베니어", "tip": "프랑스어로 ‘추억’ 🎁 기념품은 추억을 손에 쥐는 거죠.", "bonus": "기념품 가게 = der Souvenirladen"}
+    },
+    "culture": [
+      "독일에서는 월요일에 문을 닫는 박물관이 많아요. 여행 계획을 짤 때 요일을 꼭 확인하세요. 대신 다른 날 저녁에 늦게까지 여는 곳도 있어요.",
+      "도시마다 빨간색이나 초록색 ‘i’ 표시가 있는 관광 안내소(Touristeninformation)가 있어서 지도와 투어 정보를 얻기 좋아요. 영어 투어도 많지만, 독일어 투어에 도전하면 듣기 연습이 확 돼요.",
+      "교회나 궁전 안에서는 사진 촬영이 금지되거나 플래시만 안 되는 경우가 있어요. 애매하면 먼저 물어보는 게 제일이에요! 📷"
+    ],
+    "quiz": {"q": "궁전 안을 구경하고 있어요. 사진을 찍어도 되는지 물어보려면?", "o": ["Wo ist die Altstadt?", "Darf man hier fotografieren?", "Ich habe ein Souvenir gekauft."], "a": 1, "why": "fotografieren = 사진을 찍다. ‘여기서 사진 찍어도 되나요?’라는 질문이에요."},
+    "outro": "가 보고 싶은 독일 도시 하나를 골라 Ich möchte die Altstadt besichtigen! 하고 소리 내 말해 봐요. 다음 여행 사진이 벌써 기대돼요! 🏰"
+  },
+  "en": {
+    "title": "Sightseeing in Germany: 10 words for your day out",
+    "hook": "Imagine climbing all the way up to the castle and missing the tour because you didn't catch the time.",
+    "intro": [
+      "You're on a weekend trip to Heidelberg. You stroll through the old town and climb up to the castle, where a sign at the ticket office says \"Nächste Führung: 14 Uhr\". You'd also like to know if you can take photos, and where the gift shop is.",
+      "Today's ten words are the ones you'll meet everywhere as a sightseer. With them you can read the signs, join a tour and ask whether photos are allowed. Charge your vocabulary along with your camera! 📸"
+    ],
+    "words": {
+      "A2-034": {"pron": "ZAY-ens-vuer-dikh-kite", "tip": "sehen (see) + würdig (worthy) + -keit = something worth seeing 👀 -keit means die!", "warn": "Long, but just watch the plural: die Sehenswürdigkeiten"},
+      "A1-434": {"pron": "buh-ZIKH-ti-gen", "tip": "die Sicht (sight) is inside 🔭 Point your sight here and there!", "bonus": "Also used for viewing a flat: eine Wohnung besichtigen"},
+      "A2-604": {"pron": "too-RIST", "tip": "Tour + -ist = someone on tour 🧳 People ending in -ist are der.", "warn": "Weak noun: den/dem/des Touristen. A woman is die Touristin."},
+      "A1-478": {"pron": "FUE-roong", "tip": "führen (to lead) + -ung = being led around, a guided tour 🚩", "bonus": "When does the tour start? = Wann beginnt die Führung?"},
+      "A1-543": {"pron": "RY-zuh-fue-rer", "tip": "Reise (travel) + Führer (leader) 📖 Works for a human guide and a guidebook!", "bonus": "Same form in the plural: die Reiseführer"},
+      "A2-1087": {"pron": "ALT-shtat", "tip": "alt (old) + Stadt (town) = old town 🏘️ alt and old are cousins.", "warn": "Plural with umlaut: die Altstädte."},
+      "A2-253": {"pron": "moo-ZAY-oom", "tip": "Greek for ‘home of the Muses’ 🏛️ Same as English museum.", "warn": "The plural is die Museen, not ‘Museums’!"},
+      "A2-570": {"pron": "shloss", "tip": "From schließen (to lock) 🏰 That's why it also means ‘lock’!", "warn": "A Schloss is a palace; a fortified castle is die Burg."},
+      "A1-312": {"pron": "fo-to-gra-FEE-ren", "tip": "Foto + -ieren = take photos 📷 -ieren verbs drop ge-: hat fotografiert", "bonus": "Could you take a photo of us? = Könnten Sie ein Foto von uns machen?"},
+      "B1-1157": {"pron": "zoo-ve-NEER", "tip": "French for ‘memory’ 🎁 A souvenir is a memory you can hold.", "bonus": "gift shop = der Souvenirladen"}
+    },
+    "culture": [
+      "Many museums in Germany are closed on Mondays, so check opening days when you plan. In return, some stay open late on another evening of the week.",
+      "Most towns have a tourist information office (Touristeninformation), marked with an ‘i’, where you can pick up maps and tour details. Tours in English are common, but a German tour is great listening practice.",
+      "In churches and palaces, photos are sometimes not allowed at all, or allowed without flash. If you're not sure, just ask first! 📷"
+    ],
+    "quiz": {"q": "You're looking round a palace. How do you ask if you can take photos?", "o": ["Wo ist die Altstadt?", "Darf man hier fotografieren?", "Ich habe ein Souvenir gekauft."], "a": 1, "why": "fotografieren = to take photos, so this asks ‘Is it OK to take photos here?’"},
+    "outro": "Pick a German town you'd love to visit and say Ich möchte die Altstadt besichtigen! out loud. Your next holiday photos are waiting! 🏰"
+  },
+  "ja": {
+    "title": "ドイツ旅行のバッグに入れたい観光ドイツ語10",
+    "hook": "お城の前まで来たのに、ツアーの時間が聞き取れずに乗り遅れたら、もったいないですよね。",
+    "intro": [
+      "週末旅行でハイデルベルクへ。旧市街を歩いてお城まで上ると、チケット売り場に \"Nächste Führung: 14 Uhr\" の文字。写真を撮っていいのか、お土産屋さんはどこかも気になります。",
+      "今日は観光で必ず出会う単語を10個選びました。これで案内板を読み、ツアーに参加し、写真を撮っていいか聞くこともできます。カメラのバッテリーと一緒に、単語も充電していきましょう！📸"
+    ],
+    "words": {
+      "A2-034": {"pron": "ゼーエンスヴュルディヒカイト", "tip": "sehen（見る）+ würdig（〜に値する）+ -keit = 見る価値のあるもの 👀 -keit だから die！", "warn": "長いですが、複数形に注意：die Sehenswürdigkeiten"},
+      "A1-434": {"pron": "ベズィヒティゲン", "tip": "die Sicht（視界）が入っています 🔭 あちこちに目を向けて見て回る！", "bonus": "部屋の内見にも使います：eine Wohnung besichtigen"},
+      "A2-604": {"pron": "トゥリスト", "tip": "Tour + -ist = ツアーをする人 🧳 -ist で終わる人は der！", "warn": "弱変化名詞です：den/dem/des Touristen。女性は die Touristin."},
+      "A1-478": {"pron": "フュールング", "tip": "führen（導く）+ -ung = 案内、ガイドツアー 🚩", "bonus": "ツアーは何時に始まりますか？= Wann beginnt die Führung?"},
+      "A1-543": {"pron": "ライゼフューラー", "tip": "Reise（旅）+ Führer（導く人）📖 人のガイドにもガイドブックにも使えます！", "bonus": "複数形も同じ形：die Reiseführer"},
+      "A2-1087": {"pron": "アルトシュタット", "tip": "alt（古い）+ Stadt（町）= 旧市街 🏘️ alt と英語の old はいとこ同士。", "warn": "複数形はウムラウト：die Altstädte."},
+      "A2-253": {"pron": "ムゼーウム", "tip": "ギリシャ語で「ミューズの神殿」🏛️ 英語の museum と同じです。", "warn": "複数形は die Museen。Museums ではありません！"},
+      "A2-570": {"pron": "シュロス", "tip": "schließen（鍵をかける）から 🏰 だから「錠前」という意味もあります！", "warn": "Schloss は宮殿風のお城、要塞のような城は die Burg です。"},
+      "A1-312": {"pron": "フォトグラフィーレン", "tip": "Foto + -ieren = 写真を撮る 📷 -ieren 動詞の過去分詞は ge- なし：hat fotografiert", "bonus": "写真を撮っていただけますか？= Könnten Sie ein Foto von uns machen?"},
+      "B1-1157": {"pron": "ズヴェニーア", "tip": "フランス語で「思い出」🎁 お土産は手に持てる思い出ですね。", "bonus": "お土産屋さん = der Souvenirladen"}
+    },
+    "culture": [
+      "ドイツでは月曜日に休館する博物館が多いです。旅行の計画を立てるときは曜日を確認しましょう。そのかわり、週のどこかの夜に遅くまで開いている館もあります。",
+      "たいていの町には「i」マークの観光案内所（Touristeninformation）があり、地図やツアーの情報が手に入ります。英語のツアーも多いですが、ドイツ語ツアーに挑戦すると、いいリスニング練習になります。",
+      "教会や宮殿の中では、撮影禁止だったりフラッシュだけ禁止だったりすることがあります。迷ったら、まず聞いてみるのがいちばんです！📷"
+    ],
+    "quiz": {"q": "宮殿の中を見学しています。写真を撮っていいか聞くには？", "o": ["Wo ist die Altstadt?", "Darf man hier fotografieren?", "Ich habe ein Souvenir gekauft."], "a": 1, "why": "fotografieren = 写真を撮る。「ここで写真を撮ってもいいですか？」という質問です。"},
+    "outro": "行ってみたいドイツの町をひとつ選んで、Ich möchte die Altstadt besichtigen! と声に出してみましょう。次の旅の写真が今から楽しみですね！🏰"
+  }
+}

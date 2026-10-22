@@ -1,0 +1,84 @@
+{
+  "key": "neighbors",
+  "ko": {
+    "title": "독일 아파트에서 살아남는 이웃 단어 10",
+    "hook": "독일에서 이웃과 잘 지내는 비결은 인사보다 ‘조용히 할 시간’을 아는 거예요.",
+    "intro": [
+      "이사 온 지 일주일, 일요일 오전에 선반 하나 달려고 드릴을 들었는데 어디선가 따가운 시선이 느껴져요. 며칠 뒤엔 계단에서 만난 옆집 할머니가 뭔가 길게 설명하시는데, 반은 못 알아들었어요.",
+      "오늘은 독일 집에서 이웃과 부딪힐 때 꼭 필요한 단어 10개예요. 시끄럽다, 조용히 해 주세요, 관리인에게 연락하기, 불만 말하기까지 이 단어들이면 이웃 관계가 훨씬 편해져요. 🏠"
+    ],
+    "words": {
+      "BL-15-01": {"pron": "나흐바", "tip": "nah(가까이) + 사는 사람 = 가까이 사는 사람 🏘️ 영어 neighbour랑 같은 뿌리예요!", "warn": "남성 약변화 명사라서 4·3격이 den/dem Nachbarn이에요."},
+      "BL-15-06": {"pron": "래름", "tip": "Alarm(경보)과 같은 뿌리 🔊 알람처럼 귀를 때리는 소리가 Lärm!", "warn": "복수 없이 써요: Der Lärm stört mich."},
+      "A2-180": {"pron": "라우트", "tip": "영어 loud와 거의 쌍둥이 📢 Die Musik ist zu laut!", "bonus": "전치사 laut = ~에 따르면: laut Hausordnung"},
+      "BL-15-05": {"pron": "라이제", "tip": "‘라이~제’ 하고 속삭이듯 발음해 봐요 🤫 laut의 반대말이에요.", "bonus": "Kannst du bitte leiser sein? = 좀 조용히 해 줄래?"},
+      "BL-15-07": {"pron": "루에차이트", "tip": "Ruhe(휴식) + Zeit(시간) = 다들 쉬는 시간 🌙 드릴은 잠시 내려놓기!", "bonus": "밤의 정숙 시간은 die Nachtruhe"},
+      "B2-1409": {"pron": "하우스오르드눙", "tip": "Haus(집) + Ordnung(질서) = 우리 건물의 규칙집 📋 -ung이니까 die!", "bonus": "보통 계단 게시판이나 임대 계약서에 붙어 있어요."},
+      "BL-15-02": {"pron": "트레펜하우스", "tip": "Treppe(계단) + Haus(집) = 계단실 🪜 이웃과 제일 자주 마주치는 곳!", "bonus": "엘리베이터는 der Aufzug"},
+      "A2-126": {"pron": "하우스마이스터", "tip": "Haus + Meister(마스터) = 건물의 마스터 🔧 고장 나면 이분을 불러요.", "bonus": "스위스에서는 der Abwart라고 해요."},
+      "A2-060": {"pron": "지히 베슈베렌", "tip": "schwer(무거운)가 들어 있어요 😤 마음이 무거워서 털어놓는 게 불평!", "warn": "무엇에 대해는 über + 4격, 누구에게는 bei + 3격: sich beim Hausmeister über den Lärm beschweren."},
+      "BL-15-03": {"pron": "클링엘른", "tip": "‘클링클링’ 벨 소리 그대로 🔔 Es hat geklingelt! = 누가 벨 눌렀어!", "bonus": "초인종은 die Klingel"}
+    },
+    "culture": [
+      "독일 아파트에는 대부분 Hausordnung이 있고, 정숙 시간(Ruhezeit)도 거기에 적혀 있는 경우가 많아요. 밤 10시부터 아침 6시까지는 조용히 하는 게 보통이고, 점심시간에도 조용히 해 달라는 건물이 있어요. 건물이나 지역마다 조금씩 달라요.",
+      "일요일과 공휴일에는 드릴질, 잔디 깎기, 병 버리기처럼 시끄러운 일은 다들 피하는 편이에요. 파티를 하고 싶으면 계단실에 미리 쪽지를 붙여 두는 사람도 많아요.",
+      "좋은 이웃 문화도 있어요. 택배 기사가 집에 없는 사람의 택배를 이웃에게 맡기는 일이 아주 흔해요. 문에 ‘beim Nachbarn abgegeben’이라는 쪽지가 붙어 있으면 옆집 벨을 눌러 보세요! 📦"
+    ],
+    "quiz": {"q": "밤 11시, 윗집 음악이 너무 커요. 문을 두드리고 뭐라고 말할까요?", "o": ["Es hat geklingelt.", "Unser Hausmeister ist nett.", "Könnten Sie bitte etwas leiser sein?"], "a": 2, "why": "leiser = 더 조용히, 정중하게 소리를 줄여 달라는 부탁이에요."},
+    "outro": "오늘은 ‘Könnten Sie bitte etwas leiser sein?’을 정중한 목소리로 연습해 봐요. 쓸 일이 없으면 더 좋고요! 🤫"
+  },
+  "en": {
+    "title": "Noise, stairwells and house rules: 10 words for living with German neighbours",
+    "hook": "The secret to getting on with German neighbours isn't a friendly hello — it's knowing when to be quiet.",
+    "intro": [
+      "You've just moved in. On Sunday morning you pick up a drill to put up a shelf, and suddenly you can feel someone glaring. A few days later the older lady next door stops you on the stairs and explains something at length. You catch about half of it.",
+      "Today's ten words are the ones you need when you share a building in Germany. You'll be able to talk about noise, ask someone to keep it down, call the caretaker and make a complaint. 🏠"
+    ],
+    "words": {
+      "BL-15-01": {"pron": "NAKH-bar", "tip": "nah (near) + someone who lives there = a near-dweller 🏘️ Same root as English neighbour.", "warn": "It takes -n in other cases: den Nachbarn, dem Nachbarn."},
+      "BL-15-06": {"pron": "lairm", "tip": "Same root as alarm 🔊 Lärm is noise that rings in your ears.", "warn": "No plural: Der Lärm stört mich."},
+      "A2-180": {"pron": "lowt", "tip": "Practically twins with English loud 📢 Die Musik ist zu laut!", "bonus": "As a preposition laut means ‘according to’: laut Hausordnung"},
+      "BL-15-05": {"pron": "LYE-zuh", "tip": "Whisper it: ‘lye-zuh’ 🤫 It's the opposite of laut.", "bonus": "Kannst du bitte leiser sein? = Could you be a bit quieter?"},
+      "BL-15-07": {"pron": "ROO-uh-tsite", "tip": "Ruhe (rest) + Zeit (time) = time for everyone to rest 🌙 Put the drill down!", "bonus": "Night-time quiet is die Nachtruhe"},
+      "B2-1409": {"pron": "HOWSS-ort-noong", "tip": "Haus (house) + Ordnung (order) = your building's rulebook 📋 -ung, so it's die.", "bonus": "You'll often find it on the stairwell noticeboard or with your rental contract."},
+      "BL-15-02": {"pron": "TREP-en-howss", "tip": "Treppe (stairs) + Haus (house) = stairwell 🪜 The number one place to bump into neighbours.", "bonus": "The lift is der Aufzug"},
+      "A2-126": {"pron": "HOWSS-my-ster", "tip": "Haus + Meister (master) = master of the house 🔧 Call them when something breaks.", "bonus": "In Switzerland: der Abwart"},
+      "A2-060": {"pron": "zikh buh-SHVAIR-en", "tip": "schwer (heavy) is inside 😤 Something weighs on you, so you complain.", "warn": "über + accusative for the problem, bei + dative for the person: sich beim Hausmeister über den Lärm beschweren."},
+      "BL-15-03": {"pron": "KLING-eln", "tip": "It sounds like a bell going kling-kling 🔔 Es hat geklingelt! = Someone's at the door!", "bonus": "The doorbell is die Klingel"}
+    },
+    "culture": [
+      "Most German blocks of flats have a Hausordnung, and it often sets out the quiet hours (Ruhezeit). Keeping it down from 10 pm to 6 am is the usual rule, and some buildings also ask for quiet at lunchtime. It varies by building and town.",
+      "On Sundays and public holidays people generally avoid noisy jobs like drilling, mowing the lawn or throwing bottles into the glass bin. If you're planning a party, it's common to put a note up in the stairwell first.",
+      "There's a friendly side too: if you're out, the delivery driver will very often leave your parcel with a neighbour. See a card saying ‘beim Nachbarn abgegeben’? Ring next door! 📦"
+    ],
+    "quiz": {"q": "It's 11 pm and the music upstairs is far too loud. You knock. What do you say?", "o": ["Es hat geklingelt.", "Unser Hausmeister ist nett.", "Könnten Sie bitte etwas leiser sein?"], "a": 2, "why": "leiser means quieter, so this is a polite request to turn it down."},
+    "outro": "Practise ‘Könnten Sie bitte etwas leiser sein?’ in your most polite voice today. With luck you'll never need it! 🤫"
+  },
+  "ja": {
+    "title": "ドイツのアパート暮らしで必須！ご近所づきあいの10語",
+    "hook": "ドイツでご近所さんとうまくやるコツは、あいさつよりも「静かにする時間」を知ることです。",
+    "intro": [
+      "引っ越して一週間。日曜の午前中に棚を付けようとドリルを手にしたら、どこからか冷たい視線が。数日後には、階段で会ったお隣のおばあさんが何か長々と説明してくれたのに、半分しかわかりませんでした。",
+      "今日はドイツの集合住宅でご近所さんと関わるときに必要な10語です。うるさい、静かにしてください、管理人さんに連絡する、苦情を言う。この単語があれば、ご近所づきあいがぐっと楽になります。🏠"
+    ],
+    "words": {
+      "BL-15-01": {"pron": "ナッハバー", "tip": "nah（近く）+ 住む人 = 近くに住む人 🏘️ 英語の neighbour と同じ語源です！", "warn": "男性弱変化名詞なので、4格・3格は den/dem Nachbarn になります。"},
+      "BL-15-06": {"pron": "レルム", "tip": "Alarm（警報）と同じ語源 🔊 アラームみたいに耳に響く音が Lärm！", "warn": "複数形なしで使います：Der Lärm stört mich."},
+      "A2-180": {"pron": "ラウト", "tip": "英語の loud とほぼ双子 📢 Die Musik ist zu laut!", "bonus": "前置詞の laut は「〜によれば」：laut Hausordnung"},
+      "BL-15-05": {"pron": "ライゼ", "tip": "「ライゼ」とささやくように言ってみて 🤫 laut の反対語です。", "bonus": "Kannst du bitte leiser sein? = もう少し静かにしてくれる？"},
+      "BL-15-07": {"pron": "ルーエツァイト", "tip": "Ruhe（休息）+ Zeit（時間）= みんなが休む時間 🌙 ドリルはいったん置いて！", "bonus": "夜の静粛時間は die Nachtruhe"},
+      "B2-1409": {"pron": "ハウスオルドヌング", "tip": "Haus（家）+ Ordnung（秩序）= 建物のルールブック 📋 -ung なので die！", "bonus": "階段の掲示板や賃貸契約書に付いていることが多いです。"},
+      "BL-15-02": {"pron": "トレッペンハウス", "tip": "Treppe（階段）+ Haus（家）= 階段室 🪜 ご近所さんに一番会う場所！", "bonus": "エレベーターは der Aufzug"},
+      "A2-126": {"pron": "ハウスマイスター", "tip": "Haus + Meister（マスター）= 建物のマスター 🔧 何か壊れたらこの人に連絡！", "bonus": "スイスでは der Abwart と言います。"},
+      "A2-060": {"pron": "ジッヒ ベシュヴェーレン", "tip": "schwer（重い）が入っています 😤 心が重くなって言うのが苦情！", "warn": "内容は über + 4格、相手は bei + 3格：sich beim Hausmeister über den Lärm beschweren"},
+      "BL-15-03": {"pron": "クリンゲルン", "tip": "「クリンクリン」とベルの音そのまま 🔔 Es hat geklingelt! = 誰か来たよ！", "bonus": "呼び鈴は die Klingel"}
+    },
+    "culture": [
+      "ドイツの集合住宅にはたいてい Hausordnung があり、静粛時間（Ruhezeit）もそこに書かれていることが多いです。夜10時から朝6時までは静かにするのが一般的で、お昼どきの静けさを求める建物もあります。建物や地域によって少しずつ違います。",
+      "日曜日と祝日は、ドリル、芝刈り、びんを捨てるといった音の出ることはみんな避ける傾向があります。パーティーをするときは、階段室に前もってメモを貼っておく人も多いです。",
+      "うれしい習慣もあります。留守のとき、配達員が荷物をお隣さんに預けるのはとてもよくあることです。ドアに「beim Nachbarn abgegeben」と書かれたメモがあったら、お隣のベルを鳴らしてみましょう！📦"
+    ],
+    "quiz": {"q": "夜11時、上の階の音楽がうるさすぎます。ドアをノックして何と言いますか？", "o": ["Es hat geklingelt.", "Unser Hausmeister ist nett.", "Könnten Sie bitte etwas leiser sein?"], "a": 2, "why": "leiser は「もっと静かに」なので、ていねいに音を下げてもらうお願いです。"},
+    "outro": "今日は「Könnten Sie bitte etwas leiser sein?」をていねいな声で練習してみましょう。使わずに済めばもっといいですね！🤫"
+  }
+}

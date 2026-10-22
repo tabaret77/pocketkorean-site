@@ -1,0 +1,84 @@
+{
+  "key": "tv",
+  "ko": {
+    "title": "리모컨 쥐고 배우는 TV 독일어 10",
+    "hook": "독일 TV를 켜 두기만 해도 귀가 트인다는데, 우선 TV에 관한 단어부터 알아야겠죠?",
+    "intro": [
+      "독일에 와서 처음 몇 달은 저녁마다 TV를 틀어 놓고 공부했어요. 뉴스 진행자가 ‘Guten Abend, meine Damen und Herren’ 하고 인사하면 나도 모르게 따라 하고요. 그런데 플랫메이트가 ‘Auf welchem Sender läuft das Spiel?’이라고 묻자 대답을 못 했어요.",
+      "오늘은 TV와 방송에 관한 단어 10개예요. 이 단어들이면 어떤 프로그램을 보는지 말하고, 채널을 찾고, 리모컨 쟁탈전에서도 이길 수 있어요. 📺"
+    ],
+    "words": {
+      "A1-331": {"pron": "페른제엔", "tip": "fern(멀리) + sehen(보다) = 멀리 있는 걸 보다 📺 그리스어 tele-vision을 그대로 번역한 말이에요!", "warn": "분리동사: Ich sehe fern. · 완료형은 hat ferngesehen"},
+      "A2-130": {"pron": "페른제어", "tip": "fernsehen + -er = 멀리 보여 주는 기계 🖥️ -er로 끝나는 기계는 대부분 der!", "warn": "TV 기계는 der Fernseher, TV 보는 건 fernsehen. 헷갈리지 마세요!"},
+      "A2-259": {"pron": "프로그람", "tip": "영어 program인데 m이 두 개 📋 TV 편성표도, 오늘 일정도 Programm!", "bonus": "Was steht heute auf dem Programm? = 오늘 일정이 뭐야?"},
+      "B1-037": {"pron": "젠둥", "tip": "senden(보내다) + -ung = 전파로 보내는 것 📡 -ung이니까 die!", "bonus": "택배 ‘발송물’도 Sendung이에요. 배송 조회 메일에서 자주 보여요."},
+      "B1-1139": {"pron": "젠더", "tip": "senden + -er = 보내는 곳 📡 방송국, 채널 모두 der Sender!", "bonus": "Auf welchem Sender läuft das? = 그거 어느 채널에서 해?"},
+      "B1-2312": {"pron": "모데라토어", "tip": "프로그램을 적당히(moderate) 조절하는 사람 🎤 바로 진행자예요.", "bonus": "여성 진행자는 die Moderatorin · 진행하다 = moderieren"},
+      "B1-1450": {"pron": "추샤우어", "tip": "zu + schauen(보다) + -er = 지켜보는 사람 👀 경기장 관중도 TV 시청자도 Zuschauer!", "bonus": "듣는 사람은 der Zuhörer, 관객 전체는 das Publikum"},
+      "B1-672": {"pron": "페른베디눙", "tip": "fern(멀리서) + Bedienung(조작) = 멀리서 조작하는 것 🎮 집집마다 늘 사라지는 그 물건!", "bonus": "Wo ist schon wieder die Fernbedienung? = 리모컨 또 어디 갔어?"},
+      "B1-2018": {"pron": "라이프", "tip": "영어 live 그대로, 발음도 ‘라이브’보다는 ‘라이프’에 가까워요 🔴", "bonus": "생방송 = die Livesendung"},
+      "B1-2048": {"pron": "위버트라겐", "tip": "über(건너서) + tragen(나르다) = 저 멀리까지 실어 나르기 📡 방송을 중계하다!", "warn": "비분리동사예요: Das Spiel wird live übertragen."}
+    },
+    "culture": [
+      "독일에서 오래된 저녁 습관 중 하나는 8시 뉴스 ‘Tagesschau’예요. 수십 년째 같은 시간에 방송돼서, 많은 집에서 저녁 8시는 곧 뉴스 시간이에요.",
+      "일요일 저녁에는 범죄 드라마 ‘Tatort’를 보는 사람이 많아요. 도시마다 형사가 달라서, 친구들끼리 모여 같이 보거나 술집에서 함께 보기도 해요.",
+      "그리고 독일에서는 보통 집마다 공영방송 수신료(Rundfunkbeitrag)를 내요. TV가 없어도 내는 경우가 많아서, 이사하면 이 편지가 꼭 날아와요. 📬"
+    ],
+    "quiz": {"q": "채널을 바꾸고 싶은데 리모컨이 안 보여요. 플랫메이트에게 뭐라고 물을까요?", "o": ["Auf welchem Sender läuft das?", "Der Fernseher ist zu laut.", "Wo ist die Fernbedienung?"], "a": 2, "why": "die Fernbedienung = 리모컨, ‘리모컨 어디 있어?’라는 질문이에요."},
+    "outro": "오늘 저녁엔 독일 뉴스를 5분만 틀어 놓고 아는 단어를 세어 봐요. Sendung, Moderator, live… 몇 개나 들릴까요? 📺"
+  },
+  "en": {
+    "title": "Remote in hand: 10 German words for TV",
+    "hook": "They say leaving German TV on trains your ear — but first you need the words for the TV itself.",
+    "intro": [
+      "In my first months in Germany I had the TV on every evening while I studied. When the news presenter said ‘Guten Abend, meine Damen und Herren’, I'd repeat it without thinking. But when my flatmate asked ‘Auf welchem Sender läuft das Spiel?’, I had no idea how to answer.",
+      "Today's ten words are about TV and broadcasting. With them you can talk about what you watch, find the right channel and win the battle for the remote. 📺"
+    ],
+    "words": {
+      "A1-331": {"pron": "FAIRN-zay-en", "tip": "fern (far) + sehen (to see) = seeing far away 📺 A word-for-word translation of tele-vision!", "warn": "Separable: Ich sehe fern. · perfect: hat ferngesehen"},
+      "A2-130": {"pron": "FAIRN-zay-er", "tip": "fernsehen + -er = the far-seeing machine 🖥️ Machines ending in -er are usually der.", "warn": "The set is der Fernseher; watching TV is fernsehen. Don't swap them!"},
+      "A2-259": {"pron": "pro-GRAHM", "tip": "English programme with a German double m 📋 The TV schedule and today's plan are both Programm.", "bonus": "Was steht heute auf dem Programm? = What's the plan for today?"},
+      "B1-037": {"pron": "ZEN-doong", "tip": "senden (to send) + -ung = something sent over the air 📡 -ung, so die!", "bonus": "A parcel shipment is also a Sendung — you'll see it in tracking emails."},
+      "B1-1139": {"pron": "ZEN-der", "tip": "senden + -er = the one that sends 📡 A broadcaster or a channel: der Sender.", "bonus": "Auf welchem Sender läuft das? = What channel is it on?"},
+      "B1-2312": {"pron": "mo-deh-RAH-tor", "tip": "The person who keeps the show moderate and on track 🎤 the presenter.", "bonus": "A female presenter is die Moderatorin · to present = moderieren"},
+      "B1-1450": {"pron": "TSOO-show-er", "tip": "zu + schauen (to look) + -er = someone watching 👀 Stadium crowds and TV viewers alike.", "bonus": "A listener is der Zuhörer; the whole audience is das Publikum."},
+      "B1-672": {"pron": "FAIRN-buh-dee-noong", "tip": "fern (remote) + Bedienung (operation) = remote control 🎮 The thing that's always missing.", "bonus": "Wo ist schon wieder die Fernbedienung? = Where's the remote gone again?"},
+      "B1-2018": {"pron": "LIVE", "tip": "Exactly like English live — rhymes with five 🔴", "bonus": "a live broadcast = die Livesendung"},
+      "B1-2048": {"pron": "ü-ber-TRAH-gen", "tip": "über (across) + tragen (to carry) = to carry it far away 📡 to broadcast!", "warn": "Not separable: Das Spiel wird live übertragen."}
+    },
+    "culture": [
+      "One of Germany's oldest evening habits is the 8 pm news, the ‘Tagesschau’. It has been on at the same time for decades, so in many homes eight o'clock simply means news time.",
+      "On Sunday evenings lots of people watch the crime series ‘Tatort’. Each city has its own detectives, and friends often watch together at home or even in a pub.",
+      "And in Germany each household usually pays a broadcasting contribution (Rundfunkbeitrag) for public TV and radio — often even without owning a TV. After you move, the letter will find you. 📬"
+    ],
+    "quiz": {"q": "You want to change the channel, but you can't see the remote. What do you ask your flatmate?", "o": ["Auf welchem Sender läuft das?", "Der Fernseher ist zu laut.", "Wo ist die Fernbedienung?"], "a": 2, "why": "die Fernbedienung is the remote, so you're asking where it is."},
+    "outro": "Tonight, put the German news on for five minutes and count the words you know. Sendung, Moderator, live… how many can you catch? 📺"
+  },
+  "ja": {
+    "title": "リモコン片手に覚えるテレビのドイツ語10",
+    "hook": "ドイツのテレビをつけっぱなしにすると耳が慣れると言いますが、まずはテレビそのものの単語から覚えましょう。",
+    "intro": [
+      "ドイツに来て最初の数か月は、毎晩テレビをつけたまま勉強していました。ニュースキャスターが「Guten Abend, meine Damen und Herren」とあいさつすると、思わずまねしたり。でもルームメイトに「Auf welchem Sender läuft das Spiel?」と聞かれて、答えられませんでした。",
+      "今日はテレビと放送についての単語10個です。これで何の番組を見ているか話したり、チャンネルを探したり、リモコン争奪戦にも勝てるようになります。📺"
+    ],
+    "words": {
+      "A1-331": {"pron": "フェルンゼーエン", "tip": "fern（遠く）+ sehen（見る）= 遠くを見る 📺 ギリシャ語由来の tele-vision をそのまま訳した言葉です！", "warn": "分離動詞：Ich sehe fern. · 完了形は hat ferngesehen"},
+      "A2-130": {"pron": "フェルンゼーアー", "tip": "fernsehen + -er = 遠くを見せてくれる機械 🖥️ -er で終わる機械はたいてい der！", "warn": "テレビ本体は der Fernseher、テレビを見るのは fernsehen。混同しないで！"},
+      "A2-259": {"pron": "プログラム", "tip": "英語の program に m がもうひとつ 📋 番組表も今日の予定も Programm！", "bonus": "Was steht heute auf dem Programm? = 今日の予定は？"},
+      "B1-037": {"pron": "ゼンドゥング", "tip": "senden（送る）+ -ung = 電波で送るもの 📡 -ung なので die！", "bonus": "荷物の「発送物」も Sendung。配送通知メールでよく見かけます。"},
+      "B1-1139": {"pron": "ゼンダー", "tip": "senden + -er = 送るところ 📡 放送局もチャンネルも der Sender！", "bonus": "Auf welchem Sender läuft das? = それ、どのチャンネルでやってる？"},
+      "B1-2312": {"pron": "モデラートア", "tip": "番組をほどよく（moderate）まとめる人 🎤 つまり司会者です。", "bonus": "女性の司会者は die Moderatorin · 司会をする = moderieren"},
+      "B1-1450": {"pron": "ツーシャウアー", "tip": "zu + schauen（見る）+ -er = 見ている人 👀 スタジアムの観客もテレビの視聴者も Zuschauer！", "bonus": "聞く人は der Zuhörer、観客全体は das Publikum"},
+      "B1-672": {"pron": "フェルンベディーヌング", "tip": "fern（遠くから）+ Bedienung（操作）= 遠くから操作するもの 🎮 どの家でもすぐ消えるアレです！", "bonus": "Wo ist schon wieder die Fernbedienung? = リモコン、またどこ行った？"},
+      "B1-2018": {"pron": "ライフ", "tip": "英語の live そのまま。ドイツ語では「ライフ」に近い発音です 🔴", "bonus": "生放送 = die Livesendung"},
+      "B1-2048": {"pron": "ユーバートラーゲン", "tip": "über（越えて）+ tragen（運ぶ）= 遠くまで運ぶ 📡 つまり中継する！", "warn": "非分離動詞です：Das Spiel wird live übertragen."}
+    },
+    "culture": [
+      "ドイツの夜の古い習慣のひとつが、夜8時のニュース「Tagesschau」。何十年も同じ時間に放送されていて、多くの家庭で夜8時はニュースの時間です。",
+      "日曜の夜には刑事ドラマ「Tatort」を見る人がたくさんいます。街ごとに刑事が違い、友だちと集まったり、酒場でみんなで見たりすることもあります。",
+      "そしてドイツでは、ふつう世帯ごとに公共放送の受信料（Rundfunkbeitrag）を払います。テレビがなくても払うことが多く、引っ越すと必ずこの手紙が届きます。📬"
+    ],
+    "quiz": {"q": "チャンネルを変えたいのにリモコンが見当たりません。ルームメイトに何と聞きますか？", "o": ["Auf welchem Sender läuft das?", "Der Fernseher ist zu laut.", "Wo ist die Fernbedienung?"], "a": 2, "why": "die Fernbedienung は「リモコン」なので、リモコンの場所を聞いています。"},
+    "outro": "今夜はドイツのニュースを5分だけつけて、知っている単語を数えてみましょう。Sendung, Moderator, live…いくつ聞き取れるかな？📺"
+  }
+}

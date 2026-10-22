@@ -1,0 +1,84 @@
+{
+  "key": "theater",
+  "ko": {
+    "title": "막이 오르기 전에 외워 두는 연극·뮤지컬 독일어 10",
+    "hook": "독일 극장에서 막이 내린 뒤, 박수가 10분 넘게 이어지는 거 아세요?",
+    "intro": [
+      "친구가 연극 표가 두 장 생겼다며 같이 가재요. 극장 로비에서 프로그램 책자를 펼쳤는데 Premiere, Aufführung, Bühne… 공연 시작 전부터 단어 공부가 시작돼요.",
+      "오늘은 극장과 뮤지컬에서 꼭 만나는 단어 10개예요. 이걸로 공연 정보를 읽고, 친구와 감상을 나누고, 무대 뒤 이야기까지 알아들을 수 있어요. 🎭"
+    ],
+    "words": {
+      "A2-134": {"pron": "테아터", "tip": "그리스어 theatron(보는 곳) 👀 영어 theatre와 같은데, 독일어는 '테-아-터' 세 박자로 또박또박!", "bonus": "극장에 가다 = ins Theater gehen"},
+      "B2-1347": {"pron": "테아터슈튁", "tip": "Theater + Stück(조각, 작품) = 극장에서 하는 한 편 🎬", "bonus": "줄여서 그냥 das Stück이라고도 많이 해요."},
+      "B1-546": {"pron": "뷔네", "tip": "원래 '판자로 높인 바닥' 🪵 배우가 올라서는 그 나무 바닥이에요!", "bonus": "무대에 오르다 = auf die Bühne gehen"},
+      "B2-1346": {"pron": "아우프퓌룽", "tip": "auf(위로) + führen(이끌다) = 작품을 무대 위로 이끌어 올리기 🎟️ -ung이니까 die!", "bonus": "동사: aufführen = 상연하다 (분리동사)"},
+      "B1-1626": {"pron": "아플라우스", "tip": "영어 applause에서 끝만 잘랐어요 👏 강세는 뒤 '라우'에!", "bonus": "같은 뜻의 순수 독일어 = der Beifall · 박수 치다 = klatschen"},
+      "B1-2084": {"pron": "포어항", "tip": "vor(앞에) + hängen(걸다) = 앞에 걸어 둔 것 🪟 집 커튼도, 무대 막도 Vorhang!", "bonus": "der Vorhang fällt = 막이 내리다"},
+      "B1-2205": {"pron": "뮤지컬", "tip": "영어 musical 그대로 🎶 발음도 영어처럼 해요.", "warn": "독일어에서는 중성 das Musical이에요."},
+      "B2-1351": {"pron": "프레미에레", "tip": "프랑스어 première(첫 번째) 🌟 첫 공연 = 첫 번째 밤!", "bonus": "세계 최초 공연은 die Uraufführung이라고 해요."},
+      "B2-2767": {"pron": "프로벤", "tip": "die Probe(시험)에서 온 동사 🎤 무대 위에서 미리 '시험 삼아' 해 보는 거예요.", "warn": "공연 리허설은 proben, 단어 외우기 같은 일반 연습은 üben이에요."},
+      "B2-1359": {"pron": "트라괴디에", "tip": "영어 tragedy와 친척 😢 반대말 die Komödie도 같이 외우면 한 세트!", "bonus": "형용사: tragisch = 비극적인"}
+    },
+    "culture": [
+      "독일에는 큰 도시뿐 아니라 중간 크기 도시에도 시립·주립 극장(Stadttheater, Staatstheater)이 있는 경우가 많아요. 전속 배우들이 여러 작품을 번갈아 올려서, 같은 극장에서도 날마다 다른 작품을 볼 수 있어요.",
+      "공연 전에는 외투를 Garderobe(물품 보관소)에 맡기는 게 보통이에요. 공연이 끝나면 배우들이 여러 번 다시 나와 인사하고, 감동이 크면 관객들이 박자를 맞춰 박수를 치기도 해요.",
+      "그리고 무대에 서는 사람에게 \"Viel Glück!\" 대신 \"Toi, toi, toi!\"라고 해 주세요. 공연계의 행운 주문이라서, 고맙다는 대답도 하지 않는 게 전통이에요. 🍀"
+    ],
+    "quiz": {"q": "\"그 연극, 금요일에 첫 공연이야!\"라고 말하려면?", "o": ["Am Freitag ist die Probe.", "Am Freitag fällt der Vorhang.", "Am Freitag ist die Premiere."], "a": 2, "why": "die Premiere = 초연, 첫 공연이에요. die Probe는 리허설, der Vorhang fällt는 막이 내린다는 뜻이에요."},
+    "outro": "가장 좋아하는 연극이나 뮤지컬을 독일어로 한 줄 소개해 봐요. Mein Lieblingsmusical ist …! 🎶"
+  },
+  "en": {
+    "title": "Before the curtain rises: 10 German theatre words",
+    "hook": "Did you know German audiences can keep clapping for ten minutes after the curtain falls?",
+    "intro": [
+      "A friend has two spare tickets for a play and asks you along. You open the programme in the foyer and see Premiere, Aufführung, Bühne… and your German lesson starts before the show does.",
+      "Today's ten words are the ones you'll meet at any theatre or musical. With them you can read the listings, chat about the show afterwards and follow the backstage stories. 🎭"
+    ],
+    "words": {
+      "A2-134": {"pron": "tay-AH-ter", "tip": "From Greek theatron, ‘a place for watching’ 👀 Same as theatre, but German says all three syllables clearly.", "bonus": "to go to the theatre = ins Theater gehen"},
+      "B2-1347": {"pron": "tay-AH-ter-shtuek", "tip": "Theater + Stück (piece) = a piece for the theatre 🎬", "bonus": "People often just say das Stück."},
+      "B1-546": {"pron": "BUE-nuh", "tip": "Possibly once a raised plank floor 🪵 The boards actors stand on.", "bonus": "to go on stage = auf die Bühne gehen"},
+      "B2-1346": {"pron": "OWF-fue-roong", "tip": "auf (up) + führen (to lead) = leading a play up onto the stage 🎟️ -ung, so it's die.", "bonus": "The verb: aufführen = to perform, stage (separable)"},
+      "B1-1626": {"pron": "ap-LOWS", "tip": "English applause with the ending chopped off 👏 Stress the second syllable.", "bonus": "The native German word = der Beifall · to clap = klatschen"},
+      "B1-2084": {"pron": "FOR-hahng", "tip": "vor (in front) + hängen (to hang) = something hanging in front 🪟 Window curtains and stage curtains alike.", "bonus": "der Vorhang fällt = the curtain falls"},
+      "B1-2205": {"pron": "MYOO-zi-kul", "tip": "Borrowed straight from English 🎶 Say it the English way.", "warn": "In German it's neuter: das Musical."},
+      "B2-1351": {"pron": "pruh-MYAIR-uh", "tip": "French première = first 🌟 The very first night of a show.", "bonus": "A world premiere is die Uraufführung."},
+      "B2-2767": {"pron": "PROH-ben", "tip": "From die Probe (test) 🎤 A rehearsal is a test run on stage.", "warn": "proben is for rehearsing a show; ordinary practice, like vocab, is üben."},
+      "B2-1359": {"pron": "tra-GUR-dee-uh", "tip": "A cousin of tragedy 😢 Learn its opposite die Komödie at the same time.", "bonus": "Adjective: tragisch = tragic"}
+    },
+    "culture": [
+      "Germany has a lot of theatres. Not just big cities but many mid-sized towns have their own municipal or state theatre (Stadttheater, Staatstheater). A resident ensemble often rotates several productions, so the same theatre may show a different play each night.",
+      "Before the show, people usually leave their coats at the cloakroom (Garderobe). At the end, the cast comes back for several bows, and if the audience is really moved, the applause sometimes turns into rhythmic clapping.",
+      "And never wish a performer \"Viel Glück!\" — say \"Toi, toi, toi!\" instead. It's the stage world's good-luck charm, and by tradition you don't say thank you for it. 🍀"
+    ],
+    "quiz": {"q": "You want to say: \"The play opens on Friday.\" Which sentence fits?", "o": ["Am Freitag ist die Probe.", "Am Freitag fällt der Vorhang.", "Am Freitag ist die Premiere."], "a": 2, "why": "die Premiere is the first performance; die Probe is a rehearsal and der Vorhang fällt means the curtain comes down."},
+    "outro": "Introduce your favourite play or musical in one German sentence. Mein Lieblingsmusical ist …! 🎶"
+  },
+  "ja": {
+    "title": "幕が上がる前に覚えたい演劇・ミュージカルのドイツ語10",
+    "hook": "ドイツの劇場では、幕が下りたあとの拍手が10分以上続くこともあるんです。",
+    "intro": [
+      "友だちが芝居のチケットが2枚あるから一緒に行こうと誘ってくれました。ロビーでパンフレットを開くと、Premiere、Aufführung、Bühne……開演前から単語の勉強が始まります。",
+      "今日は劇場やミュージカルで必ず出会う単語を10個集めました。これで公演情報を読み、友だちと感想を話し、舞台裏の話までわかるようになります。🎭"
+    ],
+    "words": {
+      "A2-134": {"pron": "テアーター", "tip": "ギリシャ語 theatron（見る場所）から 👀 英語の theatre と同じですが、ドイツ語は「テ・アー・ター」とはっきり！", "bonus": "劇場に行く = ins Theater gehen"},
+      "B2-1347": {"pron": "テアーターシュテュック", "tip": "Theater + Stück（ひとかけら、作品）= 劇場でやる一本 🎬", "bonus": "略して das Stück とだけ言うことも多いです。"},
+      "B1-546": {"pron": "ビューネ", "tip": "もとは「板を張って高くした床」という説も 🪵 俳優が立つあの板の床です！", "bonus": "舞台に上がる = auf die Bühne gehen"},
+      "B2-1346": {"pron": "アウフフュールング", "tip": "auf（上へ）+ führen（導く）= 作品を舞台の上へ導く 🎟️ -ung なので die！", "bonus": "動詞：aufführen = 上演する（分離動詞）"},
+      "B1-1626": {"pron": "アプラウス", "tip": "英語の applause の語尾を切っただけ 👏 アクセントは後ろの「ラウ」に！", "bonus": "同じ意味のドイツ語本来の言葉 = der Beifall、拍手する = klatschen"},
+      "B1-2084": {"pron": "フォーアハング", "tip": "vor（前に）+ hängen（掛ける）= 前に掛けてあるもの 🪟 窓のカーテンも舞台の幕も Vorhang！", "bonus": "der Vorhang fällt = 幕が下りる"},
+      "B1-2205": {"pron": "ミュージカル", "tip": "英語の musical そのまま 🎶 発音も英語風です。", "warn": "ドイツ語では中性の das Musical です。"},
+      "B2-1351": {"pron": "プレミエーレ", "tip": "フランス語 première（最初の）🌟 公演の最初の夜です！", "bonus": "世界初演は die Uraufführung と言います。"},
+      "B2-2767": {"pron": "プローベン", "tip": "die Probe（試し）から来た動詞 🎤 舞台で前もって「試しに」やってみることです。", "warn": "公演のリハーサルは proben、単語の暗記のような一般的な練習は üben です。"},
+      "B2-1359": {"pron": "トラゲーディエ", "tip": "英語の tragedy の親戚 😢 反対語の die Komödie もセットで覚えましょう！", "bonus": "形容詞：tragisch = 悲劇的な"}
+    },
+    "culture": [
+      "ドイツには大都市だけでなく、中くらいの町にも市立・州立劇場（Stadttheater、Staatstheater）があることが多いです。専属の俳優たちが複数の作品を交代で上演するので、同じ劇場でも日によって違う作品が観られます。",
+      "開演前はコートを Garderobe（クローク）に預けるのがふつうです。終演後は俳優たちが何度も出てきてお辞儀をし、感動が大きいと拍手が手拍子のようにそろうこともあります。",
+      "そして舞台に立つ人には「Viel Glück!」ではなく「Toi, toi, toi!」と言ってあげましょう。舞台の世界の幸運のおまじないで、お礼を言わないのが伝統です。🍀"
+    ],
+    "quiz": {"q": "「その芝居、金曜日が初日だよ！」と言うには？", "o": ["Am Freitag ist die Probe.", "Am Freitag fällt der Vorhang.", "Am Freitag ist die Premiere."], "a": 2, "why": "die Premiere は初演・初日のこと。die Probe はリハーサル、der Vorhang fällt は幕が下りるという意味です。"},
+    "outro": "いちばん好きな演劇やミュージカルを、ドイツ語でひとこと紹介してみましょう。Mein Lieblingsmusical ist …! 🎶"
+  }
+}

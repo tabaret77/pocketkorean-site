@@ -1,0 +1,84 @@
+{
+  "key": "clothes",
+  "ko": {
+    "title": "옷 가게에서 당황하지 않는 독일어 10",
+    "hook": "마음에 드는 바지를 찾았는데 탈의실이 어디냐고 묻지 못해서 그냥 나온 적, 있나요?",
+    "intro": [
+      "세일 기간의 독일 옷 가게. 바지 한 벌을 들고 두리번거리는데 점원이 \"Kann ich Ihnen helfen?\" 하고 물어요. 사이즈 있냐고, 입어 봐도 되냐고 묻고 싶은데 입이 안 떨어지죠.",
+      "오늘은 옷 가게에서 바로 쓰는 단어 10개를 준비했어요. 이걸로 사이즈를 묻고, 입어 보고, \"좀 끼네요\"까지 말할 수 있어요. 쇼핑이 훨씬 즐거워질 거예요! 🛍️"
+    ],
+    "words": {
+      "A1-506": {"pron": "클라이둥", "tip": "das Kleid(원피스)에 -ung이 붙어 ‘옷 전체’가 됐어요 👗 -ung이니까 die!", "warn": "복수가 없어요. ‘옷들’도 그냥 die Kleidung이에요."},
+      "A1-161": {"pron": "호제", "tip": "영어 hose(호스)처럼 다리를 쏙 감싸는 통 두 개 👖", "warn": "바지 한 벌은 단수예요: eine Hose. 영어 trousers처럼 복수로 말하지 않아요!"},
+      "A1-162": {"pron": "헴트", "tip": "‘헴’ 하고 목을 가다듬고 셔츠 단추를 채워요 👔", "bonus": "티셔츠는 그냥 das T-Shirt, 블라우스는 die Bluse예요."},
+      "A1-163": {"pron": "야케", "tip": "영어 jacket에서 끝만 잘라 낸 모양 🧥 j는 ‘야’로 읽어요!", "bonus": "등산복 느낌의 바람막이도 독일 사람들은 그냥 Jacke라고 불러요."},
+      "A1-164": {"pron": "슈", "tip": "영어 shoe랑 소리까지 똑같아요 👟 ‘슈~’ 하고 신어요.", "bonus": "신발을 벗다 = die Schuhe ausziehen · 신다 = anziehen"},
+      "BL-17-03": {"pron": "그뢰세", "tip": "groß(큰) + -e = 크기 📏 형용사에 -e를 붙이면 die 명사가 되는 경우가 많아요.", "bonus": "한 치수 큰 거 = eine Nummer größer, 작은 거 = eine Nummer kleiner"},
+      "BL-17-01": {"pron": "안프로비렌", "tip": "an(몸에) + probieren(시도하다) = 몸에 대 보다 🪞", "warn": "분리동사예요: Ich probiere die Hose an. 과거분사는 anprobiert (ge- 없음)."},
+      "BL-17-02": {"pron": "움클라이데카비네", "tip": "um(바꿔) + Kleid(옷) + Kabine(칸) = 옷 갈아입는 칸 🚪 길지만 레고 조립이에요.", "bonus": "짧게 die Kabine라고만 해도 다 알아들어요."},
+      "BL-17-04": {"pron": "파센", "tip": "시험에 pass하듯 몸에 딱 통과! 🧩 Passt! = 딱 맞아!", "warn": "크기가 맞다는 passen, 잘 어울린다는 stehen이에요: Die Farbe steht dir."},
+      "BL-17-05": {"pron": "엥", "tip": "너무 끼면 ‘엥?’ 소리가 절로 나와요 😣", "bonus": "반대말: weit(헐렁한) · 너무 끼어요 = Das ist mir zu eng."}
+    },
+    "culture": [
+      "독일 옷 사이즈는 한국과 달라요. 여성복은 36, 38, 40 같은 숫자로, 남성복은 48, 50, 52 같은 숫자로 쓰는 경우가 많고, S·M·L을 함께 쓰는 가게도 많아요. 신발은 유럽 사이즈(39, 40 …)라서 처음엔 꼭 신어 보는 게 좋아요.",
+      "매장에서 산 옷의 교환·환불(Umtausch)은 가게마다 정책이 달라요. 많은 체인점이 영수증(Kassenbon)만 있으면 바꿔 주지만, 영수증은 꼭 챙겨 두세요.",
+      "그리고 독일은 일요일에 대부분의 가게가 문을 닫아요. 토요일 오후 쇼핑가가 북적이는 이유죠! 🛍️"
+    ],
+    "quiz": {"q": "마음에 드는 바지를 찾았어요. 입어 보고 싶을 때 점원에게 뭐라고 할까요?", "o": ["Die Hose ist zu lang.", "Kann ich die Hose anprobieren?", "Zieh bitte die Schuhe aus."], "a": 1, "why": "anprobieren = 입어 보다. ‘이 바지 입어 봐도 돼요?’라는 뜻이에요."},
+    "outro": "오늘은 옷장 앞에서 옷을 하나씩 집으며 독일어로 이름을 불러 봐요. Die Hose passt! 하고 외치면 성공이에요! 👖"
+  },
+  "en": {
+    "title": "Shopping for clothes in German: 10 words to know",
+    "hook": "Ever found the perfect trousers, then put them back because you couldn't ask where the changing rooms were?",
+    "intro": [
+      "It's sale season in a German clothes shop. You're holding a pair of trousers when an assistant asks, \"Kann ich Ihnen helfen?\" You want to ask about sizes and whether you can try them on, but the words won't come.",
+      "Today's ten words are made for the clothes shop. With them you can ask for a size, try things on and even say \"it's a bit tight\". Shopping just got a lot more fun! 🛍️"
+    ],
+    "words": {
+      "A1-506": {"pron": "KLY-doong", "tip": "das Kleid (dress) + -ung = all your clothes 👗 -ung means die!", "warn": "No plural: ‘clothes’ is simply die Kleidung."},
+      "A1-161": {"pron": "HOH-zuh", "tip": "Like a garden hose, but two of them, one for each leg 👖", "warn": "It's singular: eine Hose = a pair of trousers. Not plural like English ‘trousers’!"},
+      "A1-162": {"pron": "hemt", "tip": "Clear your throat — ‘hem!’ — and button up your shirt 👔", "bonus": "A T-shirt is das T-Shirt, a blouse is die Bluse."},
+      "A1-163": {"pron": "YAK-uh", "tip": "English jacket with the end chopped off 🧥 Remember: German j sounds like y.", "bonus": "Germans call almost any outdoor or rain jacket a Jacke."},
+      "A1-164": {"pron": "shoo", "tip": "Sounds exactly like English shoe 👟 Easy!", "bonus": "take off your shoes = die Schuhe ausziehen · put on = anziehen"},
+      "BL-17-03": {"pron": "GRUR-suh", "tip": "groß (big) + -e = bigness, size 📏 Adjective + -e often gives a die noun.", "bonus": "one size up = eine Nummer größer · one size down = eine Nummer kleiner"},
+      "BL-17-01": {"pron": "AN-pro-bee-ren", "tip": "an (on the body) + probieren (to try) = try on 🪞", "warn": "Separable: Ich probiere die Hose an. Past participle: anprobiert (no ge-)."},
+      "BL-17-02": {"pron": "OOM-kly-duh-ka-bee-nuh", "tip": "um (change) + Kleid (clothes) + Kabine (cubicle) = changing cubicle 🚪 Long, but just Lego.", "bonus": "Just die Kabine is fine in conversation."},
+      "BL-17-04": {"pron": "PASS-en", "tip": "The trousers pass the test — they fit! 🧩 Passt! = Fits perfectly!", "warn": "passen = fit (size), stehen = suit (look good): Die Farbe steht dir."},
+      "BL-17-05": {"pron": "eng", "tip": "Too tight? You'll go ‘eng!’ trying to breathe 😣", "bonus": "Opposite: weit (loose) · It's too tight for me = Das ist mir zu eng."}
+    },
+    "culture": [
+      "German clothing sizes are not the same as UK or US ones. Women's clothes often use numbers like 36, 38, 40 and men's like 48, 50, 52, though many shops also use S, M and L. Shoes use EU sizes (39, 40 …), so trying them on is a good idea at first.",
+      "Exchanging or returning clothes bought in a shop (Umtausch) depends on the shop's own policy. Many chains will take things back with a receipt (Kassenbon), so always keep it.",
+      "And remember: most shops in Germany are closed on Sundays. That's why high streets are so busy on Saturday afternoons! 🛍️"
+    ],
+    "quiz": {"q": "You've found some trousers you like. What do you ask the assistant to try them on?", "o": ["Die Hose ist zu lang.", "Kann ich die Hose anprobieren?", "Zieh bitte die Schuhe aus."], "a": 1, "why": "anprobieren = to try on, so this means ‘Can I try these trousers on?’"},
+    "outro": "Open your wardrobe and name each item in German, out loud. If you can say Die Hose passt!, you've nailed it! 👖"
+  },
+  "ja": {
+    "title": "洋服店で困らないドイツ語10",
+    "hook": "気に入ったズボンを見つけたのに、試着室の場所が聞けずにそのまま店を出たこと、ありませんか？",
+    "intro": [
+      "セール中のドイツの洋服店。ズボンを手にきょろきょろしていると、店員さんに \"Kann ich Ihnen helfen?\" と聞かれます。サイズはあるか、試着していいか聞きたいのに、言葉が出てきません。",
+      "今日は洋服店ですぐ使える単語を10個用意しました。これでサイズを聞いて、試着して、「ちょっときついです」まで言えるようになります。買い物がもっと楽しくなりますよ！🛍️"
+    ],
+    "words": {
+      "A1-506": {"pron": "クライドゥング", "tip": "das Kleid（ワンピース）+ -ung で「服全体」に 👗 -ung だから die！", "warn": "複数形はありません。「服たち」も die Kleidung です。"},
+      "A1-161": {"pron": "ホーゼ", "tip": "英語の hose（ホース）のように足を包む筒が2本 👖", "warn": "ズボン1本は単数：eine Hose。英語の trousers のように複数にしません！"},
+      "A1-162": {"pron": "ヘムト", "tip": "「ヘム」と咳ばらいしてシャツのボタンをとめる 👔", "bonus": "Tシャツは das T-Shirt、ブラウスは die Bluse です。"},
+      "A1-163": {"pron": "ヤッケ", "tip": "英語の jacket の語尾を切った形 🧥 日本語の「ヤッケ」はここから来ています！", "bonus": "ドイツ人はアウトドア用の上着も、たいてい Jacke と呼びます。"},
+      "A1-164": {"pron": "シュー", "tip": "英語の shoe と音までそっくり 👟", "bonus": "靴を脱ぐ = die Schuhe ausziehen · 履く = anziehen"},
+      "BL-17-03": {"pron": "グレーセ", "tip": "groß（大きい）+ -e = 大きさ 📏 形容詞 + -e で die の名詞になることが多いです。", "bonus": "ワンサイズ上 = eine Nummer größer、下 = eine Nummer kleiner"},
+      "BL-17-01": {"pron": "アンプロビーレン", "tip": "an（体に）+ probieren（試す）= 体に当てて試す 🪞", "warn": "分離動詞です：Ich probiere die Hose an. 過去分詞は anprobiert（ge- なし）。"},
+      "BL-17-02": {"pron": "ウムクライデカビーネ", "tip": "um（替える）+ Kleid（服）+ Kabine（小部屋）= 着替える小部屋 🚪 長くてもレゴと同じ！", "bonus": "会話では die Kabine だけでも通じます。"},
+      "BL-17-04": {"pron": "パッセン", "tip": "テストに pass するように体にぴったり合格 🧩 Passt! = ぴったり！", "warn": "サイズが合うのは passen、似合うのは stehen：Die Farbe steht dir."},
+      "BL-17-05": {"pron": "エング", "tip": "きつすぎて「えっ、ぐっ」と声が出る 😣", "bonus": "反対語：weit（ゆったりした）· きつすぎます = Das ist mir zu eng."}
+    },
+    "culture": [
+      "ドイツの服のサイズは日本と違います。婦人服は 36、38、40、紳士服は 48、50、52 のような数字が多く、S・M・L を併用する店もたくさんあります。靴はヨーロッパサイズ（39、40 …）なので、最初はかならず試着しましょう。",
+      "お店で買った服の交換・返品（Umtausch）は、店ごとのルール次第です。多くのチェーン店はレシート（Kassenbon）があれば対応してくれるので、レシートは取っておきましょう。",
+      "それから、ドイツではほとんどのお店が日曜日はお休みです。だから土曜の午後の繁華街はとても混むんですね！🛍️"
+    ],
+    "quiz": {"q": "気に入ったズボンを見つけました。試着したいとき、店員さんに何と言いますか？", "o": ["Die Hose ist zu lang.", "Kann ich die Hose anprobieren?", "Zieh bitte die Schuhe aus."], "a": 1, "why": "anprobieren = 試着する。「このズボンを試着してもいいですか？」という意味です。"},
+    "outro": "今日はクローゼットの前で、服を一つずつドイツ語で呼んでみましょう。Die Hose passt! と言えたら大成功です！👖"
+  }
+}

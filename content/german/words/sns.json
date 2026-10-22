@@ -1,0 +1,84 @@
+{
+  "key": "sns",
+  "ko": {
+    "title": "독일어로 SNS 하기, 단어 10개면 충분해요",
+    "hook": "posten, liken, teilen… 독일어 SNS 단어는 생각보다 훨씬 쉬워요. 대신 함정이 조금 있어요!",
+    "intro": [
+      "독일 친구들과 여행 사진을 찍었어요. 친구가 ‘Lädst du die Fotos hoch?’ 하고 묻고, 다른 친구는 ‘Bitte nicht posten!’ 이래요. 사진 한 장 올리는 데도 이렇게 할 말이 많다니요.",
+      "오늘은 SNS와 영상에 관한 단어 10개예요. 영어에서 온 단어가 많아서 금방 익숙해지지만, 독일어식 변화가 붙는 게 포인트예요. 이걸 알면 독일어로 댓글도 달고 친구들과 사진 얘기도 할 수 있어요. 📲"
+    ],
+    "words": {
+      "B2-981": {"pron": "조치알렌 메디엔", "tip": "sozial + Medien = 소셜 미디어 📱 영어랑 거의 같아요!", "warn": "늘 복수예요. 형용사 어미도 변해요: in den sozialen Medien"},
+      "B1-1365": {"pron": "비데오", "tip": "라틴어로 ‘나는 본다’ 👀 보는 거니까 Video!", "bonus": "영상을 찍다 = ein Video drehen 또는 aufnehmen"},
+      "B2-982": {"pron": "포스텐", "tip": "영어 post에 -en만 붙이면 끝 📸 과거분사는 gepostet!", "warn": "der Post는 게시물, die Post는 우체국·우편이에요."},
+      "B1-785": {"pron": "호흐라덴", "tip": "hoch(위로) + laden(싣다) = 위로 올려 싣기 ⬆️", "bonus": "반대말 = herunterladen (다운로드하다)"},
+      "A2-339": {"pron": "타일렌", "tip": "der Teil(부분)로 나누면 teilen 🍕 피자도, 게시물도 teilen!", "bonus": "피자를 나눠 먹을 땐 sich: Wir teilen uns eine Pizza."},
+      "B2-983": {"pron": "라이켄", "tip": "영어 like 그대로, 발음도 ‘라이크’ 👍 철자만 독일식으로 변해요.", "warn": "철자가 특이해요: er likt, hat gelikt"},
+      "B1-2042": {"pron": "코멘타르", "tip": "영어 comment가 K로 변신 💬 강세는 뒤쪽 -tar에!", "bonus": "댓글을 달다 = kommentieren"},
+      "B2-984": {"pron": "폴로어", "tip": "따라오는(follow) 사람 = Follower 👣 독일어로는 folgen!", "bonus": "누구를 팔로우할 땐 3격: Ich folge ihr auf Instagram."},
+      "B2-985": {"pron": "인플루언서", "tip": "영어 그대로, 여자는 -in만 붙여서 Influencerin ✨", "bonus": "광고 표시 = die Werbung · 게시물에 Werbung이라고 써 있으면 광고예요."},
+      "B2-987": {"pron": "비랄", "tip": "virus처럼 퍼지니까 viral 🦠 강세는 뒤에!", "bonus": "‘바이럴이 되다’ = viral gehen"}
+    },
+    "culture": [
+      "독일 사람들은 사진 속 다른 사람의 얼굴을 SNS에 올리는 데 꽤 조심스러운 편이에요. 친구나 아이 사진을 올리기 전에 ‘Darf ich das posten?(올려도 돼?)’ 하고 먼저 물어보는 게 매너예요.",
+      "독일어는 영어 SNS 단어를 그대로 빌려 와서 독일어처럼 변화시켜요. gepostet, gelikt, hochgeladen처럼요. 온라인에서 비난이 쏟아지는 걸 독일어로도 der Shitstorm이라고 해요.",
+      "그리고 독일에서는 메신저 단체방이 정말 많이 쓰여요. 학교 학부모 모임, 동네 이웃, 회사 팀까지 단체방으로 연락하는 경우가 많아요. 💬"
+    ],
+    "quiz": {"q": "친구에게 ‘여행 사진 바로 올릴게!’라고 말하고 싶어요.", "o": ["Ich lade die Fotos gleich hoch.", "Ich lade die Fotos gleich herunter.", "Ich like die Fotos gleich."], "a": 0, "why": "hochladen = 업로드하다예요. herunterladen은 반대로 내려받는 거예요."},
+    "outro": "오늘 SNS를 볼 때 누르는 버튼마다 독일어로 말해 봐요. liken, teilen, kommentieren! 📱"
+  },
+  "en": {
+    "title": "Speak social media in German: 10 words to know",
+    "hook": "posten, liken, teilen — German social media words are easy… with a few little traps.",
+    "intro": [
+      "You've taken holiday photos with German friends. One asks ‘Lädst du die Fotos hoch?’, another says ‘Bitte nicht posten!’. Who knew one photo could start so much conversation?",
+      "Today's ten words are about social media and video. Many come from English, so they'll feel familiar, but they bend like German words. With them you can comment in German and chat about posts with friends. 📲"
+    ],
+    "words": {
+      "B2-981": {"pron": "zoh-TSYAH-len MAY-dee-en", "tip": "sozial + Medien = social media 📱 Nearly the same as English!", "warn": "Always plural, and the adjective changes: in den sozialen Medien"},
+      "B1-1365": {"pron": "VEE-day-oh", "tip": "Latin for ‘I see’ 👀 You watch it, so it's a video!", "bonus": "to film a video = ein Video drehen or aufnehmen"},
+      "B2-982": {"pron": "POHS-ten", "tip": "English post + -en 📸 Past participle: gepostet.", "warn": "der Post = a post; die Post = the post office or mail."},
+      "B1-785": {"pron": "HOHKH-lah-den", "tip": "hoch (up) + laden (load) = upload, piece by piece ⬆️", "bonus": "The opposite = herunterladen (to download)"},
+      "A2-339": {"pron": "TY-len", "tip": "Split into Teile (parts) 🍕 You can teilen a pizza or a post.", "bonus": "Sharing food uses sich: Wir teilen uns eine Pizza."},
+      "B2-983": {"pron": "LY-ken", "tip": "Said just like English like 👍 Only the spelling goes German.", "warn": "Odd-looking forms: er likt, hat gelikt"},
+      "B1-2042": {"pron": "kom-en-TAHR", "tip": "English comment with a K 💬 Stress the end: -TAR.", "bonus": "to comment = kommentieren"},
+      "B2-984": {"pron": "FOL-oh-er", "tip": "Straight from English 👣 The German verb is folgen.", "bonus": "folgen takes the dative: Ich folge ihr auf Instagram."},
+      "B2-985": {"pron": "IN-floo-en-ser", "tip": "Borrowed whole; add -in for a woman: Influencerin ✨", "bonus": "die Werbung = advertising — look for it on sponsored posts."},
+      "B2-987": {"pron": "vee-RAHL", "tip": "It spreads like a virus 🦠 Stress the second syllable.", "bonus": "to go viral = viral gehen"}
+    },
+    "culture": [
+      "Germans tend to be careful about posting other people's faces online. Before you share a photo of friends or, especially, children, it's polite to ask: ‘Darf ich das posten?’",
+      "German happily borrows English social media words and then conjugates them the German way: gepostet, gelikt, hochgeladen. A wave of online outrage is even called der Shitstorm in German.",
+      "Messenger group chats are everywhere in Germany too — parents of a school class, neighbours in a building and work teams often organise everything in one. 💬"
+    ],
+    "quiz": {"q": "You want to tell a friend ‘I'll upload the holiday photos right away!’", "o": ["Ich lade die Fotos gleich hoch.", "Ich lade die Fotos gleich herunter.", "Ich like die Fotos gleich."], "a": 0, "why": "hochladen means to upload; herunterladen is the opposite, to download."},
+    "outro": "Next time you scroll, say each button out loud in German: liken, teilen, kommentieren! 📱"
+  },
+  "ja": {
+    "title": "ドイツ語でSNS！覚えておきたい単語10",
+    "hook": "posten、liken、teilen…ドイツ語のSNS用語は思ったよりかんたん。ただし、ちょっとした落とし穴も！",
+    "intro": [
+      "ドイツ人の友だちと旅行の写真を撮りました。ひとりは「Lädst du die Fotos hoch?」、もうひとりは「Bitte nicht posten!」。写真1枚でこんなに会話が生まれるなんて。",
+      "今日はSNSと動画にまつわる単語を10個集めました。英語から来た単語が多いのでなじみやすいですが、ドイツ語らしく変化するのがポイントです。これがあればドイツ語でコメントしたり、友だちと投稿の話をしたりできます。📲"
+    ],
+    "words": {
+      "B2-981": {"pron": "ゾツィアーレン メーディエン", "tip": "sozial + Medien = ソーシャルメディア 📱 英語とほぼ同じ！", "warn": "いつも複数形。形容詞の語尾も変わります：in den sozialen Medien"},
+      "B1-1365": {"pron": "ヴィデオ", "tip": "ラテン語で「私は見る」👀 見るものだから Video！", "bonus": "動画を撮る = ein Video drehen または aufnehmen"},
+      "B2-982": {"pron": "ポステン", "tip": "英語の post に -en をつけるだけ 📸 過去分詞は gepostet！", "warn": "der Post は「投稿」、die Post は「郵便・郵便局」です。"},
+      "B1-785": {"pron": "ホーホラーデン", "tip": "hoch（上へ）+ laden（積む）= 上に載せる ⬆️", "bonus": "反対は herunterladen（ダウンロードする）"},
+      "A2-339": {"pron": "タイレン", "tip": "Teil（部分）に分けるから teilen 🍕 ピザも投稿も teilen！", "bonus": "食べ物を分け合うときは sich：Wir teilen uns eine Pizza."},
+      "B2-983": {"pron": "ライケン", "tip": "発音は英語の like のまま 👍 つづりだけドイツ風に変化します。", "warn": "つづりが独特：er likt, hat gelikt"},
+      "B1-2042": {"pron": "コメンタール", "tip": "英語の comment が K に変身 💬 アクセントは後ろの -tar！", "bonus": "コメントする = kommentieren"},
+      "B2-984": {"pron": "フォロワー", "tip": "英語そのまま 👣 ドイツ語の動詞は folgen！", "bonus": "folgen は3格をとります：Ich folge ihr auf Instagram."},
+      "B2-985": {"pron": "インフルエンサー", "tip": "英語のまま、女性は -in をつけて Influencerin ✨", "bonus": "広告 = die Werbung。投稿に Werbung とあれば広告です。"},
+      "B2-987": {"pron": "ヴィラール", "tip": "ウイルス（Virus）のように広がるから viral 🦠 アクセントは後ろ！", "bonus": "バズる = viral gehen"}
+    },
+    "culture": [
+      "ドイツの人は、写真に写った他人の顔をSNSに載せることにかなり慎重です。友だちや子どもの写真を投稿する前に「Darf ich das posten?（載せてもいい？）」と聞くのがマナーです。",
+      "ドイツ語は英語のSNS用語をそのまま借りて、ドイツ語らしく変化させます。gepostet、gelikt、hochgeladen のように。ネットで批判が殺到する「炎上」も、ドイツ語で der Shitstorm と言います。",
+      "それからドイツではメッセンジャーのグループチャットがとてもよく使われます。学校の保護者、アパートのご近所さん、職場のチームまで、連絡はグループでということが多いです。💬"
+    ],
+    "quiz": {"q": "友だちに「旅行の写真、すぐアップするね！」と言いたいです。", "o": ["Ich lade die Fotos gleich hoch.", "Ich lade die Fotos gleich herunter.", "Ich like die Fotos gleich."], "a": 0, "why": "hochladen は「アップロードする」。herunterladen は逆に「ダウンロードする」です。"},
+    "outro": "今日SNSを見るとき、押すボタンをドイツ語で言ってみましょう。liken、teilen、kommentieren！📱"
+  }
+}

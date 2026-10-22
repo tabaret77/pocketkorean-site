@@ -1,0 +1,228 @@
+{
+  "key": "doctor",
+  "ko": {
+    "title": "독일 병원 진료실에서 꼭 듣는 단어 10",
+    "hook": "접수대에서 한 마디도 못 알아들으면 진료 전부터 진이 빠져요.",
+    "intro": [
+      "Praxis 문을 열고 들어가면 접수대 직원이 빠르게 뭔가를 물어봐요. 보험 카드를 내밀고, 대기실에 앉아서 이름이 불리기만 기다리는데 심장이 두근두근. 진료실에서 의사가 “Wo tut es weh?” 하고 물으면 뭐라고 하죠?",
+      "오늘은 병원에서 실제로 듣고 말하는 단어 10개를 모았어요. 진료 시간 확인부터 아픈 곳 설명, 병가 진단서 받기까지 한 번에 연습해 봐요. 🏥"
+    ],
+    "words": {
+      "A1-042": {
+        "pron": "아르츠트",
+        "tip": "‘아, 르츠트!’ 아플 때 찾는 사람이 Arzt 🩺 여의사는 -in을 붙여 Ärztin!",
+        "bonus": "병원 가다 = zum Arzt gehen · 치과 의사는 der Zahnarzt"
+      },
+      "BL-04-02": {
+        "pron": "프락시스",
+        "tip": "영어 practice랑 같은 뿌리 👩‍⚕️ 의사가 ‘실제로’ 진료하는 동네 병원!",
+        "warn": "복수는 die Praxen이에요. Praxisse가 아니에요!"
+      },
+      "A2-014": {
+        "pron": "슈프레히슈툰데",
+        "tip": "sprechen(말하다) + Stunde(시간) = 의사랑 이야기하는 시간 🕘",
+        "bonus": "같이 쓰는 말: einen Termin machen = 예약하다"
+      },
+      "BL-04-03": {
+        "pron": "바르테치머",
+        "tip": "warten(기다리다) + Zimmer(방) = 기다리는 방 🪑 말 그대로예요!"
+      },
+      "BL-04-05": {
+        "pron": "크랑크",
+        "tip": "몸이 ‘크랑크’ 하고 고장 난 느낌 🤒 반대말은 gesund!",
+        "bonus": "비교급은 움라우트: kränker – am kränksten"
+      },
+      "BL-04-07": {
+        "pron": "슈메르첸",
+        "tip": "‘슈메르!’ 하고 찌르는 느낌 ⚡ 아픈 곳 + Schmerzen이면 다 돼요.",
+        "warn": "병원에서는 거의 복수로 말해요: Ich habe Schmerzen. (단수는 der Schmerz)"
+      },
+      "BL-04-08": {
+        "pron": "베툰",
+        "tip": "아플 때 나오는 ‘weh!’ + tun(하다) = 아프다 😣",
+        "warn": "분리동사이고, 아픈 사람은 3격이에요: Mir tut der Kopf weh."
+      },
+      "A2-016": {
+        "pron": "피버",
+        "tip": "영어 fever와 쌍둥이 🌡️ 열나면 Ich habe Fieber.",
+        "bonus": "고열 = hohes Fieber"
+      },
+      "B1-349": {
+        "pron": "운터주헨",
+        "tip": "unter(아래) + suchen(찾다) = 속까지 샅샅이 찾아보기 🔍",
+        "warn": "과거분사에 ge-가 안 붙어요: hat untersucht."
+      },
+      "BL-04-10": {
+        "pron": "크랑크슈라이벤",
+        "tip": "아프다고(krank) 써 주는(schreiben) 것 = 병가 진단서 📄",
+        "bonus": "Ich bin krankgeschrieben. = 병가 중이에요."
+      }
+    },
+    "culture": [
+      "독일 동네 병원(Praxis)은 수요일 오후나 금요일 오후에 문을 닫는 곳이 꽤 많아요. 가기 전에 진료 시간(Sprechstunde)을 꼭 확인하세요. 요즘은 온라인 예약을 받는 병원도 많아요.",
+      "병원에 들어가면 먼저 접수대(Anmeldung)에서 보험 카드를 내요. 그리고 대기실에 앉아 있으면 이름을 불러 줘요. 대기실에서는 다들 조용히 기다리는 분위기예요.",
+      "밤이나 주말에 병원이 닫혀 있으면 116 117로 전화하면 당직 의사 서비스를 안내받을 수 있어요. 위급할 때는 112예요. 📞"
+    ],
+    "quiz": {
+      "q": "의사가 “Wo tut es weh?”라고 물어요. 머리가 아플 때 뭐라고 대답할까요?",
+      "o": [
+        "Die Sprechstunde ist montags.",
+        "Mein Kopf tut weh.",
+        "Ich warte im Wartezimmer."
+      ],
+      "a": 1,
+      "why": "Mein Kopf tut weh. = 머리가 아파요. 아픈 곳 + tut weh로 대답하면 돼요."
+    },
+    "outro": "오늘은 거울 보면서 “Mir tut der Hals weh.”처럼 아픈 곳 세 군데를 독일어로 말해 봐요. 진짜로 아플 일은 없길 바라요! 🍀"
+  },
+  "en": {
+    "title": "Ten words that get you through a German doctor's visit",
+    "hook": "Missing what the receptionist says can wear you out before you even see the doctor.",
+    "intro": [
+      "You open the door of the Praxis and the receptionist fires off a question. You hand over your insurance card, sit in the waiting room and listen nervously for your name. Then the doctor asks, “Wo tut es weh?” What now?",
+      "Today's ten words are the ones you really hear and say at the doctor's. You'll be able to check opening hours, explain where it hurts and get a sick note. 🏥"
+    ],
+    "words": {
+      "A1-042": {
+        "pron": "ARTST",
+        "tip": "From Greek archiatros, ‘chief healer’ 🩺 A female doctor is die Ärztin.",
+        "bonus": "to go to the doctor = zum Arzt gehen · dentist = der Zahnarzt"
+      },
+      "BL-04-02": {
+        "pron": "PRAK-sis",
+        "tip": "Same root as English practice 👩‍⚕️ Your local GP's surgery is a Praxis.",
+        "warn": "The plural is die Praxen, not Praxisse."
+      },
+      "A2-014": {
+        "pron": "SHPREKH-shtoon-duh",
+        "tip": "sprechen (to speak) + Stunde (hour) = the hour for talking to the doctor 🕘",
+        "bonus": "to make an appointment = einen Termin machen"
+      },
+      "BL-04-03": {
+        "pron": "VAR-tuh-tsim-er",
+        "tip": "warten (to wait) + Zimmer (room) = the waiting room 🪑 Exactly what it says!"
+      },
+      "BL-04-05": {
+        "pron": "KRANK",
+        "tip": "Feeling cranky? Maybe you're krank 🤒 The opposite is gesund.",
+        "bonus": "Comparison with umlaut: kränker – am kränksten"
+      },
+      "BL-04-07": {
+        "pron": "SHMAIR-tsen",
+        "tip": "Related to English smart, as in ‘that smarts’ ⚡ Body part + Schmerzen = any ache.",
+        "warn": "At the doctor's it's almost always plural: Ich habe Schmerzen. (Singular: der Schmerz)"
+      },
+      "BL-04-08": {
+        "pron": "VAY-toon",
+        "tip": "weh is related to English woe 😣 woe + do = it hurts!",
+        "warn": "It's separable and the person is in the dative: Mir tut der Kopf weh."
+      },
+      "A2-016": {
+        "pron": "FEE-ber",
+        "tip": "Basically English fever 🌡️ Ich habe Fieber. = I've got a temperature.",
+        "bonus": "a high temperature = hohes Fieber"
+      },
+      "B1-349": {
+        "pron": "oon-ter-ZOO-khen",
+        "tip": "unter (under) + suchen (search) = search right under the surface 🔍",
+        "warn": "No ge- in the perfect: hat untersucht."
+      },
+      "BL-04-10": {
+        "pron": "KRANK-shry-ben",
+        "tip": "krank (ill) + schreiben (write) = the doctor writes you ill 📄",
+        "bonus": "Ich bin krankgeschrieben. = I'm off sick (with a note)."
+      }
+    },
+    "culture": [
+      "Many local practices (Praxis) close on Wednesday or Friday afternoons, so check the Sprechstunde before you go. Lots of practices now let you book online too.",
+      "When you arrive, you go to the reception desk (Anmeldung) and hand over your insurance card. Then you wait in the waiting room until your name is called. People usually wait quietly.",
+      "If your practice is closed at night or at the weekend, you can call 116 117 for the out-of-hours medical service. In an emergency, call 112. 📞"
+    ],
+    "quiz": {
+      "q": "The doctor asks “Wo tut es weh?” You have a headache. What do you say?",
+      "o": [
+        "Die Sprechstunde ist montags.",
+        "Mein Kopf tut weh.",
+        "Ich warte im Wartezimmer."
+      ],
+      "a": 1,
+      "why": "Mein Kopf tut weh. = My head hurts. Just say the body part + tut weh."
+    },
+    "outro": "Stand in front of a mirror and name three things that hurt, like “Mir tut der Hals weh.” Hopefully you'll only ever need it for practice! 🍀"
+  },
+  "ja": {
+    "title": "ドイツの診察室で必ず耳にする単語10",
+    "hook": "受付で何を聞かれたかわからないと、診察の前にもう疲れてしまいますよね。",
+    "intro": [
+      "Praxis のドアを開けると、受付の人が早口で何か聞いてきます。保険証を出して待合室に座り、名前を呼ばれるのをドキドキしながら待つ。診察室で先生に「Wo tut es weh?」と聞かれたら、何と答えますか？",
+      "今日は病院で実際に聞いたり話したりする単語を10個集めました。診療時間の確認から痛いところの説明、診断書をもらうところまで、まとめて練習しましょう。🏥"
+    ],
+    "words": {
+      "A1-042": {
+        "pron": "アルツト",
+        "tip": "「あ、ルツト！」具合が悪いときに頼る人が Arzt 🩺 女性の医師は Ärztin！",
+        "bonus": "医者に行く = zum Arzt gehen · 歯医者は der Zahnarzt"
+      },
+      "BL-04-02": {
+        "pron": "プラクシス",
+        "tip": "英語の practice と同じ語源 👩‍⚕️ 先生が「実際に」診てくれる町の診療所！",
+        "warn": "複数形は die Praxen です。Praxisse ではありません！"
+      },
+      "A2-014": {
+        "pron": "シュプレヒシュトゥンデ",
+        "tip": "sprechen（話す）+ Stunde（時間）= 先生と話せる時間 🕘",
+        "bonus": "一緒に使う表現：einen Termin machen = 予約を取る"
+      },
+      "BL-04-03": {
+        "pron": "ヴァルテツィマー",
+        "tip": "warten（待つ）+ Zimmer（部屋）= 待つ部屋 🪑 そのままですね！"
+      },
+      "BL-04-05": {
+        "pron": "クランク",
+        "tip": "体が「クランク」と故障した感じ 🤒 反対は gesund！",
+        "bonus": "比較級はウムラウト：kränker – am kränksten"
+      },
+      "BL-04-07": {
+        "pron": "シュメルツェン",
+        "tip": "「シュメル！」とズキッとくる感じ ⚡ 体の部位 + Schmerzen で何でも言えます。",
+        "warn": "病院ではほぼ複数形で言います：Ich habe Schmerzen.（単数は der Schmerz）"
+      },
+      "BL-04-08": {
+        "pron": "ヴェートゥーン",
+        "tip": "痛いときの「weh!」+ tun（する）= 痛む 😣",
+        "warn": "分離動詞で、痛む人は3格です：Mir tut der Kopf weh."
+      },
+      "A2-016": {
+        "pron": "フィーバー",
+        "tip": "英語の fever とそっくり 🌡️ 熱があるなら Ich habe Fieber.",
+        "bonus": "高熱 = hohes Fieber"
+      },
+      "B1-349": {
+        "pron": "ウンターズーヘン",
+        "tip": "unter（下）+ suchen（探す）= 奥まで探って調べる 🔍",
+        "warn": "過去分詞に ge- が付きません：hat untersucht."
+      },
+      "BL-04-10": {
+        "pron": "クランクシュライベン",
+        "tip": "病気だと（krank）書いてくれる（schreiben）= 病欠の診断書 📄",
+        "bonus": "Ich bin krankgeschrieben. = 診断書をもらって休んでいます。"
+      }
+    },
+    "culture": [
+      "ドイツの町の診療所（Praxis）は、水曜や金曜の午後が休みのところがけっこう多いです。行く前に診療時間（Sprechstunde）を必ず確認しましょう。最近はオンライン予約ができるところも増えています。",
+      "着いたらまず受付（Anmeldung）で保険証を出します。それから待合室で名前を呼ばれるまで待ちます。待合室ではみんな静かに待っているのがふつうです。",
+      "夜や週末で診療所が閉まっているときは、116 117 に電話すると時間外の診療サービスを案内してもらえます。緊急のときは 112 です。📞"
+    ],
+    "quiz": {
+      "q": "先生に「Wo tut es weh?」と聞かれました。頭が痛いとき、何と答えますか？",
+      "o": [
+        "Die Sprechstunde ist montags.",
+        "Mein Kopf tut weh.",
+        "Ich warte im Wartezimmer."
+      ],
+      "a": 1,
+      "why": "Mein Kopf tut weh. = 頭が痛いです。痛いところ + tut weh で答えればOKです。"
+    },
+    "outro": "鏡の前で「Mir tut der Hals weh.」のように、痛いところを3つドイツ語で言ってみましょう。本番で使う日が来ないといいですね！🍀"
+  }
+}
