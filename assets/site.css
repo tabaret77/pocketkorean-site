@@ -125,12 +125,11 @@ nav.main .pgni{margin-left:6px;padding-left:10px;border-left:1px solid var(--lin
 nav.main .pgni>a{gap:8px}
 nav.main .pgni .pglogo{width:24px;height:24px;flex:none;border-radius:6px}
 nav.main .pgni .sub{left:auto;right:0}
-/* when the menu would wrap (long labels), Pocket German shows just its logo, then every item tightens a little (site.js fitNav) */
-nav.main.pgc .pgni>a{padding-left:10px;padding-right:10px}
-nav.main.pgc .pgni>a span{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
-nav.main.pgc .pgni>a .pglogo{width:28px;height:28px}
-nav.main.tight .ni>a{padding-left:9px;padding-right:9px;font-size:17px}
-nav.main.tight{gap:2px}
+/* when the menu would wrap (long labels), every item gets a little smaller, step by step (site.js fitNav); Pocket German keeps logo + name */
+nav.main.t1{gap:2px}nav.main.t1 .ni>a{padding-left:10px;padding-right:10px;font-size:17px}
+nav.main.t2 .ni>a{padding-left:8px;padding-right:8px;font-size:16px}
+nav.main.t3 .ni>a{padding-left:7px;padding-right:7px;font-size:15px}
+nav.main.t1 .pgni{margin-left:2px;padding-left:6px}nav.main.t1 .pgni>a{gap:6px}nav.main.t2 .pgni .pglogo{width:22px;height:22px}
 header.top .mega .col:last-child p::before{content:"";display:inline-block;width:10px;height:10px;margin-right:6px;border-radius:2px;background:linear-gradient(#151515 33%,#DD0000 33% 66%,#FFCE00 66%);vertical-align:0}
 @media (max-width:1100px){.mega .cols{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.mega{max-height:calc(100vh - 68px);overflow:auto}}
 @media (max-width:520px){.mega .cols{grid-template-columns:1fr}.brand span{font-size:18px}header.top .acts .btn{display:none}}

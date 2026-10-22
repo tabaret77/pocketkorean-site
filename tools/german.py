@@ -42,7 +42,7 @@ S = {
    lead='단어 카드 한 장에 뜻과 그림, 원어민 발음, 예문, 어원까지. 하루 10분 미션으로 A1에서 C2까지 차근차근 올라가요.',
    ph='독일어·한국어로 찾기 (예: Haus, 집)', go='찾기', try_='웹에서 체험하기', soon='App Store 곧 출시',
    free='웹 체험판에서는 A1 단어와 주제별 단어를 무료로 볼 수 있어요.',
-   tw='오늘의 단어', ts='오늘의 한 문장', tw_more='단어 카드로 보기', pat='문장 패턴', listen='듣기',
+   tw='오늘의 단어', ts='오늘의 한 문장', tw_more='오늘의 단어 자세히 보기', pat='문장 패턴', listen='듣기',
    life='독일 이야기', life_p='독일에서 살며 만나는 문화와 생활, 그리고 그 속의 독일어.', life_empty='첫 이야기를 준비하고 있어요. 곧 이곳에서 만나요.', more='더 보기',
    feat='앱에서는 이렇게 공부해요',
    feats=[('study', '그림이 있는 단어 카드', '관사 색, 복수형, 예문, 어원, 관련 어휘까지 카드 한 장에.'),
@@ -63,7 +63,7 @@ S = {
    lead='One card per word: meaning, picture, native audio, an example and where the word comes from. Ten minutes a day takes you from A1 to C2.',
    ph='Search in German or English (e.g. Haus, house)', go='Search', try_='Try it on the web', soon='Coming soon to the App Store',
    free='The web version opens all A1 words and the topic word lists for free.',
-   tw="Today's words", ts='Sentence of the day', tw_more='See them as cards', pat='Pattern', listen='Listen',
+   tw="Today's words", ts='Sentence of the day', tw_more='Read today’s word story', pat='Pattern', listen='Listen',
    life='Life in Germany', life_p='Culture and everyday life in Germany, and the German you meet along the way.', life_empty='The first stories are on their way.', more='More',
    feat='How the app helps you learn',
    feats=[('study', 'Picture word cards', 'Article colours, plurals, examples, origins and related words on one card.'),
@@ -84,7 +84,7 @@ S = {
    lead='1枚の単語カードに意味、イラスト、ネイティブ音声、例文、語源まで。1日10分のミッションでA1からC2まで一歩ずつ。',
    ph='ドイツ語か日本語で検索（例: Haus, 家）', go='検索', try_='ウェブで試す', soon='App Store 近日公開',
    free='ウェブ版ではA1の単語とテーマ別単語を無料で使えます。',
-   tw='今日の単語', ts='今日のひとこと', tw_more='カードで見る', pat='文型', listen='聞く',
+   tw='今日の単語', ts='今日のひとこと', tw_more='今日の単語を詳しく見る', pat='文型', listen='聞く',
    life='ドイツ暮らし', life_p='ドイツで暮らして出会う文化と生活、そしてその中のドイツ語。', life_empty='最初の記事を準備しています。もうすぐ公開します。', more='もっと見る',
    feat='アプリではこう学びます',
    feats=[('study', 'イラスト付き単語カード', '冠詞の色、複数形、例文、語源、関連語まで1枚に。'),
@@ -271,7 +271,7 @@ def art_grid(g, arts, n=None):
     return '<div class="agrid">' + ''.join(art_card(g, a) for a in arts[:n]) + '</div>'
 
 # ---------- pages ----------
-def home(g, d, arts):
+def home(g, d, arts, posts=None):
     s = S[g]
     feats = ''.join(f'<li><figure><img src="/german/web/{HELP[g]}/{k}.jpg" alt="" loading="lazy" width="600" height="1200"></figure><h3>{E(t)}</h3><p>{E(p)}</p></li>' for k, t, p in s['feats'])
     body = f'''<section class="hero"><div class="pgw herow">
@@ -284,7 +284,7 @@ def home(g, d, arts):
 </div></section>
 <section class="pgw today" id="today" data-today="{d.isoformat()}">
 <article class="tcard words"><header><h2>{E(s["tw"])}</h2><time class="tdate" datetime="{d.isoformat()}">{fdate(g, d)}</time></header><div class="twb">{today_words(g, d)}</div>
-<a class="tmore" href="{url(g, "today/")}#words">{E(s["tw_more"])}</a></article>
+<a class="tmore" href="{url(g, "today/")}">{E(s["tw_more"])}</a></article>
 <article class="tcard sent"><header><h2>{E(s["ts"])}</h2></header><div class="tsb">{today_sentence(g, d)}</div></article>
 </section>
 <section class="pgw life"><header class="sh"><h2>{E(s["life"])}</h2><p>{E(s["life_p"])}</p>{f'<a href="{url(g, "life/")}">{E(s["more"])}</a>' if len(arts) > 6 else ""}</header>{art_grid(g, arts, 6)}</section>
@@ -307,8 +307,17 @@ def dictionary(g):
             f'<div class="dgrid"><ol class="dres" id="dres"></ol><div class="dcard" id="dcard" hidden></div></div></section>')
     write(f'{g + "/" if g != "ko" else ""}dictionary/index.html', page(g, 'dictionary/', f'{s["dict_t"]} | {PG_NAME[g]}', s['dict_p'], body, cur='dictionary/'))
 
-def today_page(g, d):
+def today_page(g, d, posts=None):
     s = S[g]
+    t = TOP['topics'][day_index(d, len(TOP['topics']))]
+    if posts and t['key'] in posts and g in posts[t['key']]:
+        tom = TOP['topics'][day_index(d + datetime.timedelta(days=1), len(TOP['topics']))]['key']
+        P = posts[t['key']]
+        body = (post_body(g, t['key'], P, d, tom, posts) +
+                f'<section class="pgw todayp narrow" data-today="{d.isoformat()}" data-post="{t["key"]}" data-posts="{",".join(posts)}"><h2 id="sentence">{E(s["ts"])}</h2>'
+                f'<article class="tcard sent big"><div class="tsb">{today_sentence(g, d)}</div></article></section>')
+        write(f'{g + "/" if g != "ko" else ""}today/index.html', page(g, 'today/', f'{s["today_t"]} | {PG_NAME[g]}', P[g].get('hook', s['today_p']), body, cur='today/'))
+        return
     body = (phead(g, s['today_t'], s['today_p']) +
             f'<section class="pgw todayp" data-today="{d.isoformat()}"><h2 id="words">{E(s["tw"])} <time class="tdate" datetime="{d.isoformat()}">{fdate(g, d)}</time></h2>'
             f'<div class="twb full">{today_words(g, d, full=True)}</div>'
@@ -336,6 +345,125 @@ def app_page(g):
             f'<ul class="fl small">{"".join(f"<li><figure><img src=/german/web/{HELP[g]}/{k}.jpg alt=\'\' loading=lazy></figure><h3>{E(t)}</h3></li>" for k, t, p in s["feats"])}</ul></section>')
     write(f'{g + "/" if g != "ko" else ""}app/index.html'.replace('ko/', ''), page(g, 'app/', f'{s["app_t"]} | {PG_NAME[g]}', s['app_p'], body, cur='app/'))
 
+
+# ---------- today's words as a blog post (content/german/words/<topic key>.json) ----------
+PS = {
+ 'ko': dict(kick='오늘의 단어', glance='📋 오늘의 단어 한눈에 보기', learn='🧠 단어 + 예문 + 암기 꿀팁', culture='🇩🇪 오늘의 독일 문화 한 스푼',
+            quiz='✅ 퀴즈로 확인해요', answer='정답 보기', next='🔜 내일의 주제', app_h='이 10개 단어, 앱에서 카드로 외워요',
+            app_p='포켓독일어 웹 체험판에서 ‘주제별 단어’를 열면 오늘 단어를 그림 카드와 퀴즈로 바로 연습할 수 있어요.', bonus='보너스', all='오늘의 단어 모아 보기',
+            all_p='날마다 한 가지 주제로 단어 10개를 이야기처럼 풀어 정리해요.', words='단어', other='다른 주제도 보기'),
+ 'en': dict(kick="Today's words", glance='📋 The ten words at a glance', learn='🧠 Words, examples and memory tricks', culture='🇩🇪 A spoonful of German culture',
+            quiz='✅ Quick quiz', answer='Show the answer', next="🔜 Tomorrow's topic", app_h='Learn these ten words as cards in the app',
+            app_p="Open ‘Topic words’ in the Pocket German web version to practise today's words with picture cards and quizzes.", bonus='Bonus', all="All of today's words",
+            all_p='One topic a day: ten words, explained like a story.', words='words', other='More topics'),
+ 'ja': dict(kick='今日の単語', glance='📋 今日の単語をひと目で', learn='🧠 単語・例文・覚え方のコツ', culture='🇩🇪 今日のドイツ文化ひとさじ',
+            quiz='✅ クイズで確認', answer='答えを見る', next='🔜 明日のテーマ', app_h='この10語をアプリのカードで覚えよう',
+            app_p='ポケットドイツ語のウェブ版で「テーマ別単語」を開くと、今日の単語をイラストカードとクイズですぐ練習できます。', bonus='ボーナス', all='今日の単語まとめ',
+            all_p='毎日ひとつのテーマで、単語10語をストーリーのように解説します。', words='語', other='ほかのテーマも見る'),
+}
+CATBG = {'daily': '#CBE3FA', 'germany': '#FFE29A', 'campus': '#DFD1F5', 'work': '#EBD3B3', 'people': '#FFC9D1', 'events': '#FFD6C2', 'food': '#FFD0A1',
+         'travel': '#C0E8EF', 'leisure': '#E6F2B6', 'culture': '#FFEFBC', 'screen': '#CFDAF7', 'stage': '#F5D2E5', 'web': '#D9DBF7', 'society': '#D8E3EC',
+         'nature': '#CDEAC0', 'help': '#FFC9D1', 'verbs': '#BDE4D6', 'glue': '#F4C9B8', 'idioms': '#DFD1F5', 'more': '#D8E3EC'}
+TOPIC = {t['key']: t for t in TOP['topics']}
+
+def load_posts():
+    d = f'{OUT}/content/german/words'
+    if not os.path.isdir(d): return {}
+    return {f[:-5]: json.load(open(f'{d}/{f}')) for f in sorted(os.listdir(d)) if f.endswith('.json')}
+
+def hero_svg(t, g, small=False):
+    """the topic's picture: up to five of its word drawings on index cards, on the category colour"""
+    ws, seen = [], set()
+    for i in t['ids']:
+        k = PMAP.get(i)
+        if i in W[g] and k in PICS and k not in seen:
+            seen.add(k); ws.append(W[g][i])
+    ws = ws[:5]
+    n = len(ws); bg = CATBG.get(t.get('cat'), '#E7ECF4')
+    cards = ''
+    rot = [-7, 5, -3, 6, -5]
+    cw, gap = 200, 24
+    x0 = (1200 - (n * cw + (n - 1) * gap)) / 2
+    for k, w in enumerate(ws):
+        x = x0 + k * (cw + gap); y = 120 + (24 if k % 2 else 0)
+        de = w['de'] if len(w['de']) <= 18 else w['de'][:17] + '…'
+        cards += (f'<g transform="rotate({rot[k]} {x + cw / 2} {y + 130})"><rect x="{x}" y="{y}" width="{cw}" height="260" rx="16" fill="#fff" filter="url(#sh)"/>'
+                  f'<line x1="{x + 16}" y1="{y}" x2="{x + 16}" y2="{y + 260}" stroke="#D9483B" stroke-opacity=".35"/>'
+                  f'<svg x="{x + 25}" y="{y + 18}" width="150" height="150" viewBox="0 0 100 100" style="color:#1B2433">{PICS[PMAP[w["id"]]]}</svg>'
+                  f'<text x="{x + cw / 2 + 6}" y="{y + 214}" text-anchor="middle" font-family="Bricolage Grotesque,Arial,sans-serif" font-weight="800" font-size="{22 if len(de) < 13 else 18}" fill="#1B2433">{E(de)}</text></g>')
+    return (f'<svg class="hero-svg" viewBox="0 0 1200 520" role="img" aria-label="{E(t["name"].get(g, ""))}" preserveAspectRatio="xMidYMid slice">'
+            f'<defs><filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#1B2433" flood-opacity=".18"/></filter></defs>'
+            f'<rect width="1200" height="520" fill="{bg}"/><circle cx="1080" cy="60" r="190" fill="#fff" opacity=".35"/><circle cx="90" cy="470" r="150" fill="#fff" opacity=".3"/>'
+            f'{cards}<g transform="translate(540 486)"><rect width="40" height="8" fill="#151515"/><rect x="40" width="40" height="8" fill="#DD0000"/><rect x="80" width="40" height="8" fill="#FFCE00"/></g></svg>')
+
+def post_body(g, key, P, d=None, tomorrow=None, posts=None):
+    s, ps, t = S[g], PS[g], TOPIC[key]
+    c = P[g]
+    ws = [W[g][i] for i in t['ids'] if i in W[g]]
+    lvs = sorted({w['lv'] for w in ws})
+    glance = ''.join(f'<li><a href="#w{k + 1}"><span class="wde" lang="de">{word_html(w["de"])}</span> — {E(w["ko"])}</a></li>' for k, w in enumerate(ws))
+    secs = ''
+    for k, w in enumerate(ws):
+        x = c['words'].get(w['id'], {})
+        say = f'<button class="say" data-say="{w["id"]}" aria-label="{E(s["listen"])}">{SPK}</button>' if w['id'] in AUD else ''
+        say2 = f'<button class="say sm" data-say="{w["id"]}" data-part="1" aria-label="{E(s["listen"])}">{SPK}</button>' if w['id'] in AUD and w.get('ex') else ''
+        pic = pic_svg(w['id'])
+        tip = x.get('tip') or w.get('tip') or ''
+        extra = ''
+        if x.get('bonus'): extra += f'<p class="pbonus"><b>{E(ps["bonus"])}</b> {E(x["bonus"])}</p>'
+        if x.get('warn'): extra += f'<p class="pwarn">⚠ {E(x["warn"])}</p>'
+        pron = f'<span class="ppr">[{E(x["pron"])}]</span>' if x.get('pron') else ''
+        forms = f'<p class="pforms" lang="de">({E(w["forms"])})</p>' if w.get('forms') else ''
+        ex = f'<p class="pex" lang="de">📌 {E(w["ex"])}{say2}</p><p class="pexk">→ {E(w.get("exk", ""))}</p>' if w.get('ex') else ''
+        tipp = f'<p class="ptip">💡 {E(tip)}</p>' if tip else ''
+        fig = f'<figure class="ppic">{pic}</figure>' if pic else ''
+        secs += (f'<section class="pword" id="w{k + 1}"><header><span class="pn">{k + 1:02d}</span><div class="ph"><h3 lang="de">{word_html(w["de"])}</h3>'
+                 f'{pron}<span class="pm">{E(w["ko"])}</span></div>{say}</header>'
+                 f'<div class="pb"><div class="pt">{forms}{ex}{tipp}{extra}</div>{fig}</div></section>')
+    q = c.get('quiz')
+    quiz = ''
+    if q:
+        opts = ''.join(f'<li lang="de"><span>{"①②③④"[i]}</span> {E(o)}</li>' for i, o in enumerate(q['o']))
+        quiz = (f'<section class="pbox quiz"><h2>{E(ps["quiz"])}</h2><p class="qq">Q. {E(q["q"])}</p><ol class="qo">{opts}</ol>'
+                f'<details><summary>{E(ps["answer"])}</summary><p><b>{"①②③④"[q["a"]]} {E(q["o"][q["a"]])}</b><br>{E(q.get("why", ""))}</p></details></section>')
+    nxt = ''
+    if tomorrow:
+        tt = TOPIC[tomorrow]; nm = tt['name'].get(g) or tt['name']['ko']
+        inner = f'{tt.get("emoji", "")} {E(nm)}'
+        nxt = f'<p class="pnext">{E(ps["next"])}: ' + (f'<a href="{url(g, "words/" + tomorrow + "/")}">{inner}</a>' if posts and tomorrow in posts else f'<b>{inner}</b>') + '</p>'
+    culture = (f'<section class="pbox culture"><h2>{E(ps["culture"])}</h2>' + ''.join(f'<p>{E(x)}</p>' for x in c['culture']) + '</section>') if c.get('culture') else ''
+    when = f'<time datetime="{d.isoformat()}">{fdate(g, d)}</time>' if d else ''
+    return (f'<article class="ppost"><figure class="phero">{hero_svg(t, g)}</figure><div class="pgw pwrap">'
+            f'<p class="pkick"><a href="{url(g, "words/")}">{E(ps["kick"])}</a> · {t.get("emoji", "")} {E(t["name"].get(g) or t["name"]["ko"])} {when}</p>'
+            f'<h1>{E(c["title"])}</h1><p class="plv">{"".join(f'<span class="lv l{l[0]}">{l}</span>' for l in lvs)}</p>'
+            f'<p class="phook">{E(c.get("hook", ""))}</p>{"".join(f"<p>{E(x)}</p>" for x in c.get("intro", []))}'
+            f'<section class="pbox glance"><h2>{E(ps["glance"])}</h2><ol>{glance}</ol></section>'
+            f'<h2 class="psh">{E(ps["learn"])}</h2>{secs}'
+            f'{culture}'
+            f'{quiz}<p class="poutro">{E(c.get("outro", ""))}</p>{nxt}'
+            f'<aside class="papp"><div><h2>{E(ps["app_h"])}</h2><p>{E(ps["app_p"])}</p></div><a class="btn red" href="{WEBAPP[g]}">{E(s["try_"])}</a></aside>'
+            f'</div></article>')
+
+def post_card(g, key, P):
+    t = TOPIC[key]
+    return (f'<a class="acard" href="{url(g, "words/" + key + "/")}"><span class="cov">{hero_svg(t, g, True)}</span>'
+            f'<span class="ab"><time>{t.get("emoji", "")} {E(t["name"].get(g) or t["name"]["ko"])}</time><b>{E(P[g]["title"])}</b><span>{E(P[g].get("hook", ""))}</span></span></a>')
+
+def word_posts(g, posts, d):
+    ps = PS[g]
+    order = sorted(posts, key=lambda k: TOP['topics'].index(TOPIC[k]) if k in TOPIC else 0)
+    for key, P in posts.items():
+        if key not in TOPIC or g not in P: continue
+        i = TOP['topics'].index(TOPIC[key]); tom = TOP['topics'][(i + 1) % len(TOP['topics'])]['key']
+        others = [k for k in order if k != key][:3]
+        more = (f'<section class="pgw life"><header class="sh"><h2>{E(ps["other"])}</h2></header><div class="agrid">' + ''.join(post_card(g, k, posts[k]) for k in others) + '</div></section>') if others else ''
+        body = post_body(g, key, P, None, tom, posts) + more
+        write(f'{g + "/" if g != "ko" else ""}words/{key}/index.html',
+              page(g, f'words/{key}/', f'{P[g]["title"]} | {PG_NAME[g]}', P[g].get('hook', ''), body, cur='today/'))
+    grid = '<div class="agrid">' + ''.join(post_card(g, k, posts[k]) for k in order if g in posts[k]) + '</div>' if posts else ''
+    body = phead(g, ps['all'], ps['all_p']) + f'<section class="pgw life">{grid}</section>'
+    write(f'{g + "/" if g != "ko" else ""}words/index.html', page(g, 'words/', f'{ps["all"]} | {PG_NAME[g]}', ps['all_p'], body, cur='today/'))
+
 def assets():
     global CSSV, JSV
     write('assets/pg.css', CSS); write('assets/pg.js', JS)
@@ -350,6 +478,7 @@ def sitemap():
     for g in GL:
         for p in ['', 'dictionary/', 'today/', 'life/']:
             urls.append(f'{BASE}{url(g, p)}')
+        urls += [f'{BASE}{url(g, "words/")}'] + [f'{BASE}{url(g, "words/" + k + "/")}' for k in load_posts()]
         urls += [f'{BASE}{url(g, "life/" + a["slug"] + "/")}' for a in load_articles(g)]
     open(f'{OUT}/sitemap-german.xml', 'w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
                                                    + ''.join(f'<url><loc>{u}</loc></url>' for u in urls) + '</urlset>')
@@ -363,9 +492,10 @@ def main():
     import zoneinfo
     d = datetime.datetime.now(zoneinfo.ZoneInfo('Europe/Berlin')).date()
     assets(); data_files()
+    posts = load_posts()
     for g in GL:
         arts = load_articles(g)
-        home(g, d, arts); dictionary(g); today_page(g, d); life(g, arts)
+        home(g, d, arts, posts); dictionary(g); today_page(g, d, posts); life(g, arts); word_posts(g, posts, d)
     sitemap()
     print('german: ok', NWORDS, 'words')
 

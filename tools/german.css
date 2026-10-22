@@ -220,3 +220,63 @@ body:has(.feat) .pgfoot{margin-top:0}
 .pgfoot nav{display:flex;flex-wrap:wrap;gap:6px 18px;margin:18px 0}
 .pgfoot nav a{text-decoration:none;font-weight:700;color:var(--ink)}
 .pgcopy{margin:0;font-size:13px}
+
+/* today's words as a blog post */
+.phero{margin:0;background:var(--black)}
+.hero-svg{display:block;width:100%;height:auto;max-height:440px}
+.acard .cov .hero-svg{height:100%;max-height:none}
+.pwrap{max-width:800px;padding-top:30px}
+.pkick{margin:0 0 6px;font-size:14.5px;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 8px;align-items:center}
+.pkick a{color:var(--red);font-weight:700;text-decoration:none}
+.ppost h1{margin:0 0 10px;font-size:clamp(28px,4.2vw,42px);line-height:1.2;letter-spacing:-.03em}
+body.pg[data-g="ko"] .ppost h1{word-break:keep-all}
+body.pg[data-g="ja"] .ppost h1{word-break:auto-phrase}
+.plv{display:flex;gap:6px;margin:0 0 22px}
+.phook{font-size:20px;font-weight:700;line-height:1.5;margin:0 0 14px}
+.pwrap>p{font-size:17px;line-height:1.85;margin:0 0 14px}
+.pbox{position:relative;margin:30px 0;background:var(--card);border-radius:6px 6px 16px 16px;box-shadow:var(--lift);padding:18px 22px 20px 40px;overflow:hidden}
+.pbox::before{content:"";position:absolute;top:0;bottom:0;left:24px;width:1px;background:var(--margin);opacity:.35}
+.pbox h2{margin:0 -22px 12px -40px;padding:0 22px 10px 40px;border-bottom:2px solid var(--margin);font-size:19px}
+.pbox p{margin:0 0 10px;line-height:1.8}.pbox p:last-child{margin:0}
+.glance ol{margin:0;padding-left:1.4em;columns:2;column-gap:28px}
+@media (max-width:640px){.glance ol{columns:1}}
+.glance li{break-inside:avoid;padding:3px 0}
+.glance a{text-decoration:none}.glance a:hover .wde{text-decoration:underline}
+.glance .wde{font-family:var(--display);font-weight:700}
+.psh{margin:40px 0 16px;font-size:24px}
+.pword{position:relative;margin:0 0 18px;background:var(--card);border-radius:6px 6px 16px 16px;box-shadow:var(--lift);padding:16px 22px 18px 40px;overflow:hidden;scroll-margin-top:90px}
+.pword::before{content:"";position:absolute;top:0;bottom:0;left:24px;width:1px;background:var(--margin);opacity:.35}
+.pword header{display:flex;align-items:flex-start;gap:12px;margin:0 -22px 12px -40px;padding:0 22px 12px 40px;border-bottom:2px solid var(--margin)}
+.pn{font-family:var(--display);font-weight:800;font-size:15px;color:var(--margin);padding-top:6px}
+.ph{flex:1;min-width:0;display:flex;flex-wrap:wrap;align-items:baseline;gap:2px 10px}
+.ph h3{margin:0;font-family:var(--display);font-weight:800;font-size:26px;line-height:1.25;overflow-wrap:anywhere}
+.ppr{color:var(--muted);font-size:14.5px}
+.pm{flex-basis:100%;font-weight:700;font-size:17px}
+.pb{display:grid;grid-template-columns:minmax(0,1fr) 130px;gap:16px;align-items:start}
+.pb:not(:has(.ppic)){grid-template-columns:1fr}
+@media (max-width:560px){.pb{grid-template-columns:minmax(0,1fr) 92px}}
+.pt p{margin:0 0 6px;line-height:1.7}
+.pforms{font-size:14px;color:var(--muted)}
+.pex{font-weight:500;font-size:16.5px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.pexk{color:var(--muted)}
+.ptip{background:color-mix(in srgb,var(--gold) 26%,#fff);border-radius:10px;padding:8px 12px;margin-top:10px!important}
+.pbonus{font-size:15px}.pbonus b{color:var(--der)}
+.pwarn{font-size:15px;color:var(--die)}
+.ppic{margin:0;aspect-ratio:1;color:var(--ink)}
+.ppic svg{width:100%;height:100%;overflow:visible}
+.say.sm{width:30px;height:30px;margin:0}
+.culture{background:linear-gradient(180deg,#fff,#fff) padding-box}
+.quiz .qq{font-weight:700;font-size:17px}
+.qo{list-style:none;margin:0 0 12px;padding:0;display:grid;gap:6px}
+.qo li{padding:8px 12px;border:1.5px solid var(--rule);border-radius:12px;font-family:var(--display);font-weight:700}
+.qo li span{color:var(--margin);margin-right:4px}
+.quiz details{background:var(--soft);border-radius:12px;padding:10px 14px}
+.quiz summary{cursor:pointer;font-weight:700;color:var(--der)}
+.quiz details p{margin:8px 0 0}
+.poutro{font-weight:500}
+.pnext{font-weight:700;font-size:17px;margin:20px 0!important}
+.pnext a{color:var(--der)}
+.papp{display:flex;flex-wrap:wrap;align-items:center;gap:16px 24px;justify-content:space-between;margin:34px 0 0;padding:24px;border-radius:18px;background:var(--black);color:#fff}
+.papp h2{margin:0 0 4px;font-size:20px}.papp p{margin:0;color:#CFCFCF;max-width:34em}
+
+.todayp.narrow{max-width:800px}

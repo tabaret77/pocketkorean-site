@@ -1,0 +1,84 @@
+{
+  "key": "illness",
+  "ko": {
+    "title": "아플 때 바로 쓰는 독일어 10",
+    "hook": "독일에서 처음 감기에 걸리면, 약보다 먼저 필요한 게 단어예요.",
+    "intro": [
+      "아침에 일어났는데 목이 따끔하고 머리가 지끈지끈. 병원에 전화해야 하는데 독일어로 뭐라고 하지? 회사에는 어떻게 말하지?",
+      "오늘은 아플 때 정말 자주 쓰는 단어 10개를 모았어요. 이 10개만 있으면 병원 접수부터 약국, 회사에 결근 연락까지 혼자서 할 수 있어요. 아프지 않을 때 미리 외워 두는 게 제일 좋겠죠? 🤒"
+    ],
+    "words": {
+      "B1-246": {"pron": "크랑크하이트", "tip": "krank(아픈) + -heit = 아픈 상태 🤒 -heit으로 끝나면 언제나 die!", "bonus": "형용사 krank도 같이: Ich bin krank. = 저 아파요."},
+      "A2-016": {"pron": "피버", "tip": "영어 fever와 거의 똑같아요 🌡️ 열이 나면 Ich habe Fieber.", "bonus": "체온을 재다 = Fieber messen"},
+      "A2-487": {"pron": "후스텐", "tip": "‘후스텐, 후스텐’ 기침 소리 같지 않나요? 😷 소리를 흉내 낸 말이에요.", "bonus": "명사 der Husten = 기침 · 기침약은 der Hustensaft"},
+      "A2-015": {"pron": "에어캘퉁", "tip": "kalt(차가운)가 숨어 있어요 🥶 몸이 차가워져서 걸리는 게 감기!", "warn": "-ung으로 끝나면 언제나 die예요."},
+      "B1-1116": {"pron": "슈누펜", "tip": "코를 ‘슈눕’ 하고 훌쩍이는 소리 🤧 콧물 감기는 Schnupfen!", "bonus": "Ich habe Schnupfen. 처럼 관사 없이 말해요."},
+      "A2-477": {"pron": "그리페", "tip": "독감이 몸을 꽉 움켜잡는(gripper) 느낌 🤕 프랑스어에서 왔어요.", "warn": "Grippe는 그냥 감기(Erkältung)보다 훨씬 심한 독감이에요."},
+      "A2-455": {"pron": "에어캘테트 자인", "tip": "Erkältung의 형용사 버전 🧣 Ich bin erkältet. 한 문장으로 끝!", "bonus": "같은 뜻: Ich habe eine Erkältung."},
+      "A2-731": {"pron": "코프슈메르첸", "tip": "Kopf(머리) + Schmerzen(통증) = 두통 🤯 레고처럼 붙이면 끝!", "warn": "보통 복수로 말해요: Ich habe Kopfschmerzen."},
+      "A2-816": {"pron": "할스슈메르첸", "tip": "Hals(목) + Schmerzen = 인후통 🗣️ 배가 아프면 Bauchschmerzen, 이가 아프면 Zahnschmerzen!", "bonus": "‘○○가 아파요’는 전부 ○○ + Schmerzen으로 만들 수 있어요."},
+      "A2-098": {"pron": "구테 베서룽", "tip": "besser(더 좋은) + -ung = 나아짐 💐 ‘좋은 회복 되세요!’", "bonus": "재채기하는 사람에게는 Gesundheit! (건강하세요!)"}
+    },
+    "culture": [
+      "독일에서는 아프면 먼저 동네 가정의(Hausarzt)에게 가요. 대부분 예약(Termin)이 필요하니 아침에 전화부터 하는 게 보통이에요.",
+      "회사를 쉬면 의사의 진단서(Krankschreibung)가 필요해요. 법으로는 아픈 날이 3일을 넘으면 내야 하고, 회사에 따라 첫날부터 달라고 하기도 해요. 요즘은 병원이 보험사로 전자 진단서를 보내 줘요.",
+      "그리고 하나 더! 독일에서는 이부프로펜 같은 진통제도 마트가 아니라 약국(Apotheke)에서만 살 수 있어요. 💊"
+    ],
+    "quiz": {"q": "친구가 감기에 걸렸대요. 뭐라고 말해 줄까요?", "o": ["Gute Besserung!", "Ich habe Fieber.", "Er hustet seit drei Tagen."], "a": 0, "why": "Gute Besserung! = 빨리 나아! 아픈 사람에게 하는 인사예요."},
+    "outro": "오늘 단어로 병원에 전화하는 장면을 한 번 소리 내서 연습해 봐요. 다들 아프지 말고, Gute Besserung은 남에게만 쓰기로 해요! 🍀"
+  },
+  "en": {
+    "title": "10 German words for when you're sick",
+    "hook": "The first time you catch a cold in Germany, you'll need these words before you need medicine.",
+    "intro": [
+      "You wake up with a scratchy throat and a pounding head. You need to call the doctor, but how do you say it in German? And what do you tell your boss?",
+      "Here are ten words you'll use again and again when you're unwell. With them you can book a doctor's appointment, ask at the pharmacy and call in sick on your own. Best to learn them before you need them! 🤒"
+    ],
+    "words": {
+      "B1-246": {"pron": "KRANK-hite", "tip": "krank (sick) + -heit = the state of being sick 🤒 Nouns ending in -heit are always die.", "bonus": "The adjective too: Ich bin krank. = I'm sick."},
+      "A2-016": {"pron": "FEE-ber", "tip": "Almost the same as English fever 🌡️ Ich habe Fieber. = I've got a temperature.", "bonus": "to take your temperature = Fieber messen"},
+      "A2-487": {"pron": "HOOS-ten", "tip": "Say it out loud — it sounds like a cough 😷 The word copies the sound.", "bonus": "The noun der Husten = a cough · cough syrup = der Hustensaft"},
+      "A2-015": {"pron": "air-KEL-toong", "tip": "kalt (cold) is hiding inside 🥶 You get cold, you catch a cold.", "warn": "Words ending in -ung are always die."},
+      "B1-1116": {"pron": "SHNOOP-fen", "tip": "It sounds like sniffing 🤧 A runny-nose cold is Schnupfen.", "bonus": "No article: Ich habe Schnupfen."},
+      "A2-477": {"pron": "GRIP-uh", "tip": "The flu grips you hard 🤕 It comes from French grippe.", "warn": "Grippe is real flu, much worse than an Erkältung."},
+      "A2-455": {"pron": "air-KEL-tet zine", "tip": "The adjective form of Erkältung 🧣 One sentence does it: Ich bin erkältet.", "bonus": "Same meaning: Ich habe eine Erkältung."},
+      "A2-731": {"pron": "KOPF-shmair-tsen", "tip": "Kopf (head) + Schmerzen (pain) = headache 🤯 German builds words like Lego.", "warn": "Usually plural: Ich habe Kopfschmerzen."},
+      "A2-816": {"pron": "HALS-shmair-tsen", "tip": "Hals (throat) + Schmerzen = sore throat 🗣️ Stomach ache: Bauchschmerzen. Toothache: Zahnschmerzen.", "bonus": "Any ‘___ hurts’ works the same way: body part + Schmerzen."},
+      "A2-098": {"pron": "GOO-tuh BESS-er-oong", "tip": "besser (better) + -ung = getting better 💐 ‘Good recovery!’", "bonus": "When someone sneezes, say Gesundheit! (Bless you!)"}
+    },
+    "culture": [
+      "In Germany you usually see your family doctor (Hausarzt) first. Most practices need an appointment (Termin), so people call first thing in the morning.",
+      "If you miss work, you need a doctor's note (Krankschreibung). By law it's due once you've been off for more than three days, but some employers ask for it from day one. These days the practice sends it to your health insurer electronically.",
+      "One more thing: even painkillers like ibuprofen are sold only in pharmacies (Apotheke) in Germany, not in supermarkets. 💊"
+    ],
+    "quiz": {"q": "Your friend has a cold. What do you say?", "o": ["Gute Besserung!", "Ich habe Fieber.", "Er hustet seit drei Tagen."], "a": 0, "why": "Gute Besserung! = Get well soon! It's what you say to someone who is ill."},
+    "outro": "Try acting out a phone call to the doctor with today's words, out loud. Stay healthy — and keep Gute Besserung for other people! 🍀"
+  },
+  "ja": {
+    "title": "具合が悪いときにすぐ使えるドイツ語10",
+    "hook": "ドイツで初めて風邪をひいたとき、薬より先に必要なのは単語です。",
+    "intro": [
+      "朝起きたら、のどがヒリヒリして頭もズキズキ。病院に電話しないといけないのに、ドイツ語で何て言えばいい？会社にはどう伝える？",
+      "今日は具合が悪いときに本当によく使う単語を10個集めました。この10個があれば、病院の予約から薬局、会社への欠勤連絡まで一人でできます。元気なうちに覚えておくのがいちばんですね。🤒"
+    ],
+    "words": {
+      "B1-246": {"pron": "クランクハイト", "tip": "krank（病気の）+ -heit = 病気の状態 🤒 -heit で終わる名詞はいつも die！", "bonus": "形容詞 krank も一緒に：Ich bin krank. = 具合が悪いです。"},
+      "A2-016": {"pron": "フィーバー", "tip": "英語の fever とほぼ同じ 🌡️ 熱があるときは Ich habe Fieber.", "bonus": "熱を測る = Fieber messen"},
+      "A2-487": {"pron": "フーステン", "tip": "「フーステン」、咳の音みたいですよね 😷 音をまねた言葉です。", "bonus": "名詞 der Husten = 咳 · 咳止めシロップは der Hustensaft"},
+      "A2-015": {"pron": "エアケルトゥング", "tip": "kalt（冷たい）が隠れています 🥶 体が冷えてひくのが風邪！", "warn": "-ung で終わる名詞はいつも die です。"},
+      "B1-1116": {"pron": "シュヌプフェン", "tip": "鼻をすする音のよう 🤧 鼻水の風邪は Schnupfen！", "bonus": "冠詞なしで言います：Ich habe Schnupfen."},
+      "A2-477": {"pron": "グリッペ", "tip": "インフルエンザが体をぎゅっとつかむ（gripper）イメージ 🤕 フランス語から来た言葉です。", "warn": "Grippe はただの風邪（Erkältung）よりずっと重いインフルエンザです。"},
+      "A2-455": {"pron": "エアケルテット ザイン", "tip": "Erkältung の形容詞版 🧣 Ich bin erkältet. のひとことでOK！", "bonus": "同じ意味：Ich habe eine Erkältung."},
+      "A2-731": {"pron": "コプフシュメルツェン", "tip": "Kopf（頭）+ Schmerzen（痛み）= 頭痛 🤯 レゴのようにくっつけるだけ！", "warn": "ふつう複数形で言います：Ich habe Kopfschmerzen."},
+      "A2-816": {"pron": "ハルスシュメルツェン", "tip": "Hals（のど）+ Schmerzen = のどの痛み 🗣️ おなかが痛いなら Bauchschmerzen、歯なら Zahnschmerzen！", "bonus": "「〇〇が痛い」はすべて 体の部分 + Schmerzen で作れます。"},
+      "A2-098": {"pron": "グーテ ベッセルング", "tip": "besser（より良い）+ -ung = 良くなること 💐「良い回復を！」", "bonus": "くしゃみをした人には Gesundheit!（お大事に！）"}
+    },
+    "culture": [
+      "ドイツでは具合が悪いと、まず近所のかかりつけ医（Hausarzt）に行きます。ほとんどが予約制（Termin）なので、朝いちばんに電話するのがふつうです。",
+      "会社を休むと医師の診断書（Krankschreibung）が必要です。法律では休みが3日を超えたら提出しますが、会社によっては初日から求められることもあります。今は病院が保険会社へ電子で送ってくれます。",
+      "もうひとつ。ドイツではイブプロフェンのような痛み止めも、スーパーではなく薬局（Apotheke）でしか買えません。💊"
+    ],
+    "quiz": {"q": "友だちが風邪をひきました。何と言ってあげますか？", "o": ["Gute Besserung!", "Ich habe Fieber.", "Er hustet seit drei Tagen."], "a": 0, "why": "Gute Besserung! = お大事に！具合の悪い人にかける言葉です。"},
+    "outro": "今日の単語で、病院に電話する場面を声に出して練習してみましょう。みなさん元気で、Gute Besserung は人に言うだけにしましょうね！🍀"
+  }
+}
