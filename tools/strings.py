@@ -92,3 +92,6 @@ for _mod, _var in (('strings_new', 'S2'), ('strings_3', 'S3'), ('strings_5', 'S5
         continue
     for _k, _v in _d.items():
         S.setdefault(_k, {}).update(_v)
+
+# one grammar entry in the Learn menu: the lessons category carries the plain "Grammar" label
+S['cat_grammar'] = dict(S['nav_grammar'])

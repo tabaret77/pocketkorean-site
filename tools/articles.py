@@ -122,12 +122,14 @@ def placeholder(d, cat, href=None):
     return (f'<a class="acard soon c-{sec}" href="{href or L(d, sec + "/" + cat + "/")}"><div class="ph">{img}</div><div class="bd">'
             f'<span class="cat">{E(T(SEC[sec][1], d))}</span><h3>{E(T(CATS[cat][1], d))}</h3><p>{T("no_articles", d)}</p></div></a>')
 
+LVN = lambda d, n: T('beginner' if n <= 2 else 'inter' if n <= 4 else 'adv', d)
+
 def chips(d, sec, cur=None):
     s = SEC[sec]
     out = f'<a class="chip{" on" if cur is None else ""}" href="{L(d, sec + "/")}">{T("all_in", d)}</a>'
     out += ''.join(f'<a class="chip{" on" if cur == c else ""}" href="{L(d, sec + "/" + c + "/")}">{E(T(k, d))}</a>' for c, k in s[3])
     if sec == 'learn':
-        out += f'<a class="chip" href="{L(d, "topik/")}">{T("nav_topik", d)}</a><a class="chip" href="{L(d, "grammar/")}">{T("nav_grammar", d)}</a>'
+        out += f'<a class="chip" href="{L(d, "topik/")}">{T("nav_topik", d)}</a>'
     return f'<div class="chips">{out}</div>'
 
 def write(path, html):
@@ -171,7 +173,11 @@ def build():
             for c, ck in cats:
                 cp = [p for p in secposts if p['cat'] == c]
                 crumbs = f'<p class="crumbs"><a href="{L(d, sec + "/")}">{T(key, d)}</a></p>'
-                body = phead(d, T(key, d), T(ck, d), T(key + '_p', d), col, chips(d, sec, c), crumbs, key=sec) + f'<div class="wrap" style="padding-top:36px;padding-bottom:64px">{listing(cp, c)}</div>'
+                gx = ''
+                if c == 'grammar-lessons':  # the grammar reference lives here too, so Learn has one grammar entry
+                    gx = (f'<div class="lessons" style="margin-bottom:36px"><a class="lesson" href="{L(d, "grammar/")}"><b>{T("grammar_h", d)}</b><span></span><span>{T("q_grammar_d", d)}</span></a>'
+                          + ''.join(f'<a class="lesson" href="{L(d, "grammar/")}#t{n}"><b>TOPIK {n}</b><span></span><span>{LVN(d, n)}</span></a>' for n in range(1, 7)) + '</div>')
+                body = phead(d, T(key, d), T(ck, d), T(key + '_p', d), col, chips(d, sec, c), crumbs, key=sec) + f'<div class="wrap" style="padding-top:36px;padding-bottom:64px">{gx}{listing(cp, c)}</div>'
                 write(f'/{u}/{sec}/{c}/', page(d, f'{sec}/{c}/', f'{T(ck, d)} – {T(key, d)} | Pocket Korean', T(key + '_p', d), body, wide=True, cur=sec))
                 urls.append(f'{BASE}/{u}/{sec}/{c}/')
         for p in mine:

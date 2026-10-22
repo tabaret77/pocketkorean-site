@@ -87,7 +87,7 @@ def nav_cols(d):
     for slug, key, col, cats in SECTIONS:
         links = f'<a href="{L(d, slug + "/")}">{T("all_in", d)}</a>' + ''.join(f'<a href="{L(d, slug + "/" + c + "/")}">{T(k, d)}</a>' for c, k in cats)
         if slug == 'learn':
-            links += f'<a href="{L(d, "topik/")}">{T("nav_topik", d)}</a><a href="{L(d, "grammar/")}">{T("nav_grammar", d)}</a>'
+            links += f'<a href="{L(d, "topik/")}">{T("nav_topik", d)}</a>'
         cols.append((T(key, d), colour[col], links))
     cols.append((T('sec_dict', d), '#2D4BFF',
                  f'<a href="{L(d, "dictionary/")}">{T("dict_search", d)}</a><a href="{L(d, "topik/")}">{T("dict_bylevel", d)}</a>'
