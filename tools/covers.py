@@ -180,10 +180,10 @@ COVERS['survival-korean-taxi-cafe-convenience-store'] = page(C['sky_l'], f"""
 
 # ---- editorial photo covers: a free-licence photo, darkened, with the key Korean phrase set large ----
 PHOTO = {
- '100-days-of-deception-ratings': (MEDIA + 'photos/gyeongseong-night.png', '첫 방송', '100일의 거짓말', C['coral'], 'center'),
- 'doctor-x-kim-ji-won-ratings': (MEDIA + 'photos/operating-room-ill.png', '시청률', '닥터X 18.5%', C['coral'], 'center'),
- 'hyunbaek-core-trend': (MEDIA + 'photos/atrium-ill.png', '현백 코어', '백화점 스타일', C['coral'], 'center'),
- 'korea-autumn-winter-festival-guide': (MEDIA + 'photos/maple-tunnel-ill.png', '단풍 구경', '가을과 겨울 축제', C['sky'], 'center'),
+ '100-days-of-deception-ratings-v2': (MEDIA + 'photos/gyeongseong-night.png', '첫 방송', '100일의 거짓말', C['coral'], 'center'),
+ 'doctor-x-kim-ji-won-ratings-v2': (MEDIA + 'photos/operating-room-ill.png', '시청률', '닥터X 18.5%', C['coral'], 'center'),
+ 'hyunbaek-core-trend-v2': (MEDIA + 'photos/atrium-ill.png', '현백 코어', '백화점 스타일', C['coral'], 'center'),
+ 'korea-autumn-winter-festival-guide-v2': (MEDIA + 'photos/maple-tunnel-ill.png', '단풍 구경', '가을과 겨울 축제', C['sky'], 'center'),
 }  # slug -> (photo path, big phrase, small line, accent colour, object-position)
 def photo_page(photo, big, small, accent, pos='center'):
     return HEAD + f"""<img src="file://{photo}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:{pos}">

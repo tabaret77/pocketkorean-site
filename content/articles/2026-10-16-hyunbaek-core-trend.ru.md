@@ -8,7 +8,7 @@ date: 2026-10-16
 description: "В корейских соцсетях набирает популярность новый стилевой ярлык — «Хёнбэк-кор». Рассказываем, что он значит и какой корейский сленг за ним стоит."
 phrase: 현백 코어
 phrase_meaning: «кор» универмага Hyundai (непринуждённый образ богатой девушки)
-cover: /media/covers/hyunbaek-core-trend.jpg
+cover: /media/covers/hyunbaek-core-trend-v2.jpg
 draft: false
 ---
 

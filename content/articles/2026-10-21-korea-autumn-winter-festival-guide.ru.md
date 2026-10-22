@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Осенняя листва, фейерверки над Пусаном, сезон заготовки кимчи и зимние огни. Что происходит в Корее с конца октября по декабрь 2026 года, месяц за месяцем."
 phrase: 단풍
 phrase_meaning: осенняя листва
-cover: /media/covers/korea-autumn-winter-festival-guide.jpg
+cover: /media/covers/korea-autumn-winter-festival-guide-v2.jpg
 draft: false
 ---
 

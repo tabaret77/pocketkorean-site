@@ -60,6 +60,8 @@ News (korea-today) pieces: an original scene illustration that captures the mood
 
 Learning and life pieces: an original illustration – add a `COVERS['<slug>']` entry to `tools/covers.py` following the existing ones (manuscript-grid background in the section's light colour, hangul in manuscript cells, simple flat objects that show the topic, Korean text only, no logos, no real people), no `cover_credit`.
 
+When you replace an existing cover, save it under a new file name (e.g. `<slug>-v2.jpg`): images are cached for a week, so a changed file with the same name would keep showing the old picture.
+
 Render with `npm i --prefix /tmp/pkfonts @fontsource/nanum-myeongjo@5 && python3 tools/covers.py <slug>`, open the JPG to check it, set `cover: /media/covers/<slug>.jpg`, and commit the JPG (and photo) with the articles.
 
 ## Photos

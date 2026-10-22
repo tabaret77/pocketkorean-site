@@ -8,7 +8,7 @@ date: 2026-10-16
 description: "คำนิยามสไตล์ใหม่ \"ฮยอนแบ็กคอร์\" กำลังแพร่หลายบนโซเชียลมีเดียเกาหลี มาดูกันว่าหมายถึงอะไร และมีสแลงเกาหลีอะไรซ่อนอยู่เบื้องหลัง"
 phrase: 현백 코어
 phrase_meaning: ฮุนไดดีพาร์ตเมนต์สโตร์คอร์ (ลุครวยแบบสบายๆ ไม่พยายาม)
-cover: /media/covers/hyunbaek-core-trend.jpg
+cover: /media/covers/hyunbaek-core-trend-v2.jpg
 draft: false
 ---
 

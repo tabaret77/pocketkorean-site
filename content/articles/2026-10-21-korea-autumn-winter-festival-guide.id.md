@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Daun musim gugur, kembang api di langit Busan, musim membuat kimchi, dan lampu-lampu musim dingin. Ada apa saja di Korea dari akhir Oktober sampai Desember 2026, bulan demi bulan."
 phrase: 단풍
 phrase_meaning: daun musim gugur
-cover: /media/covers/korea-autumn-winter-festival-guide.jpg
+cover: /media/covers/korea-autumn-winter-festival-guide-v2.jpg
 draft: false
 ---
 

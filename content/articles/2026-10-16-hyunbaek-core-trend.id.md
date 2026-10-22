@@ -8,7 +8,7 @@ date: 2026-10-16
 description: "Label gaya baru, \"Hyunbaek core\", sedang menyebar di media sosial Korea. Ini artinya dan slang Korea di baliknya."
 phrase: 현백 코어
 phrase_meaning: Hyundai Department Store core (gaya kaya yang santai)
-cover: /media/covers/hyunbaek-core-trend.jpg
+cover: /media/covers/hyunbaek-core-trend-v2.jpg
 draft: false
 ---
 

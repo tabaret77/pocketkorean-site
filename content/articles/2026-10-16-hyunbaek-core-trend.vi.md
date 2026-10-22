@@ -8,7 +8,7 @@ date: 2026-10-16
 description: "Một nhãn phong cách mới, \"Hyunbaek core\", đang lan rộng trên mạng xã hội Hàn Quốc. Cùng tìm hiểu ý nghĩa và từ lóng tiếng Hàn đằng sau nó."
 phrase: 현백 코어
 phrase_meaning: phong cách Hyundai Department Store (vẻ giàu có tự nhiên, không phô trương)
-cover: /media/covers/hyunbaek-core-trend.jpg
+cover: /media/covers/hyunbaek-core-trend-v2.jpg
 draft: false
 ---
 

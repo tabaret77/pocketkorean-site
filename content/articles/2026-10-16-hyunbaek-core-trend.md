@@ -7,7 +7,7 @@ date: 2026-10-16
 description: A new style label, "Hyunbaek core," is spreading on Korean social media. Here's what it means and the Korean slang behind it.
 phrase: 현백 코어
 phrase_meaning: Hyundai Department Store core (effortless rich look)
-cover: /media/covers/hyunbaek-core-trend.jpg
+cover: /media/covers/hyunbaek-core-trend-v2.jpg
 draft: false
 ---
 

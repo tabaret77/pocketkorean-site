@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Folhas de outono, fogos de artifício em Busan, temporada de fazer kimchi e luzes de inverno. O que rola na Coreia do fim de outubro a dezembro de 2026, mês a mês."
 phrase: 단풍
 phrase_meaning: folhas de outono
-cover: /media/covers/korea-autumn-winter-festival-guide.jpg
+cover: /media/covers/korea-autumn-winter-festival-guide-v2.jpg
 draft: false
 ---
 

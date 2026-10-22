@@ -10,7 +10,7 @@ official_url: https://programs.sbs.co.kr/drama/doctorx
 official_label: "SBS – 닥터X: 하얀 마피아의 시대"
 phrase: 시청률
 phrase_meaning: audiencia, índice de audiencia
-cover: /media/covers/doctor-x-kim-ji-won-ratings.jpg
+cover: /media/covers/doctor-x-kim-ji-won-ratings-v2.jpg
 draft: false
 ---
 

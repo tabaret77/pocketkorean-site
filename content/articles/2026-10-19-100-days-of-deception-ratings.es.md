@@ -10,7 +10,7 @@ official_url: https://tvn.cjenm.com/ko/100-Days-of-Deception/
 official_label: "tvN – 100일의 거짓말"
 phrase: 첫 방송
 phrase_meaning: estreno, primera emisión
-cover: /media/covers/100-days-of-deception-ratings.jpg
+cover: /media/covers/100-days-of-deception-ratings-v2.jpg
 draft: false
 ---
 

@@ -8,7 +8,7 @@ date: 2026-10-16
 description: "\"Хёнбэк кор\" хэмээх шинэ стилийн нэршил Солонгосын сошиал медиагаар тархаж байна. Энэ нь юу гэсэн үг, цаана нь ямар солонгос хэллэг байгааг тайлбарлая."
 phrase: 현백 코어
 phrase_meaning: Хёндэ их дэлгүүрийн кор (санаа зоволтгүй баян төрх)
-cover: /media/covers/hyunbaek-core-trend.jpg
+cover: /media/covers/hyunbaek-core-trend-v2.jpg
 draft: false
 ---
 

@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "ใบไม้เปลี่ยนสี พลุเหนือปูซาน ฤดูทำกิมจิ และแสงไฟฤดูหนาว มีอะไรน่าสนใจในเกาหลีตั้งแต่ปลายตุลาคมถึงธันวาคม 2026 ไล่ไปทีละเดือน"
 phrase: 단풍
 phrase_meaning: ใบไม้เปลี่ยนสี
-cover: /media/covers/korea-autumn-winter-festival-guide.jpg
+cover: /media/covers/korea-autumn-winter-festival-guide-v2.jpg
 draft: false
 ---
 
