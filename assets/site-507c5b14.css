@@ -581,3 +581,7 @@ aside .cta{flex-direction:column;align-items:stretch;margin:0}
 .dapp .soon span:last-child{color:var(--muted);font-size:14.5px}
 .dapp .btn{flex:none;white-space:nowrap}
 @media (max-width:760px){.dapp{flex-wrap:wrap;align-items:flex-start;padding:16px}.dapp>svg{width:40px;height:40px}.dapp .btn{width:100%;justify-content:center}}
+/* Pocket German dropdown: language choice for the Pocket German pages */
+.pglangs{display:flex;gap:4px;margin:6px 4px 2px;padding-top:8px;border-top:1px solid var(--line)}
+nav.main .sub .sl .pglangs a,.pglangs a{flex:1;justify-content:center;min-height:34px!important;padding:0 6px!important;border-radius:8px;background:var(--soft);font-size:13.5px!important;font-weight:700!important;color:var(--ink)}
+header.top .mega .pglangs a,footer.site .pglangs a{display:inline-flex;align-items:center}

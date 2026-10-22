@@ -82,7 +82,12 @@ PG_MENU = {
     'ja': [('dictionary/', '単語辞典'), ('/german/web/index_ja.html', 'アプリを試す'), ('today/#words', '今日の単語'), ('today/#sentence', '今日のひとこと'), ('life/', 'ドイツ暮らし')],
 }
 def pg_lang(d): return d if d in PG_NAME else ('ja' if d == 'ja' else 'en')
-def pg_links(g): return ''.join(f'<a href="{p if p.startswith("/") else PG_BASE[g] + p}">{E(t)}</a>' for p, t in PG_MENU[g])
+def pg_links(g, to=None):
+    """menu labels in language g; links go to the pages in language `to` (default: same language)"""
+    to = to or g
+    return ''.join(f'<a href="{p2 if p2.startswith("/") else PG_BASE[to] + p2}">{E(t)}</a>' for (p, t), (p2, _) in zip(PG_MENU[g], PG_MENU[to]))
+PG_LANGS = '<span class="pglangs">' + ''.join(f'<a href="{PG_BASE[x]}" lang="{x}">{n}</a>' for x, n in (('ko', '한국어'), ('en', 'English'), ('ja', '日本語'))) + '</span>'
+
 
 ICON = {
     'search': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>',
@@ -114,7 +119,7 @@ def nav_cols(d):
                  f'<a href="{L(d, "level-test/")}">{T("lt_nav", d)}</a><a href="{L(d, "app/")}">{T("app_nav", d)}</a>'
                  f'<a href="{L(d, "about/")}">{T("about_nav", d)}</a><a href="/privacy/">{T("privacy", d)}</a>'))
     g = pg_lang(d)
-    cols.append((PG_NAME[g], '#DD0000', f'<a href="{PG_BASE[g]}">{E(PG_NAME[g])}</a>' + pg_links(g)))
+    cols.append((PG_NAME[g], '#DD0000', f'<a href="{PG_BASE["ko"]}">{E(PG_NAME[g])}</a>' + pg_links(g, 'ko') + PG_LANGS))
     return cols
 
 TABS = {'home': {'en': 'Home', 'es': 'Inicio', 'vi': 'Trang chủ', 'th': 'หน้าแรก', 'id': 'Beranda', 'yue': '主頁', 'tw': '首頁', 'ja': 'ホーム', 'zh': '首页', 'pt': 'Início', 'ru': 'Главная', 'mn': 'Нүүр'},
@@ -164,8 +169,8 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
         return f'<div class="ni has" style="--c:{c}">{a}<div class="sub"><div class="sl">{ls}</div></div></div>'
     navlinks = ''.join(_ni(i, p, k) for i, (p, k) in enumerate(top))
     g = pg_lang(d)
-    navlinks += (f'<div class="ni has pgni" style="--c:#DD0000"><a href="{PG_BASE[g]}" lang="{g}" title="{E(PG_NAME[g])}"{" aria-current=\"page\"" if cur == "german" else ""}>'
-                 f'{PG_LOGO}<span>{E(PG_NAME[g])}</span></a><div class="sub"><div class="sl" lang="{g}"><a href="{PG_BASE[g]}">{E(PG_NAME[g])}</a>{pg_links(g)}</div></div></div>')
+    navlinks += (f'<div class="ni has pgni" style="--c:#DD0000"><a href="{PG_BASE['ko']}" lang="{g}" title="{E(PG_NAME[g])}"{" aria-current=\"page\"" if cur == "german" else ""}>'
+                 f'{PG_LOGO}<span>{E(PG_NAME[g])}</span></a><div class="sub"><div class="sl" lang="{g}"><a href="{PG_BASE['ko']}">{E(PG_NAME[g])}</a>{pg_links(g, 'ko')}{PG_LANGS}</div></div></div>')
     mega = ''.join(f'<div class="col" style="--c:{c}"><p>{E(h)}</p>{ls}</div>' for h, c, ls in nav_cols(d))
     foot = ''.join(f'<div><p>{E(h)}</p>{ls}</div>' for h, c, ls in nav_cols(d))
     main = body if wide else f'<div class="wrap legacy">{body}</div>'
