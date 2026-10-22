@@ -6,7 +6,7 @@ section: learn
 category: topik-guide
 date: 2026-10-19
 description: "Rencana sederhana untuk membangun kosakata bahasa Korea dari TOPIK level 1 sampai level 6 — berapa banyak kata yang perlu ditargetkan, cara mengulangnya, dan cara tetap konsisten setiap hari."
-cover: /media/covers/learn-topik-vocabulary-level-by-level.jpg
+cover: /media/covers/learn-topik-vocabulary-level-by-level-s1.jpg
 draft: false
 ---
 Kosakata adalah bagian TOPIK yang paling bisa kamu persiapkan secara bertahap. Tata bahasa dan strategi membaca juga penting, tetapi hampir setiap soal menyimak dan membaca bergantung pada pemahaman kata-kata di dalamnya. Berikut cara sederhana membangun kosakata level demi level.

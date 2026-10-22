@@ -6,7 +6,7 @@ section: learn
 category: topik-guide
 date: 2026-10-19
 description: "TOPIK-ийн 1-р түвшнээс 6-р түвшин хүртэл солонгос үгийн сангаа баяжуулах энгийн төлөвлөгөө: хэдэн үг зорих, хэрхэн давтах, өдөр бүр хэрхэн тууштай байх вэ."
-cover: /media/covers/learn-topik-vocabulary-level-by-level.jpg
+cover: /media/covers/learn-topik-vocabulary-level-by-level-s1.jpg
 draft: false
 ---
 Үгийн сан бол TOPIK-д хамгийн тогтвортой бэлдэж болох хэсэг. Дүрэм, уншлагын стратеги ч чухал, гэхдээ сонсгол, уншлагын бараг бүх асуулт доторх үгсийг мэдэхээс шалтгаална. Үгийн сангаа түвшин түвшнээр нь баяжуулах энгийн аргыг танилцуулъя.

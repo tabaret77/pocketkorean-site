@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "晴れ、雨、雪、PM2.5、梅雨について韓国語で話してみましょう。日常でよく使う天気の単語26個と例文を紹介します。"
 phrase: 날씨
 phrase_meaning: 天気
-cover: /media/covers/weather-words-in-korean.jpg
+cover: /media/covers/weather-words-in-korean-v2.jpg
 draft: false
 ---
 

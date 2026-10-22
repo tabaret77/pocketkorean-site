@@ -8,7 +8,7 @@ date: 2026-10-06
 description: "2026 оны 10-р сар K-pop шинэ бүтээлээр дүүрэн бөгөөд 10-р сарын 26 бол хамгийн том өдөр: IVE, ILLIT, RIIZE гурав зэрэг шинэ дуугаа гаргана. Хуанлийг нь доор үзээрэй."
 phrase: 컴백
 phrase_meaning: комбэк, шинэ бүтээл гаргах
-cover: /media/covers/october-kpop-comeback-race.jpg
+cover: /media/covers/october-kpop-comeback-race-s1.jpg
 draft: false
 ---
 

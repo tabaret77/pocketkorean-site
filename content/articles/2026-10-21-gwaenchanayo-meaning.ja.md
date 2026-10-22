@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "ひとつの言葉に4つの役割。韓国人が괜찮아요を使って、大丈夫だと伝えたり、相手を許したり、丁寧に断ったり、控えめにほめたりする方法を学びましょう。"
 phrase: 괜찮아요
 phrase_meaning: 大丈夫です
-cover: /media/covers/gwaenchanayo-meaning.jpg
+cover: /media/covers/gwaenchanayo-meaning-s1.jpg
 draft: false
 ---
 

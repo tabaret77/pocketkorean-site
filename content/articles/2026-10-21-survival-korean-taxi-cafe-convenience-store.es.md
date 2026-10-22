@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Coreano corto y cortés que puedes usar hoy mismo en un taxi, en el mostrador de una cafetería y en la tienda de conveniencia, además de lo que probablemente te responderá el personal."
 phrase: 카드 돼요?
 phrase_meaning: ¿Puedo pagar con tarjeta?
-cover: /media/covers/survival-korean-taxi-cafe-convenience-store.jpg
+cover: /media/covers/survival-korean-taxi-cafe-convenience-store-s1.jpg
 draft: false
 ---
 

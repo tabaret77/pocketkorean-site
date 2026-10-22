@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "ㅋㅋ、헐、갓생、킹받다等等：留言區和聊天群組中常見的韓國網絡潮語，附意思及各自有多不禮貌。"
 phrase: 신조어
 phrase_meaning: 新詞、潮語
-cover: /media/covers/korean-slang-online-2026.jpg
+cover: /media/covers/korean-slang-online-2026-s1.jpg
 draft: false
 ---
 

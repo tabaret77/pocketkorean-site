@@ -8,7 +8,7 @@ date: 2026-10-06
 description: "2026年10月K-pop新作扎堆发行，10月26日更是重头戏：IVE、ILLIT和RIIZE同日发布新歌。一起来看本月的回归日程表。"
 phrase: 컴백
 phrase_meaning: "回归，发行新作"
-cover: /media/covers/october-kpop-comeback-race.jpg
+cover: /media/covers/october-kpop-comeback-race-s1.jpg
 draft: false
 ---
 

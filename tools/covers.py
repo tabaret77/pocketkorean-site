@@ -3,7 +3,7 @@ No text other than Korean (covers are shared by all 12 languages). Rendered with
 usage: npm i --prefix /tmp/pkfonts @fontsource/nanum-myeongjo@5 && python3 tools/covers.py [slug ...]  -> media/covers/<slug>.jpg"""
 import asyncio, os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import cute
+import cute, weather_scene, scenes3
 from playwright.async_api import async_playwright
 from PIL import Image
 
@@ -121,8 +121,7 @@ def wx(kind, x, y, label):
          'snow': f'<path d="M40 110h120a32 32 0 0 0 0-64 46 46 0 0 0-88-10 36 36 0 0 0-32 74z" fill="#fff" stroke="{C["ink"]}" stroke-width="6"/>' + ''.join(f'<circle cx="{a}" cy="{b}" r="9" fill="{C["sky"]}"/>' for a, b in ((70, 145), (105, 165), (140, 145)))}[kind]
     return (f'<div class="abs" style="left:{x}px;top:{y}px;width:320px;text-align:center"><svg width="260" height="200" viewBox="0 0 200 180">{s}</svg>'
             f'<div class="my" style="font-size:96px;margin-top:6px">{label}</div></div>')
-COVERS['weather-words-in-korean'] = page(C['sky_l'], wx('sun', 80, 320, '맑음') + wx('cloud', 450, 320, '흐림') + wx('rain', 830, 320, '비') + wx('snow', 1200, 320, '눈')
-                                         + f'<div class="abs my" style="left:110px;top:90px;font-size:150px">오늘 날씨 어때요?</div>')
+COVERS['weather-words-in-korean-v2'] = HEAD + weather_scene.scene() + '</body></html>'
 
 # 10 autumn & winter festivals
 leaf = lambda x, y, r, c, s: f'<svg class="abs" style="left:{x}px;top:{y}px;transform:rotate({r}deg)" width="{s}" height="{s}" viewBox="0 0 100 100"><path d="M50 4l10 24 22-10-8 24 22 6-20 14 8 22-22-8-4 24-8-22-8 22-4-24-22 8 8-22-20-14 22-6-8-24 22 10z" fill="{c}"/><path d="M50 50v50" stroke="{c}" stroke-width="5"/></svg>'
@@ -196,6 +195,10 @@ def photo_page(photo, big, small, accent, pos='center'):
  <div class="my" style="font-size:{200 if len(big) <= 4 else 150}px;line-height:1.05;letter-spacing:-.02em;text-shadow:0 4px 30px rgba(0,0,0,.35)">{big}</div>
  <div style="font-size:52px;font-weight:700;margin-top:26px;color:#E6E9FF">{small}</div>
 </div></body></html>"""
+
+for _k, _f in scenes3.SCENES.items(): COVERS[_k + '-s1'] = HEAD + _f() + '</body></html>'
+
+for _k in ['10-lines-every-k-drama', '100-days-of-deception-ratings', 'doctor-x-kim-ji-won-ratings', 'hyunbaek-core-trend', 'jondaenmal-vs-banmal', 'korea-autumn-winter-festival-guide', 'residence-card-korea-guide']: COVERS.pop(_k, None); PHOTO.pop(_k, None)
 
 def only_ok(slug):
     import sys

@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "了解韩国人什么时候说敬语、什么时候不用敬语，怎样提议改说반말，以及随之而来的一些小词变化。"
 phrase: 말 놓을까요?
 phrase_meaning: "我们说话随意一点好吗？"
-cover: /media/covers/jondaenmal-vs-banmal-v3.jpg
+cover: /media/covers/jondaenmal-vs-banmal-s1.jpg
 draft: false
 ---
 

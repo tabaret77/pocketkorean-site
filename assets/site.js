@@ -57,22 +57,31 @@
   /* ---- mini quiz ---- */
   var qz = $('#quiz');
   if (qz) getJSON(qz.getAttribute('data-src')).then(function (list) {
-    var n = dayIndex(list.length) + 1;
+    var n = dayIndex(list.length) + 1, score = 0, tries = 0;
+    var CHK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>';
+    var XX = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>';
     function ask() {
       var pick = [], seen = {};
       while (pick.length < 4) { var w = list[(n * 7 + pick.length * 131 + Math.floor(Math.random() * list.length)) % list.length]; if (!seen[w.id] && w.m) { seen[w.id] = 1; pick.push(w); } }
       var ans = pick[0]; pick.sort(function () { return Math.random() - .5; });
-      qz.querySelector('.q').textContent = qz.getAttribute('data-q').replace('{m}', ans.m.split(/[;,]/)[0]);
-      var box = qz.querySelector('.opts'), fb = qz.querySelector('.fb'); fb.textContent = '';
-      box.innerHTML = pick.map(function (w) { return '<button lang="ko" data-id="' + w.id + '">' + esc(w.de) + '</button>'; }).join('');
+      var m = ans.m.split(/[;,]/)[0].trim(), qt = qz.getAttribute('data-q').split('{m}');
+      qz.querySelector('.q').innerHTML = esc(qt[0]) + '<mark>' + esc(m) + '</mark>' + esc(qt[1] || '');
+      var box = qz.querySelector('.opts'), fb = qz.querySelector('.fb'); fb.innerHTML = ''; qz.classList.remove('done');
+      box.innerHTML = pick.map(function (w, i) {
+        return '<button type="button" data-id="' + w.id + '"><span class="k">' + 'ABCD'[i] + '</span><span class="w"><b lang="ko">' + esc(w.de) + '</b><small>' + esc(w.rom) + ' · ' + esc(w.m.split(/[;,]/)[0]) + '</small></span><span class="ic"></span></button>';
+      }).join('');
       box.onclick = function (e) {
-        var b = e.target.closest('button'); if (!b || box.dataset.done) return; box.dataset.done = 1;
-        var ok = b.getAttribute('data-id') === ans.id;
-        [].forEach.call(box.children, function (x) { if (x.getAttribute('data-id') === ans.id) x.classList.add('ok'); else if (x === b) x.classList.add('no'); });
-        fb.innerHTML = esc(ok ? qz.getAttribute('data-ok') : qz.getAttribute('data-no').replace('{w}', ans.de)) +
-          ' <button class="btn sm dark" style="margin-left:8px" type="button">' + esc(qz.getAttribute('data-next')) + '</button>';
+        var b = e.target.closest('button'); if (!b || qz.classList.contains('done')) return; qz.classList.add('done');
+        var ok = b.getAttribute('data-id') === ans.id; tries++; if (ok) score++;
+        qz.querySelector('.qz-ok').textContent = score; qz.querySelector('.qz-n').textContent = tries;
+        [].forEach.call(box.children, function (x) {
+          if (x.getAttribute('data-id') === ans.id) { x.classList.add('ok'); x.querySelector('.ic').innerHTML = CHK; }
+          else if (x === b) { x.classList.add('no'); x.querySelector('.ic').innerHTML = XX; }
+        });
+        fb.innerHTML = '<p class="' + (ok ? 'good' : 'bad') + '">' + esc(ok ? qz.getAttribute('data-ok') : qz.getAttribute('data-no').replace('{w}', ans.de)) + '</p>' +
+          '<button class="qz-next" type="button">' + esc(qz.getAttribute('data-next')) + ' <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg></button>';
         play(ans.a, 'w');
-        fb.querySelector('button').onclick = function () { n++; delete box.dataset.done; ask(); };
+        fb.querySelector('button').onclick = function () { n++; ask(); };
       };
     }
     ask();

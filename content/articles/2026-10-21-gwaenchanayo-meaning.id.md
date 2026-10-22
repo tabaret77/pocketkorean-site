@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Satu kata, empat fungsi. Pelajari cara orang Korea memakai 괜찮아요 untuk bilang mereka baik-baik saja, memaafkan, menolak dengan sopan, dan memuji secara halus."
 phrase: 괜찮아요
 phrase_meaning: nggak apa-apa / aku baik-baik saja
-cover: /media/covers/gwaenchanayo-meaning.jpg
+cover: /media/covers/gwaenchanayo-meaning-s1.jpg
 draft: false
 ---
 

@@ -6,7 +6,7 @@ section: learn
 category: topik-guide
 date: 2026-10-19
 description: "由TOPIK一級到六級，一套簡單的韓語詞彙學習計劃：目標要學多少個生字、怎樣溫習，以及怎樣每天堅持下去。"
-cover: /media/covers/learn-topik-vocabulary-level-by-level.jpg
+cover: /media/covers/learn-topik-vocabulary-level-by-level-s1.jpg
 draft: false
 ---
 詞彙是TOPIK之中最能夠穩步準備的部分。文法和閱讀技巧當然也重要，但幾乎每一條聽力和閱讀題，都要靠你認識題目裏的生字。以下是一個逐級累積詞彙的簡單方法。

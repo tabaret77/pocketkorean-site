@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Aprenda a terminação -아요/어요 passo a passo, da regra básica às contrações como 가요 e 해요, com exemplos e um exercício rápido."
 phrase: 해요
 phrase_meaning: (eu/você) faz – forma educada do presente de 하다
-cover: /media/covers/ayo-eoyo-polite-ending.jpg
+cover: /media/covers/ayo-eoyo-polite-ending-s1.jpg
 draft: false
 ---
 

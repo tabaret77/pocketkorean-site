@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "在出租车上、咖啡馆柜台前和便利店里今天就能用上的简短礼貌韩语，以及店员可能会怎么回答你。"
 phrase: 카드 돼요?
 phrase_meaning: "可以刷卡吗？"
-cover: /media/covers/survival-korean-taxi-cafe-convenience-store.jpg
+cover: /media/covers/survival-korean-taxi-cafe-convenience-store-s1.jpg
 draft: false
 ---
 

@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "ตั้งแต่ 밥 먹었어? ไปจนถึง 정신 차려 มาเรียนสิบประโยคในชีวิตประจำวันที่โผล่มาแทบทุกซีรีส์เกาหลี พร้อมโน้ตเรื่องความหมายแฝงและระดับความสุภาพ"
 phrase: 밥 먹었어?
 phrase_meaning: กินข้าวหรือยัง? (ภาษากันเอง)
-cover: /media/covers/10-lines-every-k-drama-v3.jpg
+cover: /media/covers/10-lines-every-k-drama-s1.jpg
 draft: false
 ---
 

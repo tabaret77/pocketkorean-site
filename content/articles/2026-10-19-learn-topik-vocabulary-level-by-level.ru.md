@@ -6,7 +6,7 @@ section: learn
 category: topik-guide
 date: 2026-10-19
 description: "Простой план пополнения корейского словарного запаса с 1-го по 6-й уровень TOPIK: сколько слов учить, как их повторять и как заниматься каждый день."
-cover: /media/covers/learn-topik-vocabulary-level-by-level.jpg
+cover: /media/covers/learn-topik-vocabulary-level-by-level-s1.jpg
 draft: false
 ---
 Лексика — та часть TOPIK, к которой можно готовиться наиболее планомерно. Грамматика и стратегия чтения тоже важны, но почти каждое задание на аудирование и чтение упирается в знание слов. Вот простой способ наращивать словарный запас уровень за уровнем.

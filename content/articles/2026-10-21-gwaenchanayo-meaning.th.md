@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "คำเดียว ใช้ได้สี่แบบ มาเรียนว่าคนเกาหลีใช้ 괜찮아요 บอกว่าสบายดี ให้อภัย ปฏิเสธอย่างสุภาพ และชมแบบเรียบๆ อย่างไร"
 phrase: 괜찮아요
 phrase_meaning: ไม่เป็นไร / สบายดี
-cover: /media/covers/gwaenchanayo-meaning.jpg
+cover: /media/covers/gwaenchanayo-meaning-s1.jpg
 draft: false
 ---
 

@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Pelajari kapan orang Korea memakai bahasa sopan dan kapan mereka meninggalkannya, cara mengajak beralih ke 반말, dan perubahan kecil pada kata-kata yang menyertainya."
 phrase: 말 놓을까요?
 phrase_meaning: Bagaimana kalau kita bicara santai saja?
-cover: /media/covers/jondaenmal-vs-banmal-v3.jpg
+cover: /media/covers/jondaenmal-vs-banmal-s1.jpg
 draft: false
 ---
 

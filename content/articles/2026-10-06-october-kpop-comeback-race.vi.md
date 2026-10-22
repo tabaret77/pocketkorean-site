@@ -8,7 +8,7 @@ date: 2026-10-06
 description: "Tháng 10/2026 dày đặc các bản phát hành K-pop, và ngày 26/10 là ngày lớn nhất khi IVE, ILLIT và RIIZE cùng tung nhạc mới. Đây là lịch chi tiết."
 phrase: 컴백
 phrase_meaning: comeback, phát hành sản phẩm mới
-cover: /media/covers/october-kpop-comeback-race.jpg
+cover: /media/covers/october-kpop-comeback-race-s1.jpg
 draft: false
 ---
 

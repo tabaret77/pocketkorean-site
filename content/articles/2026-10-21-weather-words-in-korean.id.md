@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Bicara tentang cerah, hujan, salju, debu halus, dan musim hujan dalam bahasa Korea, dengan 26 kosakata cuaca sehari-hari dan contoh kalimat."
 phrase: 날씨
 phrase_meaning: cuaca
-cover: /media/covers/weather-words-in-korean.jpg
+cover: /media/covers/weather-words-in-korean-v2.jpg
 draft: false
 ---
 

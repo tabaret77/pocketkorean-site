@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Уверенно заказывайте кофе по-корейски: от 아이스 아메리카노 한 잔 주세요 до кофе с собой, дополнительного шота и пейджера, который вам вручат."
 phrase: 주세요
 phrase_meaning: дайте, пожалуйста
-cover: /media/covers/ordering-at-a-korean-cafe.jpg
+cover: /media/covers/ordering-at-a-korean-cafe-s1.jpg
 draft: false
 ---
 

@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Одно слово — четыре задачи. Узнайте, как корейцы используют 괜찮아요, чтобы сказать, что они в порядке, простить, вежливо отказаться и сдержанно похвалить."
 phrase: 괜찮아요
 phrase_meaning: всё в порядке / я в порядке
-cover: /media/covers/gwaenchanayo-meaning.jpg
+cover: /media/covers/gwaenchanayo-meaning-s1.jpg
 draft: false
 ---
 

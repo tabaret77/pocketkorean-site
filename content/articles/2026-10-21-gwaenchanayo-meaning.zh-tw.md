@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "一個詞，四種用法。學會韓國人如何用 괜찮아요 表示自己沒事、原諒對方、禮貌婉拒，以及含蓄地稱讚。"
 phrase: 괜찮아요
 phrase_meaning: 沒關係／我沒事
-cover: /media/covers/gwaenchanayo-meaning.jpg
+cover: /media/covers/gwaenchanayo-meaning-s1.jpg
 draft: false
 ---
 

@@ -7,7 +7,7 @@ date: 2026-10-21
 description: One word, four jobs. Learn how Koreans use 괜찮아요 to say they're fine, forgive, decline politely and give quiet praise.
 phrase: 괜찮아요
 phrase_meaning: it's okay / I'm fine
-cover: /media/covers/gwaenchanayo-meaning.jpg
+cover: /media/covers/gwaenchanayo-meaning-s1.jpg
 draft: false
 ---
 

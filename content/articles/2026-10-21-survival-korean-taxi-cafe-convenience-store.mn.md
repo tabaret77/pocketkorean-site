@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Такси, кафены лангуу, 24 цагийн дэлгүүрт өнөөдрөөс хэрэглэж болох богино, эелдэг солонгос хэллэгүүд болон ажилтнуудын хариулж магадгүй үгс."
 phrase: 카드 돼요?
 phrase_meaning: Картаар төлж болох уу?
-cover: /media/covers/survival-korean-taxi-cafe-convenience-store.jpg
+cover: /media/covers/survival-korean-taxi-cafe-convenience-store-s1.jpg
 draft: false
 ---
 

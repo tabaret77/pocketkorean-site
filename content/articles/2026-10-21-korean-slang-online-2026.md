@@ -7,7 +7,7 @@ date: 2026-10-21
 description: ㅋㅋ, 헐, 갓생, 킹받다 and more: the Korean internet slang you'll meet in comments and chats, with meanings and how rude each one is.
 phrase: 신조어
 phrase_meaning: new word, slang
-cover: /media/covers/korean-slang-online-2026.jpg
+cover: /media/covers/korean-slang-online-2026-s1.jpg
 draft: false
 ---
 

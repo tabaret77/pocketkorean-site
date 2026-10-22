@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "เรียนพยัญชนะ 14 ตัวและสระ 10 ตัวของตัวอักษรเกาหลี และวิธีนำมาซ้อนกันเป็นบล็อกพยางค์ เพื่อให้เริ่มอ่านได้ตั้งแต่วันนี้"
 phrase: 한글
 phrase_meaning: ฮันกึล ตัวอักษรเกาหลี
-cover: /media/covers/read-hangul-in-an-hour.jpg
+cover: /media/covers/read-hangul-in-an-hour-s1.jpg
 draft: false
 ---
 

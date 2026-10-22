@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "เรียนคำลงท้าย -아요/어요 ทีละขั้น ตั้งแต่กฎพื้นฐานไปจนถึงการหดรูปอย่าง 가요 และ 해요 พร้อมตัวอย่างและแบบฝึกหัดสั้นๆ"
 phrase: 해요
 phrase_meaning: ทำ – รูปปัจจุบันแบบสุภาพของ 하다
-cover: /media/covers/ayo-eoyo-polite-ending.jpg
+cover: /media/covers/ayo-eoyo-polite-ending-s1.jpg
 draft: false
 ---
 

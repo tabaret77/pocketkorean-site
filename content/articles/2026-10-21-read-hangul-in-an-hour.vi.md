@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Học 14 phụ âm và 10 nguyên âm của bảng chữ cái tiếng Hàn và cách chúng ghép thành khối âm tiết, để bạn có thể bắt đầu đọc ngay hôm nay."
 phrase: 한글
 phrase_meaning: hangul, bảng chữ cái tiếng Hàn
-cover: /media/covers/read-hangul-in-an-hour.jpg
+cover: /media/covers/read-hangul-in-an-hour-s1.jpg
 draft: false
 ---
 

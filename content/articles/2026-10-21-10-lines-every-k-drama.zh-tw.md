@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "從 밥 먹었어? 到 정신 차려，學會幾乎每部韓劇都會出現的十句日常台詞，附上語感和禮貌程度說明。"
 phrase: 밥 먹었어?
 phrase_meaning: 吃飯了沒？（半語）
-cover: /media/covers/10-lines-every-k-drama-v3.jpg
+cover: /media/covers/10-lines-every-k-drama-s1.jpg
 draft: false
 ---
 

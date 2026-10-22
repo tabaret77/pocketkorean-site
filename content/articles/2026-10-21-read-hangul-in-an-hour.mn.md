@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Солонгос цагаан толгойн 14 гийгүүлэгч, 10 эгшиг болон тэдгээр хэрхэн үеийн блок болж нийлдгийг сурч, өнөөдрөөс уншиж эхлээрэй."
 phrase: 한글
 phrase_meaning: хангыл, солонгос цагаан толгой
-cover: /media/covers/read-hangul-in-an-hour.jpg
+cover: /media/covers/read-hangul-in-an-hour-s1.jpg
 draft: false
 ---
 

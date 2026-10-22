@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "พูดถึงแดด ฝน หิมะ ฝุ่นละเอียด และฤดูฝนเป็นภาษาเกาหลี ด้วยคำศัพท์สภาพอากาศในชีวิตประจำวัน 26 คำ พร้อมประโยคตัวอย่าง"
 phrase: 날씨
 phrase_meaning: สภาพอากาศ
-cover: /media/covers/weather-words-in-korean.jpg
+cover: /media/covers/weather-words-in-korean-v2.jpg
 draft: false
 ---
 

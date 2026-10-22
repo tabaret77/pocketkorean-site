@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "一步步學會 -아요/어요 語尾，從基本規則到 가요、해요 這類縮約形，附例句和小練習。"
 phrase: 해요
 phrase_meaning: （我／你）做——하다 的禮貌現在式
-cover: /media/covers/ayo-eoyo-polite-ending.jpg
+cover: /media/covers/ayo-eoyo-polite-ending-s1.jpg
 draft: false
 ---
 

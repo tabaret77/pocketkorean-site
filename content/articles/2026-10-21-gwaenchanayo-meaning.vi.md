@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Một từ, bốn công dụng. Học cách người Hàn dùng 괜찮아요 để nói mình ổn, bỏ qua lỗi, từ chối lịch sự và khen một cách nhẹ nhàng."
 phrase: 괜찮아요
 phrase_meaning: không sao / tôi ổn
-cover: /media/covers/gwaenchanayo-meaning.jpg
+cover: /media/covers/gwaenchanayo-meaning-s1.jpg
 draft: false
 ---
 

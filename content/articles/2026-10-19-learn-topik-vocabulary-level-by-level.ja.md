@@ -6,7 +6,7 @@ section: learn
 category: topik-guide
 date: 2026-10-19
 description: "TOPIK 1級から6級まで、韓国語の語彙を増やすためのシンプルなプラン。目標の単語数、復習のしかた、毎日続けるコツを紹介します。"
-cover: /media/covers/learn-topik-vocabulary-level-by-level.jpg
+cover: /media/covers/learn-topik-vocabulary-level-by-level-s1.jpg
 draft: false
 ---
 単語は、TOPIKの中でいちばんコツコツ準備できる分野です。文法や読解のテクニックも大切ですが、リスニングと読解の問題のほとんどは、そこに出てくる単語を知っているかどうかにかかっています。ここでは、レベルごとに語彙を増やしていくシンプルな方法を紹介します。

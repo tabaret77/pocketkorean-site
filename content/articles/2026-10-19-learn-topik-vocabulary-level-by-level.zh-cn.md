@@ -6,7 +6,7 @@ section: learn
 category: topik-guide
 date: 2026-10-19
 description: "从TOPIK 1级到6级，一套简单的韩语词汇学习计划：目标背多少个单词、怎么复习，以及怎样每天坚持下去。"
-cover: /media/covers/learn-topik-vocabulary-level-by-level.jpg
+cover: /media/covers/learn-topik-vocabulary-level-by-level-s1.jpg
 draft: false
 ---
 词汇是TOPIK中最能稳扎稳打去准备的部分。语法和阅读技巧当然也重要，但几乎每一道听力和阅读题，都离不开对题目中单词的掌握。下面介绍一个按级别积累词汇的简单方法。

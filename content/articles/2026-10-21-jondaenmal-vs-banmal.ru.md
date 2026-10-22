@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Когда корейцы говорят вежливо, а когда переходят на неформальную речь, как предложить перейти на 반말 и какие слова при этом меняются."
 phrase: 말 놓을까요?
 phrase_meaning: Может, перейдём на «ты»?
-cover: /media/covers/jondaenmal-vs-banmal-v3.jpg
+cover: /media/covers/jondaenmal-vs-banmal-s1.jpg
 draft: false
 ---
 

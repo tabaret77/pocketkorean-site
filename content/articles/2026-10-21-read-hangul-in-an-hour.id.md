@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Pelajari 14 konsonan dan 10 vokal alfabet Korea serta cara menyusunnya menjadi blok suku kata, supaya kamu bisa mulai membaca hari ini."
 phrase: 한글
 phrase_meaning: hangul, alfabet Korea
-cover: /media/covers/read-hangul-in-an-hour.jpg
+cover: /media/covers/read-hangul-in-an-hour-s1.jpg
 draft: false
 ---
 

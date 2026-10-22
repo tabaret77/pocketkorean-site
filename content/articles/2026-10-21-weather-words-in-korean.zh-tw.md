@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "用韓語聊晴天、下雨、下雪、懸浮微粒和梅雨季，附26個日常天氣單字和例句。"
 phrase: 날씨
 phrase_meaning: 天氣
-cover: /media/covers/weather-words-in-korean.jpg
+cover: /media/covers/weather-words-in-korean-v2.jpg
 draft: false
 ---
 

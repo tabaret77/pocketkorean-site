@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Pide café en coreano con confianza, desde 아이스 아메리카노 한 잔 주세요 hasta pedirlo para llevar, shots extra y el aparato vibrador que te van a dar."
 phrase: 주세요
 phrase_meaning: deme, por favor
-cover: /media/covers/ordering-at-a-korean-cafe.jpg
+cover: /media/covers/ordering-at-a-korean-cafe-s1.jpg
 draft: false
 ---
 

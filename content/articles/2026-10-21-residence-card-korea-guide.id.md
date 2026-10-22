@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Tinggal di Korea lebih dari 90 hari? Begini cara membuat janji, mengajukan, dan mengambil kartu izin tinggalmu, lengkap dengan bahasa Korea yang kamu perlukan di kantor imigrasi."
 phrase: 외국인등록증
 phrase_meaning: kartu izin tinggal (kartu registrasi orang asing)
-cover: /media/covers/residence-card-korea-guide-v3.jpg
+cover: /media/covers/residence-card-korea-guide-s1.jpg
 draft: false
 ---
 

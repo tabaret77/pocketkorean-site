@@ -7,7 +7,7 @@ date: 2026-10-21
 description: Learn the 14 consonants and 10 vowels of the Korean alphabet and how they stack into syllable blocks, so you can start reading today.
 phrase: 한글
 phrase_meaning: hangul, the Korean alphabet
-cover: /media/covers/read-hangul-in-an-hour.jpg
+cover: /media/covers/read-hangul-in-an-hour-s1.jpg
 draft: false
 ---
 

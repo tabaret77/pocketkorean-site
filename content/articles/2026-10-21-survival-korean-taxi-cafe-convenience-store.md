@@ -7,7 +7,7 @@ date: 2026-10-21
 description: Short, polite Korean you can use today in a taxi, at a café counter and at the convenience store, plus what staff are likely to say back.
 phrase: 카드 돼요?
 phrase_meaning: Can I pay by card?
-cover: /media/covers/survival-korean-taxi-cafe-convenience-store.jpg
+cover: /media/covers/survival-korean-taxi-cafe-convenience-store-s1.jpg
 draft: false
 ---
 

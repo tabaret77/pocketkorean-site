@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "用韩语自信地点咖啡，从아이스 아메리카노 한 잔 주세요到外带、加浓缩，还有店员递给你的取餐震动器。"
 phrase: 주세요
 phrase_meaning: "请给我"
-cover: /media/covers/ordering-at-a-korean-cafe.jpg
+cover: /media/covers/ordering-at-a-korean-cafe-s1.jpg
 draft: false
 ---
 

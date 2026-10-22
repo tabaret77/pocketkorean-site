@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "ㅋㅋ、헐、갓생、킹받다等等：评论区和聊天里常见的韩语网络流行语，附含义和每个词的粗俗程度。"
 phrase: 신조어
 phrase_meaning: "新词，流行语"
-cover: /media/covers/korean-slang-online-2026.jpg
+cover: /media/covers/korean-slang-online-2026-s1.jpg
 draft: false
 ---
 

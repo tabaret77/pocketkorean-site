@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "学会韩文的14个辅音和10个元音，以及它们怎样拼成音节方块，今天就能开始读韩语。"
 phrase: 한글
 phrase_meaning: "韩文，韩语字母"
-cover: /media/covers/read-hangul-in-an-hour.jpg
+cover: /media/covers/read-hangul-in-an-hour-s1.jpg
 draft: false
 ---
 

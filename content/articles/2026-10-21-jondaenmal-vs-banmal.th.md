@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "เรียนรู้ว่าคนเกาหลีใช้ภาษาสุภาพเมื่อไหร่ และเลิกใช้เมื่อไหร่ วิธีชวนอีกฝ่ายเปลี่ยนมาพูด 반말 และคำเล็กๆ ที่เปลี่ยนไปด้วย"
 phrase: 말 놓을까요?
 phrase_meaning: พูดกันเองดีไหม?
-cover: /media/covers/jondaenmal-vs-banmal-v3.jpg
+cover: /media/covers/jondaenmal-vs-banmal-s1.jpg
 draft: false
 ---
 

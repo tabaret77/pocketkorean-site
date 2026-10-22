@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Выучите 14 согласных и 10 гласных корейского алфавита и узнайте, как они складываются в слоговые блоки, — и начните читать уже сегодня."
 phrase: 한글
 phrase_meaning: хангыль, корейский алфавит
-cover: /media/covers/read-hangul-in-an-hour.jpg
+cover: /media/covers/read-hangul-in-an-hour-s1.jpg
 draft: false
 ---
 

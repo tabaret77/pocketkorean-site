@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "學會韓文的14個子音和10個母音，以及它們怎樣疊成一個個音節方塊，今天就可以開始閱讀。"
 phrase: 한글
 phrase_meaning: 韓文字母
-cover: /media/covers/read-hangul-in-an-hour.jpg
+cover: /media/covers/read-hangul-in-an-hour-s1.jpg
 draft: false
 ---
 

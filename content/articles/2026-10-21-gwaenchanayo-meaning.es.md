@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Una palabra, cuatro funciones. Aprende cómo usan los coreanos 괜찮아요 para decir que están bien, perdonar, rechazar con cortesía y elogiar con discreción."
 phrase: 괜찮아요
 phrase_meaning: está bien / estoy bien
-cover: /media/covers/gwaenchanayo-meaning.jpg
+cover: /media/covers/gwaenchanayo-meaning-s1.jpg
 draft: false
 ---
 

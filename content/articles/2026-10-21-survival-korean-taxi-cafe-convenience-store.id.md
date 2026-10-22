@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Bahasa Korea singkat dan sopan yang bisa kamu pakai hari ini di taksi, di konter kafe, dan di minimarket, plus apa yang kemungkinan akan dijawab pegawainya."
 phrase: 카드 돼요?
 phrase_meaning: Bisa bayar pakai kartu?
-cover: /media/covers/survival-korean-taxi-cafe-convenience-store.jpg
+cover: /media/covers/survival-korean-taxi-cafe-convenience-store-s1.jpg
 draft: false
 ---
 

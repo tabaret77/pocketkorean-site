@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "-아요/어요の語尾を、基本のルールから가요や해요のような縮約形まで、例文とミニ練習問題でステップごとに学びましょう。"
 phrase: 해요
 phrase_meaning: します（하다の丁寧な現在形）
-cover: /media/covers/ayo-eoyo-polite-ending.jpg
+cover: /media/covers/ayo-eoyo-polite-ending-s1.jpg
 draft: false
 ---
 

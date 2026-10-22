@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "韓国語の文字の子音14個と母音10個、そしてそれらを組み合わせて音節のブロックを作る方法を覚えて、今日から読み始めましょう。"
 phrase: 한글
 phrase_meaning: ハングル（韓国語の文字）
-cover: /media/covers/read-hangul-in-an-hour.jpg
+cover: /media/covers/read-hangul-in-an-hour-s1.jpg
 draft: false
 ---
 

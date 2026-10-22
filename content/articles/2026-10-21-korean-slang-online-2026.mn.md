@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "ㅋㅋ, 헐, 갓생, 킹받다 гээд сэтгэгдэл, чатад тааралдах солонгос интернэт хэллэгүүдийг утга, хэр бүдүүлэг сонсогддогтой нь хамт."
 phrase: 신조어
 phrase_meaning: шинэ үг, хэллэг
-cover: /media/covers/korean-slang-online-2026.jpg
+cover: /media/covers/korean-slang-online-2026-s1.jpg
 draft: false
 ---
 

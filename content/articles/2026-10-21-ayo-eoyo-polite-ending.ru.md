@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Разбираем окончание -아요/어요 шаг за шагом: от базового правила до слияний вроде 가요 и 해요, с примерами и небольшой практикой."
 phrase: 해요
 phrase_meaning: делаю/делаете — вежливая форма настоящего времени от 하다
-cover: /media/covers/ayo-eoyo-polite-ending.jpg
+cover: /media/covers/ayo-eoyo-polite-ending-s1.jpg
 draft: false
 ---
 

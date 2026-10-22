@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Солонгост 90 хоногоос дээш байх уу? Оршин суух үнэмлэхэд цаг захиалах, өргөдөл гаргах, авах арга болон цагаачлалын газарт хэрэгтэй солонгос хэллэгүүд."
 phrase: 외국인등록증
 phrase_meaning: оршин суух үнэмлэх (гадаад иргэний бүртгэлийн үнэмлэх)
-cover: /media/covers/residence-card-korea-guide-v3.jpg
+cover: /media/covers/residence-card-korea-guide-s1.jpg
 draft: false
 ---
 

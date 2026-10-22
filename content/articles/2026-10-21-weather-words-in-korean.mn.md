@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Нар, бороо, цас, нарийн тоос, борооны улирлын тухай солонгосоор ярихад хэрэгтэй өдөр тутмын 26 үг, жишээ өгүүлбэрүүд."
 phrase: 날씨
 phrase_meaning: цаг агаар
-cover: /media/covers/weather-words-in-korean.jpg
+cover: /media/covers/weather-words-in-korean-v2.jpg
 draft: false
 ---
 

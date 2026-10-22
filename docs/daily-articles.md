@@ -56,7 +56,7 @@ News (korea-today) pieces: an original scene illustration that captures the mood
 
 People on covers: draw them as cute cheerful cartoon characters with `tools/cute.py` (`girl()`, `boy()`, moods `smile`/`happy`/`talk`, colours and `glasses` as parameters; see the covers that use `cute.` in `tools/covers.py`). Never a real person's likeness. In scene illustrations people may also appear small and from behind.
 
-Learning and life pieces: an original illustration – add a `COVERS['<slug>']` entry to `tools/covers.py` following the existing ones (manuscript-grid background in the section's light colour, hangul in manuscript cells, simple flat objects that show the topic, Korean text only, no logos, no real people), no `cover_credit`.
+Learning and life pieces: a full scene with the cute characters, not a plain diagram – a setting (classroom, café, street, stage, home), props that show the topic, the key Korean words as speech bubbles or tags, sparkles and soft shadows. Copy the approach of the scenes in `tools/scenes3.py` (helpers `P()` for a character, `bubble()`, `tag()`, `sparkle()`) and `tools/weather_scene.py`; add new ones to `scenes3.SCENES` (rendered as `<slug>-s1`). Older style for reference only: an original illustration – add a `COVERS['<slug>']` entry to `tools/covers.py` following the existing ones (manuscript-grid background in the section's light colour, hangul in manuscript cells, simple flat objects that show the topic, Korean text only, no logos, no real people), no `cover_credit`.
 
 When you replace an existing cover, save it under a new file name (e.g. `<slug>-v2.jpg`): images are cached for a week, so a changed file with the same name would keep showing the old picture.
 

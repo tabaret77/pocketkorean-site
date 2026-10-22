@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "-아요/어요 нөхцөлийг үндсэн дүрмээс эхлээд 가요, 해요 зэрэг хураангуй хэлбэр хүртэл алхам алхмаар, жишээ болон богино дасгалтай нь сураарай."
 phrase: 해요
 phrase_meaning: (би/та) хийдэг – 하다-гийн эелдэг одоо цагийн хэлбэр
-cover: /media/covers/ayo-eoyo-polite-ending.jpg
+cover: /media/covers/ayo-eoyo-polite-ending-s1.jpg
 draft: false
 ---
 

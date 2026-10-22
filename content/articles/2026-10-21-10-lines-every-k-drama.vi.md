@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Từ 밥 먹었어? đến 정신 차려, học mười câu thoại đời thường xuất hiện trong hầu hết các bộ phim Hàn, kèm ghi chú về sắc thái và mức độ lịch sự."
 phrase: 밥 먹었어?
 phrase_meaning: Ăn cơm chưa? (thân mật)
-cover: /media/covers/10-lines-every-k-drama-v3.jpg
+cover: /media/covers/10-lines-every-k-drama-s1.jpg
 draft: false
 ---
 

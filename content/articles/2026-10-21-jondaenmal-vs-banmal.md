@@ -7,7 +7,7 @@ date: 2026-10-21
 description: Learn when Koreans use polite speech and when they drop it, how to suggest switching to 반말, and the small word changes that come with it.
 phrase: 말 놓을까요?
 phrase_meaning: Shall we speak casually?
-cover: /media/covers/jondaenmal-vs-banmal-v3.jpg
+cover: /media/covers/jondaenmal-vs-banmal-s1.jpg
 draft: false
 ---
 

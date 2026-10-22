@@ -6,7 +6,7 @@ section: learn
 category: topik-guide
 date: 2026-10-19
 description: "Một kế hoạch đơn giản để xây dựng vốn từ tiếng Hàn từ TOPIK cấp 1 đến cấp 6 — nên đặt mục tiêu bao nhiêu từ, ôn tập thế nào và làm sao để duy trì mỗi ngày."
-cover: /media/covers/learn-topik-vocabulary-level-by-level.jpg
+cover: /media/covers/learn-topik-vocabulary-level-by-level-s1.jpg
 draft: false
 ---
 Từ vựng là phần của TOPIK mà bạn có thể chuẩn bị đều đặn nhất. Ngữ pháp và chiến lược đọc cũng quan trọng, nhưng gần như mọi câu hỏi nghe và đọc đều phụ thuộc vào việc bạn có biết các từ trong đó hay không. Dưới đây là một cách đơn giản để xây dựng vốn từ theo từng cấp độ.

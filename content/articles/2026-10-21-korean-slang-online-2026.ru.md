@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "ㅋㅋ, 헐, 갓생, 킹받다 и не только: корейский интернет-сленг из комментариев и чатов — со значениями и пометками, насколько грубо звучит каждое слово."
 phrase: 신조어
 phrase_meaning: неологизм, сленг
-cover: /media/covers/korean-slang-online-2026.jpg
+cover: /media/covers/korean-slang-online-2026-s1.jpg
 draft: false
 ---
 

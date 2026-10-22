@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Pelajari akhiran -아요/어요 langkah demi langkah, dari aturan dasar sampai bentuk singkat seperti 가요 dan 해요, lengkap dengan contoh dan latihan singkat."
 phrase: 해요
 phrase_meaning: (aku/kamu) melakukan – bentuk sopan masa kini dari 하다
-cover: /media/covers/ayo-eoyo-polite-ending.jpg
+cover: /media/covers/ayo-eoyo-polite-ending-s1.jpg
 draft: false
 ---
 

@@ -6,7 +6,7 @@ section: learn
 category: topik-guide
 date: 2026-10-19
 description: "Um plano simples para montar seu vocabulário coreano do nível 1 ao 6 do TOPIK — quantas palavras buscar, como revisá-las e como manter o ritmo todos os dias."
-cover: /media/covers/learn-topik-vocabulary-level-by-level.jpg
+cover: /media/covers/learn-topik-vocabulary-level-by-level-s1.jpg
 draft: false
 ---
 O vocabulário é a parte do TOPIK para a qual você consegue se preparar de forma mais constante. Gramática e estratégia de leitura também importam, mas quase toda questão de compreensão auditiva e de leitura depende de conhecer as palavras que aparecem nela. Veja uma forma simples de construir seu vocabulário nível por nível.
