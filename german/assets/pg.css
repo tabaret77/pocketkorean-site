@@ -349,3 +349,8 @@ body:has(.feat) .pgfoot{margin-top:72px}
 .pchip{display:inline-flex;align-items:center;margin-left:14px;vertical-align:middle;font-size:15px;font-weight:700;letter-spacing:0;padding:5px 12px;border-radius:999px;background:#DD0000;color:#fff;white-space:nowrap}
 .sh h2 .pchip{font-size:13px;padding:3px 10px}
 .pkblue{font-style:normal;color:#0047A0}
+/* grid thumbnails: show the whole cover (covers are ~1.9:1 and carry text) */
+.acard .cov{aspect-ratio:1200/620;background:#FFF8E3}
+.acard .cov img{object-fit:contain;object-position:center}
+.acat.c-news{background:#DCEBFB;color:#1F4E86}.acat.c-life{background:#FFE9A8;color:#7A5600}
+.phead+.life{padding-top:34px}
