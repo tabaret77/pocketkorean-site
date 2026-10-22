@@ -254,6 +254,7 @@ SPK = '<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="curre
 # ---------- articles (content/german/<lang>/<slug>.md) ----------
 def load_articles(g):
     out = []
+    if os.environ.get('PG_NO_LIFE'): return out   # build without Life in Germany posts (while drafts are unreviewed)
     d = f'{OUT}/content/german/{g}'
     if not os.path.isdir(d): return out
     import markdown
@@ -311,8 +312,9 @@ def home(g, d, arts, posts=None):
           'offers': {'@type': 'Offer', 'price': '0', 'priceCurrency': 'USD'}}, ensure_ascii=False) + '</script>')
     write(f'{g + "/" if g != "ko" else ""}index.html', page(g, '', s['htitle'], s['hdesc'], body + ld))
 
-def phead(g, h1, p):
-    return f'<section class="phead"><div class="pgw"><h1>{E(h1)}</h1><p>{E(p)}</p></div></section>'
+def phead(g, h1, p):  # same layout as Pocket Korean's section heads: badge + kicker + title, warm tint
+    return (f'<section class="phead"><div class="pgw"><div class="pht"><span class="pgbadge">{PG_LOGO}</span><div><p class="phk">{PG_MARK[g]}</p>'
+            f'<h1>{E(h1)}</h1></div></div><p class="phl">{E(p)}</p></div></section>')
 
 def dictionary(g):
     s = S[g]

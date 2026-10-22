@@ -297,3 +297,48 @@ body.pg[data-g="ja"] .ppost h1{word-break:auto-phrase}
 @media (max-width:640px){.prose table{display:block;overflow-x:auto}}
 
 .ph .say{align-self:center;width:34px;height:34px;margin:0}
+
+/* ===== Pocket Korean family look, Pocket German character =====
+   White page like the rest of pocketkorean.com; section heads in a warm tint (gold → white) with the app icon as badge,
+   the black/red/gold flag as a thin accent; black is kept for the app-like blocks (hero pocket, feature box, footer). */
+body.pg{background:#fff;--paper:#fff;--soft:#F4F6FC;--line:#E2E5F1;--ink:#141838;--muted:#5A5F80}
+.pgtop{background:rgba(255,255,255,.97)}
+.pgtop::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:3px;background:linear-gradient(90deg,#151515 0 33.3%,#DD0000 33.3% 66.6%,#FFCE00 66.6%)}
+/* section heads */
+.phead{background:linear-gradient(180deg,#FFF3CC,#fff);color:var(--ink);padding:0;border-bottom:1px solid var(--line)}
+.phead .pgw{padding-top:44px;padding-bottom:34px}
+.pht{display:flex;align-items:center;gap:18px;margin-bottom:12px}
+.pgbadge{flex:none;width:64px;height:64px;border-radius:16px;overflow:hidden;box-shadow:0 8px 18px -10px rgba(0,0,0,.5)}
+.pgbadge .logo{width:100%;height:100%;display:block}
+.phk{margin:0 0 2px;font-size:15px;font-weight:700;color:var(--muted)}
+.phead h1{margin:0;font-size:clamp(32px,4.4vw,50px);color:var(--ink)}
+.phead p.phl{margin:0;font-size:19px;color:#383D63;max-width:62ch}
+/* home hero: warm band like a Pocket Korean section, the pocket stays black like the app icon */
+.hero{background:linear-gradient(180deg,#FFF3CC 0%,#FFF8E3 60%,#fff 100%);color:var(--ink);border-bottom:1px solid var(--line)}
+.hero h1{color:var(--ink)}
+.kick{color:#B3242A}
+.lead{color:#383D63}
+.free{color:var(--muted)}
+.hero .soon{color:var(--ink)}
+.hero .pgsearch input{border-color:var(--ink)}
+.hero .pgsearch button{background:var(--ink);color:#fff}
+.hart{background:#151515;border-radius:36px;padding:40px 30px 46px;max-width:360px;justify-self:center;width:100%;box-shadow:0 30px 60px -30px rgba(20,24,56,.55)}
+.flag{bottom:20px}
+.today{margin-top:34px}
+/* cards: white on white needs a hairline, like Pocket Korean's boxes */
+.tcard,.pbox,.pword,.wcard,.acard,.dres{box-shadow:inset 0 0 0 1px var(--line),0 14px 30px -24px rgba(20,24,56,.35)}
+.aempty{border-color:var(--line)}
+/* feature block: a rounded black box inside the page (like Pocket Korean's drama-line box), not a full-width band */
+.feat{background:none;color:var(--ink);padding:0;margin-top:64px}
+.feat>.pgw{background:#151515;color:#fff;border-radius:28px;padding:44px 40px 46px}
+@media (max-width:640px){.feat>.pgw{border-radius:0;padding:36px 20px}}
+.feat h2{color:#fff}
+/* footer like Pocket Korean's (dark), with the Pocket German wordmark */
+.pgfoot{background:#151515;color:#B9B9B9;border:0;margin-top:72px}
+body:has(.feat) .pgfoot{margin-top:72px}
+.pgfoot .pgbrand{color:#fff}
+.pgfoot nav a{color:#fff}
+.pgfoot a{color:#E6E6E6}
+.pgred{color:#FF5A4E}
+.pgtop .pgred{color:#D9483B}
+.phero{background:none}
