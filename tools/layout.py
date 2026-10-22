@@ -193,7 +193,7 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
 <label for="langsel" style="display:inline-flex;align-items:center;gap:6px">{ICON['globe']}<span class="sr">{T('choose_lang', d)}</span></label>
 <select id="langsel" onchange="location.href=this.value">{opts}</select></div></div></div>
 <header class="top" id="top"><div class="wrap bar">
-<a class="brand" href="/{u}/">{LOGO}<span>Pocket Korean</span></a>
+<a class="brand" href="/{u}/">{LOGO}<span>Pocket <em class="pkblue">Korean</em></span></a>
 <nav class="main" aria-label="Main">{navlinks}</nav>
 <div class="acts"><a class="iconbtn" href="{L(d, 'dictionary/')}" aria-label="{T('dict_search', d)}">{ICON['search']}</a>
 <button class="iconbtn" id="menubtn" aria-expanded="false" aria-controls="mega" aria-label="{T('menu', d)}">{ICON['menu']}</button>

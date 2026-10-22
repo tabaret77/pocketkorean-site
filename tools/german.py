@@ -213,7 +213,7 @@ def page(g, rel, title, desc, body, cur=None, alts=True):
 <header class="pgtop"><div class="pgw pgbar">
 <a class="pgbrand" href="{url(g)}">{PG_LOGO}<span>{PG_MARK[g]}</span></a>
 <nav class="pgnav" aria-label="{E(PG_NAME[g])}">{nav}</nav>
-<div class="pgact"><nav class="pglang" aria-label="{s["langs"]}">{lsw}</nav><a class="pgpk" href="{pk}">{LOGO}<span>Pocket Korean</span></a></div>
+<div class="pgact"><nav class="pglang" aria-label="{s["langs"]}">{lsw}</nav><a class="pgpk" href="{pk}">{LOGO}<span>Pocket <em class="pkblue">Korean</em></span></a></div>
 </div></header>
 <main id="main">{body}</main>
 <footer class="pgfoot"><div class="pgw"><div class="pgfb"><a class="pgbrand" href="{url(g)}">{PG_LOGO}<span>{PG_MARK[g]}</span></a><p>{E(s["foot"])}</p></div>

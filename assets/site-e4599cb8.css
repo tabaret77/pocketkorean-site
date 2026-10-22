@@ -586,3 +586,4 @@ aside .cta{flex-direction:column;align-items:stretch;margin:0}
 nav.main .sub .sl .pglangs a,.pglangs a{flex:1;justify-content:center;min-height:34px!important;padding:0 6px!important;border-radius:8px;background:var(--soft);font-size:13.5px!important;font-weight:700!important;color:var(--ink)}
 header.top .mega .pglangs a,footer.site .pglangs a{display:inline-flex;align-items:center}
 nav.main .pgni em.pgred{font-style:normal;color:#D9483B}
+.pkblue{font-style:normal;color:#0047A0}

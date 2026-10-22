@@ -31,7 +31,8 @@ The body is Markdown (tables, `## headings`, `![alt](/german/media/life/…jpg)`
 ## Images — always generated, never downloaded
 The workspace cannot download photos, so every picture is made with `tools/german_cards.py` (Chromium renders HTML; fonts: Noto Sans CJK, Noto Color Emoji). Make each image **in every language** (text inside the picture is in that language).
 
-- `news_cover(lang, date, hook, items, out, hook_red=…)` — cover of the briefing.
+- `news_cover(lang, date, hook, items, out, hook_red=…)` — cover of the briefing (pastel: hook on an index card, other items as pastel chips).
+- `weather_card(lang, title, days, cities, rows, tip, out)` — pastel weather strip (rows: per city a list of (emoji, max, min)). All images are pastel — no dark/navy backgrounds.
 - `news_card(…)` — **not used**: news items have no card images.
 - `life_cover(lang, title, out, kicker=…, emoji=…, emojis=[…])` and `life_card(lang, heading, points=[(emoji, title, line), …], out)` — culture post pictures.
 - `render(html, w, h, out)` — anything else: a weather strip (cities × days with emoji icons and temperatures), a small map-like diagram, a timeline, a chart (or draw a chart with matplotlib and save as JPG). Keep text short and numbers big.

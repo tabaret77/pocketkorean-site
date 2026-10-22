@@ -56,19 +56,45 @@ def render(doc, w, h, out):
     return out
 
 def news_cover(lang, d, hook, items, out, hook_red=''):
-    """1200×800: TODAY box + date, big title, flag, light card with the hook (hook_red: words to colour red), then the other items."""
+    """1200×630 cover of the news briefing, pastel: warm paper, index card with the hook, the other items as pastel chips."""
+    PAL = [('#FFE9A8', '#7A5600'), ('#D6F0E4', '#1E6B4F'), ('#DCEBFB', '#1F4E86'), ('#FFE0DA', '#9A3328'), ('#E8E0FA', '#4E3A8C'), ('#FDE2F0', '#8C2F64')]
     hk = E(hook)
     if hook_red and hook_red in hook:
-        hk = hk.replace(E(hook_red), f'<span style="color:#DC0000">{E(hook_red)}</span>')
-    li = ''.join(f'<li style="display:flex;gap:14px;align-items:flex-start;margin:0 0 12px"><i style="flex:none;width:14px;height:14px;margin-top:12px;background:{"#DC0000" if i < 2 else "#FFCC00"}"></i><span>{E(t)}</span></li>' for i, t in enumerate(items))
-    body = (f'<div style="padding:52px 56px">'
-            f'<div style="display:flex;align-items:center;gap:16px"><span style="background:#DC0000;color:#fff;font-weight:900;font-size:24px;padding:4px 14px;letter-spacing:.06em">TODAY</span>'
-            f'<span style="color:#B7C2DC;font-size:24px">{E(dstr(lang, d))}</span></div>'
-            f'<h1 style="color:#fff;font-size:76px;font-weight:900;margin-top:22px;letter-spacing:-.02em">{TODAY[lang]}</h1>{FLAG}'
-            f'<div style="margin-top:30px;background:#F5F6FA;border-radius:24px;padding:30px 34px;color:#0F1E3D">'
-            f'<p style="font-size:42px;font-weight:900;line-height:1.3">{hk}</p></div>'
-            f'<ul style="list-style:none;padding:0;margin-top:26px;color:#E7ECF7;font-size:28px;font-weight:700;line-height:1.5">{li}</ul></div>{foot(lang)}')
-    return render(page(lang, 1200, 800, body), 1200, 800, out)
+        hk = hk.replace(E(hook_red), f'<span style="background:linear-gradient(transparent 60%,#FFE9A8 60%)">{E(hook_red)}</span>')
+    chips = ''.join(f'<span style="display:inline-block;background:{PAL[(k + 1) % len(PAL)][0]};color:{PAL[(k + 1) % len(PAL)][1]};font-size:24px;font-weight:900;'
+                    f'border-radius:14px;padding:10px 18px;margin:0 10px 12px 0">{E(t)}</span>' for k, t in enumerate(items))
+    body = (f'<div style="position:absolute;inset:0;background:linear-gradient(180deg,#FFF3CC,#fff 70%)"></div>'
+            f'<div style="position:relative;padding:44px 56px">'
+            f'<div style="display:flex;align-items:center;gap:14px"><span style="background:#FFE0DA;color:#9A3328;font-weight:900;font-size:22px;padding:5px 14px;border-radius:999px;letter-spacing:.04em">TODAY</span>'
+            f'<span style="color:#5A5F80;font-size:23px;font-weight:700">{E(dstr(lang, d))}</span></div>'
+            f'<h1 style="color:#141838;font-size:62px;font-weight:900;margin-top:16px;letter-spacing:-.02em">{TODAY[lang]}</h1>'
+            f'<div style="display:flex;width:120px;height:7px;margin-top:12px"><i style="flex:1;background:#111"></i><i style="flex:1;background:#DC0000"></i><i style="flex:1;background:#FFCC00"></i></div>'
+            f'<div style="position:relative;margin-top:24px;background:#fff;border-radius:10px 10px 22px 22px;padding:22px 30px 22px 54px;box-shadow:0 0 0 1px #E2E5F1,0 18px 40px -26px rgba(20,24,56,.45)">'
+            f'<i style="position:absolute;left:28px;top:0;bottom:0;width:2px;background:#D9483B;opacity:.35"></i>'
+            f'<p style="font-size:38px;font-weight:900;line-height:1.3;color:#141838">{hk}</p></div>'
+            f'<div style="margin-top:22px">{chips}</div></div>{foot(lang, dark=False)}')
+    return render(page(lang, 1200, 580, body, bg="#fff"), 1200, 580, out)
+
+WX_BG = {'☀️': '#FFF1C2', '🌤️': '#FFF1C2', '⛅': '#EEF3FA', '🌥️': '#EEF0F4', '☁️': '#EEF0F4', '🌦️': '#E3F0FB', '🌧️': '#DCEBFB',
+         '⛈️': '#E2DDF6', '🌨️': '#EEF6FF', '❄️': '#EEF6FF', '🌬️': '#DDF2EE', '🌫️': '#EEF0F4'}
+def weather_card(lang, title, days, cities, rows, tip, out):
+    """1200×~800 weather strip, pastel. rows: per city a list of (emoji, max, min) for each day."""
+    head = '<div></div>' + ''.join(f'<div style="color:#5A5F80;font-size:23px;font-weight:700;text-align:center">{E(x)}</div>' for x in days)
+    cells = ''
+    for c, ds in zip(cities, rows):
+        cells += f'<div style="color:#141838;font-size:27px;font-weight:900;display:flex;align-items:center">{E(c)}</div>'
+        for ic, hi, lo in ds:
+            cells += (f'<div style="background:{WX_BG.get(ic, "#EEF3FA")};border-radius:16px;display:flex;align-items:center;justify-content:center;gap:14px;height:72px">'
+                      f'<span style="font-size:38px">{ic}</span><span style="font-size:32px;font-weight:900;color:#141838">{hi}°</span>'
+                      f'<span style="font-size:24px;color:#5A5F80">{lo}°</span></div>')
+    h = 340 + 84 * len(cities)
+    body = (f'<div style="position:absolute;inset:0;background:linear-gradient(180deg,#E3F0FB,#fff 60%)"></div>'
+            f'<div style="position:relative;padding:40px 56px"><div style="display:flex;align-items:center;gap:14px">'
+            f'<span style="background:#DCEBFB;color:#1F4E86;font-weight:900;font-size:21px;padding:5px 14px;border-radius:999px;letter-spacing:.04em">WETTER</span>'
+            f'<h2 style="color:#141838;font-size:42px;font-weight:900">{E(title)}</h2></div>'
+            f'<div style="display:grid;grid-template-columns:230px repeat({len(days)},1fr);gap:12px 16px;margin-top:24px">{head}{cells}</div>'
+            f'<p style="margin-top:20px;background:#FFF1C2;color:#7A5600;border-radius:16px;padding:14px 22px;font-size:25px;font-weight:900">{E(tip)}</p></div>{foot(lang, dark=False)}')
+    return render(page(lang, 1200, h, body, bg='#fff'), 1200, h, out)
 
 def news_card(lang, n, d, headline, out, keyword='', big='', big_unit='', big_label='', note='', side=()):
     """1200×640 news summary card, Pocket German look: white paper, index card with a red margin line,

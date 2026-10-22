@@ -1,7 +1,7 @@
 import sys, os
 from datetime import date
 sys.path.insert(0, 'tools')
-from german_cards import news_cover, news_card, life_cover, life_card, render, page, foot, FLAG, FONT, E
+from german_cards import news_cover, news_card, weather_card, life_cover, life_card, render, page, foot, FLAG, FONT, E
 
 D = date(2026, 10, 22)
 OUT = 'german/media/life/2026-10-22'
@@ -83,19 +83,7 @@ WX = [
 
 def weather(lang, out):
     t = N[lang]
-    head = '<div></div>' + ''.join(f'<div style="color:#B7C2DC;font-size:24px;font-weight:700;text-align:center">{E(d)}</div>' for d in t['days'])
-    rows = ''
-    for c, days in zip(t['cities'], WX):
-        rows += f'<div style="color:#fff;font-size:28px;font-weight:900;display:flex;align-items:center">{E(c)}</div>'
-        for ic, hi, lo in days:
-            rows += (f'<div style="background:#1C2F57;border-radius:16px;display:flex;align-items:center;justify-content:center;gap:16px;height:74px">'
-                     f'<span style="font-size:40px">{ic}</span><span style="font-size:34px;font-weight:900;color:#FFCC00">{hi}°</span>'
-                     f'<span style="font-size:26px;color:#B7C2DC">{lo}°</span></div>')
-    body = (f'<div style="padding:44px 56px"><div style="display:flex;align-items:center;gap:16px"><span style="background:#DC0000;color:#fff;font-weight:900;font-size:22px;padding:4px 12px;letter-spacing:.06em">WETTER</span>'
-            f'<h2 style="color:#fff;font-size:44px;font-weight:900">{E(t["wx_title"])}</h2></div>{FLAG}'
-            f'<div style="display:grid;grid-template-columns:240px repeat(3,1fr);gap:12px 16px;margin-top:26px">{head}{rows}</div>'
-            f'<p style="margin-top:22px;background:#F5F6FA;color:#0F1E3D;border-radius:16px;padding:14px 22px;font-size:26px;font-weight:900">{E(t["wx_tip"])}</p></div>{foot(lang)}')
-    render(page(lang, 1200, 820, body), 1200, 820, out)
+    weather_card(lang, t['wx_title'], t['days'], t['cities'], WX, t['wx_tip'], out)
 
 for lang, t in N.items():
     f = f'{OUT}/news-{lang}-cover.jpg'
