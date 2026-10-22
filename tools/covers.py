@@ -1,7 +1,9 @@
 """Original cover illustrations for articles (1600x1000 JPG) in the site's manuscript-paper style.
 No text other than Korean (covers are shared by all 12 languages). Rendered with Playwright.
 usage: npm i --prefix /tmp/pkfonts @fontsource/nanum-myeongjo@5 && python3 tools/covers.py [slug ...]  -> media/covers/<slug>.jpg"""
-import asyncio, os
+import asyncio, os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import cute
 from playwright.async_api import async_playwright
 from PIL import Image
 
@@ -70,7 +72,8 @@ COVERS['gwaenchanayo-meaning'] = page(C['violet_l'], f'''
               for x, y, k in [(110, 90, 'smile'), (1300, 120, 'band'), (120, 720, 'no'), (1290, 690, 'up')]))
 
 # 4 존댓말 vs 반말
-COVERS['jondaenmal-vs-banmal'] = page(C['violet_l'], person(150, 500, 1.6, C['blue'], hair='#9AA0B8') + person(1180, 560, 1.4, C['mint']) + f'''
+COVERS['jondaenmal-vs-banmal-v3'] = page(C['violet_l'], f'<svg class="abs" style="left:80px;top:420px" width="460" height="600" viewBox="0 0 300 420">{cute.boy(0, 0, 1, "happy", hair="#CFCAC6", hair_hi="#F2EEEA", vest="#A0785A", vest_sh="#7E5B42", legs="#4A4A5A", glasses=True)}</svg>'
+ + f'<svg class="abs" style="left:1100px;top:470px" width="400" height="530" viewBox="0 0 300 420">{cute.girl(0, 0, 1, "talk")}</svg>' + f'''
 <div class="bubble" style="left:110px;top:150px;font-size:76px">진지 드셨어요?</div>
 <div class="bubble" style="left:900px;top:250px;font-size:76px;background:{C['yellow']}">밥 먹었어?</div>
 <div class="abs my" style="left:700px;top:600px;font-size:150px;color:{C['violet']}">↔</div>''')
@@ -88,10 +91,10 @@ COVERS['korean-slang-online-2026'] = page(C['violet_l'], f'''
 <div class="abs my" style="left:1140px;top:560px;font-size:150px;color:{C['coral']};transform:rotate(7deg)">신조어</div>''')
 
 # 6 drama lines: TV with a subtitle
-COVERS['10-lines-every-k-drama'] = page(C['violet_l'], f'''
+COVERS['10-lines-every-k-drama-v3'] = page(C['violet_l'], f'''
 <div class="abs" style="left:250px;top:120px;width:1100px;height:660px;border-radius:40px;background:{C['ink']}"></div>
 <div class="abs" style="left:290px;top:160px;width:1020px;height:580px;border-radius:20px;background:linear-gradient(180deg,#3B4C9B,#1E2556)"></div>
-<div class="abs" style="left:420px;top:300px">{person(0, 0, 1.2, C['coral'])}</div><div class="abs" style="left:900px;top:330px">{person(0, 0, 1.1, C['sky'])}</div>
+<div class="abs" style="left:290px;top:160px;width:1020px;height:580px;border-radius:20px;overflow:hidden"><svg width="1020" height="580" viewBox="0 0 1020 580">{cute.girl(170, 90, 1.25, 'talk')}{cute.boy(560, 100, 1.2, 'smile')}</svg></div>
 <div class="abs" style="left:290px;top:600px;width:1020px;text-align:center"><span style="background:rgba(0,0,0,.6);color:#fff;font-size:76px;font-weight:700;padding:6px 30px;border-radius:12px">밥 먹었어?</span></div>
 <div class="abs" style="left:700px;top:780px;width:200px;height:80px;background:{C['ink']}"></div><div class="abs" style="left:560px;top:850px;width:480px;height:30px;border-radius:15px;background:{C['ink']}"></div>''')
 
@@ -104,10 +107,10 @@ COVERS['ordering-at-a-korean-cafe'] = page(C['sky_l'], f'''
 <div class="abs my" style="left:900px;top:640px;font-size:200px;color:{C['sky']}">주세요</div>''')
 
 # 8 residence card
-COVERS['residence-card-korea-guide'] = page(C['sky_l'], f'''
+COVERS['residence-card-korea-guide-v3'] = page(C['sky_l'], f'''
 <div class="abs" style="left:300px;top:200px;width:1000px;height:620px;border-radius:44px;background:#fff;box-shadow:inset 0 0 0 6px {C['ink']},30px 30px 0 {C['sky']}"></div>
 <div class="abs" style="left:300px;top:200px;width:1000px;height:140px;border-radius:44px 44px 0 0;background:{C['ink']};color:#fff;font-size:76px;font-weight:700;padding:26px 60px">외국인등록증</div>
-<div class="abs" style="left:380px;top:400px;width:260px;height:330px;border-radius:24px;background:{C['blue_l']};overflow:hidden">{person(20, 40, 1.0, C['blue'])}</div>
+<div class="abs" style="left:380px;top:400px;width:260px;height:330px;border-radius:24px;background:{C['blue_l']};overflow:hidden"><svg width="260" height="330" viewBox="0 0 260 330">{cute.boy(-30, 40, 1.07)}</svg></div>
 ''' + ''.join(f'<div class="abs" style="left:720px;top:{y}px;width:{w}px;height:36px;border-radius:18px;background:{c}"></div>' for y, w, c in [(420, 480, '#C8CDE4'), (500, 380, '#C8CDE4'), (580, 440, '#C8CDE4'), (660, 300, C['yellow'])]))
 
 # 9 weather words
@@ -208,7 +211,6 @@ async def main():
         for slug, (ph, *_r) in PHOTO.items():   # text-free version for list thumbnails
             if not only_ok(slug): continue
             im = Image.open(ph).convert('RGB'); im.thumbnail((1600, 1000)); im.save(f'{OUT}/{slug}-t.jpg', quality=86, optimize=True, progressive=True)
-        import sys
         only = sys.argv[1:]
         for slug, html in COVERS.items():
             if only and slug not in only: continue
@@ -226,4 +228,3 @@ if __name__ == '__main__':
     import subprocess, os
     iv = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'imgvariants.py')
     if os.path.exists(iv): subprocess.run(['python3', iv, 'media/covers'])
-    elif os.path.exists('/home/claude/pocketkorean-site/tools/imgvariants.py'): subprocess.run(['python3', '/home/claude/pocketkorean-site/tools/imgvariants.py', 'media/covers'])

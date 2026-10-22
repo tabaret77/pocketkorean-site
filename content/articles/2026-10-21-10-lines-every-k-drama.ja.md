@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "밥 먹었어?から정신 차려まで、ほぼすべての韓国ドラマに出てくる日常のセリフ10個を、ニュアンスや丁寧さのポイントと一緒に覚えましょう。"
 phrase: 밥 먹었어?
 phrase_meaning: ごはん食べた？（タメ口）
-cover: /media/covers/10-lines-every-k-drama.jpg
+cover: /media/covers/10-lines-every-k-drama-v3.jpg
 draft: false
 ---
 

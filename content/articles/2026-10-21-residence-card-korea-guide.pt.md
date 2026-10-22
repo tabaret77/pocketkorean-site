@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Vai ficar na Coreia mais de 90 dias? Veja como agendar, solicitar e retirar seu cartão de residência, com o coreano que você precisa no escritório de imigração."
 phrase: 외국인등록증
 phrase_meaning: cartão de residência (cartão de registro de estrangeiro)
-cover: /media/covers/residence-card-korea-guide.jpg
+cover: /media/covers/residence-card-korea-guide-v3.jpg
 draft: false
 ---
 

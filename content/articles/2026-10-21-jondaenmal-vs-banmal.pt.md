@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Aprenda quando os coreanos usam a fala educada e quando a deixam de lado, como propor a mudança para o 반말 e as pequenas mudanças de palavras que vêm junto."
 phrase: 말 놓을까요?
 phrase_meaning: Vamos falar de forma informal?
-cover: /media/covers/jondaenmal-vs-banmal.jpg
+cover: /media/covers/jondaenmal-vs-banmal-v3.jpg
 draft: false
 ---
 

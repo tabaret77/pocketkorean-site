@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "От 밥 먹었어? до 정신 차려: десять бытовых фраз, которые встречаются почти в каждой корейской дораме, с пояснениями оттенков и уровней вежливости."
 phrase: 밥 먹었어?
 phrase_meaning: Ты поел? (неформально)
-cover: /media/covers/10-lines-every-k-drama.jpg
+cover: /media/covers/10-lines-every-k-drama-v3.jpg
 draft: false
 ---
 

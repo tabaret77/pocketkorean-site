@@ -7,7 +7,7 @@ date: 2026-10-21
 description: From 밥 먹었어? to 정신 차려, learn ten everyday lines that come up in almost every Korean drama, with nuance and politeness notes.
 phrase: 밥 먹었어?
 phrase_meaning: Have you eaten? (casual)
-cover: /media/covers/10-lines-every-k-drama.jpg
+cover: /media/covers/10-lines-every-k-drama-v3.jpg
 draft: false
 ---
 

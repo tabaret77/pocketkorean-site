@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "韓国に90日を超えて滞在しますか？ 外国人登録証の予約、申請、受け取りの方法と、出入国管理事務所で必要な韓国語を紹介します。"
 phrase: 외국인등록증
 phrase_meaning: 外国人登録証（在留カード）
-cover: /media/covers/residence-card-korea-guide.jpg
+cover: /media/covers/residence-card-korea-guide-v3.jpg
 draft: false
 ---
 

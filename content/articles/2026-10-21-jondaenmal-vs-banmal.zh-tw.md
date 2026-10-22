@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "了解韓國人什麼時候用敬語、什麼時候不用，怎麼提議改說半語，以及隨之而來的小小用詞變化。"
 phrase: 말 놓을까요?
 phrase_meaning: 我們要不要說半語？
-cover: /media/covers/jondaenmal-vs-banmal.jpg
+cover: /media/covers/jondaenmal-vs-banmal-v3.jpg
 draft: false
 ---
 

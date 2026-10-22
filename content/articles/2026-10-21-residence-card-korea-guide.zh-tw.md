@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "要在韓國待超過90天嗎？教你怎麼預約、申請和領取外國人登錄證，以及在出入境管理局用得到的韓語。"
 phrase: 외국인등록증
 phrase_meaning: 外國人登錄證（居留證）
-cover: /media/covers/residence-card-korea-guide.jpg
+cover: /media/covers/residence-card-korea-guide-v3.jpg
 draft: false
 ---
 

@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "由밥 먹었어?到정신 차려，學會幾乎每套韓劇都會出現的十句日常對白，附語感和禮貌程度說明。"
 phrase: 밥 먹었어?
 phrase_meaning: 食咗飯未？（半語）
-cover: /media/covers/10-lines-every-k-drama.jpg
+cover: /media/covers/10-lines-every-k-drama-v3.jpg
 draft: false
 ---
 

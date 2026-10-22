@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Tìm hiểu khi nào người Hàn dùng lối nói lịch sự và khi nào bỏ nó, cách đề nghị chuyển sang 반말, và những thay đổi nhỏ về từ ngữ đi kèm."
 phrase: 말 놓을까요?
 phrase_meaning: Mình nói chuyện thoải mái nhé?
-cover: /media/covers/jondaenmal-vs-banmal.jpg
+cover: /media/covers/jondaenmal-vs-banmal-v3.jpg
 draft: false
 ---
 

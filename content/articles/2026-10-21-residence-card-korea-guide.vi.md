@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Ở Hàn Quốc hơn 90 ngày? Đây là cách đặt lịch, nộp hồ sơ và nhận thẻ cư trú, kèm những câu tiếng Hàn cần dùng ở văn phòng xuất nhập cảnh."
 phrase: 외국인등록증
 phrase_meaning: thẻ cư trú (thẻ đăng ký người nước ngoài)
-cover: /media/covers/residence-card-korea-guide.jpg
+cover: /media/covers/residence-card-korea-guide-v3.jpg
 draft: false
 ---
 

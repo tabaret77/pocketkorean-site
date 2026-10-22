@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "De 밥 먹었어? a 정신 차려, aprenda dez falas do dia a dia que aparecem em quase todo drama coreano, com notas sobre nuance e nível de formalidade."
 phrase: 밥 먹었어?
 phrase_meaning: Já comeu? (informal)
-cover: /media/covers/10-lines-every-k-drama.jpg
+cover: /media/covers/10-lines-every-k-drama-v3.jpg
 draft: false
 ---
 

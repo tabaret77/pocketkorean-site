@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Aprende cuándo usan los coreanos el habla cortés y cuándo la dejan de lado, cómo proponer pasar al 반말 y los pequeños cambios de palabras que eso implica."
 phrase: 말 놓을까요?
 phrase_meaning: ¿Nos hablamos con confianza?
-cover: /media/covers/jondaenmal-vs-banmal.jpg
+cover: /media/covers/jondaenmal-vs-banmal-v3.jpg
 draft: false
 ---
 

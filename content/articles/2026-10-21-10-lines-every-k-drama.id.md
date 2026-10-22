@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Dari 밥 먹었어? sampai 정신 차려, pelajari sepuluh kalimat sehari-hari yang muncul di hampir setiap drama Korea, lengkap dengan nuansa dan catatan tingkat kesopanannya."
 phrase: 밥 먹었어?
 phrase_meaning: Sudah makan? (santai)
-cover: /media/covers/10-lines-every-k-drama.jpg
+cover: /media/covers/10-lines-every-k-drama-v3.jpg
 draft: false
 ---
 

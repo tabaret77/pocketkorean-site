@@ -8,7 +8,7 @@ date: 2026-10-21
 description: "Солонгосчууд хэзээ эелдэг яриа хэрэглэж, хэзээ орхидог, 반말 руу шилжихийг хэрхэн санал болгох, түүнийг дагалдах жижиг үгийн өөрчлөлтүүдийг сураарай."
 phrase: 말 놓을까요?
 phrase_meaning: Энгийнээр ярих уу?
-cover: /media/covers/jondaenmal-vs-banmal.jpg
+cover: /media/covers/jondaenmal-vs-banmal-v3.jpg
 draft: false
 ---
 
