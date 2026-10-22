@@ -4,18 +4,14 @@ Used by the daily scheduled run. The owner reviews each batch on a preview link 
 
 ## The batch
 
-Every day, 3 new articles in English, each also translated into the other 11 site languages (36 files):
+Every day, one new English article for each of the 19 categories in `.pages.yml` (19 articles), each also translated into the other 11 site languages (228 files):
 
-1. **Korea Today, news A**: the most talked-about Korean entertainment/culture story of the last 24–48 hours (K-drama ratings or premieres, K-pop releases/charts/awards, film, a viral trend).
-2. **Korea Today, news B**: a second story from a different category than A (k-drama, k-pop, culture, trends).
-3. **Rotating evergreen piece**, by weekday (Europe/Berlin):
-   - Mon: life-travel (living / transport)
-   - Tue: learn (grammar-lessons, one ending or particle at TOPIK 1–2)
-   - Wed: words (slang or phrases)
-   - Thu: life-travel (places / food / festivals – tie to the season or an upcoming event)
-   - Fri: words (drama-lines – lines from a currently airing drama)
-   - Sat: learn (topic-words, 15–25 words on one theme)
-   - Sun: words (polite-casual or word-of-the-day)
+- korea-today (news from the last 24–72 hours): k-drama, k-pop, culture, trends
+- life-travel: living, places, food, transport, festivals, survival-korean
+- learn: topik-guide, grammar-lessons, topic-words, hangul
+- words: word-of-the-day, drama-lines, phrases, slang, polite-casual
+
+Use the season and upcoming Korean dates (exams, holidays, anniversaries, festivals).
 
 Before choosing, list `content/articles/*.md` (English files) and do not repeat a story, a grammar point or a theme that is already there. A follow-up on an existing story is fine only with genuinely new facts (e.g. new ratings).
 
@@ -87,4 +83,4 @@ python3 -c "import sys,glob;sys.path.insert(0,'tools');import articles;[print('F
 pip install -r tools/requirements.txt -q && python3 tools/blog.py
 ```
 
-The first must print nothing; the build must finish without errors. Then confirm there are 36 new files. Commit only the new files in `content/articles/`.
+The first must print nothing; the build must finish without errors. Then confirm there are 228 new files. Commit only the new files in `content/articles/`.
