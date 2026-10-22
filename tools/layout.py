@@ -77,9 +77,9 @@ PG_NAME = {'ko': '포켓독일어', 'en': 'Pocket German', 'ja': 'ポケット�
 PG_BASE = {'ko': '/german/', 'en': '/german/en/', 'ja': '/german/ja/'}
 # (path inside the language folder, label)
 PG_MENU = {
-    'ko': [('dictionary/', '단어 사전'), ('/german/web/', '앱 체험하기'), ('today/#words', '오늘의 단어'), ('today/#sentence', '오늘의 한 문장'), ('life/', '독일 이야기')],
-    'en': [('dictionary/', 'Dictionary'), ('/german/web/index_en.html', 'Try the app'), ('today/#words', "Today's words"), ('today/#sentence', 'Sentence of the day'), ('life/', 'Life in Germany')],
-    'ja': [('dictionary/', '単語辞典'), ('/german/web/index_ja.html', 'アプリを試す'), ('today/#words', '今日の単語'), ('today/#sentence', '今日のひとこと'), ('life/', 'ドイツ暮らし')],
+    'ko': [('today/', '오늘의 독일어'), ('life/', '독일 이야기'), ('/german/web/', '앱 체험하기')],
+    'en': [('today/', "Today's German"), ('life/', 'Life in Germany'), ('/german/web/index_en.html', 'Try the app')],
+    'ja': [('today/', '今日のドイツ語'), ('life/', 'ドイツ暮らし'), ('/german/web/index_ja.html', 'アプリを試す')],
 }
 def pg_lang(d): return d if d in PG_NAME else ('ja' if d == 'ja' else 'en')
 def pg_links(g, to=None):

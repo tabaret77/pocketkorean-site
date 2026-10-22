@@ -53,7 +53,7 @@ S = {
    n_found='{n}개 단어', none='「{q}」에 맞는 단어가 없어요.', loading='불러오는 중…',
    forms='형태', ex='예문', ety='어원', rel='관련 어휘', tip='알아 두면 좋아요',
    in_app='이 단어의 발음은 앱에서 들을 수 있어요.',
-   today_t='오늘의 단어 · 오늘의 한 문장', today_p='매일 새로운 주제의 단어 10개와 문장 하나가 바뀌어요. 앱의 ‘오늘의 한 문장’과 같은 문장이에요.',
+   today_t='오늘의 독일어', today_p='매일 새로운 주제의 단어 10개와 문장 하나가 바뀌어요. 앱의 ‘오늘의 한 문장’과 같은 문장이에요.',
    app_t='포켓독일어 웹 체험판', app_p='A1 단어와 주제별 단어를 웹에서 바로 써 보세요. 모든 레벨과 미션 기록은 앱에서 열려요.', app_open='체험판 열기',
    langs='언어', pk='Pocket Korean', foot='포켓독일어는 Pocket Korean을 만든 팀이 만들었어요.', read='읽기', date_fmt='{y}년 {m}월 {d}일'),
  'en': dict(
@@ -74,7 +74,7 @@ S = {
    n_found='{n} words', none='No words match “{q}”.', loading='Loading…',
    forms='Forms', ex='Example', ety='Origin', rel='Related words', tip='Good to know',
    in_app='You can hear this word in the app.',
-   today_t="Today's words · Sentence of the day", today_p='Ten words on a new topic and one new sentence, every day. It is the same sentence as in the app.',
+   today_t="Today's German", today_p='Ten words on a new topic and one new sentence, every day. It is the same sentence as in the app.',
    app_t='Pocket German on the web', app_p='Try A1 and the topic word lists right in your browser. Every level and your mission history open in the app.', app_open='Open the web version',
    langs='Language', pk='Pocket Korean', foot='Pocket German is made by the team behind Pocket Korean.', read='Read', date_fmt='{mon} {d}, {y}'),
  'ja': dict(
@@ -95,7 +95,7 @@ S = {
    n_found='{n}語', none='「{q}」に合う単語がありません。', loading='読み込み中…',
    forms='変化形', ex='例文', ety='語源', rel='関連語', tip='ポイント',
    in_app='この単語の発音はアプリで聞けます。',
-   today_t='今日の単語 · 今日のひとこと', today_p='毎日、新しいテーマの単語10語とひとことが入れ替わります。アプリの「今日のひとこと」と同じ文です。',
+   today_t='今日のドイツ語', today_p='毎日、新しいテーマの単語10語とひとことが入れ替わります。アプリの「今日のひとこと」と同じ文です。',
    app_t='ポケットドイツ語 ウェブ版', app_p='A1とテーマ別単語をブラウザですぐ試せます。すべてのレベルとミッションの記録はアプリで使えます。', app_open='ウェブ版を開く',
    langs='言語', pk='Pocket Korean', foot='ポケットドイツ語は Pocket Korean のチームが作っています。', read='読む', date_fmt='{y}年{m}月{d}日'),
 }
