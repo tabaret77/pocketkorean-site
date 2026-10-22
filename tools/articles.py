@@ -181,10 +181,12 @@ def build():
                       f'<a class="more" style="margin-left:auto" href="{L(d, "dictionary/")}?q={E(p["phrase"])}">{T("dict_search", d)}</a></div>') if p['phrase'] else ''
             rel = [q for q in mine if q['sec'] == p['sec'] and q is not p][:3]
             more = (f'<div class="box"><span class="kicker">{T("more", d)}</span><div class="rows">{"".join(row(q, d) for q in rel)}</div></div>') if rel else ''
+            pbar = (f'<a class="phrasebar" href="{L(d, "word/" + quote(p["phrase"].replace("/", "-")) + "/") if p["phrase"].replace("/", "-") in _SPELL else L(d, "dictionary/") + "?q=" + quote(p["phrase"])}">'
+                    f'<b lang="ko">{E(p["phrase"])}</b><span>{E(p["pmean"])}</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg></a>') if p['phrase'] else ''
             body = (f'<div class="wrap layout2"><div class="main"><p class="crumbs"><a href="{L(d, p["sec"] + "/")}">{T(key, d)}</a> › '
                     f'<a href="{L(d, p["sec"] + "/" + p["cat"] + "/")}">{T(CATS[p["cat"]][1], d)}</a></p><article class="post">'
                     f'<h1>{E(p["title"])}</h1><p class="meta">{p["date"]}</p>{cover}{phrase}{official(p, d)}{p["html"]}</article></div>'
-                    f'<aside class="sticky">{cta_box(d)}{more}</aside></div>')
+                    f'<aside class="sticky">{cta_box(d)}{more}</aside></div>{pbar}')
             canon = BASE + url(p)
             img = (BASE + p['cover']) if p['cover'].startswith('/') else (p['cover'] or None)
             write(url(p), page(d, f'{p["sec"]}/{p["slug"]}/', f'{p["title"]} | Pocket Korean', p['desc'], body, alts=full(p),
@@ -211,10 +213,10 @@ def home_slots(d, mine, en):
     t_html = (f'<div class="news">{lead_story(today[0], d)}<div class="rows">{"".join(row(p, d) for p in today[1:])}</div></div>' if today
               else f'<div class="grid">{"".join(placeholder(d, c) for c, _ in SEC["korea-today"][3])}</div>')
     life = pick('life-travel', 4)
-    l_html = (f'<div class="grid g4">{"".join(acard(p, d) for p in life)}</div>' if life
+    l_html = (f'<div class="grid g4 hscroll">{"".join(acard(p, d) for p in life)}</div>' if life
               else f'<div class="grid g4">{"".join(placeholder(d, c) for c in ("transport", "food", "living", "festivals"))}</div>')
     learn = pick('learn', 4)
-    le_html = f'<div class="grid" style="margin-top:20px">{"".join(acard(p, d) for p in learn)}</div>' if learn else ''
+    le_html = f'<div class="grid hscroll" style="margin-top:20px">{"".join(acard(p, d) for p in learn)}</div>' if learn else ''
     dl = ([p for p in mine if p['cat'] == 'drama-lines'] or [p for p in en if p['cat'] == 'drama-lines'])[:1]
     if dl:
         p = dl[0]

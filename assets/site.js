@@ -283,7 +283,11 @@
         '<div class="grid" style="margin-top:12px">' + sug + '</div>';
       $('#nsay').onclick = function () { sayKo(ko); };
       $('#ndl').onclick = function () { var c = nameCard(ko, name + ' · ' + rom); var a = document.createElement('a'); a.download = 'my-korean-name-' + normN(name) + '.png'; a.href = c.toDataURL('image/png'); a.click(); };
-      $('#ncp').onclick = function () { var u = location.origin + location.pathname + '?n=' + encodeURIComponent(name); (navigator.clipboard ? navigator.clipboard.writeText(u) : Promise.reject()).then(function () { nmsg.textContent = t('name_copied'); }).catch(function () { nmsg.textContent = u; }); };
+      $('#ncp').onclick = function () {
+        var u = nres.getAttribute('data-n') ? location.origin + location.pathname : location.origin + location.pathname + '?n=' + encodeURIComponent(name);
+        if (navigator.share && matchMedia('(max-width: 900px)').matches) { navigator.share({ title: name + ' = ' + ko, text: name + ' → ' + ko + ' (' + rom + ')', url: u }).catch(function () {}); return; }
+        (navigator.clipboard ? navigator.clipboard.writeText(u) : Promise.reject()).then(function () { nmsg.textContent = t('name_copied'); }).catch(function () { nmsg.textContent = u; });
+      };
       if (al.length) getDict().then(function (dx) { document.querySelectorAll('#nal [data-ko]').forEach(function (s) { var m = dx[s.getAttribute('data-ko')]; if (m) s.textContent = m; }); });
       if (mode === 'k') nres.insertBefore(nres.querySelector('h2'), nres.firstChild), nres.insertBefore(nres.querySelector('.grid'), nres.children[1]);
     }

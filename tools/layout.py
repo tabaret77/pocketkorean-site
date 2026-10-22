@@ -97,6 +97,22 @@ def nav_cols(d):
                  f'<a href="{L(d, "about/")}">{T("about_nav", d)}</a><a href="/privacy/">{T("privacy", d)}</a>'))
     return cols
 
+TABS = {'home': {'en': 'Home', 'es': 'Inicio', 'vi': 'Trang chủ', 'th': 'หน้าแรก', 'id': 'Beranda', 'yue': '主頁', 'tw': '首頁', 'ja': 'ホーム', 'zh': '首页', 'pt': 'Início', 'ru': 'Главная', 'mn': 'Нүүр'},
+ 'dict': {'en': 'Dictionary', 'es': 'Diccionario', 'vi': 'Từ điển', 'th': 'พจนานุกรม', 'id': 'Kamus', 'yue': '字典', 'tw': '字典', 'ja': '辞書', 'zh': '词典', 'pt': 'Dicionário', 'ru': 'Словарь', 'mn': 'Толь бичиг'},
+ 'name': {'en': 'My name', 'es': 'Mi nombre', 'vi': 'Tên tôi', 'th': 'ชื่อฉัน', 'id': 'Namaku', 'yue': '我個名', 'tw': '我的名字', 'ja': '私の名前', 'zh': '我的名字', 'pt': 'Meu nome', 'ru': 'Моё имя', 'mn': 'Миний нэр'},
+ 'app': {'en': 'App', 'es': 'App', 'vi': 'Ứng dụng', 'th': 'แอป', 'id': 'Aplikasi', 'yue': 'App', 'tw': 'App', 'ja': 'アプリ', 'zh': '应用', 'pt': 'App', 'ru': 'Приложение', 'mn': 'Апп'}}
+TICON = {'home': '<path d="M3 11 12 4l9 7v9h-6v-6H9v6H3z"/>', 'dict': '<circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/>',
+ 'learn': '<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/>', 'app': '<rect x="6" y="2" width="12" height="20" rx="3"/><path d="M11 18h2"/>'}
+def tabbar(d, cur):
+    u = URL[d]; tl = lambda k: TABS[k].get(d) or TABS[k]['en']
+    on = {'': 'home', None: 'home', 'dictionary': 'dict', 'name': 'name', 'learn': 'learn'}.get(cur, '')
+    sv = lambda k: f'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">{TICON[k]}</svg>'
+    items = [('home', f'/{u}/', sv('home'), tl('home')), ('dict', f'/{u}/dictionary/', sv('dict'), tl('dict')),
+             ('name', f'/{u}/name/', '<span class="tn" lang="ko">이름</span>', tl('name')), ('learn', f'/{u}/learn/', sv('learn'), T('sec_learn', d)),
+             ('app', f'{APP}/?lang={d}', sv('app'), tl('app'))]
+    return '<nav class="tabbar" aria-label="' + E(T('menu', d)) + '">' + ''.join(
+        f'<a href="{h}" class="t-{k}"{" aria-current=\"page\"" if k == on else ""}>{ic}<span>{E(lb)}</span></a>' for k, h, ic, lb in items) + '</nav>'
+
 def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_type='website', wide=False, cur=None):
     """rel: path inside the language folder ('' = language home). alts=False for pages that exist in one language only.
     wide=True: body brings its own full-width sections; otherwise it is wrapped in a content column."""
@@ -151,8 +167,9 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
 <a class="btn sm" href="{L(d, 'level-test/')}">{T('lt_cta', d)}</a></div></div></nav>
 </header>
 <main id="main">{main}</main>
-<footer class="site"><div class="wrap"><div class="cols">{foot}</div>
+<footer class="site"><div class="wrap"><div class="mlang"><label for="langsel2">{T('choose_lang', d)}</label><select id="langsel2" onchange="location.href=this.value">{opts}</select></div><div class="cols">{foot}</div>
 <div class="bottom"><span>© 2026 Pocket Korean <a style="margin-left:14px" href="/privacy/">{T('privacy', d)}</a></span><span id="credits"></span></div></div></footer>
+{tabbar(d, cur)}
 <script src="/assets/site-{JSV}.js" defer></script>
 </body></html>'''
 
