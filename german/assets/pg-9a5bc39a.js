@@ -47,6 +47,16 @@
     var blocks = document.querySelectorAll("[data-today]"); if (!blocks.length) return;
     var now = new Date(), key = iso(now);
     if (blocks[0].dataset.today === key) return;           // the page was built today
+    /* today page: swap in today's word post (posts live at words/<topic>/) */
+    var tp = document.querySelector("[data-order]"), post = document.querySelector(".ppost");
+    if (tp && post) {
+      var order = tp.dataset.order.split(","), k2 = order[dayIndex(now, order.length)];
+      if (k2 && k2 !== tp.dataset.post) fetch(BASE + "words/" + k2 + "/").then(function (r) { return r.ok ? r.text() : ""; }).then(function (h) {
+        if (!h) return; var np = new DOMParser().parseFromString(h, "text/html").querySelector(".ppost"); if (!np) return;
+        var when = post.querySelector(".pkick time"); post.replaceWith(np); tp.dataset.post = k2;
+        var kick = np.querySelector(".pkick"); if (kick && !kick.querySelector("time")) { var t = document.createElement("time"); t.textContent = fdate(now); kick.appendChild(t); }
+      }).catch(function () {});
+    }
     getJSON("/german/data/" + G + "/today.json").then(function (T) {
       var t = T.t[dayIndex(now, T.t.length)], n = dayIndex(now, T.d.length), x = T.d[n];
       blocks.forEach(function (bl) {

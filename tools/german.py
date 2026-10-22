@@ -314,7 +314,7 @@ def today_page(g, d, posts=None):
         tom = TOP['topics'][day_index(d + datetime.timedelta(days=1), len(TOP['topics']))]['key']
         P = posts[t['key']]
         body = (post_body(g, t['key'], P, d, tom, posts) +
-                f'<section class="pgw todayp narrow" data-today="{d.isoformat()}" data-post="{t["key"]}" data-posts="{",".join(posts)}"><h2 id="sentence">{E(s["ts"])}</h2>'
+                f'<section class="pgw todayp narrow" data-today="{d.isoformat()}" data-post="{t["key"]}" data-order="{",".join(x["key"] for x in TOP["topics"])}"><h2 id="sentence">{E(s["ts"])}</h2>'
                 f'<article class="tcard sent big"><div class="tsb">{today_sentence(g, d)}</div></article></section>')
         write(f'{g + "/" if g != "ko" else ""}today/index.html', page(g, 'today/', f'{s["today_t"]} | {PG_NAME[g]}', P[g].get('hook', s['today_p']), body, cur='today/'))
         return
