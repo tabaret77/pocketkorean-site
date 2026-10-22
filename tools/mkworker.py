@@ -12,6 +12,10 @@ export default {
   async fetch(request, env, wctx) {
     const url = new URL(request.url);
     const m = url.pathname.match(ROUTE);
+    if (url.pathname === '/api/tts') {
+      try { return await ttsAudio({ request, env, waitUntil: (p) => wctx.waitUntil(p) }); }
+      catch (e) { return new Response('tts error', { status: 500, headers: { 'cache-control': 'no-store' } }); }
+    }
     if (!m) return env.ASSETS.fetch(request);
     const rest = m[3].split('/').filter(Boolean);
     const ctx = { request, env, params: { lang: m[1], path: rest }, next: () => env.ASSETS.fetch(request), waitUntil: (p) => wctx.waitUntil(p) };

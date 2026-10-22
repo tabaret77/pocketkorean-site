@@ -106,11 +106,50 @@ async function namePage(ctx) {
 }
 const MORE = { en: 'More names', es: 'Más nombres', vi: 'Tên khác', th: 'ชื่ออื่น ๆ', id: 'Nama lainnya', 'zh-hk': '更多名字', 'zh-tw': '更多名字', ja: 'ほかの名前', 'zh-cn': '更多名字', pt: 'Mais nomes', ru: 'Другие имена', mn: 'Бусад нэрс' };
 
+// /api/tts?t=… — Google Cloud TTS for Korean text that appears in articles (listed in /data/tts.json).
+// The API key lives only in the Cloudflare secret GOOGLE_TTS_KEY. Audio is cached at the edge for a year.
+let ALLOW = null, ALLOW_AT = 0;
+async function ttsAllowed(ctx, t) {
+  if (!ALLOW || Date.now() - ALLOW_AT > 600000) {
+    const r = await asset(ctx, '/data/tts.json');
+    ALLOW = new Set(r ? await r.json() : []); ALLOW_AT = Date.now();
+  }
+  const h = await crypto.subtle.digest('SHA-1', new TextEncoder().encode(t));
+  const hex = [...new Uint8Array(h)].map((b) => b.toString(16).padStart(2, '0')).join('').slice(0, 16);
+  return ALLOW.has(hex);
+}
+async function ttsAudio(ctx) {
+  const url = new URL(ctx.request.url);
+  const t = (url.searchParams.get('t') || '').trim();
+  const err = (s, m) => new Response(m, { status: s, headers: { 'content-type': 'text/plain', 'cache-control': 'no-store' } });
+  if (!t || t.length > 180) return err(400, 'bad text');
+  const cache = caches.default, key = new Request(`${url.origin}/api/tts?t=${encodeURIComponent(t)}&v=1`, { method: 'GET' });
+  const hit = await cache.match(key);
+  if (hit) return hit;
+  if (!(await ttsAllowed(ctx, t))) return err(404, 'unknown text');
+  const k = ctx.env.GOOGLE_TTS_KEY;
+  if (!k) return err(503, 'tts not configured');
+  const g = await fetch(`https://texttospeech.googleapis.com/v1/text:synthesize?key=${encodeURIComponent(k)}`, {
+    method: 'POST', headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ input: { text: t }, voice: { languageCode: 'ko-KR', name: 'ko-KR-Neural2-A' }, audioConfig: { audioEncoding: 'MP3', speakingRate: 0.9 } }),
+  });
+  if (!g.ok) return err(502, 'tts failed');
+  const b64 = (await g.json()).audioContent || '';
+  const bin = Uint8Array.from(atob(b64), (c) => c.charCodeAt(0));
+  const res = new Response(bin, { headers: { 'content-type': 'audio/mpeg', 'cache-control': 'public, max-age=31536000, immutable' } });
+  ctx.waitUntil(cache.put(key, res.clone()));
+  return res;
+}
+
 const ROUTE = /^\/([a-z-]+)\/(word|name)\/(.*)$/;
 export default {
   async fetch(request, env, wctx) {
     const url = new URL(request.url);
     const m = url.pathname.match(ROUTE);
+    if (url.pathname === '/api/tts') {
+      try { return await ttsAudio({ request, env, waitUntil: (p) => wctx.waitUntil(p) }); }
+      catch (e) { return new Response('tts error', { status: 500, headers: { 'cache-control': 'no-store' } }); }
+    }
     if (!m) return env.ASSETS.fetch(request);
     const rest = m[3].split('/').filter(Boolean);
     const ctx = { request, env, params: { lang: m[1], path: rest }, next: () => env.ASSETS.fetch(request), waitUntil: (p) => wctx.waitUntil(p) };

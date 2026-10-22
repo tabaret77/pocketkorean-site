@@ -45,6 +45,30 @@
   var wslug = function (de) { return de.replace(/\//g, '-'); };
   var wurl = function (de) { return '/' + U + '/word/' + encodeURIComponent(wslug(de)) + '/'; };
   /* word pages: play buttons carry their audio slice */
+  /* ---- listen buttons in articles: native recording (data-pa) or Google TTS via /api/tts (data-t) ---- */
+  function speakFallback(t) {
+    if (!('speechSynthesis' in window)) return;
+    var u = new SpeechSynthesisUtterance(t); u.lang = 'ko-KR'; u.rate = 0.9;
+    window.speechSynthesis.cancel(); window.speechSynthesis.speak(u);
+  }
+  function sayTTS(t, el) {
+    if (cur) { try { cur.pause(); } catch (e) {} }
+    var done = false, a = new Audio('/api/tts?t=' + encodeURIComponent(t));
+    var fail = function () { if (done) return; done = true; el.classList.remove('playing'); speakFallback(t); };
+    el.classList.add('playing');
+    a.onended = function () { done = true; el.classList.remove('playing'); };
+    a.onerror = fail;
+    cur = a;
+    var p = a.play(); if (p && p.catch) p.catch(fail);
+  }
+  document.querySelectorAll('[data-t]').forEach(function (el) {
+    var go = function (e) { e.preventDefault(); sayTTS(el.getAttribute('data-t'), el); };
+    el.addEventListener('click', go);
+    if (el.tagName !== 'BUTTON') el.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') go(e); });
+  });
+  document.querySelectorAll('span.say[data-pa]').forEach(function (el) {
+    el.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); el.click(); } });
+  });
   document.querySelectorAll('[data-pa]').forEach(function (b) { b.addEventListener('click', function () { try { play(JSON.parse(b.getAttribute('data-pa')), b.getAttribute('data-which'), b); } catch (e) {} }); });
   var SPK = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4z" fill="currentColor"/><path d="M15.5 8.5a5 5 0 0 1 0 7M18.5 5.5a9 9 0 0 1 0 13"/></svg>';
 

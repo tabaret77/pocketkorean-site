@@ -19,7 +19,8 @@ Markdown text…
 Writes: /{lang}/{section}/, /{lang}/{section}/{category}/, /{lang}/{section}/{slug}/, fills the home page slots,
 sitemap-articles.xml and _redirects (old /blog/ URLs).
 """
-import os, re, sys, glob, json, shutil, datetime
+import os
+import say, re, sys, glob, json, shutil, datetime
 sys.path.insert(0, os.path.dirname(__file__))
 import yaml, markdown
 from layout import LANGS, URL, BY_URL, BASE, APP, E, T, page, cta_box, phead, L, SECTIONS, SEC, CATS, ICON, rimg
@@ -137,6 +138,8 @@ def write(path, html):
     os.makedirs(os.path.dirname(fp), exist_ok=True)
     open(fp, 'w', encoding='utf-8').write(html)
 
+TTS = set()
+
 def build():
     posts = []
     for src in SRCS:
@@ -183,7 +186,7 @@ def build():
         for p in mine:
             key, col = SEC[p['sec']][1], SEC[p['sec']][2]
             cover = (rimg(p['cover'], '(max-width:760px) 94vw, 720px', cls='cover', eager=True) + (f'<p class="credit">{E(p["credit"])}</p>' if p['credit'] else '')) if p['cover'] else ''
-            phrase = (f'<div class="phrasebox"><b>{T("phrase_story", d)}:</b> <b lang="ko">{E(p["phrase"])}</b>{" = " + E(p["pmean"]) if p["pmean"] else ""}'
+            phrase = (f'<div class="phrasebox"><b>{T("phrase_story", d)}:</b> <b lang="ko">{E(p["phrase"])}</b>{say.button(say.speech(p["phrase"]), TTS, T("listen", d)) if say.speech(p["phrase"]) else ""}{" = " + E(p["pmean"]) if p["pmean"] else ""}'
                       f'<a class="more" style="margin-left:auto" href="{L(d, "dictionary/")}?q={E(p["phrase"])}">{T("dict_search", d)}</a></div>') if p['phrase'] else ''
             rel = [q for q in mine if q['sec'] == p['sec'] and q is not p][:3]
             more = (f'<div class="box"><span class="kicker">{T("more", d)}</span><div class="rows">{"".join(row(q, d) for q in rel)}</div></div>') if rel else ''
@@ -191,7 +194,7 @@ def build():
                     f'<b lang="ko">{E(p["phrase"])}</b><span>{E(p["pmean"])}</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg></a>') if p['phrase'] else ''
             body = (f'<div class="wrap layout2"><div class="main"><p class="crumbs"><a href="{L(d, p["sec"] + "/")}">{T(key, d)}</a> › '
                     f'<a href="{L(d, p["sec"] + "/" + p["cat"] + "/")}">{T(CATS[p["cat"]][1], d)}</a></p><article class="post">'
-                    f'<h1>{E(p["title"])}</h1><p class="meta">{p["date"]}</p>{cover}{phrase}{official(p, d)}{p["html"]}</article></div>'
+                    f'<h1>{E(p["title"])}</h1><p class="meta">{p["date"]}</p>{cover}{phrase}{official(p, d)}{say.add(p["html"], TTS)}</article></div>'
                     f'<aside class="sticky">{cta_box(d)}{more}</aside></div>{pbar}')
             canon = BASE + url(p)
             img = (BASE + p['cover']) if p['cover'].startswith('/') else (p['cover'] or None)
@@ -207,7 +210,8 @@ def build():
     open(os.path.join(ROOT, 'sitemap-articles.xml'), 'w', encoding='utf-8').write('\n'.join(sm))
     open(os.path.join(ROOT, '_redirects'), 'w').write('\n'.join(redirects) + '\n')
     if os.path.exists(os.path.join(ROOT, 'sitemap-blog.xml')): os.remove(os.path.join(ROOT, 'sitemap-blog.xml'))
-    print(f'articles: {len(posts)} posts, {len(urls)} pages')
+    say.write_allow(TTS)
+    print(f'articles: {len(posts)} posts, {len(urls)} pages, {len(TTS)} TTS texts')
 
 def home_slots(d, mine, en):
     u = URL[d]
