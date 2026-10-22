@@ -21,7 +21,8 @@ body.pg{margin:0;background:var(--paper);color:var(--ink);font:16px/1.65 var(--b
 .pgbrand{display:inline-flex;align-items:center;gap:10px;text-decoration:none;font-family:var(--display);font-weight:800;font-size:20px;letter-spacing:-.02em;white-space:nowrap}
 body.pg[data-g="ko"] .pgbrand,body.pg[data-g="ja"] .pgbrand{font-family:var(--body);font-weight:700;letter-spacing:-.03em}
 .pgbrand .logo{width:34px;height:34px;flex:none}
-.pgnav{display:flex;gap:2px;flex:1;min-width:0}
+.pgnav{display:flex;gap:2px;flex:1;min-width:0;overflow-x:auto;scrollbar-width:none}
+.pgnav::-webkit-scrollbar{display:none}
 .pgnav a{padding:8px 12px;border-radius:10px;text-decoration:none;font-weight:700;font-size:15.5px;white-space:nowrap}
 .pgnav a:hover{background:var(--soft)}
 .pgnav a[aria-current]{background:var(--black);color:#fff}
