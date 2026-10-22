@@ -324,7 +324,8 @@ def home(g, d, arts, posts=None):
 </section>
 <section class="pgw life"><header class="sh"><h2>{E(s["life"])}<span class="pchip">📅 {E(s["daily"])}</span></h2><p>{E(s["life_p"])}</p>{f'<a href="{url(g, "life/")}">{E(s["more"])}</a>' if len(arts) > 6 else ""}</header>{art_grid(g, arts, 6)}</section>
 <section class="feat"><div class="pgw"><h2>{E(s["feat"])}</h2><ul class="fl">{feats}</ul>
-<div class="fcta"><a class="btn red" href="{WEBAPP[g]}">{E(s["try_"])}</a><span class="soon">{E(s["soon"])}</span></div></div></section>'''
+<div class="fcta"><a class="btn red" href="{WEBAPP[g]}">{E(s["try_"])}</a><span class="soon">{E(s["soon"])}</span></div></div></section>
+<section class="pgw post privacy hpriv" id="privacy"><div class="prose">{__import__("privacy_text").pg_body(g, "h2")}</div></section>'''
     ld = ('<script type="application/ld+json">' + json.dumps({'@context': 'https://schema.org', '@type': 'MobileApplication', 'name': PG_NAME[g],
           'operatingSystem': 'iOS', 'applicationCategory': 'EducationalApplication', 'inLanguage': HL[g], 'description': s['hdesc'],
           'offers': {'@type': 'Offer', 'price': '0', 'priceCurrency': 'USD'}}, ensure_ascii=False) + '</script>')
@@ -504,8 +505,8 @@ def word_posts(g, posts, d):
 PRIV_T = {'ko': '개인정보처리방침', 'en': 'Privacy', 'ja': 'プライバシー'}
 def privacy_page(g):
     import privacy_text as P
-    body = f'<article class="pgw post privacy"><div class="prose">{P.body(g)}</div></article>'
-    write(f'{g + "/" if g != "ko" else ""}privacy/index.html', page(g, 'privacy/', f'{P.TITLE[g]} | {PG_NAME[g]}', P.TITLE[g], body))
+    body = f'<article class="pgw post privacy"><div class="prose">{P.pg_body(g)}</div></article>'
+    write(f'{g + "/" if g != "ko" else ""}privacy/index.html', page(g, 'privacy/', f'{P.PG_TITLE[g]} | {PG_NAME[g]}', P.PG_TITLE[g], body))
 
 def assets():
     global CSSV, JSV

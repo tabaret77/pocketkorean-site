@@ -82,3 +82,22 @@ OTHER = {'en': '<p class="lead"><a href="/german/privacy/" lang="ko">한국어</
 
 def body(g):
     return BODY[g].replace('{upd}', UPDATED[g])
+
+# Pocket German only (used on /german/ pages: home section + /german/privacy/)
+PG_TITLE = {'en': 'Pocket German privacy policy', 'ko': '포켓독일어 개인정보처리방침', 'ja': 'ポケットドイツ語 プライバシーポリシー'}
+PG_INTRO = {
+'en': '<p>This policy covers <b>Pocket German</b>: the Pocket German app for iPhone and iPad (and Android, when available), the Pocket German web app and the Pocket German pages at pocketkorean.com/german/. Pocket German is made by the team behind Pocket Korean and is built to work without collecting personal data.</p>',
+'ko': '<p>이 방침은 <b>포켓독일어(Pocket German)</b>에 적용돼요. 대상은 iPhone·iPad용 포켓독일어 앱(Android 앱이 나오면 Android 포함), 포켓독일어 웹 앱, 그리고 pocketkorean.com/german/의 포켓독일어 페이지예요. 포켓독일어는 Pocket Korean 팀이 만들었고, 개인정보를 수집하지 않고도 쓸 수 있게 만들었어요.</p>',
+'ja': '<p>このポリシーは<b>ポケットドイツ語（Pocket German）</b>に適用されます。対象は iPhone・iPad 向けポケットドイツ語アプリ（Android 版の提供後は Android を含む）、ポケットドイツ語のウェブアプリ、pocketkorean.com/german/ のポケットドイツ語のページです。ポケットドイツ語は Pocket Korean のチームが制作しており、個人情報を集めずに使えるように作られています。</p>',
+}
+
+def pg_body(g, h='h1'):
+    import re
+    b = body(g)
+    b = re.sub(r'<h1>.*?</h1>', f'<{h}>{PG_TITLE[g]}</{h}>', b, count=1)
+    b = re.sub(r'(<p class="lead">.*?</p>\s*)<p>.*?</p>', lambda m: m.group(1) + PG_INTRO[g], b, count=1, flags=re.S)
+    if h == 'h2':   # inside the home page: section headings one level down
+        b = b.replace('<h2>', '<h3>').replace('</h2>', '</h3>').replace(f'<h3>{PG_TITLE[g]}</h3>', f'<h2>{PG_TITLE[g]}</h2>')
+    if g != 'en':
+        b = b.replace('</p>', '</p><p class="lead"><a href="/german/en/privacy/" lang="en">English version: Pocket German privacy policy</a></p>', 1)
+    return b.replace('Our services are', 'Pocket German is').replace('저희 서비스는', '포켓독일어는').replace('本サービスは', 'ポケットドイツ語は')

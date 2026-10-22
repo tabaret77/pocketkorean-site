@@ -366,3 +366,6 @@ body:has(.feat) .pgfoot{margin-top:72px}
 
 /* privacy */
 .privacy .prose h1{font-size:clamp(28px,4vw,40px);margin:0 0 4px}.privacy .prose .lead{color:var(--muted);font-size:15px;margin:0 0 12px}.privacy .prose h2{font-size:21px;margin:30px 0 8px}
+.privacy .prose h3{font-size:19px;margin:26px 0 6px}
+.hpriv{padding-top:48px}.hpriv .prose{font-size:16px;line-height:1.75}.hpriv .prose h2{font-size:clamp(24px,3vw,30px);margin:0 0 4px}
+body:has(.hpriv) .pgfoot{margin-top:56px}
