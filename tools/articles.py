@@ -20,7 +20,7 @@ Writes: /{lang}/{section}/, /{lang}/{section}/{category}/, /{lang}/{section}/{sl
 sitemap-articles.xml and _redirects (old /blog/ URLs).
 """
 import os
-import say, re, sys, glob, json, shutil, datetime
+import say, indexnow, re, sys, glob, json, shutil, datetime
 sys.path.insert(0, os.path.dirname(__file__))
 import yaml, markdown
 from layout import LANGS, URL, BY_URL, BASE, APP, E, T, page, cta_box, phead, L, SECTIONS, SEC, CATS, ICON, rimg
@@ -172,7 +172,7 @@ def build():
                          f'<a class="lesson" href="{L(d, "level-test/")}"><b>{T("lt_cta", d)}</b><span></span><span>{T("q_level_d", d)}</span></a></div>')
             body = phead(d, T(key, d), T(key, d), T(key + '_p', d), col, chips(d, sec), key=sec) + f'<div class="wrap" style="padding-top:36px;padding-bottom:64px">{listing(secposts)}{extra}</div>'
             write(f'/{u}/{sec}/', page(d, f'{sec}/', f'{T(key, d)} | Pocket Korean', T(key + '_p', d), body, wide=True, cur=sec))
-            urls.append(f'{BASE}/{u}/{sec}/')
+            urls.append((f'{BASE}/{u}/{sec}/', max((q['date'] for q in secposts), default='')))
             for c, ck in cats:
                 cp = [p for p in secposts if p['cat'] == c]
                 crumbs = f'<p class="crumbs"><a href="{L(d, sec + "/")}">{T(key, d)}</a></p>'
@@ -182,7 +182,7 @@ def build():
                           + ''.join(f'<a class="lesson" href="{L(d, "grammar/")}#t{n}"><b>TOPIK {n}</b><span></span><span>{LVN(d, n)}</span></a>' for n in range(1, 7)) + '</div>')
                 body = phead(d, T(key, d), T(ck, d), T(key + '_p', d), col, chips(d, sec, c), crumbs, key=sec) + f'<div class="wrap" style="padding-top:36px;padding-bottom:64px">{gx}{listing(cp, c)}</div>'
                 write(f'/{u}/{sec}/{c}/', page(d, f'{sec}/{c}/', f'{T(ck, d)} – {T(key, d)} | Pocket Korean', T(key + '_p', d), body, wide=True, cur=sec))
-                urls.append(f'{BASE}/{u}/{sec}/{c}/')
+                urls.append((f'{BASE}/{u}/{sec}/{c}/', max((q['date'] for q in cp), default='')))
         for p in mine:
             key, col = SEC[p['sec']][1], SEC[p['sec']][2]
             cover = (rimg(p['cover'], '(max-width:760px) 94vw, 720px', cls='cover', eager=True) + (f'<p class="credit">{E(p["credit"])}</p>' if p['credit'] else '')) if p['cover'] else ''
@@ -200,13 +200,14 @@ def build():
             img = (BASE + p['cover']) if p['cover'].startswith('/') else (p['cover'] or None)
             write(url(p), page(d, f'{p["sec"]}/{p["slug"]}/', f'{p["title"]} | Pocket Korean', p['desc'], body, alts=full(p),
                                canonical=canon, image=img, og_type='article', wide=True, cur=p['sec']))
-            urls.append(canon)
+            urls.append((canon, p['date']))
             if p['legacy']: redirects.append(f'/{u}/blog/{p["slug"]}/ {url(p)} 301')
         redirects.append(f'/{u}/blog/ /{u}/learn/ 301')
         redirects.append(f'/{u}/blog/* /{u}/learn/ 301')
         home_slots(d, mine or [], en)
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-    sm += [f'<url><loc>{x}</loc></url>' for x in urls] + ['</urlset>']
+    sm += [f'<url><loc>{x}</loc>' + (f'<lastmod>{dt}</lastmod>' if dt else '') + '</url>' for x, dt in urls] + ['</urlset>']
+    indexnow.write_key()
     open(os.path.join(ROOT, 'sitemap-articles.xml'), 'w', encoding='utf-8').write('\n'.join(sm))
     open(os.path.join(ROOT, '_redirects'), 'w').write('\n'.join(redirects) + '\n')
     if os.path.exists(os.path.join(ROOT, 'sitemap-blog.xml')): os.remove(os.path.join(ROOT, 'sitemap-blog.xml'))
