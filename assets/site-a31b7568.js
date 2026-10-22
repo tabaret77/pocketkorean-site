@@ -14,6 +14,15 @@
     document.addEventListener('click', function (e) { if (hdr.classList.contains('open') && !e.target.closest('#mega')) set(false); });
   }
 
+  /* ---- desktop dropdowns: Escape closes, a click on a link closes ---- */
+  var nm = $('nav.main');
+  if (nm) {
+    var hush = function () { nm.classList.add('hush'); if (document.activeElement && nm.contains(document.activeElement)) document.activeElement.blur(); };
+    nm.addEventListener('mouseleave', function () { nm.classList.remove('hush'); });
+    [].forEach.call(nm.querySelectorAll('.ni'), function (n) { n.addEventListener('mouseenter', function () { nm.classList.remove('hush'); }); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') hush(); });
+  }
+
   /* ---- audio: plays a slice of an app audio pack (HTTP range request) ---- */
   var ctx = null, cur = null;
   function play(a, which, btn) {  // a = [pack, wordOff, wordLen, exOff, exLen]
