@@ -218,7 +218,7 @@ def page(g, rel, title, desc, body, cur=None, alts=True):
 <main id="main">{body}</main>
 <footer class="pgfoot"><div class="pgw"><div class="pgfb"><a class="pgbrand" href="{url(g)}">{PG_LOGO}<span>{PG_MARK[g]}</span></a><p>{E(s["foot"])}</p></div>
 <nav>{"".join(f'<a href="{url(g, p)}">{E(t)}</a>' for p, t in PG_MENU[g])}</nav>
-<p class="pgcopy">© 2026 {E(PG_NAME[g])} · <a href="{pk}">Pocket Korean</a> · <a href="/privacy/">Privacy</a></p></div></footer>
+<p class="pgcopy">© 2026 {E(PG_NAME[g])} · <a href="{pk}">Pocket Korean</a> · <a href="{url(g, 'privacy/')}">{E(PRIV_T[g])}</a></p></div></footer>
 <script src="/german/assets/pg-{JSV}.js" defer></script></body></html>'''
 
 # ---------- blocks ----------
@@ -501,6 +501,12 @@ def word_posts(g, posts, d):
     body = phead(g, ps['all'], ps['all_p']) + f'<section class="pgw life">{grid}</section>'
     write(f'{g + "/" if g != "ko" else ""}words/index.html', page(g, 'words/', f'{ps["all"]} | {PG_NAME[g]}', ps['all_p'], body, cur='today/'))
 
+PRIV_T = {'ko': '개인정보처리방침', 'en': 'Privacy', 'ja': 'プライバシー'}
+def privacy_page(g):
+    import privacy_text as P
+    body = f'<article class="pgw post privacy"><div class="prose">{P.body(g)}</div></article>'
+    write(f'{g + "/" if g != "ko" else ""}privacy/index.html', page(g, 'privacy/', f'{P.TITLE[g]} | {PG_NAME[g]}', P.TITLE[g], body))
+
 def assets():
     global CSSV, JSV
     write('assets/pg.css', CSS); write('assets/pg.js', JS)
@@ -513,7 +519,7 @@ def assets():
 def sitemap():
     urls = []
     for g in GL:
-        for p in ['', 'dictionary/', 'today/', 'life/']:
+        for p in ['', 'dictionary/', 'today/', 'life/', 'privacy/']:
             urls.append(f'{BASE}{url(g, p)}')
         urls += [f'{BASE}{url(g, "words/")}'] + [f'{BASE}{url(g, "words/" + k + "/")}' for k in load_posts()]
         urls += [f'{BASE}{url(g, "life/" + a["slug"] + "/")}' for a in load_articles(g)]
@@ -533,7 +539,7 @@ def main():
     posts = load_posts()
     for g in GL:
         arts = load_articles(g)
-        home(g, d, arts, posts); dictionary(g); today_page(g, d, posts); life(g, arts); word_posts(g, posts, d)
+        home(g, d, arts, posts); dictionary(g); today_page(g, d, posts); life(g, arts); word_posts(g, posts, d); privacy_page(g)
     sitemap()
     texts = sorted(german_say.TEXTS)
     jdump('data/tts.json', sorted({german_say.h16(t) for t in texts}))

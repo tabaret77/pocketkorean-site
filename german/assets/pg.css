@@ -363,3 +363,6 @@ body:has(.feat) .pgfoot{margin-top:72px}
 .acard.txt b{font-size:21px;line-height:1.35}
 .aheads{margin:4px 0 0;padding-left:1.1em;display:grid;gap:5px;color:var(--ink);font-size:15.5px;line-height:1.45}
 .aheads li::marker{color:#3D7DD8}
+
+/* privacy */
+.privacy .prose h1{font-size:clamp(28px,4vw,40px);margin:0 0 4px}.privacy .prose .lead{color:var(--muted);font-size:15px;margin:0 0 12px}.privacy .prose h2{font-size:21px;margin:30px 0 8px}
