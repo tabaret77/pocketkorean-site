@@ -1,0 +1,84 @@
+{
+  "key": "foodidioms",
+  "ko": {
+    "title": "맥주, 소시지, 겨자까지! 맛있는 독일어 관용구 10",
+    "hook": "독일 사람이 ‘그건 내 맥주가 아니야’라고 하면, 맥주 이야기가 아니에요.",
+    "intro": [
+      "회사에서 동료에게 뭘 물어봤더니 ‘Das ist nicht mein Bier’라고 하더라고요. 맥주? 지금 회의 중인데? 알고 보니 ‘그건 내 담당이 아니야’라는 뜻이었어요.",
+      "오늘은 음식이 들어간 독일어 관용구 10개예요. 이 10개면 독일 친구들의 농담을 알아듣고, 대화 중에 센스 있게 한마디 던질 수도 있어요. 맛있게 외워 봐요! 🥨"
+    ],
+    "words": {
+      "C2-392": {"pron": "다스 이스트 니히트 마인 비어", "tip": "내 맥주가 아니면 손 안 대죠 🍺 내 일이 아니면 신경 끄기!", "warn": "친한 사이에서 쓰는 구어예요. 상사나 손님 앞에서는 피해요."},
+      "C2-398": {"pron": "알레스 인 부터", "tip": "깨지기 쉬운 유리도 버터 속에선 안전 🧈 그러니까 다 괜찮아!", "bonus": "Wie läuft's? – Alles in Butter! = 요즘 어때? – 다 잘되고 있어!"},
+      "C2-3151": {"pron": "예만뎀 부르스트 자인", "tip": "소시지는 양쪽 끝이 똑같아서 어느 쪽이든 상관없어요 🌭", "warn": "사람은 3격: Das ist mir wurst. · 여기서 wurst는 소문자예요.", "bonus": "남부·오스트리아에선 Das ist mir wurscht!"},
+      "C2-383": {"pron": "움 덴 하이센 브라이 헤룸레덴", "tip": "뜨거운 죽(Brei) 주위만 빙빙 도는 고양이 🥣 먹고는 싶은데 뜨거워서!", "warn": "herumreden은 분리동사: Red nicht um den heißen Brei herum!"},
+      "C2-3047": {"pron": "자이넨 젠프 다추게벤", "tip": "무슨 음식에나 겨자(Senf)를 얹듯, 무슨 얘기에나 한마디씩 🥨", "warn": "주어에 따라 바뀌어요: Ich gebe meinen Senf dazu. / Er gibt seinen Senf dazu."},
+      "C2-577": {"pron": "앞펠 밋 비르넨 페어글라이헨", "tip": "사과랑 배는 비교가 안 돼요 🍐 영어는 apples and oranges!", "bonus": "Das ist doch Äpfel mit Birnen! = 그건 비교 대상이 아니잖아!"},
+      "C2-576": {"pron": "인 덴 자우렌 아펠 바이센", "tip": "신 사과를 꾹 참고 깨물기 🍏 우리말 ‘울며 겨자 먹기’랑 꼭 닮았죠?", "bonus": "완료형: Ich habe in den sauren Apfel gebissen."},
+      "C2-143": {"pron": "토마텐 아우프 덴 아우겐 하벤", "tip": "눈 위에 토마토를 올려놨으니 보일 리가 없죠 🍅", "bonus": "Hast du Tomaten auf den Augen? = 눈은 어디 두고 다녀?"},
+      "C2-3154": {"pron": "아이네 하르테 누스 추 크나켄 하벤", "tip": "딱딱한 호두를 깨야 하는 상황 🌰 영어 a tough nut to crack과 똑같아요.", "warn": "knacken의 k도 발음해요: ‘크나켄’!", "bonus": "줄여서 Das ist eine harte Nuss. = 그거 어려운 문제네."},
+      "C2-784": {"pron": "벡게엔 비 바르메 젬멜른", "tip": "갓 구운 따끈한 빵은 금방 사라지죠 🥖 = 불티나게 팔리다", "warn": "weggehen은 분리동사: Die Karten gehen weg wie warme Semmeln.", "bonus": "Semmel은 남부식, 북부에선 Brötchen이라고 해요."}
+    },
+    "culture": [
+      "독일에서 작은 빵 하나도 지역마다 이름이 달라요. 북부에서는 Brötchen, 바이에른과 오스트리아에서는 Semmel, 베를린에서는 Schrippe라고 부르는 경우가 많아요. 빵집에서 그 동네 이름으로 주문하면 바로 현지인 느낌!",
+      "소시지(Wurst)는 관용구에도 자주 나와요. 중요한 결전의 순간에는 ‘Jetzt geht es um die Wurst!’(이제 진짜 승부야!)라고 해요. 옛날 시골 대회 상품이 소시지였다는 이야기가 있어요.",
+      "이런 관용구는 대부분 친구나 동료끼리 쓰는 가벼운 말이에요. 공식 이메일보다는 수다 떨 때 쓰는 게 자연스러워요. 🌭"
+    ],
+    "quiz": {"q": "친구가 ‘피자 먹을래, 스시 먹을래?’ 하고 물어요. 둘 다 좋아서 아무거나 괜찮다면?", "o": ["Ich habe Tomaten auf den Augen.", "Das ist mir wurst.", "Das geht weg wie warme Semmeln."], "a": 1, "why": "Das ist mir wurst. = 난 아무래도 상관없어. 어느 쪽이든 좋다는 뜻이에요."},
+    "outro": "오늘 관용구 중 하나를 골라 오늘 있었던 일에 붙여서 말해 봐요. 예를 들어 오늘 하루가 무사했다면, Alles in Butter! 🧈"
+  },
+  "en": {
+    "title": "Beer, sausage and mustard: 10 tasty German food idioms",
+    "hook": "When a German says ‘that's not my beer’, they aren't talking about beer at all.",
+    "intro": [
+      "You ask a colleague something at work and they reply ‘Das ist nicht mein Bier.’ Beer? In the middle of a meeting? It turns out they meant ‘that's not my department’.",
+      "Today's ten idioms all involve food. With them you'll get your German friends' jokes and maybe slip in a witty line of your own. Enjoy! 🥨"
+    ],
+    "words": {
+      "C2-392": {"pron": "dahs ist nikht mine BEER", "tip": "If it isn't your beer, you don't touch it 🍺 Not my business!", "warn": "Very casual. Avoid it with your boss or customers."},
+      "C2-398": {"pron": "AL-es in BOO-ter", "tip": "Even fragile glass is safe packed in butter 🧈 So everything's fine!", "bonus": "Wie läuft's? – Alles in Butter! = How's it going? – All good!"},
+      "C2-3151": {"pron": "YAY-man-dem VOORST zine", "tip": "A sausage has two identical ends, so it doesn't matter which you pick 🌭", "warn": "The person is dative: Das ist mir wurst. Here wurst is written lower case.", "bonus": "In the south and Austria: Das ist mir wurscht!"},
+      "C2-383": {"pron": "oom dayn HY-sen BRY hair-OOM-ray-den", "tip": "A cat circling hot porridge (Brei): wants it, but it's too hot 🥣 Germans beat around the porridge, not the bush.", "warn": "herumreden is separable: Red nicht um den heißen Brei herum!"},
+      "C2-3047": {"pron": "ZINE-en ZENF da-TSOO-gay-ben", "tip": "Like putting mustard (Senf) on every dish — and a comment on every topic 🥨", "warn": "The possessive changes: Ich gebe meinen Senf dazu. / Er gibt seinen Senf dazu."},
+      "C2-577": {"pron": "EP-fel mit BEER-nen fair-GLY-khen", "tip": "Germans compare apples with pears, not oranges 🍐", "bonus": "Das ist doch Äpfel mit Birnen! = You can't compare those!"},
+      "C2-576": {"pron": "in dayn ZOW-ren AP-fel BY-sen", "tip": "Bite into the sour apple and grit your teeth 🍏 English bites a bullet instead.", "bonus": "Perfect: Ich habe in den sauren Apfel gebissen."},
+      "C2-143": {"pron": "to-MAH-ten owf dayn OW-gen HAH-ben", "tip": "With tomatoes on your eyes, of course you can't see anything 🍅", "bonus": "Hast du Tomaten auf den Augen? = Are you blind?"},
+      "C2-3154": {"pron": "INE-uh HAR-tuh NOOS tsoo KNAK-en HAH-ben", "tip": "A hard nut to crack, just like in English 🌰", "warn": "Say the k in knacken: K-NAK-en!", "bonus": "Short version: Das ist eine harte Nuss. = That's a tough one."},
+      "C2-784": {"pron": "VEK-gay-en vee VAR-muh ZEM-eln", "tip": "Warm, fresh rolls vanish fast 🥖 English sells hot cakes instead.", "warn": "weggehen is separable: Die Karten gehen weg wie warme Semmeln.", "bonus": "Semmel is the southern word; in the north it's Brötchen."}
+    },
+    "culture": [
+      "Even a simple bread roll has different names around Germany. It's often Brötchen in the north, Semmel in Bavaria and Austria, and Schrippe in Berlin. Order with the local word and you'll sound like you belong!",
+      "Sausage (Wurst) turns up in idioms a lot. When it's make-or-break time, Germans say ‘Jetzt geht es um die Wurst!’ (now it really counts). One story says sausages were once the prize at village contests.",
+      "Most of these idioms are casual, for chatting with friends or colleagues. They sound more natural in conversation than in a formal email. 🌭"
+    ],
+    "quiz": {"q": "Your friend asks, ‘Pizza or sushi?’ You like both and really don't mind. What do you say?", "o": ["Ich habe Tomaten auf den Augen.", "Das ist mir wurst.", "Das geht weg wie warme Semmeln."], "a": 1, "why": "Das ist mir wurst means I don't mind — either is fine."},
+    "outro": "Pick one of today's idioms and use it out loud about something that happened today. If your day went smoothly: Alles in Butter! 🧈"
+  },
+  "ja": {
+    "title": "ビールにソーセージにからしまで！おいしいドイツ語慣用句10",
+    "hook": "ドイツ人が「それは私のビールじゃない」と言っても、ビールの話ではありません。",
+    "intro": [
+      "職場で同僚に質問したら「Das ist nicht mein Bier.」と返されました。ビール？会議中なのに？実は「それは私の担当じゃない」という意味だったんです。",
+      "今日は食べ物が出てくるドイツ語の慣用句を10個集めました。これでドイツ人の友だちの冗談がわかり、会話の中で気の利いたひとことも言えるようになります。おいしく覚えましょう！🥨"
+    ],
+    "words": {
+      "C2-392": {"pron": "ダス イスト ニヒト マイン ビーア", "tip": "自分のビールじゃなければ手を出さない 🍺 自分の担当じゃないなら知らない！", "warn": "親しい間柄で使う口語です。上司やお客さんの前では避けましょう。"},
+      "C2-398": {"pron": "アレス イン ブッター", "tip": "割れやすいガラスもバターの中なら安全 🧈 だから万事OK！", "bonus": "Wie läuft's? – Alles in Butter! = 調子はどう？ – 万事順調だよ！"},
+      "C2-3151": {"pron": "イェーマンデム ヴルスト ザイン", "tip": "ソーセージは両端が同じだから、どっちでもいい 🌭", "warn": "人は3格：Das ist mir wurst.・ここでの wurst は小文字です。", "bonus": "南ドイツ・オーストリアでは Das ist mir wurscht!"},
+      "C2-383": {"pron": "ウム デン ハイセン ブライ ヘルムレーデン", "tip": "熱いおかゆ（Brei）の周りをぐるぐる回る猫 🥣 食べたいけど熱くて近づけない！", "warn": "herumreden は分離動詞：Red nicht um den heißen Brei herum!"},
+      "C2-3047": {"pron": "ザイネン ゼンフ ダツーゲーベン", "tip": "どんな料理にもからし（Senf）を添えるように、どんな話にもひとこと 🥨", "warn": "主語に合わせて変わります：Ich gebe meinen Senf dazu. / Er gibt seinen Senf dazu."},
+      "C2-577": {"pron": "エプフェル ミット ビルネン フェアグライヒェン", "tip": "リンゴと洋ナシは比べられません 🍐 英語ではリンゴとオレンジ！", "bonus": "Das ist doch Äpfel mit Birnen! = それは比べるものが違うよ！"},
+      "C2-576": {"pron": "イン デン ザウレン アプフェル バイセン", "tip": "酸っぱいリンゴをぐっとこらえてかじる 🍏 しぶしぶやるしかないときに。", "bonus": "完了形：Ich habe in den sauren Apfel gebissen."},
+      "C2-143": {"pron": "トマーテン アウフ デン アウゲン ハーベン", "tip": "目の上にトマトを載せていたら、見えるわけがない 🍅", "bonus": "Hast du Tomaten auf den Augen? = 目はどこについてるの？"},
+      "C2-3154": {"pron": "アイネ ハルテ ヌス ツー クナッケン ハーベン", "tip": "硬いクルミを割らなきゃいけない状況 🌰 英語の a tough nut to crack と同じです。", "warn": "knacken の k も発音します：「クナッケン」！", "bonus": "短く Das ist eine harte Nuss. = それは難問だね。"},
+      "C2-784": {"pron": "ヴェックゲーエン ヴィー ヴァルメ ゼメルン", "tip": "焼きたての温かいパンはすぐになくなる 🥖 = 飛ぶように売れる", "warn": "weggehen は分離動詞：Die Karten gehen weg wie warme Semmeln.", "bonus": "Semmel は南の言い方。北では Brötchen と言います。"}
+    },
+    "culture": [
+      "ドイツでは小さな丸パンひとつでも地域によって呼び名が違います。北では Brötchen、バイエルンやオーストリアでは Semmel、ベルリンでは Schrippe と呼ぶことが多いです。パン屋さんでその土地の言い方で注文すれば、すっかり地元の人気分！",
+      "ソーセージ（Wurst）は慣用句にもよく登場します。勝負どころでは「Jetzt geht es um die Wurst!」（いよいよ正念場だ！）と言います。昔、村の競技会の賞品がソーセージだったからという話もあります。",
+      "こうした慣用句の多くは、友だちや同僚同士で使うくだけた表現です。改まったメールより、おしゃべりの中で使うほうが自然です。🌭"
+    ],
+    "quiz": {"q": "友だちに「ピザにする？お寿司にする？」と聞かれました。どちらも好きで、どっちでもいいなら？", "o": ["Ich habe Tomaten auf den Augen.", "Das ist mir wurst.", "Das geht weg wie warme Semmeln."], "a": 1, "why": "Das ist mir wurst. は「どっちでもいいよ」という意味です。"},
+    "outro": "今日の慣用句をひとつ選んで、今日あったことに当てはめて声に出してみましょう。今日が無事に終わったなら、Alles in Butter！🧈"
+  }
+}

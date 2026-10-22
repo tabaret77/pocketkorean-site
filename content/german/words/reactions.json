@@ -17,7 +17,7 @@
       "A2-1043": {"pron": "와우", "tip": "영어 그대로 빌려 왔어요 🤩 독일식으로는 Wahnsinn! (대박!)도 함께!", "bonus": "젊은 사람들은 krass! (쩐다!)도 자주 써요."},
       "B1-2138": {"pron": "오예", "tip": "‘오예~’ 신나는 소리 같지만 사실은 ‘아이고!’ 😩 반대 뜻이니 조심!", "bonus": "더 극적으로: Ach du meine Güte! = 어머나 세상에!"},
       "A2-921": {"pron": "나야", "tip": "na(글쎄) + ja(응) = ‘음… 뭐 그럭저럭’ 🤷 망설임이 다 들어 있어요.", "bonus": "naja 또는 na ja, 둘 다 써요."},
-      "B1-1894": {"pron": "카이네 아눙", "tip": "Ahnung(짐작)이 kein(없음) = 1도 모르겠어 🤷‍♀️ 어깨 으쓱하며 말하기!", "warn": "친구 사이 표현이에요. 정중하게는 Das weiß ich leider nicht."}
+      "B1-1894": {"pron": "카이네 아눙", "tip": "Ahnung(짐작)이 kein(없음) = 1도 모르겠어 🤷 어깨 으쓱하며 말하기!", "warn": "친구 사이 표현이에요. 정중하게는 Das weiß ich leider nicht."}
     },
     "culture": [
       "독일 사람과 대화하다 보면 ‘Genau’가 정말 자주 들려요. 맞장구로도 쓰고, 말을 정리할 때 ‘Genau, also…’처럼 습관처럼 넣기도 해요. 처음엔 웃기지만, 어느새 나도 따라 하게 돼요.",
@@ -44,7 +44,7 @@
       "A2-1043": {"pron": "WOW", "tip": "Borrowed straight from English 🤩 The German-flavoured version: Wahnsinn! (Insane!)", "bonus": "Younger people also say krass! (wild!)"},
       "B1-2138": {"pron": "oh-YAY", "tip": "Sounds like ‘oh yay!’ but means ‘oh dear!’ 😩 Don't mix them up!", "bonus": "More dramatic: Ach du meine Güte! = Oh my goodness!"},
       "A2-921": {"pron": "na-YA", "tip": "na (well) + ja (yes) = ‘weeell… yes, sort of’ 🤷 All the hesitation in one word.", "bonus": "You'll see it written naja or na ja."},
-      "B1-1894": {"pron": "KY-nuh AH-noong", "tip": "No Ahnung (inkling) at all = no idea 🤷‍♀️ Shrug while you say it!", "warn": "It's casual. To be polite: Das weiß ich leider nicht."}
+      "B1-1894": {"pron": "KY-nuh AH-noong", "tip": "No Ahnung (inkling) at all = no idea 🤷 Shrug while you say it!", "warn": "It's casual. To be polite: Das weiß ich leider nicht."}
     },
     "culture": [
       "Talk to Germans for a while and you'll hear Genau everywhere. It's a reaction, but people also use it as a filler when wrapping up a thought: ‘Genau, also…’. It sounds funny at first — then you catch yourself doing it.",
@@ -71,7 +71,7 @@
       "A2-1043": {"pron": "ワオ", "tip": "英語からそのまま借りた言葉 🤩 ドイツっぽく言うなら Wahnsinn!（ヤバい！）", "bonus": "若い人は krass!（すげー！）もよく使います。"},
       "B1-2138": {"pron": "オイェ", "tip": "「オーイエー！」と喜んでいるようで、実は「あらら…」😩 意味は逆なので要注意！", "bonus": "もっと大げさに：Ach du meine Güte! =「まあ、なんてこと！」"},
       "A2-921": {"pron": "ナヤ", "tip": "na（さて）+ ja（うん）=「うーん、まあね」🤷 ためらいがぜんぶ詰まっています。", "bonus": "naja とも na ja とも書きます。"},
-      "B1-1894": {"pron": "カイネ アーヌング", "tip": "Ahnung（見当）が kein（ない）= さっぱりわからない 🤷‍♀️ 肩をすくめながらどうぞ！", "warn": "くだけた表現です。丁寧には Das weiß ich leider nicht."}
+      "B1-1894": {"pron": "カイネ アーヌング", "tip": "Ahnung（見当）が kein（ない）= さっぱりわからない 🤷 肩をすくめながらどうぞ！", "warn": "くだけた表現です。丁寧には Das weiß ich leider nicht."}
     },
     "culture": [
       "ドイツ人と話していると、Genau が本当によく聞こえてきます。あいづちとしてだけでなく、話をまとめるときに「Genau, also…」と口ぐせのように入れる人も。最初はおかしく感じても、いつの間にか自分もまねしています。",

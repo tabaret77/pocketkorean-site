@@ -1,0 +1,84 @@
+{
+  "key": "sepverb1",
+  "ko": {
+    "title": "앞머리가 문장 끝으로 도망가는 분리동사 10",
+    "hook": "독일어 문장은 끝까지 들어야 한다는 말, 분리동사 때문이에요.",
+    "intro": [
+      "독일 친구가 ‘Ich rufe dich morgen…’ 하고 말을 멈추면, 전화를 한다는 건지 다른 걸 한다는 건지 끝까지 들어야 알 수 있어요. 마지막에 ‘…an’이 붙어야 비로소 ‘전화할게’가 되거든요.",
+      "오늘은 매일 쓰는 분리동사 10개예요. 이 10개면 하루 일과를 말하고, 친구를 초대하고, 기차 출발과 도착까지 독일어로 이야기할 수 있어요. 앞머리가 어디로 가는지 잘 봐요! 🔀"
+    ],
+    "words": {
+      "A1-074": {"pron": "안루펜", "tip": "an(~에게) + rufen(부르다) = 누군가에게 소리쳐 부르기 📞", "warn": "목적어는 4격이에요: Ich rufe dich an. (dir ✗)", "bonus": "전화해! = Ruf mich an!"},
+      "A1-072": {"pron": "아우프슈테엔", "tip": "auf(위로) + stehen(서다) = 위로 일어서기 ⏰ 영어 stand up이랑 똑같아요.", "warn": "완료형은 sein: Ich bin um sechs aufgestanden."},
+      "A1-073": {"pron": "아인카우펜", "tip": "ein(안으로) + kaufen(사다) = 장바구니 안으로 사 넣기 🛒", "bonus": "장 보러 가다 = einkaufen gehen · 카트는 der Einkaufswagen", "warn": "물건 하나를 ‘사다’는 kaufen: Ich kaufe ein Brot."},
+      "A1-338": {"pron": "안팡엔", "tip": "an + fangen(잡다) = 일을 탁 붙잡기 🏁", "warn": "du/er일 때 움라우트: Der Film fängt um acht an."},
+      "A1-339": {"pron": "아우프회렌", "tip": "hören(듣다)이 들어 있지만 듣기랑은 상관없어요 🛑 그만! = Hör auf!", "bonus": "~을 끊다: mit dem Rauchen aufhören = 담배를 끊다"},
+      "A1-326": {"pron": "밋코멘", "tip": "mit(함께) + kommen(오다) = 같이 가기 🙋 같이 갈래? = Kommst du mit?", "warn": "완료형은 sein: Sie ist mitgekommen."},
+      "A1-331": {"pron": "페른제엔", "tip": "fern(먼) + sehen(보다) = tele(먼) + vision(보기), 텔레비전을 그대로 번역했어요 📺", "bonus": "TV 기기는 der Fernseher", "warn": "모음도 바뀌어요: Er sieht abends fern."},
+      "A2-072": {"pron": "아인라덴", "tip": "ein(안으로) + laden(부르다) = 우리 집 안으로 불러들이기 💌", "warn": "du/er일 때 lädt: Sie lädt uns ein.", "bonus": "계산할 때 Ich lade dich ein! = 내가 살게!"},
+      "A2-163": {"pron": "안코멘", "tip": "an(~에) + kommen(오다) = 목적지에 와 닿기 🚉", "warn": "도착지는 in + 3격(nach ✗): in Berlin ankommen · 완료형은 sein", "bonus": "Das kommt darauf an. = 그건 상황에 따라 달라요."},
+      "A2-055": {"pron": "압파렌", "tip": "ab(떠나) + fahren(타고 가다) = 출발 🚌 역 안내판의 Abfahrt도 같은 가족!", "warn": "fährt ab · 완료형은 sein: Der Bus ist schon abgefahren."}
+    },
+    "culture": [
+      "작가 마크 트웨인은 독일어의 어려움을 놀리는 유명한 글에서 분리동사를 콕 집어 투덜거렸어요. 동사 앞머리가 문장 끝까지 한참 떨어져 있다고요. 그러니 헷갈려도 괜찮아요. 우리만 그런 게 아니에요!",
+      "독일 기차역 전광판에는 Abfahrt(출발)와 Ankunft(도착)가 따로 나와요. 오늘 배운 abfahren, ankommen이 그대로 명사가 된 거예요.",
+      "그리고 독일에서는 전화를 받을 때 ‘여보세요’ 대신 자기 성을 말하는 사람이 많아요. 누가 ‘Müller!’ 하고 받으면, 놀라지 말고 용건을 말하면 돼요. ☎️"
+    ],
+    "quiz": {"q": "‘나는 7시에 일어나요’를 바르게 말한 문장은?", "o": ["Ich aufstehe um sieben Uhr.", "Ich stehe um sieben auf Uhr.", "Ich stehe um sieben Uhr auf."], "a": 2, "why": "분리동사는 앞머리(auf)가 문장 맨 끝으로 가요."},
+    "outro": "오늘 하루를 분리동사로 말해 봐요. ‘Ich stehe um … auf, ich kaufe ein, ich sehe fern.’ 앞머리를 끝에 꼭 붙이면서요! 🔀"
+  },
+  "en": {
+    "title": "Separable verbs, part 1: 10 verbs that split in two",
+    "hook": "People say you have to wait for the end of a German sentence — separable verbs are why.",
+    "intro": [
+      "A German friend says ‘Ich rufe dich morgen…’ and pauses. Are they going to call you, or something else? You only know when the ‘…an’ arrives at the very end and turns it into ‘I'll call you’.",
+      "Today's ten separable verbs are ones you'll use every day. With them you can describe your daily routine, invite friends and talk about trains leaving and arriving. Watch where the front part goes! 🔀"
+    ],
+    "words": {
+      "A1-074": {"pron": "AN-roo-fen", "tip": "an (to) + rufen (to call) = calling out to someone 📞", "warn": "The person is accusative: Ich rufe dich an. (not dir)", "bonus": "Call me! = Ruf mich an!"},
+      "A1-072": {"pron": "OWF-shtay-en", "tip": "auf (up) + stehen (stand) = stand up ⏰ Exactly like English.", "warn": "The perfect uses sein: Ich bin um sechs aufgestanden."},
+      "A1-073": {"pron": "INE-kow-fen", "tip": "ein (in) + kaufen (buy) = buying things into your basket 🛒", "bonus": "to go shopping = einkaufen gehen · trolley = der Einkaufswagen", "warn": "To buy one specific thing, use kaufen: Ich kaufe ein Brot."},
+      "A1-338": {"pron": "AN-fang-en", "tip": "an + fangen (to catch) = grabbing hold of a task 🏁", "warn": "Umlaut for du/er: Der Film fängt um acht an."},
+      "A1-339": {"pron": "OWF-hur-en", "tip": "hören (to hear) is inside, but it has nothing to do with hearing 🛑 Stop it! = Hör auf!", "bonus": "to quit something: mit dem Rauchen aufhören = to stop smoking"},
+      "A1-326": {"pron": "MIT-kom-en", "tip": "mit (with) + kommen (come) = come along 🙋 Coming? = Kommst du mit?", "warn": "The perfect uses sein: Sie ist mitgekommen."},
+      "A1-331": {"pron": "FAIRN-zay-en", "tip": "fern (far) + sehen (see) = tele (far) + vision (seeing) — a word-for-word copy of television 📺", "bonus": "The TV set is der Fernseher.", "warn": "The vowel changes too: Er sieht abends fern."},
+      "A2-072": {"pron": "INE-lah-den", "tip": "ein (in) + laden (to summon) = calling someone into your home 💌", "warn": "du/er form is lädt: Sie lädt uns ein.", "bonus": "When the bill comes: Ich lade dich ein! = It's on me!"},
+      "A2-163": {"pron": "AN-kom-en", "tip": "an (at) + kommen (come) = come and reach your destination 🚉", "warn": "Use in + dative, not nach: in Berlin ankommen · the perfect uses sein", "bonus": "Das kommt darauf an. = It depends."},
+      "A2-055": {"pron": "AP-fah-ren", "tip": "ab (off) + fahren (go) = drive off 🚌 Abfahrt on station boards is family.", "warn": "fährt ab · the perfect uses sein: Der Bus ist schon abgefahren."}
+    },
+    "culture": [
+      "Mark Twain, in his famous essay poking fun at German, singled out separable verbs: the front part of the verb can end up a whole sentence away. So if they confuse you, you're in good company!",
+      "On German station boards, departures (Abfahrt) and arrivals (Ankunft) are shown separately — today's abfahren and ankommen turned into nouns.",
+      "Also, many Germans answer the phone by saying their surname instead of ‘hello’. If someone picks up with ‘Müller!’, don't be surprised — just say why you're calling. ☎️"
+    ],
+    "quiz": {"q": "Which sentence correctly says ‘I get up at seven o'clock’?", "o": ["Ich aufstehe um sieben Uhr.", "Ich stehe um sieben auf Uhr.", "Ich stehe um sieben Uhr auf."], "a": 2, "why": "With a separable verb, the front part (auf) goes to the very end of the sentence."},
+    "outro": "Describe your day with separable verbs: ‘Ich stehe um … auf, ich kaufe ein, ich sehe fern.’ Don't forget to send the front part to the end! 🔀"
+  },
+  "ja": {
+    "title": "前つづりが文末へ逃げていく分離動詞10",
+    "hook": "「ドイツ語は最後まで聞かないとわからない」と言われるのは、分離動詞のせいです。",
+    "intro": [
+      "ドイツ人の友だちが「Ich rufe dich morgen…」と言いかけて止まったら、電話するのか別のことなのか、最後まで聞かないとわかりません。最後に「…an」が来て、やっと「電話するね」になるんです。",
+      "今日は毎日使う分離動詞を10個集めました。これで一日の流れを話したり、友だちを誘ったり、電車の発車と到着についてもドイツ語で話せます。前つづりの行き先に注目しましょう！🔀"
+    ],
+    "words": {
+      "A1-074": {"pron": "アンルーフェン", "tip": "an（〜へ）+ rufen（呼ぶ）= 誰かに向かって呼びかける 📞", "warn": "目的語は4格です：Ich rufe dich an.（dir ではない）", "bonus": "電話してね！= Ruf mich an!"},
+      "A1-072": {"pron": "アウフシュテーエン", "tip": "auf（上へ）+ stehen（立つ）= 起き上がる ⏰ 英語の stand up と同じ発想です。", "warn": "完了形は sein：Ich bin um sechs aufgestanden."},
+      "A1-073": {"pron": "アインカウフェン", "tip": "ein（中へ）+ kaufen（買う）= 買い物かごの中へ買い入れる 🛒", "bonus": "買い物に行く = einkaufen gehen・ショッピングカートは der Einkaufswagen", "warn": "特定のものを「買う」なら kaufen：Ich kaufe ein Brot."},
+      "A1-338": {"pron": "アンファンゲン", "tip": "an + fangen（捕まえる）= 仕事をがしっとつかむ 🏁", "warn": "du/er でウムラウト：Der Film fängt um acht an."},
+      "A1-339": {"pron": "アウフヘーレン", "tip": "hören（聞く）が入っていますが、聞くこととは無関係 🛑 やめて！= Hör auf!", "bonus": "〜をやめる：mit dem Rauchen aufhören = たばこをやめる"},
+      "A1-326": {"pron": "ミットコメン", "tip": "mit（一緒に）+ kommen（来る）= 一緒に行く 🙋 一緒に来る？= Kommst du mit?", "warn": "完了形は sein：Sie ist mitgekommen."},
+      "A1-331": {"pron": "フェルンゼーエン", "tip": "fern（遠い）+ sehen（見る）= tele（遠く）+ vision（見ること）、テレビをそのまま訳した言葉 📺", "bonus": "テレビ（機械）は der Fernseher", "warn": "母音も変わります：Er sieht abends fern."},
+      "A2-072": {"pron": "アインラーデン", "tip": "ein（中へ）+ laden（呼ぶ）= 家の中へ呼び入れる 💌", "warn": "du/er では lädt：Sie lädt uns ein.", "bonus": "お会計のとき Ich lade dich ein! = ここは私が払うよ！"},
+      "A2-163": {"pron": "アンコメン", "tip": "an（〜に）+ kommen（来る）= 目的地にたどり着く 🚉", "warn": "到着地は in + 3格（nach ではない）：in Berlin ankommen・完了形は sein", "bonus": "Das kommt darauf an. = それは場合によります。"},
+      "A2-055": {"pron": "アップファーレン", "tip": "ab（離れて）+ fahren（乗って行く）= 出発 🚌 駅の Abfahrt も同じ仲間！", "warn": "fährt ab・完了形は sein：Der Bus ist schon abgefahren."}
+    },
+    "culture": [
+      "作家マーク・トウェインは、ドイツ語の難しさをからかった有名なエッセイで分離動詞をやり玉に挙げました。動詞の前半が文の最後まで遠く離れてしまう、と。だから混乱しても大丈夫。私たちだけではありません！",
+      "ドイツの駅の電光掲示板には Abfahrt（出発）と Ankunft（到着）が別々に表示されます。今日の abfahren と ankommen がそのまま名詞になったものです。",
+      "それから、ドイツでは電話に出るとき「もしもし」の代わりに自分の名字を名乗る人が多いです。「Müller!」と出られても驚かず、用件を言えば大丈夫です。☎️"
+    ],
+    "quiz": {"q": "「私は7時に起きます」を正しく言っている文はどれ？", "o": ["Ich aufstehe um sieben Uhr.", "Ich stehe um sieben auf Uhr.", "Ich stehe um sieben Uhr auf."], "a": 2, "why": "分離動詞は、前つづり（auf）が文のいちばん最後に来ます。"},
+    "outro": "今日一日を分離動詞で言ってみましょう。「Ich stehe um … auf, ich kaufe ein, ich sehe fern.」前つづりを最後にくっつけるのを忘れずに！🔀"
+  }
+}

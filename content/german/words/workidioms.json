@@ -1,0 +1,84 @@
+{
+  "key": "workidioms",
+  "ko": {
+    "title": "독일 사람처럼 말하는 일·공부 관용구 10",
+    "hook": "‘바빠요’, ‘미뤘어요’, ‘포기할래요’를 독일 사람처럼 말하면 대화가 확 살아나요.",
+    "intro": [
+      "회의가 끝나고 동료가 한숨을 쉬며 말해요. “Ich habe gerade so viel um die Ohren.” 귀 주변에 뭐가 많다고? 옆 동료는 웃으며 “Nicht das Handtuch werfen!” 수건은 또 왜 던지지 말라는 걸까요?",
+      "오늘은 일과 공부 이야기에 자주 나오는 관용구 10개예요. 그림처럼 떠올리면 금방 외워지고, 이 10개면 바쁨, 노력, 게으름, 포기까지 독일 사람처럼 생생하게 말할 수 있어요. 💼"
+    ],
+    "words": {
+      "B2-1616": {"pron": "지히 뮈에 게벤", "tip": "나에게 수고(Mühe)를 준다 = 애쓰다 💪 Gib dir Mühe! = 좀 더 노력해 봐!", "warn": "sich가 3격이에요: Ich gebe mir Mühe. · Du gibst dir Mühe."},
+      "C2-444": {"pron": "알레 헨데 폴 추 툰 하벤", "tip": "두 손(Hände)이 일로 꽉 찼어요(voll) 🙌 영어 have one's hands full과 같은 그림!", "bonus": "Ich habe alle Hände voll zu tun. = 손이 열 개라도 모자라요."},
+      "C2-494": {"pron": "필 움 디 오렌 하벤", "tip": "할 일들이 귀(Ohren) 주변에서 윙윙 날아다녀요 🐝", "bonus": "바쁘다고 부드럽게 거절할 때 딱이에요: Sorry, ich habe gerade viel um die Ohren."},
+      "C2-4087": {"pron": "디 애르멜 호흐크렘펠른", "tip": "소매(Ärmel)를 걷어붙이고(hochkrempeln) 일 시작! 💪 영어 roll up one's sleeves와 같아요.", "warn": "분리동사예요: Wir krempeln die Ärmel hoch."},
+      "C2-4081": {"pron": "암 발 블라이벤", "tip": "축구에서 공(Ball)을 놓치지 않기 ⚽ 꾸준히 계속하기!", "warn": "현재완료는 sein: Ich bin am Ball geblieben."},
+      "C2-3295": {"pron": "지히 아인 바인 아우스라이센", "tip": "다리(Bein)를 뽑을 만큼 애쓰다니 🦵 과장도 이 정도면 예술!", "bonus": "부정형도 많이 써요: Ich reiße mir kein Bein aus. = 그렇게까지 애쓸 생각 없어요."},
+      "C2-094": {"pron": "에트바스 아우프 디 랑에 방크 쉬벤", "tip": "서류를 긴 상자(Bank) 속으로 밀어 넣고 잊어버리기 📦 미루기의 달인!", "bonus": "Schieb das nicht auf die lange Bank! = 그거 미루지 마!"},
+      "C2-3306": {"pron": "아우프 데어 파울렌 하우트 리겐", "tip": "게으른(faul) 피부(Haut)째로 드러누워 있기 🛋️", "bonus": "눕기 시작하는 순간은 sich auf die faule Haut legen이에요."},
+      "C2-3142": {"pron": "덴 이너렌 슈바이네훈트 위버빈덴", "tip": "마음속 ‘돼지개’를 이겨 내기 🐷🐕 운동 가기 싫을 때 딱 떠올려요!", "warn": "überwinden은 분리되지 않아요: Ich habe meinen inneren Schweinehund überwunden."},
+      "C2-547": {"pron": "다스 한트투흐 베르펜", "tip": "권투에서 코치가 수건(Handtuch)을 던지면 경기 끝 🥊 영어 throw in the towel과 같아요.", "bonus": "응원할 때: Wirf nicht gleich das Handtuch!"}
+    },
+    "culture": [
+      "독일 사람들은 일과 쉼의 경계를 꽤 중요하게 생각해요. 퇴근 후 시간을 Feierabend라고 하는데, 이 시간에는 업무 연락을 피하는 사람이 많아요. 동료에게 “Schönen Feierabend!” 하고 인사하며 퇴근해요.",
+      "많은 회사에서, 특히 지역에 따라서는 점심때 동료끼리 “Mahlzeit!” 하고 인사하기도 해요. ‘식사’라는 뜻이지만 점심시간 인사처럼 쓰여요.",
+      "새해가 되면 der innere Schweinehund라는 말을 정말 자주 들어요. 운동이나 공부를 결심하고, 그 게으른 마음을 이겨 내는 게 모두의 숙제거든요. 🐷"
+    ],
+    "quiz": {"q": "동료가 힘든 프로젝트를 그만두고 싶대요. ‘포기하지 마!’라고 응원하려면?", "o": ["Lieg nicht auf der faulen Haut!", "Gib dir keine Mühe!", "Wirf nicht gleich das Handtuch!"], "a": 2, "why": "das Handtuch werfen = 포기하다. 그래서 Wirf nicht gleich das Handtuch! = 너무 빨리 포기하지 마!"},
+    "outro": "오늘 해야 할 일 하나를 auf die lange Bank 밀어 두지 말고 바로 해 봐요. 끝내고 나면 Ich bin am Ball geblieben! 하고 칭찬해 주기! 💪"
+  },
+  "en": {
+    "title": "Talk like a German at work: 10 idioms",
+    "hook": "Say ‘I'm swamped’, ‘I put it off’ and ‘I give up’ the way Germans do, and your conversations come alive.",
+    "intro": [
+      "After a meeting, a colleague sighs, ‘Ich habe gerade so viel um die Ohren.’ Lots of stuff around her ears? Another colleague laughs: ‘Nicht das Handtuch werfen!’ And why shouldn't she throw a towel?",
+      "Today's ten idioms come up all the time when people talk about work and study. Picture them and they stick fast — and with them you can talk about being busy, trying hard, lazing about and giving up just like a German. 💼"
+    ],
+    "words": {
+      "B2-1616": {"pron": "zikh MUE-uh GAY-ben", "tip": "Give yourself trouble (Mühe) = make an effort 💪 Gib dir Mühe! = Try harder!", "warn": "sich is dative here: Ich gebe mir Mühe. · Du gibst dir Mühe."},
+      "C2-444": {"pron": "AL-uh HEN-duh FOLL tsoo TOON HAH-ben", "tip": "Both hands (Hände) full (voll) of work 🙌 The same picture as English.", "bonus": "Ich habe alle Hände voll zu tun. = I'm up to my eyes in it."},
+      "C2-494": {"pron": "FEEL oom dee OH-ren HAH-ben", "tip": "Tasks buzzing around your ears (Ohren) 🐝", "bonus": "A gentle way to say no: Sorry, ich habe gerade viel um die Ohren."},
+      "C2-4087": {"pron": "dee AIR-mel HOKH-krem-peln", "tip": "Roll your sleeves (Ärmel) up (hochkrempeln) and get going 💪 Same as English.", "warn": "Separable: Wir krempeln die Ärmel hoch."},
+      "C2-4081": {"pron": "am BALL BLY-ben", "tip": "From football: keep the ball (Ball) at your feet ⚽ = keep at it.", "warn": "The perfect uses sein: Ich bin am Ball geblieben."},
+      "C2-3295": {"pron": "zikh ine BINE OWSS-ry-sen", "tip": "Trying so hard you'd pull a leg (Bein) off 🦵 Exaggeration as an art form.", "bonus": "Often negative: Ich reiße mir kein Bein aus. = I'm not going to kill myself over it."},
+      "C2-094": {"pron": "ET-vas owf dee LANG-uh BANK SHEE-ben", "tip": "Shove the file into the long chest (Bank) and forget it 📦 The art of putting things off.", "bonus": "Schieb das nicht auf die lange Bank! = Don't put it off!"},
+      "C2-3306": {"pron": "owf dair FOW-len HOWT LEE-gen", "tip": "Lying around in your lazy (faul) skin (Haut) 🛋️", "bonus": "Starting to laze about is sich auf die faule Haut legen."},
+      "C2-3142": {"pron": "dain IN-er-en SHVY-nuh-hoont ue-ber-VIN-den", "tip": "Beat your inner ‘pig-dog’ 🐷🐕 Think of it when you don't feel like going to the gym!", "warn": "überwinden doesn't split: Ich habe meinen inneren Schweinehund überwunden."},
+      "C2-547": {"pron": "das HANT-tookh VAIR-fen", "tip": "In boxing, the coach throws in the towel (Handtuch) to end the fight 🥊 Same as English.", "bonus": "To encourage someone: Wirf nicht gleich das Handtuch!"}
+    },
+    "culture": [
+      "Many Germans take the line between work and free time seriously. Time after work is called Feierabend, and lots of people avoid work messages then. Colleagues head home saying ‘Schönen Feierabend!’",
+      "In many workplaces — more in some regions than others — colleagues greet each other at lunchtime with ‘Mahlzeit!’ It literally means ‘meal’, but it works as a lunchtime hello.",
+      "Around New Year you'll hear about der innere Schweinehund constantly. Everyone resolves to exercise or study more, and beating that lazy inner voice is the real challenge. 🐷"
+    ],
+    "quiz": {"q": "A colleague wants to quit a tough project. How do you say ‘Don't give up!’?", "o": ["Lieg nicht auf der faulen Haut!", "Gib dir keine Mühe!", "Wirf nicht gleich das Handtuch!"], "a": 2, "why": "das Handtuch werfen = to give up, so this means ‘Don't throw in the towel so soon!’"},
+    "outro": "Pick one task you've been pushing auf die lange Bank and do it today. When it's done, tell yourself: Ich bin am Ball geblieben! 💪"
+  },
+  "ja": {
+    "title": "ドイツ人っぽく話せる仕事・勉強の慣用句10",
+    "hook": "「忙しい」「後回しにした」「もうやめたい」をドイツ人らしく言えたら、会話がぐっと生き生きします。",
+    "intro": [
+      "会議のあと、同僚がため息まじりに言います。「Ich habe gerade so viel um die Ohren.」耳のまわりに何がたくさん？別の同僚は笑って「Nicht das Handtuch werfen!」タオルを投げるなって、どういうこと？",
+      "今日は仕事や勉強の話によく出てくる慣用句を10個集めました。絵を思い浮かべるとすぐ覚えられて、この10個で忙しさ、努力、怠け、あきらめまでドイツ人のように生き生きと言えます。💼"
+    ],
+    "words": {
+      "B2-1616": {"pron": "ズィッヒ ミューエ ゲーベン", "tip": "自分に苦労（Mühe）を与える = 努力する 💪 Gib dir Mühe! = もっとがんばって！", "warn": "sich は3格です：Ich gebe mir Mühe. · Du gibst dir Mühe."},
+      "C2-444": {"pron": "アレ ヘンデ フォル ツー トゥーン ハーベン", "tip": "両手（Hände）が仕事でいっぱい（voll）🙌 英語の have one's hands full と同じイメージ！", "bonus": "Ich habe alle Hände voll zu tun. = 猫の手も借りたいほどです。"},
+      "C2-494": {"pron": "フィール ウム ディー オーレン ハーベン", "tip": "やることが耳（Ohren）のまわりをブンブン飛び回っています 🐝", "bonus": "やんわり断るときにぴったり：Sorry, ich habe gerade viel um die Ohren."},
+      "C2-4087": {"pron": "ディー エルメル ホーホクレンペルン", "tip": "袖（Ärmel）をまくり上げて（hochkrempeln）さあ仕事！💪 英語の roll up one's sleeves と同じです。", "warn": "分離動詞です：Wir krempeln die Ärmel hoch."},
+      "C2-4081": {"pron": "アム バル ブライベン", "tip": "サッカーでボール（Ball）を放さない ⚽ = こつこつ続ける！", "warn": "現在完了は sein：Ich bin am Ball geblieben."},
+      "C2-3295": {"pron": "ズィッヒ アイン バイン アウスライセン", "tip": "脚（Bein）を引き抜くほどがんばる 🦵 ここまで大げさだと芸術です！", "bonus": "否定でもよく使います：Ich reiße mir kein Bein aus. = そこまでがんばる気はないよ。"},
+      "C2-094": {"pron": "エトヴァス アウフ ディー ランゲ バンク シーベン", "tip": "書類を長い箱（Bank）に押し込んで忘れる 📦 先延ばしの達人！", "bonus": "Schieb das nicht auf die lange Bank! = それ、後回しにしないで！"},
+      "C2-3306": {"pron": "アウフ デア ファウレン ハウト リーゲン", "tip": "怠け者の（faul）皮膚（Haut）ごとごろごろ寝そべる 🛋️", "bonus": "ごろごろし始めるのは sich auf die faule Haut legen です。"},
+      "C2-3142": {"pron": "デン インネレン シュヴァイネフント ユーバーヴィンデン", "tip": "心の中の「ブタ犬」に打ち勝つ 🐷🐕 ジムに行きたくない日に思い出して！", "warn": "überwinden は分離しません：Ich habe meinen inneren Schweinehund überwunden."},
+      "C2-547": {"pron": "ダス ハントトゥーフ ヴェルフェン", "tip": "ボクシングでコーチがタオル（Handtuch）を投げたら試合終了 🥊 英語の throw in the towel と同じです。", "bonus": "励ますときは：Wirf nicht gleich das Handtuch!"}
+    },
+    "culture": [
+      "ドイツでは仕事と休みの境目を大切にする人が多いです。仕事が終わったあとの時間を Feierabend と言い、その時間は仕事の連絡を避ける人がたくさんいます。帰るときは同僚に「Schönen Feierabend!」とあいさつします。",
+      "多くの職場で、特に地域によっては、お昼どきに同僚どうしで「Mahlzeit!」とあいさつすることもあります。「食事」という意味ですが、お昼のあいさつとして使われています。",
+      "新年になると der innere Schweinehund という言葉を本当によく耳にします。運動や勉強を決意して、その怠け心に勝つのがみんなの課題なんです。🐷"
+    ],
+    "quiz": {"q": "同僚が大変なプロジェクトをやめたいと言っています。「あきらめないで！」と励ますには？", "o": ["Lieg nicht auf der faulen Haut!", "Gib dir keine Mühe!", "Wirf nicht gleich das Handtuch!"], "a": 2, "why": "das Handtuch werfen = あきらめる。Wirf nicht gleich das Handtuch! は「そんなにすぐあきらめないで！」という意味です。"},
+    "outro": "今日やるべきことをひとつ、auf die lange Bank に押しやらずにすぐ片づけてみましょう。終わったら Ich bin am Ball geblieben! と自分をほめてあげてくださいね。💪"
+  }
+}

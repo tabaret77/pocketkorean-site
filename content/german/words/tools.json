@@ -1,0 +1,84 @@
+{
+  "key": "tools",
+  "ko": {
+    "title": "새 가구도 혼자 뚝딱 조립하는 공구 독일어 10",
+    "hook": "독일 집에 살다 보면 언젠가는 꼭 망치를 들게 돼요. 그날을 위한 단어들이에요.",
+    "intro": [
+      "새 집으로 이사했는데 벽은 텅 비었고, 상자 속 선반은 조각조각. 이웃에게 드릴을 빌리고 싶은데 ‘드릴’이 독일어로 뭐더라? 건축 자재 마트에서는 나사 하나 찾기도 어려워요.",
+      "오늘은 공구와 DIY 단어 10개를 모았어요. 이걸로 공구를 빌리고, 마트에서 필요한 걸 묻고, 고장 난 물건을 고쳐 달라고 부탁할 수 있어요. 🛠️"
+    ],
+    "words": {
+      "B1-272": {"pron": "베르크초이크", "tip": "Werk(일) + Zeug(물건) = 일할 때 쓰는 물건 🧰", "bonus": "Zeug만 쓰면 ‘물건, 잡동사니’: Was ist das für Zeug?"},
+      "B1-769": {"pron": "하머", "tip": "영어 hammer랑 똑같이 쾅쾅 🔨", "warn": "복수는 움라우트: die Hämmer", "bonus": "구어 Das ist der Hammer! = 대박이다! (좋든 나쁘든)"},
+      "B1-972": {"pron": "나겔", "tip": "벽에 박는 못도, 손끝의 손톱도 다 Nagel 💅", "warn": "복수는 die Nägel", "bonus": "den Nagel auf den Kopf treffen = 정곡을 찌르다"},
+      "B2-2377": {"pron": "슈라우베", "tip": "영어 screw와 친척, 빙글빙글 돌려 박는 나사 🔩", "bonus": "eine Schraube locker haben = 나사가 하나 풀렸다 (좀 이상하다)"},
+      "B2-2378": {"pron": "슈라우벤드레어", "tip": "Schraube + drehen(돌리다) + -er = 나사 돌리는 도구 🪛", "bonus": "일상에선 der Schraubenzieher도 많이 써요 · 십자 드라이버는 der Kreuzschraubendreher"},
+      "B2-2380": {"pron": "보어마시네", "tip": "bohren(뚫다) + Maschine(기계) = 구멍 뚫는 기계 🔌", "bonus": "벽에 뭘 걸려면 der Dübel(벽 앵커)도 필수!"},
+      "B2-2395": {"pron": "클레버", "tip": "kleben(붙이다) + -er = 착 붙여 주는 것 🧴", "bonus": "테이프는 das Klebeband"},
+      "A2-167": {"pron": "레파리렌", "tip": "영어 repair와 같은 말 🔧 고장 나면 reparieren!", "warn": "-ieren 동사는 과거분사에 ge-가 없어요: hat repariert", "bonus": "명사 die Reparatur · 고장 난 = kaputt"},
+      "B2-2399": {"pron": "바우마르크트", "tip": "bauen(짓다) + Markt(시장) = 집 짓는 재료 시장 🏬", "bonus": "스스로 집을 고치고 꾸미다 = heimwerken"},
+      "B2-2402": {"pron": "추자멘바우엔", "tip": "zusammen(함께) + bauen(짓다) = 조각들을 한데 모아 짓기 🪑", "warn": "분리동사예요: Ich baue das Regal zusammen. · hat zusammengebaut", "bonus": "조립 설명서는 die Bauanleitung"}
+    },
+    "culture": [
+      "독일 사람들은 DIY(Heimwerken)를 정말 좋아해요. 토요일이면 건축 자재 마트(Baumarkt)가 공구와 페인트를 사러 온 사람들로 북적이고, 나무판을 원하는 크기로 잘라 주는 곳도 많아요.",
+      "월셋집에서도 선반을 달려고 벽에 구멍을 뚫는 건 흔한 일이에요. 다만 이사 나갈 때 구멍을 메워야 하는지는 계약서나 집주인에 따라 달라서 미리 확인해 두는 게 좋아요.",
+      "그리고 드릴은 시간 맞춰서! 많은 건물에서 일요일과 밤에는 시끄러운 작업을 피하는 게 기본 매너예요. 🔨"
+    ],
+    "quiz": {"q": "선반을 조립하는데 나사를 돌려야 해요. 옆에 있는 친구에게 뭐라고 할까요? ‘Kannst du mir mal … geben?’", "o": ["den Hammer", "den Schraubendreher", "den Kleber"], "a": 1, "why": "나사(Schraube)를 돌리는(drehen) 도구가 der Schraubendreher예요."},
+    "outro": "오늘은 집에 있는 공구를 하나씩 꺼내 독일어 이름을 불러 봐요. 다음 가구 조립은 독일어로 중얼거리면서 해 보는 걸로! 🪛"
+  },
+  "en": {
+    "title": "Grab your toolbox: 10 German words for DIY",
+    "hook": "Live in a German flat long enough and you'll end up holding a hammer. These words are for that day.",
+    "intro": [
+      "You've just moved in. The walls are bare and the new shelf is still in pieces in its box. You'd like to borrow your neighbour's drill, but what's ‘drill’ in German? And finding the right screw at the DIY store feels impossible.",
+      "Today's ten words are all about tools and DIY. With them you can borrow tools, ask for help in the store and get someone to fix what's broken. 🛠️"
+    ],
+    "words": {
+      "B1-272": {"pron": "VAIRK-tsoyk", "tip": "Werk (work) + Zeug (stuff) = work stuff 🧰", "bonus": "Zeug on its own means ‘stuff’: Was ist das für Zeug?"},
+      "B1-769": {"pron": "HAM-er", "tip": "Same as hammer — bang, bang 🔨", "warn": "The plural has an umlaut: die Hämmer", "bonus": "Colloquial: Das ist der Hammer! = That's unbelievable! (good or bad)"},
+      "B1-972": {"pron": "NAH-gel", "tip": "A nail in the wall or a nail on your finger — both are Nagel 💅", "warn": "The plural is die Nägel.", "bonus": "den Nagel auf den Kopf treffen = to hit the nail on the head"},
+      "B2-2377": {"pron": "SHROW-buh", "tip": "A cousin of screw — twist it in 🔩", "bonus": "eine Schraube locker haben = to have a screw loose"},
+      "B2-2378": {"pron": "SHROW-ben-dray-er", "tip": "Schraube + drehen (to turn) + -er = the screw-turner 🪛", "bonus": "In everyday speech you'll also hear der Schraubenzieher · a Phillips screwdriver = der Kreuzschraubendreher"},
+      "B2-2380": {"pron": "BOR-ma-shee-nuh", "tip": "bohren (to bore) + Maschine = the boring machine (it isn't boring at all) 🔌", "bonus": "To hang anything up you'll need wall plugs too: der Dübel!"},
+      "B2-2395": {"pron": "KLAY-ber", "tip": "kleben (to stick) + -er = the sticker-together 🧴", "bonus": "sticky tape = das Klebeband"},
+      "A2-167": {"pron": "reh-pa-REE-ren", "tip": "Just like repair 🔧 If it's broken, reparieren!", "warn": "-ieren verbs take no ge- in the past participle: hat repariert", "bonus": "the noun: die Reparatur · broken = kaputt"},
+      "B2-2399": {"pron": "BOW-markt", "tip": "bauen (to build) + Markt (market) = the building market 🏬", "bonus": "to do DIY = heimwerken"},
+      "B2-2402": {"pron": "tsoo-ZAM-en-bow-en", "tip": "zusammen (together) + bauen (build) = build it together from the pieces 🪑", "warn": "It's separable: Ich baue das Regal zusammen. · hat zusammengebaut", "bonus": "assembly instructions = die Bauanleitung"}
+    },
+    "culture": [
+      "Germans love DIY (Heimwerken). On Saturdays the DIY stores (Baumarkt) are busy with people buying tools and paint, and many will cut wooden boards to size for you.",
+      "Even in rented flats, drilling holes to put up shelves is very common. Whether you have to fill them when you move out depends on your contract and landlord, so it's worth checking first.",
+      "And time your drilling well! In many buildings, avoiding noisy work on Sundays and at night is basic good manners. 🔨"
+    ],
+    "quiz": {"q": "You're putting a shelf together and need to turn some screws. What do you ask your friend? ‘Kannst du mir mal … geben?’", "o": ["den Hammer", "den Schraubendreher", "den Kleber"], "a": 1, "why": "der Schraubendreher is the tool that turns (drehen) screws (Schrauben)."},
+    "outro": "Take out any tools you have at home and name each one in German. Next time you build furniture, try muttering in German as you go! 🪛"
+  },
+  "ja": {
+    "title": "家具の組み立ても一人でできる工具のドイツ語10",
+    "hook": "ドイツの家に住んでいると、いつか必ずハンマーを握る日が来ます。その日のための単語です。",
+    "intro": [
+      "引っ越したばかりの部屋、壁はがらんとしていて、箱の中の棚はまだバラバラ。お隣さんにドリルを借りたいのに、「ドリル」ってドイツ語で何だっけ？ホームセンターではねじ1本探すのもひと苦労です。",
+      "今日は工具と DIY の単語を10個集めました。工具を借りたり、お店で欲しいものを聞いたり、壊れた物の修理を頼んだりできるようになります。🛠️"
+    ],
+    "words": {
+      "B1-272": {"pron": "ヴェルクツォイク", "tip": "Werk（仕事）+ Zeug（もの）= 仕事に使うもの 🧰", "bonus": "Zeug だけだと「もの、がらくた」：Was ist das für Zeug?"},
+      "B1-769": {"pron": "ハマー", "tip": "英語の hammer と同じ、トントン 🔨", "warn": "複数形はウムラウト付き：die Hämmer", "bonus": "口語 Das ist der Hammer! = すごい！／ひどい！"},
+      "B1-972": {"pron": "ナーゲル", "tip": "壁に打つくぎも、指先のつめも Nagel 💅", "warn": "複数形は die Nägel", "bonus": "den Nagel auf den Kopf treffen = 核心を突く"},
+      "B2-2377": {"pron": "シュラウベ", "tip": "英語 screw の親戚、くるくる回して留めるねじ 🔩", "bonus": "eine Schraube locker haben = 頭のねじが緩んでいる"},
+      "B2-2378": {"pron": "シュラウベンドレーアー", "tip": "Schraube + drehen（回す）+ -er = ねじを回す道具 🪛", "bonus": "日常では der Schraubenzieher もよく使います · プラスドライバーは der Kreuzschraubendreher"},
+      "B2-2380": {"pron": "ボーアマシーネ", "tip": "bohren（穴をあける）+ Maschine（機械）= 穴あけ機 🔌", "bonus": "壁に何か掛けるなら der Dübel（壁用アンカー）も必須！"},
+      "B2-2395": {"pron": "クレーバー", "tip": "kleben（くっつける）+ -er = ぴたっと貼るもの 🧴", "bonus": "テープは das Klebeband"},
+      "A2-167": {"pron": "レパリーレン", "tip": "英語の repair と同じ 🔧 壊れたら reparieren！", "warn": "-ieren 動詞は過去分詞に ge- がつきません：hat repariert", "bonus": "名詞は die Reparatur · 壊れた = kaputt"},
+      "B2-2399": {"pron": "バウマルクト", "tip": "bauen（建てる）+ Markt（市場）= 家づくりの市場 🏬", "bonus": "自分で家の修理や工作をする = heimwerken"},
+      "B2-2402": {"pron": "ツザメンバウエン", "tip": "zusammen（一緒に）+ bauen（建てる）= パーツを集めて組み立てる 🪑", "warn": "分離動詞です：Ich baue das Regal zusammen. · hat zusammengebaut", "bonus": "組み立て説明書は die Bauanleitung"}
+    },
+    "culture": [
+      "ドイツの人は DIY（Heimwerken）が大好きです。土曜日のホームセンター（Baumarkt）は工具やペンキを買いに来た人でにぎわっていて、板を好きなサイズに切ってくれるお店も多いです。",
+      "賃貸の部屋でも、棚をつけるために壁に穴をあけるのはよくあることです。ただし、退去時に穴を埋める必要があるかは契約や大家さんによって違うので、先に確認しておくと安心です。",
+      "そしてドリルは時間を選んで！多くの建物では、日曜日や夜に大きな音の作業を避けるのが基本のマナーです。🔨"
+    ],
+    "quiz": {"q": "棚を組み立てていて、ねじを回したいです。隣の友だちに何と頼みますか？「Kannst du mir mal … geben?」", "o": ["den Hammer", "den Schraubendreher", "den Kleber"], "a": 1, "why": "ねじ（Schraube）を回す（drehen）道具が der Schraubendreher です。"},
+    "outro": "今日は家にある工具をひとつずつ取り出して、ドイツ語の名前を呼んでみましょう。次の家具の組み立ては、ドイツ語でつぶやきながら！🪛"
+  }
+}

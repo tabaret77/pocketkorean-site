@@ -17,7 +17,7 @@
       "B2-3291": {"pron": "아바타르", "tip": "산스크리트어 ‘신의 화신’ 👤 화면 속 또 다른 나!", "warn": "독일어는 끝 음절에 강세: 아바타르"},
       "B1-751": {"pron": "그라피크", "tip": "그리스어 graphein(그리다) ✏️ 영어 graphics처럼 화면 그림!", "bonus": "Die Grafik ist super! = 그래픽 끝내준다!"},
       "B1-1366": {"pron": "비르투엘", "tip": "영어 virtual과 쌍둥이 🥽 VR은 virtuelle Realität!", "bonus": "명사 die virtuelle Welt = 가상 세계"},
-      "B1-1220": {"pron": "쥐히티히", "tip": "die Sucht(중독) + -ig 😵‍💫 ‘쥐히티히’ 한 번 더, 한 번 더…", "warn": "전치사는 nach: süchtig nach Computerspielen"}
+      "B1-1220": {"pron": "쥐히티히", "tip": "die Sucht(중독) + -ig 🌀 ‘쥐히티히’ 한 번 더, 한 번 더…", "warn": "전치사는 nach: süchtig nach Computerspielen"}
     },
     "culture": [
       "독일은 게임 인구가 많은 나라예요. 쾰른에서는 매년 보통 늦여름에 세계적인 게임 박람회 gamescom이 열려서, 전 세계 게이머들이 몰려와요.",
@@ -44,7 +44,7 @@
       "B2-3291": {"pron": "ah-vah-TAR", "tip": "Sanskrit for a god appearing on earth 👤 Now it's you on screen.", "warn": "Stress is on the last syllable in German."},
       "B1-751": {"pron": "GRAH-fik", "tip": "From Greek graphein (to draw) ✏️ Like graphics.", "bonus": "Die Grafik ist super! = The graphics are amazing!"},
       "B1-1366": {"pron": "veer-too-EL", "tip": "Twin of virtual 🥽 VR is virtuelle Realität.", "bonus": "die virtuelle Welt = the virtual world"},
-      "B1-1220": {"pron": "ZUEKH-tikh", "tip": "die Sucht (addiction) + -ig 😵‍💫 Just one more level…", "warn": "Use nach: süchtig nach Computerspielen"}
+      "B1-1220": {"pron": "ZUEKH-tikh", "tip": "die Sucht (addiction) + -ig 🌀 Just one more level…", "warn": "Use nach: süchtig nach Computerspielen"}
     },
     "culture": [
       "Gaming is huge in Germany. Cologne hosts gamescom, one of the world's biggest gaming fairs, usually in late summer, and gamers travel there from all over the world.",
@@ -71,7 +71,7 @@
       "B2-3291": {"pron": "アヴァタール", "tip": "サンスクリット語で「神の化身」👤 画面の中のもう一人の自分！", "warn": "ドイツ語では最後の音節にアクセント：アヴァタール"},
       "B1-751": {"pron": "グラーフィク", "tip": "ギリシャ語 graphein（描く）から ✏️ 英語の graphics と同じく画面の絵！", "bonus": "Die Grafik ist super! = グラフィックすごい！"},
       "B1-1366": {"pron": "ヴィルトゥエル", "tip": "英語の virtual と双子 🥽 VR は virtuelle Realität！", "bonus": "die virtuelle Welt = 仮想世界"},
-      "B1-1220": {"pron": "ズュヒティヒ", "tip": "die Sucht（依存）+ -ig 😵‍💫 あと1面だけ、あと1面だけ…", "warn": "前置詞は nach：süchtig nach Computerspielen"}
+      "B1-1220": {"pron": "ズュヒティヒ", "tip": "die Sucht（依存）+ -ig 🌀 あと1面だけ、あと1面だけ…", "warn": "前置詞は nach：süchtig nach Computerspielen"}
     },
     "culture": [
       "ドイツはゲーム好きの多い国です。ケルンでは毎年たいてい夏の終わりに、世界最大級のゲーム見本市 gamescom が開かれ、世界中からゲーマーが集まります。",

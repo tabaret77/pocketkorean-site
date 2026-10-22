@@ -1,0 +1,84 @@
+{
+  "key": "particles",
+  "ko": {
+    "title": "doch·mal·ja, 독일어에 말맛을 더하는 작은 단어 10",
+    "hook": "교과서 독일어와 진짜 독일 사람 말투의 차이, 바로 이 작은 단어들이에요.",
+    "intro": [
+      "독일 친구들 대화를 듣다 보면 doch, mal, halt 같은 말이 쉴 새 없이 튀어나와요. 사전을 찾아봐도 뜻이 애매하고, 빼고 말하면 왠지 딱딱하고 명령하는 것처럼 들리죠.",
+      "오늘은 문장에 감정과 뉘앙스를 얹어 주는 작은 단어 10개를 모았어요. 이걸 알면 부탁은 더 부드럽게, 맞장구는 더 자연스럽게 할 수 있어요. 💬"
+    ],
+    "words": {
+      "A2-446": {"pron": "도흐", "tip": "부정 질문에 날리는 반격, ‘아니거든, 맞거든!’ 🙃", "warn": "부정 질문에 ‘아니, 해’라고 할 땐 ja가 아니라 doch예요: Kommst du nicht? – Doch!", "bonus": "명령문에선 재촉: Komm doch mit! = 같이 가자, 응?"},
+      "A2-511": {"pron": "말", "tip": "einmal(한 번)이 줄어든 말 🤏 ‘한번 ~해 봐’ 느낌으로 부탁이 부드러워져요.", "bonus": "Moment mal! = 잠깐만!"},
+      "A1-499": {"pron": "야", "tip": "영어 yes와 같은 뿌리 👍 말맛으로 쓰면 ‘알다시피, 진짜’!", "bonus": "Das ist ja toll! = 와, 진짜 멋지다!"},
+      "B1-591": {"pron": "에벤", "tip": "원래 뜻은 ‘평평한’, 영어 even과 친척 🎯 맞장구로는 ‘바로 그거!’", "bonus": "Eben! = 내 말이! 바로 그거야!"},
+      "B1-767": {"pron": "할트", "tip": "어깨 한 번 으쓱, ‘뭐 어쩌겠어’ 🤷", "warn": "명령 Halt! = 멈춰!와는 다른 쓰임이에요.", "bonus": "북부에선 같은 느낌으로 eben: Das ist eben so."},
+      "A1-452": {"pron": "덴", "tip": "질문에 넣으면 ‘대체, 그래서’ 하는 궁금함 ❓", "warn": "‘왜냐하면’ denn 뒤에선 동사가 그대로 둘째 자리예요. weil과 달라요!", "bonus": "Was ist denn los? = 대체 무슨 일이야?"},
+      "A2-086": {"pron": "아이겐틀리히", "tip": "eigen(자기 자신의, 영어 own) = 본래 모습, ‘사실은’ 🤔", "bonus": "Wie heißt du eigentlich? = 그런데 이름이 뭐였지?"},
+      "B1-1413": {"pron": "볼", "tip": "영어 well과 같은 뿌리 🍷 ‘아마 그렇겠지’ 하는 추측에 딱!", "bonus": "Zum Wohl! = 건배! · sich wohlfühlen = 편안하다"},
+      "B1-529": {"pron": "블로스", "tip": "원래 뜻은 ‘벌거벗은’, 군더더기 없이 딱 ‘그저’ 🙅", "bonus": "Mach das bloß nicht! = 그것만은 절대 하지 마!"},
+      "B1-1278": {"pron": "위버하우프트", "tip": "über(넘어) + Haupt(머리) = 머리 꼭대기부터 통째로 🤯", "bonus": "überhaupt nicht = 전혀 아니다 · Was willst du überhaupt? = 대체 원하는 게 뭐야?"}
+    },
+    "culture": [
+      "독일어는 직설적인 언어로 유명하지만, 실제 대화에서는 이런 작은 단어들이 말을 부드럽게 만들어 줘요. ‘Komm her!’는 명령처럼 들리지만 ‘Komm mal her!’는 ‘이리 좀 와 봐’ 정도로 훨씬 다정해요.",
+      "지역마다 즐겨 쓰는 말도 달라요. 남부와 오스트리아에서는 halt를 자주 쓰고, 북부에서는 같은 뜻으로 eben을 더 많이 쓰는 편이에요.",
+      "doch는 독일 사람들이 은근히 자랑스러워하는 단어예요. ‘Ja, Nein, Doch’ 세 가지 대답이 있다는 걸 외국인 친구에게 신나서 설명해 주는 사람도 많아요. 😄"
+    ],
+    "quiz": {"q": "친구가 ‘Du hast heute keine Zeit, oder?’라고 묻는데, 사실 시간이 있어요. 뭐라고 답할까요?", "o": ["Doch, ich habe Zeit!", "Ja, ich habe Zeit!", "Halt, ich habe Zeit!"], "a": 0, "why": "부정 질문에 ‘아니, 있어!’라고 반박할 때는 ja가 아니라 doch를 써요."},
+    "outro": "오늘은 부탁할 때마다 mal을 하나씩 넣어 말해 봐요. Hilf mir mal! 한마디로 훨씬 독일 사람 같아질 거예요! 😉"
+  },
+  "en": {
+    "title": "doch, mal, ja: 10 little words that make German sound natural",
+    "hook": "These tiny words are the difference between textbook German and how people really talk.",
+    "intro": [
+      "Listen to German friends chatting and you'll hear doch, mal and halt all the time. The dictionary isn't much help, and when you leave them out, you somehow sound stiff or bossy.",
+      "Today's ten words add feeling and nuance to a sentence. With them your requests sound softer and your replies sound much more natural. 💬"
+    ],
+    "words": {
+      "A2-446": {"pron": "DOKH", "tip": "Your comeback to a negative question: ‘Oh yes it is!’ 🙃", "warn": "To contradict a negative question, say doch, not ja: Kommst du nicht? – Doch!", "bonus": "In commands it nudges: Komm doch mit! = Oh, come along!"},
+      "A2-511": {"pron": "MAHL", "tip": "Short for einmal (once) 🤏 It turns an order into a friendly ‘just’.", "bonus": "Moment mal! = Hang on a sec!"},
+      "A1-499": {"pron": "YAH", "tip": "A cousin of yes 👍 As a particle it means ‘really’ or ‘as you know’.", "bonus": "Das ist ja toll! = Wow, that's really great!"},
+      "B1-591": {"pron": "AY-ben", "tip": "It once meant ‘flat’, like even 🎯 As a reply it means ‘Exactly!’", "bonus": "Eben! = Exactly! That's what I said!"},
+      "B1-767": {"pron": "HALT", "tip": "A verbal shrug: ‘That's just how it is’ 🤷", "warn": "Don't confuse it with the command Halt! = Stop!", "bonus": "In the north, eben does the same job: Das ist eben so."},
+      "A1-452": {"pron": "DEN", "tip": "Pop it into a question to sound curious: ‘so…?’ ❓", "warn": "When denn means ‘because’, the verb stays in second place — unlike weil.", "bonus": "Was ist denn los? = So what's going on?"},
+      "A2-086": {"pron": "EYE-gent-likh", "tip": "eigen means own — so ‘in its own true form’, actually 🤔", "bonus": "Wie heißt du eigentlich? = Sorry, what was your name again?"},
+      "B1-1413": {"pron": "VOHL", "tip": "Same root as well 🍷 Perfect for a guess: ‘probably’.", "bonus": "Zum Wohl! = Cheers! · sich wohlfühlen = to feel at ease"},
+      "B1-529": {"pron": "BLOHS", "tip": "It used to mean ‘bare’ — nothing extra, just ‘merely’ 🙅", "bonus": "Mach das bloß nicht! = Don't you dare do that!"},
+      "B1-1278": {"pron": "ue-ber-HOWPT", "tip": "über (over) + Haupt (head) = over the head, the whole lot 🤯", "bonus": "überhaupt nicht = not at all · Was willst du überhaupt? = What do you actually want?"}
+    },
+    "culture": [
+      "German is famous for being direct, but in real conversation these little words soften things a lot. ‘Komm her!’ sounds like an order, while ‘Komm mal her!’ is a much friendlier ‘Come here a sec’.",
+      "Different regions have their favourites too. People in the south and in Austria use halt a lot, while in the north you'll more often hear eben with the same meaning.",
+      "Germans are quietly proud of doch. Plenty of them will happily explain to foreign friends that German has three answers: ‘Ja, Nein, Doch’. 😄"
+    ],
+    "quiz": {"q": "Your friend asks ‘Du hast heute keine Zeit, oder?’, but you actually do have time. What do you say?", "o": ["Doch, ich habe Zeit!", "Ja, ich habe Zeit!", "Halt, ich habe Zeit!"], "a": 0, "why": "To contradict a negative question you use doch, not ja."},
+    "outro": "Today, add mal every time you ask for something. Hilf mir mal! — and you'll instantly sound more German! 😉"
+  },
+  "ja": {
+    "title": "doch・mal・ja、ドイツ語に味を出す小さな言葉10",
+    "hook": "教科書のドイツ語と本物のドイツ人の話し方の違いは、この小さな言葉にあります。",
+    "intro": [
+      "ドイツ人の友だちの会話を聞いていると、doch、mal、halt といった言葉がひっきりなしに出てきます。辞書を引いても意味はあいまい。でも抜いて話すと、なんだか硬くて命令口調に聞こえてしまうんです。",
+      "今日は文に気持ちやニュアンスを添える小さな言葉を10個集めました。お願いはもっとやわらかく、相づちはもっと自然にできるようになります。💬"
+    ],
+    "words": {
+      "A2-446": {"pron": "ドッホ", "tip": "否定の質問への切り返し、「いや、そうだってば！」🙃", "warn": "否定疑問に「いいえ、〜します」と答えるときは ja ではなく doch：Kommst du nicht? – Doch!", "bonus": "命令文では軽く促す：Komm doch mit! = 一緒に行こうよ！"},
+      "A2-511": {"pron": "マール", "tip": "einmal（一度）の短縮形 🤏「ちょっと〜して」とお願いがやわらかくなります。", "bonus": "Moment mal! = ちょっと待って！"},
+      "A1-499": {"pron": "ヤー", "tip": "英語 yes と同じルーツ 👍 心態詞では「ほら、本当に」の気持ち！", "bonus": "Das ist ja toll! = わあ、本当にすごい！"},
+      "B1-591": {"pron": "エーベン", "tip": "もとは「平らな」、英語 even の親戚 🎯 相づちでは「まさにそれ！」", "bonus": "Eben! = でしょ！そのとおり！"},
+      "B1-767": {"pron": "ハルト", "tip": "肩をすくめて「まあ、仕方ないよね」🤷", "warn": "命令の Halt!（止まれ！）とは別の使い方です。", "bonus": "北部では同じ感覚で eben：Das ist eben so."},
+      "A1-452": {"pron": "デン", "tip": "疑問文に入れると「いったい、それで？」という気持ちに ❓", "warn": "「なぜなら」の denn の後は動詞が2番目のまま。weil とは違います！", "bonus": "Was ist denn los? = いったいどうしたの？"},
+      "A2-086": {"pron": "アイゲントリヒ", "tip": "eigen（自分自身の、英語 own）= 本来の姿、「実は」🤔", "bonus": "Wie heißt du eigentlich? = ところで、名前なんだっけ？"},
+      "B1-1413": {"pron": "ヴォール", "tip": "英語 well と同じルーツ 🍷「たぶんそうだろう」という推量にぴったり！", "bonus": "Zum Wohl! = 乾杯！ · sich wohlfühlen = 心地よく感じる"},
+      "B1-529": {"pron": "ブロース", "tip": "もとは「裸の」、飾りなしの「ただ〜だけ」🙅", "bonus": "Mach das bloß nicht! = それだけは絶対やめて！"},
+      "B1-1278": {"pron": "ユーバーハウプト", "tip": "über（越えて）+ Haupt（頭）= 頭のてっぺんから丸ごと 🤯", "bonus": "überhaupt nicht = 全然〜ない · Was willst du überhaupt? = いったい何がしたいの？"}
+    },
+    "culture": [
+      "ドイツ語は率直な言葉として有名ですが、実際の会話ではこうした小さな言葉が話し方をやわらかくしています。「Komm her!」は命令のように聞こえますが、「Komm mal her!」なら「ちょっとこっち来て」くらいの親しみやすさです。",
+      "地域によって好まれる言葉も違います。南部やオーストリアでは halt をよく使い、北部では同じ意味で eben のほうがよく聞かれます。",
+      "doch は、ドイツの人がひそかに誇りに思っている単語です。「Ja, Nein, Doch」の3つの答えがあることを、外国人の友だちにうれしそうに説明する人もたくさんいます。😄"
+    ],
+    "quiz": {"q": "友だちに「Du hast heute keine Zeit, oder?」と聞かれましたが、実は時間があります。何と答えますか？", "o": ["Doch, ich habe Zeit!", "Ja, ich habe Zeit!", "Halt, ich habe Zeit!"], "a": 0, "why": "否定の質問を打ち消して「いや、あるよ！」と言うときは、ja ではなく doch を使います。"},
+    "outro": "今日はお願いするたびに mal をひとつ入れてみましょう。Hilf mir mal! のひとことで、ぐっとドイツ人らしくなりますよ！😉"
+  }
+}

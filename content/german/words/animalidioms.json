@@ -1,0 +1,84 @@
+{
+  "key": "animalidioms",
+  "ko": {
+    "title": "돼지가 행운이라고? 독일어 동물 관용구 10",
+    "hook": "독일에서는 운이 좋으면 ‘돼지를 가졌다’고 하고, 이상한 사람은 ‘새를 가졌다’고 해요.",
+    "intro": [
+      "독일 친구에게 길에서 50유로를 주웠다고 했더니 ‘Da hast du aber Schwein gehabt!’ 돼지? 내가 무슨 돼지를 가졌다는 거지? 알고 보니 ‘너 운 진짜 좋다!’라는 뜻이었어요.",
+      "오늘은 독일 사람들이 일상에서 자주 쓰는 동물 관용구 10개예요. 고양이, 파리, 모기, 토끼까지 동물 그림을 떠올리면 의미가 쏙쏙 들어와요. 이 10개면 독일어가 한층 맛깔나질 거예요! 🐷"
+    ],
+    "words": {
+      "C2-384": {"pron": "슈바인 하벤", "tip": "독일에서 돼지는 행운의 상징 🐷 꼴찌에게 위로상으로 돼지를 줬다는 설도 있어요!", "warn": "관사 없이 써요: Schwein haben (ein Schwein haben이 아니에요)."},
+      "C2-410": {"pron": "디 카체 아우스 뎀 작 라센", "tip": "자루 속 고양이를 꺼내 보여 주기 = 비밀 공개 🐱 영어 let the cat out of the bag과 똑같아요!", "bonus": "비슷한 뜻: ein Geheimnis verraten = 비밀을 누설하다"},
+      "C2-145": {"pron": "디 카체 임 작 카우펜", "tip": "토끼인 줄 알고 산 자루에 고양이가! 🐈 확인 안 하고 사면 이렇게 돼요.", "warn": "aus dem Sack lassen(비밀을 털어놓다)과 헷갈리지 마세요!"},
+      "C2-537": {"pron": "츠바이 플리겐 밋 아이너 클라페 슐라겐", "tip": "파리채(Klappe) 한 번에 파리 두 마리 🪰 우리말로는 일석이조!", "bonus": "die Fliegenklatsche = 파리채(요즘 더 흔한 말)"},
+      "C2-529": {"pron": "아우스 아이너 뮈케 아이넨 엘레판텐 마헨", "tip": "모기(Mücke)를 코끼리로 만들기 🐘 침소봉대 그 자체!", "bonus": "부정 명령으로 자주 써요: Mach aus einer Mücke keinen Elefanten!"},
+      "C2-535": {"pron": "다스 슈바르체 샤프", "tip": "하얀 양 떼 속 검은 양 한 마리 🐑 영어 black sheep과 똑같아요.", "bonus": "보통 ‘가족의’와 함께: das schwarze Schaf der Familie"},
+      "C2-539": {"pron": "아인 알터 하제 자인", "tip": "사냥꾼을 수없이 피해 살아남은 늙은 토끼 🐇 = 그 분야 베테랑!", "bonus": "반대말: der Neuling = 신참"},
+      "C2-754": {"pron": "비 훈트 운트 카체", "tip": "우리는 개와 원숭이, 독일은 개와 고양이 🐶 사이 나쁜 건 똑같아요!", "bonus": "보통 동사와 함께: wie Hund und Katze leben / sich wie Hund und Katze streiten"},
+      "C2-1783": {"pron": "아이넨 포겔 하벤", "tip": "머릿속에 새가 산다 = 정신 나갔다 🐦 Du hast doch einen Vogel!", "warn": "꽤 무례한 말이에요. 운전 중 이마를 톡톡 치는 손짓(den Vogel zeigen)은 모욕으로 벌금을 물 수도 있어요."},
+      "C2-542": {"pron": "다 리크트 데어 훈트 베그라벤", "tip": "개가 묻혀 있는 곳 = 문제의 핵심이 숨은 곳 🐕 ‘바로 거기가 문제야!’", "bonus": "비슷한 말: der Knackpunkt = 핵심 문제"}
+    },
+    "culture": [
+      "독일에서 돼지는 행운의 상징이에요. 새해가 되면 마지판으로 만든 작은 돼지(Glücksschwein)를 선물하는 풍습이 있고, 굴뚝 청소부, 네잎클로버, 빨간 독버섯도 대표적인 행운 아이템(Glücksbringer)이에요.",
+      "같은 뜻이라도 나라마다 등장하는 동물이 달라요. 우리가 ‘견원지간’이라고 할 때 독일은 개와 고양이, 일석이조의 ‘돌과 새’는 독일에선 ‘파리채와 파리’예요. 비교하면서 외우면 훨씬 재밌어요.",
+      "그리고 einen Vogel haben은 손짓으로도 표현해요. 검지로 이마를 톡톡 치는 건데, 꽤 모욕적인 제스처라서 운전 중에 했다가는 문제가 될 수 있어요. 아는 것까지만, 쓰지는 마세요! 🐦"
+    ],
+    "quiz": {"q": "친구가 길에서 50유로를 주웠대요. 뭐라고 반응할까요?", "o": ["Du hast einen Vogel!", "Da hast du aber Schwein gehabt!", "Da liegt der Hund begraben."], "a": 1, "why": "Schwein haben = 운이 좋다. ‘너 진짜 운 좋다!’라는 뜻이에요."},
+    "outro": "오늘 운 좋은 일이 하나라도 생기면 ‘Ich habe Schwein gehabt!’ 하고 외쳐 봐요. 동물 관용구 하나로 독일어가 확 살아나요! 🍀"
+  },
+  "en": {
+    "title": "Lucky pigs and crazy birds: 10 German animal idioms",
+    "hook": "In German, a lucky person ‘has pig’ — and someone a bit crazy ‘has a bird’.",
+    "intro": [
+      "You tell a German friend you found fifty euros on the street, and they say: ‘Da hast du aber Schwein gehabt!’ A pig? What pig? Turns out it means ‘Wow, you were lucky!’",
+      "Today's ten idioms are ones Germans really use in everyday life. Cats, flies, mosquitoes, hares — picture the animals and the meanings stick. Add these to your German and it instantly sounds more colourful! 🐷"
+    ],
+    "words": {
+      "C2-384": {"pron": "SHVINE HAH-ben", "tip": "In Germany pigs mean luck 🐷 One story says the loser of old contests got a pig as a consolation prize.", "warn": "No article: Schwein haben, not ein Schwein haben."},
+      "C2-410": {"pron": "dee KAT-suh ows dem ZAK LASS-en", "tip": "Exactly like English: let the cat out of the bag 🐱", "bonus": "Similar: ein Geheimnis verraten = to give away a secret"},
+      "C2-145": {"pron": "dee KAT-suh im ZAK KOW-fen", "tip": "You thought you bought a hare, but there's a cat in the sack 🐈 English says ‘a pig in a poke’.", "warn": "Don't confuse it with aus dem Sack lassen (to reveal a secret)!"},
+      "C2-537": {"pron": "tsvy FLEE-gen mit EYE-ner KLAP-uh SHLAH-gen", "tip": "Two flies with one swatter 🪰 English kills two birds with one stone.", "bonus": "A flyswatter is more often called die Fliegenklatsche today."},
+      "C2-529": {"pron": "ows EYE-ner MÜK-uh EYE-nen eh-leh-FAN-ten MAKH-en", "tip": "Turning a mosquito into an elephant 🐘 English makes a mountain out of a molehill.", "bonus": "Often used as a command: Mach aus einer Mücke keinen Elefanten!"},
+      "C2-535": {"pron": "dass SHVART-suh SHAHF", "tip": "Same as English: the black sheep 🐑", "bonus": "Usually ‘of the family’: das schwarze Schaf der Familie"},
+      "C2-539": {"pron": "ine AL-ter HAH-zuh zine", "tip": "An old hare that's escaped every hunter 🐇 = an old hand.", "bonus": "The opposite: der Neuling = a newcomer"},
+      "C2-754": {"pron": "vee HOONT oont KAT-suh", "tip": "English says cat and dog — German puts the dog first 🐶", "warn": "Keep the German order: wie Hund und Katze, not wie Katze und Hund."},
+      "C2-1783": {"pron": "EYE-nen FOH-gel HAH-ben", "tip": "There's a bird living in your head = you're nuts 🐦 Du hast doch einen Vogel!", "warn": "It's rude. The matching gesture — tapping your forehead at another driver — can even get you fined as an insult."},
+      "C2-542": {"pron": "dah leekt dair HOONT beh-GRAH-ben", "tip": "‘That's where the dog is buried’ = that's the real problem 🐕", "bonus": "Similar: der Knackpunkt = the crucial point"}
+    },
+    "culture": [
+      "In Germany the pig is a symbol of good luck. At New Year, people often give little marzipan pigs (Glücksschwein), along with other lucky charms (Glücksbringer) like chimney sweeps, four-leaf clovers and red-and-white toadstools.",
+      "The same idea often uses a different animal in each language. English fights like cats and dogs; German lives wie Hund und Katze. English kills birds with a stone; German swats flies. Comparing them makes them much easier to remember.",
+      "And einen Vogel haben has its own gesture: tapping your forehead with your finger. It's genuinely insulting, and doing it at another driver can land you in trouble. Know it — but don't use it! 🐦"
+    ],
+    "quiz": {"q": "Your friend just found fifty euros on the street. How do you react?", "o": ["Du hast einen Vogel!", "Da hast du aber Schwein gehabt!", "Da liegt der Hund begraben."], "a": 1, "why": "Schwein haben = to be lucky, so this means ‘You were really lucky!’"},
+    "outro": "If anything lucky happens to you today, say ‘Ich habe Schwein gehabt!’ out loud. One animal idiom and your German comes alive! 🍀"
+  },
+  "ja": {
+    "title": "ブタは幸運のしるし？ドイツ語の動物慣用句10",
+    "hook": "ドイツ語では、運がいいと「ブタを持っている」、変な人は「鳥を飼っている」と言います。",
+    "intro": [
+      "ドイツ人の友だちに「道で50ユーロ拾ったよ」と話したら、「Da hast du aber Schwein gehabt!」。ブタ？私がどんなブタを持っているって？実は「本当にラッキーだったね！」という意味でした。",
+      "今日はドイツ人が日常でよく使う動物の慣用句を10個集めました。猫、ハエ、蚊、ウサギ…動物の絵を思い浮かべれば、意味がすっと頭に入ります。この10個で、ドイツ語がぐっと味わい深くなりますよ！🐷"
+    ],
+    "words": {
+      "C2-384": {"pron": "シュヴァイン ハーベン", "tip": "ドイツではブタは幸運のシンボル 🐷 昔の競技で最下位が残念賞にブタをもらったという説も！", "warn": "冠詞なしで使います：Schwein haben（ein Schwein haben ではありません）。"},
+      "C2-410": {"pron": "ディー カッツェ アウス デム ザック ラッセン", "tip": "袋の中の猫を外に出す = 秘密をばらす 🐱 英語の let the cat out of the bag と同じ！", "bonus": "似た意味：ein Geheimnis verraten = 秘密を漏らす"},
+      "C2-145": {"pron": "ディー カッツェ イム ザック カウフェン", "tip": "ウサギだと思って買った袋の中に猫が！🐈 確かめずに買うとこうなります。", "warn": "aus dem Sack lassen（秘密を明かす）と混同しないように！"},
+      "C2-537": {"pron": "ツヴァイ フリーゲン ミット アイナー クラッペ シュラーゲン", "tip": "ハエたたき（Klappe）一発でハエ2匹 🪰 日本語なら一石二鳥！", "bonus": "ハエたたきは今は die Fliegenklatsche と言うことが多いです。"},
+      "C2-529": {"pron": "アウス アイナー ミュッケ アイネン エレファンテン マッヘン", "tip": "蚊（Mücke）を象にしてしまう 🐘 まさに針小棒大！", "bonus": "否定の命令でよく使います：Mach aus einer Mücke keinen Elefanten!"},
+      "C2-535": {"pron": "ダス シュヴァルツェ シャーフ", "tip": "白い羊の群れに黒い羊が1匹 🐑 英語の black sheep と同じイメージ。", "bonus": "よく「家族の」と一緒に：das schwarze Schaf der Familie"},
+      "C2-539": {"pron": "アイン アルター ハーゼ ザイン", "tip": "数えきれない猟師から逃げ延びた年寄りウサギ 🐇 = その道のベテラン！", "bonus": "反対語：der Neuling = 新人"},
+      "C2-754": {"pron": "ヴィー フント ウント カッツェ", "tip": "日本は犬と猿、ドイツは犬と猫 🐶 仲が悪いのは同じです！", "bonus": "動詞と一緒に：wie Hund und Katze leben / sich wie Hund und Katze streiten"},
+      "C2-1783": {"pron": "アイネン フォーゲル ハーベン", "tip": "頭の中に鳥が住んでいる = 頭がおかしい 🐦 Du hast doch einen Vogel!", "warn": "かなり失礼な言い方です。運転中に額を指でたたく仕草（den Vogel zeigen）は侮辱として罰金になることも。"},
+      "C2-542": {"pron": "ダー リークト デア フント ベグラーベン", "tip": "犬が埋まっている場所 = 問題の核心が隠れている所 🐕「そこが問題なんだ！」", "bonus": "似た言葉：der Knackpunkt = 核心となる問題"}
+    },
+    "culture": [
+      "ドイツではブタは幸運のシンボルです。新年にはマジパンでできた小さなブタ（Glücksschwein）を贈る習慣があり、煙突掃除人、四つ葉のクローバー、赤いベニテングタケも代表的な幸運のお守り（Glücksbringer）です。",
+      "同じ意味でも、国によって登場する動物が違います。日本語の「犬猿の仲」はドイツ語では犬と猫、「一石二鳥」の石と鳥はドイツ語ではハエたたきとハエ。比べながら覚えると、ぐっと楽しくなります。",
+      "それから einen Vogel haben には仕草もあります。人差し指で額をトントンたたくのですが、かなり侮辱的なジェスチャーなので、運転中にやると問題になることも。知っておくだけにして、使わないでくださいね！🐦"
+    ],
+    "quiz": {"q": "友だちが道で50ユーロ拾ったそうです。どう反応しますか？", "o": ["Du hast einen Vogel!", "Da hast du aber Schwein gehabt!", "Da liegt der Hund begraben."], "a": 1, "why": "Schwein haben = 運がいい。「本当にラッキーだったね！」という意味です。"},
+    "outro": "今日ひとつでもラッキーなことがあったら、「Ich habe Schwein gehabt!」と言ってみましょう。動物の慣用句ひとつで、ドイツ語が生き生きしてきます！🍀"
+  }
+}

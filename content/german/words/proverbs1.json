@@ -1,0 +1,84 @@
+{
+  "key": "proverbs1",
+  "ko": {
+    "title": "독일 사람처럼 한마디 툭! 속담 10개",
+    "hook": "독일 친구가 대화 중에 속담 한 줄을 툭 던졌을 때, 바로 받아칠 수 있다면 얼마나 멋질까요?",
+    "intro": [
+      "회사 동료의 딸이 엄마처럼 변호사가 됐대요. 다른 동료가 웃으면서 \"Na ja, der Apfel fällt nicht weit vom Stamm.\"이라고 하네요. 사과가 줄기에서 멀리 안 떨어진다고? 아하, 부전자전이구나!",
+      "오늘은 독일 사람들이 일상에서 정말 자주 쓰는 속담 10개를 골랐어요. 한국어나 영어 속담과 비슷한 것도 많아서 생각보다 쉽게 외울 수 있어요. 대화에 한 줄 섞으면 독일어 실력이 확 달라 보여요! 📜"
+    ],
+    "words": {
+      "C2-627": {"pron": "모르겐슈툰트 하트 골트 임 문트", "tip": "Stund와 Mund가 라임! 아침 시간은 입에 금을 물고 와요 🌅", "warn": "Morgenstund는 Morgenstunde의 옛날식 짧은 형태예요. 속담에서만 이렇게 써요.", "bonus": "한국 속담으로는 ‘일찍 일어나는 새가 벌레를 잡는다’"},
+      "C2-630": {"pron": "뤼겐 하벤 쿠르체 바이네", "tip": "거짓말은 다리가 짧아서 멀리 못 도망가요 🦵 결국 금방 들통!", "bonus": "단수는 die Lüge, 거짓말하다는 lügen"},
+      "C2-631": {"pron": "데어 압펠 펠트 니히트 바이트 폼 슈탐", "tip": "사과는 나무 줄기(Stamm) 바로 옆에 떨어져요 🍎 영어 속담과 그림이 똑같아요.", "bonus": "한국어로는 ‘부전자전’, ‘그 부모에 그 자식’"},
+      "C2-633": {"pron": "레덴 이스트 질버, 슈바이겐 이스트 골트", "tip": "말하기(Reden)는 은메달, 침묵(Schweigen)은 금메달 🥇", "bonus": "동사를 그대로 명사로 쓰면 das: das Reden, das Schweigen"},
+      "C2-628": {"pron": "베어 추레츠트 라흐트, 라흐트 암 베스텐", "tip": "zuletzt(마지막에) 웃는 사람이 am besten(가장 잘) 웃어요 😏", "warn": "wer로 시작하는 문장은 동사가 쉼표 앞 끝으로 가요: Wer zuletzt lacht, …"},
+      "C2-634": {"pron": "필레 쾨헤 페어데르벤 덴 브라이", "tip": "요리사가 많으면 죽(Brei)을 망쳐요 🍲 한국에선 배가 산으로 가죠!", "warn": "der Koch의 복수는 움라우트가 생겨요: die Köche."},
+      "C2-643": {"pron": "에스 이스트 니히트 알레스 골트, 바스 글렌츠트", "tip": "glänzen(반짝이다)은 영어 glint, glance와 친척 ✨ 반짝인다고 다 금은 아니에요.", "bonus": "짧게 줄여 Nicht alles Gold, was glänzt.라고도 해요."},
+      "C2-4160": {"pron": "오네 플라이스 카인 프라이스", "tip": "Fleiß(부지런함)와 Preis(상)가 라임 🏆 노력 없이는 상도 없어요!", "bonus": "형용사 fleißig = 부지런한 · Du bist so fleißig!"},
+      "C2-4176": {"pron": "알러 구텐 딩에 진트 드라이", "tip": "좋은 건 셋이 한 세트 3️⃣ 한국의 ‘삼세번’과 딱이에요!", "warn": "aller는 alle가 아니라 옛날 2격 복수 형태예요. 그대로 외워요."},
+      "C2-632": {"pron": "베어 아 작트, 무스 아우흐 베 자겐", "tip": "알파벳 A를 말했으면 B도 말해야죠 🔤 ‘칼을 뽑았으면 무라도 썰어라’!", "bonus": "알파벳 발음도 같이: A는 ‘아’, B는 ‘베’"}
+    },
+    "culture": [
+      "독일 속담에는 라임이 많아요. Stund–Mund, Fleiß–Preis처럼 소리가 맞아서 리듬으로 외우기 쉽죠. 어릴 때 할머니나 선생님에게서 귀에 못이 박히게 듣는 경우가 많아요.",
+      "대화에서는 속담을 끝까지 다 말하지 않고 앞부분만 말하는 경우도 많아요. \"Na ja, wer zuletzt lacht …\" 하고 멈추면 듣는 사람이 속으로 나머지를 채우는 거죠.",
+      "Aller guten Dinge sind drei의 Ding은 옛 게르만 사람들의 재판 모임을 가리켰다는 설이 있어요. 단어 하나에도 역사가 숨어 있죠. 📜"
+    ],
+    "quiz": {"q": "운전면허 시험에 두 번 떨어진 친구가 세 번째 시험을 보러 가요. 응원의 한마디는?", "o": ["Lügen haben kurze Beine.", "Viele Köche verderben den Brei.", "Aller guten Dinge sind drei!"], "a": 2, "why": "Aller guten Dinge sind drei = 삼세번! 이번엔 꼭 될 거라는 응원이에요."},
+    "outro": "오늘 속담 중 제일 마음에 드는 하나를 골라 하루 종일 기회를 노려 봐요. 소리 내서 세 번 말하면, Aller guten Dinge sind drei! 😉"
+  },
+  "en": {
+    "title": "Sound like a local: 10 German proverbs",
+    "hook": "Imagine a German friend drops a proverb into the conversation — and you know exactly what it means.",
+    "intro": [
+      "A colleague's daughter has become a lawyer, just like her mum. Someone smiles and says, \"Na ja, der Apfel fällt nicht weit vom Stamm.\" The apple doesn't fall far from the trunk? Oh — like mother, like daughter!",
+      "Today's ten proverbs are ones Germans really use in everyday life. Many have close English twins, so they're easier to learn than you'd think. Slip one into a conversation and your German instantly sounds more fluent! 📜"
+    ],
+    "words": {
+      "C2-627": {"pron": "MOR-gen-shtoont hat GOLT im MOONT", "tip": "Stund rhymes with Mund: the morning hour has gold in its mouth 🌅", "warn": "Morgenstund is an old short form of Morgenstunde, used only in this saying.", "bonus": "English: The early bird catches the worm."},
+      "C2-630": {"pron": "LUE-gen HAH-ben KOOR-tsuh BY-nuh", "tip": "Lies have short legs, so they can't run far 🦵 You'll get caught!", "bonus": "a lie = die Lüge · to lie = lügen"},
+      "C2-631": {"pron": "dair AP-fel FELT nikht VITE fom SHTAM", "tip": "Apples land right by the trunk (Stamm) 🍎 Same picture as in English.", "bonus": "Also used as ‘like father, like son’."},
+      "C2-633": {"pron": "RAY-den ist ZIL-ber, SHVY-gen ist GOLT", "tip": "Talking (Reden) gets silver, silence (Schweigen) gets gold 🥇", "bonus": "Verbs used as nouns are das: das Reden, das Schweigen"},
+      "C2-628": {"pron": "vair tsoo-LETST lakht, lakht am BES-ten", "tip": "Whoever laughs last (zuletzt) laughs best (am besten) 😏", "warn": "In a wer clause the verb goes to the end: Wer zuletzt lacht, …"},
+      "C2-634": {"pron": "FEE-luh KUR-khuh fer-DAIR-ben dain BRY", "tip": "Too many cooks spoil the porridge (Brei) 🍲 The English has broth instead.", "warn": "der Koch has an umlaut in the plural: die Köche."},
+      "C2-643": {"pron": "es ist nikht AL-es GOLT, vas GLENTST", "tip": "glänzen (to shine) is a cousin of English glint and glance ✨", "bonus": "Often shortened: Nicht alles Gold, was glänzt."},
+      "C2-4160": {"pron": "OH-nuh FLICE kine PRICE", "tip": "Fleiß (hard work) rhymes with Preis (prize) 🏆 No pain, no gain!", "bonus": "fleißig = hard-working · Du bist so fleißig!"},
+      "C2-4176": {"pron": "AL-er GOO-ten DING-uh zint DRY", "tip": "Good things come in threes 3️⃣ Third time lucky!", "warn": "aller isn't alle — it's an old genitive plural. Just learn it as it is."},
+      "C2-632": {"pron": "vair AH zahkt, mooss owkh BAY ZAH-gen", "tip": "If you say A, you have to say B 🔤 In for a penny, in for a pound!", "bonus": "German letters: A sounds like ‘ah’, B like ‘bay’."}
+    },
+    "culture": [
+      "Lots of German proverbs rhyme — Stund and Mund, Fleiß and Preis — which makes them easy to remember. Many people grow up hearing them again and again from grandparents and teachers.",
+      "In conversation, people often say only the first half of a proverb. Stop at \"Na ja, wer zuletzt lacht …\" and the listener finishes it in their head.",
+      "One theory says the Ding in Aller guten Dinge sind drei refers to old Germanic court assemblies. Even a small word can carry a bit of history. 📜"
+    ],
+    "quiz": {"q": "Your friend has failed the driving test twice and is off to try a third time. What do you say to cheer them on?", "o": ["Lügen haben kurze Beine.", "Viele Köche verderben den Brei.", "Aller guten Dinge sind drei!"], "a": 2, "why": "Aller guten Dinge sind drei = third time lucky, so it wishes them success this time."},
+    "outro": "Pick your favourite proverb from today and look for a chance to use it. Say it out loud three times — aller guten Dinge sind drei! 😉"
+  },
+  "ja": {
+    "title": "ドイツ人みたいにひとこと！ことわざ10",
+    "hook": "ドイツ人の友だちが会話の中でことわざをさらっと言ったとき、すぐ意味がわかったらかっこいいですよね。",
+    "intro": [
+      "同僚の娘さんが、お母さんと同じ弁護士になったそうです。別の同僚が笑って \"Na ja, der Apfel fällt nicht weit vom Stamm.\" と言いました。リンゴは幹から遠くに落ちない？なるほど、蛙の子は蛙ですね！",
+      "今日はドイツ人が日常で本当によく使うことわざを10個選びました。日本語や英語のことわざと似ているものも多く、思ったより覚えやすいですよ。会話にひとこと混ぜるだけで、ドイツ語がぐっと上手に聞こえます！📜"
+    ],
+    "words": {
+      "C2-627": {"pron": "モルゲンシュトゥント ハット ゴルト イム ムント", "tip": "Stund と Mund で韻を踏んでいます！朝の時間は口に金をくわえてやってくる 🌅", "warn": "Morgenstund は Morgenstunde の古い短い形。このことわざでだけ使います。", "bonus": "日本語なら「早起きは三文の徳」"},
+      "C2-630": {"pron": "リューゲン ハーベン クルツェ バイネ", "tip": "嘘は足が短いから遠くまで逃げられない 🦵 すぐばれる！", "bonus": "嘘 = die Lüge、嘘をつく = lügen"},
+      "C2-631": {"pron": "デア アプフェル フェルト ニヒト ヴァイト フォム シュタム", "tip": "リンゴは幹（Stamm）のすぐそばに落ちる 🍎 英語のことわざと同じイメージ。", "bonus": "日本語なら「蛙の子は蛙」"},
+      "C2-633": {"pron": "レーデン イスト ズィルバー、シュヴァイゲン イスト ゴルト", "tip": "話すこと（Reden）は銀メダル、沈黙（Schweigen）は金メダル 🥇", "bonus": "動詞をそのまま名詞にすると das：das Reden、das Schweigen"},
+      "C2-628": {"pron": "ヴェア ツーレッツト ラハト、ラハト アム ベステン", "tip": "最後に（zuletzt）笑う人がいちばんよく（am besten）笑う 😏", "warn": "wer で始まる文では動詞がコンマの前の最後へ：Wer zuletzt lacht, …"},
+      "C2-634": {"pron": "フィーレ ケッヒェ フェアデルベン デン ブライ", "tip": "料理人が多いとおかゆ（Brei）が台無し 🍲 日本では船が山に上ります！", "warn": "der Koch の複数形はウムラウト：die Köche."},
+      "C2-643": {"pron": "エス イスト ニヒト アレス ゴルト、ヴァス グレンツト", "tip": "glänzen（輝く）は英語の glint、glance の親戚 ✨ 光るもの必ずしも金ならず。", "bonus": "短く Nicht alles Gold, was glänzt. とも言います。"},
+      "C2-4160": {"pron": "オーネ フライス カイン プライス", "tip": "Fleiß（勤勉）と Preis（賞）で韻を踏む 🏆 努力なくして賞なし！", "bonus": "形容詞 fleißig = 勤勉な · Du bist so fleißig!"},
+      "C2-4176": {"pron": "アラー グーテン ディンゲ ズィント ドライ", "tip": "いいことは3つでひとセット 3️⃣ まさに「三度目の正直」！", "warn": "aller は alle ではなく、古い2格複数の形。そのまま覚えましょう。"},
+      "C2-632": {"pron": "ヴェア アー ザークト、ムス アウホ ベー ザーゲン", "tip": "A と言ったら B も言わなきゃ 🔤「乗りかかった船」です！", "bonus": "アルファベットの読み方も一緒に：A は「アー」、B は「ベー」"}
+    },
+    "culture": [
+      "ドイツのことわざには韻を踏むものがたくさんあります。Stund と Mund、Fleiß と Preis のように音がそろっているので、リズムで覚えやすいんです。子どものころ、祖父母や先生から何度も聞かされて育つ人も多いです。",
+      "会話では、ことわざを最後まで言わずに前半だけで止めることもよくあります。\"Na ja, wer zuletzt lacht …\" と言えば、聞き手が心の中で続きを補うわけです。",
+      "Aller guten Dinge sind drei の Ding は、昔のゲルマン人の裁判の集まりを指していたという説があります。小さな単語にも歴史が隠れているんですね。📜"
+    ],
+    "quiz": {"q": "運転免許の試験に2回落ちた友だちが、3回目の試験に向かいます。応援のひとことは？", "o": ["Lügen haben kurze Beine.", "Viele Köche verderben den Brei.", "Aller guten Dinge sind drei!"], "a": 2, "why": "Aller guten Dinge sind drei = 三度目の正直！今度こそうまくいくよ、という応援です。"},
+    "outro": "今日のことわざからお気に入りをひとつ選んで、使うチャンスを探してみましょう。声に出して3回言えば、Aller guten Dinge sind drei! 😉"
+  }
+}

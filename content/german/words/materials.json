@@ -16,7 +16,7 @@
       "A1-281": {"pron": "파피어", "tip": "그리스어 papyros(파피루스) 📜 영어 paper의 사촌!", "warn": "복수 die Papiere는 ‘서류’라는 뜻이 돼요."},
       "B1-1203": {"pron": "슈토프", "tip": "영어 stuff와 친척 🧶 천도, 물질도, 공부할 내용도 전부 Stoff!", "bonus": "시험 범위 = der Prüfungsstoff"},
       "B1-909": {"pron": "레더", "tip": "영어 leather와 같은 뿌리 👜 진짜 가죽은 echtes Leder!", "warn": "복수도 똑같이 die Leder예요."},
-      "B1-1197": {"pron": "슈타인", "tip": "영어 stone과 같은 뿌리 🪨 맥주잔 Stein도 원래 돌잔에서 왔대요!", "bonus": "Mir fällt ein Stein vom Herzen. = 마음의 짐을 덜었어요."},
+      "B1-1197": {"pron": "슈타인", "tip": "영어 stone과 같은 뿌리 🪨 맥주잔을 Stein이라 부르는 것도 돌처럼 단단한 도자기(Steinzeug)에서 왔어요!", "bonus": "Mir fällt ein Stein vom Herzen. = 마음의 짐을 덜었어요."},
       "A2-479": {"pron": "하르트", "tip": "영어 hard와 같은 뿌리 💪 딱딱해도, 힘들어도 hart!", "bonus": "반대말: weich = 부드러운"}
     },
     "culture": [
@@ -43,7 +43,7 @@
       "A1-281": {"pron": "pa-PEER", "tip": "From Greek papyros (papyrus) 📜 A cousin of paper.", "warn": "The plural die Papiere means documents."},
       "B1-1203": {"pron": "SHTOF", "tip": "Related to English stuff 🧶 Fabric, substance or study material — all Stoff.", "bonus": "material for an exam = der Prüfungsstoff"},
       "B1-909": {"pron": "LAY-der", "tip": "Same root as leather 👜 Real leather is echtes Leder.", "warn": "The plural is the same: die Leder"},
-      "B1-1197": {"pron": "SHTINE", "tip": "Same root as stone 🪨 Beer steins were originally stone mugs.", "bonus": "Mir fällt ein Stein vom Herzen. = That's a weight off my mind."},
+      "B1-1197": {"pron": "SHTINE", "tip": "Same root as stone 🪨 Beer steins are named after Steinzeug, stoneware.", "bonus": "Mir fällt ein Stein vom Herzen. = That's a weight off my mind."},
       "A2-479": {"pron": "HART", "tip": "Same root as hard 💪 Hard surfaces and hard times are both hart.", "bonus": "Opposite: weich = soft"}
     },
     "culture": [
@@ -70,7 +70,7 @@
       "A1-281": {"pron": "パピーア", "tip": "ギリシャ語 papyros（パピルス）から 📜 英語の paper のいとこ！", "warn": "複数形 die Papiere は「書類」の意味になります。"},
       "B1-1203": {"pron": "シュトッフ", "tip": "英語の stuff の親戚 🧶 布も物質も勉強の内容もぜんぶ Stoff！", "bonus": "試験範囲 = der Prüfungsstoff"},
       "B1-909": {"pron": "レーダー", "tip": "英語の leather と同じ語源 👜 本革は echtes Leder！", "warn": "複数形も同じ die Leder です。"},
-      "B1-1197": {"pron": "シュタイン", "tip": "英語の stone と同じ語源 🪨 ビールジョッキの「シュタイン」も石のジョッキから！", "bonus": "Mir fällt ein Stein vom Herzen. = 肩の荷が下りました。"},
+      "B1-1197": {"pron": "シュタイン", "tip": "英語の stone と同じ語源 🪨 ビールジョッキの「シュタイン」は炻器（Steinzeug）から！", "bonus": "Mir fällt ein Stein vom Herzen. = 肩の荷が下りました。"},
       "A2-479": {"pron": "ハルト", "tip": "英語の hard と同じ語源 💪 かたくても、つらくても hart！", "bonus": "反対語：weich = やわらかい"}
     },
     "culture": [

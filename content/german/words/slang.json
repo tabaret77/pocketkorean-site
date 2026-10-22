@@ -1,0 +1,84 @@
+{
+  "key": "slang",
+  "ko": {
+    "title": "교과서엔 없는 진짜 독일어, 구어 10개",
+    "hook": "독일 친구들의 수다를 반만 알아듣는다면, 범인은 오늘 배울 단어들이에요.",
+    "intro": [
+      "어학원에선 ‘Ich habe kein Geld.’라고 배웠는데, 독일 친구는 ‘Ich bin pleite, keine Kohle mehr!’라고 해요. 다들 ‘krass!’ 하며 웃는데 나만 무슨 뜻인지 몰라서 따라 웃었어요.",
+      "오늘은 친구 사이에서 정말 자주 쓰는 구어 10개예요. 이 단어들을 알면 드라마, 유튜브, 친구들 수다가 훨씬 잘 들려요. 다만 회사나 관공서에선 아껴 두기로 해요! 😎"
+    ],
+    "words": {
+      "A2-881": {"pron": "크바치", "tip": "진흙 밟는 ‘철퍽’ 소리에서 왔다는 설 💬 말도 안 되는 소리는 Quatsch!", "bonus": "Quatsch mit Soße! = 완전 헛소리야!"},
+      "A2-824": {"pron": "도프", "tip": "영어 deaf(귀먹은)와 같은 뿌리 🙄 못 알아듣는 바보 같은 느낌!", "warn": "사람에게 직접 쓰면 무례할 수 있어요. 상황에 쓰는 게 안전해요: Das ist doof."},
+      "B2-2151": {"pron": "크바첸", "tip": "Quatsch의 동사 버전 🗣️ 밤새 떠드는 수다도, 헛소리도 quatschen!", "bonus": "Lass uns mal quatschen! = 우리 수다 한번 떨자!"},
+      "C2-1800": {"pron": "쿰펠", "tip": "원래 광부들이 동료를 부르던 말 ⛏️ 같이 땀 흘린 친구가 Kumpel!", "warn": "복수는 die Kumpel, 구어로는 die Kumpels도 많이 써요."},
+      "C2-1803": {"pron": "클라모텐", "tip": "‘클라모텐’, 옷장에서 와르르 쏟아지는 옷더미 소리 같죠 👕", "warn": "보통 복수로 써요: meine Klamotten"},
+      "C2-1694": {"pron": "콜레", "tip": "원래 뜻은 석탄 🪨 석탄처럼 꼭 필요한 게 돈!", "bonus": "돈을 뜻하는 다른 구어: die Knete"},
+      "B2-563": {"pron": "플라이테", "tip": "이디시어 ‘도망’에서 왔어요 💸 돈이 다 도망가 버린 상태!", "bonus": "명사 die Pleite = 파산, 대실패"},
+      "C2-1683": {"pron": "페넨", "tip": "‘펜’을 손에 쥔 채 꾸벅꾸벅 😴 수업 시간에 자는 그 느낌!", "bonus": "verpennen = 늦잠 자서 놓치다: Ich hab verpennt."},
+      "C2-1719": {"pron": "칠렌", "tip": "영어 chill에 -en만 붙였어요 🛋️ 독일 동사로 변신 완료!", "bonus": "Chill mal! = 진정해!"},
+      "C2-1864": {"pron": "크라스", "tip": "영어 crass와 같은 뿌리 🤯 좋을 때도 나쁠 때도 ‘대박!’", "bonus": "문어에서는 ‘극단적인’: ein krasser Unterschied"}
+    },
+    "culture": [
+      "독일어에도 말투의 높낮이가 있어요. 오늘 배운 단어들은 친구, 가족, 동료와 편하게 이야기할 때 쓰는 말이에요. 면접이나 관공서, 처음 만난 어른 앞에서는 Geld, Kleidung, schlafen처럼 기본 단어를 쓰는 게 좋아요.",
+      "구어는 지역마다도 달라요. 북쪽에선 ‘Moin!’, 남쪽에선 ‘Servus!’라고 인사하는 것처럼 같은 뜻이어도 지역마다 다른 말을 써요. 독일 친구에게 ‘너희 동네에선 뭐라고 해?’ 하고 물어보면 대화가 술술 풀려요.",
+      "그리고 청소년 은어는 정말 빨리 바뀌어요. 독일에서는 매년 ‘올해의 청소년 단어(Jugendwort des Jahres)’를 뽑는데, 어른들은 뜻을 몰라 웃음거리가 되기도 해요. 😄"
+    ],
+    "quiz": {"q": "월말에 친구가 비싼 레스토랑에 가자고 해요. 편하게 거절하려면?", "o": ["Krass, ich komme mit!", "Ich penne schon seit Montag.", "Sorry, ich bin total pleite."], "a": 2, "why": "pleite = 돈이 하나도 없는, 그래서 못 간다는 뜻이에요."},
+    "outro": "오늘은 친구에게 보내는 메시지에 오늘 단어 하나를 슬쩍 넣어 봐요. ‘Lass uns am Wochenende chillen!’ 어때요? 😎"
+  },
+  "en": {
+    "title": "Real-life German: 10 colloquial words your textbook skipped",
+    "hook": "If you only catch half of what your German friends say, these ten words are probably why.",
+    "intro": [
+      "Your textbook taught you ‘Ich habe kein Geld.’, but your German friend says ‘Ich bin pleite, keine Kohle mehr!’ Everyone laughs and says ‘krass!’, and you laugh along without a clue.",
+      "Today's ten words are colloquial German that friends use all the time. Knowing them makes TV series, YouTube and friends' chat much easier to follow. Just save them for casual moments, not the office or the town hall! 😎"
+    ],
+    "words": {
+      "A2-881": {"pron": "kvatch", "tip": "Possibly from the squelch of mud underfoot 💬 Mushy talk = Quatsch!", "bonus": "Quatsch mit Soße! = Total rubbish!"},
+      "A2-824": {"pron": "dohf", "tip": "Same root as English deaf 🙄 Someone who doesn't get it.", "warn": "Calling a person doof can be rude. It's safer for situations: Das ist doof."},
+      "B2-2151": {"pron": "KVATCH-en", "tip": "The verb from Quatsch 🗣️ Chatting all night, or talking nonsense — both quatschen.", "bonus": "Lass uns mal quatschen! = Let's have a chat!"},
+      "C2-1800": {"pron": "KOOM-pel", "tip": "Originally what miners called each other ⛏️ Your mate from down the mine.", "warn": "Plural: die Kumpel, though die Kumpels is common in speech."},
+      "C2-1803": {"pron": "kla-MOT-en", "tip": "Sounds like a pile of clothes tumbling out of the wardrobe 👕", "warn": "Usually plural: meine Klamotten"},
+      "C2-1694": {"pron": "KOH-luh", "tip": "It literally means coal 🪨 Like coal, money keeps things running.", "bonus": "Another slang word for money: die Knete"},
+      "B2-563": {"pron": "PLY-tuh", "tip": "From a Yiddish word for escape 💸 All your money ran away.", "bonus": "The noun die Pleite = bankruptcy, a flop"},
+      "C2-1683": {"pron": "PEN-en", "tip": "Picture nodding off over your pen in class 😴", "bonus": "verpennen = to oversleep and miss something: Ich hab verpennt."},
+      "C2-1719": {"pron": "CHIL-en", "tip": "English chill + -en 🛋️ Now it's a German verb.", "bonus": "Chill mal! = Calm down!"},
+      "C2-1864": {"pron": "krass", "tip": "Same root as English crass 🤯 Use it for amazing and for awful.", "bonus": "In formal writing it means extreme: ein krasser Unterschied"}
+    },
+    "culture": [
+      "German has registers too. Today's words are for relaxed talk with friends, family and colleagues you know well. At a job interview, the town hall or with older people you've just met, stick to Geld, Kleidung and schlafen.",
+      "Colloquial German also changes from region to region. In the north people greet you with ‘Moin!’, in the south with ‘Servus!’. Asking a German friend ‘What do you say where you're from?’ is a great conversation starter.",
+      "Youth slang moves fast. Every year a ‘youth word of the year’ (Jugendwort des Jahres) is chosen in Germany, and plenty of adults have no idea what it means. 😄"
+    ],
+    "quiz": {"q": "It's the end of the month and a friend suggests an expensive restaurant. How do you say no casually?", "o": ["Krass, ich komme mit!", "Ich penne schon seit Montag.", "Sorry, ich bin total pleite."], "a": 2, "why": "pleite means broke, so you can't go."},
+    "outro": "Slip one of today's words into a message to a friend. How about ‘Lass uns am Wochenende chillen!’? 😎"
+  },
+  "ja": {
+    "title": "教科書には載っていない！リアルなドイツ語の口語10",
+    "hook": "ドイツ人の友だちのおしゃべりが半分しかわからないなら、原因は今日の単語かもしれません。",
+    "intro": [
+      "語学学校では「Ich habe kein Geld.」と習ったのに、ドイツ人の友だちは「Ich bin pleite, keine Kohle mehr!」と言います。みんなが「krass!」と笑っているのに、意味がわからず一緒に笑ってごまかしました。",
+      "今日は友だち同士で本当によく使う口語10個です。これがわかれば、ドラマやYouTube、友だちのおしゃべりがぐっと聞き取りやすくなります。ただし会社や役所ではとっておきましょうね！😎"
+    ],
+    "words": {
+      "A2-881": {"pron": "クヴァッチュ", "tip": "ぬかるみを踏む「ぐちゃっ」という音から来たという説 💬 ぐちゃぐちゃな話は Quatsch！", "bonus": "Quatsch mit Soße! = まったくのでたらめ！"},
+      "A2-824": {"pron": "ドーフ", "tip": "英語の deaf（耳が聞こえない）と同じ語源 🙄 話が通じないおバカな感じ！", "warn": "人に直接言うと失礼になることも。状況に使うのが無難です：Das ist doof."},
+      "B2-2151": {"pron": "クヴァッチェン", "tip": "Quatsch の動詞版 🗣️ 夜通しのおしゃべりも、くだらない話も quatschen！", "bonus": "Lass uns mal quatschen! = 今度おしゃべりしよう！"},
+      "C2-1800": {"pron": "クンペル", "tip": "もとは炭鉱夫が仲間を呼んだ言葉 ⛏️ 一緒に汗を流した仲間が Kumpel！", "warn": "複数形は die Kumpel、口語では die Kumpels もよく使います。"},
+      "C2-1803": {"pron": "クラモッテン", "tip": "クローゼットから服がどさっと落ちてくる音みたい 👕", "warn": "ふつう複数形で使います：meine Klamotten"},
+      "C2-1694": {"pron": "コーレ", "tip": "もとの意味は石炭 🪨 石炭のように生活に欠かせないのがお金！", "bonus": "お金を表す別の口語：die Knete"},
+      "B2-563": {"pron": "プライテ", "tip": "イディッシュ語の「逃亡」から 💸 お金がみんな逃げちゃった状態！", "bonus": "名詞 die Pleite = 破産、大失敗"},
+      "C2-1683": {"pron": "ペンネン", "tip": "ペンを持ったままこっくりこっくり 😴 授業中の居眠りのイメージ！", "bonus": "verpennen = 寝過ごして逃す：Ich hab verpennt."},
+      "C2-1719": {"pron": "チレン", "tip": "英語の chill に -en を付けただけ 🛋️ ドイツ語の動詞に変身！", "bonus": "Chill mal! = 落ち着いて！"},
+      "C2-1864": {"pron": "クラス", "tip": "英語の crass と同じ語源 🤯 いいときも悪いときも「ヤバい！」", "bonus": "書き言葉では「極端な」：ein krasser Unterschied"}
+    },
+    "culture": [
+      "ドイツ語にも言葉づかいの段階があります。今日の単語は、友だちや家族、気心の知れた同僚と気軽に話すときの言葉です。面接や役所、初対面の目上の人の前では、Geld、Kleidung、schlafen のような基本の単語を使いましょう。",
+      "口語は地域によっても違います。北では「Moin!」、南では「Servus!」とあいさつするように、同じ意味でも地域ごとに言葉が変わります。ドイツ人の友だちに「あなたの地元では何て言う？」と聞くと、会話が盛り上がりますよ。",
+      "そして若者言葉は本当に移り変わりが速いです。ドイツでは毎年「今年の若者言葉（Jugendwort des Jahres）」が選ばれますが、大人は意味がわからないことも多いです。😄"
+    ],
+    "quiz": {"q": "月末に友だちが高いレストランに誘ってくれました。気軽に断るなら？", "o": ["Krass, ich komme mit!", "Ich penne schon seit Montag.", "Sorry, ich bin total pleite."], "a": 2, "why": "pleite は「お金がない」なので、行けないという意味になります。"},
+    "outro": "今日は友だちへのメッセージに、今日の単語を一つこっそり入れてみましょう。「Lass uns am Wochenende chillen!」なんてどうですか？😎"
+  }
+}
