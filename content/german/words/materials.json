@@ -1,0 +1,84 @@
+{
+  "key": "materials",
+  "ko": {
+    "title": "„Ist das aus Holz?“ 물건을 설명하는 독일어 10",
+    "hook": "벼룩시장에서 마음에 드는 가방을 발견했다면, 제일 먼저 물어볼 건 ‘이거 뭘로 만든 거예요?’예요.",
+    "intro": [
+      "주말 벼룩시장(Flohmarkt)에서 예쁜 가방을 들고 „Ist das echt?“만 반복했어요. 진짜 가죽인지 묻고 싶었는데 ‘가죽’이라는 단어가 안 떠올랐거든요.",
+      "오늘은 물건이 무엇으로 만들어졌는지 말할 때 쓰는 단어 10개를 모았어요. 이 10개면 쇼핑할 때 소재를 묻고, 분리수거도 헷갈리지 않고, 내 물건을 설명할 수 있어요. 🧱"
+    ],
+    "words": {
+      "B1-934": {"pron": "마테리알", "tip": "영어 material과 같아요 🧵 강세는 끝의 ‘알’에!", "warn": "복수가 특이해요: die Materialien"},
+      "B1-789": {"pron": "홀츠", "tip": "‘홀쭉한 나무’ 홀츠 🌳 옛날엔 ‘숲’이라는 뜻도 있었어요.", "bonus": "Klopf auf Holz! = 부정 타지 않게 나무를 두드려!"},
+      "B1-947": {"pron": "메탈", "tip": "영어 metal 그대로 🤘 강세만 뒤로: 메탈!", "bonus": "‘~로 만든’은 aus + 3격: aus Metall, aus Holz"},
+      "B1-1415": {"pron": "볼레", "tip": "영어 wool과 같은 뿌리 🐑 양털 스웨터는 aus Wolle!", "bonus": "형용사 wollig = 털 같은, 포근한"},
+      "B1-891": {"pron": "쿤스트슈토프", "tip": "Kunst(인공) + Stoff(물질) = 사람이 만든 물질 🧴 플라스틱의 정식 이름!", "bonus": "일상에서는 das Plastik이라고도 많이 해요."},
+      "A1-281": {"pron": "파피어", "tip": "그리스어 papyros(파피루스) 📜 영어 paper의 사촌!", "warn": "복수 die Papiere는 ‘서류’라는 뜻이 돼요."},
+      "B1-1203": {"pron": "슈토프", "tip": "영어 stuff와 친척 🧶 천도, 물질도, 공부할 내용도 전부 Stoff!", "bonus": "시험 범위 = der Prüfungsstoff"},
+      "B1-909": {"pron": "레더", "tip": "영어 leather와 같은 뿌리 👜 진짜 가죽은 echtes Leder!", "warn": "복수도 똑같이 die Leder예요."},
+      "B1-1197": {"pron": "슈타인", "tip": "영어 stone과 같은 뿌리 🪨 맥주잔 Stein도 원래 돌잔에서 왔대요!", "bonus": "Mir fällt ein Stein vom Herzen. = 마음의 짐을 덜었어요."},
+      "A2-479": {"pron": "하르트", "tip": "영어 hard와 같은 뿌리 💪 딱딱해도, 힘들어도 hart!", "bonus": "반대말: weich = 부드러운"}
+    },
+    "culture": [
+      "독일에서 분리수거를 하려면 소재 단어가 꼭 필요해요. 종이(Papier)는 파란 통, 플라스틱(Kunststoff)이나 금속(Metall) 포장재는 노란 봉투나 노란 통에 넣는 곳이 많아요. 다만 도시마다 규칙이 조금씩 달라서, 이사하면 집에 붙은 안내문부터 확인하는 게 좋아요.",
+      "오래된 동네를 걷다 보면 나무 뼈대가 겉으로 드러난 집(Fachwerkhaus)을 자주 볼 수 있어요. 나무와 흙, 돌로 지은 집들이라 동화 속 마을 같은 분위기가 나요.",
+      "그리고 시험이나 면접 전에 독일 친구가 „Toi, toi, toi!“ 하며 책상을 두드리면, 그게 바로 Klopf auf Holz예요. 행운을 빌어 주는 거랍니다. 🍀"
+    ],
+    "quiz": {"q": "가게에서 가방이 가죽인지 알고 싶어요. 맞는 질문은?", "o": ["Ist die Tasche aus Leder?", "Ist die Tasche von Leder?", "Ist die Tasche mit Leder?"], "a": 0, "why": "무엇으로 만들어졌는지 말할 땐 aus를 써요: aus Leder, aus Holz."},
+    "outro": "지금 주변 물건 세 개를 골라 „Das ist aus …“로 소리 내서 말해 봐요. 책상은 aus Holz, 컵은 aus …? 🧱"
+  },
+  "en": {
+    "title": "Wood, wool or plastic? 10 German words for materials",
+    "hook": "Found a great bag at the flea market? The first question is always ‘what's it made of?’",
+    "intro": [
+      "At a weekend flea market (Flohmarkt) I picked up a lovely bag and just kept asking „Ist das echt?“ I wanted to know if it was real leather, but the word for leather simply wouldn't come.",
+      "Today's ten words are for saying what things are made of. With them you can ask about materials when shopping, sort your rubbish correctly and describe your own stuff. 🧱"
+    ],
+    "words": {
+      "B1-934": {"pron": "mah-tay-RYAHL", "tip": "Same as English material 🧵 Stress the last syllable.", "warn": "Unusual plural: die Materialien"},
+      "B1-789": {"pron": "HOLTS", "tip": "Related to old English holt (a wood) 🌳 It once meant ‘forest’ too.", "bonus": "Klopf auf Holz! = Knock on wood!"},
+      "B1-947": {"pron": "meh-TAL", "tip": "English metal with the stress moved back 🤘", "bonus": "‘Made of’ is aus + dative: aus Metall, aus Holz"},
+      "B1-1415": {"pron": "VOL-uh", "tip": "Same root as wool 🐑 A sheep's-wool jumper is aus Wolle.", "bonus": "Adjective wollig = woolly, fluffy"},
+      "B1-891": {"pron": "KOONST-shtof", "tip": "Kunst (artifice) + Stoff (material) = man-made stuff 🧴 The formal word for plastic.", "bonus": "In everyday speech people also say das Plastik."},
+      "A1-281": {"pron": "pa-PEER", "tip": "From Greek papyros (papyrus) 📜 A cousin of paper.", "warn": "The plural die Papiere means documents."},
+      "B1-1203": {"pron": "SHTOF", "tip": "Related to English stuff 🧶 Fabric, substance or study material — all Stoff.", "bonus": "material for an exam = der Prüfungsstoff"},
+      "B1-909": {"pron": "LAY-der", "tip": "Same root as leather 👜 Real leather is echtes Leder.", "warn": "The plural is the same: die Leder"},
+      "B1-1197": {"pron": "SHTINE", "tip": "Same root as stone 🪨 Beer steins were originally stone mugs.", "bonus": "Mir fällt ein Stein vom Herzen. = That's a weight off my mind."},
+      "A2-479": {"pron": "HART", "tip": "Same root as hard 💪 Hard surfaces and hard times are both hart.", "bonus": "Opposite: weich = soft"}
+    },
+    "culture": [
+      "You'll need material words to sort your rubbish in Germany. In many places paper (Papier) goes in the blue bin, and plastic (Kunststoff) or metal (Metall) packaging goes in the yellow bag or bin. The rules vary a little from city to city, so check the notice in your building when you move in.",
+      "Walk through an old town and you'll often see half-timbered houses (Fachwerkhaus), with their wooden frames on show. Built from wood, clay and stone, they make whole streets look like a fairy tale.",
+      "And if a German friend knocks on the table and says „Toi, toi, toi!“ before your exam or interview, that's Klopf auf Holz in action. They're wishing you luck. 🍀"
+    ],
+    "quiz": {"q": "In a shop, you want to know if a bag is leather. Which question is right?", "o": ["Ist die Tasche aus Leder?", "Ist die Tasche von Leder?", "Ist die Tasche mit Leder?"], "a": 0, "why": "To say what something is made of, German uses aus: aus Leder, aus Holz."},
+    "outro": "Pick three things around you and say „Das ist aus …“ out loud. The desk is aus Holz, the mug is aus…? 🧱"
+  },
+  "ja": {
+    "title": "„Ist das aus Holz?“ 物を説明するドイツ語10",
+    "hook": "蚤の市ですてきなバッグを見つけたら、まず聞きたいのは「これ、何でできていますか？」ですよね。",
+    "intro": [
+      "週末の蚤の市（Flohmarkt）でかわいいバッグを手に取り、„Ist das echt?“ ばかりくり返していました。本革かどうか聞きたかったのに、「革」という単語が出てこなかったんです。",
+      "今日は物が何でできているかを言うときの単語を10個集めました。この10個があれば、買い物で素材を聞いたり、ゴミの分別で迷わなかったり、自分の持ち物を説明したりできます。🧱"
+    ],
+    "words": {
+      "B1-934": {"pron": "マテリアール", "tip": "英語の material と同じ 🧵 アクセントは最後の「アール」に！", "warn": "複数形が特殊です：die Materialien"},
+      "B1-789": {"pron": "ホルツ", "tip": "昔は「森」という意味もありました 🌳 森も木材も Holz！", "bonus": "Klopf auf Holz! = 縁起が悪くならないよう木をたたいて！"},
+      "B1-947": {"pron": "メタル", "tip": "英語の metal そのまま 🤘 アクセントだけ後ろに！", "bonus": "「〜でできた」は aus + 3格：aus Metall, aus Holz"},
+      "B1-1415": {"pron": "ヴォレ", "tip": "英語の wool と同じ語源 🐑 ウールのセーターは aus Wolle！", "bonus": "形容詞 wollig = ふわふわした、毛のような"},
+      "B1-891": {"pron": "クンストシュトッフ", "tip": "Kunst（人工）+ Stoff（物質）= 人が作った物質 🧴 プラスチックの正式な言い方！", "bonus": "日常では das Plastik もよく使います。"},
+      "A1-281": {"pron": "パピーア", "tip": "ギリシャ語 papyros（パピルス）から 📜 英語の paper のいとこ！", "warn": "複数形 die Papiere は「書類」の意味になります。"},
+      "B1-1203": {"pron": "シュトッフ", "tip": "英語の stuff の親戚 🧶 布も物質も勉強の内容もぜんぶ Stoff！", "bonus": "試験範囲 = der Prüfungsstoff"},
+      "B1-909": {"pron": "レーダー", "tip": "英語の leather と同じ語源 👜 本革は echtes Leder！", "warn": "複数形も同じ die Leder です。"},
+      "B1-1197": {"pron": "シュタイン", "tip": "英語の stone と同じ語源 🪨 ビールジョッキの「シュタイン」も石のジョッキから！", "bonus": "Mir fällt ein Stein vom Herzen. = 肩の荷が下りました。"},
+      "A2-479": {"pron": "ハルト", "tip": "英語の hard と同じ語源 💪 かたくても、つらくても hart！", "bonus": "反対語：weich = やわらかい"}
+    },
+    "culture": [
+      "ドイツでゴミを分別するには素材の単語が欠かせません。多くの地域で、紙（Papier）は青いゴミ箱、プラスチック（Kunststoff）や金属（Metall）の包装は黄色い袋か黄色いゴミ箱に入れます。ただし町によってルールが少しずつ違うので、引っ越したら建物の案内をまず確認しましょう。",
+      "古い町を歩くと、木の骨組みが外から見える木組みの家（Fachwerkhaus）をよく見かけます。木と土と石で建てられた家が並ぶ通りは、まるでおとぎ話の世界です。",
+      "それから、試験や面接の前にドイツの友だちが „Toi, toi, toi!“ と言いながら机をたたいたら、それが Klopf auf Holz。幸運を祈ってくれているんですよ。🍀"
+    ],
+    "quiz": {"q": "お店で、バッグが革製かどうか知りたいです。正しい質問は？", "o": ["Ist die Tasche aus Leder?", "Ist die Tasche von Leder?", "Ist die Tasche mit Leder?"], "a": 0, "why": "何でできているかを言うときは aus を使います：aus Leder, aus Holz。"},
+    "outro": "身の回りの物を3つ選んで „Das ist aus …“ と声に出して言ってみましょう。机は aus Holz、マグカップは aus …？🧱"
+  }
+}

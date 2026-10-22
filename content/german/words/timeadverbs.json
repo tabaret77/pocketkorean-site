@@ -40,7 +40,7 @@
       "A1-086": {"pron": "GES-tern", "tip": "Same root as the yester- in yesterday ⏪", "bonus": "The day before yesterday = vorgestern"},
       "A1-085": {"pron": "MOR-gen", "tip": "From der Morgen, morning 🌅 ‘Next morning’ became ‘tomorrow’.", "warn": "Small morgen = tomorrow; der Morgen = morning. Tomorrow morning = morgen früh."},
       "A1-382": {"pron": "SHOHN", "tip": "Already there before you know it ⚡ Bist du schon da? = Are you here already?", "bonus": "Komm schon! = Come on!"},
-      "A1-383": {"pron": "NOKH", "tip": "Not finished yet — noch going ⏳", "bonus": "Noch ein Bier, bitte! = Another beer, please!"},
+      "A1-383": {"pron": "NOKH", "tip": "Not done yet, still going — that's noch ⏳", "bonus": "Noch ein Bier, bitte! = Another beer, please!"},
       "A1-381": {"pron": "BAHLT", "tip": "Nothing to do with hair 👋 Bis bald! = See you soon!", "warn": "False friend: bald = soon. Bald (no hair) is kahl."},
       "A2-397": {"pron": "guh-RAH-duh", "tip": "Originally ‘straight’ 📏 Right in the middle of something, straight now.", "bonus": "Ich esse gerade. = I'm eating right now."},
       "A1-557": {"pron": "SHPAY-ter", "tip": "The comparative of spät (late) = later 🐌", "bonus": "Bis später! = See you later!"},

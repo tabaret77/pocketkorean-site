@@ -1,0 +1,84 @@
+{
+  "key": "money",
+  "ko": {
+    "title": "지갑 열기 전에 알아 둘 돈 단어 10",
+    "hook": "독일 마트에서 카트를 빼려는데 동전이 없다면? 오늘 단어가 바로 필요한 순간이에요.",
+    "intro": [
+      "독일 마트 앞에서 카트를 빼려는데 꿈쩍도 안 해요. 알고 보니 동전을 넣어야 하는 거였어요. 지갑을 열어 보니 카드만 잔뜩. 결국 옆 사람에게 ‘Haben Sie eine Münze?’라고 묻지도 못하고 바구니를 들었죠.",
+      "오늘은 돈에 관한 단어 10개예요. 현금과 동전, 저축과 지출, 돈 빌리기까지. 이걸 알면 계산대에서도, 친구와 돈 얘기할 때도 당황하지 않아요. 💰"
+    ],
+    "words": {
+      "A1-038": {"pron": "겔트", "tip": "gelten(가치가 있다)과 친척 💶 가치가 있는 게 바로 Geld!", "warn": "셀 수 없는 명사라서 복수가 없어요: viel Geld, kein Geld"},
+      "A2-118": {"pron": "바르겔트", "tip": "bar(맨, 그대로) + Geld = 맨손에 쥐는 돈 💵 영어 bare와 비슷!", "bonus": "현금으로 내다 = bar bezahlen"},
+      "A2-169": {"pron": "슈파렌", "tip": "영어 spare(아끼다)와 같은 뿌리 🐷 돼지 저금통은 das Sparschwein!", "bonus": "무엇을 위해 모으는지는 für: für eine Reise sparen"},
+      "A2-301": {"pron": "아우스게벤", "tip": "aus(밖으로) + geben(주다) = 돈을 밖으로 내보내기 💸", "warn": "분리동사예요: Ich gebe viel Geld aus. 완료형은 hat ausgegeben."},
+      "A2-595": {"pron": "타셴겔트", "tip": "Tasche(주머니) + Geld = 주머니에 넣는 돈 👖 Geld가 마지막이니 das!"},
+      "B1-963": {"pron": "뮌체", "tip": "영어 money, mint와 같은 뿌리 🪙 -e로 끝나니까 die!", "bonus": "지폐는 der Schein (Geldschein)"},
+      "A2-741": {"pron": "클라인겔트", "tip": "klein(작은) + Geld = 작은 돈, 잔돈 🪙", "bonus": "계산대에서 자주 듣는 말: Haben Sie es passend? (딱 맞게 있으세요?)"},
+      "A2-322": {"pron": "라이엔", "tip": "영어 loan과 같은 뿌리 🤝 빌려줄 때도 빌릴 때도 leihen!", "warn": "빌려주기: jemandem etwas leihen · 빌리기: sich etwas leihen"},
+      "B1-1123": {"pron": "슐덴", "tip": "Schuld(갚아야 할 것)가 쌓이면 Schulden 😰 빚은 늘 복수!", "warn": "단수 die Schuld는 ‘잘못, 책임’이에요: Das ist nicht meine Schuld."},
+      "A2-1015": {"pron": "겔트보이텔", "tip": "Geld(돈) + Beutel(주머니) = 돈주머니 👛 Beutel이 마지막이니 der!", "bonus": "북부에서는 das Portemonnaie라고도 많이 해요."}
+    },
+    "culture": [
+      "독일은 오랫동안 현금을 좋아하는 나라로 알려져 왔어요. 요즘은 카드 결제가 많이 늘었지만, 작은 빵집이나 동네 식당 중에는 아직 현금만 받는 곳도 있어요. 지갑에 현금을 조금 넣어 다니면 마음이 편해요.",
+      "마트 카트는 보통 동전이나 카트용 칩을 넣어야 빠져요. 카트를 제자리에 돌려놓으면 동전도 다시 돌아와요. 열쇠고리에 칩을 달고 다니는 사람이 많아요.",
+      "그리고 독일 사람들은 저축을 중요하게 생각하는 편이에요. 아이들은 용돈(Taschengeld)을 받아 돼지 저금통에 모으며 돈 관리를 배우는 경우가 많아요. 🐷"
+    ],
+    "quiz": {"q": "지갑을 두고 왔어요. 친구에게 10유로를 빌리고 싶을 때 뭐라고 할까요?", "o": ["Kannst du mir zehn Euro leihen?", "Kannst du zehn Euro sparen?", "Kannst du zehn Euro ausgeben?"], "a": 0, "why": "jemandem etwas leihen = ~에게 빌려주다예요. ‘나에게(mir) 빌려줄래?’라고 묻는 거죠."},
+    "outro": "오늘 지갑을 열면 안에 든 걸 독일어로 말해 봐요. Bargeld, Münzen, Kleingeld… 그리고 Schulden은 없기를! 💶"
+  },
+  "en": {
+    "title": "Money talk: 10 German words for cash, coins and saving",
+    "hook": "Can't get a trolley at a German supermarket? That's exactly when you'll need today's words.",
+    "intro": [
+      "You try to pull a trolley out at a German supermarket and it won't budge. It needs a coin — and your wallet is full of cards. Too shy to ask ‘Haben Sie eine Münze?’, you grab a basket instead.",
+      "Today's ten words are all about money: cash and coins, saving and spending, lending and borrowing. With them you'll be fine at the till and when money comes up with friends. 💰"
+    ],
+    "words": {
+      "A1-038": {"pron": "GELT", "tip": "Related to gelten (to be worth) 💶 Geld is what's worth something.", "warn": "Uncountable, no plural: viel Geld, kein Geld"},
+      "A2-118": {"pron": "BAR-gelt", "tip": "bar (bare) + Geld = money in your bare hand 💵", "bonus": "to pay in cash = bar bezahlen"},
+      "A2-169": {"pron": "SHPAH-ren", "tip": "Same root as English spare 🐷 A piggy bank is das Sparschwein.", "bonus": "Saving for something uses für: für eine Reise sparen"},
+      "A2-301": {"pron": "OWS-gay-ben", "tip": "aus (out) + geben (give) = money going out 💸", "warn": "Separable: Ich gebe viel Geld aus. – hat ausgegeben"},
+      "A2-595": {"pron": "TASH-en-gelt", "tip": "Tasche (pocket) + Geld = pocket money, word for word 👖"},
+      "B1-963": {"pron": "MUEN-tsuh", "tip": "Same root as English money and mint 🪙 Ends in -e, so die.", "bonus": "A banknote is der Schein (Geldschein)."},
+      "A2-741": {"pron": "KLINE-gelt", "tip": "klein (small) + Geld = small change 🪙", "bonus": "At the till you'll hear: Haben Sie es passend? (Do you have the exact amount?)"},
+      "A2-322": {"pron": "LY-en", "tip": "Same root as English loan 🤝 One verb for lending and borrowing.", "warn": "Lend: jemandem etwas leihen · Borrow: sich etwas leihen"},
+      "B1-1123": {"pron": "SHOOL-den", "tip": "Lots of Schuld (what you owe) piles up into Schulden 😰", "warn": "The singular die Schuld means fault or guilt: Das ist nicht meine Schuld."},
+      "A2-1015": {"pron": "GELT-boy-tel", "tip": "Geld (money) + Beutel (pouch) = money pouch 👛 Beutel makes it der.", "bonus": "In the north you'll also hear das Portemonnaie."}
+    },
+    "culture": [
+      "Germany has long had a reputation for loving cash. Card payments have become much more common, but some small bakeries and local restaurants still take cash only, so it's wise to carry a little.",
+      "Supermarket trolleys usually need a coin or a trolley token to unlock them, and you get it back when you return the trolley. Lots of people keep a token on their key ring.",
+      "Saving is also valued. Many children get Taschengeld and learn to manage it by putting some aside in a piggy bank. 🐷"
+    ],
+    "quiz": {"q": "You've left your wallet at home and want to borrow ten euros from a friend. What do you ask?", "o": ["Kannst du mir zehn Euro leihen?", "Kannst du zehn Euro sparen?", "Kannst du zehn Euro ausgeben?"], "a": 0, "why": "jemandem etwas leihen means to lend someone something, so you ask: can you lend me (mir) ten euros?"},
+    "outro": "Open your wallet today and name what's inside in German: Bargeld, Münzen, Kleingeld… and hopefully no Schulden! 💶"
+  },
+  "ja": {
+    "title": "財布を開く前に覚えたいお金のドイツ語10",
+    "hook": "ドイツのスーパーでカートが外れない？そんなときこそ今日の単語の出番です。",
+    "intro": [
+      "ドイツのスーパーの前でカートを引き出そうとしたら、びくともしない。実は硬貨を入れる仕組みでした。財布の中はカードばかり。隣の人に「Haben Sie eine Münze?」と聞く勇気もなく、結局かごを持って入りました。",
+      "今日はお金にまつわる単語を10個集めました。現金や硬貨、貯金と出費、お金の貸し借りまで。これがあればレジでも、友だちとお金の話をするときも困りません。💰"
+    ],
+    "words": {
+      "A1-038": {"pron": "ゲルト", "tip": "gelten（価値がある）の親戚 💶 価値があるものが Geld！", "warn": "数えられない名詞なので複数形はありません：viel Geld, kein Geld"},
+      "A2-118": {"pron": "バールゲルト", "tip": "bar（むき出しの）+ Geld = 手にそのまま持つお金 💵 英語の bare に似ています！", "bonus": "現金で払う = bar bezahlen"},
+      "A2-169": {"pron": "シュパーレン", "tip": "英語の spare と同じ語源 🐷 ブタの貯金箱は das Sparschwein！", "bonus": "何のために貯めるかは für：für eine Reise sparen"},
+      "A2-301": {"pron": "アウスゲーベン", "tip": "aus（外へ）+ geben（与える）= お金を外へ出す 💸", "warn": "分離動詞：Ich gebe viel Geld aus. 完了形は hat ausgegeben。"},
+      "A2-595": {"pron": "タッシェンゲルト", "tip": "Tasche（ポケット）+ Geld = ポケットに入れるお金 👖 最後が Geld なので das！"},
+      "B1-963": {"pron": "ミュンツェ", "tip": "英語の money、mint と同じ語源 🪙 -e で終わるので die！", "bonus": "紙幣は der Schein（Geldschein）"},
+      "A2-741": {"pron": "クラインゲルト", "tip": "klein（小さい）+ Geld = 小さいお金、小銭 🪙", "bonus": "レジでよく聞くひとこと：Haben Sie es passend?（ちょうどありますか？）"},
+      "A2-322": {"pron": "ライエン", "tip": "英語の loan と同じ語源 🤝 貸すのも借りるのも leihen！", "warn": "貸す：jemandem etwas leihen／借りる：sich etwas leihen"},
+      "B1-1123": {"pron": "シュルデン", "tip": "Schuld（返すべきもの）が積み重なって Schulden 😰 借金はいつも複数形！", "warn": "単数 die Schuld は「責任、罪」：Das ist nicht meine Schuld."},
+      "A2-1015": {"pron": "ゲルトボイテル", "tip": "Geld（お金）+ Beutel（袋）= お金の袋 👛 最後が Beutel なので der！", "bonus": "北部では das Portemonnaie もよく使います。"}
+    },
+    "culture": [
+      "ドイツは長いあいだ現金好きの国として知られてきました。今はカード払いがずいぶん増えましたが、小さなパン屋さんや地元の食堂などでは、まだ現金しか使えないところもあります。少し現金を持ち歩くと安心です。",
+      "スーパーのカートはふつう、硬貨かカート用のチップを入れると外れます。カートを元に戻すと硬貨も戻ってきます。キーホルダーにチップをつけている人も多いです。",
+      "それから、ドイツでは貯金を大切にする人が多いです。子どもはお小遣い（Taschengeld）をもらって、ブタの貯金箱に貯めながらお金の管理を学ぶことがよくあります。🐷"
+    ],
+    "quiz": {"q": "財布を家に忘れました。友だちに10ユーロ借りたいとき、何と言いますか？", "o": ["Kannst du mir zehn Euro leihen?", "Kannst du zehn Euro sparen?", "Kannst du zehn Euro ausgeben?"], "a": 0, "why": "jemandem etwas leihen は「〜に貸す」。「私に（mir）貸してくれる？」と聞いています。"},
+    "outro": "今日財布を開いたら、中身をドイツ語で言ってみましょう。Bargeld、Münzen、Kleingeld…そして Schulden はありませんように！💶"
+  }
+}

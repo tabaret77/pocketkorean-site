@@ -1,0 +1,84 @@
+{
+  "key": "numbers",
+  "ko": {
+    "title": "시장에서 바로 쓰는 숫자·단위 독일어 10",
+    "hook": "독일 시장에서 ‘사과 1킬로요!’ 한마디가 술술 나오면, 독일 생활이 한결 쉬워져요.",
+    "intro": [
+      "토요일 아침 장터(Wochenmarkt)에서 사과를 사려는데, 상인이 ‘Wie viel?’ 하고 물어요. 개수로 말해야 하나, 킬로로 말해야 하나? 가격표에는 쉼표가 이상한 데 찍혀 있고요.",
+      "오늘은 숫자, 반, 퍼센트, 미터, 킬로, 리터처럼 생활 속 숫자와 단위를 말하는 단어 10개예요. 이걸로 장보기도, 세일 표시 읽기도, 길 묻기도 훨씬 편해져요. 🔢"
+    ],
+    "words": {
+      "A1-155": {"pron": "찰", "tip": "zählen(세다)과 한 가족이에요 🔢 Z는 언제나 ‘ㅊ’ 소리!", "warn": "전화번호나 방 번호는 die Nummer예요. Zahl은 숫자 그 자체!"},
+      "A1-310": {"pron": "첼렌", "tip": "Zahl에 점 두 개 찍고 -en = 숫자를 세다 🧮", "warn": "점 없는 zahlen은 ‘돈을 내다’예요! Zahlen, bitte! = 계산할게요."},
+      "A1-627": {"pron": "훈데르트", "tip": "영어 hundred와 같은 뿌리 💯 훈-데르트, 소리도 닮았죠?", "bonus": "‘하나’를 안 붙여도 돼요: hundert = einhundert"},
+      "A1-628": {"pron": "타우젠트", "tip": "영어 thousand와 형제 🎉 th가 t로 바뀌었을 뿐이에요.", "warn": "독일에서는 1.000처럼 천 단위에 점, 소수점은 쉼표를 써요: 2,50 €"},
+      "A2-235": {"pron": "헬프테", "tip": "halb(반)에서 왔어요 🍕 영어 half랑도 친척!", "warn": "명사는 die Hälfte, 형용사는 halb: ein halbes Brot."},
+      "A1-621": {"pron": "프로첸트", "tip": "이탈리아어 per cento(백마다)에서 왔어요 🏷️ 영어 percent랑 똑같죠?", "bonus": "세일 표시: 30 Prozent Rabatt = 30% 할인"},
+      "A1-617": {"pron": "메터", "tip": "그리스어 metron(재다)에서 왔어요 📏 ‘메-터’, 앞을 길게!", "warn": "복수도 그대로예요: zwei Meter (Meters 아니에요!)"},
+      "A1-619": {"pron": "킬로메터", "tip": "kilo(천) + Meter = 천 미터 🚲 Meter가 der니까 der Kilometer!", "bonus": "시속 = Stundenkilometer · 100 km/h는 hundert Stundenkilometer라고도 해요."},
+      "A1-624": {"pron": "킬로", "tip": "Kilogramm을 줄인 말 🍎 시장에서는 무조건 Kilo!", "warn": "숫자 뒤에서는 보통 복수형 없이: zwei Kilo Äpfel."},
+      "A1-622": {"pron": "리터", "tip": "그리스어 litra에서 왔어요 🥛 우유도 맥주도 Liter로!", "bonus": "0.5리터 = ein halber Liter"}
+    },
+    "culture": [
+      "독일에서는 가격을 2,50 €처럼 쉼표로 쓰고, 천 단위에는 점을 찍어요. 그래서 1.500은 ‘천오백’이에요. 처음엔 헷갈리니까 가격표를 꼭 두 번 보세요!",
+      "21은 einundzwanzig, 즉 ‘하나 그리고 스물’처럼 일의 자리를 먼저 말해요. 전화번호를 받아 적을 때 특히 조심해야 해요.",
+      "손가락으로 숫자를 셀 때도 달라요. 독일 사람들은 보통 엄지부터 펴서 ‘하나’를 세요. 맥주 두 잔을 주문할 때는 엄지와 검지를 펴는 거예요. 👍"
+    ],
+    "quiz": {"q": "시장에서 사과 1킬로를 사고 싶어요. 뭐라고 할까요?", "o": ["Ein Liter Äpfel, bitte.", "Ein Kilo Äpfel, bitte.", "Ein Meter Äpfel, bitte."], "a": 1, "why": "무게는 Kilo로 말해요. Liter는 액체, Meter는 길이예요."},
+    "outro": "오늘 집에 있는 물건 세 개의 숫자를 독일어로 말해 봐요. 우유는 ein Liter, 쌀은 ein Kilo처럼요! 🛒"
+  },
+  "en": {
+    "title": "Counting in German: 10 numbers and units for everyday life",
+    "hook": "Once ‘a kilo of apples, please’ rolls off your tongue at a German market, daily life gets easier.",
+    "intro": [
+      "Saturday morning at the market (Wochenmarkt). You point at the apples and the stallholder asks: Wie viel? Do you give a number or a weight? And the price label has a comma where you'd expect a dot.",
+      "Today's ten words are about numbers and units: counting, half, per cent, metres, kilos and litres. With them, shopping, reading sale signs and asking how far something is all get much easier. 🔢"
+    ],
+    "words": {
+      "A1-155": {"pron": "TSAHL", "tip": "Same family as zählen (to count) 🔢 German Z always sounds like ‘ts’.", "warn": "A phone or room number is die Nummer. Zahl is the figure itself."},
+      "A1-310": {"pron": "TSAY-len", "tip": "Zahl + two dots + -en = to count the numbers 🧮", "warn": "Without dots, zahlen means to pay! Zahlen, bitte! = The bill, please."},
+      "A1-627": {"pron": "HOON-dert", "tip": "Same root as hundred 💯 Say them together and you'll hear it.", "bonus": "No ‘one’ needed: hundert = einhundert"},
+      "A1-628": {"pron": "TOW-zent", "tip": "A brother of thousand 🎉 The th just became a t.", "warn": "Germans write 1.000 with a point and use a comma for decimals: 2,50 €"},
+      "A2-235": {"pron": "HELF-tuh", "tip": "From halb (half) 🍕 Related to English half too.", "warn": "The noun is die Hälfte; the adjective is halb: ein halbes Brot."},
+      "A1-621": {"pron": "proh-TSENT", "tip": "From Italian per cento (per hundred) 🏷️ Just like per cent.", "bonus": "On sale signs: 30 Prozent Rabatt = 30% off"},
+      "A1-617": {"pron": "MAY-ter", "tip": "From Greek metron (measure) 📏 Long ‘ay’ at the start.", "warn": "The plural is the same: zwei Meter (no -s!)"},
+      "A1-619": {"pron": "kee-loh-MAY-ter", "tip": "kilo (thousand) + Meter 🚲 Meter is der, so der Kilometer.", "bonus": "Speed is often given in Stundenkilometer: hundert Stundenkilometer = 100 km/h"},
+      "A1-624": {"pron": "KEE-loh", "tip": "Short for Kilogramm 🍎 At the market, it's always Kilo.", "warn": "After a number, usually no plural: zwei Kilo Äpfel."},
+      "A1-622": {"pron": "LEE-ter", "tip": "From Greek litra 🥛 Milk, juice, beer — all in Liter.", "bonus": "half a litre = ein halber Liter"}
+    },
+    "culture": [
+      "In Germany prices are written with a comma, like 2,50 €, and thousands get a point. So 1.500 means one thousand five hundred. Double-check price tags until you're used to it!",
+      "Numbers like 21 are said ‘one-and-twenty’: einundzwanzig. Take extra care when someone reads out a phone number.",
+      "Counting on your fingers works differently too. Germans usually start with the thumb for ‘one’, so ordering two beers means showing your thumb and index finger. 👍"
+    ],
+    "quiz": {"q": "At the market you want a kilo of apples. What do you say?", "o": ["Ein Liter Äpfel, bitte.", "Ein Kilo Äpfel, bitte.", "Ein Meter Äpfel, bitte."], "a": 1, "why": "Weight is in Kilo; Liter is for liquids and Meter for length."},
+    "outro": "Pick three things at home and say their amounts in German — ein Liter Milch, ein Kilo Reis, and so on! 🛒"
+  },
+  "ja": {
+    "title": "市場ですぐ使える、数と単位のドイツ語10",
+    "hook": "ドイツの市場で「リンゴ1キロください！」がすらっと言えたら、毎日の暮らしがぐっと楽になります。",
+    "intro": [
+      "土曜の朝のマルシェ（Wochenmarkt）でリンゴを買おうとしたら、お店の人に Wie viel? と聞かれました。個数で言う？キロで言う？値札には変なところにコンマが付いているし……。",
+      "今日は数、半分、パーセント、メートル、キロ、リットルなど、暮らしの中の数と単位の単語10個です。これで買い物も、セールの表示を読むのも、道を聞くのもずっと楽になります。🔢"
+    ],
+    "words": {
+      "A1-155": {"pron": "ツァール", "tip": "zählen（数える）の仲間 🔢 Z はいつも「ツ」の音！", "warn": "電話番号や部屋番号は die Nummer。Zahl は数そのものです。"},
+      "A1-310": {"pron": "ツェーレン", "tip": "Zahl に点を2つ付けて -en = 数を数える 🧮", "warn": "点のない zahlen は「支払う」！Zahlen, bitte! = お会計お願いします。"},
+      "A1-627": {"pron": "フンダート", "tip": "英語の hundred と同じ語源 💯 並べて言うと似ています。", "bonus": "「1」を付けなくてもOK：hundert = einhundert"},
+      "A1-628": {"pron": "タウゼント", "tip": "英語の thousand の兄弟 🎉 th が t になっただけ。", "warn": "ドイツでは千の位に点、小数点にコンマを使います：1.000、2,50 €"},
+      "A2-235": {"pron": "ヘルフテ", "tip": "halb（半分の）から 🍕 英語の half とも親戚！", "warn": "名詞は die Hälfte、形容詞は halb：ein halbes Brot。"},
+      "A1-621": {"pron": "プロツェント", "tip": "イタリア語の per cento（百につき）から 🏷️ 英語の percent と同じ！", "bonus": "セールの表示：30 Prozent Rabatt = 30%オフ"},
+      "A1-617": {"pron": "メーター", "tip": "ギリシャ語の metron（測る）から 📏「メー」と前を長く！", "warn": "複数形も同じ形：zwei Meter（-s は付きません！）"},
+      "A1-619": {"pron": "キロメーター", "tip": "kilo（千）+ Meter 🚲 Meter が der なので der Kilometer！", "bonus": "時速は Stundenkilometer とも：hundert Stundenkilometer = 時速100キロ"},
+      "A1-624": {"pron": "キロ", "tip": "Kilogramm の短縮形 🍎 市場ではいつも Kilo！", "warn": "数のあとではふつう複数形にしません：zwei Kilo Äpfel。"},
+      "A1-622": {"pron": "リーター", "tip": "ギリシャ語の litra から 🥛 牛乳もジュースもビールも Liter で！", "bonus": "0.5リットル = ein halber Liter"}
+    },
+    "culture": [
+      "ドイツでは値段を 2,50 € のようにコンマで書き、千の位には点を打ちます。つまり 1.500 は「千五百」です。慣れるまでは値札を二度見しましょう！",
+      "21 は einundzwanzig、つまり「1と20」のように一の位を先に言います。電話番号を書き取るときは特に注意です。",
+      "指で数を数えるときも違います。ドイツの人はふつう親指から立てて「1」と数えます。ビールを2杯頼むときは、親指と人差し指を立てるのです。👍"
+    ],
+    "quiz": {"q": "市場でリンゴを1キロ買いたいです。何と言いますか？", "o": ["Ein Liter Äpfel, bitte.", "Ein Kilo Äpfel, bitte.", "Ein Meter Äpfel, bitte."], "a": 1, "why": "重さは Kilo で言います。Liter は液体、Meter は長さです。"},
+    "outro": "家にあるものを3つ選んで、ein Liter Milch、ein Kilo Reis のように量をドイツ語で言ってみましょう！🛒"
+  }
+}

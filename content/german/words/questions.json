@@ -16,7 +16,7 @@
       "A1-581": {"pron": "비", "tip": "제일 많이 쓰는 질문: Wie geht's? Wie heißt du? 🙋", "warn": "‘~보다’ 비교는 wie가 아니라 als: größer als"},
       "A1-395": {"pron": "보헤어", "tip": "wo + her(이쪽으로) = 어디서 이쪽으로 왔니? 🧳", "bonus": "대답: Ich komme aus Korea."},
       "A1-396": {"pron": "보힌", "tip": "wo + hin(저쪽으로) = 어디로 가니? 🚀 her는 나한테, hin은 저 멀리!", "bonus": "회화에서는 쪼개서 써요: Wo gehst du hin?"},
-      "A2-404": {"pron": "벨히어", "tip": "영어 which와 같은 뿌리 👉 여러 개 중에 고를 때!", "warn": "관사처럼 어미가 바뀌어요: welcher Bus, welche Farbe, welches Buch"},
+      "A2-404": {"pron": "벨혀", "tip": "영어 which와 같은 뿌리 👉 여러 개 중에 고를 때!", "warn": "관사처럼 어미가 바뀌어요: welcher Bus, welche Farbe, welches Buch"},
       "A1-582": {"pron": "비 필", "tip": "wie(어떻게) + viel(많이) = 얼마나 많이 💶 장 볼 때 필수!", "bonus": "셀 수 있는 복수엔 wie viele: Wie viele Kinder hast du?"}
     },
     "culture": [

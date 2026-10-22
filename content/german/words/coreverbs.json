@@ -1,0 +1,84 @@
+{
+  "key": "coreverbs",
+  "ko": {
+    "title": "이 동사 10개 없이는 독일어 문장이 안 돼요",
+    "hook": "독일어 문장의 절반은 오늘 배울 동사 10개 중 하나로 시작해요.",
+    "intro": [
+      "독일어로 말하려고 하면 하고 싶은 말은 많은데 첫 단어부터 막히죠. ‘저는 학생이에요’, ‘시간 있어?’, ‘여기서 사진 찍어도 돼요?’ 전부 아주 기본적인 동사가 필요한 문장이에요.",
+      "오늘은 독일어의 뼈대가 되는 동사 10개예요. sein, haben, werden에 화법조동사까지, 이 10개만 자유롭게 쓰면 할 수 있는 말이 몇 배로 늘어나요. 💪"
+    ],
+    "words": {
+      "A1-051": {"pron": "자인", "tip": "영어 be처럼 제멋대로 변하는 동사 🌀 ich bin, du bist, er ist… 통째로 외워요!", "warn": "완료형도 sein으로: Ich bin in Berlin gewesen. ihr seid와 seit(~이래로)는 소리만 같아요."},
+      "A1-052": {"pron": "하벤", "tip": "영어 have와 같은 뿌리 🎒 du hast, er hat에서 b가 사라져요.", "bonus": "Hunger haben = 배고프다, Zeit haben = 시간 있다"},
+      "A1-580": {"pron": "베어덴", "tip": "‘~이 되다’의 변신 동사 🦋 Ich werde Ärztin. = 의사가 될 거예요.", "warn": "du wirst, er wird로 모양이 바뀌고, 완료는 ist geworden이에요."},
+      "A1-066": {"pron": "마헨", "tip": "영어 make와 같은 뿌리 🛠️ 하다도 만들다도 다 machen!", "bonus": "헤어질 때: Mach's gut! = 잘 지내!"},
+      "A1-298": {"pron": "쾨넨", "tip": "영어 can과 같은 뿌리 🏊 할 수 있으면 können!", "bonus": "언어 실력도: Ich kann Deutsch."},
+      "A1-299": {"pron": "뮈센", "tip": "영어 must와 같은 뿌리 ⏰ 해야 할 일은 müssen!", "warn": "nicht müssen = ~할 필요 없다. ‘하면 안 된다’가 아니에요!"},
+      "A1-300": {"pron": "볼렌", "tip": "영어 will(의지)과 같은 뿌리 🔥 ich will = 꼭 하고 싶어!", "warn": "영어 will(미래)이 아니에요. 그리고 ich will, er will에는 -t가 없어요."},
+      "A1-524": {"pron": "뫼히텐", "tip": "mögen(좋아하다)의 공손한 버전 🙏 주문할 땐 늘 Ich möchte…", "bonus": "Ich möchte einen Kaffee. 가 Ich will einen Kaffee. 보다 훨씬 공손해요."},
+      "A1-301": {"pron": "뒤르펜", "tip": "허락받았으면 dürfen 🚦 Darf ich…? = …해도 돼요?", "warn": "nicht dürfen = ~하면 안 된다 (금지)"},
+      "A1-556": {"pron": "졸렌", "tip": "영어 shall과 같은 뿌리 📋 누군가 시킨 일은 sollen!", "bonus": "Was soll das? = 이게 뭐 하는 거야?"}
+    },
+    "culture": [
+      "독일 카페나 빵집에서는 ‘Ich will…’보다 ‘Ich möchte…’나 ‘Ich hätte gern…’으로 주문하는 게 훨씬 자연스러워요. 문법적으로 틀린 건 아니지만 ‘Ich will’은 아이가 떼쓰는 것처럼 들릴 수 있거든요.",
+      "독일어 안내문에는 dürfen과 müssen이 자주 나와요. ‘Hier dürfen Sie nicht parken.’ 같은 문장을 보면 금지예요. 반대로 ‘Sie müssen nicht…’은 안 해도 된다는 친절한 말이니 헷갈리지 마요.",
+      "그리고 독일 사람들은 헤어질 때 ‘Mach's gut!’이라고 자주 말해요. 직역하면 ‘잘해!’지만, 실제로는 ‘잘 지내!’라는 따뜻한 인사예요. 👋"
+    ],
+    "quiz": {"q": "박물관에서 사진을 찍으려는데 직원이 막아요. 직원은 뭐라고 말했을까요?", "o": ["Sie dürfen hier nicht fotografieren.", "Sie müssen hier nicht fotografieren.", "Sie möchten hier fotografieren."], "a": 0, "why": "nicht dürfen = 하면 안 된다(금지)예요. nicht müssen은 ‘안 해도 된다’는 뜻이에요."},
+    "outro": "오늘은 화법조동사 하나에 문장 하나씩, 여섯 문장을 소리 내 말해 봐요. Ich kann…, Ich muss…, Ich möchte…! 💪"
+  },
+  "en": {
+    "title": "The 10 verbs every German sentence leans on",
+    "hook": "Half of all German sentences start with one of today's ten verbs.",
+    "intro": [
+      "You want to say so much in German, but you get stuck on the very first word. ‘I'm a student.’ ‘Have you got time?’ ‘Can I take a photo here?’ All of these need the most basic verbs.",
+      "Today's ten verbs are the backbone of German: sein, haben, werden and the modal verbs. Once you can use these freely, the number of things you can say multiplies. 💪"
+    ],
+    "words": {
+      "A1-051": {"pron": "zine", "tip": "Like English be, it changes shape wildly 🌀 ich bin, du bist, er ist… learn it as a chant.", "warn": "Its perfect uses sein too: Ich bin in Berlin gewesen. And ihr seid only sounds like seit (since)."},
+      "A1-052": {"pron": "HAH-ben", "tip": "Same root as English have 🎒 The b disappears in du hast, er hat.", "bonus": "Hunger haben = to be hungry; Zeit haben = to have time"},
+      "A1-580": {"pron": "VAIR-den", "tip": "The shape-shifter verb: to become 🦋 Ich werde Ärztin. = I'm going to be a doctor.", "warn": "It changes to du wirst, er wird, and the perfect is ist geworden."},
+      "A1-066": {"pron": "MAKH-en", "tip": "Same root as English make 🛠️ Doing and making are both machen.", "bonus": "When saying goodbye: Mach's gut! = Take care!"},
+      "A1-298": {"pron": "KER-nen", "tip": "Same root as English can 🏊 If you're able, it's können.", "bonus": "Languages too: Ich kann Deutsch."},
+      "A1-299": {"pron": "MUE-sen", "tip": "Same root as English must ⏰ Things you have to do are müssen.", "warn": "nicht müssen = don't have to. It does not mean ‘must not’!"},
+      "A1-300": {"pron": "VOL-en", "tip": "Related to English will as in willpower 🔥 ich will = I really want to!", "warn": "Not the English future will. Also: ich will, er will — no -t."},
+      "A1-524": {"pron": "MERKH-ten", "tip": "The polite form of mögen (to like) 🙏 For ordering, always Ich möchte…", "bonus": "Ich möchte einen Kaffee. sounds much politer than Ich will einen Kaffee."},
+      "A1-301": {"pron": "DUER-fen", "tip": "If you're allowed, it's dürfen 🚦 Darf ich…? = May I…?", "warn": "nicht dürfen = must not (it's forbidden)"},
+      "A1-556": {"pron": "ZOL-en", "tip": "Same root as English shall 📋 Something someone told you to do is sollen.", "bonus": "Was soll das? = What's that supposed to mean?"}
+    },
+    "culture": [
+      "In German cafés and bakeries, ‘Ich möchte…’ or ‘Ich hätte gern…’ sounds far more natural than ‘Ich will…’. It isn't wrong, but ‘Ich will’ can sound like a child making demands.",
+      "German signs love dürfen and müssen. ‘Hier dürfen Sie nicht parken.’ means it's not allowed. But ‘Sie müssen nicht…’ is a friendly ‘you don't need to’, so don't mix them up.",
+      "And when Germans say goodbye, you'll often hear ‘Mach's gut!’. Literally ‘do it well’, it really means ‘take care’. 👋"
+    ],
+    "quiz": {"q": "You're about to take a photo in a museum and a guard stops you. What did they say?", "o": ["Sie dürfen hier nicht fotografieren.", "Sie müssen hier nicht fotografieren.", "Sie möchten hier fotografieren."], "a": 0, "why": "nicht dürfen means it's not allowed; nicht müssen only means you don't have to."},
+    "outro": "Make one sentence with each modal verb today and say them out loud: Ich kann…, Ich muss…, Ich möchte…! 💪"
+  },
+  "ja": {
+    "title": "この10個なしでは始まらない！ドイツ語の基本動詞",
+    "hook": "ドイツ語の文の半分は、今日の10個の動詞のどれかから始まります。",
+    "intro": [
+      "ドイツ語で話そうとすると、言いたいことはたくさんあるのに最初の一語で詰まってしまいますよね。「私は学生です」「時間ある？」「ここで写真を撮ってもいいですか？」どれもごく基本の動詞が必要な文です。",
+      "今日はドイツ語の骨組みになる動詞10個です。sein、haben、werden に話法の助動詞まで。この10個を自由に使えれば、言えることが何倍にも増えます。💪"
+    ],
+    "words": {
+      "A1-051": {"pron": "ザイン", "tip": "英語の be のように自由自在に変身 🌀 ich bin, du bist, er ist… まるごと覚えましょう！", "warn": "完了形も sein で：Ich bin in Berlin gewesen. ihr seid と seit（〜以来）は音が同じだけです。"},
+      "A1-052": {"pron": "ハーベン", "tip": "英語の have と同じ語源 🎒 du hast、er hat では b が消えます。", "bonus": "Hunger haben = おなかがすいている、Zeit haben = 時間がある"},
+      "A1-580": {"pron": "ヴェーアデン", "tip": "「〜になる」の変身動詞 🦋 Ich werde Ärztin. = 医者になります。", "warn": "du wirst、er wird と形が変わり、完了形は ist geworden です。"},
+      "A1-066": {"pron": "マッヘン", "tip": "英語の make と同じ語源 🛠️「する」も「作る」も machen！", "bonus": "別れぎわに：Mach's gut! = 元気でね！"},
+      "A1-298": {"pron": "ケンネン", "tip": "英語の can と同じ語源 🏊 できることは können！", "bonus": "言語の能力も：Ich kann Deutsch."},
+      "A1-299": {"pron": "ミュッセン", "tip": "英語の must と同じ語源 ⏰ しなければならないことは müssen！", "warn": "nicht müssen は「〜する必要はない」。「〜してはいけない」ではありません！"},
+      "A1-300": {"pron": "ヴォレン", "tip": "英語の will（意志）と同じ語源 🔥 ich will = 絶対〜したい！", "warn": "英語の未来の will ではありません。ich will、er will には -t が付きません。"},
+      "A1-524": {"pron": "メヒテン", "tip": "mögen（好き）のていねい版 🙏 注文はいつも Ich möchte…", "bonus": "Ich möchte einen Kaffee. は Ich will einen Kaffee. よりずっとていねいです。"},
+      "A1-301": {"pron": "デュルフェン", "tip": "許可があれば dürfen 🚦 Darf ich…? = 〜してもいいですか？", "warn": "nicht dürfen = 〜してはいけない（禁止）"},
+      "A1-556": {"pron": "ゾレン", "tip": "英語の shall と同じ語源 📋 誰かに言われたことは sollen！", "bonus": "Was soll das? = これはどういうつもり？"}
+    },
+    "culture": [
+      "ドイツのカフェやパン屋さんでは、「Ich will…」より「Ich möchte…」や「Ich hätte gern…」で注文するほうがずっと自然です。文法的に間違いではありませんが、「Ich will」は子どもがだだをこねているように聞こえることがあります。",
+      "ドイツの案内表示には dürfen と müssen がよく出てきます。「Hier dürfen Sie nicht parken.」なら禁止です。反対に「Sie müssen nicht…」は「〜しなくても大丈夫」という親切な言葉なので、混同しないようにしましょう。",
+      "それから、ドイツ人は別れるときによく「Mach's gut!」と言います。直訳は「うまくやって」ですが、実際は「元気でね」という温かいあいさつです。👋"
+    ],
+    "quiz": {"q": "博物館で写真を撮ろうとしたら、係員に止められました。何と言われたでしょう？", "o": ["Sie dürfen hier nicht fotografieren.", "Sie müssen hier nicht fotografieren.", "Sie möchten hier fotografieren."], "a": 0, "why": "nicht dürfen は「してはいけない（禁止）」、nicht müssen は「しなくてもいい」という意味です。"},
+    "outro": "今日は話法の助動詞を一つずつ使って、文を声に出してみましょう。Ich kann…、Ich muss…、Ich möchte…！💪"
+  }
+}

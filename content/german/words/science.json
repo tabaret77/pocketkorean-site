@@ -1,0 +1,84 @@
+{
+  "key": "science",
+  "ko": {
+    "title": "실험실 문을 여는 과학 독일어 10",
+    "hook": "아인슈타인과 뢴트겐의 언어로 과학을 이야기해 보면 어떨까요?",
+    "intro": [
+      "독일 대학 연구실에서 일하는 친구 집에 놀러 갔어요. 친구가 ‘Das Experiment hat endlich geklappt!’ 하고 들떠서 이야기하는데, 나는 고개만 끄덕끄덕. 과학 기사 제목도 늘 어려워 보였어요.",
+      "오늘은 과학과 연구에 자주 나오는 단어 10개예요. 이 10개면 과학 뉴스 제목을 읽고, 연구하는 친구와 이야기하고, ‘결과 나왔어?’ 하고 물어볼 수도 있어요. 🔬"
+    ],
+    "words": {
+      "B1-040": {"pron": "비센샤프트", "tip": "wissen(알다) + -schaft = 앎을 모아 놓은 것 🧪 -schaft는 언제나 die!", "bonus": "형용사: wissenschaftlich = 과학적인, 학문적인"},
+      "B1-1412": {"pron": "비센샤프틀러", "tip": "Wissenschaft + -ler = 과학을 하는 사람 👩‍🔬", "bonus": "여성 과학자는 die Wissenschaftlerin"},
+      "B1-226": {"pron": "포르슝", "tip": "forschen(연구하다) + -ung = 연구 🔍 -ung이니까 die!", "bonus": "연구자 = der Forscher · die Forscherin"},
+      "B2-1049": {"pron": "엑스페리멘트", "tip": "영어 experiment와 철자가 똑같아요 ⚗️ 강세만 맨 뒤 ‘멘트’에!", "bonus": "동사: experimentieren = 실험하다"},
+      "B1-1249": {"pron": "테오리", "tip": "그리스어 theōria(바라봄)에서 🤔 -ie로 끝나니 die, 강세는 맨 끝 ‘리’!", "bonus": "In der Theorie … in der Praxis … = 이론상으로는… 실제로는…"},
+      "B2-1051": {"pron": "라보어", "tip": "라틴어 laborare(일하다) 🥼 실험실은 일하는 곳! 강세는 뒤 ‘보어’.", "bonus": "피 검사 결과가 나오는 곳도 das Labor예요."},
+      "B1-021": {"pron": "에어겝니스", "tip": "sich ergeben(결과로 나오다) + -nis = 결과 📊", "warn": "복수는 s 두 개: die Ergebnisse"},
+      "B1-301": {"pron": "엔트데켄", "tip": "ent-(벗기다) + decken(덮다) = 덮개를 벗기다, 발견하다 🗺️ 영어 dis-cover와 똑같은 구조!", "bonus": "명사: die Entdeckung = 발견"},
+      "B1-521": {"pron": "베바이젠", "tip": "be- + weisen(가리키다) = 손가락으로 증거를 짚어 보이다 👉", "bonus": "명사: der Beweis = 증거, 증명"},
+      "B1-330": {"pron": "메센", "tip": "‘메센~’ 하고 줄자를 쭉 📏 재고 또 재요!", "warn": "불규칙 동사예요: du misst, er misst, hat gemessen"}
+    },
+    "culture": [
+      "독일어 Wissenschaft는 자연과학만 뜻하지 않아요. 역사학, 언어학 같은 인문학도 모두 Wissenschaft라서, ‘Literaturwissenschaft(문학 연구)’라는 말도 자연스럽게 써요.",
+      "독일에는 막스 플랑크(Max Planck), 프라운호퍼(Fraunhofer) 같은 유명한 연구 기관이 있고, 아인슈타인, 뢴트겐 같은 과학자도 이 나라 출신이에요. 그래서 독일어로 엑스레이 찍는 걸 그냥 ‘röntgen’이라고 해요.",
+      "여러 도시에서는 1년에 한 번쯤 연구소와 대학이 밤늦게까지 문을 여는 ‘Lange Nacht der Wissenschaften’ 같은 행사를 열기도 해요. 실험실 안을 직접 구경할 수 있는 좋은 기회예요. 🌙"
+    ],
+    "quiz": {"q": "실험이 끝난 동료에게 ‘결과 벌써 나왔어?’라고 물어보려면?", "o": ["Hast du das Labor gemessen?", "Hast du eine Theorie entdeckt?", "Hast du schon das Ergebnis?"], "a": 2, "why": "das Ergebnis = 결과. schon(벌써)과 함께 쓰면 ‘벌써 결과 나왔어?’가 돼요."},
+    "outro": "오늘 하루 중 뭔가를 잰다면 ‘Ich messe …’, 뭔가를 찾았다면 ‘Ich habe … entdeckt!’를 소리 내서 말해 봐요. 🔬"
+  },
+  "en": {
+    "title": "Lab coat on: 10 German words for science",
+    "hook": "Why not talk science in the language of Einstein and Röntgen?",
+    "intro": [
+      "You're visiting a friend who works in a university lab in Germany. She excitedly tells you, ‘Das Experiment hat endlich geklappt!’ and you just nod along. Science headlines always looked hard too.",
+      "Today's ten words come up again and again in science and research. With them you can read science news headlines, chat with friends who do research and ask whether the results are in. 🔬"
+    ],
+    "words": {
+      "B1-040": {"pron": "VISS-en-shaft", "tip": "wissen (to know) + -schaft = all that's known 🧪 -schaft is always die.", "bonus": "The adjective: wissenschaftlich = scientific, academic"},
+      "B1-1412": {"pron": "VISS-en-shaft-ler", "tip": "Wissenschaft + -ler = the person who does it 👩‍🔬", "bonus": "A female scientist is die Wissenschaftlerin."},
+      "B1-226": {"pron": "FOR-shoong", "tip": "forschen (to research) + -ung 🔍 -ung means die.", "bonus": "A researcher = der Forscher · die Forscherin"},
+      "B2-1049": {"pron": "ex-pe-ri-MENT", "tip": "Spelt just like English ⚗️ Only the stress moves to the end.", "bonus": "The verb: experimentieren = to experiment"},
+      "B1-1249": {"pron": "tay-o-REE", "tip": "From Greek theōria, looking at things 🤔 Ends in -ie: die, stressed at the end.", "bonus": "In der Theorie … in der Praxis … = In theory … in practice …"},
+      "B2-1051": {"pron": "la-BOR", "tip": "Latin laborare, to work 🥼 A lab is where the work happens. Stress the end.", "bonus": "Your blood test results also come from das Labor."},
+      "B1-021": {"pron": "air-GAYP-nis", "tip": "sich ergeben (to result) + -nis = result 📊", "warn": "Double s in the plural: die Ergebnisse."},
+      "B1-301": {"pron": "ent-DECK-en", "tip": "ent- (un-) + decken (to cover) = uncover — built just like dis-cover 🗺️", "bonus": "The noun: die Entdeckung = discovery"},
+      "B1-521": {"pron": "buh-VY-zen", "tip": "be- + weisen (to point) = point at the evidence 👉", "bonus": "The noun: der Beweis = proof, evidence"},
+      "B1-330": {"pron": "MESS-en", "tip": "No mess in the lab — measure everything twice 📏", "warn": "Irregular: du misst, er misst, hat gemessen."}
+    },
+    "culture": [
+      "The German word Wissenschaft isn't just natural science. History, linguistics and other humanities count too, which is why words like Literaturwissenschaft (literary studies) sound completely normal.",
+      "Germany is home to well-known research organisations such as the Max Planck and Fraunhofer institutes, and to scientists like Einstein and Röntgen. That's why getting an X-ray in German is simply röntgen.",
+      "Several cities hold events like the ‘Lange Nacht der Wissenschaften’, when universities and institutes open their doors late into the evening. It's a great chance to look inside a real lab. 🌙"
+    ],
+    "quiz": {"q": "Your colleague has just finished an experiment. How do you ask if the result is in yet?", "o": ["Hast du das Labor gemessen?", "Hast du eine Theorie entdeckt?", "Hast du schon das Ergebnis?"], "a": 2, "why": "das Ergebnis = the result, and with schon it means ‘already got the result?’"},
+    "outro": "If you measure anything today, say ‘Ich messe …’; if you find something, say ‘Ich habe … entdeckt!’ — out loud. 🔬"
+  },
+  "ja": {
+    "title": "白衣を着て覚える科学のドイツ語10",
+    "hook": "アインシュタインやレントゲンの言葉で、科学を語ってみませんか？",
+    "intro": [
+      "ドイツの大学の研究室で働く友だちの家へ遊びに行きました。友だちが「Das Experiment hat endlich geklappt!（実験がやっとうまくいった！）」とうれしそうに話すのに、私はうなずくだけ。科学記事の見出しもいつも難しそうに見えていました。",
+      "今日は科学や研究でよく出てくる単語10個です。この10個があれば、科学ニュースの見出しを読んだり、研究している友だちと話したり、「結果出た？」と聞いたりできます。🔬"
+    ],
+    "words": {
+      "B1-040": {"pron": "ヴィッセンシャフト", "tip": "wissen（知る）+ -schaft = 知の集まり 🧪 -schaft はいつも die！", "bonus": "形容詞：wissenschaftlich = 科学的な、学問的な"},
+      "B1-1412": {"pron": "ヴィッセンシャフトラー", "tip": "Wissenschaft + -ler = 科学をする人 👩‍🔬", "bonus": "女性の科学者は die Wissenschaftlerin"},
+      "B1-226": {"pron": "フォルシュング", "tip": "forschen（研究する）+ -ung = 研究 🔍 -ung なので die！", "bonus": "研究者 = der Forscher · die Forscherin"},
+      "B2-1049": {"pron": "エクスペリメント", "tip": "英語の experiment とつづりが同じ ⚗️ アクセントは最後の「メント」！", "bonus": "動詞：experimentieren = 実験する"},
+      "B1-1249": {"pron": "テオリー", "tip": "ギリシャ語 theōria（眺めること）から 🤔 -ie で終わるので die、アクセントは最後！", "bonus": "In der Theorie … in der Praxis … = 理論上は…実際には…"},
+      "B2-1051": {"pron": "ラボーア", "tip": "ラテン語 laborare（働く）から 🥼 実験室は働く場所！アクセントは後ろ。", "bonus": "血液検査の結果が出るところも das Labor です。"},
+      "B1-021": {"pron": "エアゲープニス", "tip": "sich ergeben（結果として生じる）+ -nis = 結果 📊", "warn": "複数形は s がふたつ：die Ergebnisse"},
+      "B1-301": {"pron": "エントデッケン", "tip": "ent-（はがす）+ decken（覆う）= 覆いを取る、発見する 🗺️ 英語の dis-cover と同じ作り！", "bonus": "名詞：die Entdeckung = 発見"},
+      "B1-521": {"pron": "ベヴァイゼン", "tip": "be- + weisen（指し示す）= 証拠を指さして見せる 👉", "bonus": "名詞：der Beweis = 証拠、証明"},
+      "B1-330": {"pron": "メッセン", "tip": "メジャーをすーっと伸ばして「メッセン」📏 何度でも測ります！", "warn": "不規則動詞です：du misst, er misst, hat gemessen"}
+    },
+    "culture": [
+      "ドイツ語の Wissenschaft は自然科学だけではありません。歴史学や言語学などの人文学もすべて Wissenschaft なので、Literaturwissenschaft（文学研究）のような言葉もごく自然に使われます。",
+      "ドイツにはマックス・プランク（Max Planck）やフラウンホーファー（Fraunhofer）といった有名な研究機関があり、アインシュタインやレントゲンもこの国の出身です。だからドイツ語でレントゲンを撮ることを、そのまま röntgen と言います。",
+      "いくつかの町では、大学や研究所が夜遅くまで公開される「Lange Nacht der Wissenschaften」のようなイベントが開かれることもあります。本物の実験室をのぞける絶好のチャンスです。🌙"
+    ],
+    "quiz": {"q": "実験を終えた同僚に「もう結果出た？」と聞くなら？", "o": ["Hast du das Labor gemessen?", "Hast du eine Theorie entdeckt?", "Hast du schon das Ergebnis?"], "a": 2, "why": "das Ergebnis = 結果。schon（もう）といっしょに使うと「もう結果出た？」になります。"},
+    "outro": "今日何かを測ったら「Ich messe …」、何かを見つけたら「Ich habe … entdeckt!」と声に出して言ってみましょう。🔬"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "bodyidioms",
+  "ko": {
+    "title": "엄지를 누르고 코가 꽉 차는 독일어 관용구 10",
+    "hook": "독일 사람들은 행운을 빌 때 손가락을 꼬지 않고 엄지를 꾹 눌러요.",
+    "intro": [
+      "시험 전날, 독일 친구가 “Ich drücke dir die Daumen!” 하고 문자를 보냈어요. 엄지를 누른다고? 다음 날엔 다른 친구가 “Hals- und Beinbruch!”라고 해요. 목이랑 다리가 부러지라니, 이거 응원 맞아요?",
+      "오늘은 몸이 들어간 독일어 관용구 10개를 모았어요. 글자 그대로 들으면 이상하지만, 뜻을 알면 대화가 훨씬 생생해져요. 독일 친구가 깜짝 놀랄 거예요! 🖐️"
+    ],
+    "words": {
+      "A2-877": {"pron": "디 다우멘 드뤼켄", "tip": "엄지(Daumen)를 주먹 안에 넣고 꾹(drücken) 👍 행운 충전 중!", "warn": "응원받는 사람은 3격: Ich drücke dir die Daumen."},
+      "C2-391": {"pron": "디 나제 폴 하벤", "tip": "코(Nase)까지 꽉 찼다(voll) = 더는 못 참아 😤 한국어 ‘목까지 찼다’랑 비슷하죠?", "bonus": "무엇에 질렸는지는 von + 3격: Ich habe die Nase voll vom Regen."},
+      "C2-492": {"pron": "간츠 오어 자인", "tip": "온몸이 전부(ganz) 귀(Ohr)가 됐다 👂 영어 be all ears와 똑같아요.", "warn": "Ohr 앞에 관사 없이 써요: Ich bin ganz Ohr."},
+      "C2-395": {"pron": "할스 운트 바인브루흐", "tip": "목(Hals)과 다리(Bein)가 부러지라니?! 🦴 반대로 말해서 불운을 쫓는 거예요.", "bonus": "비슷한 응원: Toi, toi, toi!"},
+      "C2-446": {"pron": "아우프 데어 한트 리겐", "tip": "손바닥(Hand) 위에 놓여(liegen) 있으니 누구나 보이죠 ✋ = 뻔하다!", "bonus": "Die Antwort liegt auf der Hand. = 답은 뻔해요."},
+      "C2-481": {"pron": "아인 아우게 추드뤼켄", "tip": "눈(Auge) 하나를 꾹 감아(zudrücken) 주는 거예요 😉 한국어 ‘눈감아 주다’랑 똑같아요!", "warn": "분리동사: Sie drückt ein Auge zu."},
+      "C2-466": {"pron": "지히 덴 코프 체어브레헨", "tip": "머리(Kopf)가 깨질(zerbrechen) 만큼 고민 🤯 한국어 ‘골머리를 앓다’예요.", "bonus": "위로할 때: Zerbrich dir nicht den Kopf! = 너무 고민하지 마!"},
+      "C2-438": {"pron": "예만덴 아우프 덴 아름 네멘", "tip": "아기처럼 팔(Arm)에 안고(nehmen) 어르는 장면 👶 = 놀리다!", "bonus": "Willst du mich auf den Arm nehmen? = 지금 나 놀리는 거지?"},
+      "C2-390": {"pron": "밋 뎀 팔셴 푸스 아우프슈테엔", "tip": "잘못된(falsch) 발(Fuß)로 침대에서 내려왔더니 하루 종일 꼬여요 🦶", "warn": "aufstehen은 분리동사, 완료형은 sein: Bist du mit dem falschen Fuß aufgestanden?"},
+      "C2-443": {"pron": "한트 운트 푸스 하벤", "tip": "손(Hand)도 발(Fuß)도 다 갖춘 몸처럼 빈틈없다 🧩 = 말이 된다!", "bonus": "반대로: Das hat weder Hand noch Fuß. = 말도 안 돼."}
+    },
+    "culture": [
+      "독일에서 행운을 빌 때는 손가락을 꼬는 대신, 엄지를 다른 손가락 안에 넣고 주먹을 꼭 쥐어요. 시험이나 면접 전 친구에게 이 손 모양을 보여 주면 응원 완료예요.",
+      "무대에 오르기 전에는 Toi, toi, toi!라고 하면서 나무를 두드리는 시늉을 하기도 해요. 공연하는 사람들 사이에서는 이 인사에 Danke라고 답하지 않는 전통도 있대요.",
+      "관용구는 친한 사이의 대화나 드라마에서 정말 자주 나와요. 다만 die Nase voll haben 같은 표현은 구어라서 공식적인 자리에서는 조금 조심하는 게 좋아요. 🍀"
+    ],
+    "quiz": {"q": "친구가 내일 운전면허 시험을 봐요. 응원하는 말로 알맞은 건?", "o": ["Ich habe die Nase voll!", "Ich drücke dir die Daumen!", "Du willst mich auf den Arm nehmen."], "a": 1, "why": "Ich drücke dir die Daumen! = 행운을 빌어! 시험 전에 딱 맞는 응원이에요."},
+    "outro": "오늘 하루 중 한 번은 엄지를 꾹 쥐고 Ich drücke dir die Daumen! 이라고 소리 내서 말해 봐요. 누군가에게 진짜로 해 주면 더 좋고요! 👍"
+  },
+  "en": {
+    "title": "Thumbs, noses and broken legs: 10 German body idioms",
+    "hook": "When Germans wish you luck, they don't cross their fingers — they squeeze their thumbs.",
+    "intro": [
+      "The night before an exam, a German friend texts you: “Ich drücke dir die Daumen!” Pressing thumbs? The next day another friend says “Hals- und Beinbruch!” — neck and leg break. Is that really encouragement?",
+      "Today's ten phrases are German idioms built on body parts. Taken literally they sound strange, but once you know them your German will sound far more alive. Your German friends will be impressed! 🖐️"
+    ],
+    "words": {
+      "A2-877": {"pron": "dee DOW-men DRUE-ken", "tip": "Tuck your thumb (Daumen) in your fist and press (drücken) 👍 Luck loading!", "warn": "The lucky person is in the dative: Ich drücke dir die Daumen."},
+      "C2-391": {"pron": "dee NAH-zuh FOLL HAH-ben", "tip": "Your nose (Nase) is full (voll) — you can't take any more 😤 Like being “fed up to here”.", "bonus": "Fed up with something = von + dative: Ich habe die Nase voll vom Regen."},
+      "C2-492": {"pron": "GANTS OHR zine", "tip": "Your whole (ganz) self becomes an ear (Ohr) 👂 Exactly like “be all ears”.", "warn": "No article before Ohr: Ich bin ganz Ohr."},
+      "C2-395": {"pron": "HALS oont BINE-brookh", "tip": "Break your neck (Hals) and leg (Bein)?! 🦴 Wishing the opposite keeps bad luck away, like “break a leg”.", "bonus": "Another one: Toi, toi, toi!"},
+      "C2-446": {"pron": "owf dair HANT LEE-gen", "tip": "Lying (liegen) on your open hand (Hand), for everyone to see ✋ = obvious!", "bonus": "Die Antwort liegt auf der Hand. = The answer is obvious."},
+      "C2-481": {"pron": "ine OW-guh TSOO-drue-ken", "tip": "Press one eye (Auge) shut (zudrücken) 😉 You just don't see the little mistake.", "warn": "Separable: Sie drückt ein Auge zu."},
+      "C2-466": {"pron": "zikh dayn KOPF tsair-BREKH-en", "tip": "Thinking so hard your head (Kopf) might break (zerbrechen) 🤯", "bonus": "To reassure someone: Zerbrich dir nicht den Kopf! = Don't worry about it!"},
+      "C2-438": {"pron": "YAY-man-den owf dayn ARM NAY-men", "tip": "Picture picking someone up on your arm (Arm) like a child and teasing them 👶", "bonus": "Willst du mich auf den Arm nehmen? = Are you kidding me?"},
+      "C2-390": {"pron": "mit daym FAL-shen FOOSS OWF-shtay-en", "tip": "Step out of bed with the wrong (falsch) foot (Fuß) and the whole day goes wrong 🦶", "warn": "aufstehen is separable and takes sein: Bist du mit dem falschen Fuß aufgestanden?"},
+      "C2-443": {"pron": "HANT oont FOOSS HAH-ben", "tip": "A plan with hands and feet is a complete body — it holds together 🧩", "bonus": "The opposite: Das hat weder Hand noch Fuß. = That makes no sense at all."}
+    },
+    "culture": [
+      "To wish someone luck in Germany, you don't cross your fingers: you tuck your thumb inside your fingers and squeeze your fist. Show a friend that gesture before an exam or interview and they'll know you're rooting for them.",
+      "Before going on stage, people often say Toi, toi, toi! and pretend to knock on wood. Among performers there's even a tradition of not saying Danke in reply.",
+      "Idioms pop up all the time in casual chat and on TV. Some, like die Nase voll haben, are colloquial, though, so be a little careful with them in formal situations. 🍀"
+    ],
+    "quiz": {"q": "Your friend's driving test is tomorrow. What do you say to encourage them?", "o": ["Ich habe die Nase voll!", "Ich drücke dir die Daumen!", "Du willst mich auf den Arm nehmen."], "a": 1, "why": "Ich drücke dir die Daumen! = I'll keep my fingers crossed for you — perfect before a test."},
+    "outro": "At some point today, squeeze your thumbs and say Ich drücke dir die Daumen! out loud. Even better, say it to someone who needs it! 👍"
+  },
+  "ja": {
+    "title": "親指を押して鼻がいっぱい？体のドイツ語慣用句10",
+    "hook": "ドイツ人は幸運を祈るとき、指を交差させるのではなく親指をぎゅっと握ります。",
+    "intro": [
+      "試験の前日、ドイツ人の友だちから「Ich drücke dir die Daumen!」とメッセージ。親指を押す？次の日には別の友だちが「Hals- und Beinbruch!」。首と脚が折れますように、って本当に応援ですか？",
+      "今日は体の部分が入ったドイツ語の慣用句を10個集めました。文字どおりに聞くと不思議ですが、意味がわかると会話がぐっと生き生きします。ドイツの友だちもびっくりしますよ！🖐️"
+    ],
+    "words": {
+      "A2-877": {"pron": "ディー ダウメン ドリュッケン", "tip": "親指（Daumen）をこぶしの中に入れてぎゅっ（drücken）👍 幸運チャージ中！", "warn": "応援する相手は3格：Ich drücke dir die Daumen."},
+      "C2-391": {"pron": "ディー ナーゼ フォル ハーベン", "tip": "鼻（Nase）までいっぱい（voll）= もう我慢できない 😤", "bonus": "何にうんざりかは von + 3格：Ich habe die Nase voll vom Regen."},
+      "C2-492": {"pron": "ガンツ オーア ザイン", "tip": "全身（ganz）が耳（Ohr）になる 👂 英語の be all ears と同じイメージです。", "warn": "Ohr の前に冠詞はつけません：Ich bin ganz Ohr."},
+      "C2-395": {"pron": "ハルス ウント バインブルフ", "tip": "首（Hals）と脚（Bein）が折れろ？！🦴 わざと逆を言って不運を追い払うんです。", "bonus": "似た応援：Toi, toi, toi!"},
+      "C2-446": {"pron": "アウフ デア ハント リーゲン", "tip": "手のひら（Hand）の上にのっている（liegen）から誰にでも見える ✋ = 明らか！", "bonus": "Die Antwort liegt auf der Hand. = 答えは明らかです。"},
+      "C2-481": {"pron": "アイン アウゲ ツードリュッケン", "tip": "片目（Auge）をぎゅっと閉じて（zudrücken）あげる 😉 日本語の「目をつぶる」とそっくり！", "warn": "分離動詞です：Sie drückt ein Auge zu."},
+      "C2-466": {"pron": "ズィッヒ デン コプフ ツェアブレッヒェン", "tip": "頭（Kopf）が割れる（zerbrechen）ほど考える 🤯 まさに「頭を悩ませる」！", "bonus": "なぐさめるとき：Zerbrich dir nicht den Kopf! = そんなに悩まないで！"},
+      "C2-438": {"pron": "イェーマンデン アウフ デン アルム ネーメン", "tip": "子どもみたいに腕（Arm）に抱いて（nehmen）あやす場面 👶 = からかう！", "bonus": "Willst du mich auf den Arm nehmen? = からかってるでしょ？"},
+      "C2-390": {"pron": "ミット デム ファルシェン フース アウフシュテーエン", "tip": "間違った（falsch）足（Fuß）でベッドから降りたら一日中うまくいかない 🦶", "warn": "aufstehen は分離動詞で完了形は sein：Bist du mit dem falschen Fuß aufgestanden?"},
+      "C2-443": {"pron": "ハント ウント フース ハーベン", "tip": "手（Hand）も足（Fuß）もそろった体のようにしっかりしている 🧩 = 筋が通っている！", "bonus": "反対は：Das hat weder Hand noch Fuß. = まったく筋が通らない。"}
+    },
+    "culture": [
+      "ドイツで幸運を祈るときは、指を交差させる代わりに、親指を他の指の中に入れてこぶしをぎゅっと握ります。試験や面接の前に友だちにこの手を見せれば、応援の気持ちが伝わります。",
+      "舞台に上がる前には Toi, toi, toi! と言って、木をたたくまねをすることもあります。舞台に立つ人たちの間では、これに Danke と返さない伝統もあるそうです。",
+      "慣用句は親しい人との会話やドラマで本当によく出てきます。ただ、die Nase voll haben のような表現は話し言葉なので、改まった場では少し気をつけましょう。🍀"
+    ],
+    "quiz": {"q": "友だちが明日、運転免許の試験を受けます。応援の言葉としてふさわしいのは？", "o": ["Ich habe die Nase voll!", "Ich drücke dir die Daumen!", "Du willst mich auf den Arm nehmen."], "a": 1, "why": "Ich drücke dir die Daumen! =「うまくいくよう祈ってるね！」試験前にぴったりの応援です。"},
+    "outro": "今日どこかで一度、親指をぎゅっと握って Ich drücke dir die Daumen! と声に出してみましょう。本当に誰かに言ってあげられたらもっといいですね！👍"
+  }
+}

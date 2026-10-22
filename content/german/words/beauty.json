@@ -1,0 +1,222 @@
+{
+  "key": "beauty",
+  "ko": {
+    "title": "독일 드럭스토어가 즐거워지는 뷰티 단어 10",
+    "hook": "드럭스토어 화장품 코너에서 라벨만 읽을 수 있어도 쇼핑이 두 배로 재밌어져요.",
+    "intro": [
+      "독일에 오면 드럭스토어 구경이 은근히 큰 재미예요. 크림, 립스틱, 향수가 줄줄이 있는데, 라벨에 적힌 trockene Haut가 뭔지, 직원에게 여드름 크림을 어떻게 물어볼지 막막하죠.",
+      "오늘은 화장품과 피부 관리에 관한 단어 10개를 모았어요. 이제 드럭스토어에서 라벨을 읽고, 원하는 제품을 직접 물어볼 수 있을 거예요. 💄"
+    ],
+    "words": {
+      "A2-500": {
+        "pron": "코스메틱",
+        "tip": "그리스어 kosmos(질서, 꾸밈)에서 ✨ ‘코스메틱’ 그대로라 쉬워요!",
+        "bonus": "자연주의 화장품은 die Naturkosmetik"
+      },
+      "A2-973": {
+        "pron": "메이크업",
+        "tip": "영어 make-up을 그대로 빌려 왔어요 💋 관사는 das!",
+        "bonus": "화장을 지우다 = sich abschminken"
+      },
+      "B1-1112": {
+        "pron": "슈밍켄",
+        "tip": "‘슈밍~’ 하고 붓으로 쓱쓱 바르는 소리 🖌️",
+        "warn": "보통 재귀동사로 써요: Ich schminke mich."
+      },
+      "A2-439": {
+        "pron": "크렘",
+        "tip": "프랑스어 crème에서 🧴 바르는 크림은 Creme!",
+        "warn": "생크림은 보통 die Sahne예요. 케이크 가게에서 Creme만 찾으면 헷갈려요."
+      },
+      "B1-773": {
+        "pron": "하우트",
+        "tip": "영어 hide(가죽)와 같은 뿌리 🧖 내 몸을 감싸는 가죽 = 피부!",
+        "bonus": "건성 피부 trockene Haut · 지성 피부 fettige Haut · 민감성 피부 empfindliche Haut"
+      },
+      "A2-533": {
+        "pron": "파르퓜",
+        "tip": "프랑스어 parfum의 독일식 철자 🌸 ü 발음은 입술을 동그랗게!"
+      },
+      "B1-2341": {
+        "pron": "리펜슈티프트",
+        "tip": "Lippe(입술) + Stift(펜) = 입술에 쓰는 펜 💄"
+      },
+      "A2-267": {
+        "pron": "슈피겔",
+        "tip": "라틴어 speculum(거울)에서 🪞 독일 유명 시사 주간지 이름이기도 해요."
+      },
+      "B1-586": {
+        "pron": "드로게리",
+        "tip": "Droge(약재) + -erie(가게) 🛍️ 화장품, 세제, 샴푸가 다 있는 곳!",
+        "warn": "약국이 아니에요! 처방약은 die Apotheke에서 사요."
+      },
+      "B2-2700": {
+        "pron": "피켈",
+        "tip": "‘피켈’ 하고 톡 튀어나온 뾰루지 😖 피클이 아니에요!",
+        "bonus": "여드름 피부는 die unreine Haut"
+      }
+    },
+    "culture": [
+      "독일 드럭스토어(Drogerie)에는 화장품, 샴푸, 세제, 유기농 간식까지 다 있어요. 자체 브랜드 제품이 저렴하고 품질도 괜찮아서 많은 사람들이 즐겨 사요.",
+      "피부 고민이 있으면 약국(Apotheke)에 가 보는 것도 방법이에요. 약국에서도 피부 관리 제품을 팔고, 약사에게 상담도 받을 수 있어요.",
+      "독일에서는 화장을 진하게 하지 않고 자연스러운 모습을 선호하는 사람이 많아요. 성분을 꼼꼼히 따지는 사람도 많아서 Naturkosmetik 코너가 큰 편이에요. 🌿"
+    ],
+    "quiz": {
+      "q": "치약과 샴푸, 저렴한 핸드크림을 한 번에 사고 싶어요. 어디로 갈까요? “Ich gehe ___.”",
+      "o": [
+        "in die Apotheke",
+        "in die Drogerie",
+        "zum Metzger"
+      ],
+      "a": 1,
+      "why": "생활용품과 화장품을 한 번에 사려면 die Drogerie(드럭스토어)가 딱이에요."
+    },
+    "outro": "오늘 저녁 거울 앞에서 “Ich schminke mich ab.”, “Ich creme mein Gesicht ein.”을 따라 말해 봐요. 💆"
+  },
+  "en": {
+    "title": "Beauty aisle German: 10 words",
+    "hook": "Once you can read the labels, a trip to a German drugstore gets twice as fun.",
+    "intro": [
+      "Browsing a German drugstore is a small joy of life here. Rows of creams, lipsticks and perfumes — but what does trockene Haut on the label mean, and how do you ask for something for spots?",
+      "Today's ten words are all about make-up and skincare. You'll be able to read the labels and ask for exactly what you want. 💄"
+    ],
+    "words": {
+      "A2-500": {
+        "pron": "koss-MAY-tik",
+        "tip": "From Greek kosmos (order, adornment) ✨ Basically cosmetics!",
+        "bonus": "natural cosmetics = die Naturkosmetik"
+      },
+      "A2-973": {
+        "pron": "mayk-AP",
+        "tip": "Borrowed straight from English 💋 It's das in German.",
+        "bonus": "to take off your make-up = sich abschminken"
+      },
+      "B1-1112": {
+        "pron": "SHMING-ken",
+        "tip": "The shhh of a brush as you put on make-up 🖌️",
+        "warn": "Usually reflexive: Ich schminke mich."
+      },
+      "A2-439": {
+        "pron": "KREHM",
+        "tip": "From French crème 🧴 The cream you put on your face.",
+        "warn": "Cream for cooking or cake is usually die Sahne."
+      },
+      "B1-773": {
+        "pron": "HOWT",
+        "tip": "Same root as English hide (skin) 🧖 It's what hides you!",
+        "bonus": "dry skin = trockene Haut · oily = fettige Haut · sensitive = empfindliche Haut"
+      },
+      "A2-533": {
+        "pron": "par-FÜM",
+        "tip": "French parfum with a German ü 🌸 Round your lips for it!"
+      },
+      "B1-2341": {
+        "pron": "LIP-en-shtift",
+        "tip": "Lippe (lip) + Stift (pen) = a pen for your lips 💄"
+      },
+      "A2-267": {
+        "pron": "SHPEE-gel",
+        "tip": "From Latin speculum (mirror) 🪞 Also the name of a famous German news magazine."
+      },
+      "B1-586": {
+        "pron": "dro-guh-REE",
+        "tip": "Droge (herb, drug) + -erie (shop) 🛍️ Make-up, shampoo and cleaning stuff all in one place.",
+        "warn": "It's not a pharmacy! Prescription medicine comes from die Apotheke."
+      },
+      "B2-2700": {
+        "pron": "PIK-el",
+        "tip": "A Pickel is a spot, not a pickle 😖",
+        "bonus": "blemished skin = unreine Haut"
+      }
+    },
+    "culture": [
+      "A German Drogerie sells make-up, shampoo, cleaning products and even organic snacks. Their own-brand products are cheap and decent, so lots of people swear by them.",
+      "For skin problems, a pharmacy (Apotheke) is worth a visit too. Pharmacies also sell skincare, and you can ask the pharmacist for advice.",
+      "Many people in Germany prefer a natural look with light make-up. Plenty also check ingredients carefully, which is why the Naturkosmetik shelves are often big. 🌿"
+    ],
+    "quiz": {
+      "q": "You want toothpaste, shampoo and a cheap hand cream in one go. Where do you go? “Ich gehe ___.”",
+      "o": [
+        "in die Apotheke",
+        "in die Drogerie",
+        "zum Metzger"
+      ],
+      "a": 1,
+      "why": "For toiletries and cosmetics all at once, die Drogerie is the place."
+    },
+    "outro": "Tonight in front of the mirror, say “Ich schminke mich ab.” and “Ich creme mein Gesicht ein.” out loud. 💆"
+  },
+  "ja": {
+    "title": "ドイツのドラッグストアが楽しくなる美容単語10",
+    "hook": "化粧品売り場のラベルが読めるだけで、お買い物が2倍楽しくなります。",
+    "intro": [
+      "ドイツに来ると、ドラッグストアめぐりがひそかな楽しみになります。クリーム、口紅、香水がずらり。でもラベルの trockene Haut って何？店員さんににきび用のクリームはどう聞けばいい？",
+      "今日は化粧品とスキンケアの単語を10個集めました。これでラベルを読んで、欲しいものを自分で聞けるようになりますよ。💄"
+    ],
+    "words": {
+      "A2-500": {
+        "pron": "コスメーティク",
+        "tip": "ギリシャ語 kosmos（秩序、飾り）から ✨ 日本語の「コスメ」と同じ！",
+        "bonus": "自然派化粧品は die Naturkosmetik"
+      },
+      "A2-973": {
+        "pron": "メイクアップ",
+        "tip": "英語の make-up をそのまま借りています 💋 冠詞は das！",
+        "bonus": "メイクを落とす = sich abschminken"
+      },
+      "B1-1112": {
+        "pron": "シュミンケン",
+        "tip": "「シュッ」とブラシでなでる音 🖌️",
+        "warn": "ふつう再帰動詞で使います：Ich schminke mich."
+      },
+      "A2-439": {
+        "pron": "クレーム",
+        "tip": "フランス語 crème から 🧴 肌に塗るクリームは Creme！",
+        "warn": "生クリームはふつう die Sahne です。ケーキ屋さんで Creme だけだと混乱するかも。"
+      },
+      "B1-773": {
+        "pron": "ハウト",
+        "tip": "英語の hide（獣皮）と同じ語源 🧖 体を包む皮 = 肌！",
+        "bonus": "乾燥肌 trockene Haut · 脂性肌 fettige Haut · 敏感肌 empfindliche Haut"
+      },
+      "A2-533": {
+        "pron": "パルフューム",
+        "tip": "フランス語 parfum のドイツ式つづり 🌸 ü は唇を丸めて！"
+      },
+      "B1-2341": {
+        "pron": "リッペンシュティフト",
+        "tip": "Lippe（唇）+ Stift（ペン）= 唇に塗るペン 💄"
+      },
+      "A2-267": {
+        "pron": "シュピーゲル",
+        "tip": "ラテン語 speculum（鏡）から 🪞 ドイツの有名な週刊誌の名前でもあります。"
+      },
+      "B1-586": {
+        "pron": "ドロゲリー",
+        "tip": "Droge（薬種）+ -erie（店）🛍️ 化粧品もシャンプーも洗剤もそろう店！",
+        "warn": "薬局ではありません！処方薬は die Apotheke で買います。"
+      },
+      "B2-2700": {
+        "pron": "ピッケル",
+        "tip": "ぽこっと出る吹き出物 😖 ピクルスではありません！",
+        "bonus": "にきびができやすい肌は unreine Haut"
+      }
+    },
+    "culture": [
+      "ドイツのドラッグストア（Drogerie）には、化粧品、シャンプー、洗剤、オーガニックのお菓子まで何でもあります。プライベートブランドの商品が安くて質もよく、愛用している人がたくさんいます。",
+      "肌の悩みがあるときは、薬局（Apotheke）に行くのもひとつの方法です。薬局でもスキンケア用品を売っていて、薬剤師さんに相談できます。",
+      "ドイツでは、濃いメイクより自然な見た目を好む人が多いです。成分をしっかりチェックする人も多いので、Naturkosmetik のコーナーが大きめなことがよくあります。🌿"
+    ],
+    "quiz": {
+      "q": "歯みがき粉とシャンプー、安いハンドクリームをまとめて買いたいです。どこへ行きますか？「Ich gehe ___.」",
+      "o": [
+        "in die Apotheke",
+        "in die Drogerie",
+        "zum Metzger"
+      ],
+      "a": 1,
+      "why": "日用品と化粧品をまとめて買うなら die Drogerie（ドラッグストア）がぴったりです。"
+    },
+    "outro": "今夜は鏡の前で「Ich schminke mich ab.」「Ich creme mein Gesicht ein.」と声に出してみましょう。💆"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "health",
+  "ko": {
+    "title": "몸도 마음도 챙기는 건강 독일어 10",
+    "hook": "독일 사람이 재채기할 때 외치는 그 단어, 사실 ‘건강’이라는 뜻이에요.",
+    "intro": [
+      "새해가 되면 독일 친구들도 다짐을 해요. “Ich will gesünder leben!” 더 많이 움직이고, 잘 먹고, 푹 자기. 그런데 막상 건강 이야기를 하려니 단어가 하나도 안 떠올랐어요.",
+      "오늘은 건강한 생활에 관한 단어 10개를 모았어요. 이 10개면 식습관, 운동, 잠, 스트레스 이야기를 독일어로 나눌 수 있어요. 💪"
+    ],
+    "words": {
+      "A1-362": {"pron": "게준트", "tip": "영어 sound(건강한, safe and sound)와 같은 뿌리 🍎 Obst ist gesund!", "bonus": "비교급은 움라우트: gesund – gesünder – am gesündesten"},
+      "A2-046": {"pron": "게준트하이트", "tip": "gesund + -heit = 건강 🤧 -heit으로 끝나면 언제나 die! 재채기할 때도 Gesundheit!", "bonus": "재채기한 사람이 “Danke!”라고 대답하면 끝이에요."},
+      "B1-017": {"pron": "에어네룽", "tip": "nähren(영양을 주다)이 들어 있어요 🥗 -ung이라 die!", "bonus": "eine gesunde Ernährung = 건강한 식생활"},
+      "B1-214": {"pron": "베베궁", "tip": "bewegen(움직이다) + -ung = 움직임 🚶 거창한 운동이 아니어도 몸을 움직이면 Bewegung!", "bonus": "Ich brauche mehr Bewegung. = 좀 더 움직여야 해요."},
+      "B1-1107": {"pron": "슐라프", "tip": "영어 sleep이랑 닮았죠? 😴 schlafen에서 -en만 떼면 명사예요.", "bonus": "Schlaf gut! = 잘 자!"},
+      "B1-265": {"pron": "슈트레스", "tip": "영어 stress 그대로지만 st를 ‘슈트’로 읽어요 😵", "bonus": "Ich habe Stress mit meinem Chef. = 상사랑 문제가 좀 있어요."},
+      "B1-233": {"pron": "게비히트", "tip": "wiegen(무게를 재다)에서 왔어요 ⚖️ 영어 weight와 친척!", "bonus": "auf sein Gewicht achten = 체중 관리를 하다"},
+      "B2-299": {"pron": "압네멘", "tip": "ab-(떼어 내다) + nehmen(가져가다) = 살을 떼어 가다 📉", "warn": "분리동사예요: Ich nehme ab. 반대말은 zunehmen(살이 찌다)."},
+      "B1-306": {"pron": "엔트슈파넨", "tip": "ent-(풀다) + spannen(팽팽하게 하다) = 긴장 풀기 🧘", "bonus": "재귀로 자주 써요: Entspann dich! = 긴장 풀어!"},
+      "B2-1124": {"pron": "포어보이궁", "tip": "vor(미리) + beugen(구부리다) = 미리 막아서다 🛡️ 아프기 전에 막는 게 예방!", "bonus": "같은 뜻으로 die Prävention도 써요."}
+    },
+    "culture": [
+      "독일 사람들은 산책(Spaziergang)을 정말 좋아해요. 특히 일요일 오후에 공원이나 숲을 걷는 사람이 많아요. 날씨가 흐려도 “frische Luft”를 마시러 나가는 게 보통이에요.",
+      "집 안에서도 신선한 공기를 중요하게 생각해서 하루에도 몇 번씩 창문을 활짝 열어 환기(Lüften)해요. 겨울에도 짧게 창문을 여는 집이 많아요.",
+      "사우나도 인기 있는 건강 습관이에요. 독일 사우나는 남녀 공용에 수영복 없이 들어가는 곳이 많으니, 처음이라면 미리 규칙을 확인해 두세요. 🧖"
+    ],
+    "quiz": {"q": "옆자리 동료가 크게 재채기를 했어요. 뭐라고 말할까요?", "o": ["Entspann dich!", "Gesundheit!", "Ich habe drei Kilo abgenommen."], "a": 1, "why": "재채기한 사람에게는 “Gesundheit!”(건강하세요!)라고 말해요."},
+    "outro": "오늘 하루 나의 Ernährung, Bewegung, Schlaf를 독일어로 한 문장씩 말해 봐요. 그리고 잠깐 산책도 다녀오기! 🚶‍♀️"
+  },
+  "en": {
+    "title": "Healthy body, healthy mind: 10 German words",
+    "hook": "That word Germans say when you sneeze? It actually means ‘health’.",
+    "intro": [
+      "Every January my German friends make the same resolution: “Ich will gesünder leben!” Move more, eat well, sleep properly. But when I tried to join in, I didn't have the words.",
+      "Today's ten words are all about a healthy lifestyle. With them you can talk about food, exercise, sleep and stress in German. 💪"
+    ],
+    "words": {
+      "A1-362": {"pron": "guh-ZOONT", "tip": "Same root as English sound, as in safe and sound 🍎 Obst ist gesund!", "bonus": "Umlaut in the comparative: gesund – gesünder – am gesündesten"},
+      "A2-046": {"pron": "guh-ZOONT-hite", "tip": "gesund + -heit = health 🤧 -heit nouns are always die — and it's what you say after a sneeze!", "bonus": "The person who sneezed just answers “Danke!”"},
+      "B1-017": {"pron": "air-NAIR-oong", "tip": "nähren (to nourish) is inside 🥗 -ung, so die.", "bonus": "eine gesunde Ernährung = a healthy diet"},
+      "B1-214": {"pron": "buh-VAY-goong", "tip": "bewegen (to move) + -ung = movement 🚶 Any activity counts, not just the gym.", "bonus": "Ich brauche mehr Bewegung. = I need to move more."},
+      "B1-1107": {"pron": "SHLAHF", "tip": "Looks a lot like sleep, doesn't it? 😴 Drop the -en from schlafen and you have the noun.", "bonus": "Schlaf gut! = Sleep well!"},
+      "B1-265": {"pron": "SHTRESS", "tip": "English stress, but say the st as ‘sht’ 😵", "bonus": "Ich habe Stress mit meinem Chef. = I'm having trouble with my boss."},
+      "B1-233": {"pron": "guh-VIKHT", "tip": "From wiegen (to weigh) ⚖️ A cousin of English weight.", "bonus": "auf sein Gewicht achten = to watch your weight"},
+      "B2-299": {"pron": "AP-nay-men", "tip": "ab- (off) + nehmen (to take) = take the kilos off 📉", "warn": "Separable: Ich nehme ab. The opposite is zunehmen (to gain weight)."},
+      "B1-306": {"pron": "ent-SHPAN-en", "tip": "ent- (un-) + spannen (to tighten) = untighten, relax 🧘", "bonus": "Often reflexive: Entspann dich! = Relax!"},
+      "B2-1124": {"pron": "FOR-boy-goong", "tip": "vor (before) + beugen (to bend) = head it off in advance 🛡️ Stop illness before it starts.", "bonus": "You'll also see die Prävention."}
+    },
+    "culture": [
+      "Germans love a walk (Spaziergang), especially on Sunday afternoons in a park or forest. Even when it's grey, heading out for some “frische Luft” is completely normal.",
+      "Fresh air matters indoors too. Many people open their windows wide several times a day to air the room (Lüften), even briefly in winter.",
+      "Saunas are another popular habit. Many German saunas are mixed and swimwear-free, so if it's your first time, check the rules beforehand. 🧖"
+    ],
+    "quiz": {"q": "Your colleague sneezes loudly. What do you say?", "o": ["Entspann dich!", "Gesundheit!", "Ich habe drei Kilo abgenommen."], "a": 1, "why": "After a sneeze, Germans say “Gesundheit!” (literally ‘health!’)."},
+    "outro": "Say one German sentence each about your Ernährung, Bewegung and Schlaf today. Then go for a little Spaziergang! 🚶‍♀️"
+  },
+  "ja": {
+    "title": "体も心も元気になる健康のドイツ語10",
+    "hook": "ドイツ人がくしゃみのあとに言うあの言葉、実は「健康」という意味です。",
+    "intro": [
+      "新年になると、ドイツの友だちも決意します。「Ich will gesünder leben!」よく動いて、よく食べて、ぐっすり眠る。でも、いざ健康の話をしようとしたら単語がひとつも出てきませんでした。",
+      "今日は健康的な生活に関する単語を10個集めました。この10個があれば、食生活、運動、睡眠、ストレスについてドイツ語で話せます。💪"
+    ],
+    "words": {
+      "A1-362": {"pron": "ゲズント", "tip": "英語の sound（健全な、safe and sound）と同じ語源 🍎 Obst ist gesund!", "bonus": "比較級はウムラウトつき：gesund – gesünder – am gesündesten"},
+      "A2-046": {"pron": "ゲズントハイト", "tip": "gesund + -heit = 健康 🤧 -heit で終わる名詞はいつも die！くしゃみのあとにも Gesundheit！", "bonus": "くしゃみをした人は「Danke!」と返せばOKです。"},
+      "B1-017": {"pron": "エアネールング", "tip": "nähren（栄養を与える）が入っています 🥗 -ung なので die！", "bonus": "eine gesunde Ernährung = 健康的な食生活"},
+      "B1-214": {"pron": "ベヴェーグング", "tip": "bewegen（動かす）+ -ung = 動き 🚶 本格的なスポーツでなくても、体を動かせば Bewegung！", "bonus": "Ich brauche mehr Bewegung. = もっと体を動かさないと。"},
+      "B1-1107": {"pron": "シュラーフ", "tip": "英語の sleep に似ていますね 😴 schlafen から -en を取れば名詞です。", "bonus": "Schlaf gut! = おやすみ、よく眠ってね！"},
+      "B1-265": {"pron": "シュトレス", "tip": "英語の stress そのままですが、st は「シュト」と読みます 😵", "bonus": "Ich habe Stress mit meinem Chef. = 上司とちょっと揉めています。"},
+      "B1-233": {"pron": "ゲヴィヒト", "tip": "wiegen（重さを量る）から ⚖️ 英語の weight の親戚です！", "bonus": "auf sein Gewicht achten = 体重に気をつける"},
+      "B2-299": {"pron": "アップネーメン", "tip": "ab-（取り去る）+ nehmen（取る）= 体重を取り去る 📉", "warn": "分離動詞です：Ich nehme ab. 反対は zunehmen（太る）。"},
+      "B1-306": {"pron": "エントシュパネン", "tip": "ent-（ほどく）+ spannen（ぴんと張る）= 緊張をほどく 🧘", "bonus": "再帰でよく使います：Entspann dich! = リラックスして！"},
+      "B2-1124": {"pron": "フォーアボイグング", "tip": "vor（前もって）+ beugen（曲げる）= 前もって食い止める 🛡️ 病気になる前に防ぐのが予防！", "bonus": "同じ意味で die Prävention も使います。"}
+    },
+    "culture": [
+      "ドイツ人は散歩（Spaziergang）が大好きです。特に日曜の午後は、公園や森を歩く人がたくさんいます。曇りの日でも「frische Luft」を吸いに出かけるのがふつうです。",
+      "家の中でも新鮮な空気を大切にしていて、1日に何度も窓を大きく開けて換気（Lüften）します。冬でも短い時間窓を開ける家が多いです。",
+      "サウナも人気の健康習慣です。ドイツのサウナは男女共用で水着なしのところが多いので、初めてならルールを事前に確認しておきましょう。🧖"
+    ],
+    "quiz": {"q": "隣の席の同僚が大きなくしゃみをしました。何と言いますか？", "o": ["Entspann dich!", "Gesundheit!", "Ich habe drei Kilo abgenommen."], "a": 1, "why": "くしゃみをした人には「Gesundheit!」（お大事に、直訳は「健康！」）と言います。"},
+    "outro": "今日の自分の Ernährung、Bewegung、Schlaf について、ドイツ語で一文ずつ言ってみましょう。そのあとはちょっと Spaziergang へ！🚶‍♀️"
+  }
+}

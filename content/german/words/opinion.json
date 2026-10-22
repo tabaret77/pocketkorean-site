@@ -1,0 +1,84 @@
+{
+  "key": "opinion",
+  "ko": {
+    "title": "“제 생각엔요…” 독일어로 의견 말하기 10",
+    "hook": "독일에서는 ‘네 생각은 어때?’라는 질문을 생각보다 훨씬 자주 받아요.",
+    "intro": [
+      "회사 회의에서 팀장님이 갑자기 저를 보며 ‘Was meinst du dazu?’라고 물었어요. 생각은 있는데 문장을 어떻게 시작해야 할지 몰라서 ‘Ähm… gut?’ 하고 끝나 버렸죠. 집에 와서 이불을 몇 번이나 찼는지 몰라요.",
+      "오늘은 의견을 말하고, 동의하고, 반대할 때 쓰는 작지만 중요한 말 10개예요. 이 단어들이면 회의에서도, 친구와의 수다에서도 내 생각을 또박또박 말할 수 있어요. 💬"
+    ],
+    "words": {
+      "B1-010": {"pron": "마이눙", "tip": "meinen(생각하다) + -ung = 생각한 것 💭 -ung이니까 die Meinung!", "bonus": "Ich bin anderer Meinung. = 저는 생각이 달라요."},
+      "A2-325": {"pron": "마이넨", "tip": "영어 mean과 같은 뿌리 🤔 ‘생각하다’와 ‘뜻하다’ 두 가지 뜻이에요.", "bonus": "Was meinst du? = 네 생각은? · So habe ich das nicht gemeint. = 그런 뜻 아니었어."},
+      "A1-186": {"pron": "핀덴", "tip": "영어 find랑 똑같아요 🔍 찾다 + ‘~라고 생각하다’까지!", "bonus": "Wie findest du das? = 그거 어때? · Ich finde das super!"},
+      "A1-303": {"pron": "글라우벤", "tip": "영어 believe 속 lieve가 glauben의 laub과 사촌이에요 🙏", "bonus": "사람을 믿을 땐 3격: Ich glaube dir. · 무언가의 존재를 믿을 땐 an + 4격"},
+      "A2-875": {"pron": "마이너 마이눙 나흐", "tip": "nach가 맨 뒤로 가는 특이한 전치사 🔚 ‘내 의견에 따르면’!", "warn": "바로 뒤에 동사가 와요: Meiner Meinung nach ist das falsch."},
+      "B1-187": {"pron": "아인페어슈탄덴", "tip": "ein(하나) + verstanden(이해된) = 하나로 이해가 맞음 🤝 OK의 독일어 버전!", "bonus": "무엇에 동의할 땐 mit + 3격: Ich bin damit einverstanden."},
+      "A2-549": {"pron": "레히트 하벤", "tip": "독일어는 ‘옳음을 가지고 있다’라고 말해요 ✅ Du hast recht!", "warn": "sein이 아니라 haben! Du bist recht (X) → Du hast recht (O)"},
+      "B1-347": {"pron": "슈티멘", "tip": "die Stimme(목소리, 표)에서 온 동사 🗳️ 맞장구칠 땐 짧게 Stimmt!", "bonus": "계산할 때 Stimmt so! = 잔돈은 됐어요(팁이에요)."},
+      "B1-180": {"pron": "추슈티멘", "tip": "zu(~쪽으로) + stimmen = 상대 쪽에 내 표를 던지기 👍", "warn": "분리동사 + 3격: Da stimme ich dir zu."},
+      "A2-884": {"pron": "다게겐", "tip": "da(그것) + gegen(반대) = 그거에 반대 🙅‍♀️ 찬성은 dafür!", "bonus": "Hast du was dagegen? = 괜찮겠어? (싫으면 말해)"}
+    },
+    "culture": [
+      "독일에서는 회의나 수업, 친구와의 대화에서 ‘내 의견’을 말하는 걸 중요하게 여겨요. 조용히 있으면 동의한다고 생각할 수도 있으니, 짧게라도 Meiner Meinung nach…로 시작해 보세요.",
+      "의견이 반반일 때 쓰는 재밌는 단어도 있어요. ja와 nein을 합친 ‘Jein’! ‘응이기도 하고 아니기도 해’라는 뜻으로 일상에서 정말 자주 들려요.",
+      "그리고 반대할 때도 ‘Das sehe ich anders, aber…’처럼 이유를 함께 말하면 대화가 부드러워져요. 독일 사람들은 이런 토론(Diskussion) 자체를 즐기는 경우가 많답니다. 🗣️"
+    ],
+    "quiz": {"q": "친구가 ‘금요일 8시에 영화 보러 갈래?’라고 해요. 좋다고 대답해요.", "o": ["Hast du etwas dagegen?", "Ja, einverstanden!", "Meiner Meinung nach nicht."], "a": 1, "why": "einverstanden = 동의해, 좋아! 제안을 받아들일 때 쓰는 말이에요."},
+    "outro": "오늘은 뭐든 하나 골라서 독일어로 의견을 말해 봐요. Ich finde, Pocket German ist super! 정도면 시작으로 딱이에요. 😉"
+  },
+  "en": {
+    "title": "Speak your mind: 10 German words for opinions",
+    "hook": "In Germany you'll be asked ‘What do you think?’ far more often than you might expect.",
+    "intro": [
+      "In a work meeting my manager suddenly turned to me: ‘Was meinst du dazu?’ I had an opinion, but no idea how to start the sentence, so I said ‘Erm… gut?’ and that was it. I replayed that moment all evening.",
+      "Today's ten little words are for giving your opinion, agreeing and disagreeing. With them you can say what you think clearly — in meetings and over coffee with friends. 💬"
+    ],
+    "words": {
+      "B1-010": {"pron": "MY-noong", "tip": "meinen (to think) + -ung = what you think 💭 -ung, so die Meinung!", "bonus": "Ich bin anderer Meinung. = I see it differently."},
+      "A2-325": {"pron": "MY-nen", "tip": "Same root as English mean 🤔 It means both ‘to think’ and ‘to mean’.", "bonus": "Was meinst du? = What do you think? · So habe ich das nicht gemeint. = That's not what I meant."},
+      "A1-186": {"pron": "FIN-den", "tip": "Just like English find 🔍 And like English, you can ‘find’ something good or bad.", "bonus": "Wie findest du das? = What do you think of it? · Ich finde das super!"},
+      "A1-303": {"pron": "GLOW-ben", "tip": "The ‘lieve’ in English believe is a cousin of glauben 🙏", "bonus": "Believing a person takes the dative: Ich glaube dir. · believe in = an + acc."},
+      "A2-875": {"pron": "MY-ner MY-noong nahkh", "tip": "Here nach comes at the end 🔚 ‘According to my opinion’.", "warn": "The verb comes straight after: Meiner Meinung nach ist das falsch."},
+      "B1-187": {"pron": "INE-fair-shtahn-den", "tip": "ein (one) + verstanden (understood) = understood as one 🤝 German for OK, deal!", "bonus": "agree with something = mit + dat.: Ich bin damit einverstanden."},
+      "A2-549": {"pron": "REKHT hah-ben", "tip": "German says you ‘have right’ ✅ Du hast recht!", "warn": "haben, not sein! Du bist recht (wrong) → Du hast recht (right)"},
+      "B1-347": {"pron": "SHTIM-en", "tip": "From die Stimme (voice, vote) 🗳️ To agree in one word: Stimmt!", "bonus": "When paying, Stimmt so! = Keep the change."},
+      "B1-180": {"pron": "TSOO-shtim-en", "tip": "zu (towards) + stimmen = giving your vote to someone 👍", "warn": "Separable and with the dative: Da stimme ich dir zu."},
+      "A2-884": {"pron": "dah-GAY-gen", "tip": "da (that) + gegen (against) = against it 🙅‍♀️ In favour is dafür!", "bonus": "Hast du was dagegen? = Do you mind?"}
+    },
+    "culture": [
+      "In Germany, sharing your own opinion in meetings, classes and conversations is valued. Staying quiet can be taken as agreement, so even a short Meiner Meinung nach… helps.",
+      "There's a fun word for when you're torn: ‘Jein’, a mix of ja and nein. It means ‘yes and no’, and you'll hear it all the time.",
+      "When you disagree, giving a reason — ‘Das sehe ich anders, aber…’ — keeps things friendly. Many Germans genuinely enjoy a good Diskussion. 🗣️"
+    ],
+    "quiz": {"q": "A friend asks: ‘Cinema on Friday at eight?’ You say yes.", "o": ["Hast du etwas dagegen?", "Ja, einverstanden!", "Meiner Meinung nach nicht."], "a": 1, "why": "einverstanden means agreed — it's how you accept a suggestion."},
+    "outro": "Pick anything today and give your opinion on it in German. Ich finde, Pocket German ist super! is a great place to start. 😉"
+  },
+  "ja": {
+    "title": "「私の考えでは…」ドイツ語で意見を言う10語",
+    "hook": "ドイツでは「あなたはどう思う？」と聞かれる場面が、想像以上にたくさんあります。",
+    "intro": [
+      "会社の会議で、上司が急にこちらを見て「Was meinst du dazu?」。考えはあるのに文の始め方がわからず、「えーと…gut?」で終わってしまいました。帰り道、何度も思い出しては頭を抱えました。",
+      "今日は意見を言ったり、賛成・反対したりするときの小さくても大事な言葉10個です。これで会議でも、友だちとのおしゃべりでも、自分の考えをはっきり伝えられます。💬"
+    ],
+    "words": {
+      "B1-010": {"pron": "マイヌング", "tip": "meinen（思う）+ -ung = 思ったこと 💭 -ung なので die Meinung！", "bonus": "Ich bin anderer Meinung. = 私は違う意見です。"},
+      "A2-325": {"pron": "マイネン", "tip": "英語の mean と同じ語源 🤔「思う」と「意味する」の2つの意味があります。", "bonus": "Was meinst du? = どう思う？ · So habe ich das nicht gemeint. = そういう意味じゃなかったの。"},
+      "A1-186": {"pron": "フィンデン", "tip": "英語の find と同じ 🔍「見つける」に加えて「〜だと思う」も！", "bonus": "Wie findest du das? = それ、どう思う？ · Ich finde das super!"},
+      "A1-303": {"pron": "グラウベン", "tip": "英語 believe の lieve は glauben の親戚 🙏", "bonus": "人を信じるときは3格：Ich glaube dir. · 〜の存在を信じるは an + 4格"},
+      "A2-875": {"pron": "マイナー マイヌング ナーハ", "tip": "nach が後ろに来る珍しい前置詞 🔚「私の意見によれば」！", "warn": "すぐ後に動詞が来ます：Meiner Meinung nach ist das falsch."},
+      "B1-187": {"pron": "アインフェアシュタンデン", "tip": "ein（ひとつ）+ verstanden（理解された）= 理解がひとつになる 🤝 ドイツ語版の「OK！」", "bonus": "〜に賛成は mit + 3格：Ich bin damit einverstanden."},
+      "A2-549": {"pron": "レヒト ハーベン", "tip": "ドイツ語では「正しさを持っている」と言います ✅ Du hast recht!", "warn": "sein ではなく haben！ Du bist recht（×）→ Du hast recht（○）"},
+      "B1-347": {"pron": "シュティメン", "tip": "die Stimme（声、票）からできた動詞 🗳️ あいづちは短く Stimmt!", "bonus": "会計で Stimmt so! = おつりはいりません（チップです）。"},
+      "B1-180": {"pron": "ツーシュティメン", "tip": "zu（〜のほうへ）+ stimmen = 相手のほうに一票を入れる 👍", "warn": "分離動詞＋3格：Da stimme ich dir zu."},
+      "A2-884": {"pron": "ダゲーゲン", "tip": "da（それ）+ gegen（反対）= それに反対 🙅‍♀️ 賛成は dafür！", "bonus": "Hast du was dagegen? = 構わない？（嫌なら言ってね）"}
+    },
+    "culture": [
+      "ドイツでは会議や授業、友だちとの会話で「自分の意見」を言うことが大切にされます。黙っていると賛成だと受け取られることもあるので、短くても Meiner Meinung nach… から始めてみましょう。",
+      "迷っているときに使える面白い言葉もあります。ja と nein を合わせた「Jein」！「イエスでもありノーでもある」という意味で、日常会話で本当によく聞きます。",
+      "反対するときも「Das sehe ich anders, aber…」のように理由を添えると、会話がやわらかくなります。ドイツの人は、こうした議論（Diskussion）そのものを楽しむことが多いんです。🗣️"
+    ],
+    "quiz": {"q": "友だちに「金曜の8時に映画に行かない？」と誘われました。OKと答えます。", "o": ["Hast du etwas dagegen?", "Ja, einverstanden!", "Meiner Meinung nach nicht."], "a": 1, "why": "einverstanden は「賛成、いいよ！」という意味で、提案を受け入れるときに使います。"},
+    "outro": "今日は何かひとつ選んで、ドイツ語で意見を言ってみましょう。Ich finde, Pocket German ist super! あたりから始めるのがおすすめです。😉"
+  }
+}
