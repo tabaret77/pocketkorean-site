@@ -271,3 +271,257 @@ def residence():
 SCENES = {'learn-topik-vocabulary-level-by-level': topik_vocab, 'read-hangul-in-an-hour': hangul, 'ayo-eoyo-polite-ending': ayo,
           'gwaenchanayo-meaning': gwaenchana, 'korean-slang-online-2026': slang, 'ordering-at-a-korean-cafe': cafe,
                     'jondaenmal-vs-banmal': jondaen, '10-lines-every-k-drama': drama_lines}
+
+# ======================= 2026-10-22 batch =======================
+F = 'font-family="Nanum Myeongjo" font-weight="800"'
+
+def _leaf(x, y, r, c, rot=0):
+    return (f'<g transform="translate({x} {y}) rotate({rot})"><path d="M0 {-r} C{r*.9} {-r*.6} {r*.9} {r*.4} 0 {r} C{-r*.9} {r*.4} {-r*.9} {-r*.6} 0 {-r}Z" fill="{c}" stroke="{INK}" stroke-width="3"/>'
+            f'<path d="M0 {-r*.8} V{r*1.3}" stroke="{INK}" stroke-width="3"/></g>')
+
+def _ginkgo(x, y, r, rot=0, c='#FFC93C'):
+    return (f'<g transform="translate({x} {y}) rotate({rot})"><path d="M0 0 L{-r} {-r*.8} Q0 {-r*1.4} {r} {-r*.8}Z" fill="{c}" stroke="{INK}" stroke-width="3" stroke-linejoin="round"/>'
+            f'<path d="M0 0 v{r*.6}" stroke="{INK}" stroke-width="3"/></g>')
+
+def _heart(x, y, r, c='#F2555A'):
+    return f'<path transform="translate({x} {y}) scale({r/20})" d="M0 6 C-14 -10 -26 4 0 22 C26 4 14 -10 0 6Z" fill="{c}" stroke="{INK}" stroke-width="{60/r:.1f}"/>'
+
+# ---------- TOPIK II writing question 54: exam desk ----------
+def topik54():
+    d = '<linearGradient id="q54bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#EEF2FF"/><stop offset="1" stop-color="#DCE3FA"/></linearGradient>'
+    s = ['<rect width="1600" height="1000" fill="url(#q54bg)"/>']
+    # board with outline
+    s.append(f'<g filter="url(#sh)"><rect x="90" y="70" width="820" height="360" rx="18" fill="#B47A48" stroke="{INK}" stroke-width="6"/><rect x="116" y="96" width="768" height="308" rx="8" fill="#2F6B55"/></g>')
+    for i, w in enumerate(['서론', '본론', '결론']):
+        x = 160 + i * 250
+        s.append(f'<rect x="{x}" y="170" width="190" height="120" rx="20" fill="none" stroke="#F4F7EF" stroke-width="5" stroke-dasharray="12 8"/>'
+                 f'<text x="{x+95}" y="252" text-anchor="middle" {F} font-size="64" fill="#F4F7EF">{w}</text>')
+        if i < 2:
+            s.append(f'<path d="M{x+198} 230 h44 m-16 -14 l16 14 l-16 14" stroke="#FFD84A" stroke-width="6" fill="none" stroke-linecap="round"/>')
+    s.append(f'<text x="500" y="370" text-anchor="middle" {F} font-size="44" fill="#FFD84A">54번 · 600~700자</text>')
+    # clock
+    s.append(f'<g filter="url(#sh)"><circle cx="1360" cy="190" r="120" fill="#FFFFFF" stroke="{INK}" stroke-width="7"/></g>'
+             f'<path d="M1360 190 L1360 70 A120 120 0 0 1 1480 190Z" fill="#FFD84A" opacity=".55"/>'
+             + ''.join(f'<rect x="1356" y="80" width="8" height="18" fill="{INK}" transform="rotate({a} 1360 190)"/>' for a in range(0, 360, 30)) +
+             f'<path d="M1360 190 V100 M1360 190 L1420 220" stroke="{INK}" stroke-width="8" stroke-linecap="round"/><circle cx="1360" cy="190" r="10" fill="{INK}"/>')
+    s.append(tag(1250, 340, '25분', '#FFFFFF', 46))
+    # girl writing, desk in front
+    s.append(P(cute.girl, 960, 380, 1.1, mood='talk', cardigan='#FFFFFF', skirt='#2446F0', skirt_sh='#1632C4'))
+    s.append(f'<g filter="url(#sh)"><rect x="560" y="760" width="1000" height="40" rx="10" fill="#D9A46C" stroke="{INK}" stroke-width="6"/><rect x="600" y="800" width="920" height="200" fill="#C08A55" stroke="{INK}" stroke-width="6"/></g>')
+    # manuscript paper (원고지)
+    grid = ''.join(f'<rect x="{640+c*36}" y="{652+r*36}" width="30" height="30" fill="none" stroke="#E46A6E" stroke-width="2"/>' for r in range(3) for c in range(12))
+    s.append(f'<g transform="rotate(-4 840 700)" filter="url(#sh)"><rect x="620" y="630" width="470" height="140" rx="6" fill="#FFFDF5" stroke="{INK}" stroke-width="4"/>{grid}'
+             + ''.join(f'<text x="{655+i*36}" y="676" text-anchor="middle" {F} font-size="24" fill="{INK}">{ch}</text>' for i, ch in enumerate('현대 사회에서는')) + '</g>')
+    s.append(f'<g transform="translate(1130 720) rotate(-35)"><rect x="0" y="-10" width="190" height="20" fill="#FFD84A" stroke="{INK}" stroke-width="4"/><path d="M190 -10 l34 10 l-34 10Z" fill="#F7D9B5" stroke="{INK}" stroke-width="4"/><rect x="-24" y="-10" width="26" height="20" fill="#F2555A" stroke="{INK}" stroke-width="4"/></g>')
+    s.append(tag(110, 520, '주장', '#FFF6D1') + tag(150, 650, '따라서', '#E3F7F0', 48))
+    s.append(sparkle(960, 110, 24) + sparkle(560, 520, 18, '#FF9C9C') + sparkle(1530, 420, 20, '#7C5CFF'))
+    return svg(d, ''.join(s))
+
+# ---------- -고 싶다: daydreaming in a café ----------
+def go_sipda():
+    d = '<linearGradient id="gsbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF1E6"/><stop offset="1" stop-color="#FFE0CC"/></linearGradient>'
+    s = ['<rect width="1600" height="1000" fill="url(#gsbg)"/>', '<rect y="840" width="1600" height="160" fill="#D9B48A"/><rect y="840" width="1600" height="10" fill="#B88E62"/>']
+    # window
+    s.append(f'<g filter="url(#sh)"><rect x="1220" y="80" width="300" height="340" rx="20" fill="#CFE8FF" stroke="{INK}" stroke-width="6"/></g><path d="M1370 80 V420 M1220 250 H1520" stroke="{INK}" stroke-width="6"/><circle cx="1450" cy="150" r="34" fill="#FFF3C4"/>')
+    # thought clouds
+    def cloud(cx, cy, inner, label, bg):
+        return (f'<g filter="url(#sh)"><ellipse cx="{cx}" cy="{cy}" rx="170" ry="130" fill="#FFFFFF" stroke="{INK}" stroke-width="5"/></g>{inner}'
+                + tag(cx - (56 + 40 * 1.02 * len(label)) / 2, cy + 150, label, bg, 40))
+    plane = f'<g transform="translate(260 210) rotate(-15)"><path d="M-90 0 Q-90 -16 -60 -16 H70 Q100 -16 100 0 Q100 16 70 16 H-60 Q-90 16 -90 0Z" fill="#E8ECFF" stroke="{INK}" stroke-width="5"/><path d="M-10 -14 L-40 -80 H-10 L40 -14Z M-10 14 L-40 80 H-10 L40 14Z" fill="#2446F0" stroke="{INK}" stroke-width="5" stroke-linejoin="round"/><path d="M-80 -14 L-96 -50 H-76 L-56 -14Z" fill="#F2555A" stroke="{INK}" stroke-width="4"/></g>'
+    bowl = (f'<g transform="translate(640 210)"><path d="M-100 -10 H100 Q96 70 0 76 Q-96 70 -100 -10Z" fill="#FFFFFF" stroke="{INK}" stroke-width="5"/>'
+            + ''.join(f'<rect x="{x}" y="{y}" width="56" height="20" rx="10" fill="#F2555A" stroke="{INK}" stroke-width="3" transform="rotate({r} {x} {y})"/>' for x, y, r in [(-80, -26, 10), (-20, -34, -12), (30, -24, 18), (-50, -46, -5)]) +
+            '<path d="M-30 -60 q10 -20 0 -40 M10 -60 q10 -20 0 -40" stroke="#C8CDE4" stroke-width="5" fill="none"/></g>')
+    bed = (f'<g transform="translate(1010 220)"><rect x="-110" y="-10" width="220" height="60" rx="14" fill="#7C5CFF" stroke="{INK}" stroke-width="5"/><rect x="-120" y="-60" width="24" height="130" rx="8" fill="#B47A48" stroke="{INK}" stroke-width="5"/>'
+           f'<rect x="-92" y="-36" width="70" height="34" rx="14" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/><text x="60" y="-30" {F} font-size="44" fill="#7C5CFF">z z</text></g>')
+    s.append(cloud(260, 210, plane, '가고 싶어요', '#E8ECFF') + cloud(640, 210, bowl, '먹고 싶어요', '#FFE9E8') + cloud(1010, 220, bed, '쉬고 싶어요', '#EFEAFF'))
+    s.append(''.join(f'<circle cx="{x}" cy="{y}" r="{r}" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/>' for x, y, r in [(700, 480, 16), (680, 530, 11), (980, 470, 16), (1000, 520, 11)]))
+    # girl and boy at café table
+    s.append(P(cute.girl, 520, 520, 1.0, mood='smile', cardigan='#FFD84A', cardigan_sh='#D9B21E', skirt='#12A57A', skirt_sh='#0B7F5D'))
+    s.append(P(cute.boy, 900, 520, 1.0, mood='talk', vest='#F2555A', vest_sh='#C93E44'))
+    s.append(f'<g filter="url(#sh)"><ellipse cx="840" cy="880" rx="300" ry="34" fill="#FFFFFF" stroke="{INK}" stroke-width="5"/><rect x="826" y="900" width="28" height="100" fill="#B47A48" stroke="{INK}" stroke-width="5"/></g>')
+    s.append(f'<g transform="translate(720 820)"><path d="M0 0 h70 l-8 56 h-54Z" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/><rect x="0" y="10" width="70" height="14" fill="#B47A48"/></g>')
+    s.append(bubble(1180, 520, '보고 싶어요', 46, 'down-left'))
+    s.append(sparkle(140, 470, 22) + sparkle(1540, 600, 18, '#FF9C9C') + sparkle(820, 60, 22))
+    return svg(d, ''.join(s))
+
+# ---------- Kimjang words: making kimchi together ----------
+def kimjang():
+    d = '<linearGradient id="kjbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF4E0"/><stop offset="1" stop-color="#FCE3C4"/></linearGradient>'
+    s = ['<rect width="1600" height="1000" fill="url(#kjbg)"/>', '<rect y="800" width="1600" height="200" fill="#E7C795"/>']
+    # hanok-ish window lattice
+    s.append(f'<g filter="url(#sh)"><rect x="1180" y="70" width="340" height="300" rx="10" fill="#FFF8E8" stroke="{INK}" stroke-width="6"/></g>'
+             + ''.join(f'<path d="M{1180+i*68} 70 V370" stroke="#B47A48" stroke-width="5"/>' for i in range(1, 5)) + ''.join(f'<path d="M1180 {70+i*60} H1520" stroke="#B47A48" stroke-width="5"/>' for i in range(1, 5)))
+    # characters behind tub
+    s.append(P(cute.girl, 380, 330, 1.05, mood='happy', cardigan='#FFFFFF', skirt='#F2555A', skirt_sh='#C93E44'))
+    s.append(P(cute.boy, 820, 340, 1.05, mood='talk', vest='#12A57A', vest_sh='#0B7F5D'))
+    # big red tub
+    s.append(f'<g filter="url(#sh)"><path d="M300 700 H1180 L1120 960 H360Z" fill="#E8434A" stroke="{INK}" stroke-width="7" stroke-linejoin="round"/><ellipse cx="740" cy="700" rx="440" ry="60" fill="#C93E44" stroke="{INK}" stroke-width="7"/></g>')
+    # cabbage halves in tub
+    for cx, rot in [(520, -10), (700, 6), (880, -4), (1020, 12)]:
+        s.append(f'<g transform="translate({cx} 680) rotate({rot})"><path d="M-100 0 Q-80 -46 0 -44 Q90 -40 104 0 Q90 40 0 44 Q-80 46 -100 0Z" fill="#9FD46A" stroke="{INK}" stroke-width="5"/>'
+                 f'<path d="M-60 0 Q-40 -30 20 -30 Q90 -26 96 0 Q90 26 20 30 Q-40 30 -60 0Z" fill="#FFF6C8" stroke="{INK}" stroke-width="4"/>'
+                 f'<path d="M-40 -14 Q30 -24 90 -8 M-44 0 H94 M-40 14 Q30 24 90 8" stroke="#E7DFA0" stroke-width="4" fill="none"/>'
+                 f'<path d="M-20 -18 q30 10 60 -4 M0 16 q30 -10 60 4" stroke="#E8434A" stroke-width="9" fill="none" stroke-linecap="round" opacity=".85"/></g>')
+    # red gloves (hands) on tub rim
+    s.append(f'<ellipse cx="560" cy="650" rx="38" ry="26" fill="#F2555A" stroke="{INK}" stroke-width="5"/><ellipse cx="960" cy="650" rx="38" ry="26" fill="#F2555A" stroke="{INK}" stroke-width="5"/>')
+    # chilli flakes bowl + radish
+    s.append(f'<g filter="url(#sh)"><path d="M1260 820 h220 q-10 110 -110 112 q-100 -2 -110 -112Z" fill="#FFFFFF" stroke="{INK}" stroke-width="5"/><ellipse cx="1370" cy="820" rx="110" ry="22" fill="#D63A2E" stroke="{INK}" stroke-width="5"/></g>')
+    s.append(f'<g transform="translate(170 880) rotate(-15)" filter="url(#sh)"><path d="M-6 -24 Q-50 -80 -30 -100 M0 -24 Q0 -90 30 -100 M6 -24 Q40 -70 70 -70" stroke="#12A57A" stroke-width="16" fill="none" stroke-linecap="round"/>'
+             f'<path d="M-50 -20 Q0 -36 50 -20 Q70 40 10 90 Q0 100 -10 90 Q-70 40 -50 -20Z" fill="#FFFFFF" stroke="{INK}" stroke-width="5"/><path d="M-46 -12 Q0 -24 46 -12 Q50 10 44 20 Q0 6 -44 20 Q-50 10 -46 -12Z" fill="#CDEBA4"/></g>')
+    s.append(tag(90, 90, '김장', '#FFD84A', 70) + tag(1210, 420, '고춧가루', '#FFE9E8', 44) + tag(90, 260, '배추', '#E3F7F0', 52) + tag(1300, 580, '무', '#FFFFFF', 48))
+    s.append(bubble(700, 150, '너무 짜요?', 46, 'down-right'))
+    s.append(sparkle(620, 110, 22) + sparkle(1120, 520, 18, '#FF9C9C'))
+    return svg(d, ''.join(s))
+
+# ---------- Batchim: the 7 final sounds ----------
+def batchim():
+    d = '<linearGradient id="bcbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF4E0"/><stop offset="1" stop-color="#F6E3C6"/></linearGradient>'
+    s = ['<rect width="1600" height="1000" fill="url(#bcbg)"/>', '<rect y="860" width="1600" height="140" fill="#D9B48A"/><rect y="860" width="1600" height="10" fill="#B88E62"/>']
+    s.append(f'<g filter="url(#sh)"><rect x="80" y="70" width="1080" height="560" rx="18" fill="#B47A48" stroke="{INK}" stroke-width="6"/><rect x="108" y="98" width="1024" height="504" rx="8" fill="#2F6B55"/></g>')
+    chalk = f'{F} fill="#F4F7EF"'
+    s.append(f'<text x="620" y="180" text-anchor="middle" {chalk} font-size="54">받침 소리 7개</text>')
+    for i, ch in enumerate('ㄱㄴㄷㄹㅁㅂㅇ'):
+        x = 150 + i * 135
+        s.append(f'<rect x="{x}" y="220" width="115" height="130" rx="16" fill="none" stroke="#FFD84A" stroke-width="5"/><text x="{x+57}" y="315" text-anchor="middle" {chalk} font-size="84">{ch}</text>')
+    s.append(f'<text x="300" y="480" text-anchor="middle" {chalk} font-size="96">꽃</text><path d="M380 450 h90 m-20 -18 l20 18 l-20 18" stroke="#FFD84A" stroke-width="6" fill="none"/><text x="590" y="480" text-anchor="middle" {F} font-size="80" fill="#FFD84A">[꼳]</text>')
+    s.append(f'<text x="300" y="580" text-anchor="middle" {chalk} font-size="96">옷</text><path d="M380 550 h90 m-20 -18 l20 18 l-20 18" stroke="#FFD84A" stroke-width="6" fill="none"/><text x="590" y="580" text-anchor="middle" {F} font-size="80" fill="#FFD84A">[옫]</text>')
+    # flower + shirt doodles in chalk
+    s.append('<g transform="translate(860 470)" stroke="#F4F7EF" stroke-width="5" fill="none">' + ''.join(f'<circle cx="{30*math.cos(a*math.pi/2.5):.0f}" cy="{30*math.sin(a*math.pi/2.5):.0f}" r="22"/>' for a in range(5)) + '<circle r="14" fill="#FFD84A" stroke="none"/><path d="M0 50 V120"/></g>')
+    s.append('<path transform="translate(980 500)" d="M0 0 l40 -20 q20 18 40 0 l40 20 l-14 34 l-20 -8 v70 h-52 v-70 l-20 8Z" stroke="#F4F7EF" stroke-width="5" fill="none" stroke-linejoin="round"/>')
+    # pointer and boy
+    s.append(f'<path d="M1240 560 L1100 300" stroke="#8A5A34" stroke-width="10" stroke-linecap="round"/>')
+    s.append(P(cute.boy, 1190, 430, 1.05, mood='talk', vest='#7C5CFF', vest_sh='#5B3FD6', glasses=True))
+    s.append(tag(130, 700, '받침', '#FFD84A', 60) + tag(420, 760, '발음', '#E3F7F0', 50))
+    s.append(sparkle(1250, 130, 24) + sparkle(1520, 380, 18, '#FF9C9C') + sparkle(760, 700, 20, '#7C5CFF'))
+    return svg(d, ''.join(s))
+
+# ---------- 화이팅: cheering at the school gate before 수능 ----------
+def hwaiting():
+    R = random.Random(22)
+    d = '<linearGradient id="hwbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#CFE8FF"/><stop offset=".7" stop-color="#FFF1DA"/><stop offset="1" stop-color="#FFE6C2"/></linearGradient>'
+    s = ['<rect width="1600" height="1000" fill="url(#hwbg)"/>', '<rect y="840" width="1600" height="160" fill="#C9B79A"/>']
+    # school gate pillars + building
+    s.append(f'<g filter="url(#sh)"><rect x="560" y="120" width="900" height="420" fill="#F4EBDD" stroke="{INK}" stroke-width="6"/></g>'
+             + ''.join(f'<rect x="{600+i*140}" y="{170+j*130}" width="90" height="80" fill="#BFDDF5" stroke="{INK}" stroke-width="4"/>' for i in range(6) for j in range(2)) +
+             f'<g filter="url(#sh)"><rect x="80" y="300" width="90" height="560" fill="#B9A894" stroke="{INK}" stroke-width="6"/><rect x="1430" y="300" width="90" height="560" fill="#B9A894" stroke="{INK}" stroke-width="6"/></g>')
+    # ginkgo tree
+    s.append(f'<rect x="300" y="420" width="40" height="440" fill="#8A5A34" stroke="{INK}" stroke-width="5"/>'
+             + ''.join(f'<circle cx="{x}" cy="{y}" r="{r}" fill="#FFC93C" stroke="{INK}" stroke-width="6"/>' for x, y, r in [(240, 360, 110), (400, 360, 110), (320, 250, 130), (320, 400, 100)])
+             + '<circle cx="320" cy="330" r="120" fill="#FFC93C"/><circle cx="280" cy="250" r="40" fill="#FFE07A"/>')
+    for _ in range(14):
+        s.append(_ginkgo(R.uniform(60, 1560), R.uniform(520, 960), R.uniform(14, 22), R.uniform(-60, 60)))
+    # banner
+    s.append(f'<g filter="url(#sh)"><rect x="560" y="40" width="900" height="130" rx="14" fill="#F2555A" stroke="{INK}" stroke-width="6"/><text x="1010" y="135" text-anchor="middle" {F} font-size="84" fill="#FFFFFF">수능 화이팅!</text></g>')
+    s.append(P(cute.girl, 620, 470, 1.0, mood='happy', cardigan='#FFFFFF', skirt='#2446F0', skirt_sh='#1632C4', ribbon='#F2555A'))
+    s.append(P(cute.boy, 960, 480, 1.0, mood='talk', vest='#FF9F43', vest_sh='#D97B22'))
+    # 찹쌀떡 box + 엿
+    s.append(f'<g transform="translate(1260 760)" filter="url(#sh)"><rect width="200" height="110" rx="12" fill="#FFF6D1" stroke="{INK}" stroke-width="5"/>'
+             + ''.join(f'<ellipse cx="{45+i*55}" cy="55" rx="24" ry="20" fill="#FFFFFF" stroke="{INK}" stroke-width="3"/>' for i in range(3)) + '</g>')
+    s.append(f'<g transform="translate(420 800) rotate(-15)" filter="url(#sh)"><rect width="140" height="40" rx="20" fill="#C98A3A" stroke="{INK}" stroke-width="5"/><rect x="20" y="8" width="100" height="10" rx="5" fill="#E8B46A"/></g>')
+    s.append(bubble(1150, 330, '화이팅!', 56, 'down-left') + bubble(260, 520, '꼭 붙어라!', 46, 'down-right'))
+    s.append(tag(1220, 640, '힘내세요', '#E3F7F0', 44))
+    s.append(sparkle(540, 260, 22) + sparkle(1540, 230, 20, '#FF9C9C') + sparkle(880, 420, 18))
+    return svg(d, ''.join(s))
+
+# ---------- Confession lines: bus stop at night, first snow ----------
+def confession():
+    R = random.Random(14)
+    d = '<linearGradient id="cfbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#28306B"/><stop offset="1" stop-color="#7A6AB8"/></linearGradient><radialGradient id="cflamp" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#FFF3C4" stop-opacity=".9"/><stop offset="1" stop-color="#FFF3C4" stop-opacity="0"/></radialGradient>'
+    s = ['<rect width="1600" height="1000" fill="url(#cfbg)"/>']
+    # city silhouettes
+    for i in range(10):
+        x = i * 170; h = R.uniform(180, 380)
+        s.append(f'<rect x="{x}" y="{840-h:.0f}" width="150" height="{h:.0f}" fill="#3A3F7E"/>' + ''.join(f'<rect x="{x+20+c*44}" y="{860-h+r*50:.0f}" width="22" height="26" fill="#FFE59A" opacity="{R.choice([.2,.7,.9])}"/>' for c in range(3) for r in range(int(h//70))))
+    s.append('<rect y="840" width="1600" height="160" fill="#EDEFF8"/>')
+    # streetlight with glow
+    s.append(f'<circle cx="300" cy="200" r="230" fill="url(#cflamp)"/><rect x="290" y="200" width="20" height="640" fill="#2B2F55" stroke="{INK}" stroke-width="4"/><path d="M250 190 h100 l-20 30 h-60Z" fill="#FFE59A" stroke="{INK}" stroke-width="5"/>')
+    # bus stop sign
+    s.append(f'<rect x="1440" y="420" width="16" height="420" fill="#2B2F55"/><g filter="url(#sh)"><rect x="1380" y="330" width="136" height="110" rx="14" fill="#2446F0" stroke="{INK}" stroke-width="5"/><text x="1448" y="402" text-anchor="middle" {F} font-size="40" fill="#FFFFFF">정류장</text></g>')
+    s.append(P(cute.boy, 560, 440, 1.05, mood='talk', vest='#F2555A', vest_sh='#C93E44', hair='#2C2220'))
+    s.append(P(cute.girl, 920, 450, 1.0, mood='happy', cardigan='#FFFFFF', skirt='#7C5CFF', skirt_sh='#5B3FD6'))
+    # gift box in boy's hand
+    s.append(f'<g transform="translate(790 720) rotate(8)" filter="url(#sh)"><rect x="-40" y="-36" width="80" height="72" rx="8" fill="#FF9C9C" stroke="{INK}" stroke-width="5"/><path d="M0 -36 V36 M-40 0 H40" stroke="#FFD84A" stroke-width="10"/></g>')
+    s.append(_heart(880, 420, 26) + _heart(840, 360, 18, '#FF9C9C') + _heart(1200, 440, 20))
+    for _ in range(55):
+        s.append(f'<circle cx="{R.uniform(0,1600):.0f}" cy="{R.uniform(0,980):.0f}" r="{R.uniform(3,8):.0f}" fill="#FFFFFF" opacity="{R.uniform(.5,.95):.2f}"/>')
+    s.append(bubble(420, 250, '좋아해', 58, 'down-right') + bubble(980, 230, '우리 사귈래?', 50, 'down-left'))
+    s.append(tag(1050, 860, '오늘부터 1일', '#FFE9E8', 46))
+    s.append(sparkle(1300, 120, 24) + sparkle(160, 120, 18, '#FFD84A'))
+    return svg(d, ''.join(s))
+
+# ---------- Making plans: park bench under maple trees ----------
+def plans():
+    R = random.Random(8)
+    d = '<linearGradient id="mpbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#BFE3FF"/><stop offset="1" stop-color="#FFF0D6"/></linearGradient>'
+    s = ['<rect width="1600" height="1000" fill="url(#mpbg)"/>', '<path d="M0 760 Q800 720 1600 770 L1600 1000 L0 1000Z" fill="#B9D98A"/>']
+    for cx, cy, r, c in [(200, 260, 230, '#E8434A'), (1420, 240, 240, '#FF9F43'), (1100, 200, 170, '#F2555A')]:
+        s.append(f'<rect x="{cx-18}" y="{cy}" width="36" height="{760-cy}" fill="#8A5A34" stroke="{INK}" stroke-width="5"/><circle cx="{cx}" cy="{cy}" r="{r}" fill="{c}" stroke="{INK}" stroke-width="6"/>')
+    for _ in range(16):
+        s.append(_leaf(R.uniform(60, 1560), R.uniform(560, 980), R.uniform(14, 20), R.choice(['#E8434A', '#FF9F43', '#FFC93C']), R.uniform(-80, 80)))
+    # characters then bench in front
+    s.append(P(cute.girl, 520, 420, 1.0, mood='talk', cardigan='#FFD84A', cardigan_sh='#D9B21E', skirt='#2446F0', skirt_sh='#1632C4'))
+    s.append(P(cute.boy, 860, 430, 1.0, mood='happy', vest='#12A57A', vest_sh='#0B7F5D'))
+    s.append(f'<g filter="url(#sh)"><rect x="420" y="700" width="760" height="34" rx="10" fill="#B47A48" stroke="{INK}" stroke-width="5"/><rect x="420" y="760" width="760" height="34" rx="10" fill="#B47A48" stroke="{INK}" stroke-width="5"/>'
+             f'<rect x="470" y="794" width="26" height="110" fill="#5C3A22"/><rect x="1104" y="794" width="26" height="110" fill="#5C3A22"/></g>')
+    # phones
+    for x, r in [(640, -10), (960, 10)]:
+        s.append(f'<g transform="translate({x} 680) rotate({r})" filter="url(#sh)"><rect x="-30" y="-52" width="60" height="104" rx="12" fill="#2B2F55" stroke="{INK}" stroke-width="4"/><rect x="-22" y="-42" width="44" height="80" rx="6" fill="#E8F6FF"/><rect x="-16" y="-34" width="30" height="10" rx="5" fill="#FFD84A"/><rect x="-12" y="-16" width="26" height="10" rx="5" fill="#9BD08A"/></g>')
+    # calendar
+    cal = ''.join(f'<rect x="{1240+c*44}" y="{560+r*40}" width="36" height="32" rx="4" fill="#FFFFFF" stroke="#C8CDE4" stroke-width="2"/>' for r in range(3) for c in range(6))
+    s.append(f'<g filter="url(#sh)"><rect x="1220" y="480" width="300" height="220" rx="14" fill="#FFFFFF" stroke="{INK}" stroke-width="5"/><rect x="1220" y="480" width="300" height="60" rx="14" fill="#F2555A" stroke="{INK}" stroke-width="5"/>'
+             f'<text x="1370" y="526" text-anchor="middle" {F} font-size="38" fill="#FFFFFF">토요일</text></g>{cal}<circle cx="1478" cy="616" r="28" fill="none" stroke="#F2555A" stroke-width="6"/>')
+    s.append(bubble(330, 250, '시간 돼?', 56, 'down-right') + bubble(840, 230, '단풍 보러 갈까?', 46, 'down-left'))
+    s.append(tag(1230, 760, '콜!', '#FFD84A', 60))
+    s.append(sparkle(760, 120, 22) + sparkle(120, 620, 18, '#FF9C9C'))
+    return svg(d, ''.join(s))
+
+# ---------- Texting shortcuts: chat bubbles from a phone at night ----------
+def texting():
+    R = random.Random(5)
+    d = '<linearGradient id="txbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2E3570"/><stop offset="1" stop-color="#5B4A9E"/></linearGradient>'
+    s = ['<rect width="1600" height="1000" fill="url(#txbg)"/>']
+    for _ in range(30):
+        s.append(f'<circle cx="{R.uniform(0,1600):.0f}" cy="{R.uniform(0,400):.0f}" r="{R.uniform(2,5):.0f}" fill="#FFFFFF" opacity=".7"/>')
+    s.append('<circle cx="1420" cy="140" r="70" fill="#FFF3C4"/><circle cx="1450" cy="120" r="62" fill="#2E3570"/>')
+    # lamp glow
+    s.append('<defs><radialGradient id="txglow"><stop offset="0" stop-color="#FFE59A" stop-opacity=".45"/><stop offset="1" stop-color="#FFE59A" stop-opacity="0"/></radialGradient></defs><circle cx="360" cy="560" r="320" fill="url(#txglow)"/>')
+    # character (standing behind bed head)
+    s.append(P(cute.girl, 220, 420, 1.05, mood='happy', cardigan='#FF9C9C', cardigan_sh='#E07A7E', skirt='#7C5CFF', skirt_sh='#5B3FD6'))
+    # bed
+    s.append(f'<g filter="url(#sh)"><rect x="60" y="760" width="900" height="120" rx="20" fill="#FFFFFF" stroke="{INK}" stroke-width="6"/><path d="M60 780 Q500 700 960 790 V880 H60Z" fill="#7FB8F0" stroke="{INK}" stroke-width="6"/><rect x="60" y="880" width="900" height="40" fill="#B47A48" stroke="{INK}" stroke-width="6"/></g>')
+    # big phone
+    s.append(f'<g filter="url(#sh)"><rect x="560" y="300" width="280" height="500" rx="40" fill="#1B1E3A" stroke="{INK}" stroke-width="7"/><rect x="580" y="340" width="240" height="420" rx="20" fill="#E8F6FF"/></g>'
+             + ''.join(f'<rect x="{x}" y="{y}" width="{w}" height="40" rx="20" fill="{c}"/>' for x, y, w, c in [(596, 370, 150, '#FFFFFF'), (660, 430, 150, '#FFD84A'), (596, 490, 120, '#FFFFFF'), (690, 550, 120, '#FFD84A')]))
+    # floating chat bubbles
+    s.append(bubble(900, 140, 'ㄱㅅㄱㅅ', 60, 'down-left', '#FFF6D1') + bubble(1150, 380, 'ㅊㅋㅊㅋ', 60, 'down-left', '#E3F7F0'))
+    s.append(bubble(940, 600, 'ㄹㅇ', 60, 'down-left') + bubble(1260, 650, 'ㅇㅈ', 60, 'down-left', '#EFEAFF'))
+    s.append(tag(80, 120, '초성', '#FFD84A', 64))
+    s.append(_heart(500, 260, 22) + sparkle(1500, 420, 22) + sparkle(870, 860, 18, '#FF9C9C') + sparkle(420, 160, 20, '#FFD84A'))
+    return svg(d, ''.join(s))
+
+# ---------- Honorific verbs: family dinner with grandma ----------
+def honorific():
+    d = '<linearGradient id="hnbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF4E0"/><stop offset="1" stop-color="#F8DFC0"/></linearGradient>'
+    s = ['<rect width="1600" height="1000" fill="url(#hnbg)"/>', '<rect y="800" width="1600" height="200" fill="#E2B57C"/>']
+    # hanji sliding doors
+    s.append(f'<g filter="url(#sh)"><rect x="1150" y="70" width="380" height="460" fill="#FFFBF0" stroke="#8A5A34" stroke-width="10"/></g>'
+             + ''.join(f'<path d="M{1150+i*76} 70 V530" stroke="#8A5A34" stroke-width="4"/>' for i in range(1, 5)) + ''.join(f'<path d="M1150 {70+i*92} H1530" stroke="#8A5A34" stroke-width="4"/>' for i in range(1, 5)))
+    # grandma (girl with grey hair) and grandchild (boy bowing slightly)
+    s.append(P(cute.girl, 300, 390, 1.0, mood='happy', hair='#C9C4C0', hair_hi='#EDEAE6', cardigan='#9B7BD8', cardigan_sh='#7A5CB8', skirt='#5A4A7A', skirt_sh='#45385E', ribbon='#F2555A'))
+    s.append(f'<g transform="rotate(8 1000 800)">{P(cute.boy, 880, 400, 1.0, mood="smile", vest="#12A57A", vest_sh="#0B7F5D")}</g>')
+    # 밥상 low table
+    s.append(f'<g filter="url(#sh)"><rect x="220" y="740" width="1100" height="50" rx="16" fill="#B5462E" stroke="{INK}" stroke-width="6"/><rect x="260" y="790" width="40" height="120" fill="#8A3422" stroke="{INK}" stroke-width="5"/><rect x="1240" y="790" width="40" height="120" fill="#8A3422" stroke="{INK}" stroke-width="5"/></g>')
+    for x, c in [(420, '#FFFFFF'), (600, '#E8F0C8'), (900, '#FFD8B0'), (1100, '#FFFFFF')]:
+        s.append(f'<path d="M{x-60} 730 h120 q-6 40 -60 42 q-54 -2 -60 -42Z" fill="{c}" stroke="{INK}" stroke-width="4"/>')
+    s.append(f'<ellipse cx="420" cy="722" rx="56" ry="18" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/><path d="M395 700 q8 -18 0 -36 M430 700 q8 -18 0 -36" stroke="#C8CDE4" stroke-width="5" fill="none"/>'
+             f'<ellipse cx="600" cy="726" rx="50" ry="12" fill="#6BA34A"/><ellipse cx="900" cy="726" rx="50" ry="12" fill="#E8434A"/>')
+    s.append(f'<path d="M1180 738 L1290 724 M1180 748 L1290 740" stroke="#C0C0C8" stroke-width="6" stroke-linecap="round"/>')
+    s.append(bubble(640, 190, '진지 드셨어요?', 50, 'down-right') + bubble(110, 230, '많이 드세요', 46, 'down-right'))
+    s.append(tag(1140, 600, '안녕히 주무세요', '#EFEAFF', 38))
+    s.append(sparkle(1540, 600, 20) + sparkle(700, 120, 22, '#FF9C9C'))
+    return svg(d, ''.join(s))
+
+SCENES_1022 = {'topik-writing-question-54': topik54, 'go-sipda-want-to': go_sipda, 'kimjang-kimchi-making-words': kimjang,
+               'batchim-seven-final-sounds': batchim, 'hwaiting-meaning': hwaiting, 'k-drama-confession-lines': confession,
+               'making-plans-with-friends': plans, 'korean-texting-abbreviations': texting, 'korean-honorific-verbs': honorific}
+SCENES.update(SCENES_1022)
