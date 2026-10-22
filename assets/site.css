@@ -125,6 +125,8 @@ nav.main .sub{display:none}
 
 /* section heads on the home page */
 .sec{padding-top:72px;padding-bottom:8px}
+.sec.top-news{padding-top:36px;padding-bottom:56px}
+.top-news+.hero{border-top:1px solid var(--line)}
 .sec-h{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:14px;margin-bottom:26px}
 .sec-h .t{display:flex;align-items:center;gap:16px}
 .sec-h h2{margin:0}
@@ -449,6 +451,7 @@ aside .cta{flex-direction:column;align-items:stretch;margin:0}
   .mname>span:nth-child(2){flex:1;min-width:0}.mname svg{width:20px;height:20px;flex:none}
   .shortcuts{display:none}
   .sec{padding-top:40px}
+  .sec.top-news{padding-top:20px;padding-bottom:32px}
   .sec-h{margin-bottom:14px;flex-wrap:nowrap}.sec-h .t{gap:10px;min-width:0}.sec-h h2{font-size:22px}.sec-h .kicker{display:none}
   .sec-h .badge{width:36px;height:36px;font-size:14px;border-radius:10px}
   .news{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding:0 16px;margin:0 -16px;padding:0 16px 4px;scrollbar-width:none}
