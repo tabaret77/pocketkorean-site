@@ -169,7 +169,6 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
 <main id="main">{main}</main>
 <footer class="site"><div class="wrap"><div class="mlang"><label for="langsel2">{T('choose_lang', d)}</label><select id="langsel2" onchange="location.href=this.value">{opts}</select></div><div class="cols">{foot}</div>
 <div class="bottom"><span>© 2026 Pocket Korean <a style="margin-left:14px" href="/privacy/">{T('privacy', d)}</a></span><span id="credits"></span></div></div></footer>
-{tabbar(d, cur)}
 <script src="/assets/site-{JSV}.js" defer></script>
 </body></html>'''
 
