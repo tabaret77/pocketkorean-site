@@ -48,7 +48,7 @@ def badge(key, big=False):
     return f'<span class="badge b-{c}{" big" if big else ""}" lang="ko" aria-hidden="true">{k}</span>'
 CATS = {c: (s[0], k) for s in SECTIONS for c, k in s[3]}
 
-import hashlib, os as _os
+import hashlib, re, os as _os
 def _ver(f):
     try: return hashlib.md5(open(_os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))), 'assets', f), 'rb').read()).hexdigest()[:8]
     except OSError: return '1'
@@ -138,10 +138,10 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
     def _ni(i, p, k):
         a = f'<a href="{L(d, p + "/")}"{" aria-current=\"page\"" if cur == p else ""}>{T(k, d)}</a>'
         if i >= 5:
-            return f'<div class="ni">{a}</div>'
+            return f'<div class="ni" style="--c:{("#FFC21A", "#9B6CFF")[i - 5]}">{a}</div>'
         h, c, ls = cols[i]
-        return (f'<div class="ni has" style="--c:{c}">{a}<div class="sub"><div class="wrap">'
-                f'<p class="sh">{E(h)}</p><div class="sl">{ls}</div></div></div></div>')
+        ls = re.sub(r'<a class="star"[^>]*>.*?</a>', '', ls)  # already a main menu item
+        return f'<div class="ni has" style="--c:{c}">{a}<div class="sub"><div class="sl">{ls}</div></div></div>'
     navlinks = ''.join(_ni(i, p, k) for i, (p, k) in enumerate(top))
     mega = ''.join(f'<div class="col" style="--c:{c}"><p>{E(h)}</p>{ls}</div>' for h, c, ls in nav_cols(d))
     foot = ''.join(f'<div><p>{E(h)}</p>{ls}</div>' for h, c, ls in nav_cols(d))
