@@ -189,6 +189,14 @@ PHOTO = {
  'survival-korean-taxi-cafe-convenience-store-p1': (MEDIA + 'photos/street-night-ill.png', '카드 돼요?', '택시와 편의점에서', C['sky'], 'center'),
  'residence-card-korea-guide-p1': (MEDIA + 'photos/desk-ill.png', '외국인등록증', '신청부터 받기까지', C['sky'], 'center'),
  'korea-autumn-winter-festival-guide-v2': (MEDIA + 'photos/maple-tunnel-ill.png', '단풍 구경', '가을과 겨울 축제', C['sky'], 'center'),
+ 'love-in-disguise-premiere-p1': (MEDIA + 'photos/disguise-night-ill.png', '유죄', '나의 유죄인간 5.6%', C['coral'], 'center'),
+ 'nmixx-strange-muse-birthday-wish-p1': (MEDIA + 'photos/muse-stage-ill.png', '소원', '엔믹스 멜론 5위', C['yellow'], 'center'),
+ 'seongbuk-art-week-2026-p1': (MEDIA + 'photos/seongbuk-hill-ill.png', '집', '성북아트위크', C['coral'], 'center'),
+ 'hoe-cnic-han-river-raw-fish-picnic-p1': (MEDIA + 'photos/hoecnic-river-ill.png', '회크닉', '한강에서 회 한 접시', C['coral'], 'center'),
+ 'korean-winter-heating-boiler-guide-p1': (MEDIA + 'photos/boiler-room-ill.png', '난방', '첫 한국 겨울 보일러', C['sky'], 'center'),
+ 'ktx-booking-after-srt-merger-p1': (MEDIA + 'photos/ktx-platform-ill.png', '승차권', 'SRT 통합 후 KTX 예매', C['sky'], 'center'),
+ 'pepero-day-november-11-p1': (MEDIA + 'photos/stick-gifts-ill.png', '빼빼로데이', '11월 11일의 선물', C['sky'], 'center'),
+ 'korean-phrases-pharmacy-clinic-p1': (MEDIA + 'photos/pharmacy-counter-ill.png', '아파요', '약국과 병원에서', C['sky'], 'center'),
 }  # slug -> (photo path, big phrase, small line, accent colour, object-position)
 def photo_page(photo, big, small, accent, pos='center'):
     return HEAD + f"""<img src="file://{photo}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:{pos}">

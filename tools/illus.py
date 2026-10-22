@@ -64,7 +64,7 @@ def gyeongseong():
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import scenes2
-SCENES = {'gyeongseong-night': gyeongseong, 'operating-room-ill': lambda: scenes2.operating(svg), 'atrium-ill': lambda: scenes2.atrium(svg), 'maple-tunnel-ill': lambda: scenes2.maple(svg), 'concert-ill': lambda: scenes2.concert(svg), 'street-night-ill': lambda: scenes2.street_night(svg), 'desk-ill': lambda: scenes2.desk(svg)}
+SCENES = {'gyeongseong-night': gyeongseong, 'operating-room-ill': lambda: scenes2.operating(svg), 'atrium-ill': lambda: scenes2.atrium(svg), 'maple-tunnel-ill': lambda: scenes2.maple(svg), 'concert-ill': lambda: scenes2.concert(svg), 'street-night-ill': lambda: scenes2.street_night(svg), 'desk-ill': lambda: scenes2.desk(svg), 'disguise-night-ill': lambda: scenes2.disguise_night(svg), 'muse-stage-ill': lambda: scenes2.muse_stage(svg), 'seongbuk-hill-ill': lambda: scenes2.seongbuk_hill(svg), 'hoecnic-river-ill': lambda: scenes2.hoecnic_river(svg), 'boiler-room-ill': lambda: scenes2.boiler_room(svg), 'ktx-platform-ill': lambda: scenes2.ktx_platform(svg), 'stick-gifts-ill': lambda: scenes2.stick_gifts(svg), 'pharmacy-counter-ill': lambda: scenes2.pharmacy_counter(svg)}
 
 async def main(names):
     async with async_playwright() as p:
