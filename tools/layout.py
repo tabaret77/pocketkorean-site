@@ -66,6 +66,24 @@ LOGO = ('<svg class="logo" viewBox="0 0 100 100" aria-hidden="true"><rect width=
         '<path d="M18 40H82V64Q82 86 50 88Q18 86 18 64Z" fill="#fff"/>'
         '<path d="M24 46H76V63Q76 80 50 82Q24 80 24 63Z" fill="none" stroke="#2D4BFF" stroke-width="2" stroke-dasharray="3 3"/></svg>')
 
+# Pocket German (sister app): logo, names and menu. Korean / English / Japanese only;
+# on the Pocket Korean site the Japanese pages link to the Japanese version and every other language to English.
+PG_LOGO = ('<svg class="logo pglogo" viewBox="0 0 100 100" aria-hidden="true"><rect width="100" height="100" rx="24" fill="#151515"/>'
+           '<g transform="rotate(-8 50 38)"><rect x="32" y="12" width="36" height="46" rx="6" fill="#DD0000"/>'
+           '<text x="50" y="47" text-anchor="middle" font-family="Georgia,serif" font-weight="700" font-size="30" fill="#FFCE00">Ä</text></g>'
+           '<path d="M16 48H84V68Q84 88 50 90Q16 88 16 68Z" fill="#fff"/>'
+           '<path d="M22 54H78V67Q78 83 50 85Q22 83 22 67Z" fill="none" stroke="#151515" stroke-width="2" stroke-dasharray="3 3"/></svg>')
+PG_NAME = {'ko': '포켓독일어', 'en': 'Pocket German', 'ja': 'ポケットドイツ語'}
+PG_BASE = {'ko': '/german/', 'en': '/german/en/', 'ja': '/german/ja/'}
+# (path inside the language folder, label)
+PG_MENU = {
+    'ko': [('dictionary/', '단어 사전'), ('/german/web/', '앱 체험하기'), ('today/#words', '오늘의 단어'), ('today/#sentence', '오늘의 한 문장'), ('life/', '독일 이야기')],
+    'en': [('dictionary/', 'Dictionary'), ('/german/web/index_en.html', 'Try the app'), ('today/#words', "Today's words"), ('today/#sentence', 'Sentence of the day'), ('life/', 'Life in Germany')],
+    'ja': [('dictionary/', '単語辞典'), ('/german/web/index_ja.html', 'アプリを試す'), ('today/#words', '今日の単語'), ('today/#sentence', '今日のひとこと'), ('life/', 'ドイツ暮らし')],
+}
+def pg_lang(d): return d if d in PG_NAME else ('ja' if d == 'ja' else 'en')
+def pg_links(g): return ''.join(f'<a href="{p if p.startswith("/") else PG_BASE[g] + p}">{E(t)}</a>' for p, t in PG_MENU[g])
+
 ICON = {
     'search': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>',
     'menu': '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>',
@@ -95,6 +113,8 @@ def nav_cols(d):
     cols.append(('Pocket Korean', '#9B6CFF',
                  f'<a href="{L(d, "level-test/")}">{T("lt_nav", d)}</a><a href="{L(d, "app/")}">{T("app_nav", d)}</a>'
                  f'<a href="{L(d, "about/")}">{T("about_nav", d)}</a><a href="/privacy/">{T("privacy", d)}</a>'))
+    g = pg_lang(d)
+    cols.append((PG_NAME[g], '#DD0000', f'<a href="{PG_BASE[g]}">{E(PG_NAME[g])}</a>' + pg_links(g)))
     return cols
 
 TABS = {'home': {'en': 'Home', 'es': 'Inicio', 'vi': 'Trang chủ', 'th': 'หน้าแรก', 'id': 'Beranda', 'yue': '主頁', 'tw': '首頁', 'ja': 'ホーム', 'zh': '首页', 'pt': 'Início', 'ru': 'Главная', 'mn': 'Нүүр'},
@@ -143,6 +163,9 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
         ls = re.sub(r'<a class="star"[^>]*>.*?</a>', '', ls)  # already a main menu item
         return f'<div class="ni has" style="--c:{c}">{a}<div class="sub"><div class="sl">{ls}</div></div></div>'
     navlinks = ''.join(_ni(i, p, k) for i, (p, k) in enumerate(top))
+    g = pg_lang(d)
+    navlinks += (f'<div class="ni has pgni" style="--c:#DD0000"><a href="{PG_BASE[g]}" lang="{g}" title="{E(PG_NAME[g])}"{" aria-current=\"page\"" if cur == "german" else ""}>'
+                 f'{PG_LOGO}<span>{E(PG_NAME[g])}</span></a><div class="sub"><div class="sl" lang="{g}"><a href="{PG_BASE[g]}">{E(PG_NAME[g])}</a>{pg_links(g)}</div></div></div>')
     mega = ''.join(f'<div class="col" style="--c:{c}"><p>{E(h)}</p>{ls}</div>' for h, c, ls in nav_cols(d))
     foot = ''.join(f'<div><p>{E(h)}</p>{ls}</div>' for h, c, ls in nav_cols(d))
     main = body if wide else f'<div class="wrap legacy">{body}</div>'

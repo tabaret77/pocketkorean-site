@@ -412,4 +412,12 @@
     f.addEventListener('submit', function (e) { e.preventDefault(); var m = f.getAttribute('data-msg'); if (p[1]) $(p[1]).textContent = m; else { f.innerHTML = '<p style="margin:0;font-weight:700">' + esc(m) + '</p>'; } });
   });
   document.querySelectorAll('.tabs [role=tab]').forEach(function (tb, i, all) { tb.addEventListener('click', function () { all.forEach(function (x) { x.setAttribute('aria-selected', x === tb ? 'true' : 'false'); }); }); });
+  /* keep the main menu on one line: Pocket German first drops its label (logo only), then every item tightens */
+  (function () {
+    var n = $('nav.main'); if (!n) return;
+    var rows = function () { var t = {}; for (var i = 0; i < n.children.length; i++) t[n.children[i].offsetTop] = 1; return Object.keys(t).length; };
+    var fit = function () { if (!n.offsetParent) return; n.classList.remove('pgc', 'tight'); if (rows() > 1) n.classList.add('pgc'); if (rows() > 1) n.classList.add('tight'); };
+    fit(); if (document.fonts && document.fonts.ready) document.fonts.ready.then(fit);
+    var tm; window.addEventListener('resize', function () { clearTimeout(tm); tm = setTimeout(fit, 120); });
+  })();
 })();
