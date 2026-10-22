@@ -45,7 +45,7 @@ Run from the repository root, e.g. `python3 -c "import sys; sys.path.insert(0,'t
 
 **Structure** (each language written for its reader, not translated word for word):
 - Title — ko: `오늘의 독일 뉴스 (M/D 요일)｜<hook> + <item> + <item> + <item>` (full-width `｜`, ` + ` between items, hook first, most practical/surprising). en: `Germany today (Thu 22 Oct): <hook>, <item>, <item>`. ja: `今日のドイツニュース（10/22 木）｜<hook>＋<item>＋<item>`.
-- Cover image, then 2–3 friendly lines of intro.
+- 2–3 friendly lines of intro (the cover from the front matter is shown above the post automatically — don't put it in the body again).
 - One `## n. headline` section per item: its summary card image, 2–4 short paragraphs (what happened, who is affected, **what it means for you**), and a small **table** when facts are listable (date / who / what changes / where). End each item with a source line: `<p class="src">Source: <a href="…">tagesschau.de</a></p>` (ko: 출처, ja: 出典).
 - `## 날씨 / Weather / 天気` with the weather image and table.
 - `## 오늘의 독일어 / German from today's news / 今日のニュースのドイツ語`: a table of 4–6 German words from the news (word with article · meaning · example from the news topic).
@@ -65,3 +65,8 @@ Write the news in your own words (no copied sentences; at most one short quote p
 3. `python3 tools/german.py` (builds /german/, including the Life in Germany grid and the post pages).
 4. Check: the 6 pages exist under `german/life/…` and `german/{en,ja}/life/…`, images load (paths start with `/german/media/life/`), front matter has all fields, no Markdown left unrendered. Open one page per language in Chromium (Playwright) and look at a screenshot.
 5. `git add -A && git commit -m "Pocket German: daily news + <topic> (YYYY-MM-DD)" && git push origin main`
+
+## Notes from the first edition
+- Some news sites refuse connections from the workspace (tagesschau.de, spiegel.de, rbb24.de, dw.com, n-tv.de, deutschlandfunk.de). zdfheute.de, t-online.de, lto.de, wetter.com and wetter.net work. Try others (rbb24 via search results, berlin.de, bz-berlin.de, tagesspiegel.de) when they load.
+- `docs/german-daily-example-images.py` is the script that made the 22 Oct images — copy and adapt it.
+- Present older decisions (e.g. a price change announced weeks ago) as background, not as today's news.
