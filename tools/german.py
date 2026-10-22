@@ -44,7 +44,7 @@ S = {
    ph='독일어·한국어로 찾기 (예: Haus, 집)', go='찾기', try_='웹에서 체험하기', soon='App Store 곧 출시',
    free='웹 체험판에서는 A1 단어와 주제별 단어를 무료로 볼 수 있어요.',
    tw='오늘의 단어', ts='오늘의 한 문장', tw_more='오늘의 단어 자세히 보기', pat='문장 패턴', listen='듣기',
-   life='독일 이야기', life_p='독일에서 살며 만나는 문화와 생활, 그리고 그 속의 독일어.', life_empty='첫 이야기를 준비하고 있어요. 곧 이곳에서 만나요.', more='더 보기',
+   life='독일 이야기', life_p='매일 아침 새 글이 올라와요. 오늘의 독일 뉴스 브리핑과 독일 생활·문화 이야기를 하루도 빠짐없이 전해요.', daily='매일 업데이트', life_empty='첫 이야기를 준비하고 있어요. 곧 이곳에서 만나요.', more='더 보기',
    feat='앱에서는 이렇게 공부해요',
    feats=[('study', '그림이 있는 단어 카드', '관사 색, 복수형, 예문, 어원, 관련 어휘까지 카드 한 장에.'),
           ('mission', '하루 10분 미션', '새 단어와 복습할 단어를 섞은 오늘의 미션. 80점을 넘으면 성공이에요.'),
@@ -65,7 +65,7 @@ S = {
    ph='Search in German or English (e.g. Haus, house)', go='Search', try_='Try it on the web', soon='Coming soon to the App Store',
    free='The web version opens all A1 words and the topic word lists for free.',
    tw="Today's words", ts='Sentence of the day', tw_more='Read today’s word story', pat='Pattern', listen='Listen',
-   life='Life in Germany', life_p='Culture and everyday life in Germany, and the German you meet along the way.', life_empty='The first stories are on their way.', more='More',
+   life='Life in Germany', life_p='New every morning: a briefing of today’s German news and a story about life and culture in Germany, every single day.', daily='Updated daily', life_empty='The first stories are on their way.', more='More',
    feat='How the app helps you learn',
    feats=[('study', 'Picture word cards', 'Article colours, plurals, examples, origins and related words on one card.'),
           ('mission', 'A 10-minute daily mission', 'New words mixed with the ones due for review. Score 80 to pass.'),
@@ -86,7 +86,7 @@ S = {
    ph='ドイツ語か日本語で検索（例: Haus, 家）', go='検索', try_='ウェブで試す', soon='App Store 近日公開',
    free='ウェブ版ではA1の単語とテーマ別単語を無料で使えます。',
    tw='今日の単語', ts='今日のひとこと', tw_more='今日の単語を詳しく見る', pat='文型', listen='聞く',
-   life='ドイツ暮らし', life_p='ドイツで暮らして出会う文化と生活、そしてその中のドイツ語。', life_empty='最初の記事を準備しています。もうすぐ公開します。', more='もっと見る',
+   life='ドイツ暮らし', life_p='毎朝更新！今日のドイツニュースのまとめと、ドイツの暮らし・文化の話を毎日お届けします。', daily='毎日更新', life_empty='最初の記事を準備しています。もうすぐ公開します。', more='もっと見る',
    feat='アプリではこう学びます',
    feats=[('study', 'イラスト付き単語カード', '冠詞の色、複数形、例文、語源、関連語まで1枚に。'),
           ('mission', '1日10分のミッション', '新しい単語と復習する単語を混ぜた今日のミッション。80点で合格です。'),
@@ -306,7 +306,7 @@ def home(g, d, arts, posts=None):
 <a class="tmore" href="{url(g, "today/")}">{E(s["tw_more"])}</a></article>
 <article class="tcard sent"><header><h2>{E(s["ts"])}</h2></header><div class="tsb">{today_sentence(g, d)}</div></article>
 </section>
-<section class="pgw life"><header class="sh"><h2>{E(s["life"])}</h2><p>{E(s["life_p"])}</p>{f'<a href="{url(g, "life/")}">{E(s["more"])}</a>' if len(arts) > 6 else ""}</header>{art_grid(g, arts, 6)}</section>
+<section class="pgw life"><header class="sh"><h2>{E(s["life"])}<span class="pchip">📅 {E(s["daily"])}</span></h2><p>{E(s["life_p"])}</p>{f'<a href="{url(g, "life/")}">{E(s["more"])}</a>' if len(arts) > 6 else ""}</header>{art_grid(g, arts, 6)}</section>
 <section class="feat"><div class="pgw"><h2>{E(s["feat"])}</h2><ul class="fl">{feats}</ul>
 <div class="fcta"><a class="btn red" href="{WEBAPP[g]}">{E(s["try_"])}</a><span class="soon">{E(s["soon"])}</span></div></div></section>'''
     ld = ('<script type="application/ld+json">' + json.dumps({'@context': 'https://schema.org', '@type': 'MobileApplication', 'name': PG_NAME[g],
@@ -314,9 +314,9 @@ def home(g, d, arts, posts=None):
           'offers': {'@type': 'Offer', 'price': '0', 'priceCurrency': 'USD'}}, ensure_ascii=False) + '</script>')
     write(f'{g + "/" if g != "ko" else ""}index.html', page(g, '', s['htitle'], s['hdesc'], body + ld))
 
-def phead(g, h1, p):  # same layout as Pocket Korean's section heads: badge + kicker + title, warm tint
+def phead(g, h1, p, chip=''):  # same layout as Pocket Korean's section heads: badge + kicker + title, warm tint
     return (f'<section class="phead"><div class="pgw"><div class="pht"><span class="pgbadge">{PG_LOGO}</span><div><p class="phk">{PG_MARK[g]}</p>'
-            f'<h1>{E(h1)}</h1></div></div><p class="phl">{E(p)}</p></div></section>')
+            f'<h1>{E(h1)}{f"<span class=pchip>{E(chip)}</span>" if chip else ""}</h1></div></div><p class="phl">{E(p)}</p></div></section>')
 
 def dictionary(g):
     s = S[g]
@@ -346,7 +346,7 @@ def today_page(g, d, posts=None):
 
 def life(g, arts):
     s = S[g]
-    body = phead(g, s['life'], s['life_p']) + f'<section class="pgw life">{art_grid(g, arts)}</section>'
+    body = phead(g, s['life'], s['life_p'], '📅 ' + s['daily']) + f'<section class="pgw life">{art_grid(g, arts)}</section>'
     write(f'{g + "/" if g != "ko" else ""}life/index.html', page(g, 'life/', f'{s["life"]} | {PG_NAME[g]}', s['life_p'], body, cur='life/'))
     for a in arts:
         cover = f'<figure class="acov"><img src="{E(a["cover"])}" alt=""></figure>' if a.get('cover') else ''
