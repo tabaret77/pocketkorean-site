@@ -283,3 +283,15 @@ body.pg[data-g="ja"] .ppost h1{word-break:auto-phrase}
 .todayp.narrow{max-width:800px}
 
 .pgred{font-style:normal;color:#D9483B}
+
+/* Life in Germany: category chip, tables and figures in posts */
+.acat{align-self:flex-start;font-size:12px;font-weight:700;padding:1px 9px;border-radius:999px;background:var(--soft);color:var(--ink)}
+.acat.c-news{background:#0F1E3D;color:#fff}.acat.c-life{background:color-mix(in srgb,var(--gold) 40%,#fff)}
+.prose table{width:100%;border-collapse:collapse;margin:16px 0;font-size:15.5px;background:var(--card);border-radius:12px;overflow:hidden;box-shadow:var(--lift)}
+.prose th,.prose td{padding:9px 12px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+.prose th{background:#0F1E3D;color:#fff;font-weight:700}
+.prose tr:last-child td{border-bottom:0}
+.prose figure{margin:18px 0}.prose figcaption{font-size:13.5px;color:var(--muted);margin-top:6px}
+.prose h2{padding-top:6px;border-top:2px solid var(--line)}
+.prose .src{font-size:14px;color:var(--muted)}.prose .src a{color:var(--der)}
+@media (max-width:640px){.prose table{display:block;overflow-x:auto}}

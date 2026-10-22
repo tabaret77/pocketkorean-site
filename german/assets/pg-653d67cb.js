@@ -12,22 +12,26 @@
   var SPK = '<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4z" fill="currentColor"/><path d="M15.5 8.5a5 5 0 0 1 0 7M18.5 5.5a9 9 0 0 1 0 13"/></svg>';
 
   /* ---------- audio: the web app's sprites (A1, topic words, sentences of the day) ---------- */
-  var AUD = null, ctx = null, bufs = {}, playing = null;
+  var AUD = null, ctx = null, playing = null;
   function audIdx() { return AUD ? Promise.resolve(AUD) : getJSON("/german/web/audio/idx2.json").then(function (j) { AUD = j; return j; }); }
+  /* idx2 stores BYTE ranges in the MP3 files (like the app): fetch the file once, cut the range, decode just that slice */
+  var files = {};
   function play(key, part, btn) {
     audIdx().then(function (a) {
       var e = a.m[key]; if (!e) return;
+      var s = part === 1 && e.length > 3 ? e[3] : e[1], n = part === 1 && e.length > 3 ? e[4] : e[2];
+      if (s == null || s < 0 || !n) return;
       ctx = ctx || new (window.AudioContext || window.webkitAudioContext)();
       if (ctx.state === "suspended") ctx.resume();
-      var f = a.p[e[0]], s = part === 1 && e.length > 3 ? e[3] : e[1], d = part === 1 && e.length > 3 ? e[4] : e[2];
-      (bufs[f] || (bufs[f] = fetch("/german/web/audio/" + f).then(function (r) { return r.arrayBuffer(); }).then(function (b) {
-        return new Promise(function (ok, no) { ctx.decodeAudioData(b, ok, no); });
-      }))).then(function (buf) {
+      var f = a.p[e[0]];
+      (files[f] || (files[f] = fetch("/german/web/audio/" + f).then(function (r) { return r.arrayBuffer(); }))).then(function (ab) {
+        var cut = ab.slice(s, s + n);
+        return new Promise(function (ok, no) { ctx.decodeAudioData(cut, ok, no); });
+      }).then(function (buf) {
         if (playing) try { playing.stop(); } catch (x) {}
-        var src = ctx.createBufferSource(); src.buffer = buf; src.connect(ctx.destination);
-        src.start(0, s / 1000, d / 1000); playing = src;
+        var src = ctx.createBufferSource(); src.buffer = buf; src.connect(ctx.destination); src.start(0); playing = src;
         if (btn) { btn.classList.add("on"); src.onended = function () { btn.classList.remove("on"); }; }
-      });
+      }).catch(function () {});
     });
   }
   document.addEventListener("click", function (ev) {
