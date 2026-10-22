@@ -278,10 +278,26 @@ def load_articles(g):
     return sorted(out, key=lambda a: a['dt'], reverse=True)
 
 CATN = {'news': {'ko': '뉴스 브리핑', 'en': 'News briefing', 'ja': 'ニュース'}, 'life': {'ko': '생활·문화', 'en': 'Life & culture', 'ja': '暮らし・文化'}}
+NEWS_H = {'ko': '오늘의 독일 뉴스', 'en': 'Germany today', 'ja': '今日のドイツニュース'}
+def news_heads(g, title):
+    """split a briefing title into its headlines: ko/ja 'X (date)｜A + B + C', en 'Germany today (…): A, B, C'"""
+    if g == 'en':
+        body = title.split(':', 1)[1] if ':' in title else title
+        return [x.strip()[0].upper() + x.strip()[1:] for x in body.split(',') if x.strip()]
+    body = re.split(r'[｜|]', title, maxsplit=1)[-1]
+    return [x.strip() for x in re.split(r'\s*[+＋]\s*', body) if x.strip()]
+
 def art_card(g, a):
-    img = f'<img src="{E(a["cover"])}" alt="" loading="lazy">' if a.get('cover') else f'<span class="ph" aria-hidden="true">{PG_LOGO}</span>'
-    return (f'<a class="acard" href="{url(g, "life/" + a["slug"] + "/")}"><span class="cov">{img}</span>'
-            f'<span class="ab"><span class="acat c-{E(a.get("category", "life"))}">{E(CATN.get(a.get("category", "life"), CATN["life"])[g])}</span><time datetime="{a["dt"]}">{fdate(g, a["dt"])}</time><b>{E(a.get("title", ""))}</b><span>{E(a.get("summary", ""))}</span></span></a>')
+    """text-only card: category chip, date, title (news: 'Germany today' + its headlines as a list)"""
+    cat = a.get('category', 'life')
+    chip = f'<span class="acat c-{E(cat)}">{E(CATN.get(cat, CATN["life"])[g])}</span>'
+    when = f'<time datetime="{a["dt"]}">{fdate(g, a["dt"])}</time>'
+    if cat == 'news':
+        heads = ''.join(f'<li>{E(h)}</li>' for h in news_heads(g, a.get('title', '')))
+        inner = f'<b>{E(NEWS_H[g])}</b><ul class="aheads">{heads}</ul>'
+    else:
+        inner = f'<b>{E(a.get("title", ""))}</b>'
+    return f'<a class="acard txt c-{E(cat)}" href="{url(g, "life/" + a["slug"] + "/")}"><span class="ab">{chip}{when}{inner}</span></a>'
 
 def art_grid(g, arts, n=None):
     s = S[g]

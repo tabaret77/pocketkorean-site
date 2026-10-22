@@ -354,3 +354,12 @@ body:has(.feat) .pgfoot{margin-top:72px}
 .acard .cov img{object-fit:contain;object-position:center}
 .acat.c-news{background:#DCEBFB;color:#1F4E86}.acat.c-life{background:#FFE9A8;color:#7A5600}
 .phead+.life{padding-top:34px}
+
+/* Life in Germany grid: text-only cards on a soft tint */
+.acard.txt{min-height:220px}
+.acard.txt .ab{padding:22px 24px 24px;gap:8px}
+.acard.txt.c-news{background:linear-gradient(180deg,#EEF5FD,#fff 70%)}
+.acard.txt.c-life{background:linear-gradient(180deg,#FFF6D9,#fff 70%)}
+.acard.txt b{font-size:21px;line-height:1.35}
+.aheads{margin:4px 0 0;padding-left:1.1em;display:grid;gap:5px;color:var(--ink);font-size:15.5px;line-height:1.45}
+.aheads li::marker{color:#3D7DD8}
