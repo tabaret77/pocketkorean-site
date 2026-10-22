@@ -433,8 +433,8 @@ def post_body(g, key, P, d=None, tomorrow=None, posts=None):
         ex = f'<p class="pex" lang="de">📌 {E(w["ex"])}{say2}</p><p class="pexk">→ {E(w.get("exk", ""))}</p>' if w.get('ex') else ''
         tipp = f'<p class="ptip">💡 {E(tip)}</p>' if tip else ''
         fig = f'<figure class="ppic">{pic}</figure>' if pic else ''
-        secs += (f'<section class="pword" id="w{k + 1}"><header><span class="pn">{k + 1:02d}</span><div class="ph"><h3 lang="de">{word_html(w["de"])}</h3>'
-                 f'{pron}<span class="pm">{E(w["ko"])}</span></div>{say}</header>'
+        secs += (f'<section class="pword" id="w{k + 1}"><header><span class="pn">{k + 1:02d}</span><div class="ph"><h3 lang="de">{word_html(w["de"])}</h3>{say}'
+                 f'{pron}<span class="pm">{E(w["ko"])}</span></div></header>'
                  f'<div class="pb"><div class="pt">{forms}{ex}{tipp}{extra}</div>{fig}</div></section>')
     q = c.get('quiz')
     quiz = ''

@@ -295,3 +295,5 @@ body.pg[data-g="ja"] .ppost h1{word-break:auto-phrase}
 .prose h2{padding-top:6px;border-top:2px solid var(--line)}
 .prose .src{font-size:14px;color:var(--muted)}.prose .src a{color:var(--der)}
 @media (max-width:640px){.prose table{display:block;overflow-x:auto}}
+
+.ph .say{align-self:center;width:34px;height:34px;margin:0}
