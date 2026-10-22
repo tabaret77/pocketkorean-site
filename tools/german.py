@@ -120,16 +120,31 @@ def shard(i):
     return f'{h & 255:02x}'
 
 # ---------- data ----------
+# From the app's files in SRC when they are here (full build); otherwise from what an earlier build left in german/
+# (scheduled article runs only have the repository).
+FROM_BUILT = not os.path.isdir(f'{SRC}/data')
 W = {g: {} for g in GL}
-for g in GL:
-    for lv in LVS:
-        for w in json.load(open(f'{SRC}/{DP[g]}/{lv}.json')):
-            W[g][w['id']] = w
-TOP = json.load(open(f'{SRC}/data/topics.json'))
-DAILY = {g: json.load(open(f'{SRC}/{DP[g]}/daily.json')) for g in GL}
 PICS, PMAP = {}, {}
-for f in ['ill', 'ill_B1', 'ill_B2', 'ill_C1', 'ill_C2']:
-    j = json.load(open(f'{SRC}/data/{f}.json')); PICS.update(j['pics']); PMAP.update(j['map'])
+WEBDP = {'ko': 'data', 'en': 'data_en', 'ja': 'data_ja'}
+if not FROM_BUILT:
+    for g in GL:
+        for lv in LVS:
+            for w in json.load(open(f'{SRC}/{DP[g]}/{lv}.json')):
+                W[g][w['id']] = w
+    TOP = json.load(open(f'{SRC}/data/topics.json'))
+    DAILY = {g: json.load(open(f'{SRC}/{DP[g]}/daily.json')) for g in GL}
+    for f in ['ill', 'ill_B1', 'ill_B2', 'ill_C1', 'ill_C2']:
+        j = json.load(open(f'{SRC}/data/{f}.json')); PICS.update(j['pics']); PMAP.update(j['map'])
+else:
+    for g in GL:
+        for f in os.listdir(f'{G}/data/{g}/w'):
+            for i, w in json.load(open(f'{G}/data/{g}/w/{f}')).items():
+                W[g][i] = dict(w, id=i)
+    TOP = json.load(open(f'{G}/web/data/topics.json'))
+    DAILY = {g: json.load(open(f'{G}/web/{WEBDP[g]}/daily.json')) for g in GL}
+    for f in os.listdir(f'{G}/data/pic'):
+        for i, svg in json.load(open(f'{G}/data/pic/{f}')).items():
+            k = hashlib.md5(svg.encode()).hexdigest()[:12]; PICS[k] = svg; PMAP[i] = k
 try:
     AUD = json.load(open(f'{G}/web/audio/idx2.json'))['m']
 except OSError:
@@ -259,10 +274,11 @@ def load_articles(g):
         out.append(meta)
     return sorted(out, key=lambda a: a['dt'], reverse=True)
 
+CATN = {'news': {'ko': '뉴스 브리핑', 'en': 'News briefing', 'ja': 'ニュース'}, 'life': {'ko': '생활·문화', 'en': 'Life & culture', 'ja': '暮らし・文化'}}
 def art_card(g, a):
     img = f'<img src="{E(a["cover"])}" alt="" loading="lazy">' if a.get('cover') else f'<span class="ph" aria-hidden="true">{PG_LOGO}</span>'
     return (f'<a class="acard" href="{url(g, "life/" + a["slug"] + "/")}"><span class="cov">{img}</span>'
-            f'<span class="ab"><time datetime="{a["dt"]}">{fdate(g, a["dt"])}</time><b>{E(a.get("title", ""))}</b><span>{E(a.get("summary", ""))}</span></span></a>')
+            f'<span class="ab"><span class="acat c-{E(a.get("category", "life"))}">{E(CATN.get(a.get("category", "life"), CATN["life"])[g])}</span><time datetime="{a["dt"]}">{fdate(g, a["dt"])}</time><b>{E(a.get("title", ""))}</b><span>{E(a.get("summary", ""))}</span></span></a>')
 
 def art_grid(g, arts, n=None):
     s = S[g]
@@ -330,7 +346,7 @@ def life(g, arts):
     write(f'{g + "/" if g != "ko" else ""}life/index.html', page(g, 'life/', f'{s["life"]} | {PG_NAME[g]}', s['life_p'], body, cur='life/'))
     for a in arts:
         cover = f'<figure class="acov"><img src="{E(a["cover"])}" alt=""></figure>' if a.get('cover') else ''
-        body = (f'<article class="pgw post"><p class="crumb"><a href="{url(g, "life/")}">{E(s["life"])}</a></p><h1>{E(a.get("title", ""))}</h1>'
+        body = (f'<article class="pgw post"><p class="crumb"><a href="{url(g, "life/")}">{E(s["life"])}</a> · {E(CATN.get(a.get("category", "life"), CATN["life"])[g])}</p><h1>{E(a.get("title", ""))}</h1>'
                 f'<time datetime="{a["dt"]}">{fdate(g, a["dt"])}</time>{cover}<div class="prose">{a["html"]}</div></article>'
                 f'<section class="pgw life"><header class="sh"><h2>{E(s["life"])}</h2></header>{art_grid(g, [x for x in arts if x is not a], 3)}</section>')
         write(f'{g + "/" if g != "ko" else ""}life/{a["slug"]}/index.html',
@@ -491,7 +507,8 @@ def sitemap():
 def main():
     import zoneinfo
     d = datetime.datetime.now(zoneinfo.ZoneInfo('Europe/Berlin')).date()
-    assets(); data_files()
+    assets()
+    if not FROM_BUILT: data_files()
     posts = load_posts()
     for g in GL:
         arts = load_articles(g)
