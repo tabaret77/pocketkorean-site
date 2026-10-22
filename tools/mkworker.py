@@ -12,7 +12,6 @@ export default {
   async fetch(request, env, wctx) {
     const url = new URL(request.url);
     const m = url.pathname.match(ROUTE);
-    if (url.pathname === '/api/ping') return new Response('pong worker', { headers: { 'content-type': 'text/plain', 'cache-control': 'no-store' } });
     if (!m) return env.ASSETS.fetch(request);
     const rest = m[3].split('/').filter(Boolean);
     const ctx = { request, env, params: { lang: m[1], path: rest }, next: () => env.ASSETS.fetch(request), waitUntil: (p) => wctx.waitUntil(p) };

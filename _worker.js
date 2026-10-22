@@ -61,17 +61,6 @@ async function wordPage(ctx) {
   if (!LANGS.has(u) || !seg.length || !seg[0]) return ctx.next();
   const url = new URL(ctx.request.url);
   if (!url.pathname.endsWith('/')) return Response.redirect(url.origin + url.pathname + '/' + url.search, 301);
-  if (url.searchParams.has('_dbg')) {  // temporary diagnostics
-    const out = [];
-    let slug = seg[0]; try { slug = decodeURIComponent(slug); } catch (e) {}
-    out.push('seg=' + JSON.stringify(seg) + ' slug=' + slug + ' fnv=' + fnv(slug).toString(16));
-    for (const p of [`/data/${u}/w/${fnv(slug).toString(16).padStart(2, '0')}.json`, `/tpl/${u}/word.html`, `/tpl/${u}/word`]) {
-      try { const r = await ctx.env.ASSETS.fetch(new Request(new URL(p, ctx.request.url).toString(), { redirect: 'manual' })); out.push(p + ' ' + r.status + ' ' + (r.headers.get('location') || '') + ' ' + (r.headers.get('content-type') || '')); }
-      catch (e) { out.push(p + ' ERR ' + e); }
-    }
-    try { const r = await wordInner(ctx, u, seg, url); out.push('render ' + r.status + ' ' + (r.headers.get('location') || '')); } catch (e) { out.push('render ERR ' + (e && e.stack || e)); }
-    return new Response(out.join('\n'), { headers: { 'content-type': 'text/plain; charset=utf-8', 'cache-control': 'no-store' } });
-  }
   return cached(ctx, () => wordInner(ctx, u, seg, url));
 }
 
@@ -122,7 +111,6 @@ export default {
   async fetch(request, env, wctx) {
     const url = new URL(request.url);
     const m = url.pathname.match(ROUTE);
-    if (url.pathname === '/api/ping') return new Response('pong worker', { headers: { 'content-type': 'text/plain', 'cache-control': 'no-store' } });
     if (!m) return env.ASSETS.fetch(request);
     const rest = m[3].split('/').filter(Boolean);
     const ctx = { request, env, params: { lang: m[1], path: rest }, next: () => env.ASSETS.fetch(request), waitUntil: (p) => wctx.waitUntil(p) };
