@@ -8,7 +8,8 @@ date: 2026-10-21
 description: "タクシーの中、カフェのカウンター、コンビニで今日から使える短くて丁寧な韓国語と、スタッフから返ってきそうな言葉を紹介します。"
 phrase: 카드 돼요?
 phrase_meaning: カードで払えますか？
-cover: /media/covers/survival-korean-taxi-cafe-convenience-store-s1.jpg
+cover: /media/covers/survival-korean-taxi-cafe-convenience-store-p1.jpg
+thumb: /media/covers/survival-korean-taxi-cafe-convenience-store-p1-t.jpg
 draft: false
 ---
 

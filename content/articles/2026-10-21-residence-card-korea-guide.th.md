@@ -8,7 +8,8 @@ date: 2026-10-21
 description: "จะอยู่เกาหลีนานกว่า 90 วันใช่ไหม? นี่คือวิธีจองคิว ยื่นคำร้อง และรับบัตรประจำตัวคนต่างชาติ พร้อมภาษาเกาหลีที่ต้องใช้ที่สำนักงานตรวจคนเข้าเมือง"
 phrase: 외국인등록증
 phrase_meaning: บัตรประจำตัวคนต่างชาติ (บัตรลงทะเบียนคนต่างด้าว)
-cover: /media/covers/residence-card-korea-guide-s1.jpg
+cover: /media/covers/residence-card-korea-guide-p1.jpg
+thumb: /media/covers/residence-card-korea-guide-p1-t.jpg
 draft: false
 ---
 

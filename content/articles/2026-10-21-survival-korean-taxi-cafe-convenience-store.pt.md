@@ -8,7 +8,8 @@ date: 2026-10-21
 description: "Coreano curto e educado que você pode usar hoje mesmo num táxi, no balcão de um café e na loja de conveniência, mais o que os atendentes provavelmente vão responder."
 phrase: 카드 돼요?
 phrase_meaning: Aceita cartão?
-cover: /media/covers/survival-korean-taxi-cafe-convenience-store-s1.jpg
+cover: /media/covers/survival-korean-taxi-cafe-convenience-store-p1.jpg
+thumb: /media/covers/survival-korean-taxi-cafe-convenience-store-p1-t.jpg
 draft: false
 ---
 

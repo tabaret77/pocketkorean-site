@@ -8,7 +8,8 @@ date: 2026-10-21
 description: "Короткие вежливые корейские фразы, которые можно использовать уже сегодня в такси, у стойки кафе и в круглосуточном магазине, а также что вам, скорее всего, ответят."
 phrase: 카드 돼요?
 phrase_meaning: Можно оплатить картой?
-cover: /media/covers/survival-korean-taxi-cafe-convenience-store-s1.jpg
+cover: /media/covers/survival-korean-taxi-cafe-convenience-store-p1.jpg
+thumb: /media/covers/survival-korean-taxi-cafe-convenience-store-p1-t.jpg
 draft: false
 ---
 

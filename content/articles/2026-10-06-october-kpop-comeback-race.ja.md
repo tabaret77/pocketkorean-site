@@ -8,7 +8,8 @@ date: 2026-10-06
 description: "2026年10月はK-POPの新作ラッシュ。最大の山場は10月26日で、IVE、ILLIT、RIIZEがそろって新曲をリリースします。今月のカレンダーをまとめました。"
 phrase: 컴백
 phrase_meaning: カムバック、新作リリース
-cover: /media/covers/october-kpop-comeback-race-s1.jpg
+cover: /media/covers/october-kpop-comeback-race-p1.jpg
+thumb: /media/covers/october-kpop-comeback-race-p1-t.jpg
 draft: false
 ---
 

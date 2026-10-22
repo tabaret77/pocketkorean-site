@@ -64,7 +64,7 @@ def gyeongseong():
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import scenes2
-SCENES = {'gyeongseong-night': gyeongseong, 'operating-room-ill': lambda: scenes2.operating(svg), 'atrium-ill': lambda: scenes2.atrium(svg), 'maple-tunnel-ill': lambda: scenes2.maple(svg)}
+SCENES = {'gyeongseong-night': gyeongseong, 'operating-room-ill': lambda: scenes2.operating(svg), 'atrium-ill': lambda: scenes2.atrium(svg), 'maple-tunnel-ill': lambda: scenes2.maple(svg), 'concert-ill': lambda: scenes2.concert(svg), 'street-night-ill': lambda: scenes2.street_night(svg), 'desk-ill': lambda: scenes2.desk(svg)}
 
 async def main(names):
     async with async_playwright() as p:

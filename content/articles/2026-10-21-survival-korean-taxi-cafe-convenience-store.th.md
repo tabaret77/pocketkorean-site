@@ -8,7 +8,8 @@ date: 2026-10-21
 description: "ภาษาเกาหลีสั้นๆ แบบสุภาพที่ใช้ได้ทันทีวันนี้ ทั้งในแท็กซี่ ที่เคาน์เตอร์คาเฟ่ และที่ร้านสะดวกซื้อ พร้อมสิ่งที่พนักงานมักจะตอบกลับมา"
 phrase: 카드 돼요?
 phrase_meaning: จ่ายด้วยบัตรได้ไหม?
-cover: /media/covers/survival-korean-taxi-cafe-convenience-store-s1.jpg
+cover: /media/covers/survival-korean-taxi-cafe-convenience-store-p1.jpg
+thumb: /media/covers/survival-korean-taxi-cafe-convenience-store-p1-t.jpg
 draft: false
 ---
 

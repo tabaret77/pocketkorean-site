@@ -1,6 +1,6 @@
 """Original cover illustrations for articles (1600x1000 JPG) in the site's manuscript-paper style.
 No text other than Korean (covers are shared by all 12 languages). Rendered with Playwright.
-usage: npm i --prefix /tmp/pkfonts @fontsource/nanum-myeongjo@5 && python3 tools/covers.py [slug ...]  -> media/covers/<slug>.jpg"""
+usage: npm i --prefix /tmp/pkfonts @fontsource/nanum-myeongjo@5 && python3 tools/covers.py [cover-key ...]  -> media/covers/<cover-key>.jpg"""
 import asyncio, os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import cute, weather_scene, scenes3
@@ -185,6 +185,9 @@ PHOTO = {
  '100-days-of-deception-ratings-v2': (MEDIA + 'photos/gyeongseong-night.png', '첫 방송', '100일의 거짓말', C['coral'], 'center'),
  'doctor-x-kim-ji-won-ratings-v2': (MEDIA + 'photos/operating-room-ill.png', '시청률', '닥터X 18.5%', C['coral'], 'center'),
  'hyunbaek-core-trend-v2': (MEDIA + 'photos/atrium-ill.png', '현백 코어', '백화점 스타일', C['coral'], 'center'),
+ 'october-kpop-comeback-race-p1': (MEDIA + 'photos/concert-ill.png', '컴백', '10월의 K-pop', C['yellow'], 'center'),
+ 'survival-korean-taxi-cafe-convenience-store-p1': (MEDIA + 'photos/street-night-ill.png', '카드 돼요?', '택시와 편의점에서', C['sky'], 'center'),
+ 'residence-card-korea-guide-p1': (MEDIA + 'photos/desk-ill.png', '외국인등록증', '신청부터 받기까지', C['sky'], 'center'),
  'korea-autumn-winter-festival-guide-v2': (MEDIA + 'photos/maple-tunnel-ill.png', '단풍 구경', '가을과 겨울 축제', C['sky'], 'center'),
 }  # slug -> (photo path, big phrase, small line, accent colour, object-position)
 def photo_page(photo, big, small, accent, pos='center'):

@@ -8,7 +8,8 @@ date: 2026-10-21
 description: "Những câu tiếng Hàn ngắn gọn, lịch sự bạn có thể dùng ngay hôm nay trên taxi, ở quầy cà phê và cửa hàng tiện lợi, kèm những gì nhân viên có thể đáp lại."
 phrase: 카드 돼요?
 phrase_meaning: Thanh toán bằng thẻ được không?
-cover: /media/covers/survival-korean-taxi-cafe-convenience-store-s1.jpg
+cover: /media/covers/survival-korean-taxi-cafe-convenience-store-p1.jpg
+thumb: /media/covers/survival-korean-taxi-cafe-convenience-store-p1-t.jpg
 draft: false
 ---
 

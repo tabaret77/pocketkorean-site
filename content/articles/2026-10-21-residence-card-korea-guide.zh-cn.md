@@ -8,7 +8,8 @@ date: 2026-10-21
 description: "要在韩国停留超过90天？这里教你怎么预约、申请和领取外国人登录证，以及在出入境管理局需要用到的韩语。"
 phrase: 외국인등록증
 phrase_meaning: "外国人登录证（居留卡）"
-cover: /media/covers/residence-card-korea-guide-s1.jpg
+cover: /media/covers/residence-card-korea-guide-p1.jpg
+thumb: /media/covers/residence-card-korea-guide-p1-t.jpg
 draft: false
 ---
 

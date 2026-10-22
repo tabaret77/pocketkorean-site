@@ -8,7 +8,8 @@ date: 2026-10-06
 description: "Oktober 2026 penuh dengan rilisan K-pop, dan 26 Oktober adalah hari besarnya: IVE, ILLIT, dan RIIZE sama-sama merilis lagu baru. Ini kalendernya."
 phrase: 컴백
 phrase_meaning: comeback, rilisan baru
-cover: /media/covers/october-kpop-comeback-race-s1.jpg
+cover: /media/covers/october-kpop-comeback-race-p1.jpg
+thumb: /media/covers/october-kpop-comeback-race-p1-t.jpg
 draft: false
 ---
 

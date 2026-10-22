@@ -270,5 +270,4 @@ def residence():
 
 SCENES = {'learn-topik-vocabulary-level-by-level': topik_vocab, 'read-hangul-in-an-hour': hangul, 'ayo-eoyo-polite-ending': ayo,
           'gwaenchanayo-meaning': gwaenchana, 'korean-slang-online-2026': slang, 'ordering-at-a-korean-cafe': cafe,
-          'survival-korean-taxi-cafe-convenience-store': survival, 'october-kpop-comeback-race': comeback,
-          'jondaenmal-vs-banmal': jondaen, '10-lines-every-k-drama': drama_lines, 'residence-card-korea-guide': residence}
+                    'jondaenmal-vs-banmal': jondaen, '10-lines-every-k-drama': drama_lines}

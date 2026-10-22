@@ -8,7 +8,8 @@ date: 2026-10-21
 description: "簡短又有禮貌的韓語，今天就可以在的士上、咖啡店櫃枱和便利店用，還有店員可能會怎樣回應你。"
 phrase: 카드 돼요?
 phrase_meaning: 可以碌卡嗎？
-cover: /media/covers/survival-korean-taxi-cafe-convenience-store-s1.jpg
+cover: /media/covers/survival-korean-taxi-cafe-convenience-store-p1.jpg
+thumb: /media/covers/survival-korean-taxi-cafe-convenience-store-p1-t.jpg
 draft: false
 ---
 
