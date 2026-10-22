@@ -160,7 +160,7 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
 <div class="acts"><a class="iconbtn" href="{L(d, 'dictionary/')}" aria-label="{T('dict_search', d)}">{ICON['search']}</a>
 <button class="iconbtn" id="menubtn" aria-expanded="false" aria-controls="mega" aria-label="{T('menu', d)}">{ICON['menu']}</button>
 <a class="btn sm" href="{L(d, 'app/')}">{T('nav_app', d)}</a></div></div>
-<nav class="mega" id="mega" aria-label="{T('menu', d)}"><div class="wrap cols">{mega}</div>
+<nav class="mega" id="mega" aria-label="{T('menu', d)}"><form class="msearch" role="search" action="{L(d, 'dictionary/')}" method="get"><label for="mq"><b>{T('dict_search', d)}</b></label><div><input id="mq" name="q" type="search" placeholder="{E(T('search_ph', d))}" autocomplete="off"><button type="submit" aria-label="{E(T('search_btn', d))}">{ICON['search']}</button></div></form><div class="wrap cols">{mega}</div>
 <div class="strip"><div class="wrap"><div class="chips"><b>{T('popular', d)}</b>
 <a class="chip" href="{L(d, 'learn/topik-guide/')}">{T('cat_topik', d)}</a><a class="chip" href="{L(d, 'grammar/')}">{T('nav_grammar', d)}</a>
 <a class="chip" href="{L(d, 'words/slang/')}">{T('cat_slang', d)}</a><a class="chip" href="{L(d, 'name/')}">{T('name_nav', d)}</a></div>

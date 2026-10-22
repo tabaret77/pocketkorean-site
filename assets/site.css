@@ -482,3 +482,15 @@ aside .cta{flex-direction:column;align-items:stretch;margin:0}
   header.top.open #menubtn{position:fixed;top:8px;right:12px;z-index:90}
 }
 @media (prefers-reduced-motion:reduce){.mega{transition:none}}
+.msearch{display:none}
+@media (max-width:760px){
+  .msearch{display:block;padding:70px 20px 4px}
+  .msearch label b{display:block;font-family:var(--display);font-size:20px;font-weight:800;margin-bottom:10px}
+  .msearch div{display:flex;align-items:center;gap:6px;background:#fff;border-radius:14px;padding:4px 4px 4px 12px;box-shadow:inset 0 0 0 2px var(--ink)}
+  .msearch div:focus-within{box-shadow:inset 0 0 0 2px var(--blue),0 0 0 4px var(--blue-l)}
+  .msearch input{flex:1;min-width:0;border:0;background:transparent;font:inherit;font-size:16px;padding:10px 0;color:var(--ink)}
+  .msearch input:focus{outline:none}
+  .msearch button{flex:none;width:44px;height:44px;border:0;border-radius:10px;background:var(--blue);color:#fff;display:grid;place-items:center;cursor:pointer}
+  .msearch button svg{width:20px;height:20px}
+  .mega .cols{padding-top:22px}
+}
