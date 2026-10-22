@@ -87,3 +87,10 @@ pip install -r tools/requirements.txt -q && python3 tools/blog.py
 ```
 
 The first must print nothing; the build must finish without errors. Then confirm there are 228 new files. Commit only the new files in `content/articles/`.
+
+## Listen buttons (automatic)
+Korean text in article bodies gets listen buttons at build time (`tools/say.py`): native app recordings when the
+word or example exists, otherwise Google Cloud TTS. After a batch is merged to main, the GitHub Action
+"Pre-generate article audio" (`.github/workflows/tts-pack.yml`) fetches the new sentences through `/api/tts`
+and commits them to `media/tts/` (one pack per run + `index.json`). Nothing to do by hand; do not edit or delete
+`media/tts/`. Sentence patterns with a blank (`~`) and grammar endings (`-아요`) get no button on purpose.
