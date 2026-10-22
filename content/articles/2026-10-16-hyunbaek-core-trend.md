@@ -8,6 +8,7 @@ description: A new style label, "Hyunbaek core," is spreading on Korean social m
 phrase: 현백 코어
 phrase_meaning: Hyundai Department Store core (effortless rich look)
 cover: /media/covers/hyunbaek-core-trend.jpg
+cover_credit: "Photo: kallerna / CC BY-SA 4.0 (Wikimedia Commons), text added"
 draft: false
 ---
 

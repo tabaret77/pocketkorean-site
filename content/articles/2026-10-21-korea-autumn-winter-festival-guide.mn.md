@@ -9,6 +9,7 @@ description: "Намрын навч, Пусаны тэнгэрт буух сал
 phrase: 단풍
 phrase_meaning: намрын навч
 cover: /media/covers/korea-autumn-winter-festival-guide.jpg
+cover_credit: "Photo: RedMosQ / Public domain (Wikimedia Commons)"
 draft: false
 ---
 

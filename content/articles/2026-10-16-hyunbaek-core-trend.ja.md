@@ -9,6 +9,7 @@ description: "「ヒョンベクコア」という新しいスタイル名が韓
 phrase: 현백 코어
 phrase_meaning: 現代百貨店コア（さりげないお金持ちスタイル）
 cover: /media/covers/hyunbaek-core-trend.jpg
+cover_credit: "Photo: kallerna / CC BY-SA 4.0 (Wikimedia Commons), text added"
 draft: false
 ---
 

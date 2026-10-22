@@ -56,7 +56,11 @@ Body, 450–800 words: a plain, friendly opening paragraph with the facts → 2�
 
 ## Covers
 
-Preferred: an original illustration in the site style. Add a `COVERS['<slug>']` entry to `tools/covers.py` (copy the patterns already there: manuscript-grid background in the section's light colour, hangul in manuscript cells, simple flat objects that show the topic, Korean text only – no English, no real people's likeness, no logos), then run `npm i --prefix /tmp/pkfonts @fontsource/nanum-myeongjo@5 && python3 tools/covers.py <slug>`, open the JPG to check it, and set `cover: /media/covers/<slug>.jpg` with no `cover_credit`. Commit the JPG and the covers.py change with the articles.
+News (korea-today) pieces: an editorial photo cover. Find a free-licence photo that shows the story's world (the drama's period or setting, a hospital for a medical drama, the place in a trend story, a concert crowd) – never a photo of the actual stars or of an unrelated identifiable celebrity. Search Wikimedia Commons (PD, CC0, CC BY, CC BY-SA only); if the shell can't reach it, add queries to `tools/candidates.json` and run the "Fetch cover photo candidates" workflow (`gh workflow run fetch-candidates.yml --ref main`), then read the `media-candidates` branch. Save the chosen photo in `media/photos/`, add a `PHOTO['<slug>'] = (MEDIA + 'photos/<file>.jpg', '<Korean key phrase>', '<short Korean line, e.g. the show title>', C['coral'], 'center')` entry in `tools/covers.py`, and set `cover_credit: "Photo: Author / Licence (Wikimedia Commons), text added"`.
+
+Learning and life pieces: an original illustration – add a `COVERS['<slug>']` entry to `tools/covers.py` following the existing ones (manuscript-grid background in the section's light colour, hangul in manuscript cells, simple flat objects that show the topic, Korean text only, no logos, no real people), no `cover_credit`.
+
+Render with `npm i --prefix /tmp/pkfonts @fontsource/nanum-myeongjo@5 && python3 tools/covers.py <slug>`, open the JPG to check it, set `cover: /media/covers/<slug>.jpg`, and commit the JPG (and photo) with the articles.
 
 ## Photos
 

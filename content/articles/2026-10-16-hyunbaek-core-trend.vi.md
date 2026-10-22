@@ -9,6 +9,7 @@ description: "Một nhãn phong cách mới, \"Hyunbaek core\", đang lan rộng
 phrase: 현백 코어
 phrase_meaning: phong cách Hyundai Department Store (vẻ giàu có tự nhiên, không phô trương)
 cover: /media/covers/hyunbaek-core-trend.jpg
+cover_credit: "Photo: kallerna / CC BY-SA 4.0 (Wikimedia Commons), text added"
 draft: false
 ---
 

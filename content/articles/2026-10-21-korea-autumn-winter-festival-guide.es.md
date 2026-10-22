@@ -9,6 +9,7 @@ description: "Hojas de otoño, fuegos artificiales sobre Busan, la temporada del
 phrase: 단풍
 phrase_meaning: hojas de otoño, follaje otoñal
 cover: /media/covers/korea-autumn-winter-festival-guide.jpg
+cover_credit: "Photo: RedMosQ / Public domain (Wikimedia Commons)"
 draft: false
 ---
 

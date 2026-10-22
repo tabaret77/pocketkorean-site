@@ -9,6 +9,7 @@ description: "红叶、釜山夜空的烟花、腌泡菜季和冬日灯光。按
 phrase: 단풍
 phrase_meaning: "红叶，秋叶"
 cover: /media/covers/korea-autumn-winter-festival-guide.jpg
+cover_credit: "Photo: RedMosQ / Public domain (Wikimedia Commons)"
 draft: false
 ---
 

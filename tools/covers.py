@@ -8,6 +8,7 @@ from PIL import Image
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONTS = os.environ.get('PK_FONTS', '/tmp/pkfonts/node_modules')   # npm i --prefix /tmp/pkfonts @fontsource/nanum-myeongjo@5
 OUT = os.path.join(ROOT, 'media', 'covers')
+MEDIA = os.path.join(ROOT, 'media') + '/'
 C = dict(ink='#141838', blue='#2446F0', yellow='#FFD84A', coral='#F2555A', sky='#1E8DE0', mint='#12A57A', violet='#7C5CFF',
          coral_l='#FFE9E8', sky_l='#E4F2FD', mint_l='#E3F7F0', violet_l='#EFEAFF', blue_l='#E8ECFF', yellow_l='#FFF6D1')
 
@@ -177,11 +178,28 @@ COVERS['survival-korean-taxi-cafe-convenience-store'] = page(C['sky_l'], f"""
 <rect x="165" y="90" width="115" height="70" fill="{C['sky_l']}" stroke="{C['ink']}" stroke-width="4"/><text x="155" y="48" text-anchor="middle" font-family="Noto Sans CJK KR" font-weight="900" font-size="24" fill="#fff">24</text></svg>
 <div class="bubble" style="left:420px;top:150px;font-size:100px">카드 돼요?</div>""")
 
+# ---- editorial photo covers: a free-licence photo, darkened, with the key Korean phrase set large ----
+PHOTO = {
+ '100-days-of-deception-ratings': (MEDIA + 'photos/keijo-1936.jpg', '첫 방송', '100일의 거짓말', C['coral'], 'center'),
+ 'doctor-x-kim-ji-won-ratings': (MEDIA + 'photos/operating-room.jpg', '시청률', '닥터X 18.5%', C['coral'], '70% center'),
+ 'hyunbaek-core-trend': (MEDIA + 'photos/the-hyundai-seoul.jpg', '현백 코어', '더현대 서울', C['coral'], 'center'),
+ 'korea-autumn-winter-festival-guide': (MEDIA + 'photos/busan-fireworks-2008.jpg', '단풍과 불꽃', '가을과 겨울 축제', C['sky'], 'center'),
+}  # slug -> (photo path, big phrase, small line, accent colour, object-position)
+def photo_page(photo, big, small, accent, pos='center'):
+    return HEAD + f"""<img src="file://{photo}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:{pos}">
+<div class="abs" style="inset:0;background:linear-gradient(90deg,rgba(14,17,40,.86) 0%,rgba(14,17,40,.55) 45%,rgba(14,17,40,0) 75%)"></div>
+<div class="abs" style="left:110px;bottom:120px;color:#fff">
+ <div style="width:96px;height:10px;background:{accent};margin-bottom:34px"></div>
+ <div class="my" style="font-size:{200 if len(big) <= 4 else 150}px;line-height:1.05;letter-spacing:-.02em;text-shadow:0 4px 30px rgba(0,0,0,.35)">{big}</div>
+ <div style="font-size:52px;font-weight:700;margin-top:26px;color:#E6E9FF">{small}</div>
+</div></body></html>"""
+
 async def main():
     os.makedirs(OUT, exist_ok=True)
     async with async_playwright() as p:
         b = await p.chromium.launch()
         pg = await b.new_page(viewport={'width': 1600, 'height': 1000})
+        for slug, (ph, big, small, acc, pos) in PHOTO.items(): COVERS[slug] = photo_page(ph, big, small, acc, pos)
         import sys
         only = sys.argv[1:]
         for slug, html in COVERS.items():
