@@ -147,3 +147,8 @@ S.update({
              'ru': 'А пока им можно бесплатно пользоваться в браузере.',
              'mn': 'Тэр болтол хөтөч дээрээ үнэгүй ашиглаарай.'},
 })
+
+# home: first section title, short and punchy
+S['today_h'] = {'en': 'Today in Korea', 'es': 'Hoy en Corea', 'vi': 'Hàn Quốc hôm nay', 'th': 'เกาหลีวันนี้', 'id': 'Korea hari ini',
+                'yue': '今日韓國', 'tw': '今日韓國', 'ja': '今日の韓国', 'zh': '今日韩国', 'pt': 'Hoje na Coreia', 'ru': 'Корея сегодня',
+                'mn': 'Өнөөдрийн Солонгос'}
