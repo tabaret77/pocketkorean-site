@@ -100,15 +100,11 @@ def pg_body(g, h='h1'):
         b = b.replace('<h2>', '<h3>').replace('</h2>', '</h3>').replace(f'<h3>{PG_TITLE[g]}</h3>', f'<h2>{PG_TITLE[g]}</h2>')
     if g != 'en':
         b = b.replace('</p>', '</p><p class="lead"><a href="/german/en/privacy/" lang="en">English version: Pocket German privacy policy</a></p>', 1)
-    for a, c in PG_BUY[g]: b = b.replace(a, c)
+    b = re.sub(r'<(h[23])>(In-app purchases and subscriptions|In-app purchase|앱 내 구매와 구독|앱 내 구매|アプリ内課金とサブスクリプション|アプリ内課金)</h[23]>\s*<p>.*?</p>', lambda m: f'<{m.group(1)}>{PG_PAY[g][0]}</{m.group(1)}>\n<p>{PG_PAY[g][1]}</p>', b, count=1, flags=re.S)
     return b.replace('Our services are', 'Pocket German is').replace('저희 서비스는', '포켓독일어는').replace('本サービスは', 'ポケットドイツ語は')
 
-PG_BUY = {
-'en': [('<h3>In-app purchases and subscriptions</h3>', '<h3>In-app purchase</h3>'), ('<h2>In-app purchases and subscriptions</h2>', '<h2>In-app purchase</h2>'),
-       ('Premium subscriptions and one-time purchases are processed entirely by Apple (App Store) or Google (Google Play).', 'The one-time lifetime purchase is processed entirely by Apple (App Store).'),
-       (' To manage or cancel a subscription, use your App Store or Google Play account settings.', ' There is no subscription.')],
-'ko': [('앱 내 구매와 구독', '앱 내 구매'), ('프리미엄 구독과 평생 이용권 결제는 전부 Apple(App Store) 또는 Google(Google Play)이 처리해요.', '평생 이용권(한 번 결제) 구매는 전부 Apple(App Store)이 처리해요.'),
-       (' 구독 관리나 해지는 App Store 또는 Google Play 계정 설정에서 할 수 있어요.', ' 구독 상품은 없어요.')],
-'ja': [('アプリ内課金とサブスクリプション', 'アプリ内課金'), ('プレミアムのサブスクリプションと買い切り購入の決済は、すべて Apple（App Store）または Google（Google Play）が処理します。', '買い切り購入の決済は、すべて Apple（App Store）が処理します。'),
-       ('サブスクリプションの管理・解約は App Store または Google Play のアカウント設定から行えます。', 'サブスクリプションはありません。')],
+PG_PAY = {
+'en': ('Purchase', 'Pocket German is a paid app bought on the App Store. Apple processes the payment; we never receive your payment details. The app has no in-app purchases, no subscriptions and no ads.'),
+'ko': ('구매', '포켓독일어는 App Store에서 구매하는 유료 앱이에요. 결제는 Apple이 처리하고, 저희는 결제 정보를 받지 않아요. 앱 안에는 추가 결제, 구독, 광고가 없어요.'),
+'ja': ('購入', 'ポケットドイツ語は App Store で購入する有料アプリです。決済は Apple が処理し、私たちが支払い情報を受け取ることはありません。アプリ内課金、サブスクリプション、広告はありません。'),
 }
