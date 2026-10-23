@@ -119,7 +119,7 @@ def nav_cols(d):
                  f'<a href="{L(d, "grammar/")}">{T("nav_grammar", d)}</a><a class="star" href="{L(d, "name/")}">{T("name_nav", d)} ★</a>'))
     cols.append(('Pocket Korean', '#9B6CFF',
                  f'<a href="{L(d, "level-test/")}">{T("lt_nav", d)}</a><a href="{L(d, "app/")}">{T("app_nav", d)}</a>'
-                 f'<a href="{L(d, "about/")}">{T("about_nav", d)}</a><a href="/privacy/">{T("privacy", d)}</a>'))
+                 f'<a href="{L(d, "about/")}">{T("about_nav", d)}</a><a href="/support/">{T("support", d)}</a><a href="/privacy/">{T("privacy", d)}</a>'))
     g = pg_lang(d)
     cols.append((PG_NAME[g], '#DD0000', f'<a href="{PG_BASE["ko"]}">{E(PG_NAME[g])}</a>' + pg_links(g, 'ko') + PG_LANGS))
     return cols
@@ -206,7 +206,7 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
 </header>
 <main id="main">{main}</main>
 <footer class="site"><div class="wrap"><div class="mlang"><label for="langsel2">{T('choose_lang', d)}</label><select id="langsel2" onchange="location.href=this.value">{opts}</select></div><div class="cols">{foot}</div>
-<div class="bottom"><span>© 2026 Pocket Korean <a style="margin-left:14px" href="/privacy/">{T('privacy', d)}</a></span><span id="credits"></span></div></div></footer>
+<div class="bottom"><span>© 2026 Pocket Korean <a style="margin-left:14px" href="/support/">{T('support', d)}</a> <a style="margin-left:14px" href="/privacy/">{T('privacy', d)}</a> <a style="margin-left:14px" href="mailto:hello@pocketkorean.com">hello@pocketkorean.com</a></span><span id="credits"></span></div></div></footer>
 <script src="/assets/site-{JSV}.js" defer></script>
 </body></html>'''
 

@@ -218,7 +218,7 @@ def page(g, rel, title, desc, body, cur=None, alts=True):
 <main id="main">{body}</main>
 <footer class="pgfoot"><div class="pgw"><div class="pgfb"><a class="pgbrand" href="{url(g)}">{PG_LOGO}<span>{PG_MARK[g]}</span></a><p>{E(s["foot"])}</p></div>
 <nav>{"".join(f'<a href="{url(g, p)}">{E(t)}</a>' for p, t in PG_MENU[g])}</nav>
-<p class="pgcopy">© 2026 {E(PG_NAME[g])} · <a href="{pk}">Pocket Korean</a> · <a href="{url(g, 'privacy/')}">{E(PRIV_T[g])}</a></p></div></footer>
+<p class="pgcopy">© 2026 {E(PG_NAME[g])} · <a href="{pk}">Pocket Korean</a> · <a href="{url(g, 'support/')}">{E(SUP_T[g])}</a> · <a href="{url(g, 'privacy/')}">{E(PRIV_T[g])}</a></p></div></footer>
 <script src="/german/assets/pg-{JSV}.js" defer></script></body></html>'''
 
 # ---------- blocks ----------
@@ -325,6 +325,7 @@ def home(g, d, arts, posts=None):
 <section class="pgw life"><header class="sh"><h2>{E(s["life"])}<span class="pchip">📅 {E(s["daily"])}</span></h2><p>{E(s["life_p"])}</p>{f'<a href="{url(g, "life/")}">{E(s["more"])}</a>' if len(arts) > 6 else ""}</header>{art_grid(g, arts, 6)}</section>
 <section class="feat"><div class="pgw"><h2>{E(s["feat"])}</h2><ul class="fl">{feats}</ul>
 <div class="fcta"><a class="btn red" href="{WEBAPP[g]}">{E(s["try_"])}</a><span class="soon">{E(s["soon"])}</span></div></div></section>
+<section class="pgw post privacy hpriv hsup" id="support"><div class="prose">{__import__("support_text").pg(g, "h2")}</div></section>
 <section class="pgw post privacy hpriv" id="privacy"><div class="prose">{__import__("privacy_text").pg_body(g, "h2")}</div></section>'''
     ld = ('<script type="application/ld+json">' + json.dumps({'@context': 'https://schema.org', '@type': 'MobileApplication', 'name': PG_NAME[g],
           'operatingSystem': 'iOS', 'applicationCategory': 'EducationalApplication', 'inLanguage': HL[g], 'description': s['hdesc'],
@@ -502,6 +503,11 @@ def word_posts(g, posts, d):
     body = phead(g, ps['all'], ps['all_p']) + f'<section class="pgw life">{grid}</section>'
     write(f'{g + "/" if g != "ko" else ""}words/index.html', page(g, 'words/', f'{ps["all"]} | {PG_NAME[g]}', ps['all_p'], body, cur='today/'))
 
+SUP_T = {'ko': '고객 지원', 'en': 'Support', 'ja': 'サポート'}
+def support_page(g):
+    import support_text as T
+    body = f'<article class="pgw post privacy"><div class="prose">{T.pg(g)}</div></article>'
+    write(f'{g + "/" if g != "ko" else ""}support/index.html', page(g, 'support/', f'{T.PG[g]["t"]} | {PG_NAME[g]}', T.PG[g]['t'], body))
 PRIV_T = {'ko': '개인정보처리방침', 'en': 'Privacy', 'ja': 'プライバシー'}
 def privacy_page(g):
     import privacy_text as P
@@ -520,7 +526,7 @@ def assets():
 def sitemap():
     urls = []
     for g in GL:
-        for p in ['', 'dictionary/', 'today/', 'life/', 'privacy/']:
+        for p in ['', 'dictionary/', 'today/', 'life/', 'privacy/', 'support/']:
             urls.append(f'{BASE}{url(g, p)}')
         urls += [f'{BASE}{url(g, "words/")}'] + [f'{BASE}{url(g, "words/" + k + "/")}' for k in load_posts()]
         urls += [f'{BASE}{url(g, "life/" + a["slug"] + "/")}' for a in load_articles(g)]
@@ -540,7 +546,7 @@ def main():
     posts = load_posts()
     for g in GL:
         arts = load_articles(g)
-        home(g, d, arts, posts); dictionary(g); today_page(g, d, posts); life(g, arts); word_posts(g, posts, d); privacy_page(g)
+        home(g, d, arts, posts); dictionary(g); today_page(g, d, posts); life(g, arts); word_posts(g, posts, d); privacy_page(g); support_page(g)
     sitemap()
     texts = sorted(german_say.TEXTS)
     jdump('data/tts.json', sorted({german_say.h16(t) for t in texts}))

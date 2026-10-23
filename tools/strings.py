@@ -152,3 +152,6 @@ S.update({
 S['today_h'] = {'en': 'Today in Korea', 'es': 'Hoy en Corea', 'vi': 'Hàn Quốc hôm nay', 'th': 'เกาหลีวันนี้', 'id': 'Korea hari ini',
                 'yue': '今日韓國', 'tw': '今日韓國', 'ja': '今日の韓国', 'zh': '今日韩国', 'pt': 'Hoje na Coreia', 'ru': 'Корея сегодня',
                 'mn': 'Өнөөдрийн Солонгос'}
+
+S['support'] = {'en': 'Support', 'es': 'Soporte', 'vi': 'Hỗ trợ', 'th': 'ฝ่ายช่วยเหลือ', 'id': 'Bantuan', 'yue': '支援', 'tw': '客服支援',
+                'ja': 'サポート', 'zh': '帮助与支持', 'pt': 'Suporte', 'ru': 'Поддержка', 'mn': 'Тусламж'}
