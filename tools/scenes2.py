@@ -534,3 +534,290 @@ def pharmacy_counter(svg):
     s.append('<g transform="translate(1520 760)"><rect x="0" y="0" width="64" height="76" rx="10" fill="#FFF6E8" stroke="#E0D2BC" stroke-width="3"/><path d="M64 16 q26 0 26 22 q0 22 -26 22" stroke="#FFF6E8" stroke-width="10" fill="none"/>'
              '<path d="M20 -10 q-12 -24 4 -48 M42 -10 q-12 -24 4 -48" stroke="#9FB8AE" stroke-width="5" fill="none" opacity=".7"/></g>')
     return svg(''.join(s))
+
+
+# ---------------- 2026-10-23 batch ----------------
+def _sky(id_, stops):
+    return (f'<linearGradient id="{id_}" x1="0" y1="0" x2="0" y2="1">' + ''.join(f'<stop offset="{o}" stop-color="{c}"/>' for o, c in stops) + '</linearGradient>')
+
+def _city(R, y0, cols=('#1C2350', '#232B5E', '#2A3168'), lit='#FFD98A', p=.4, x_from=0, x_to=1600):
+    s = []; x = x_from
+    while x < x_to:
+        w = R.choice([90, 120, 150, 180]); top = y0 - R.randint(60, 320); c = R.choice(cols)
+        s.append(f'<rect x="{x}" y="{top}" width="{w}" height="{1000-top}" fill="{c}"/>')
+        for wy in range(top + 20, y0 + 120, 34):
+            for wx in range(x + 12, x + w - 16, 28):
+                if R.random() < p: s.append(f'<rect x="{wx}" y="{wy}" width="12" height="16" fill="{lit}" opacity="{R.uniform(.4,.9):.2f}"/>')
+        x += w + R.choice([0, 6, 12])
+    return ''.join(s)
+
+def heart_rooftop(svg):
+    """Rooftop at night: city skyline, string lights, a man seen from behind and a woman as a small silhouette, a glowing heart with a lightning bolt and blue sparks between them."""
+    R = random.Random(31)
+    s = ['<defs>' + _sky('hr_sky', [(0, '#0A0F2C'), (.6, '#1F2A66'), (1, '#4A3A78')]) +
+         '<radialGradient id="hr_glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#9FE8FF" stop-opacity=".9"/><stop offset=".4" stop-color="#5CC8FF" stop-opacity=".35"/><stop offset="1" stop-color="#5CC8FF" stop-opacity="0"/></radialGradient></defs>'
+         '<rect width="1600" height="1000" fill="url(#hr_sky)"/>']
+    for _ in range(80):
+        s.append(f'<circle cx="{R.uniform(0,1600):.0f}" cy="{R.uniform(0,380):.0f}" r="{R.uniform(1,2.4):.1f}" fill="#fff" opacity="{R.uniform(.3,.9):.2f}"/>')
+    s.append('<circle cx="1380" cy="150" r="56" fill="#FFF3C8" opacity=".9"/>')
+    s.append(_city(R, 640, p=.35))
+    # rooftop floor + railing
+    s.append('<rect y="700" width="1600" height="300" fill="#2B2547"/><rect y="690" width="1600" height="14" fill="#3D3563"/>')
+    for x in range(0, 1600, 60):
+        s.append(f'<rect x="{x}" y="610" width="6" height="84" fill="#4B4378"/>')
+    s.append('<rect y="606" width="1600" height="8" fill="#5A5290"/>')
+    # string lights
+    pts = [(0, 420), (400, 500), (800, 440), (1200, 510), (1600, 430)]
+    for (x1, y1), (x2, y2) in zip(pts, pts[1:]):
+        mx, my = (x1 + x2) / 2, max(y1, y2) + 40
+        s.append(f'<path d="M{x1} {y1} Q{mx} {my} {x2} {y2}" stroke="#20183A" stroke-width="3" fill="none"/>')
+        for k in range(1, 9):
+            t = k / 9; bx = (1-t)**2*x1 + 2*(1-t)*t*mx + t*t*x2; by = (1-t)**2*y1 + 2*(1-t)*t*my + t*t*y2
+            s.append(f'<circle cx="{bx:.0f}" cy="{by+8:.0f}" r="7" fill="#FFE29A" style="filter:drop-shadow(0 0 8px #FFD27A)"/>')
+    # plants and bench (right)
+    s.append('<g transform="translate(1380 640)"><rect x="0" y="40" width="70" height="70" rx="8" fill="#6B4A3A"/><circle cx="35" cy="20" r="46" fill="#1F5A4A"/><circle cx="10" cy="40" r="26" fill="#24694F"/></g>')
+    # glow + heart with bolt
+    s.append('<circle cx="1000" cy="400" r="260" fill="url(#hr_glow)"/>')
+    s.append('<g transform="translate(1000 400)"><path d="M0 70 C-120 -10 -90 -110 -20 -90 C-8 -86 -2 -76 0 -66 C2 -76 8 -86 20 -90 C90 -110 120 -10 0 70Z" fill="none" stroke="#BDF2FF" stroke-width="10" style="filter:drop-shadow(0 0 16px #5CC8FF)"/>'
+             '<path d="M8 -60 L-22 0 H2 L-10 46 L28 -14 H4 Z" fill="#FFE86B" style="filter:drop-shadow(0 0 10px #FFD84A)"/></g>')
+    for _ in range(40):
+        x, y = 1000 + R.uniform(-260, 260), 400 + R.uniform(-200, 200)
+        s.append(f'<path d="M{x:.0f} {y:.0f} l{R.uniform(-14,14):.0f} {R.uniform(6,16):.0f} l{R.uniform(-10,10):.0f} {R.uniform(6,14):.0f}" stroke="#8FE6FF" stroke-width="2.4" fill="none" opacity="{R.uniform(.4,.9):.2f}"/>')
+    # man from behind (left of heart) and woman silhouette (right)
+    s.append('<g transform="translate(800 520)"><ellipse cx="50" cy="232" rx="60" ry="10" fill="#000" opacity=".35"/>'
+             '<path d="M10 70 Q50 50 90 70 L100 180 Q50 190 0 180Z" fill="#1A1C3A"/><rect x="18" y="176" width="26" height="56" fill="#121430"/><rect x="56" y="176" width="26" height="56" fill="#121430"/>'
+             '<circle cx="50" cy="36" r="30" fill="#14152E"/><path d="M22 30 Q50 -2 78 30 Q60 18 50 20 Q40 18 22 30Z" fill="#0C0D22"/></g>')
+    s.append('<g transform="translate(1130 545)" fill="#0E0F26"><ellipse cx="40" cy="206" rx="50" ry="9" fill="#000" opacity=".35"/><circle cx="40" cy="30" r="24"/><path d="M20 26 Q40 0 60 26 L66 90 Q40 98 14 90Z"/>'
+             '<path d="M14 60 Q40 50 66 60 L80 170 Q40 180 0 170Z"/><rect x="24" y="168" width="12" height="40"/><rect x="46" y="168" width="12" height="40"/></g>')
+    return svg(''.join(s))
+
+def dome_crowd(svg):
+    """Inside a huge domed arena seen from the back of the crowd: roof ribs, a mint-pastel stage glow, a sea of light sticks. Performers only as tiny silhouettes."""
+    R = random.Random(32)
+    s = ['<defs>' + _sky('dc_bg', [(0, '#0B1430'), (1, '#1E2E5C')]) +
+         '<radialGradient id="dc_st" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#B8FFE6" stop-opacity=".9"/><stop offset=".5" stop-color="#5CF2C8" stop-opacity=".3"/><stop offset="1" stop-color="#5CF2C8" stop-opacity="0"/></radialGradient>'
+         '<linearGradient id="dc_beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E4FFF6" stop-opacity=".45"/><stop offset="1" stop-color="#E4FFF6" stop-opacity="0"/></linearGradient></defs>'
+         '<rect width="1600" height="1000" fill="url(#dc_bg)"/>']
+    # dome ribs
+    for k in range(-8, 9):
+        s.append(f'<path d="M800 -200 Q{800+k*160} 80 {800+k*230} 520" stroke="#2C3E78" stroke-width="5" fill="none" opacity=".8"/>')
+    for r in (300, 480, 660):
+        s.append(f'<ellipse cx="800" cy="-60" rx="{r*1.5}" ry="{r*.62}" stroke="#2C3E78" stroke-width="4" fill="none" opacity=".7"/>')
+    # stands (tiers with tiny lights)
+    for row in range(5):
+        y = 360 + row * 34
+        s.append(f'<path d="M0 {y} Q800 {y-110} 1600 {y}" stroke="#18224A" stroke-width="30" fill="none"/>')
+        for i in range(60):
+            x = i * 27 + R.uniform(-6, 6); yy = y - 110 * (1 - ((x - 800) / 800) ** 2) * 0.5 - 2
+            s.append(f'<circle cx="{x:.0f}" cy="{yy:.0f}" r="3" fill="{R.choice(["#7FFFD4","#B8FFE6","#FFFFFF","#9AD8FF"])}" opacity=".8"/>')
+    # stage
+    s.append('<circle cx="800" cy="540" r="380" fill="url(#dc_st)"/>')
+    for x, r in [(600, -16), (800, 0), (1000, 16)]:
+        s.append(f'<path d="M{x-14} 250 L{x+14} 250 L{x+180} 620 L{x-180} 620Z" fill="url(#dc_beam)" transform="rotate({r} {x} 250)"/>')
+    s.append('<path d="M480 560 H1120 L1180 610 H420Z" fill="#14204A"/><rect x="420" y="610" width="760" height="22" fill="#0E1838"/>')
+    s.append('<rect x="560" y="380" width="480" height="170" rx="10" fill="#7FF2CF" opacity=".55"/>')
+    for x in (740, 770, 800, 830, 860):
+        s.append(f'<g transform="translate({x} 520)" fill="#0A1230"><circle cx="0" cy="0" r="7"/><path d="M-8 9 L8 9 L10 40 L-10 40Z"/></g>')
+    # crowd with light sticks
+    s.append('<rect y="640" width="1600" height="360" fill="#0A0F26"/>')
+    cols = ['#7FFFD4', '#B8FFE6', '#FFFFFF', '#5CF2C8']
+    for row in range(5):
+        for i in range(34):
+            x = i * 50 + (row % 2) * 25 + R.uniform(-8, 8); y = 690 + row * 62 + R.uniform(-8, 8); c = R.choice(cols)
+            s.append(f'<circle cx="{x:.0f}" cy="{y+46:.0f}" r="{20+row*4}" fill="#0F1532"/>'
+                     f'<path d="M{x:.0f} {y+26:.0f} l{R.uniform(-10,10):.0f} -52" stroke="#6E7AA8" stroke-width="5"/>'
+                     f'<circle cx="{x:.0f}" cy="{y-30:.0f}" r="{10+row*2}" fill="{c}" style="filter:drop-shadow(0 0 10px {c})"/>')
+    return svg(''.join(s))
+
+def palace_hanbok(svg):
+    """A palace courtyard in late-afternoon autumn light: a hanok gate with curved roof, ginkgo and maple trees, three small figures in colourful hanbok seen from behind."""
+    R = random.Random(33)
+    s = ['<defs>' + _sky('ph_sky', [(0, '#7FB6E8'), (.6, '#F6D7A8'), (1, '#F4B98A')]) + '</defs><rect width="1600" height="1000" fill="url(#ph_sky)"/>']
+    s.append('<path d="M0 520 Q300 430 620 500 Q900 420 1200 480 Q1420 440 1600 500 V620 H0Z" fill="#8FA6B8" opacity=".6"/>')
+    # stone wall
+    s.append('<rect y="520" width="1600" height="120" fill="#C9A98A"/>' + ''.join(f'<rect x="{x}" y="{y}" width="58" height="26" rx="4" fill="#B8987A" stroke="#A5866A" stroke-width="2"/>' for y in range(526, 640, 30) for x in range((y//30%2)*30-30, 1600, 62)))
+    # gate building
+    s.append('<g transform="translate(800 0)">'
+             '<rect x="-330" y="420" width="660" height="230" fill="#B8A894"/><rect x="-60" y="500" width="120" height="150" rx="60" fill="#3A2A22"/><rect x="-260" y="520" width="90" height="130" rx="45" fill="#3A2A22"/><rect x="170" y="520" width="90" height="130" rx="45" fill="#3A2A22"/>'
+             '<rect x="-280" y="300" width="560" height="120" fill="#9B3A2E"/>' + ''.join(f'<rect x="{x}" y="300" width="14" height="120" fill="#2E6A5A"/>' for x in range(-270, 280, 70)) +
+             '<path d="M-430 318 Q-330 300 -290 262 H290 Q330 300 430 318 Q300 312 0 312 Q-300 312 -430 318Z" fill="#3A3A44"/>'
+             '<path d="M-370 246 Q-280 226 -240 176 H240 Q280 226 370 246 Q250 240 0 240 Q-250 240 -370 246Z" fill="#3A3A44"/><rect x="-250" y="168" width="500" height="12" rx="6" fill="#2A2A34"/>'
+             '<rect x="-230" y="236" width="460" height="56" fill="#9B3A2E"/>' + ''.join(f'<rect x="{x}" y="236" width="10" height="56" fill="#2E6A5A"/>' for x in range(-220, 230, 50)) + '</g>')
+    # courtyard
+    s.append('<rect y="640" width="1600" height="360" fill="#E3CFA8"/>')
+    for y in range(660, 1000, 48):
+        s.append(f'<path d="M0 {y} H1600" stroke="#D2BB92" stroke-width="3"/>')
+    # trees
+    for cx, cy, r, c in [(150, 380, 210, '#FFC93C'), (360, 460, 140, '#E8434A'), (1430, 380, 220, '#FFC93C'), (1240, 470, 130, '#F2783A')]:
+        s.append(f'<rect x="{cx-16}" y="{cy}" width="32" height="{680-cy}" fill="#6A4A34"/>')
+        for _ in range(26):
+            s.append(f'<circle cx="{cx+R.uniform(-r,r)*.8:.0f}" cy="{cy+R.uniform(-r,r)*.6:.0f}" r="{R.uniform(r*.25,r*.42):.0f}" fill="{c}" opacity="{R.uniform(.75,1):.2f}"/>')
+    for _ in range(90):
+        x, y = R.uniform(0, 1600), R.uniform(650, 1000)
+        s.append(f'<ellipse cx="{x:.0f}" cy="{y:.0f}" rx="9" ry="5" fill="{R.choice(["#FFC93C","#F2783A","#E8434A"])}" transform="rotate({R.uniform(0,180):.0f} {x:.0f} {y:.0f})" opacity=".9"/>')
+    # three small figures in hanbok from behind, walking to the gate
+    for x, y, sc, skirt, jeogori, hair in [(820, 700, 1.0, '#E85A8A', '#FFF1CF', '#2A1E1A'), (960, 720, .95, '#2E7DD6', '#FFD84A', '#3A2A22'), (1080, 700, 1.0, '#7C5CFF', '#DFF5EA', '#1E1612')]:
+        s.append(f'<g transform="translate({x} {y}) scale({sc})"><ellipse cx="40" cy="190" rx="54" ry="10" fill="#000" opacity=".2"/>'
+                 f'<path d="M40 60 L86 186 Q40 196 -6 186Z" fill="{skirt}"/><path d="M18 40 Q40 30 62 40 L66 74 Q40 80 14 74Z" fill="{jeogori}"/>'
+                 f'<path d="M14 46 L4 92 M66 46 L76 92" stroke="{jeogori}" stroke-width="12" stroke-linecap="round"/>'
+                 f'<circle cx="40" cy="20" r="20" fill="{hair}"/><ellipse cx="40" cy="38" rx="10" ry="8" fill="{hair}"/></g>')
+    return svg(''.join(s))
+
+def puffer_street(svg):
+    """Chilly Seoul street at dusk with ginkgo leaves falling; small pedestrians seen from behind in lemon, mint, lilac and sky-blue puffer jackets among a few black ones."""
+    R = random.Random(34)
+    s = ['<defs>' + _sky('pf_sky', [(0, '#5B6FB8'), (.55, '#C6A6D8'), (1, '#FFCFA8')]) + '</defs><rect width="1600" height="1000" fill="url(#pf_sky)"/>']
+    s.append(_city(R, 560, cols=('#5A5A8E', '#6A6AA0', '#4E4E80'), lit='#FFE6A8', p=.3))
+    # shop fronts
+    for x, w, c, t in [(560, 260, '#FFF4DE', '카페'), (840, 300, '#E8F4FF', '옷가게'), (1160, 240, '#FFF0F0', '빵집')]:
+        s.append(f'<rect x="{x}" y="470" width="{w}" height="230" fill="{c}"/><rect x="{x}" y="440" width="{w}" height="44" fill="#3A3A66"/>'
+                 f'<text x="{x+w/2}" y="474" text-anchor="middle" font-family="Noto Sans CJK KR" font-weight="900" font-size="30" fill="#FFE6A8">{t}</text>')
+    # pavement
+    s.append('<rect y="700" width="1600" height="300" fill="#B8AEC0"/>' + ''.join(f'<path d="M{x} 700 L{x-120} 1000" stroke="#A89EB2" stroke-width="3"/>' for x in range(0, 1800, 120)))
+    # ginkgo trees
+    for cx in (420, 1480):
+        s.append(f'<rect x="{cx-14}" y="300" width="28" height="420" fill="#5A4030"/>')
+        for _ in range(30):
+            s.append(f'<circle cx="{cx+R.uniform(-170,170):.0f}" cy="{300+R.uniform(-170,120):.0f}" r="{R.uniform(36,70):.0f}" fill="#FFC93C" opacity="{R.uniform(.75,1):.2f}"/>')
+    for _ in range(80):
+        x, y = R.uniform(0, 1600), R.uniform(150, 1000)
+        s.append(f'<path d="M{x:.0f} {y:.0f} q-10 -14 0 -20 q10 6 0 20Z" fill="#FFD23C" transform="rotate({R.uniform(-60,60):.0f} {x:.0f} {y:.0f})"/>')
+    # pedestrians in puffers, from behind
+    for x, y, sc, c in [(700, 640, 1.0, '#FFE45C'), (860, 670, 1.1, '#9BE8C8'), (1010, 630, .95, '#1E1E28'), (1150, 660, 1.05, '#C8B0FF'), (1300, 640, .95, '#9AD0FF'), (1420, 690, 1.1, '#24242E')]:
+        s.append(f'<g transform="translate({x} {y}) scale({sc})"><ellipse cx="40" cy="232" rx="50" ry="9" fill="#000" opacity=".2"/>'
+                 f'<rect x="20" y="150" width="16" height="78" fill="#2A2A3A"/><rect x="46" y="150" width="16" height="78" fill="#2A2A3A"/>'
+                 + ''.join(f'<rect x="{2-k}" y="{40+k*30}" width="{80+2*k}" height="34" rx="16" fill="{c}" stroke="rgba(0,0,0,.12)" stroke-width="3"/>' for k in range(4)) +
+                 f'<path d="M14 36 Q40 20 66 36 L66 60 Q40 50 14 60Z" fill="{c}"/><circle cx="40" cy="20" r="20" fill="#2A1E1A"/></g>')
+    return svg(''.join(s))
+
+def recycle_corner(svg):
+    """Recycling corner of an apartment complex at dusk: colour-coded bins, a tied pay-as-you-throw bag, a food-waste bin, flattened boxes, rinsed bottles, a lit notice board. No people."""
+    R = random.Random(35)
+    s = ['<defs>' + _sky('rc_sky', [(0, '#3E4C8A'), (.6, '#8E7AB0'), (1, '#F2B08A')]) + '</defs><rect width="1600" height="1000" fill="url(#rc_sky)"/>']
+    # apartment blocks
+    for x, w, top in [(0, 360, 80), (380, 320, 160), (1260, 340, 100)]:
+        s.append(f'<rect x="{x}" y="{top}" width="{w}" height="{640-top}" fill="#E6E2EE"/><rect x="{x}" y="{top}" width="{w}" height="18" fill="#C8C2D8"/>')
+        for wy in range(top + 34, 620, 42):
+            for wx in range(x + 18, x + w - 30, 48):
+                s.append(f'<rect x="{wx}" y="{wy}" width="30" height="22" fill="{"#FFE29A" if R.random()<.45 else "#9BA4C8"}"/>')
+    # shelter roof + wall
+    s.append('<rect x="560" y="360" width="1000" height="340" fill="#D9D3C4"/><path d="M530 360 L1590 360 L1560 320 L560 320Z" fill="#5A6A8A"/>')
+    # notice board, lit
+    s.append('<g transform="translate(1260 400)"><rect x="0" y="0" width="240" height="150" rx="8" fill="#FFFFFF" stroke="#4A5A7A" stroke-width="6" style="filter:drop-shadow(0 0 16px #FFF4C2)"/>'
+             '<text x="120" y="42" text-anchor="middle" font-family="Noto Sans CJK KR" font-weight="900" font-size="32" fill="#2E3B66">분리배출</text>'
+             + ''.join(f'<rect x="{20+k*54}" y="64" width="40" height="60" rx="6" fill="{c}"/>' for k, c in enumerate(['#2E7DD6', '#12A57A', '#FFB020', '#E8434A'])) + '</g>')
+    # floor
+    s.append('<rect y="700" width="1600" height="300" fill="#8C8C9C"/><rect y="700" width="1600" height="16" fill="#6E6E80"/>')
+    # bins
+    for i, (c, t) in enumerate([('#2E7DD6', '플라스틱'), ('#12A57A', '유리병'), ('#FFB020', '종이'), ('#E8434A', '캔')]):
+        x = 640 + i * 150
+        s.append(f'<g transform="translate({x} 520)"><rect x="0" y="20" width="130" height="190" rx="10" fill="{c}"/><rect x="-6" y="6" width="142" height="26" rx="8" fill="{c}" stroke="rgba(0,0,0,.2)" stroke-width="3"/>'
+                 f'<rect x="12" y="60" width="106" height="44" rx="6" fill="#fff" opacity=".9"/><text x="65" y="92" text-anchor="middle" font-family="Noto Sans CJK KR" font-weight="900" font-size="{26 if len(t)>2 else 30}" fill="#222">{t}</text></g>')
+    # food waste bin (small, yellow-lid)
+    s.append('<g transform="translate(1260 600)"><rect x="0" y="20" width="110" height="120" rx="12" fill="#F2F2F2" stroke="#9C9CAC" stroke-width="4"/><rect x="-4" y="6" width="118" height="24" rx="8" fill="#FFD84A"/><text x="55" y="96" text-anchor="middle" font-family="Noto Sans CJK KR" font-weight="900" font-size="24" fill="#555">음식물</text></g>')
+    # tied pay bag
+    s.append('<g transform="translate(1410 610)"><path d="M10 40 Q0 130 60 140 Q120 130 110 40 Q60 20 10 40Z" fill="#F4F0FF" stroke="#8E7AC8" stroke-width="4"/><path d="M40 40 Q60 0 80 40" stroke="#8E7AC8" stroke-width="6" fill="none"/>'
+             '<rect x="22" y="70" width="76" height="30" rx="4" fill="#8E7AC8" opacity=".7"/></g>')
+    # flattened boxes and bottles
+    s.append('<g transform="translate(1180 760) rotate(-6)"><rect x="0" y="0" width="200" height="34" fill="#C89A64"/><rect x="10" y="-30" width="190" height="34" fill="#D8AA74"/></g>')
+    for k in range(5):
+        s.append(f'<g transform="translate({920+k*40} {780+(k%2)*10})"><rect x="0" y="20" width="28" height="70" rx="10" fill="#CFEAFF" opacity=".85" stroke="#8CB8D8" stroke-width="2"/><rect x="8" y="6" width="12" height="16" fill="#2E7DD6"/></g>')
+    # lamp glow
+    s.append('<rect x="1540" y="200" width="10" height="500" fill="#2A2A40"/><path d="M1510 196 h60 l-8 22 h-44z" fill="#FFF4C2" style="filter:drop-shadow(0 0 22px #FFE98A)"/>')
+    return svg(''.join(s))
+
+def nbus_stop(svg):
+    """Empty Seoul bus stop after midnight: glowing arrival board, a blue night bus with a big N pulling in, wet asphalt, closed shutters, a few lit windows. No people."""
+    R = random.Random(36)
+    s = ['<defs>' + _sky('nb_sky', [(0, '#05081C'), (1, '#1C2250')]) + '</defs><rect width="1600" height="1000" fill="url(#nb_sky)"/>']
+    s.append(_city(R, 520, cols=('#11163A', '#151B44', '#0F1434'), p=.12))
+    # shuttered shops
+    for x in range(0, 1600, 230):
+        s.append(f'<rect x="{x+6}" y="470" width="218" height="190" fill="#3A3F5E"/>' + ''.join(f'<rect x="{x+6}" y="{yy}" width="218" height="4" fill="#2A2E48"/>' for yy in range(476, 660, 12)))
+    # pavement + road
+    s.append('<rect y="660" width="1600" height="50" fill="#4A4E6A"/><rect y="710" width="1600" height="290" fill="#14172E"/>')
+    for x in range(40, 1600, 260):
+        s.append(f'<rect x="{x}" y="900" width="140" height="12" rx="6" fill="#FFFFFF" opacity=".25"/>')
+    # bus stop shelter (right)
+    s.append('<g transform="translate(1080 380)"><rect x="0" y="0" width="420" height="20" fill="#2A2E48"/><rect x="10" y="20" width="10" height="270" fill="#2A2E48"/><rect x="400" y="20" width="10" height="270" fill="#2A2E48"/>'
+             '<rect x="30" y="30" width="360" height="200" fill="#9FC8FF" opacity=".12"/><rect x="60" y="220" width="300" height="16" rx="6" fill="#5A6082"/>'
+             '<rect x="40" y="40" width="200" height="90" rx="8" fill="#0A0E22" stroke="#3A4070" stroke-width="4"/>'
+             '<text x="60" y="78" font-family="Noto Sans CJK KR" font-weight="900" font-size="28" fill="#FFB020">N26</text><text x="140" y="78" font-family="Noto Sans CJK KR" font-weight="700" font-size="24" fill="#FFB020">곧 도착</text>'
+             '<text x="60" y="114" font-family="Noto Sans CJK KR" font-weight="900" font-size="28" fill="#7FE0FF">N37</text><text x="140" y="114" font-family="Noto Sans CJK KR" font-weight="700" font-size="24" fill="#7FE0FF">12분</text></g>')
+    # night bus pulling in (center-right)
+    s.append('<g transform="translate(560 470)"><rect x="0" y="0" width="560" height="230" rx="26" fill="#1E5FD8"/><rect x="0" y="150" width="560" height="80" rx="20" fill="#174AAE"/>'
+             + ''.join(f'<rect x="{30+k*104}" y="30" width="88" height="92" rx="8" fill="#FFF0B8" opacity=".85"/>' for k in range(5)) +
+             '<rect x="480" y="30" width="64" height="120" rx="8" fill="#FFF0B8" opacity=".85"/>'
+             '<rect x="30" y="-46" width="150" height="50" rx="10" fill="#0A0E22"/><text x="105" y="-10" text-anchor="middle" font-family="Noto Sans CJK KR" font-weight="900" font-size="38" fill="#FFB020">N26</text>'
+             '<circle cx="110" cy="232" r="38" fill="#0A0A12"/><circle cx="450" cy="232" r="38" fill="#0A0A12"/>'
+             '<rect x="536" y="170" width="24" height="26" rx="6" fill="#FFF4C2" style="filter:drop-shadow(0 0 20px #FFF4C2)"/></g>')
+    s.append('<g transform="translate(1000 330)"><circle cx="0" cy="0" r="60" fill="#FFB020" style="filter:drop-shadow(0 0 24px #FFB020)" opacity=".95"/><text x="0" y="30" text-anchor="middle" font-family="Noto Sans CJK KR" font-weight="900" font-size="84" fill="#14172E">N</text></g>')
+    # reflections
+    for x, c in [(1120, '#FFF4C2'), (840, '#1E5FD8'), (260, '#FFB020'), (1200, '#FFB020')]:
+        s.append(f'<rect x="{x-40}" y="720" width="80" height="270" fill="{c}" opacity=".2" filter="url(#blur8)"/>')
+    # moon
+    s.append('<circle cx="1440" cy="120" r="44" fill="#FFF3C8" opacity=".85"/>')
+    return svg(''.join(s))
+
+def exam_gate(svg):
+    """A school gate in the early-morning chill: hand-made cheering banners on the fence, a thermos and a box of rice cakes on a low wall, autumn leaves, quiet street. No people."""
+    R = random.Random(37)
+    s = ['<defs>' + _sky('eg_sky', [(0, '#9EC4E8'), (.7, '#E8E4F0'), (1, '#FFE2C8')]) + '</defs><rect width="1600" height="1000" fill="url(#eg_sky)"/>']
+    # school building
+    s.append('<rect x="520" y="180" width="1000" height="400" fill="#F0E6D8"/><rect x="520" y="160" width="1000" height="30" fill="#C8B49A"/>')
+    for wy in (220, 320, 420):
+        for wx in range(560, 1500, 90):
+            s.append(f'<rect x="{wx}" y="{wy}" width="60" height="60" fill="#B8CCE4"/>')
+    s.append('<rect x="960" y="210" width="80" height="80" rx="40" fill="#fff" stroke="#8A7A6A" stroke-width="5"/><path d="M1000 226 V250 L1016 262" stroke="#333" stroke-width="5" fill="none"/>')
+    for cx in (200, 1520):
+        s.append(f'<rect x="{cx-12}" y="220" width="24" height="380" fill="#6A4A34"/>' + ''.join(f'<circle cx="{cx+R.uniform(-140,140):.0f}" cy="{240+R.uniform(-120,100):.0f}" r="{R.uniform(30,60):.0f}" fill="#F2A03A" opacity=".9"/>' for _ in range(22)))
+    # fence
+    s.append('<rect y="560" width="1600" height="16" fill="#6A7A8A"/>' + ''.join(f'<rect x="{x}" y="470" width="8" height="200" fill="#6A7A8A"/>' for x in range(0, 1600, 40)) + '<rect y="480" width="1600" height="10" fill="#6A7A8A"/>')
+    # gate pillars
+    s.append('<rect x="440" y="400" width="80" height="300" fill="#B8A894"/><rect x="1080" y="400" width="80" height="300" fill="#B8A894"/>')
+    # banners
+    for x, y, w, c, t, r in [(600, 500, 420, '#FFF6D1', '수능 대박!', -2), (1200, 490, 360, '#FFE9E8', '선배님 화이팅', 2)]:
+        s.append(f'<g transform="rotate({r} {x+w/2} {y+50})"><rect x="{x}" y="{y}" width="{w}" height="100" rx="6" fill="{c}" stroke="#A88A6A" stroke-width="3"/>'
+                 f'<text x="{x+w/2}" y="{y+66}" text-anchor="middle" font-family="Noto Sans CJK KR" font-weight="900" font-size="48" fill="#E8434A">{t}</text></g>')
+    # road + low wall
+    s.append('<rect y="680" width="1600" height="320" fill="#C8C2BA"/><rect x="720" y="760" width="880" height="80" fill="#B0A898"/>')
+    # thermos and rice cake box on wall
+    s.append('<g transform="translate(1100 610)"><rect x="0" y="20" width="60" height="140" rx="16" fill="#E8434A"/><rect x="6" y="0" width="48" height="30" rx="8" fill="#3A3A44"/></g>')
+    s.append('<g transform="translate(1200 680)"><rect x="0" y="0" width="240" height="90" rx="10" fill="#FFFFFF" stroke="#C8B49A" stroke-width="4"/>'
+             + ''.join(f'<circle cx="{40+k*54}" cy="45" r="24" fill="{"#F4F0E8" if k%2 else "#FFD8E0"}" stroke="#E0D2C0" stroke-width="2"/>' for k in range(4)) + '</g>')
+    s.append('<g transform="translate(1460 700) rotate(20)"><rect x="0" y="0" width="14" height="70" rx="4" fill="#C0C0C8"/><rect x="-4" y="-30" width="22" height="34" fill="#C0C0C8"/></g>')
+    # leaves
+    for _ in range(70):
+        x, y = R.uniform(0, 1600), R.uniform(680, 1000)
+        s.append(f'<ellipse cx="{x:.0f}" cy="{y:.0f}" rx="10" ry="6" fill="{R.choice(["#FFC93C","#F2783A","#E8434A"])}" transform="rotate({R.uniform(0,180):.0f} {x:.0f} {y:.0f})"/>')
+    return svg(''.join(s))
+
+def boutique(svg):
+    """Small Seoul clothing boutique: a rack of coats and knitwear, a curtained fitting room with shoes left outside, a tall mirror, a size tag reading 55, a shopping bag on the counter. No people."""
+    R = random.Random(38)
+    s = ['<defs>' + _sky('bq_bg', [(0, '#FBEFE6'), (1, '#F0DCCB')]) + '</defs><rect width="1600" height="1000" fill="url(#bq_bg)"/>']
+    s.append('<rect y="760" width="1600" height="240" fill="#C89A74"/>' + ''.join(f'<rect x="{x}" y="760" width="4" height="240" fill="#B48862"/>' for x in range(0, 1600, 120)))
+    # pendant lamps
+    for x in (300, 800, 1300):
+        s.append(f'<rect x="{x-2}" y="0" width="4" height="120" fill="#3A2A22"/><path d="M{x-50} 160 Q{x} 90 {x+50} 160Z" fill="#3A2A22"/><circle cx="{x}" cy="166" r="14" fill="#FFE8A8" style="filter:drop-shadow(0 0 20px #FFE29A)"/>')
+    # fitting room (right)
+    s.append('<rect x="1180" y="220" width="340" height="560" fill="#E8D8C8"/><rect x="1170" y="210" width="360" height="16" fill="#8A6A52"/>')
+    s.append('<path d="M1190 226 ' + ''.join(f'Q{1210+k*40} 500 {1230+k*40} 226 ' for k in range(8)) + 'L1510 760 L1190 760Z" fill="#7C5CFF" opacity=".85"/>')
+    s.append('<g transform="translate(1250 740)"><path d="M0 20 Q0 0 30 0 L60 0 Q70 10 70 20Z" fill="#3A2A22"/><path d="M90 20 Q90 0 120 0 L150 0 Q160 10 160 20Z" fill="#3A2A22"/></g>')
+    s.append('<text x="1350" y="200" text-anchor="middle" font-family="Noto Sans CJK KR" font-weight="900" font-size="40" fill="#5A3A2A">탈의실</text>')
+    # mirror
+    s.append('<g transform="translate(980 260)"><rect x="0" y="0" width="150" height="400" rx="75" fill="#D8E8F4" stroke="#B8946E" stroke-width="12"/><path d="M30 80 L60 50 M30 140 L100 70" stroke="#fff" stroke-width="8" opacity=".7"/></g>')
+    # rack with coats and knits (left-mid)
+    s.append('<rect x="420" y="250" width="12" height="520" fill="#3A2A22"/><rect x="900" y="250" width="12" height="520" fill="#3A2A22"/><rect x="410" y="250" width="512" height="12" fill="#3A2A22"/>')
+    x = 440
+    for c in ['#C8A07A', '#2E3B66', '#E8D6C0', '#9B3A2E', '#7AA88C', '#F2E6D0', '#4A4A58']:
+        long_ = R.random() < .6; h = 300 if long_ else 220
+        s.append(f'<path d="M{x+30} 262 l-6 -18 a10 10 0 1 1 12 0" stroke="#5A5A5A" stroke-width="3" fill="none"/>'
+                 f'<path d="M{x} 280 Q{x+30} 262 {x+60} 280 L{x+64} {262+h} L{x-4} {262+h}Z" fill="{c}" stroke="rgba(0,0,0,.15)" stroke-width="3"/>')
+        x += 64
+    # size tag
+    s.append('<g transform="translate(700 520) rotate(8)"><rect x="0" y="0" width="70" height="90" rx="8" fill="#fff" stroke="#8A6A52" stroke-width="3"/><circle cx="35" cy="14" r="5" fill="#8A6A52"/><text x="35" y="70" text-anchor="middle" font-family="Noto Sans CJK KR" font-weight="900" font-size="36" fill="#2E3B66">55</text></g>')
+    # counter with bag (left back)
+    s.append('<rect x="60" y="560" width="300" height="200" fill="#8A6A52"/><rect x="50" y="545" width="320" height="22" fill="#6A4E3A"/>'
+             '<g transform="translate(200 440)"><path d="M10 30 L110 30 L120 110 L0 110Z" fill="#F2555A"/><path d="M35 30 Q60 -10 85 30" stroke="#B83A40" stroke-width="6" fill="none"/></g>')
+    return svg(''.join(s))
