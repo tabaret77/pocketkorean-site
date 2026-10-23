@@ -588,3 +588,4 @@ header.top .mega .pglangs a,footer.site .pglangs a{display:inline-flex;align-ite
 nav.main .pgni em.pgred{font-style:normal;color:#D9483B}
 .pkblue{font-style:normal;color:#0047A0}
 .supportpg .faq{border:1px solid #E3E6EF;border-radius:12px;padding:12px 16px;margin:10px 0;background:#fff}.supportpg .faq summary{cursor:pointer;font-weight:700}.supportpg .faq p{margin:8px 0 0}
+@media (min-width:761px){html:not(.nf) nav.main{visibility:hidden}}

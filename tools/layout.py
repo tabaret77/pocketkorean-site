@@ -185,8 +185,8 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/icon-180.png">
 <meta name="theme-color" content="#2446F0">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&amp;family=Atkinson+Hyperlegible:wght@400;700&amp;family=Nanum+Myeongjo:wght@700;800&amp;display=swap">
-<link rel="stylesheet" href="/assets/site-{CSSV}.css">{ld}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&amp;family=Atkinson+Hyperlegible:wght@400;700&amp;family=Nanum+Myeongjo:wght@700;800&amp;display=optional">
+<link rel="stylesheet" href="/assets/site-{CSSV}.css">{ld}<noscript><style>nav.main{{visibility:visible!important}}</style></noscript>
 </head><body data-lang="{d}" data-u="{u}">
 <a class="sr" href="#main">Skip to content</a>
 <div class="util"><div class="wrap"><p>{T('util_tag', d)}</p><div class="r">{social}{'<span class="sep" aria-hidden="true"></span>' if social else ''}
@@ -204,6 +204,7 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
 <a class="chip" href="{L(d, 'words/slang/')}">{T('cat_slang', d)}</a><a class="chip" href="{L(d, 'name/')}">{T('name_nav', d)}</a></div>
 <a class="btn sm" href="{L(d, 'level-test/')}">{T('lt_cta', d)}</a></div></div></nav>
 </header>
+<script>(function(){{var n=document.querySelector('nav.main');if(!n||!n.offsetParent){{document.documentElement.classList.add('nf');return}}var r=function(){{var t={{}};for(var i=0;i<n.children.length;i++)t[n.children[i].offsetTop]=1;return Object.keys(t).length}};['t1','t2','t3'].forEach(function(c){{if(r()>1)n.classList.add(c)}})}})();document.documentElement.classList.add('nf')</script>
 <main id="main">{main}</main>
 <footer class="site"><div class="wrap"><div class="mlang"><label for="langsel2">{T('choose_lang', d)}</label><select id="langsel2" onchange="location.href=this.value">{opts}</select></div><div class="cols">{foot}</div>
 <div class="bottom"><span>© 2026 Pocket Korean <a style="margin-left:14px" href="/support/">{T('support', d)}</a> <a style="margin-left:14px" href="/privacy/">{T('privacy', d)}</a> <a style="margin-left:14px" href="mailto:hello@pocketkorean.com">hello@pocketkorean.com</a></span><span id="credits"></span></div></div></footer>
