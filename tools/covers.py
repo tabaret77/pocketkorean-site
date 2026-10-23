@@ -197,6 +197,14 @@ PHOTO = {
  'ktx-booking-after-srt-merger-p1': (MEDIA + 'photos/ktx-platform-ill.png', '승차권', 'SRT 통합 후 KTX 예매', C['sky'], 'center'),
  'pepero-day-november-11-p1': (MEDIA + 'photos/stick-gifts-ill.png', '빼빼로데이', '11월 11일의 선물', C['sky'], 'center'),
  'korean-phrases-pharmacy-clinic-p1': (MEDIA + 'photos/pharmacy-counter-ill.png', '아파요', '약국과 병원에서', C['sky'], 'center'),
+ 'take-charge-of-my-heart-netflix-top-10-p1': (MEDIA + 'photos/heart-rooftop-ill.png', '충전', '나를 충전해줘', C['coral'], 'center'),
+ 'nct-wish-i-spy-first-week-sales-p1': (MEDIA + 'photos/dome-crowd-ill.png', '초동', 'NCT WISH 155만 장', C['yellow'], 'center'),
+ 'hanbok-culture-week-2026-p1': (MEDIA + 'photos/palace-hanbok-ill.png', '한복', '한복문화주간', C['coral'], 'center'),
+ 'colour-puffer-jackets-trend-p1': (MEDIA + 'photos/puffer-street-ill.png', '패딩', '올겨울은 컬러 패딩', C['coral'], 'center'),
+ 'korea-rubbish-sorting-food-waste-p1': (MEDIA + 'photos/recycle-corner-ill.png', '분리수거', '종량제 봉투와 음식물', C['sky'], 'center'),
+ 'seoul-late-night-n-buses-p1': (MEDIA + 'photos/nbus-stop-ill.png', '막차', '서울 심야버스', C['sky'], 'center'),
+ 'suneung-csat-day-customs-p1': (MEDIA + 'photos/exam-gate-ill.png', '수능', '11월 19일 시험의 날', C['sky'], 'center'),
+ 'korean-phrases-clothes-shopping-p1': (MEDIA + 'photos/boutique-ill.png', '입어 봐도 돼요?', '옷 가게에서', C['sky'], 'center'),
 }  # slug -> (photo path, big phrase, small line, accent colour, object-position)
 def photo_page(photo, big, small, accent, pos='center'):
     return HEAD + f"""<img src="file://{photo}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:{pos}">

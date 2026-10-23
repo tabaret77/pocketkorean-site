@@ -525,3 +525,181 @@ SCENES_1022 = {'topik-writing-question-54': topik54, 'go-sipda-want-to': go_sipd
                'batchim-seven-final-sounds': batchim, 'hwaiting-meaning': hwaiting, 'k-drama-confession-lines': confession,
                'making-plans-with-friends': plans, 'korean-texting-abbreviations': texting, 'korean-honorific-verbs': honorific}
 SCENES.update(SCENES_1022)
+
+
+# ================= 2026-10-23 batch =================
+def _bg(id_, top, bot):
+    return f'<linearGradient id="{id_}" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="{top}"/><stop offset="1" stop-color="{bot}"/></linearGradient>'
+
+def _clock(cx, cy, r):
+    return (f'<g filter="url(#sh)"><circle cx="{cx}" cy="{cy}" r="{r}" fill="#FFFFFF" stroke="{INK}" stroke-width="6"/>'
+            + ''.join(f'<rect x="{cx-3}" y="{cy-r+8}" width="6" height="14" fill="{INK}" transform="rotate({a} {cx} {cy})"/>' for a in range(0, 360, 30))
+            + f'<path d="M{cx} {cy} V{cy-r*.6} M{cx} {cy} L{cx+r*.45} {cy+r*.2}" stroke="{INK}" stroke-width="7" stroke-linecap="round"/></g>')
+
+def topik_reading():
+    """Exam classroom: desk with an answer booklet and OMR card, wall clock, sand timer; a worried student; tags 읽기 지문 빈칸."""
+    d = _bg('trbg', '#E4F2FD', '#CFE6F7')
+    s = ['<rect width="1600" height="1000" fill="url(#trbg)"/>', '<rect y="780" width="1600" height="220" fill="#C9A47A"/>']
+    s.append(f'<g filter="url(#sh)"><rect x="80" y="70" width="620" height="300" rx="16" fill="#2F5A48" stroke="#8A5A34" stroke-width="14"/></g>'
+             f'<text x="390" y="200" text-anchor="middle" {F} font-size="72" fill="#FFFFFF">읽기 70분</text><text x="390" y="290" text-anchor="middle" {F} font-size="48" fill="#CFE8DA">1번 ~ 50번</text>')
+    s.append(_clock(1360, 170, 110))
+    s.append(P(cute.girl, 620, 330, 1.1, mood='talk', cardigan='#9BC8FF', cardigan_sh='#6EA6E8'))
+    s.append(f'<g filter="url(#sh)"><rect x="380" y="700" width="900" height="44" rx="12" fill="#D8A86E" stroke="{INK}" stroke-width="6"/><rect x="430" y="744" width="30" height="200" fill="#8A5A34"/><rect x="1200" y="744" width="30" height="200" fill="#8A5A34"/></g>')
+    s.append(f'<g transform="translate(560 610) rotate(-6)" filter="url(#sh)"><rect x="0" y="0" width="230" height="100" rx="6" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/>'
+             + ''.join(f'<rect x="20" y="{16+k*16}" width="{180-k*20}" height="7" rx="3" fill="#C8CDE4"/>' for k in range(5)) + '</g>')
+    s.append(f'<g transform="translate(860 620) rotate(5)" filter="url(#sh)"><rect x="0" y="0" width="200" height="90" rx="6" fill="#FFF6D1" stroke="{INK}" stroke-width="4"/>'
+             + ''.join(f'<circle cx="{24+c*30}" cy="{22+r*24}" r="8" fill="{"#141838" if (r+c)%3==0 else "none"}" stroke="#F2555A" stroke-width="2"/>' for r in range(3) for c in range(6)) + '</g>')
+    s.append(f'<g transform="translate(1110 560)" filter="url(#sh)"><path d="M0 0 H90 L50 70 L90 140 H0 L40 70Z" fill="#FFF6D1" stroke="{INK}" stroke-width="5"/><path d="M14 10 H76 L45 60Z" fill="#F2A03A"/><path d="M45 100 L80 134 H10Z" fill="#F2A03A"/></g>')
+    s.append(bubble(980, 330, '시간이 부족해요!', 46, 'down-left'))
+    s.append(tag(1240, 480, '지문', '#FFD84A', 54) + tag(120, 560, '읽기', '#FFFFFF', 54) + tag(160, 700, '빈칸', '#E3F7F0', 54))
+    s.append(sparkle(860, 70, 22) + sparkle(1530, 420, 18, '#FF9C9C'))
+    return svg(d, ''.join(s))
+
+def past_tense():
+    """Monday café: one friend shows weekend photos on a phone; bubbles 주말에 뭐 했어요? / 영화를 봤어요!"""
+    d = _bg('ptbg', '#FFF0D6', '#F7D9B4')
+    s = ['<rect width="1600" height="1000" fill="url(#ptbg)"/>', '<rect y="790" width="1600" height="210" fill="#B47A48"/>']
+    s.append(f'<g filter="url(#sh)"><rect x="1140" y="60" width="380" height="300" rx="20" fill="#BFE3FF" stroke="#8A5A34" stroke-width="12"/></g><path d="M1330 60 V360 M1140 210 H1520" stroke="#8A5A34" stroke-width="8"/>'
+             + ''.join(_leaf(1180 + i * 70, 120 + (i % 2) * 140, 16, c, i * 30) for i, c in enumerate(['#E8434A', '#FF9F43', '#FFC93C', '#E8434A', '#FF9F43'])))
+    s.append(f'<g filter="url(#sh)"><rect x="80" y="80" width="300" height="180" rx="14" fill="#FFFFFF" stroke="{INK}" stroke-width="5"/></g><text x="230" y="150" text-anchor="middle" {F} font-size="44" fill="{INK}">월요일</text><text x="230" y="220" text-anchor="middle" {F} font-size="36" fill="#F2555A">MONDAY</text>')
+    s.append(P(cute.girl, 340, 400, 1.0, mood='happy', cardigan='#FFD84A', cardigan_sh='#D9B21E'))
+    s.append(P(cute.boy, 900, 400, 1.0, mood='talk', vest='#7C5CFF', vest_sh='#5A3FD0'))
+    s.append(f'<g transform="translate(640 560) rotate(-12)" filter="url(#sh)"><rect x="0" y="0" width="120" height="200" rx="18" fill="#2B2F55" stroke="{INK}" stroke-width="5"/><rect x="10" y="16" width="100" height="160" rx="8" fill="#E8F6FF"/>'
+             f'<rect x="18" y="26" width="40" height="40" rx="4" fill="#FF9F43"/><rect x="62" y="26" width="40" height="40" rx="4" fill="#E8434A"/><rect x="18" y="72" width="84" height="60" rx="4" fill="#7C5CFF"/><path d="M50 92 l20 12 l-20 12z" fill="#fff"/></g>')
+    s.append(f'<g filter="url(#sh)"><rect x="300" y="740" width="1000" height="40" rx="12" fill="#8A5A34" stroke="{INK}" stroke-width="5"/></g>')
+    for x in (440, 1120):
+        s.append(f'<path d="M{x-40} 690 h80 l-8 50 h-64z" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/><path d="M{x+40} 700 q24 4 18 24 q-6 14 -24 10" fill="none" stroke="{INK}" stroke-width="4"/><path d="M{x-14} 676 q-8 -16 4 -30 M{x+10} 676 q-8 -16 4 -30" stroke="#C8B49A" stroke-width="4" fill="none"/>')
+    s.append(bubble(110, 300, '주말에 뭐 했어요?', 46, 'down-right') + bubble(880, 270, '영화를 봤어요!', 50, 'down-left', '#FFF6D1'))
+    s.append(tag(1220, 520, '했어요', '#FFFFFF', 50) + tag(1250, 650, '갔어요', '#E3F7F0', 50))
+    s.append(sparkle(780, 120, 22) + sparkle(1560, 440, 18, '#FF9C9C'))
+    return svg(d, ''.join(s))
+
+def hobby():
+    """Cosy living room: a knitter, a gamer and a camera; books and hiking boots; bubble 취미가 뭐예요?"""
+    d = _bg('hbbg', '#EFEAFF', '#DCD2FA')
+    s = ['<rect width="1600" height="1000" fill="url(#hbbg)"/>', '<rect y="800" width="1600" height="200" fill="#C89A74"/>']
+    # bookshelf
+    s.append(f'<g filter="url(#sh)"><rect x="1230" y="120" width="300" height="680" fill="#B47A48" stroke="{INK}" stroke-width="6"/></g>')
+    for k, y in enumerate((200, 360, 520)):
+        s.append(f'<rect x="1240" y="{y+120}" width="280" height="14" fill="#8A5A34"/>' + ''.join(f'<rect x="{1250+i*38}" y="{y+120-(90+(i*13)%30)}" width="32" height="{90+(i*13)%30}" fill="{["#F2555A","#2446F0","#FFD84A","#12A57A","#7C5CFF","#FF9F43","#FFFFFF"][(i+k)%7]}" stroke="{INK}" stroke-width="3"/>' for i in range(7)))
+    # sofa
+    s.append(f'<g filter="url(#sh)"><rect x="160" y="560" width="900" height="200" rx="40" fill="#F2777C" stroke="{INK}" stroke-width="6"/><rect x="120" y="520" width="90" height="260" rx="40" fill="#E05A60" stroke="{INK}" stroke-width="6"/><rect x="1010" y="520" width="90" height="260" rx="40" fill="#E05A60" stroke="{INK}" stroke-width="6"/></g>')
+    s.append(P(cute.girl, 230, 360, 1.0, mood='happy', cardigan='#FFFFFF', cardigan_sh='#E0DCE8', skirt='#12A57A', skirt_sh='#0B7F5D'))
+    s.append(P(cute.boy, 640, 370, 1.0, mood='talk', vest='#2446F0', vest_sh='#1632C4'))
+    # knitting: yarn ball and needles + scarf
+    s.append(f'<g filter="url(#sh)"><circle cx="300" cy="840" r="46" fill="#FFD84A" stroke="{INK}" stroke-width="5"/><path d="M262 820 q38 30 76 -6 M262 850 q38 26 76 -8" stroke="#D9B21E" stroke-width="5" fill="none"/></g>'
+             f'<path d="M330 680 L420 610 M350 690 L440 630" stroke="#8A5A34" stroke-width="7" stroke-linecap="round"/><rect x="330" y="640" width="90" height="70" rx="8" fill="#12A57A" stroke="{INK}" stroke-width="4"/>')
+    # game controller
+    s.append(f'<g transform="translate(740 650)" filter="url(#sh)"><path d="M0 30 Q0 0 40 0 H120 Q160 0 160 30 L170 80 Q170 100 150 100 Q130 100 120 80 H40 Q30 100 10 100 Q-10 100 -10 80Z" fill="#3A3F66" stroke="{INK}" stroke-width="5"/><circle cx="125" cy="35" r="9" fill="#F2555A"/><circle cx="145" cy="55" r="9" fill="#FFD84A"/><path d="M30 45 h30 M45 30 v30" stroke="#FFFFFF" stroke-width="8"/></g>')
+    # camera on the floor and hiking boots
+    s.append(f'<g transform="translate(1100 860)" filter="url(#sh)"><rect x="0" y="0" width="140" height="90" rx="14" fill="#2B2F55" stroke="{INK}" stroke-width="5"/><circle cx="70" cy="45" r="28" fill="#9BD0FF" stroke="{INK}" stroke-width="5"/><rect x="16" y="-14" width="36" height="16" rx="4" fill="#2B2F55"/></g>')
+    s.append(f'<g transform="translate(1300 860)"><path d="M0 0 h50 v60 h50 q20 0 20 20 v10 H0Z" fill="#8A5A34" stroke="{INK}" stroke-width="4"/><path d="M130 0 h50 v60 h50 q20 0 20 20 v10 H130Z" fill="#8A5A34" stroke="{INK}" stroke-width="4"/></g>')
+    s.append(bubble(460, 150, '취미가 뭐예요?', 56, 'down-left'))
+    s.append(tag(60, 380, '뜨개질', '#E3F7F0', 50) + tag(960, 400, '게임', '#FFD84A', 50) + tag(1260, 30, '독서', '#FFFFFF', 50))
+    s.append(sparkle(1120, 250, 22) + sparkle(100, 160, 18, '#FF9C9C'))
+    return svg(d, ''.join(s))
+
+def consonants():
+    """Classroom whiteboard showing ㄱ ㅋ ㄲ; one character blows on a fluttering tissue; tags 달 탈 딸; bubble 된소리!"""
+    d = _bg('csbg', '#E3F7F0', '#CDEDE2')
+    s = ['<rect width="1600" height="1000" fill="url(#csbg)"/>', '<rect y="820" width="1600" height="180" fill="#C9A47A"/>']
+    s.append(f'<g filter="url(#sh)"><rect x="380" y="60" width="1100" height="420" rx="18" fill="#FFFFFF" stroke="#8A9AA8" stroke-width="14"/></g>')
+    for i, (j, c) in enumerate([('ㄱ', '#2446F0'), ('ㅋ', '#F2555A'), ('ㄲ', '#12A57A')]):
+        x = 520 + i * 330
+        s.append(f'<text x="{x+80}" y="330" text-anchor="middle" {F} font-size="230" fill="{c}">{j}</text>')
+    s.append(f'<text x="770" y="440" text-anchor="middle" {F} font-size="40" fill="#8A9AA8">예사소리 · 거센소리 · 된소리</text>'.replace('770', '930'))
+    s.append(f'<rect x="1300" y="470" width="120" height="16" rx="6" fill="#8A9AA8"/><rect x="1320" y="456" width="40" height="16" rx="4" fill="#2446F0"/>')
+    s.append(P(cute.boy, 140, 420, 1.05, mood='talk', vest='#F2555A', vest_sh='#C8434A'))
+    # tissue fluttering in front of the mouth
+    s.append(f'<g transform="translate(470 520) rotate(-25)" filter="url(#sh)"><path d="M0 0 Q30 -10 60 0 Q70 40 50 90 Q30 80 10 90 Q-6 40 0 0Z" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/></g>'
+             f'<path d="M430 560 q20 -10 30 -2 M432 590 q24 -8 34 4" stroke="#7FB7FF" stroke-width="5" fill="none" stroke-linecap="round"/>')
+    s.append(P(cute.girl, 1160, 470, 1.0, mood='happy', cardigan='#FFD84A', cardigan_sh='#D9B21E'))
+    s.append(bubble(1020, 520, '된소리!', 54, 'down-right', '#FFF6D1'))
+    # mask prop on the floor
+    s.append(f'<g transform="translate(860 840)" filter="url(#sh)"><ellipse cx="80" cy="60" rx="80" ry="64" fill="#FF9F43" stroke="{INK}" stroke-width="5"/><ellipse cx="50" cy="50" rx="18" ry="12" fill="{INK}"/><ellipse cx="110" cy="50" rx="18" ry="12" fill="{INK}"/><path d="M50 90 q30 20 60 0" stroke="{INK}" stroke-width="6" fill="none"/></g>')
+    s.append(tag(560, 640, '달', '#FFFFFF', 60) + tag(720, 700, '탈', '#FFE9E8', 60) + tag(1040, 820, '딸', '#E4F2FD', 60))
+    s.append(sparkle(320, 120, 24) + sparkle(1540, 600, 18, '#FF9C9C'))
+    return svg(d, ''.join(s))
+
+def autumn_blues():
+    """By a window in autumn: a character with a mug of tea gazing at falling leaves; bubble 나 가을 타나 봐; tags 쓸쓸하다 산책."""
+    R = random.Random(41)
+    d = _bg('abbg', '#F8E4CC', '#EFC9A4')
+    s = ['<rect width="1600" height="1000" fill="url(#abbg)"/>', '<rect y="820" width="1600" height="180" fill="#B47A48"/>']
+    s.append(f'<g filter="url(#sh)"><rect x="760" y="70" width="740" height="560" rx="20" fill="#9EC8EC" stroke="#8A5A34" stroke-width="16"/></g>')
+    s.append('<rect x="776" y="420" width="708" height="194" fill="#C8B080"/>')
+    for cx, cy, r, c in [(950, 330, 140, '#E8434A'), (1300, 300, 170, '#FF9F43')]:
+        s.append(f'<rect x="{cx-14}" y="{cy}" width="28" height="{614-cy}" fill="#6A4A34"/><circle cx="{cx}" cy="{cy}" r="{r}" fill="{c}" stroke="{INK}" stroke-width="5"/>')
+    s.append('<path d="M1130 70 V630 M760 350 H1500" stroke="#8A5A34" stroke-width="12"/>')
+    for _ in range(14):
+        s.append(_leaf(R.uniform(80, 1560), R.uniform(80, 980), R.uniform(14, 22), R.choice(['#E8434A', '#FF9F43', '#FFC93C']), R.uniform(-80, 80)))
+    s.append(P(cute.girl, 360, 430, 1.05, mood='smile', cardigan='#C8A07A', cardigan_sh='#A07E5A', skirt='#5A4A7A', skirt_sh='#45385E'))
+    s.append(f'<g transform="translate(560 690)" filter="url(#sh)"><rect x="0" y="0" width="70" height="80" rx="10" fill="#FFF6E8" stroke="{INK}" stroke-width="4"/><path d="M70 18 q24 0 24 22 q0 22 -24 22" stroke="{INK}" stroke-width="5" fill="none"/><path d="M20 -10 q-10 -20 4 -40 M44 -10 q-10 -20 4 -40" stroke="#C8B49A" stroke-width="5" fill="none"/></g>')
+    s.append(bubble(140, 240, '나 가을 타나 봐', 54, 'down-right'))
+    s.append(tag(860, 700, '쓸쓸하다', '#FFFFFF', 50) + tag(1150, 820, '산책', '#FFF6D1', 50))
+    s.append(sparkle(700, 120, 20) + sparkle(120, 760, 18, '#FF9C9C'))
+    return svg(d, ''.join(s))
+
+def apology():
+    """Park bench at dusk: one character offers an ice cream to a friend who looks away; bubbles 미안해 / 화 풀어; tag 우리 화해하자."""
+    d = _bg('apbg', '#FFD6C8', '#C8B6F0')
+    s = ['<rect width="1600" height="1000" fill="url(#apbg)"/>', '<path d="M0 760 Q800 720 1600 770 L1600 1000 L0 1000Z" fill="#9BC88A"/>']
+    s.append('<circle cx="1360" cy="200" r="90" fill="#FFE6A8" opacity=".9"/>')
+    s.append(P(cute.boy, 420, 410, 1.05, mood='talk', vest='#2446F0', vest_sh='#1632C4'))
+    s.append(f'<g transform="scale(-1 1) translate(-2100 0)">{P(cute.girl, 900, 410, 1.05, mood="smile", cardigan="#FFFFFF", cardigan_sh="#E0DCE8")}</g>')
+    s.append(f'<g filter="url(#sh)"><rect x="320" y="740" width="960" height="34" rx="10" fill="#B47A48" stroke="{INK}" stroke-width="5"/><rect x="380" y="774" width="26" height="120" fill="#5C3A22"/><rect x="1190" y="774" width="26" height="120" fill="#5C3A22"/></g>')
+    s.append(f'<g transform="translate(740 520) rotate(18)" filter="url(#sh)"><path d="M0 40 L30 140 L60 40Z" fill="#E8B070" stroke="{INK}" stroke-width="4"/><circle cx="30" cy="30" r="34" fill="#FFB0C8" stroke="{INK}" stroke-width="4"/></g>')
+    s.append(bubble(150, 220, '미안해', 60, 'down-right') + bubble(240, 380, '화 풀어', 50, 'down-right', '#FFF6D1'))
+    s.append(tag(980, 230, '우리 화해하자', '#FFFFFF', 48))
+    s.append(_heart(1060, 420, 30) + _heart(1120, 360, 20, '#FF9C9C'))
+    s.append(sparkle(700, 100, 22) + sparkle(1520, 600, 18))
+    return svg(d, ''.join(s))
+
+def phone_call():
+    """A character on the phone at home with sound waves; delivery box at the door; bubble 여보세요?; tags 잘 안 들려요 · 들어가세요."""
+    d = _bg('pcbg', '#E4F2FD', '#D0E4F6')
+    s = ['<rect width="1600" height="1000" fill="url(#pcbg)"/>', '<rect y="800" width="1600" height="200" fill="#C89A74"/>']
+    s.append(f'<g filter="url(#sh)"><rect x="1180" y="160" width="300" height="640" rx="10" fill="#B47A48" stroke="{INK}" stroke-width="6"/></g><circle cx="1230" cy="500" r="14" fill="#FFD84A" stroke="{INK}" stroke-width="4"/>')
+    s.append(f'<g transform="translate(1260 690)" filter="url(#sh)"><rect x="0" y="0" width="190" height="120" rx="6" fill="#D8A86E" stroke="{INK}" stroke-width="5"/><rect x="80" y="0" width="30" height="120" fill="#F2E6D0"/></g>')
+    s.append(P(cute.boy, 420, 380, 1.15, mood='talk', vest='#12A57A', vest_sh='#0B7F5D'))
+    s.append(f'<g transform="translate(650 450) rotate(18)" filter="url(#sh)"><rect x="0" y="0" width="64" height="120" rx="14" fill="#2B2F55" stroke="{INK}" stroke-width="5"/><rect x="8" y="12" width="48" height="90" rx="6" fill="#9BD0FF"/></g>')
+    for r in (60, 100, 140):
+        s.append(f'<path d="M{760+r*.2} {440-r*.6} A{r} {r} 0 0 1 {760+r*.2} {440+r*.6}" stroke="#2446F0" stroke-width="8" fill="none" stroke-linecap="round" opacity=".7"/>')
+    s.append(bubble(120, 170, '여보세요?', 66, 'down-right'))
+    s.append(tag(900, 300, '잘 안 들려요', '#FFFFFF', 46) + tag(900, 430, '들어가세요', '#FFD84A', 46))
+    s.append(sparkle(1100, 90, 22) + sparkle(80, 600, 18, '#FF9C9C'))
+    return svg(d, ''.join(s))
+
+def mbti():
+    """Two friends at a café table with type cards; bubble 너 T야?; tags 공감 · 극I · 대문자 E."""
+    d = _bg('mbbg', '#EFEAFF', '#FFE9E8')
+    s = ['<rect width="1600" height="1000" fill="url(#mbbg)"/>', '<rect y="800" width="1600" height="200" fill="#C8A0D8"/>']
+    s.append(P(cute.girl, 260, 400, 1.05, mood='talk', cardigan='#FFD84A', cardigan_sh='#D9B21E'))
+    s.append(P(cute.boy, 1000, 400, 1.05, mood='smile', vest='#4A4A5A', vest_sh='#33333F', glasses=True))
+    s.append(f'<g filter="url(#sh)"><rect x="300" y="760" width="1040" height="40" rx="12" fill="#FFFFFF" stroke="{INK}" stroke-width="5"/></g>')
+    for i, (lt, c) in enumerate([('E', '#F2555A'), ('N', '#7C5CFF'), ('F', '#12A57A'), ('P', '#FF9F43'), ('I', '#2446F0'), ('S', '#FFD84A'), ('T', '#1E8DE0'), ('J', '#F2555A')]):
+        x = 560 + i * 62; r = (-10, 6, -4, 8, -6, 10, -8, 4)[i]
+        s.append(f'<g transform="translate({x} 680) rotate({r})" filter="url(#sh)"><rect x="0" y="0" width="54" height="74" rx="8" fill="{c}" stroke="{INK}" stroke-width="4"/><text x="27" y="52" text-anchor="middle" font-family="Noto Sans CJK KR" font-weight="900" font-size="38" fill="#FFFFFF">{lt}</text></g>')
+    s.append(bubble(140, 200, '너 T야?', 70, 'down-right'))
+    s.append(tag(980, 210, '공감', '#FFFFFF', 54) + tag(1220, 330, '극I', '#E4F2FD', 54) + tag(700, 120, '대문자 E', '#FFF6D1', 48))
+    s.append(_heart(900, 340, 26) + sparkle(1520, 120, 22) + sparkle(80, 620, 18, '#FF9C9C'))
+    return svg(d, ''.join(s))
+
+def address():
+    """Campus hallway: name tags 씨 · 님 · 선배 · 언니 float around; a younger character calls out 언니! to an older one."""
+    d = _bg('adbg', '#FFF4E0', '#E4F2FD')
+    s = ['<rect width="1600" height="1000" fill="url(#adbg)"/>', '<rect y="790" width="1600" height="210" fill="#D8C4A8"/>']
+    for x in range(60, 1600, 260):
+        s.append(f'<g filter="url(#sh)"><rect x="{x}" y="120" width="180" height="300" rx="10" fill="#BFE3FF" stroke="#8A9AA8" stroke-width="8"/></g><path d="M{x+90} 120 V420" stroke="#8A9AA8" stroke-width="6"/>')
+    s.append(P(cute.girl, 300, 400, 1.05, mood='talk', cardigan='#FFB0C8', cardigan_sh='#E890A8'))
+    s.append(P(cute.girl, 960, 400, 1.05, mood='happy', hair='#2C2220', hair_hi='#6A544C', cardigan='#2446F0', cardigan_sh='#1632C4', skirt='#4A4A5A', skirt_sh='#33333F'))
+    s.append(f'<g transform="translate(1200 640)" filter="url(#sh)"><rect x="0" y="0" width="130" height="90" rx="8" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/><rect x="0" y="0" width="130" height="26" rx="8" fill="#F2555A"/></g>')
+    s.append(bubble(180, 220, '언니!', 70, 'down-right'))
+    s.append(tag(760, 160, '민지 씨', '#FFFFFF', 50) + tag(1150, 260, '선생님', '#FFF6D1', 50) + tag(700, 330, '선배', '#E3F7F0', 50) + tag(1280, 470, '님', '#EFEAFF', 56))
+    s.append(sparkle(660, 560, 22) + sparkle(1540, 120, 18, '#FF9C9C'))
+    return svg(d, ''.join(s))
+
+SCENES_1023 = {'topik-ii-reading-strategy': topik_reading, 'past-tense-asseoyo-eosseoyo': past_tense, 'hobby-words-in-korean': hobby,
+               'plain-aspirated-tense-consonants': consonants, 'gaeul-tada-autumn-blues': autumn_blues, 'k-drama-apology-making-up-lines': apology,
+               'korean-phone-call-phrases': phone_call, 'mbti-talk-korean-slang': mbti, 'korean-forms-of-address': address}
+SCENES.update(SCENES_1023)
