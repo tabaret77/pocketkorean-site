@@ -34,7 +34,7 @@ Hãy để ý rằng tiếng Hàn nói mưa và tuyết "đến": **비가 와�
 | 날씨 | nalssi | thời tiết |
 | 일기 예보 | ilgi yebo | dự báo thời tiết |
 | 기온 | gion | nhiệt độ (không khí) |
-| 맑다 | makda | quang đãng, nắng |
+| 맑다 | makta [막따] | quang đãng, nắng |
 | 흐리다 | heurida | nhiều mây, âm u |
 | 구름 | gureum | mây |
 | 해 / 햇빛 | hae / haetbit | mặt trời / ánh nắng |
@@ -47,8 +47,8 @@ Hãy để ý rằng tiếng Hàn nói mưa và tuyết "đến": **비가 와�
 | 천둥 / 번개 | cheondung / beongae | sấm / chớp |
 | 안개 | angae | sương mù |
 | 무지개 | mujigae | cầu vồng |
-| 덥다 | deopda | nóng (thời tiết) |
-| 춥다 | chupda | lạnh (thời tiết) |
+| 덥다 | deopta [덥따] | nóng (thời tiết) |
+| 춥다 | chupta [춥따] | lạnh (thời tiết) |
 | 따뜻하다 | ttatteutada | ấm áp |
 | 시원하다 | siwonhada | mát mẻ, dễ chịu |
 | 쌀쌀하다 | ssalssalhada | se lạnh |
@@ -70,8 +70,8 @@ Bụi mịn là một phần thực sự của đời sống hằng ngày ở H�
 **Mùa hè (여름, yeoreum)**
 
 - **너무 더워요!** (Neomu deowoyo!) – Nóng quá!
-- **장마가 시작됐어요.** (Jangmaga sijakdwaesseoyo.) – Mùa mưa bắt đầu rồi.
-- **갑자기 소나기가 왔어요.** (Gapjagi sonagiga wasseoyo.) – Tự nhiên có một trận mưa rào ập đến.
+- **장마가 시작됐어요.** (Jangmaga sijaktwaesseoyo. [장마가 시작뙈써요.]) – Mùa mưa bắt đầu rồi.
+- **갑자기 소나기가 왔어요.** (Gapjjagi sonagiga wasseoyo. [갑짜기 소나기가 와써요.]) – Tự nhiên có một trận mưa rào ập đến.
 
 **장마** là mùa mưa gió mùa vào mùa hè, thường bắt đầu vào cuối tháng 6. Hãy chuẩn bị cho những ngày nóng nực, oi bức, nên câu **습해요** (seupaeyo) – trời oi quá – sẽ được dùng rất nhiều.
 

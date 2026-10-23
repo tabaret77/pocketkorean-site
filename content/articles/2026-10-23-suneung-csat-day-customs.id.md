@@ -38,9 +38,9 @@ Kalau kamu bepergian pada hari itu, bersiaplah menghadapi jalanan yang sepi di p
 
 ## Hadiah lengket dan sup yang licin
 
-Banyak kebiasaan dibangun dari permainan kata. Lulus ujian masuk dalam bahasa Korea berarti "menempel" ke sebuah universitas: **붙다** (butda). Karena itu, hadiah keberuntungan klasiknya serba lengket: **[엿](/id/dictionary/?q=엿)** (yeot), permen gula tradisional yang kenyal, dan **[찹쌀떡](/id/dictionary/?q=찹쌀떡)** (chapssaltteok), kue beras ketan. Sebagian orang memberi garpu, untuk "menusuk/memilih" jawaban yang benar, atau tisu, agar soal-soalnya bisa "diselesaikan" dengan lancar. Kini cokelat, kartu hadiah, dan vitamin juga sama populernya.
+Banyak kebiasaan dibangun dari permainan kata. Lulus ujian masuk dalam bahasa Korea berarti "menempel" ke sebuah universitas: **붙다** (butta [붇따]). Karena itu, hadiah keberuntungan klasiknya serba lengket: **[엿](/id/dictionary/?q=엿)** (yeot), permen gula tradisional yang kenyal, dan **[찹쌀떡](/id/dictionary/?q=찹쌀떡)** (chapssaltteok), kue beras ketan. Sebagian orang memberi garpu, untuk "menusuk/memilih" jawaban yang benar, atau tisu, agar soal-soalnya bisa "diselesaikan" dengan lancar. Kini cokelat, kartu hadiah, dan vitamin juga sama populernya.
 
-Dengan alasan yang sama, para siswa menghindari **[미역국](/id/dictionary/?q=미역국)** (miyeokguk), sup rumput laut, pada hari ujian. Rumput lautnya yang licin mengisyaratkan tergelincir, alias gagal.
+Dengan alasan yang sama, para siswa menghindari **[미역국](/id/dictionary/?q=미역국)** (miyeokkuk [미역꾹]), sup rumput laut, pada hari ujian. Rumput lautnya yang licin mengisyaratkan tergelincir, alias gagal.
 
 Pada pagi harinya, adik-adik kelas berkumpul di gerbang sekolah dengan spanduk dan yel-yel untuk **[응원](/id/dictionary/?q=응원)** (eungwon), menyemangati, kakak-kakak kelas mereka, sementara banyak orang tua pergi ke kuil dan gereja untuk berdoa selama jam ujian.
 
@@ -51,12 +51,12 @@ Pada pagi harinya, adik-adik kelas berkumpul di gerbang sekolah dengan spanduk d
 | 수능 | suneung | ujian masuk perguruan tinggi |
 | 수험생 | suheomsaeng | peserta ujian |
 | [시험](/id/dictionary/?q=시험) | siheom | ujian |
-| 붙다 | butda | menempel; lulus ujian |
+| 붙다 | butta [붇따] | menempel; lulus ujian |
 | [떨어지다](/id/dictionary/?q=떨어지다) | tteoreojida | jatuh; gagal ujian |
 | 엿 | yeot | permen gula tradisional |
 | 찹쌀떡 | chapssaltteok | kue beras ketan |
 | 응원 | eungwon | dukungan, menyemangati |
-| 듣기 평가 | deutgi pyeongga | tes mendengarkan |
+| 듣기 평가 | deutki pyeongga [듣끼 평가] | tes mendengarkan |
 
 **시험 잘 보세요!** (siheom jal boseyo!) – Semoga sukses ujiannya! (secara harfiah "lihatlah ujiannya dengan baik"). Kepada teman atau siswa yang lebih muda, ucapkan **시험 잘 봐!** (siheom jal bwa!). Ucapan favorit lainnya: **수능 대박 나세요!** (suneung daebak naseyo!), "Semoga suneung-nya dapat jackpot!"
 

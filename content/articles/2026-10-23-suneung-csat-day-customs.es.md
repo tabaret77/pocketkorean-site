@@ -38,9 +38,9 @@ Si viajas ese día, espera calles tranquilas por la mañana y un posible cambio 
 
 ## Regalos pegajosos y sopa resbalosa
 
-Muchas costumbres se basan en juegos de palabras. Aprobar un examen de admisión en coreano es "pegarse" a una universidad: **붙다** (butda). Por eso los regalos clásicos de buena suerte son pegajosos: el **[엿](/es/dictionary/?q=엿)** (yeot), un caramelo tradicional masticable, y el **[찹쌀떡](/es/dictionary/?q=찹쌀떡)** (chapssaltteok), pastelitos de arroz glutinoso. Hay quien regala un tenedor, para "pinchar" la respuesta correcta, o pañuelos desechables, para "resolver" las preguntas sin problemas. Hoy en día el chocolate, las tarjetas de regalo y las vitaminas son igual de populares.
+Muchas costumbres se basan en juegos de palabras. Aprobar un examen de admisión en coreano es "pegarse" a una universidad: **붙다** (butta [붇따]). Por eso los regalos clásicos de buena suerte son pegajosos: el **[엿](/es/dictionary/?q=엿)** (yeot), un caramelo tradicional masticable, y el **[찹쌀떡](/es/dictionary/?q=찹쌀떡)** (chapssaltteok), pastelitos de arroz glutinoso. Hay quien regala un tenedor, para "pinchar" la respuesta correcta, o pañuelos desechables, para "resolver" las preguntas sin problemas. Hoy en día el chocolate, las tarjetas de regalo y las vitaminas son igual de populares.
 
-Por la misma razón, los estudiantes evitan el **[미역국](/es/dictionary/?q=미역국)** (miyeokguk), sopa de algas, el día del examen. Sus algas resbalosas sugieren resbalar, es decir, reprobar.
+Por la misma razón, los estudiantes evitan el **[미역국](/es/dictionary/?q=미역국)** (miyeokkuk [미역꾹]), sopa de algas, el día del examen. Sus algas resbalosas sugieren resbalar, es decir, reprobar.
 
 Esa misma mañana, los estudiantes más jóvenes se reúnen en las puertas de las escuelas con pancartas y porras para **[응원](/es/dictionary/?q=응원)** (eungwon), animar, a sus compañeros mayores, mientras muchos padres van a templos e iglesias a rezar durante las horas del examen.
 
@@ -51,12 +51,12 @@ Esa misma mañana, los estudiantes más jóvenes se reúnen en las puertas de la
 | 수능 | suneung | examen de admisión a la universidad |
 | 수험생 | suheomsaeng | aspirante, quien presenta el examen |
 | [시험](/es/dictionary/?q=시험) | siheom | examen |
-| 붙다 | butda | pegarse; aprobar un examen |
+| 붙다 | butta [붇따] | pegarse; aprobar un examen |
 | [떨어지다](/es/dictionary/?q=떨어지다) | tteoreojida | caer; reprobar un examen |
 | 엿 | yeot | caramelo tradicional |
 | 찹쌀떡 | chapssaltteok | pastelito de arroz glutinoso |
 | 응원 | eungwon | porras, apoyo |
-| 듣기 평가 | deutgi pyeongga | prueba de comprensión auditiva |
+| 듣기 평가 | deutki pyeongga [듣끼 평가] | prueba de comprensión auditiva |
 
 **시험 잘 보세요!** (siheom jal boseyo!): ¡Suerte en tu examen! (literalmente, "mira bien el examen"). A un amigo o a un estudiante más joven, dile **시험 잘 봐!** (siheom jal bwa!). Otra favorita: **수능 대박 나세요!** (suneung daebak naseyo!), "¡Que te saques el premio gordo en el suneung!".
 

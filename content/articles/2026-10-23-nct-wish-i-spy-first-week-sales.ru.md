@@ -54,6 +54,6 @@ NCT WISH дебютировали в 2024 году как саб-юнит NCT и
 | 2관왕 | igwanwang | двойная корона |
 | 기록 | girok | рекорд |
 
-Конструкция для сравнения цифр: **지난 앨범보다 적게 팔렸어요** (jinan aelbeomboda jeokge pallyeosseoyo) — «Продано меньше, чем у прошлого альбома». Существительное + **보다** значит «чем»; замените **적게** (меньше) на **많이** (больше), чтобы сказать обратное: **지난 앨범보다 많이 팔렸어요**.
+Конструкция для сравнения цифр: **지난 앨범보다 적게 팔렸어요** (jinan aelbeomboda jeokke pallyeosseoyo [지난 앨범보다 적께 팔려써요]) — «Продано меньше, чем у прошлого альбома». Существительное + **보다** значит «чем»; замените **적게** (меньше) на **많이** (больше), чтобы сказать обратное: **지난 앨범보다 많이 팔렸어요**.
 
 Источники: [Sports Kyunghyang – продажи NCT WISH за первую неделю, 20 окт.](https://sports.khan.co.kr/en/article/202610200819007/), [The Korea Times – NCT WISH выпустили «I SPY», 12 окт.](https://www.koreatimes.co.kr/entertainment/k-pop/20261012/nct-wish-drops-new-mini-album-i-spy-ahead-of-landmark-gocheok-sky-dome-concert), [SM Entertainment – клип «I SPY»](https://www.youtube.com/watch?v=xIlFjHHUfI0)

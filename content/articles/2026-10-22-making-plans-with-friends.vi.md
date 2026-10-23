@@ -63,7 +63,7 @@ Từ chối cần tế nhị hơn một chút. Người Hàn hiếm khi từ ch�
 
 ## Kế hoạch không phải là kế hoạch
 
-Có một câu cần lưu ý: **언제 밥 한번 먹자** (Eonje bap hanbeon meokja) – "Hôm nào đi ăn bữa cơm nhé." Đây là một lời chào tạm biệt thân thiện, khá giống câu "Hôm nào đi cà phê nhé" trong tiếng Việt, và thường không phải là lời mời thật. Nếu bạn muốn nó thành hiện thực, hãy hỏi tiếp một ngày cụ thể: **그럼 다음 주 금요일 어때?** (Geureom daeum ju geumyoil eottae?) – Vậy thứ Sáu tuần sau thì sao?
+Có một câu cần lưu ý: **언제 밥 한번 먹자** (Eonje bap hanbeon meokjja [언제 밥 한번 먹짜]) – "Hôm nào đi ăn bữa cơm nhé." Đây là một lời chào tạm biệt thân thiện, khá giống câu "Hôm nào đi cà phê nhé" trong tiếng Việt, và thường không phải là lời mời thật. Nếu bạn muốn nó thành hiện thực, hãy hỏi tiếp một ngày cụ thể: **그럼 다음 주 금요일 어때?** (Geureom daeum ju geumyoil eottae?) – Vậy thứ Sáu tuần sau thì sao?
 
 ## Tiếng Hàn bạn có thể dùng
 

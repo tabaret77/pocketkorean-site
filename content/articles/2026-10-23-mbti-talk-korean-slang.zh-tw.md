@@ -65,6 +65,6 @@ MBTI 話題很有趣，但不是每個人都會加入。在同一篇韓聯社報
 | 극I | geugai | 極度內向的人 |
 | 저 I예요 | jeo aiyeyo | 我是 I 人 |
 
-實用句型：**저 극I라서 주말엔 집에 있어요.**（Jeo geugairaseo jumaren jibe isseoyo.）——我是超級 I 人，所以週末都待在家。**-(이)라서** 用來說明原因：可以換成任何名詞，例如 **학생이라서**（haksaengiraseo）——因為我是學生。
+實用句型：**저 극I라서 주말엔 집에 있어요.**（Jeo geugairaseo jumaren jibe isseoyo.）——我是超級 I 人，所以週末都待在家。**-(이)라서** 用來說明原因：可以換成任何名詞，例如 **학생이라서**（hakssaengiraseo [학쌩이라서]）——因為我是學生。
 
 資料來源：[韓聯社 via 韓民族中心 –「MBTI가 어떻게 되세요?」（2026年10月20日）](https://www.koreancenter.or.kr/news/articleView.html?idxno=1426956)、[《Hankyoreh 21》via Daum – 為什麼 T 成了 MBTI 裡的問題字母](https://v.daum.net/v/20230815234812392)、[The Korea Herald via Asia News Network –「你是 T 嗎？」成了新的損人說法](https://asianews.network/?p=175825)、[Yugacrew wiki – 극I](https://www.yugacrew.com/yugawiki/%EA%B7%B9I)

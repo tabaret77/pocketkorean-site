@@ -33,7 +33,7 @@ Serial ini disutradarai Park Soo-won, yang dikenal lewat *Work Later, Drink Now*
 
 Judul Koreanya adalah **나를 충전해줘** (nareul chungjeonhaejwo), "Isi ulang dayaku." [충전](/id/dictionary/?q=충전) (chungjeon) adalah kata sehari-hari untuk mengisi daya atau saldo sesuatu: ponselmu, kartu transportasimu, baterai. Tambahkan **하다** dan kamu mendapat kata kerja **충전하다** (chungjeonhada), mengisi daya. Kamu akan terus mendengarnya di Korea:
 
-- **배터리가 없어요.** (Baeteoriga eopseoyo.) – Baterai saya habis.
+- **배터리가 없어요.** (Baeteoriga eopsseoyo. [배터리가 업써요.]) – Baterai saya habis.
 - **휴대폰 충전 좀 해도 돼요?** (Hyudaepon chungjeon jom haedo dwaeyo?) – Boleh saya cas ponsel saya?
 
 Orang Korea juga memakai 충전 untuk manusia. Setelah liburan atau makan enak, seseorang mungkin bilang energinya sudah "terisi ulang". Itulah makna ganda dalam judulnya: seorang pria yang jantungnya butuh baterai sungguhan, dan hati yang diisi oleh seseorang.
@@ -52,7 +52,7 @@ Kata berguna lain dari alur ceritanya adalah [심장](/id/dictionary/?q=심장) 
 | 전기 | jeongi | listrik |
 | 재벌 3세 | jaebeol samse | pewaris chaebol generasi ketiga |
 | 계약 | gyeyak | kontrak, kesepakatan |
-| 웹소설 | wepsoseol | novel web |
+| 웹소설 | wepssoseol [웹쏘설] | novel web |
 | 마음 | maeum | hati, perasaan |
 
 Pola permintaan langsung dari judulnya: **충전해 줘** (chungjeonhae jwo) – "Tolong isi dayanya." Batang kata kerja + **-아/어 줘** meminta seseorang melakukan sesuatu untukmu dalam ragam santai; kepada orang yang tidak dikenal, buat lebih sopan dengan **-아/어 주세요**, seperti dalam **충전해 주세요** (chungjeonhae juseyo).

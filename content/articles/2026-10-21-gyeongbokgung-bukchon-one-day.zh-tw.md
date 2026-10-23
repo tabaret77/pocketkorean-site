@@ -72,7 +72,7 @@ draft: false
 | [한옥](/zh-tw/dictionary/?q=한옥) | hanok | 韓屋（韓國傳統房屋） |
 | [한복](/zh-tw/dictionary/?q=한복) | hanbok | 韓服（韓國傳統服裝） |
 | 매표소 | maepyoso | 售票處 |
-| 입장료 | ipjangnyo | 門票、入場費 |
+| 입장료 | ipjjangnyo [입짱뇨] | 門票、入場費 |
 | 몇 시까지 해요? | myeot sikkaji haeyo? | 營業到幾點？（禮貌） |
 | 사진 찍어도 돼요? | sajin jjigeodo dwaeyo? | 可以拍照嗎？（禮貌） |
 | 조용히 해 주세요 | joyonghi hae juseyo | 請保持安靜 |

@@ -49,6 +49,6 @@ Colours are easy to learn because many are borrowed: **민트** (minteu), **레�
 | 검색량 | geomsaengnyang | search volume |
 | 매출 | maechul | sales (revenue) |
 
-A pattern for shopping: **다른 색깔도 있어요?** (Dareun saekkkaldo isseoyo?) – "Do you have it in other colours too?" Noun + **도** means "also, too"; you can name the colour instead: **보라색도 있어요?** (Borasaekdo isseoyo?) – "Do you have it in purple too?"
+A pattern for shopping: **다른 색깔도 있어요?** (Dareun saekkkaldo isseoyo?) – "Do you have it in other colours too?" Noun + **도** means "also, too"; you can name the colour instead: **보라색도 있어요?** (Borasaekto isseoyo? [보라색또 이써요?]) – "Do you have it in purple too?"
 
 Sources: [Segye Ilbo – colour is in for outerwear this year, Oct. 23 (Korean)](https://www.segye.com/newsView/20261022518265), [Hankyung – "I'm not wearing a black puffer this year", Oct. 11 (Korean)](https://www.hankyung.com/article/202610080733g)

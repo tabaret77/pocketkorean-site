@@ -30,7 +30,7 @@ Như phần lớn lời thoại giữa các nhân vật thân thiết trong phim
 
 ## 4. 아직도 화났어? – Vẫn còn giận à?
 
-**아직도 화났어?** (Ajikdo hwanasseo?) để kiểm tra xem cơn bão đã qua chưa. **화나다** (hwanada) nghĩa là nổi giận, và dạng quá khứ 화났어 diễn tả trạng thái đang giận ở hiện tại. Câu trả lời dỗi hờn thường là **됐어** (dwaesseo) – "thôi khỏi" – nghĩa là lời xin lỗi cần cố gắng thêm.
+**아직도 화났어?** (Ajikto hwanasseo? [아직또 화나써?]) để kiểm tra xem cơn bão đã qua chưa. **화나다** (hwanada) nghĩa là nổi giận, và dạng quá khứ 화났어 diễn tả trạng thái đang giận ở hiện tại. Câu trả lời dỗi hờn thường là **됐어** (dwaesseo) – "thôi khỏi" – nghĩa là lời xin lỗi cần cố gắng thêm.
 
 ## 5. 화 풀어 – Đừng giận nữa mà
 
@@ -64,7 +64,7 @@ Một lời xin lỗi thật ở Hàn Quốc thường phụ thuộc vào thứ 
 | 죄송합니다 | joesonghamnida | Xin lỗi (trang trọng) |
 | 내가 잘못했어 | naega jalmotaesseo | Là lỗi của mình |
 | 내 말 좀 들어 봐 | nae mal jom deureo bwa | Nghe mình nói đã |
-| 아직도 화났어? | ajikdo hwanasseo? | Vẫn còn giận à? |
+| 아직도 화났어? | ajikto hwanasseo? [아직또 화나써?] | Vẫn còn giận à? |
 | 화 풀어 | hwa pureo | Đừng giận nữa mà |
 | 다시는 안 그럴게 | dasineun an geureolge | Lần sau không vậy nữa |
 | 한 번만 봐줘 | han beonman bwajwo | Bỏ qua cho lần này thôi |

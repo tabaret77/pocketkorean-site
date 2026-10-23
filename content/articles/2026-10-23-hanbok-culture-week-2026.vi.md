@@ -23,7 +23,7 @@ Các giải thưởng được trao cho những người gìn giữ hanbok. Giá
 
 ## Bạn có thể làm gì trong tuần này
 
-- **Cung Gyeongbokgung**: triển lãm hanbok truyền thống và chiến dịch hướng dẫn cách mặc hanbok đúng – **한복 바르게 입기** (hanbok bareuge ipgi).
+- **Cung Gyeongbokgung**: triển lãm hanbok truyền thống và chiến dịch hướng dẫn cách mặc hanbok đúng – **한복 바르게 입기** (hanbok bareuge ipki [한복 바르게 입끼]).
 - **Làng Hanok Namsangol**: lễ nhập học "tiểu nho sinh" dành cho trẻ em, dựa trên nghi lễ xưa khi thái tử nhập học.
 - **Jeonju và Nam Jeolla**: làm phụ kiện hanbok, tiệc hanbok và workshop nhuộm màu tự nhiên.
 - **Nước ngoài**: các buổi trải nghiệm mặc hanbok và lớp học lễ nghi ở Canada, Nhật Bản và Đan Mạch.
@@ -47,7 +47,7 @@ Nếu bạn ở Seoul cuối tuần này, hai ngày cuối của tuần lễ là
 | 문화주간 | munhwa jugan | tuần lễ văn hóa |
 | 입다 | ipta [입따] | mặc (quần áo) |
 | 할인 | harin | giảm giá |
-| 입장료 | ipjangnyo | phí vào cửa |
+| 입장료 | ipjjangnyo [입짱뇨] | phí vào cửa |
 | 박물관 | bangmulgwan | bảo tàng |
 | 천연 염색 | cheonyeon yeomsaek | nhuộm màu tự nhiên |
 | 교복 | gyobok | đồng phục học sinh |

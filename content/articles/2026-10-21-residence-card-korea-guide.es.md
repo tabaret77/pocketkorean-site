@@ -33,7 +33,7 @@ Si no ves horarios libres, vuelve a revisar temprano por la mañana; las citas c
 
 La lista exacta depende de tu visa, pero la mayoría de las personas necesitan:
 
-- **Pasaporte**, **여권** (yeokgwon), y una copia de la página de la foto y de la página de la visa
+- **Pasaporte**, **여권** (yeokkwon [여꿘]), y una copia de la página de la foto y de la página de la visa
 - **Formulario de solicitud**, **신청서** (sincheongseo), el "formulario de solicitud integrado", que puedes descargar de HiKorea o pedir en la oficina
 - **Una foto a color** tomada en los últimos seis meses, tamaño pasaporte, con fondo blanco
 - **Comprobante de domicilio**: un contrato de arrendamiento, un certificado de residencia estudiantil o algo similar
@@ -45,7 +45,7 @@ Lleva una copia extra de todo. Cada oficina es distinta, y tener copias de sobra
 
 ## Paso 3: en la oficina de inmigración
 
-Llega un poco antes, toma un número o muestra tu reserva y espera a que te llamen. En la ventanilla, el funcionario revisa tus papeles, toma tus **지문** (jimun), huellas dactilares, y te da un comprobante. Guarda bien este comprobante, el **접수증** (jeopsujeung); lo necesitarás para recoger la tarjeta.
+Llega un poco antes, toma un número o muestra tu reserva y espera a que te llamen. En la ventanilla, el funcionario revisa tus papeles, toma tus **지문** (jimun), huellas dactilares, y te da un comprobante. Guarda bien este comprobante, el **접수증** (jeopssujeung [접쑤증]); lo necesitarás para recoger la tarjeta.
 
 Frases útiles en la ventanilla:
 
@@ -71,10 +71,10 @@ Te pedirán tu número de registro de 13 dígitos constantemente, desde las apli
 |---|---|---|
 | [외국인등록증](/es/dictionary/?q=외국인등록증) | oegugin deungnokjeung | tarjeta de residencia |
 | [예약](/es/dictionary/?q=예약) | yeyak | reserva, cita |
-| 출입국 | churipguk | inmigración (entrada y salida) |
+| 출입국 | churipkuk [추립꾹] | inmigración (entrada y salida) |
 | [수수료](/es/dictionary/?q=수수료) | susuryo | tarifa |
 | 체류지 변경 신고 | cheryuji byeongyeong singo | notificación de cambio de domicilio |
-| 접수증 | jeopsujeung | comprobante de solicitud |
+| 접수증 | jeopssujeung [접쑤증] | comprobante de solicitud |
 | 언제 받을 수 있어요? | eonje badeul su isseoyo? | ¿Cuándo puedo recogerla? (cortés) |
 
 La tarjeta requiere un poco de paciencia, pero en cuanto la tengas en la cartera, el resto de la vida en Corea se vuelve mucho más fácil.

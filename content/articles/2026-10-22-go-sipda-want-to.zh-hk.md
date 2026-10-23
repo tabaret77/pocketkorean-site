@@ -12,7 +12,7 @@ cover: /media/covers/go-sipda-want-to-s1.jpg
 draft: false
 ---
 
-當你學會說自己做甚麼之後，下一步就是說你*想*做甚麼。在韓語中，這個任務由 **-고 싶다**（-go sipda）負責。把它接在任何動作動詞後面，就有了「想……」的意思：**가고 싶어요**（gago sipeoyo）——我想去。這是韓語中最簡單的句型之一。
+當你學會說自己做甚麼之後，下一步就是說你*想*做甚麼。在韓語中，這個任務由 **-고 싶다**（-go sipta [고 십따]）負責。把它接在任何動作動詞後面，就有了「想……」的意思：**가고 싶어요**（gago sipeoyo）——我想去。這是韓語中最簡單的句型之一。
 
 ## 怎樣構成
 
@@ -21,12 +21,12 @@ draft: false
 | 字典形 | 詞幹 | + -고 싶어요 | 意思 |
 |---|---|---|---|
 | [가다](/zh-hk/dictionary/?q=가다) (gada) | 가- | 가고 싶어요 (gago sipeoyo) | 我想去 |
-| [먹다](/zh-hk/dictionary/?q=먹다) (meokda) | 먹- | 먹고 싶어요 (meokgo sipeoyo) | 我想吃 |
+| [먹다](/zh-hk/dictionary/?q=먹다) (meokta [먹따]) | 먹- | 먹고 싶어요 (meokko sipeoyo [먹꼬 시퍼요]) | 我想吃 |
 | [보다](/zh-hk/dictionary/?q=보다) (boda) | 보- | 보고 싶어요 (bogo sipeoyo) | 我想看／我想你 |
 | 마시다 (masida) | 마시- | 마시고 싶어요 (masigo sipeoyo) | 我想喝 |
 | 쉬다 (swida) | 쉬- | 쉬고 싶어요 (swigo sipeoyo) | 我想休息 |
 | 살다 (salda) | 살- | 살고 싶어요 (salgo sipeoyo) | 我想住／我想生活 |
-| 듣다 (deutda) | 듣- | 듣고 싶어요 (deutgo sipeoyo) | 我想聽 |
+| 듣다 (deutta [듣따]) | 듣- | 듣고 싶어요 (deutko sipeoyo [듣꼬 시퍼요]) | 我想聽 |
 | 공부하다 (gongbuhada) | 공부하- | 공부하고 싶어요 (gongbuhago sipeoyo) | 我想讀書 |
 
 留意即使像 **듣다** 這樣的不規則動詞，在這裏也保持規則：因為 **-고** 以子音開頭，詞幹不會改變。
@@ -48,7 +48,7 @@ draft: false
 要說*不*想，有兩個選擇：
 
 - **안 가고 싶어요.**（An gago sipeoyo.）——我不想去。（簡短，聽起來較隨意）
-- **가고 싶지 않아요.**（Gago sipji anayo.）——我不想去。（語氣稍為柔和）
+- **가고 싶지 않아요.**（Gago sipjji anayo. [가고 십찌 아나요.]）——我不想去。（語氣稍為柔和）
 
 過去式只需要改變 **싶다**：**가고 싶었어요**（gago sipeosseoyo）——我（當時）想去。**정말 보고 싶었어요!**（Jeongmal bogo sipeosseoyo!）——我真的很想你！
 
@@ -62,7 +62,7 @@ draft: false
 
 ## 常見錯誤
 
-**-고 싶다** 接在動詞後面，不能接名詞。中文可以說「我想要咖啡」，但韓語不能說 커피 싶어요——這是錯的。要加上動詞：**커피 마시고 싶어요**（keopi masigo sipeoyo）——我想喝咖啡。想要一樣東西，就用 **갖고 싶어요**（gatgo sipeoyo）——我想擁有它：**새 가방을 갖고 싶어요.**——我想要一個新袋。
+**-고 싶다** 接在動詞後面，不能接名詞。中文可以說「我想要咖啡」，但韓語不能說 커피 싶어요——這是錯的。要加上動詞：**커피 마시고 싶어요**（keopi masigo sipeoyo）——我想喝咖啡。想要一樣東西，就用 **갖고 싶어요**（gatko sipeoyo [갇꼬 시퍼요]）——我想擁有它：**새 가방을 갖고 싶어요.**——我想要一個新袋。
 
 ## 小練習
 
@@ -74,7 +74,7 @@ draft: false
 4. 읽다（讀）——否定
 5. 배우다（學）——過去式
 
-**答案：** 1. 자고 싶어요（jago sipeoyo） 2. 만나고 싶어요（mannago sipeoyo） 3. 여행하고 싶어요（yeohaenghago sipeoyo） 4. 읽고 싶지 않아요（ilkko sipji anayo） 5. 배우고 싶었어요（baeugo sipeosseoyo）
+**答案：** 1. 자고 싶어요（jago sipeoyo） 2. 만나고 싶어요（mannago sipeoyo） 3. 여행하고 싶어요（yeohaenghago sipeoyo） 4. 읽고 싶지 않아요（ilkko sipjji anayo [일꼬 십찌 아나요]） 5. 배우고 싶었어요（baeugo sipeosseoyo）
 
 ## 實用韓語
 
@@ -82,10 +82,10 @@ draft: false
 |---|---|---|
 | 뭐 하고 싶어요? | mwo hago sipeoyo? | 你想做甚麼？ |
 | 가고 싶어요 | gago sipeoyo | 我想去 |
-| 먹고 싶어요 | meokgo sipeoyo | 我想吃 |
+| 먹고 싶어요 | meokko sipeoyo [먹꼬 시퍼요] | 我想吃 |
 | 보고 싶어요 | bogo sipeoyo | 我想你 |
 | 쉬고 싶어요 | swigo sipeoyo | 我想休息 |
-| 가고 싶지 않아요 | gago sipji anayo | 我不想去 |
-| 갖고 싶어요 | gatgo sipeoyo | 我想擁有它 |
+| 가고 싶지 않아요 | gago sipjji anayo [가고 십찌 아나요] | 我不想去 |
+| 갖고 싶어요 | gatko sipeoyo [갇꼬 시퍼요] | 我想擁有它 |
 
 **저는 한국에서 ___고 싶어요.**（Jeoneun hangugeseo ___go sipeoyo.）——我想在韓國___。今天就用五個不同的動詞填空吧。

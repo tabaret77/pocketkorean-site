@@ -11,7 +11,7 @@ cover: /media/covers/hobby-words-in-korean-s1.jpg
 draft: false
 ---
 
-Sooner or later, at a language exchange, a first day at work or a blind date in a K-drama, someone will ask you **취미가 뭐예요?** (Chwimiga mwoyeyo?) – What's your hobby? It's one of the most common small-talk questions in Korean. **[취미](/en/dictionary/?q=취미)** (chwimi) means hobby, and the cooler weather of late autumn is a good time to pick one up. Many people call autumn **독서의 계절** (dokseoui gyejeol) – the season of reading – because the clear, cool days make it easy to settle down with a book. Here are the words and patterns you need to talk about what you do for fun.
+Sooner or later, at a language exchange, a first day at work or a blind date in a K-drama, someone will ask you **취미가 뭐예요?** (Chwimiga mwoyeyo?) – What's your hobby? It's one of the most common small-talk questions in Korean. **[취미](/en/dictionary/?q=취미)** (chwimi) means hobby, and the cooler weather of late autumn is a good time to pick one up. Many people call autumn **독서의 계절** (doksseoui gyejeol [독써의 계절]) – the season of reading – because the clear, cool days make it easy to settle down with a book. Here are the words and patterns you need to talk about what you do for fun.
 
 ## 24 hobby words
 
@@ -20,7 +20,7 @@ Many hobbies are nouns that become verbs with **하다** (hada) – to do. Other
 | Korean | Romanization | Meaning |
 |---|---|---|
 | 등산 | deungsan | hiking (in the mountains) |
-| 독서 | dokseo | reading |
+| 독서 | doksseo [독써] | reading |
 | 요리 | yori | cooking |
 | 운동 | undong | exercise, sport |
 | 헬스 | helseu | working out at the gym |
@@ -29,18 +29,18 @@ Many hobbies are nouns that become verbs with **하다** (hada) – to do. Other
 | 산책 | sanchaek | going for a walk |
 | 자전거 타기 | jajeongeo tagi | cycling |
 | 캠핑 | kaemping | camping |
-| 낚시 | naksi | fishing |
+| 낚시 | nakssi [낙씨] | fishing |
 | 여행 | yeohaeng | travel |
-| 사진 찍기 | sajin jjikgi | taking photos |
+| 사진 찍기 | sajin jjikki [사진 찍끼] | taking photos |
 | 그림 그리기 | geurim geurigi | drawing, painting |
 | 뜨개질 | tteugaejil | knitting |
 | 베이킹 | beiking | baking |
 | 게임 | geim | (video) games |
 | 영화 보기 | yeonghwa bogi | watching films |
-| 음악 듣기 | eumak deutgi | listening to music |
+| 음악 듣기 | eumak deutki [으막 듣끼] | listening to music |
 | 노래 부르기 | norae bureugi | singing |
 | 춤 | chum | dancing |
-| 악기 연주 | akgi yeonju | playing an instrument |
+| 악기 연주 | akki yeonju [악끼 연주] | playing an instrument |
 | 피아노를 치다 | pianoreul chida | to play the piano |
 | 기타를 치다 | gitareul chida | to play the guitar |
 
@@ -55,16 +55,16 @@ Instruments you strike or pluck, like the piano and guitar, use **치다** (chid
 
 For an action, turn the verb into a noun with **-기**. Take the stem and add **-기**: **읽다** → **읽기**, **찍다** → **찍기**.
 
-- **제 취미는 책 읽기예요.** (Je chwimineun chaek ilgiyeyo.) – My hobby is reading books.
-- **제 취미는 사진 찍기예요.** (Je chwimineun sajin jjikgiyeyo.) – My hobby is taking photos.
+- **제 취미는 책 읽기예요.** (Je chwimineun chaek ilkkiyeyo. [책 일끼예요.]) – My hobby is reading books.
+- **제 취미는 사진 찍기예요.** (Je chwimineun sajin jjikkiyeyo. [제 취미는 사진 찍끼예요.]) – My hobby is taking photos.
 
 **2. -는 것을 좋아해요.** To say "I like doing …", add **-는 것을 좋아해요** to the verb stem. In speech, **것을** usually shortens to **걸**.
 
 | Verb | + -는 것을 좋아해요 | Meaning |
 |---|---|---|
 | 요리하다 (yorihada) | 요리하는 것을 좋아해요 (yorihaneun geoseul joahaeyo) | I like cooking |
-| [걷다](/en/dictionary/?q=걷다) (geotda) | 걷는 걸 좋아해요 (geonneun geol joahaeyo) | I like walking |
-| 듣다 (deutda) | 음악 듣는 걸 좋아해요 (eumak deunneun geol joahaeyo) | I like listening to music |
+| [걷다](/en/dictionary/?q=걷다) (geotta [걷따]) | 걷는 걸 좋아해요 (geonneun geol joahaeyo) | I like walking |
+| 듣다 (deutta [듣따]) | 음악 듣는 걸 좋아해요 (eumak deunneun geol joahaeyo) | I like listening to music |
 | 만들다 (mandeulda) | 만드는 걸 좋아해요 (mandeuneun geol joahaeyo) | I like making things |
 | 그리다 (geurida) | 그림 그리는 걸 좋아해요 (geurim geurineun geol joahaeyo) | I like drawing |
 
@@ -90,7 +90,7 @@ And to answer how often: **매일** (maeil) – every day, **일주일에 두 �
 | Korean | Romanization | Meaning |
 |---|---|---|
 | 취미가 뭐예요? | chwimiga mwoyeyo? | What's your hobby? |
-| 제 취미는 독서예요 | je chwimineun dokseoyeyo | My hobby is reading |
+| 제 취미는 독서예요 | je chwimineun doksseoyeyo [제 취미는 독써예요] | My hobby is reading |
 | 등산하는 걸 좋아해요 | deungsanhaneun geol joahaeyo | I like hiking |
 | 요즘 뜨개질을 배워요 | yojeum tteugaejireul baewoyo | I'm learning to knit these days |
 | 게임을 자주 해요 | geimeul jaju haeyo | I often play games |

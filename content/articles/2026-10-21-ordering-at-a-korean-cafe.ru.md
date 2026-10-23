@@ -46,7 +46,7 @@ draft: false
 
 Ваши ответы:
 
-- **먹고 갈게요.** (Meokgo galgeyo.) — Я здесь.
+- **먹고 갈게요.** (Meokko galgeyo. [먹꼬 갈게요.]) — Я здесь.
 - **가져갈게요.** (Gajyeogalgeyo.) — С собой.
 - **포장해 주세요.** (Pojanghae juseyo.) — Упакуйте с собой, пожалуйста. Подходит и для еды, и для напитков.
 
@@ -91,7 +91,7 @@ draft: false
 |---|---|---|
 | 한 잔 주세요 | han jan juseyo | Одну чашку, пожалуйста |
 | 아이스 / 따뜻한 거 | aiseu / ttatteutan geo | со льдом / горячий |
-| 먹고 갈게요 | meokgo galgeyo | Здесь |
+| 먹고 갈게요 | meokko galgeyo [먹꼬 갈게요] | Здесь |
 | [가져갈게요](/ru/dictionary/?q=가져가다) | gajyeogalgeyo | С собой |
 | 샷 추가해 주세요 | syat chugahae juseyo | Дополнительный шот, пожалуйста |
 | 시럽 빼 주세요 | sireop ppae juseyo | Без сиропа, пожалуйста |

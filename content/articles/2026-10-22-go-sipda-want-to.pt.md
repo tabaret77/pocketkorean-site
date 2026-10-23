@@ -12,7 +12,7 @@ cover: /media/covers/go-sipda-want-to-s1.jpg
 draft: false
 ---
 
-Depois que você consegue dizer o que faz, a próxima coisa que vai querer dizer é o que você *quer* fazer. Em coreano, essa tarefa é do **-고 싶다** (-go sipda). Junte-o a qualquer verbo de ação e você tem "querer + verbo": **가고 싶어요** (gago sipeoyo) – eu quero ir. É um dos padrões mais fáceis do coreano.
+Depois que você consegue dizer o que faz, a próxima coisa que vai querer dizer é o que você *quer* fazer. Em coreano, essa tarefa é do **-고 싶다** (-go sipta [고 십따]). Junte-o a qualquer verbo de ação e você tem "querer + verbo": **가고 싶어요** (gago sipeoyo) – eu quero ir. É um dos padrões mais fáceis do coreano.
 
 ## Como formar
 
@@ -21,12 +21,12 @@ Pegue o radical do verbo (a forma do dicionário sem o **-다**) e acrescente **
 | Forma do dicionário | Radical | + -고 싶어요 | Significado |
 |---|---|---|---|
 | [가다](/pt/dictionary/?q=가다) (gada) | 가- | 가고 싶어요 (gago sipeoyo) | Eu quero ir |
-| [먹다](/pt/dictionary/?q=먹다) (meokda) | 먹- | 먹고 싶어요 (meokgo sipeoyo) | Eu quero comer |
+| [먹다](/pt/dictionary/?q=먹다) (meokta [먹따]) | 먹- | 먹고 싶어요 (meokko sipeoyo [먹꼬 시퍼요]) | Eu quero comer |
 | [보다](/pt/dictionary/?q=보다) (boda) | 보- | 보고 싶어요 (bogo sipeoyo) | Eu quero ver / Estou com saudade |
 | 마시다 (masida) | 마시- | 마시고 싶어요 (masigo sipeoyo) | Eu quero beber |
 | 쉬다 (swida) | 쉬- | 쉬고 싶어요 (swigo sipeoyo) | Eu quero descansar |
 | 살다 (salda) | 살- | 살고 싶어요 (salgo sipeoyo) | Eu quero morar |
-| 듣다 (deutda) | 듣- | 듣고 싶어요 (deutgo sipeoyo) | Eu quero ouvir |
+| 듣다 (deutta [듣따]) | 듣- | 듣고 싶어요 (deutko sipeoyo [듣꼬 시퍼요]) | Eu quero ouvir |
 | 공부하다 (gongbuhada) | 공부하- | 공부하고 싶어요 (gongbuhago sipeoyo) | Eu quero estudar |
 
 Repare que até verbos irregulares como **듣다** ficam regulares aqui: como **-고** começa com consoante, o radical não muda.
@@ -48,7 +48,7 @@ Com objeto direto, você pode usar tanto **을/를** quanto **이/가**. As duas
 Para dizer que você *não* quer, há duas opções:
 
 - **안 가고 싶어요.** (An gago sipeoyo.) – Não quero ir. (curta e com tom mais casual)
-- **가고 싶지 않아요.** (Gago sipji anayo.) – Não quero ir. (um pouco mais suave)
+- **가고 싶지 않아요.** (Gago sipjji anayo. [가고 십찌 아나요.]) – Não quero ir. (um pouco mais suave)
 
 Para o passado, mude só o **싶다**: **가고 싶었어요** (gago sipeosseoyo) – eu queria ir. **정말 보고 싶었어요!** (Jeongmal bogo sipeosseoyo!) – Senti muita saudade de você!
 
@@ -62,7 +62,7 @@ Em coreano, você não pode afirmar diretamente o que se passa na cabeça de out
 
 ## Um erro comum
 
-**-고 싶다** se liga a verbos, não a substantivos. "Quero café" não pode ser 커피 싶어요 – isso está errado. Acrescente um verbo: **커피 마시고 싶어요** (keopi masigo sipeoyo) – quero beber café. Para querer um objeto, use **갖고 싶어요** (gatgo sipeoyo) – quero ter isso: **새 가방을 갖고 싶어요.** – Quero uma bolsa nova.
+**-고 싶다** se liga a verbos, não a substantivos. "Quero café" não pode ser 커피 싶어요 – isso está errado. Acrescente um verbo: **커피 마시고 싶어요** (keopi masigo sipeoyo) – quero beber café. Para querer um objeto, use **갖고 싶어요** (gatko sipeoyo [갇꼬 시퍼요]) – quero ter isso: **새 가방을 갖고 싶어요.** – Quero uma bolsa nova.
 
 ## Miniexercício
 
@@ -74,7 +74,7 @@ Faça frases com "Eu quero …". Respostas abaixo.
 4. 읽다 (ler) – negativa
 5. 배우다 (aprender) – passado
 
-**Respostas:** 1. 자고 싶어요 (jago sipeoyo) 2. 만나고 싶어요 (mannago sipeoyo) 3. 여행하고 싶어요 (yeohaenghago sipeoyo) 4. 읽고 싶지 않아요 (ilkko sipji anayo) 5. 배우고 싶었어요 (baeugo sipeosseoyo)
+**Respostas:** 1. 자고 싶어요 (jago sipeoyo) 2. 만나고 싶어요 (mannago sipeoyo) 3. 여행하고 싶어요 (yeohaenghago sipeoyo) 4. 읽고 싶지 않아요 (ilkko sipjji anayo [일꼬 십찌 아나요]) 5. 배우고 싶었어요 (baeugo sipeosseoyo)
 
 ## Coreano para usar
 
@@ -82,10 +82,10 @@ Faça frases com "Eu quero …". Respostas abaixo.
 |---|---|---|
 | 뭐 하고 싶어요? | mwo hago sipeoyo? | O que você quer fazer? |
 | 가고 싶어요 | gago sipeoyo | Eu quero ir |
-| 먹고 싶어요 | meokgo sipeoyo | Eu quero comer |
+| 먹고 싶어요 | meokko sipeoyo [먹꼬 시퍼요] | Eu quero comer |
 | 보고 싶어요 | bogo sipeoyo | Estou com saudade |
 | 쉬고 싶어요 | swigo sipeoyo | Eu quero descansar |
-| 가고 싶지 않아요 | gago sipji anayo | Não quero ir |
-| 갖고 싶어요 | gatgo sipeoyo | Quero ter isso |
+| 가고 싶지 않아요 | gago sipjji anayo [가고 십찌 아나요] | Não quero ir |
+| 갖고 싶어요 | gatko sipeoyo [갇꼬 시퍼요] | Quero ter isso |
 
 **저는 한국에서 ___고 싶어요.** (Jeoneun hangugeseo ___go sipeoyo.) – Eu quero ___ na Coreia. Complete a lacuna com cinco verbos diferentes hoje.

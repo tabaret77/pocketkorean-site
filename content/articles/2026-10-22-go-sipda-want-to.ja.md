@@ -12,7 +12,7 @@ cover: /media/covers/go-sipda-want-to-s1.jpg
 draft: false
 ---
 
-自分がすることを言えるようになったら、次に言いたくなるのは、自分が*したい*ことです。韓国語では、その役割を**-고 싶다**（-go sipda）が担っています。どんな動作動詞にもつければ「〜したい」になります：**가고 싶어요**（gago sipeoyo）＝行きたいです。韓国語でいちばん簡単なパターンのひとつです。
+自分がすることを言えるようになったら、次に言いたくなるのは、自分が*したい*ことです。韓国語では、その役割を**-고 싶다**（-go sipta [고 십따]）が担っています。どんな動作動詞にもつければ「〜したい」になります：**가고 싶어요**（gago sipeoyo）＝行きたいです。韓国語でいちばん簡単なパターンのひとつです。
 
 ## 作り方
 
@@ -21,12 +21,12 @@ draft: false
 | 辞書形 | 語幹 | ＋-고 싶어요 | 意味 |
 |---|---|---|---|
 | [가다](/ja/dictionary/?q=가다) (gada) | 가- | 가고 싶어요 (gago sipeoyo) | 行きたいです |
-| [먹다](/ja/dictionary/?q=먹다) (meokda) | 먹- | 먹고 싶어요 (meokgo sipeoyo) | 食べたいです |
+| [먹다](/ja/dictionary/?q=먹다) (meokta [먹따]) | 먹- | 먹고 싶어요 (meokko sipeoyo [먹꼬 시퍼요]) | 食べたいです |
 | [보다](/ja/dictionary/?q=보다) (boda) | 보- | 보고 싶어요 (bogo sipeoyo) | 見たいです／会いたいです |
 | 마시다 (masida) | 마시- | 마시고 싶어요 (masigo sipeoyo) | 飲みたいです |
 | 쉬다 (swida) | 쉬- | 쉬고 싶어요 (swigo sipeoyo) | 休みたいです |
 | 살다 (salda) | 살- | 살고 싶어요 (salgo sipeoyo) | 住みたいです／生きたいです |
-| 듣다 (deutda) | 듣- | 듣고 싶어요 (deutgo sipeoyo) | 聞きたいです |
+| 듣다 (deutta [듣따]) | 듣- | 듣고 싶어요 (deutko sipeoyo [듣꼬 시퍼요]) | 聞きたいです |
 | 공부하다 (gongbuhada) | 공부하- | 공부하고 싶어요 (gongbuhago sipeoyo) | 勉強したいです |
 
 **듣다**のような不規則動詞も、ここでは規則どおりのままであることに注目してください。**-고**は子音で始まるので、語幹が変化しないのです。
@@ -48,7 +48,7 @@ draft: false
 *したくない*と言うには、2つの方法があります。
 
 - **안 가고 싶어요.**（An gago sipeoyo.）＝行きたくないです。（短く、くだけた響き）
-- **가고 싶지 않아요.**（Gago sipji anayo.）＝行きたくないです。（少しやわらかい）
+- **가고 싶지 않아요.**（Gago sipjji anayo. [가고 십찌 아나요.]）＝行きたくないです。（少しやわらかい）
 
 過去形は**싶다**だけを変えます：**가고 싶었어요**（gago sipeosseoyo）＝行きたかったです。**정말 보고 싶었어요!**（Jeongmal bogo sipeosseoyo!）＝本当に会いたかったです！
 
@@ -62,7 +62,7 @@ draft: false
 
 ## よくある間違い
 
-**-고 싶다**は名詞ではなく動詞につきます。「コーヒーがほしい」を커피 싶어요とは言えません。これは間違いです。動詞を加えましょう：**커피 마시고 싶어요**（keopi masigo sipeoyo）＝コーヒーを飲みたいです。ものがほしいときは**갖고 싶어요**（gatgo sipeoyo）＝それを持ちたい（ほしい）です、を使います：**새 가방을 갖고 싶어요.**＝新しいかばんがほしいです。
+**-고 싶다**は名詞ではなく動詞につきます。「コーヒーがほしい」を커피 싶어요とは言えません。これは間違いです。動詞を加えましょう：**커피 마시고 싶어요**（keopi masigo sipeoyo）＝コーヒーを飲みたいです。ものがほしいときは**갖고 싶어요**（gatko sipeoyo [갇꼬 시퍼요]）＝それを持ちたい（ほしい）です、を使います：**새 가방을 갖고 싶어요.**＝新しいかばんがほしいです。
 
 ## ミニ練習
 
@@ -74,7 +74,7 @@ draft: false
 4. 읽다（読む）– 否定
 5. 배우다（習う）– 過去
 
-**答え：** 1. 자고 싶어요 (jago sipeoyo) 2. 만나고 싶어요 (mannago sipeoyo) 3. 여행하고 싶어요 (yeohaenghago sipeoyo) 4. 읽고 싶지 않아요 (ilkko sipji anayo) 5. 배우고 싶었어요 (baeugo sipeosseoyo)
+**答え：** 1. 자고 싶어요 (jago sipeoyo) 2. 만나고 싶어요 (mannago sipeoyo) 3. 여행하고 싶어요 (yeohaenghago sipeoyo) 4. 읽고 싶지 않아요 (ilkko sipjji anayo [일꼬 십찌 아나요]) 5. 배우고 싶었어요 (baeugo sipeosseoyo)
 
 ## 使える韓国語
 
@@ -82,10 +82,10 @@ draft: false
 |---|---|---|
 | 뭐 하고 싶어요? | mwo hago sipeoyo? | 何がしたいですか？ |
 | 가고 싶어요 | gago sipeoyo | 行きたいです |
-| 먹고 싶어요 | meokgo sipeoyo | 食べたいです |
+| 먹고 싶어요 | meokko sipeoyo [먹꼬 시퍼요] | 食べたいです |
 | 보고 싶어요 | bogo sipeoyo | 会いたいです |
 | 쉬고 싶어요 | swigo sipeoyo | 休みたいです |
-| 가고 싶지 않아요 | gago sipji anayo | 行きたくないです |
-| 갖고 싶어요 | gatgo sipeoyo | ほしいです（持ちたいです） |
+| 가고 싶지 않아요 | gago sipjji anayo [가고 십찌 아나요] | 行きたくないです |
+| 갖고 싶어요 | gatko sipeoyo [갇꼬 시퍼요] | ほしいです（持ちたいです） |
 
 **저는 한국에서 ___고 싶어요.**（Jeoneun hangugeseo ___go sipeoyo.）＝わたしは韓国で___たいです。今日は5つの違う動詞で空欄を埋めてみましょう。

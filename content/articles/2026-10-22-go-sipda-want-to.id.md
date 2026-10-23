@@ -12,7 +12,7 @@ cover: /media/covers/go-sipda-want-to-s1.jpg
 draft: false
 ---
 
-Begitu kamu bisa mengatakan apa yang kamu lakukan, hal berikutnya yang ingin kamu katakan adalah apa yang *ingin* kamu lakukan. Dalam bahasa Korea, tugas itu dipegang oleh **-고 싶다** (-go sipda). Tempelkan pada kata kerja tindakan apa pun dan kamu mendapat "ingin": **가고 싶어요** (gago sipeoyo) – aku ingin pergi. Ini salah satu pola termudah dalam bahasa Korea.
+Begitu kamu bisa mengatakan apa yang kamu lakukan, hal berikutnya yang ingin kamu katakan adalah apa yang *ingin* kamu lakukan. Dalam bahasa Korea, tugas itu dipegang oleh **-고 싶다** (-go sipta [고 십따]). Tempelkan pada kata kerja tindakan apa pun dan kamu mendapat "ingin": **가고 싶어요** (gago sipeoyo) – aku ingin pergi. Ini salah satu pola termudah dalam bahasa Korea.
 
 ## Cara membentuknya
 
@@ -21,12 +21,12 @@ Ambil batang kata kerjanya (bentuk kamus tanpa **-다**) lalu tambahkan **-고 �
 | Bentuk kamus | Batang kata | + -고 싶어요 | Arti |
 |---|---|---|---|
 | [가다](/id/dictionary/?q=가다) (gada) | 가- | 가고 싶어요 (gago sipeoyo) | aku ingin pergi |
-| [먹다](/id/dictionary/?q=먹다) (meokda) | 먹- | 먹고 싶어요 (meokgo sipeoyo) | aku ingin makan |
+| [먹다](/id/dictionary/?q=먹다) (meokta [먹따]) | 먹- | 먹고 싶어요 (meokko sipeoyo [먹꼬 시퍼요]) | aku ingin makan |
 | [보다](/id/dictionary/?q=보다) (boda) | 보- | 보고 싶어요 (bogo sipeoyo) | aku ingin melihat / aku kangen kamu |
 | 마시다 (masida) | 마시- | 마시고 싶어요 (masigo sipeoyo) | aku ingin minum |
 | 쉬다 (swida) | 쉬- | 쉬고 싶어요 (swigo sipeoyo) | aku ingin istirahat |
 | 살다 (salda) | 살- | 살고 싶어요 (salgo sipeoyo) | aku ingin tinggal |
-| 듣다 (deutda) | 듣- | 듣고 싶어요 (deutgo sipeoyo) | aku ingin mendengarkan |
+| 듣다 (deutta [듣따]) | 듣- | 듣고 싶어요 (deutko sipeoyo [듣꼬 시퍼요]) | aku ingin mendengarkan |
 | 공부하다 (gongbuhada) | 공부하- | 공부하고 싶어요 (gongbuhago sipeoyo) | aku ingin belajar |
 
 Perhatikan bahwa kata kerja tak beraturan seperti **듣다** pun tetap beraturan di sini: karena **-고** diawali konsonan, batang katanya tidak berubah.
@@ -48,7 +48,7 @@ Dengan objek langsung, kamu bisa memakai **을/를** atau **이/가**. Keduanya 
 Untuk mengatakan kamu *tidak* ingin, ada dua pilihan:
 
 - **안 가고 싶어요.** (An gago sipeoyo.) – Aku tidak ingin pergi. (singkat dan terdengar santai)
-- **가고 싶지 않아요.** (Gago sipji anayo.) – Aku tidak ingin pergi. (sedikit lebih halus)
+- **가고 싶지 않아요.** (Gago sipjji anayo. [가고 십찌 아나요.]) – Aku tidak ingin pergi. (sedikit lebih halus)
 
 Untuk bentuk lampau, cukup ubah **싶다**: **가고 싶었어요** (gago sipeosseoyo) – aku tadinya ingin pergi. **정말 보고 싶었어요!** (Jeongmal bogo sipeosseoyo!) – Aku kangen banget sama kamu!
 
@@ -62,7 +62,7 @@ Dalam bahasa Korea, kamu tidak bisa langsung menyatakan apa yang ada di dalam ke
 
 ## Kesalahan yang umum
 
-**-고 싶다** menempel pada kata kerja, bukan kata benda. Dalam bahasa Indonesia kita bisa bilang "aku ingin kopi", tetapi dalam bahasa Korea tidak bisa 커피 싶어요 – itu salah. Tambahkan kata kerja: **커피 마시고 싶어요** (keopi masigo sipeoyo) – aku ingin minum kopi. Untuk menginginkan suatu benda, gunakan **갖고 싶어요** (gatgo sipeoyo) – aku ingin memilikinya: **새 가방을 갖고 싶어요.** – Aku ingin tas baru.
+**-고 싶다** menempel pada kata kerja, bukan kata benda. Dalam bahasa Indonesia kita bisa bilang "aku ingin kopi", tetapi dalam bahasa Korea tidak bisa 커피 싶어요 – itu salah. Tambahkan kata kerja: **커피 마시고 싶어요** (keopi masigo sipeoyo) – aku ingin minum kopi. Untuk menginginkan suatu benda, gunakan **갖고 싶어요** (gatko sipeoyo [갇꼬 시퍼요]) – aku ingin memilikinya: **새 가방을 갖고 싶어요.** – Aku ingin tas baru.
 
 ## Latihan mini
 
@@ -74,7 +74,7 @@ Buat kalimat "aku ingin …". Jawabannya ada di bawah.
 4. 읽다 (membaca) – negatif
 5. 배우다 (belajar) – lampau
 
-**Jawaban:** 1. 자고 싶어요 (jago sipeoyo) 2. 만나고 싶어요 (mannago sipeoyo) 3. 여행하고 싶어요 (yeohaenghago sipeoyo) 4. 읽고 싶지 않아요 (ilkko sipji anayo) 5. 배우고 싶었어요 (baeugo sipeosseoyo)
+**Jawaban:** 1. 자고 싶어요 (jago sipeoyo) 2. 만나고 싶어요 (mannago sipeoyo) 3. 여행하고 싶어요 (yeohaenghago sipeoyo) 4. 읽고 싶지 않아요 (ilkko sipjji anayo [일꼬 십찌 아나요]) 5. 배우고 싶었어요 (baeugo sipeosseoyo)
 
 ## Bahasa Korea yang bisa kamu pakai
 
@@ -82,10 +82,10 @@ Buat kalimat "aku ingin …". Jawabannya ada di bawah.
 |---|---|---|
 | 뭐 하고 싶어요? | mwo hago sipeoyo? | Kamu ingin melakukan apa? |
 | 가고 싶어요 | gago sipeoyo | aku ingin pergi |
-| 먹고 싶어요 | meokgo sipeoyo | aku ingin makan |
+| 먹고 싶어요 | meokko sipeoyo [먹꼬 시퍼요] | aku ingin makan |
 | 보고 싶어요 | bogo sipeoyo | aku kangen kamu |
 | 쉬고 싶어요 | swigo sipeoyo | aku ingin istirahat |
-| 가고 싶지 않아요 | gago sipji anayo | aku tidak ingin pergi |
-| 갖고 싶어요 | gatgo sipeoyo | aku ingin memilikinya |
+| 가고 싶지 않아요 | gago sipjji anayo [가고 십찌 아나요] | aku tidak ingin pergi |
+| 갖고 싶어요 | gatko sipeoyo [갇꼬 시퍼요] | aku ingin memilikinya |
 
 **저는 한국에서 ___고 싶어요.** (Jeoneun hangugeseo ___go sipeoyo.) – Aku ingin ___ di Korea. Isi bagian kosongnya dengan lima kata kerja yang berbeda hari ini.

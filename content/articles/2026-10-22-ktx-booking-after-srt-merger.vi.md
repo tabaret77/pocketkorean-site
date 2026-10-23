@@ -35,7 +35,7 @@ Tàu cuối tuần trên các tuyến đông khách, đặc biệt là tối th�
 
 1. **Chọn nơi đặt vé.** Du khách có thể dùng trang đặt vé tiếng Anh của Korail dành cho hành khách nước ngoài (Let's Korail) hoặc ứng dụng Korail+.
 2. **Tìm kiếm** ga đi, **출발** (chulbal), ga đến, **도착** (dochak), và ngày đi.
-3. **Chọn hạng ghế.** **일반실** (ilbansil) là hạng tiêu chuẩn; **특실** (teuksil) là hạng nhất, ghế rộng hơn. Khi hết ghế, có thể có vé **입석** (ipseok), vé đứng.
+3. **Chọn hạng ghế.** **일반실** (ilbansil) là hạng tiêu chuẩn; **특실** (teukssil [특씰]) là hạng nhất, ghế rộng hơn. Khi hết ghế, có thể có vé **입석** (ipsseok [입썩]), vé đứng.
 4. **Thanh toán và lưu vé** trên điện thoại. Không cần in vé; nhân viên kiểm tra vé trên tàu.
 5. **Tìm toa của bạn.** Vé có ghi số toa, **호차** (hocha), và số ghế. Sân ga có đánh dấu số toa, vì vậy hãy đứng đúng vị trí trước khi tàu đến.
 

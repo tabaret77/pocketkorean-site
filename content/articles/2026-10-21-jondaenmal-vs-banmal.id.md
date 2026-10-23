@@ -29,7 +29,7 @@ Dalam kebanyakan kasus, kamu membuat 반말 cukup dengan membuang **요** di akh
 | 네 (ne) | 응 (eung) / 어 (eo) | ya |
 | 아니요 (aniyo) | 아니 (ani) | tidak |
 | 저 / 제가 (jeo / jega) | 나 / 내가 (na / naega) | saya / aku |
-| 학생이에요 (haksaengieyo) | 학생이야 (haksaengiya) | (aku) seorang pelajar |
+| 학생이에요 (hakssaengieyo [학쌩이에요]) | 학생이야 (hakssaengiya [학쌩이야]) | (aku) seorang pelajar |
 | 친구예요 (chinguyeyo) | 친구야 (chinguya) | (dia) teman |
 | 안녕하세요 (annyeonghaseyo) | 안녕 (annyeong) | halo |
 

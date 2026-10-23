@@ -46,7 +46,7 @@ draft: false
 
 你的回答：
 
-- **먹고 갈게요.**（Meokgo galgeyo.）——在这里喝。
+- **먹고 갈게요.**（Meokko galgeyo. [먹꼬 갈게요.]）——在这里喝。
 - **가져갈게요.**（Gajyeogalgeyo.）——带走。
 - **포장해 주세요.**（Pojanghae juseyo.）——请帮我打包。食物和饮品都常用这句。
 
@@ -91,7 +91,7 @@ draft: false
 |---|---|---|
 | 한 잔 주세요 | han jan juseyo | 请给我一杯 |
 | 아이스 / 따뜻한 거 | aiseu / ttatteutan geo | 冰的／热的 |
-| 먹고 갈게요 | meokgo galgeyo | 堂食 |
+| 먹고 갈게요 | meokko galgeyo [먹꼬 갈게요] | 堂食 |
 | [가져갈게요](/zh-cn/dictionary/?q=가져가다) | gajyeogalgeyo | 带走 |
 | 샷 추가해 주세요 | syat chugahae juseyo | 请加一份浓缩 |
 | 시럽 빼 주세요 | sireop ppae juseyo | 请不要加糖浆 |

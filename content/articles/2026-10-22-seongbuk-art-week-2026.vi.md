@@ -36,7 +36,7 @@ Các bảo tàng lân cận cũng tham gia: Bảo tàng Mỹ thuật Kansong có
 
 ## Vì sao điều này đáng chú ý với người học
 
-집 là một trong những từ tiếng Hàn đầu tiên mà hầu hết mọi người học, và lễ hội này cho thấy từ ấy có thể chứa đựng bao nhiêu điều: một tòa nhà, một gia đình, những kỷ niệm. Bạn cũng sẽ thấy nó trong các từ dài hơn: **한옥집** (hanokjip), nhà hanok; **우리 집** (uri jip), nghĩa đen là "nhà chúng tôi", mà người Hàn dùng để nói "nhà tôi"; và **집순이 / 집돌이** (jipsuni / jipdori), người thích ở nhà. Nếu bạn đến tham quan, hãy để ý chữ **무료** (muryo), miễn phí, và **예약** (yeyak), đặt chỗ, trên các biển báo – một số ngôi nhà lịch sử chỉ có thể vào khi đã đặt trước.
+집 là một trong những từ tiếng Hàn đầu tiên mà hầu hết mọi người học, và lễ hội này cho thấy từ ấy có thể chứa đựng bao nhiêu điều: một tòa nhà, một gia đình, những kỷ niệm. Bạn cũng sẽ thấy nó trong các từ dài hơn: **한옥집** (hanokjjip [하녹찝]), nhà hanok; **우리 집** (uri jip), nghĩa đen là "nhà chúng tôi", mà người Hàn dùng để nói "nhà tôi"; và **집순이 / 집돌이** (jipsuni / jipdori), người thích ở nhà. Nếu bạn đến tham quan, hãy để ý chữ **무료** (muryo), miễn phí, và **예약** (yeyak), đặt chỗ, trên các biển báo – một số ngôi nhà lịch sử chỉ có thể vào khi đã đặt trước.
 
 ## Tiếng Hàn từ câu chuyện này
 
@@ -46,7 +46,7 @@ Các bảo tàng lân cận cũng tham gia: Bảo tàng Mỹ thuật Kansong có
 | 한옥 | hanok | nhà truyền thống Hàn Quốc |
 | [미술관](/vi/dictionary/?q=미술관) | misulgwan | bảo tàng mỹ thuật |
 | [전시회](/vi/dictionary/?q=전시회) | jeonsihoe | triển lãm |
-| 작가 | jakga | nghệ sĩ, tác giả |
+| 작가 | jakka [작까] | nghệ sĩ, tác giả |
 | 성곽 | seonggwak | tường thành |
 | [무료](/vi/dictionary/?q=무료) | muryo | miễn phí |
 | 아버지와 아들 | abeojiwa adeul | cha và con trai |

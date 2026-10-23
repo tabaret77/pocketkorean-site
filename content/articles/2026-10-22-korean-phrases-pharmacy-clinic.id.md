@@ -13,7 +13,7 @@ thumb: /media/covers/korean-phrases-pharmacy-clinic-p1-t.jpg
 draft: false
 ---
 
-Akhir musim gugur di Korea membawa udara kering, pagi yang dingin, dan gelombang pertama flu. Mencari bantuan itu mudah: apotek, **[약국](/id/dictionary/?q=약국)** (yakguk), ada di hampir setiap jalan, ditandai dengan huruf **약** (yak), "obat," besar berwarna hijau atau merah, dan klinik-klinik kecil di lingkungan sekitar menerima pasien tanpa janji temu. Beberapa ungkapan singkat sudah cukup untuk sebagian besar keperluanmu. Semuanya memakai akhiran sopan **-요** (-yo).
+Akhir musim gugur di Korea membawa udara kering, pagi yang dingin, dan gelombang pertama flu. Mencari bantuan itu mudah: apotek, **[약국](/id/dictionary/?q=약국)** (yakkuk [약꾹]), ada di hampir setiap jalan, ditandai dengan huruf **약** (yak), "obat," besar berwarna hijau atau merah, dan klinik-klinik kecil di lingkungan sekitar menerima pasien tanpa janji temu. Beberapa ungkapan singkat sudah cukup untuk sebagian besar keperluanmu. Semuanya memakai akhiran sopan **-요** (-yo).
 
 ## Satu pola yang kamu perlukan
 
@@ -42,11 +42,11 @@ Saat apotek tutup, minimarket menjual sejumlah kecil obat dasar, seperti pereda 
 
 Untuk flu atau cedera ringan, orang Korea pergi ke klinik kecil, **[의원](/id/dictionary/?q=의원)** (uiwon), yang sering dinamai sesuai spesialisasinya: **내과** (naegwa) untuk penyakit dalam, **이비인후과** (ibiinhugwa) untuk THT (telinga, hidung, tenggorokan). Rumah sakit yang lebih besar, **[병원](/id/dictionary/?q=병원)** (byeongwon), untuk kasus yang serius.
 
-7. **진료 받고 싶어요.** (jillyo batgo sipeoyo.) – Saya ingin diperiksa dokter.
+7. **진료 받고 싶어요.** (jillyo batko sipeoyo. [질료 받꼬 시퍼요.]) – Saya ingin diperiksa dokter.
 8. **처음 왔어요.** (cheoeum wasseoyo.) – Ini kunjungan pertama saya. *Bagian pendaftaran akan meminta paspor atau kartu izin tinggalmu.*
 9. **영어 하는 의사 선생님 있어요?** (yeongeo haneun uisa seonsaengnim isseoyo?) – Ada dokter yang bisa berbahasa Inggris?
 10. **여기가 아파요.** (yeogiga apayo.) – Sakitnya di sini. *Tunjuk bagian yang sakit.*
-11. **보험이 없어요.** (boheomi eopseoyo.) – Saya tidak punya asuransi (Korea).
+11. **보험이 없어요.** (boheomi eopsseoyo. [보허미 업써요.]) – Saya tidak punya asuransi (Korea).
 12. **처방전 주세요.** (cheobangjeon juseyo.) – Boleh minta resepnya? *Klinik menuliskan resep, **[처방전](/id/dictionary/?q=처방전)** (cheobangjeon), dan kamu membawanya ke apotek, yang sering berada di gedung yang sama.*
 13. **진단서 받을 수 있어요?** (jindanseo badeul su isseoyo?) – Bisa saya minta surat keterangan dokter? *Berguna untuk klaim asuransi perjalanan.*
 
@@ -62,7 +62,7 @@ Ungkapan kuncinya: **도와주세요!** (dowajuseyo!) – Tolong! Lalu **구급�
 
 | Korea | Romanisasi | Arti |
 |---|---|---|
-| [약국](/id/dictionary/?q=약국) | yakguk | apotek |
+| [약국](/id/dictionary/?q=약국) | yakkuk [약꾹] | apotek |
 | [약](/id/dictionary/?q=약) | yak | obat |
 | [감기](/id/dictionary/?q=감기) | gamgi | flu, masuk angin |
 | [열](/id/dictionary/?q=열) | yeol | demam |

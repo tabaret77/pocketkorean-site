@@ -53,10 +53,10 @@ draft: false
 | [단풍](/mn/dictionary/?q=단풍) | danpung | намрын навч |
 | [연못](/mn/dictionary/?q=연못) | yeonmot | цөөрөм |
 | [정자](/mn/dictionary/?q=정자) | jeongja | асар |
-| [입장권](/mn/dictionary/?q=입장권) | ipjanggwon | орох тасалбар |
+| [입장권](/mn/dictionary/?q=입장권) | ipjjanggwon [입짱권] | орох тасалбар |
 | [예약](/mn/dictionary/?q=예약) | yeyak | захиалга |
 | 휴궁일 | hyugung-il | ордны амралтын өдөр |
 
-**후원 입장권 두 장 주세요.** (huwon ipjanggwon du jang juseyo.) – Нууц цэцэрлэгийн хоёр тасалбар өгөөч. Тасалбар, цаас тоолох тоо ширхэгийн үг **장** (jang)-ийн өмнөх тоог сольж хэлээрэй: 한 장 (han jang), 세 장 (se jang).
+**후원 입장권 두 장 주세요.** (huwon ipjjanggwon du jang juseyo. [후원 입짱권 두 장 주세요.]) – Нууц цэцэрлэгийн хоёр тасалбар өгөөч. Тасалбар, цаас тоолох тоо ширхэгийн үг **장** (jang)-ийн өмнөх тоог сольж хэлээрэй: 한 장 (han jang), 세 장 (se jang).
 
 Эх сурвалж: [The Seoul Guide – Changdeokgung](https://www.theseoulguide.com/changdeokgung-palace/), [Telltrip – Changdeokgung Huwon (Korean)](https://www.telltrip.com/domestic-travel/changdeokgung-huwon-secret-garden-visit/), [Segye Ilbo – free Wednesdays at palaces (Korean)](https://www.segye.com/newsView/20260526512458), [Mileasia – Changdeokgung guide](https://mileasia.com/korea/changdeokgung-palace/)

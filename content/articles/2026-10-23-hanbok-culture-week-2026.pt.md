@@ -23,7 +23,7 @@ Houve prêmios para pessoas que mantêm o hanbok vivo. A professora emérita Kwo
 
 ## O que fazer nesta semana
 
-- **Palácio Gyeongbokgung**: uma exposição de hanbok tradicional e uma campanha sobre como vestir o hanbok corretamente – **한복 바르게 입기** (hanbok bareuge ipgi).
+- **Palácio Gyeongbokgung**: uma exposição de hanbok tradicional e uma campanha sobre como vestir o hanbok corretamente – **한복 바르게 입기** (hanbok bareuge ipki [한복 바르게 입끼]).
 - **Vila Hanok de Namsangol**: uma cerimônia de ingresso de "pequenos eruditos" para crianças, inspirada na antiga cerimônia de entrada do príncipe herdeiro na escola.
 - **Jeonju e Jeolla do Sul**: confecção de acessórios de hanbok, uma festa do hanbok e oficinas de tingimento natural.
 - **No exterior**: sessões para vestir hanbok e aulas de etiqueta no Canadá, no Japão e na Dinamarca.
@@ -47,7 +47,7 @@ O verbo para vestir roupa é [입다](/pt/dictionary/?q=입다) (ipta [입따]).
 | 문화주간 | munhwa jugan | semana cultural |
 | 입다 | ipta [입따] | vestir (roupa) |
 | 할인 | harin | desconto |
-| 입장료 | ipjangnyo | preço da entrada |
+| 입장료 | ipjjangnyo [입짱뇨] | preço da entrada |
 | 박물관 | bangmulgwan | museu |
 | 천연 염색 | cheonyeon yeomsaek | tingimento natural |
 | 교복 | gyobok | uniforme escolar |

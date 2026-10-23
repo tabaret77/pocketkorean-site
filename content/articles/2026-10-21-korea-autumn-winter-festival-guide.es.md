@@ -28,7 +28,7 @@ Según el pronóstico de 2026 del Servicio Forestal de Corea, se esperaba que lo
 
 En la mayor parte del país, incluidas las colinas y los palacios de Seúl, el punto máximo llega **entre finales de octubre y principios de noviembre**. Los ginkgos, que bordean muchas calles de Seúl, se vuelven de un amarillo intenso más o menos al mismo tiempo.
 
-En Seúl, el **Festival de la Hierba Plateada de Seúl**, **서울억새축제** (Seoul eoksae chukje), se celebra en el parque Haneul, dentro del parque de la Copa del Mundo, hasta el **23 de octubre de 2026**, de 10:00 a 21:00. **억새** (eoksae) es la hierba plateada, y los campos de la cima brillan al atardecer.
+En Seúl, el **Festival de la Hierba Plateada de Seúl**, **서울억새축제** (Seoul eoksae chukje), se celebra en el parque Haneul, dentro del parque de la Copa del Mundo, hasta el **23 de octubre de 2026**, de 10:00 a 21:00. **억새** (eokssae [억쌔]) es la hierba plateada, y los campos de la cima brillan al atardecer.
 
 ## Noviembre: fuegos artificiales, kimchi y el gran examen
 
@@ -61,7 +61,7 @@ La **Navidad** en Corea es feriado, pero se vive más como un Día de San Valent
 | Coreano | Romanización | Significado |
 |---|---|---|
 | [단풍](/es/dictionary/?q=단풍) | danpung | hojas de otoño |
-| [축제](/es/dictionary/?q=축제) | chukje | festival |
+| [축제](/es/dictionary/?q=축제) | chukjje [축쩨] | festival |
 | 불꽃놀이 | bulkkonnori | fuegos artificiales |
 | [김장](/es/dictionary/?q=김장) | gimjang | preparación del kimchi para el invierno |
 | 첫눈 | cheonnun | la primera nevada del año |

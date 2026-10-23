@@ -52,7 +52,7 @@ draft: false
 
 用来描述事物时，**괜찮다**表示某样东西还可以、过得去，甚至相当不错。这是一种低调的夸奖。
 
-- **이 식당 괜찮아요.**（I sikdang gwaenchanayo.）——这家餐厅挺不错的。
+- **이 식당 괜찮아요.**（I siktang gwaenchanayo. [이 식땅 괜차나요.]）——这家餐厅挺不错的。
 - **그 사람 괜찮아요.**（Geu saram gwaenchanayo.）——那个人挺好的（根据语境，也可能是说“长得挺好看”）。
 
 放在名词前面时，它变成**괜찮은**（gwaenchaneun）：**괜찮은 카페**（gwaenchaneun kape）——一家不错的咖啡馆。
@@ -89,7 +89,7 @@ draft: false
 | 아니에요, 괜찮아요 | anieyo, gwaenchanayo | 哪里，没关系 |
 | 아니요, 괜찮아요 | aniyo, gwaenchanayo | 不用了，谢谢 |
 | 사진 찍어도 괜찮아요? | sajin jjigeodo gwaenchanayo? | 可以拍照吗？ |
-| 괜찮은 [식당](/zh-cn/dictionary/?q=식당) | gwaenchaneun sikdang | 一家不错的餐厅 |
+| 괜찮은 [식당](/zh-cn/dictionary/?q=식당) | gwaenchaneun siktang [괜차는 식땅] | 一家不错的餐厅 |
 | 괜찮아 | gwaenchana | 没事（非敬语） |
 
 下次看韩国节目时，留意一下괜찮아요，猜猜它是四种意思中的哪一种。几乎每次，语境都会告诉你答案。

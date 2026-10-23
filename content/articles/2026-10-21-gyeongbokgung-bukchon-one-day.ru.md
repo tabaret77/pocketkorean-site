@@ -72,7 +72,7 @@ draft: false
 | [한옥](/ru/dictionary/?q=한옥) | hanok | традиционный корейский дом |
 | [한복](/ru/dictionary/?q=한복) | hanbok | традиционная корейская одежда |
 | 매표소 | maepyoso | билетная касса |
-| 입장료 | ipjangnyo | плата за вход |
+| 입장료 | ipjjangnyo [입짱뇨] | плата за вход |
 | 몇 시까지 해요? | myeot sikkaji haeyo? | До скольки вы работаете? (вежливо) |
 | 사진 찍어도 돼요? | sajin jjigeodo dwaeyo? | Можно сфотографировать? (вежливо) |
 | 조용히 해 주세요 | joyonghi hae juseyo | Пожалуйста, тише |

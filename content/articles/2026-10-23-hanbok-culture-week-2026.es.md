@@ -23,7 +23,7 @@ Se entregaron premios a quienes mantienen vivo el hanbok. La profesora emérita 
 
 ## Qué puedes hacer esta semana
 
-- **Palacio Gyeongbokgung**: una exposición de hanbok tradicional y una campaña sobre cómo ponerse el hanbok correctamente: **한복 바르게 입기** (hanbok bareuge ipgi).
+- **Palacio Gyeongbokgung**: una exposición de hanbok tradicional y una campaña sobre cómo ponerse el hanbok correctamente: **한복 바르게 입기** (hanbok bareuge ipki [한복 바르게 입끼]).
 - **Aldea Hanok de Namsangol**: una ceremonia de ingreso de "pequeños eruditos" para niños, basada en la antigua ceremonia en la que un príncipe heredero entraba a la escuela.
 - **Jeonju y Jeolla del Sur**: elaboración de accesorios de hanbok, una fiesta del hanbok y talleres de teñido natural.
 - **En el extranjero**: sesiones para vestir hanbok y clases de etiqueta en Canadá, Japón y Dinamarca.
@@ -47,7 +47,7 @@ El verbo para llevar ropa puesta es [입다](/es/dictionary/?q=입다) (ipta [�
 | 문화주간 | munhwa jugan | semana cultural |
 | 입다 | ipta [입따] | ponerse, llevar (ropa) |
 | 할인 | harin | descuento |
-| 입장료 | ipjangnyo | precio de entrada |
+| 입장료 | ipjjangnyo [입짱뇨] | precio de entrada |
 | 박물관 | bangmulgwan | museo |
 | 천연 염색 | cheonyeon yeomsaek | teñido natural |
 | 교복 | gyobok | uniforme escolar |

@@ -12,7 +12,7 @@ thumb: /media/covers/korean-phrases-pharmacy-clinic-p1-t.jpg
 draft: false
 ---
 
-Late autumn in Korea brings dry air, chilly mornings and the first wave of colds. Getting help is easy: pharmacies, **[약국](/en/dictionary/?q=약국)** (yakguk), are on almost every street, marked with a big green or red **약** (yak), "medicine," and small neighbourhood clinics see walk-in patients without an appointment. A few short phrases will get you most of the way. All of these use the polite **-요** (-yo) ending.
+Late autumn in Korea brings dry air, chilly mornings and the first wave of colds. Getting help is easy: pharmacies, **[약국](/en/dictionary/?q=약국)** (yakkuk [약꾹]), are on almost every street, marked with a big green or red **약** (yak), "medicine," and small neighbourhood clinics see walk-in patients without an appointment. A few short phrases will get you most of the way. All of these use the polite **-요** (-yo) ending.
 
 ## The one pattern you need
 
@@ -41,11 +41,11 @@ When pharmacies are closed, convenience stores sell a short list of basic medici
 
 For a cold or a minor injury, Koreans go to a small clinic, **[의원](/en/dictionary/?q=의원)** (uiwon), often named after its speciality: **내과** (naegwa) for internal medicine, **이비인후과** (ibiinhugwa) for ear, nose and throat. Larger hospitals, **[병원](/en/dictionary/?q=병원)** (byeongwon), are for serious cases.
 
-7. **진료 받고 싶어요.** (jillyo batgo sipeoyo.) – I'd like to see a doctor.
+7. **진료 받고 싶어요.** (jillyo batko sipeoyo. [질료 받꼬 시퍼요.]) – I'd like to see a doctor.
 8. **처음 왔어요.** (cheoeum wasseoyo.) – It's my first visit. *Reception will ask for your passport or residence card.*
 9. **영어 하는 의사 선생님 있어요?** (yeongeo haneun uisa seonsaengnim isseoyo?) – Is there a doctor who speaks English?
 10. **여기가 아파요.** (yeogiga apayo.) – It hurts here. *Point to the spot.*
-11. **보험이 없어요.** (boheomi eopseoyo.) – I don't have (Korean) insurance.
+11. **보험이 없어요.** (boheomi eopsseoyo. [보허미 업써요.]) – I don't have (Korean) insurance.
 12. **처방전 주세요.** (cheobangjeon juseyo.) – Could I have the prescription, please? *Clinics write a prescription, **[처방전](/en/dictionary/?q=처방전)** (cheobangjeon), and you take it to a pharmacy, often in the same building.*
 13. **진단서 받을 수 있어요?** (jindanseo badeul su isseoyo?) – Can I get a medical certificate? *Useful for travel insurance claims.*
 
@@ -61,7 +61,7 @@ The key phrase: **도와주세요!** (dowajuseyo!) – Help! Then **구급차 �
 
 | Korean | Romanization | Meaning |
 |---|---|---|
-| [약국](/en/dictionary/?q=약국) | yakguk | pharmacy |
+| [약국](/en/dictionary/?q=약국) | yakkuk [약꾹] | pharmacy |
 | [약](/en/dictionary/?q=약) | yak | medicine |
 | [감기](/en/dictionary/?q=감기) | gamgi | a cold |
 | [열](/en/dictionary/?q=열) | yeol | fever |

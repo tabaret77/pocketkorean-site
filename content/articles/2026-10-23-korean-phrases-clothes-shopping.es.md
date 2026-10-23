@@ -50,7 +50,7 @@ Si los pantalones te quedan largos, pregunta por **수선** (suseon), arreglos. 
 
 Las reglas de devolución dependen de la tienda. Las tiendas departamentales y las grandes marcas suelen aceptar devoluciones con recibo en un plazo de unos 7 a 30 días, mientras que los puestos callejeros y los centros comerciales subterráneos rara vez reembolsan y quizá solo hagan cambios. Pregunta antes de pagar: **환불 돼요?** (hwanbul dwaeyo?), "¿Me pueden reembolsar?".
 
-Los visitantes también pueden preguntar **택스 리펀 돼요?** (taekseu ripeon dwaeyo?): "¿Puedo obtener la devolución de impuestos?". En la mayoría de las tiendas libres de impuestos necesitas gastar al menos 15.000 wones en una sola compra y mostrar tu pasaporte. La devolución inmediata en caja es posible para compras de menos de 1.000.000 de wones cada una, hasta un total de 5.000.000 de wones por viaje.
+Los visitantes también pueden preguntar **택스 리펀 돼요?** (taeksseu ripeon dwaeyo? [택쓰 리펀 돼요?]): "¿Puedo obtener la devolución de impuestos?". En la mayoría de las tiendas libres de impuestos necesitas gastar al menos 15.000 wones en una sola compra y mostrar tu pasaporte. La devolución inmediata en caja es posible para compras de menos de 1.000.000 de wones cada una, hasta un total de 5.000.000 de wones por viaje.
 
 ## Coreano que puedes usar
 
@@ -60,7 +60,7 @@ Los visitantes también pueden preguntar **택스 리펀 돼요?** (taekseu ripe
 | [사이즈](/es/dictionary/?q=사이즈) | saijeu | talla |
 | 탈의실 | taruisil | probador |
 | [크다](/es/dictionary/?q=크다) | keuda | ser grande |
-| [작다](/es/dictionary/?q=작다) | jakda | ser chico |
+| [작다](/es/dictionary/?q=작다) | jakta [작따] | ser chico |
 | [교환](/es/dictionary/?q=교환) | gyohwan | cambio |
 | [환불](/es/dictionary/?q=환불) | hwanbul | reembolso |
 | [영수증](/es/dictionary/?q=영수증) | yeongsujeung | recibo |

@@ -12,7 +12,7 @@ cover: /media/covers/hobby-words-in-korean-s1.jpg
 draft: false
 ---
 
-Cepat atau lambat, entah di acara language exchange, hari pertama kerja, atau kencan buta di K-drama, seseorang akan bertanya kepadamu **취미가 뭐예요?** (Chwimiga mwoyeyo?) – Apa hobimu? Ini salah satu pertanyaan basa-basi yang paling umum dalam bahasa Korea. **[취미](/id/dictionary/?q=취미)** (chwimi) berarti hobi, dan cuaca sejuk di akhir musim gugur adalah waktu yang pas untuk memulai hobi baru. Banyak orang menyebut musim gugur **독서의 계절** (dokseoui gyejeol) – musim membaca – karena hari-hari yang cerah dan sejuk membuat kita mudah betah membaca buku. Berikut kosakata dan pola yang kamu perlukan untuk membicarakan kegiatan yang kamu lakukan untuk bersenang-senang.
+Cepat atau lambat, entah di acara language exchange, hari pertama kerja, atau kencan buta di K-drama, seseorang akan bertanya kepadamu **취미가 뭐예요?** (Chwimiga mwoyeyo?) – Apa hobimu? Ini salah satu pertanyaan basa-basi yang paling umum dalam bahasa Korea. **[취미](/id/dictionary/?q=취미)** (chwimi) berarti hobi, dan cuaca sejuk di akhir musim gugur adalah waktu yang pas untuk memulai hobi baru. Banyak orang menyebut musim gugur **독서의 계절** (doksseoui gyejeol [독써의 계절]) – musim membaca – karena hari-hari yang cerah dan sejuk membuat kita mudah betah membaca buku. Berikut kosakata dan pola yang kamu perlukan untuk membicarakan kegiatan yang kamu lakukan untuk bersenang-senang.
 
 ## 24 kosakata hobi
 
@@ -21,7 +21,7 @@ Banyak hobi berupa kata benda yang menjadi kata kerja dengan **하다** (hada) �
 | Korea | Romanisasi | Arti |
 |---|---|---|
 | 등산 | deungsan | mendaki gunung |
-| 독서 | dokseo | membaca |
+| 독서 | doksseo [독써] | membaca |
 | 요리 | yori | memasak |
 | 운동 | undong | olahraga |
 | 헬스 | helseu | nge-gym, latihan di pusat kebugaran |
@@ -30,18 +30,18 @@ Banyak hobi berupa kata benda yang menjadi kata kerja dengan **하다** (hada) �
 | 산책 | sanchaek | jalan-jalan santai |
 | 자전거 타기 | jajeongeo tagi | bersepeda |
 | 캠핑 | kaemping | berkemah |
-| 낚시 | naksi | memancing |
+| 낚시 | nakssi [낙씨] | memancing |
 | 여행 | yeohaeng | jalan-jalan, berwisata |
-| 사진 찍기 | sajin jjikgi | memotret |
+| 사진 찍기 | sajin jjikki [사진 찍끼] | memotret |
 | 그림 그리기 | geurim geurigi | menggambar, melukis |
 | 뜨개질 | tteugaejil | merajut |
 | 베이킹 | beiking | membuat kue |
 | 게임 | geim | game (video) |
 | 영화 보기 | yeonghwa bogi | menonton film |
-| 음악 듣기 | eumak deutgi | mendengarkan musik |
+| 음악 듣기 | eumak deutki [으막 듣끼] | mendengarkan musik |
 | 노래 부르기 | norae bureugi | menyanyi |
 | 춤 | chum | menari |
-| 악기 연주 | akgi yeonju | memainkan alat musik |
+| 악기 연주 | akki yeonju [악끼 연주] | memainkan alat musik |
 | 피아노를 치다 | pianoreul chida | bermain piano |
 | 기타를 치다 | gitareul chida | bermain gitar |
 
@@ -56,16 +56,16 @@ Alat musik yang dipukul atau dipetik, seperti piano dan gitar, memakai **치다*
 
 Untuk suatu tindakan, ubah kata kerjanya menjadi kata benda dengan **-기**. Ambil batang katanya lalu tambahkan **-기**: **읽다** → **읽기**, **찍다** → **찍기**.
 
-- **제 취미는 책 읽기예요.** (Je chwimineun chaek ilgiyeyo.) – Hobiku membaca buku.
-- **제 취미는 사진 찍기예요.** (Je chwimineun sajin jjikgiyeyo.) – Hobiku memotret.
+- **제 취미는 책 읽기예요.** (Je chwimineun chaek ilkkiyeyo. [책 일끼예요.]) – Hobiku membaca buku.
+- **제 취미는 사진 찍기예요.** (Je chwimineun sajin jjikkiyeyo. [제 취미는 사진 찍끼예요.]) – Hobiku memotret.
 
 **2. -는 것을 좋아해요.** Untuk mengatakan "aku suka melakukan …", tambahkan **-는 것을 좋아해요** pada batang kata kerja. Dalam percakapan, **것을** biasanya disingkat menjadi **걸**.
 
 | Kata kerja | + -는 것을 좋아해요 | Arti |
 |---|---|---|
 | 요리하다 (yorihada) | 요리하는 것을 좋아해요 (yorihaneun geoseul joahaeyo) | aku suka memasak |
-| [걷다](/id/dictionary/?q=걷다) (geotda) | 걷는 걸 좋아해요 (geonneun geol joahaeyo) | aku suka berjalan kaki |
-| 듣다 (deutda) | 음악 듣는 걸 좋아해요 (eumak deunneun geol joahaeyo) | aku suka mendengarkan musik |
+| [걷다](/id/dictionary/?q=걷다) (geotta [걷따]) | 걷는 걸 좋아해요 (geonneun geol joahaeyo) | aku suka berjalan kaki |
+| 듣다 (deutta [듣따]) | 음악 듣는 걸 좋아해요 (eumak deunneun geol joahaeyo) | aku suka mendengarkan musik |
 | 만들다 (mandeulda) | 만드는 걸 좋아해요 (mandeuneun geol joahaeyo) | aku suka membuat barang |
 | 그리다 (geurida) | 그림 그리는 걸 좋아해요 (geurim geurineun geol joahaeyo) | aku suka menggambar |
 
@@ -91,7 +91,7 @@ Dan untuk menjawab seberapa sering: **매일** (maeil) – setiap hari, **일주
 | Korea | Romanisasi | Arti |
 |---|---|---|
 | 취미가 뭐예요? | chwimiga mwoyeyo? | Apa hobimu? |
-| 제 취미는 독서예요 | je chwimineun dokseoyeyo | Hobiku membaca |
+| 제 취미는 독서예요 | je chwimineun doksseoyeyo [제 취미는 독써예요] | Hobiku membaca |
 | 등산하는 걸 좋아해요 | deungsanhaneun geol joahaeyo | Aku suka mendaki gunung |
 | 요즘 뜨개질을 배워요 | yojeum tteugaejireul baewoyo | Akhir-akhir ini aku belajar merajut |
 | 게임을 자주 해요 | geimeul jaju haeyo | Aku sering main game |

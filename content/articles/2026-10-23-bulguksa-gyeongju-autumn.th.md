@@ -56,6 +56,6 @@ draft: false
 | [주차장](/th/dictionary/?q=주차장) | juchajang | ที่จอดรถ |
 | [단풍](/th/dictionary/?q=단풍) | danpung | ใบไม้เปลี่ยนสี |
 
-**석굴암까지 얼마나 걸려요?** (seokguramkkaji eolmana geollyeoyo?) – ไปซ็อกกุรัมใช้เวลานานเท่าไร? ใส่ชื่อสถานที่ใดก็ได้ไว้หน้า **까지** (kkaji) "ถึง, จนถึง" เช่น **역까지** (yeokkkaji) "ถึงสถานี"
+**석굴암까지 얼마나 걸려요?** (seokkuramkkaji eolmana geollyeoyo? [석꾸람까지 얼마나 걸려요?]) – ไปซ็อกกุรัมใช้เวลานานเท่าไร? ใส่ชื่อสถานที่ใดก็ได้ไว้หน้า **까지** (kkaji) "ถึง, จนถึง" เช่น **역까지** (yeokkkaji) "ถึงสถานี"
 
 แหล่งที่มา: [Financial News – แผนที่ใบไม้เปลี่ยนสีปี 2026 (ภาษาเกาหลี)](https://www.fnnews.com/news/202610080943468392), [K Trip Tips – พุลกุกซา (ภาษาเกาหลี)](https://www.ktriptips.com/kor/tourspot/126166), [Telltrip – คู่มือเที่ยวพุลกุกซา (ภาษาเกาหลี)](https://www.telltrip.com/domestic-travel/bulguksa-winter-snow-sceneries-gyeongju/), [South Korea Hallyu – คู่มือพุลกุกซา](https://southkoreahallyu.com/bulguksa-temple-gyeongju/), [iVisitKorea – สิ่งที่น่าทำในคย็องจู](https://www.ivisitkorea.com/things-to-do-in-gyeongju/)

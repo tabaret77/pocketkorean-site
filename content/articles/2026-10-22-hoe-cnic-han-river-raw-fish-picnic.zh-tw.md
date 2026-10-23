@@ -44,7 +44,7 @@ draft: false
 | 치맥 | chimaek | 炸雞配啤酒 |
 | [수산시장](/zh-tw/dictionary/?q=수산시장) | susansijang | 魚市場、水產市場 |
 | [포장](/zh-tw/dictionary/?q=포장) | pojang | 包裝；外帶 |
-| 돗자리 | dotjari | 野餐墊 |
+| 돗자리 | dotjjari [돋짜리] | 野餐墊 |
 | 광어 | gwangeo | 比目魚（牙鮃） |
 | 초고추장 | chogochujang | 紅色辣椒沾醬 |
 

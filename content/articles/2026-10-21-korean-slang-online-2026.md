@@ -31,13 +31,13 @@ A quick rule first: all of these are **casual**. Use them with friends and in co
 
 **꿀잼** (kkuljaem) – super fun. **꿀** (kkul) means honey, and **잼** (jaem) comes from **재미** (jaemi) – fun. The opposite is **노잼** (nojaem) – boring, "no fun", from English "no" plus 잼.
 
-**갑분싸** (gapbunssa) – short for **갑자기 분위기 싸해짐** (gapjagi bunwigi ssahaejim) – "the mood suddenly went cold". It's what happens when someone makes an awkward joke.
+**갑분싸** (gappunssa [갑뿐싸]) – short for **갑자기 분위기 싸해짐** (gapjjagi bunwigi ssahaejim [갑짜기 부뉘기 싸해짐]) – "the mood suddenly went cold". It's what happens when someone makes an awkward joke.
 
 ## People and lifestyle
 
 **인싸** (inssa) – a popular, sociable person, from English "insider". The opposite is **아싸** (assa) – a loner, from "outsider". Both are casual and sometimes used self-mockingly: **저 완전 아싸예요** (Jeo wanjeon assayeyo) – "I'm a total loner."
 
-**갓생** (gatsaeng) – a productive, disciplined life. It combines English "God" with **생** (saeng), from **인생** (insaeng) – life. People post about **갓생 살기** (gatsaeng salgi) – "living a god-tier life": waking up early, studying, exercising.
+**갓생** (gatssaeng [갇쌩]) – a productive, disciplined life. It combines English "God" with **생** (saeng), from **인생** (insaeng) – life. People post about **갓생 살기** (gatssaeng salgi [갇쌩 살기]) – "living a god-tier life": waking up early, studying, exercising.
 
 **오운완** (ounwan) – short for **오늘 운동 완료** (oneul undong wallyo) – "today's workout: done". You'll see it as a hashtag on gym selfies.
 
@@ -49,7 +49,7 @@ A quick rule first: all of these are **casual**. Use them with friends and in co
 
 **국룰** (gungnul) – "the national rule", meaning an unwritten rule everyone follows. For example: **치킨엔 콜라가 국룰이지** (Chikinen kollaga gungnuriji) – "Chicken with cola – that's just the rule."
 
-**킹받다** (kingbatda) – to be really annoyed. It mixes English "king" (meaning extremely) with **열받다** (yeolbatda) – to get angry. It's playful rather than truly angry: **아, 킹받네** (A, kingbanne) – "Ugh, that's so annoying." Casual, but not rude.
+**킹받다** (kingbatta [킹받따]) – to be really annoyed. It mixes English "king" (meaning extremely) with **열받다** (yeolbatta [열받따]) – to get angry. It's playful rather than truly angry: **아, 킹받네** (A, kingbanne) – "Ugh, that's so annoying." Casual, but not rude.
 
 **손절** (sonjeol) – cutting someone off. Originally a stock-market term for "stop-loss", it now means ending a friendship or relationship. It can sound harsh, so be careful saying it about real people.
 
@@ -59,7 +59,7 @@ A quick rule first: all of these are **casual**. Use them with friends and in co
 
 **존맛** (jonmat) or **존맛탱** (jonmattaeng) – "insanely delicious". It's everywhere in food posts, but the prefix **존-** (jon-) comes from a vulgar word. Fine between close friends online; never use it with anyone older or in polite company. You'll also see it written as **JMT**, its initials in English letters, which is just as rude. A safe alternative is **완전 맛있어요** (wanjeon masisseoyo) – "really delicious".
 
-**개-** (gae-) as a prefix, as in **개웃겨** (gaeutgyeo) – "hilarious" – means "extremely". **개** literally means dog, and the prefix is crude. Young people use it a lot among friends, but it sounds rough to many listeners.
+**개-** (gae-) as a prefix, as in **개웃겨** (gaeutkyeo [개욷껴]) – "hilarious" – means "extremely". **개** literally means dog, and the prefix is crude. Young people use it a lot among friends, but it sounds rough to many listeners.
 
 ## Korean you can use
 
@@ -69,9 +69,9 @@ A quick rule first: all of these are **casual**. Use them with friends and in co
 | 헐 | heol | whoa, no way |
 | 대박 | daebak | awesome, unbelievable |
 | 꿀잼 / 노잼 | kkuljaem / nojaem | super fun / boring |
-| [갓생](/en/dictionary/?q=갓생) | gatsaeng | a productive life |
+| [갓생](/en/dictionary/?q=갓생) | gatssaeng [갇쌩] | a productive life |
 | 내돈내산 | naedonnaesan | bought with my own money |
 | 국룰 | gungnul | an unwritten rule |
-| [킹받다](/en/dictionary/?q=킹받다) | kingbatda | to be really annoyed (casual) |
+| [킹받다](/en/dictionary/?q=킹받다) | kingbatta [킹받따] | to be really annoyed (casual) |
 
 Slang changes fast, and words that feel fresh today may sound dated in a year or two. Learn to recognise these, use a few with friends, and keep standard Korean as your default everywhere else.

@@ -13,7 +13,7 @@ phrase_meaning: thịt ba chỉ nướng
 draft: false
 ---
 
-Một quán thịt nướng Hàn Quốc thường ồn ào, nghi ngút khói và thân thiện, và lần đầu đến có thể khiến bạn bối rối. Có một bếp nướng giữa bàn, một thực đơn nhỏ dán trên tường, và nhân viên di chuyển rất nhanh. Dưới đây là diễn biến của một bữa **삼겹살** (samgyeopsal) – thịt ba chỉ – điển hình, và nên nói gì ở từng bước.
+Một quán thịt nướng Hàn Quốc thường ồn ào, nghi ngút khói và thân thiện, và lần đầu đến có thể khiến bạn bối rối. Có một bếp nướng giữa bàn, một thực đơn nhỏ dán trên tường, và nhân viên di chuyển rất nhanh. Dưới đây là diễn biến của một bữa **삼겹살** (samgyeopssal [삼겹쌀]) – thịt ba chỉ – điển hình, và nên nói gì ở từng bước.
 
 ## Bước 1: Ngồi xuống và báo số người
 
@@ -31,7 +31,7 @@ Nhiều quán thịt nướng yêu cầu **tối thiểu hai suất** cho lần 
 
 Các phần thịt được ưa chuộng khác:
 
-- **목살** (moksal) – thịt cổ/vai heo, nạc hơn một chút
+- **목살** (mokssal [목쌀]) – thịt cổ/vai heo, nạc hơn một chút
 - **항정살** (hangjeongsal) – thịt má heo (nọng), béo và dai giòn
 - **갈비** (galbi) – sườn, thường được ướp sẵn
 
@@ -45,7 +45,7 @@ Nếu muốn nhờ nhân viên: **상추 좀 더 주세요.** (sangchu jom deo j
 
 ## Bước 4: Ai là người nướng?
 
-Còn tùy quán. Ở một số nơi, nhân viên sẽ nướng và cắt thịt giúp bạn; ở nhiều quán bình dân, thực khách tự làm. Nếu không thấy ai đến, đó là việc của bạn. Dùng **집게** (jipge), cái kẹp, để lật thịt và **가위** (gawi), cái kéo, để cắt thịt thành miếng vừa ăn khi cả hai mặt đã vàng.
+Còn tùy quán. Ở một số nơi, nhân viên sẽ nướng và cắt thịt giúp bạn; ở nhiều quán bình dân, thực khách tự làm. Nếu không thấy ai đến, đó là việc của bạn. Dùng **집게** (jipke [집께]), cái kẹp, để lật thịt và **가위** (gawi), cái kéo, để cắt thịt thành miếng vừa ăn khi cả hai mặt đã vàng.
 
 Không chắc thịt đã chín chưa? Hãy hỏi **이거 다 익었어요?** (igeo da igeosseoyo?) – "Cái này chín chưa ạ?" Khi vỉ nướng bị cháy đen và dính, hãy nói **불판 좀 갈아 주세요.** (bulpan jom gara juseyo.) – "Thay giúp tôi vỉ nướng với ạ."
 
@@ -55,7 +55,7 @@ Không chắc thịt đã chín chưa? Hãy hỏi **이거 다 익었어요?** (
 
 ## Phép lịch sự khi uống rượu
 
-Thịt nướng thường đi kèm **소주** (soju) hoặc **맥주** (maekju), bia. Một vài phong tục:
+Thịt nướng thường đi kèm **소주** (soju) hoặc **맥주** (maekjju [맥쭈]), bia. Một vài phong tục:
 
 - Đừng tự rót cho mình; hãy rót cho người khác, và họ sẽ rót cho bạn.
 - Khi người lớn tuổi hơn rót cho bạn, hãy cầm ly bằng **hai tay**.
@@ -66,7 +66,7 @@ Không ai mong khách nước ngoài làm đúng hết, nhưng việc bạn cố
 
 ## Bước 6: Kết thúc bữa ăn như người bản xứ
 
-Người Hàn thường kết thúc bữa thịt nướng bằng món gì đó có tinh bột. Hãy thử **된장찌개** (doenjang-jjigae), canh tương đậu, với **공깃밥** (gonggitbap), một bát cơm, hoặc **볶음밥** (bokkeumbap), cơm chiên làm ngay trên vỉ nướng với phần đồ ăn còn lại. Mì lạnh, **냉면** (naengmyeon), cũng là món được yêu thích.
+Người Hàn thường kết thúc bữa thịt nướng bằng món gì đó có tinh bột. Hãy thử **된장찌개** (doenjang-jjigae), canh tương đậu, với **공깃밥** (gonggitpap [공긷빱]), một bát cơm, hoặc **볶음밥** (bokkeumbap), cơm chiên làm ngay trên vỉ nướng với phần đồ ăn còn lại. Mì lạnh, **냉면** (naengmyeon), cũng là món được yêu thích.
 
 ## Bước 7: Thanh toán ở quầy
 

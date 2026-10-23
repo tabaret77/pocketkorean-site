@@ -72,7 +72,7 @@ draft: false
 | [한옥](/mn/dictionary/?q=한옥) | hanok | солонгос уламжлалт байшин |
 | [한복](/mn/dictionary/?q=한복) | hanbok | солонгос уламжлалт хувцас |
 | 매표소 | maepyoso | тасалбарын касс |
-| 입장료 | ipjangnyo | орох төлбөр |
+| 입장료 | ipjjangnyo [입짱뇨] | орох төлбөр |
 | 몇 시까지 해요? | myeot sikkaji haeyo? | Хэдэн цаг хүртэл ажилладаг вэ? (эелдэг) |
 | 사진 찍어도 돼요? | sajin jjigeodo dwaeyo? | Зураг авч болох уу? (эелдэг) |
 | 조용히 해 주세요 | joyonghi hae juseyo | Чимээгүй байна уу |

@@ -30,7 +30,7 @@ In episode 4, Su-jeong saves a patient in urgent need of a transfusion, notices 
 
 ## Why it matters for learners
 
-Medical dramas are a great way to pick up practical Korean. Words like [병원](/en/dictionary/?q=병원) (byeongwon) – hospital, **응급실** (eungeupsil) – emergency room and **수술** (susul) – surgery come up in every episode, and they are just as useful if you ever need a doctor in Korea. Listen for the polite, formal speech between doctors and patients, and the much rougher casual speech between rivals.
+Medical dramas are a great way to pick up practical Korean. Words like [병원](/en/dictionary/?q=병원) (byeongwon) – hospital, **응급실** (eungeupssil [응급씰]) – emergency room and **수술** (susul) – surgery come up in every episode, and they are just as useful if you ever need a doctor in Korea. Listen for the polite, formal speech between doctors and patients, and the much rougher casual speech between rivals.
 
 ## Korean from this story
 
@@ -40,7 +40,7 @@ Medical dramas are a great way to pick up practical Korean. Words like [병원](
 | 최고 시청률 | choego sicheongnyul | highest ratings (so far) |
 | 첫 방송 | cheot bangsong | premiere, first broadcast |
 | 병원 | byeongwon | hospital |
-| 응급실 | eungeupsil | emergency room |
+| 응급실 | eungeupssil [응급씰] | emergency room |
 | 수술 | susul | surgery, operation |
 | 외과 의사 | oegwa uisa | surgeon |
 

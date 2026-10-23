@@ -56,6 +56,6 @@ Gyeongju nhỏ và dễ đi bộ, các di tích cổ nằm gần nhau. Sau Bulgu
 | [주차장](/vi/dictionary/?q=주차장) | juchajang | bãi đỗ xe |
 | [단풍](/vi/dictionary/?q=단풍) | danpung | lá mùa thu |
 
-**석굴암까지 얼마나 걸려요?** (seokguramkkaji eolmana geollyeoyo?) – Đến Seokguram mất bao lâu? Bạn có thể thay bất kỳ địa điểm nào trước **까지** (kkaji), "đến", ví dụ **역까지** (yeokkkaji), "đến nhà ga".
+**석굴암까지 얼마나 걸려요?** (seokkuramkkaji eolmana geollyeoyo? [석꾸람까지 얼마나 걸려요?]) – Đến Seokguram mất bao lâu? Bạn có thể thay bất kỳ địa điểm nào trước **까지** (kkaji), "đến", ví dụ **역까지** (yeokkkaji), "đến nhà ga".
 
 Nguồn: [Financial News – bản đồ lá mùa thu 2026 (tiếng Hàn)](https://www.fnnews.com/news/202610080943468392), [K Trip Tips – Bulguksa (tiếng Hàn)](https://www.ktriptips.com/kor/tourspot/126166), [Telltrip – hướng dẫn tham quan Bulguksa (tiếng Hàn)](https://www.telltrip.com/domestic-travel/bulguksa-winter-snow-sceneries-gyeongju/), [South Korea Hallyu – hướng dẫn Bulguksa](https://southkoreahallyu.com/bulguksa-temple-gyeongju/), [iVisitKorea – những điều nên làm ở Gyeongju](https://www.ivisitkorea.com/things-to-do-in-gyeongju/)

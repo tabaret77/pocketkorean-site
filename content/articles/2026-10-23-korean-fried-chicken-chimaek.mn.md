@@ -45,7 +45,7 @@ draft: false
 |---|---|---|
 | 치킨 | chikin | шарсан тахиа |
 | 치맥 | chimaek | тахиа ба шар айраг |
-| [맥주](/mn/dictionary/?q=맥주) | maekju | шар айраг |
+| [맥주](/mn/dictionary/?q=맥주) | maekjju [맥쭈] | шар айраг |
 | 양념 | yangnyeom | амтлагч; соустай тахиа |
 | 반반 | banban | хагас хагас |
 | 순살 | sunsal | ясгүй |

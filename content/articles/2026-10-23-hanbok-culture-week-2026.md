@@ -22,7 +22,7 @@ Awards went to people who keep hanbok alive. Professor emerita Kwon Young-sook o
 
 ## What you can do this week
 
-- **Gyeongbokgung Palace**: a traditional hanbok exhibition and a campaign on how to wear hanbok properly – **한복 바르게 입기** (hanbok bareuge ipgi).
+- **Gyeongbokgung Palace**: a traditional hanbok exhibition and a campaign on how to wear hanbok properly – **한복 바르게 입기** (hanbok bareuge ipki [한복 바르게 입끼]).
 - **Namsangol Hanok Village**: a "little scholar" entrance ceremony for children, based on the old ceremony for a crown prince entering school.
 - **Jeonju and South Jeolla**: hanbok accessory making, a hanbok party and natural-dye workshops.
 - **Abroad**: hanbok-wearing sessions and etiquette classes in Canada, Japan and Denmark.
@@ -46,7 +46,7 @@ The verb for wearing clothes is [입다](/en/dictionary/?q=입다) (ipta [입따
 | 문화주간 | munhwa jugan | culture week |
 | 입다 | ipta [입따] | to wear (clothes) |
 | 할인 | harin | discount |
-| 입장료 | ipjangnyo | admission fee |
+| 입장료 | ipjjangnyo [입짱뇨] | admission fee |
 | 박물관 | bangmulgwan | museum |
 | 천연 염색 | cheonyeon yeomsaek | natural dyeing |
 | 교복 | gyobok | school uniform |

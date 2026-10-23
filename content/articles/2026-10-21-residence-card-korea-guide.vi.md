@@ -33,7 +33,7 @@ Nếu không thấy lịch trống, hãy kiểm tra lại vào sáng sớm; nh�
 
 Danh sách cụ thể tùy thuộc vào loại visa, nhưng hầu hết mọi người cần:
 
-- **Hộ chiếu** – **여권** (yeokgwon), kèm bản sao trang ảnh và trang visa
+- **Hộ chiếu** – **여권** (yeokkwon [여꿘]), kèm bản sao trang ảnh và trang visa
 - **Đơn đăng ký** – **신청서** (sincheongseo), "đơn đăng ký tổng hợp", tải từ HiKorea hoặc lấy tại văn phòng
 - **Một ảnh màu** chụp trong vòng sáu tháng gần nhất, kiểu ảnh hộ chiếu, nền trắng
 - **Giấy tờ chứng minh địa chỉ**: hợp đồng thuê nhà, giấy xác nhận ký túc xá hoặc giấy tờ tương tự
@@ -45,7 +45,7 @@ Hãy mang thêm một bản sao của mọi thứ. Mỗi văn phòng một khác
 
 ## Bước 3: Tại văn phòng xuất nhập cảnh
 
-Hãy đến sớm một chút, lấy số thứ tự hoặc xuất trình lịch hẹn, rồi chờ được gọi. Tại quầy, cán bộ sẽ kiểm tra giấy tờ, lấy **지문** (jimun) – dấu vân tay – và đưa bạn giấy biên nhận. Hãy giữ kỹ giấy biên nhận này – **접수증** (jeopsujeung); bạn cần nó để nhận thẻ.
+Hãy đến sớm một chút, lấy số thứ tự hoặc xuất trình lịch hẹn, rồi chờ được gọi. Tại quầy, cán bộ sẽ kiểm tra giấy tờ, lấy **지문** (jimun) – dấu vân tay – và đưa bạn giấy biên nhận. Hãy giữ kỹ giấy biên nhận này – **접수증** (jeopssujeung [접쑤증]); bạn cần nó để nhận thẻ.
 
 Những câu hữu ích tại quầy:
 
@@ -71,10 +71,10 @@ Số đăng ký 13 chữ số của bạn sẽ được hỏi liên tục, từ 
 |---|---|---|
 | [외국인등록증](/vi/dictionary/?q=외국인등록증) | oegugin deungnokjeung | thẻ cư trú |
 | [예약](/vi/dictionary/?q=예약) | yeyak | đặt lịch, lịch hẹn |
-| 출입국 | churipguk | xuất nhập cảnh |
+| 출입국 | churipkuk [추립꾹] | xuất nhập cảnh |
 | [수수료](/vi/dictionary/?q=수수료) | susuryo | lệ phí |
 | 체류지 변경 신고 | cheryuji byeongyeong singo | khai báo thay đổi địa chỉ cư trú |
-| 접수증 | jeopsujeung | giấy biên nhận hồ sơ |
+| 접수증 | jeopssujeung [접쑤증] | giấy biên nhận hồ sơ |
 | 언제 받을 수 있어요? | eonje badeul su isseoyo? | Khi nào tôi nhận được ạ? (lịch sự) |
 
 Làm thẻ cần một chút kiên nhẫn, nhưng một khi nó đã nằm trong ví bạn, mọi thứ khác trong cuộc sống ở Hàn Quốc sẽ dễ dàng hơn nhiều.

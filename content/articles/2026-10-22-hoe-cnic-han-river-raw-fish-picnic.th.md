@@ -44,7 +44,7 @@ draft: false
 | 치맥 | chimaek | ไก่ทอดกับเบียร์ |
 | [수산시장](/th/dictionary/?q=수산시장) | susansijang | ตลาดปลา |
 | [포장](/th/dictionary/?q=포장) | pojang | การห่อ; ซื้อกลับบ้าน |
-| 돗자리 | dotjari | เสื่อปิกนิก |
+| 돗자리 | dotjjari [돋짜리] | เสื่อปิกนิก |
 | 광어 | gwangeo | ปลาตาเดียว (olive flounder) |
 | 초고추장 | chogochujang | น้ำจิ้มพริกแดง |
 

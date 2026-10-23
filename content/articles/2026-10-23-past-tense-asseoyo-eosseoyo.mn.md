@@ -28,9 +28,9 @@ draft: false
 |---|---|---|---|
 | [살다](/mn/dictionary/?q=살다) (salda) | 살- | 살았어요 (sarasseoyo) | Би амьдарсан |
 | 좋다 (jota) | 좋- | 좋았어요 (joasseoyo) | сайхан байсан |
-| [먹다](/mn/dictionary/?q=먹다) (meokda) | 먹- | 먹었어요 (meogeosseoyo) | Би идсэн |
-| 읽다 (ikda) | 읽- | 읽었어요 (ilgeosseoyo) | Би уншсан |
-| 맛있다 (masitda) | 맛있- | 맛있었어요 (masisseosseoyo) | амттай байсан |
+| [먹다](/mn/dictionary/?q=먹다) (meokta [먹따]) | 먹- | 먹었어요 (meogeosseoyo) | Би идсэн |
+| 읽다 (ikta [익따]) | 읽- | 읽었어요 (ilgeosseoyo) | Би уншсан |
+| 맛있다 (masitta [마싣따]) | 맛있- | 맛있었어요 (masisseosseoyo) | амттай байсан |
 | [공부하다](/mn/dictionary/?q=공부하다) (gongbuhada) | 공부하- | 공부했어요 (gongbuhaesseoyo) | Би хичээл хийсэн |
 | 일하다 (ilhada) | 일하- | 일했어요 (ilhaesseoyo) | Би ажилласан |
 
@@ -61,8 +61,8 @@ draft: false
 
 Дүрмийн бус үйл үгс өнгөрсөн цагт одоо цагтай яг адилхан өөрчлөгддөг тул хосоор нь цээжлээрэй:
 
-- **듣다** (deutda) – сонсох → 들었어요 (deureosseoyo)
-- **춥다** (chupda) – хүйтэн байх → 추웠어요 (chuwosseoyo)
+- **듣다** (deutta [듣따]) – сонсох → 들었어요 (deureosseoyo)
+- **춥다** (chupta [춥따]) – хүйтэн байх → 추웠어요 (chuwosseoyo)
 - **바쁘다** (bappeuda) – завгүй байх → 바빴어요 (bappasseoyo)
 - **쓰다** (sseuda) – бичих, хэрэглэх → 썼어요 (sseosseoyo)
 - **모르다** (moreuda) – мэдэхгүй байх → 몰랐어요 (mollasseoyo)
@@ -92,7 +92,7 @@ draft: false
 4. 덥다 (халуун байх)
 5. 학생 (оюутан) + байсан
 
-**Хариулт:** 1. 만났어요 (mannasseoyo) 2. 마셨어요 (masyeosseoyo) 3. 청소했어요 (cheongsohaesseoyo) 4. 더웠어요 (deowosseoyo) 5. 학생이었어요 (haksaengieosseoyo)
+**Хариулт:** 1. 만났어요 (mannasseoyo) 2. 마셨어요 (masyeosseoyo) 3. 청소했어요 (cheongsohaesseoyo) 4. 더웠어요 (deowosseoyo) 5. 학생이었어요 (hakssaengieosseoyo [학쌩이어써요])
 
 ## Хэрэглэж болох солонгос хэллэгүүд
 

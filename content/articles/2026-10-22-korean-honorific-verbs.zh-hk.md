@@ -20,14 +20,14 @@ draft: false
 
 | 一般 | 尊敬 | 意思 |
 |---|---|---|
-| 먹다 (meokda), 마시다 (masida) | **[드시다](/zh-hk/dictionary/?q=드시다)** (deusida) | 吃、喝 |
-| 먹다 (meokda) | **[잡수시다](/zh-hk/dictionary/?q=잡수시다)** (japsusida) | 吃（非常尊敬） |
+| 먹다 (meokta [먹따]), 마시다 (masida) | **[드시다](/zh-hk/dictionary/?q=드시다)** (deusida) | 吃、喝 |
+| 먹다 (meokta [먹따]) | **[잡수시다](/zh-hk/dictionary/?q=잡수시다)** (japssusida [잡쑤시다]) | 吃（非常尊敬） |
 | 자다 (jada) | **[주무시다](/zh-hk/dictionary/?q=주무시다)** (jumusida) | 睡 |
-| 있다 (itda) | **[계시다](/zh-hk/dictionary/?q=계시다)** (gyesida) | 在（某處） |
+| 있다 (itta [읻따]) | **[계시다](/zh-hk/dictionary/?q=계시다)** (gyesida) | 在（某處） |
 | 말하다 (malhada) | **말씀하시다** (malsseumhasida) | 說 |
-| 죽다 (jukda) | **돌아가시다** (doragasida) | 去世 |
+| 죽다 (jukta [죽따]) | **돌아가시다** (doragasida) | 去世 |
 
-所以你會對朋友說 **밥 먹었어?**（Bap meogeosseo?），但對嫲嫲就要說 **할머니, 진지 드셨어요?**（Halmeoni, jinji deusyeosseoyo?）。잡수시다 更加尊敬，聽起來略為老派；你多數會在祖父母身上聽到：**진지 잡수셨어요?**（Jinji japsusyeosseoyo?）
+所以你會對朋友說 **밥 먹었어?**（Bap meogeosseo?），但對嫲嫲就要說 **할머니, 진지 드셨어요?**（Halmeoni, jinji deusyeosseoyo?）。잡수시다 更加尊敬，聽起來略為老派；你多數會在祖父母身上聽到：**진지 잡수셨어요?**（Jinji japssusyeosseoyo? [진지 잡쑤셔써요?]）
 
 睡覺前，**잘 자**（jal ja）——晚安——對任何長輩都要變成 **안녕히 주무세요**（annyeonghi jumuseyo）。
 
@@ -40,8 +40,8 @@ draft: false
 | 一般 | 謙讓 | 意思 |
 |---|---|---|
 | 주다 (juda) | **[드리다](/zh-hk/dictionary/?q=드리다)** (deurida) | 給 |
-| 묻다 (mutda) | **[여쭙다](/zh-hk/dictionary/?q=여쭙다)** (yeojjupda) | 問 |
-| 보다 (boda) | **뵙다** (boepda) | 看、見面 |
+| 묻다 (mutta [묻따]) | **[여쭙다](/zh-hk/dictionary/?q=여쭙다)** (yeojjupta [여쭙따]) | 問 |
+| 보다 (boda) | **뵙다** (boepta [뵙따]) | 看、見面 |
 | 데리다 (derida) | **모시다** (mosida) | 帶、陪同 |
 
 其中一些你在慣用語中已經學過：**처음 뵙겠습니다**（cheoeum boepgetseumnida）——「初次見面」——以及店員說的 **뭐 드릴까요?**（Mwo deurilkkayo?）——「請問要甚麼？」向老師提問時：**하나 여쭤봐도 될까요?**（Hana yeojjwobwado doelkkayo?）——我可以請教您一個問題嗎？

@@ -34,7 +34,7 @@ Puede que al subir oigas **어디로 가세요?** (eodiro gaseyo?): "¿Adónde v
 6. **아이스 아메리카노 한 잔 주세요.** (aiseu amerikano han jan juseyo.): Un americano con hielo, por favor. ***잔** (jan) es el contador para tazas y vasos: 한 잔 (han jan), uno; 두 잔 (du jan), dos.*
 7. **따뜻한 걸로 주세요.** (ttatteutan geollo juseyo.): Uno caliente, por favor. *Para muchos coreanos, las bebidas con hielo son la opción por defecto, incluso en invierno, así que el personal puede preguntar: **따뜻한 거요, 아이스요?** (ttatteutan geoyo, aiseuyo?): "¿Caliente o con hielo?".*
 8. **먹고 갈게요. / 가져갈게요.** (meokgo galgeyo. / gajyeogalgeyo.): Para tomar aquí. / Para llevar. *A menudo te preguntarán **드시고 가세요?** (deusigo gaseyo?): "¿Es para tomar aquí?".*
-9. **얼음 적게 주세요.** (eoreum jeokge juseyo.): Con menos hielo, por favor.
+9. **얼음 적게 주세요.** (eoreum jeokke juseyo. [어름 적께 주세요.]): Con menos hielo, por favor.
 10. **화장실 비밀번호가 뭐예요?** (hwajangsil bimilbeonhoga mwoyeyo?): ¿Cuál es la clave del baño? *Muchos baños de cafeterías tienen cerradura con teclado; la clave suele venir impresa en el recibo.*
 
 Cuando tu bebida esté lista, puede que vibre un localizador (**진동벨**, jindongbel), o que el personal diga en voz alta tu número de pedido.
@@ -46,10 +46,10 @@ Las tiendas de conveniencia coreanas (**편의점**, pyeonuijeom) venden de todo
 11. **봉투 하나 주세요.** (bongtu hana juseyo.): Una bolsa, por favor. *Las bolsas no son gratis, así que el cajero a menudo preguntará **봉투 필요하세요?** (bongtu piryohaseyo?): "¿Necesita bolsa?". Si no: **괜찮아요** (gwaenchanayo), "Así está bien, gracias".*
 12. **이거 원 플러스 원이에요?** (igeo won peulleoseu wonieyo?): ¿Esto es dos por uno? *Busca las etiquetas "1+1" y "2+1" en los estantes.*
 13. **교통카드 충전해 주세요.** (gyotong kadeu chungjeonhae juseyo.): Recárgueme la tarjeta de transporte, por favor. *Entrega la tarjeta junto con el efectivo.*
-14. **젓가락 주세요.** (jeotgarak juseyo.): Unos palillos, por favor. *Útil cuando compras fideos instantáneos o una comida preparada.*
+14. **젓가락 주세요.** (jeotkarak juseyo. [젇까락 주세요.]): Unos palillos, por favor. *Útil cuando compras fideos instantáneos o una comida preparada.*
 15. **영수증은 괜찮아요.** (yeongsujeungeun gwaenchanayo.): No necesito el recibo.
 
-El cajero también puede preguntar **포인트 카드 있으세요?** (pointeu kadeu isseuseyo?): "¿Tiene tarjeta de puntos?". Basta con un simple **없어요** (eopseoyo): "No tengo".
+El cajero también puede preguntar **포인트 카드 있으세요?** (pointeu kadeu isseuseyo?): "¿Tiene tarjeta de puntos?". Basta con un simple **없어요** (eopsseoyo [업써요]): "No tengo".
 
 ## Dos frases que sirven en todas partes
 

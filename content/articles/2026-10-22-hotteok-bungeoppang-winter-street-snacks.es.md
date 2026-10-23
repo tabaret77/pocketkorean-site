@@ -33,7 +33,7 @@ Los **군고구마** (gungoguma) son camotes asados en un tambor de metal o en u
 
 Los precios varían de un puesto a otro. A octubre de 2026 no hay un precio oficial, pero las noticias del invierno pasado describían que el bungeoppang solía venderse a unos 2.000 wones por tres piezas, y algunos puestos cobraban 1.000 wones por pieza. Los coreanos mayores recuerdan tres o hasta cuatro por 1.000 wones.
 
-También se ha vuelto más difícil encontrar puestos. Según un reportaje de noviembre de 2025, el precio del frijol rojo aumentó más de una vez y media en un año, la harina y el aceite siguieron caros, y el número de vendedores ambulantes en Seúl cayó más de una quinta parte, de 6.079 en 2020 a 4.741 en el conteo más reciente citado. Muchos coreanos usan ahora una app de mapas colaborativa, **가슴속3천원** (gaseumsok samcheonwon), "3.000 wones en mi corazón", para encontrar el puesto más cercano. Incluso hay una palabra en broma para quien vive cerca de uno: **붕세권** (bungsegwon), un juego con **역세권** (yeoksegwon), "a poca distancia a pie de una estación".
+También se ha vuelto más difícil encontrar puestos. Según un reportaje de noviembre de 2025, el precio del frijol rojo aumentó más de una vez y media en un año, la harina y el aceite siguieron caros, y el número de vendedores ambulantes en Seúl cayó más de una quinta parte, de 6.079 en 2020 a 4.741 en el conteo más reciente citado. Muchos coreanos usan ahora una app de mapas colaborativa, **가슴속3천원** (gaseumsok samcheonwon), "3.000 wones en mi corazón", para encontrar el puesto más cercano. Incluso hay una palabra en broma para quien vive cerca de uno: **붕세권** (bungsegwon), un juego con **역세권** (yeokssegwon [역쎄권]), "a poca distancia a pie de una estación".
 
 Lleva efectivo o ten lista una opción de transferencia bancaria: muchos puestos pequeños prefieren efectivo, aunque cada vez más aceptan tarjeta.
 
@@ -58,7 +58,7 @@ Señala y usa un número con **개** (gae), el clasificador general para cosas:
 | [어묵](/es/dictionary/?q=어묵) | eomuk | pastel de pescado |
 | [국물](/es/dictionary/?q=국물) | gungmul | caldo |
 | [포장](/es/dictionary/?q=포장) | pojang | envoltura, para llevar |
-| [뜨겁다](/es/dictionary/?q=뜨겁다) | tteugeopda | estar caliente (al tacto) |
+| [뜨겁다](/es/dictionary/?q=뜨겁다) | tteugeopta [뜨겁따] | estar caliente (al tacto) |
 
 **[cantidad de dinero] + 어치 주세요.**: **삼천 원어치 주세요.** (samcheon woneochi juseyo.): Deme 3.000 wones, por favor.
 

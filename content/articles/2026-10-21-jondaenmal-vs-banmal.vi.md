@@ -29,7 +29,7 @@ Trong hầu hết trường hợp, bạn tạo ra 반말 chỉ bằng cách bỏ
 | 네 (ne) | 응 (eung) / 어 (eo) | vâng, ừ |
 | 아니요 (aniyo) | 아니 (ani) | không |
 | 저 / 제가 (jeo / jega) | 나 / 내가 (na / naega) | tôi |
-| 학생이에요 (haksaengieyo) | 학생이야 (haksaengiya) | (tôi) là học sinh |
+| 학생이에요 (hakssaengieyo [학쌩이에요]) | 학생이야 (hakssaengiya [학쌩이야]) | (tôi) là học sinh |
 | 친구예요 (chinguyeyo) | 친구야 (chinguya) | (đó) là bạn |
 | 안녕하세요 (annyeonghaseyo) | 안녕 (annyeong) | xin chào |
 

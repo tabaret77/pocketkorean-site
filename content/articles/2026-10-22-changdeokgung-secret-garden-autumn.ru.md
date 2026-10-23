@@ -53,10 +53,10 @@ draft: false
 | [단풍](/ru/dictionary/?q=단풍) | danpung | осенняя листва |
 | [연못](/ru/dictionary/?q=연못) | yeonmot | пруд |
 | [정자](/ru/dictionary/?q=정자) | jeongja | павильон |
-| [입장권](/ru/dictionary/?q=입장권) | ipjanggwon | входной билет |
+| [입장권](/ru/dictionary/?q=입장권) | ipjjanggwon [입짱권] | входной билет |
 | [예약](/ru/dictionary/?q=예약) | yeyak | бронирование |
 | 휴궁일 | hyugung-il | выходной день дворца |
 
-**후원 입장권 두 장 주세요.** (huwon ipjanggwon du jang juseyo.) — Два билета в Тайный сад, пожалуйста. Меняйте число перед **장** (jang) — счётным словом для билетов и листов бумаги: 한 장 (han jang), 세 장 (se jang).
+**후원 입장권 두 장 주세요.** (huwon ipjjanggwon du jang juseyo. [후원 입짱권 두 장 주세요.]) — Два билета в Тайный сад, пожалуйста. Меняйте число перед **장** (jang) — счётным словом для билетов и листов бумаги: 한 장 (han jang), 세 장 (se jang).
 
 Источники: [The Seoul Guide – Changdeokgung](https://www.theseoulguide.com/changdeokgung-palace/), [Telltrip – Changdeokgung Huwon (на корейском)](https://www.telltrip.com/domestic-travel/changdeokgung-huwon-secret-garden-visit/), [Segye Ilbo – free Wednesdays at palaces (на корейском)](https://www.segye.com/newsView/20260526512458), [Mileasia – Changdeokgung guide](https://mileasia.com/korea/changdeokgung-palace/)

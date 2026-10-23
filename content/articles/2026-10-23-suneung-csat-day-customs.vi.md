@@ -38,9 +38,9 @@ Nếu đi lại vào ngày hôm đó, hãy chuẩn bị tinh thần cho đườn
 
 ## Quà dẻo dính và món canh trơn trượt
 
-Nhiều phong tục được xây dựng từ trò chơi chữ. Trong tiếng Hàn, đỗ kỳ thi tuyển sinh là "dính" vào trường đại học: **붙다** (butda). Vì vậy những món quà may mắn kinh điển đều dẻo dính: **[엿](/vi/dictionary/?q=엿)** (yeot), kẹo mạch nha truyền thống dẻo dai, và **[찹쌀떡](/vi/dictionary/?q=찹쌀떡)** (chapssaltteok), bánh gạo nếp. Có người tặng nĩa để "chọn trúng" đáp án đúng, hoặc khăn giấy để "giải" các câu hỏi trơn tru. Ngày nay sô-cô-la, thẻ quà tặng và vitamin cũng phổ biến không kém.
+Nhiều phong tục được xây dựng từ trò chơi chữ. Trong tiếng Hàn, đỗ kỳ thi tuyển sinh là "dính" vào trường đại học: **붙다** (butta [붇따]). Vì vậy những món quà may mắn kinh điển đều dẻo dính: **[엿](/vi/dictionary/?q=엿)** (yeot), kẹo mạch nha truyền thống dẻo dai, và **[찹쌀떡](/vi/dictionary/?q=찹쌀떡)** (chapssaltteok), bánh gạo nếp. Có người tặng nĩa để "chọn trúng" đáp án đúng, hoặc khăn giấy để "giải" các câu hỏi trơn tru. Ngày nay sô-cô-la, thẻ quà tặng và vitamin cũng phổ biến không kém.
 
-Cũng vì lý do đó, học sinh tránh ăn **[미역국](/vi/dictionary/?q=미역국)** (miyeokguk), canh rong biển, vào ngày thi. Rong biển trơn gợi đến chuyện trượt chân, tức là thi trượt.
+Cũng vì lý do đó, học sinh tránh ăn **[미역국](/vi/dictionary/?q=미역국)** (miyeokkuk [미역꾹]), canh rong biển, vào ngày thi. Rong biển trơn gợi đến chuyện trượt chân, tức là thi trượt.
 
 Vào chính buổi sáng hôm đó, các em học sinh khóa dưới tập trung trước cổng trường với băng rôn và khẩu hiệu để **[응원](/vi/dictionary/?q=응원)** (eungwon), cổ vũ, các anh chị khóa trên, trong khi nhiều phụ huynh đến chùa và nhà thờ cầu nguyện suốt những giờ thi.
 
@@ -51,12 +51,12 @@ Vào chính buổi sáng hôm đó, các em học sinh khóa dưới tập trung
 | 수능 | suneung | kỳ thi tuyển sinh đại học |
 | 수험생 | suheomsaeng | thí sinh |
 | [시험](/vi/dictionary/?q=시험) | siheom | kỳ thi |
-| 붙다 | butda | dính; thi đỗ |
+| 붙다 | butta [붇따] | dính; thi đỗ |
 | [떨어지다](/vi/dictionary/?q=떨어지다) | tteoreojida | rơi; thi trượt |
 | 엿 | yeot | kẹo mạch nha truyền thống |
 | 찹쌀떡 | chapssaltteok | bánh gạo nếp |
 | 응원 | eungwon | cổ vũ, ủng hộ |
-| 듣기 평가 | deutgi pyeongga | bài thi nghe |
+| 듣기 평가 | deutki pyeongga [듣끼 평가] | bài thi nghe |
 
 **시험 잘 보세요!** (siheom jal boseyo!) – Chúc bạn thi tốt! (nghĩa đen "hãy nhìn bài thi thật tốt"). Với bạn bè hoặc học sinh nhỏ tuổi hơn, hãy nói **시험 잘 봐!** (siheom jal bwa!). Một câu được yêu thích khác: **수능 대박 나세요!** (suneung daebak naseyo!), "Chúc bạn trúng lớn trong kỳ thi suneung!"
 

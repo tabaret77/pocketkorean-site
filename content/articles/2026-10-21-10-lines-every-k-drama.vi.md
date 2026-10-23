@@ -26,7 +26,7 @@ Hầu hết những câu này xuất hiện ở lối nói thân mật (**반말
 
 ## 3. 무슨 일 있어? – Có chuyện gì à?
 
-**무슨 일 있어?** (Museun il isseo?) nghĩa là "Có chuyện gì xảy ra à?", dùng khi một người bạn trông buồn bã hoặc im lặng. Dạng lịch sự là **무슨 일 있어요?** (Museun il isseoyo?). Câu trả lời né tránh điển hình: **아무것도 아니야** (Amugeotdo aniya) – "Không có gì đâu."
+**무슨 일 있어?** (Museun il isseo?) nghĩa là "Có chuyện gì xảy ra à?", dùng khi một người bạn trông buồn bã hoặc im lặng. Dạng lịch sự là **무슨 일 있어요?** (Museun il isseoyo?). Câu trả lời né tránh điển hình: **아무것도 아니야** (Amugeotto aniya [아무걷또 아니야]) – "Không có gì đâu."
 
 ## 4. 잠깐만 – Đợi chút
 
@@ -38,7 +38,7 @@ Hầu hết những câu này xuất hiện ở lối nói thân mật (**반말
 
 ## 6. 보고 싶어 – Nhớ cậu
 
-**보고 싶어** (Bogo sipeo) nghĩa đen là "Muốn gặp (cậu)". Trong tiếng Hàn, đó chính là cách nói "Nhớ cậu". Dạng lịch sự: **보고 싶어요** (Bogo sipeoyo). Ghi chú ngữ pháp: **-고 싶다** nghĩa là "muốn", nên bạn cũng có thể nói **먹고 싶어** (meokgo sipeo) – muốn ăn.
+**보고 싶어** (Bogo sipeo) nghĩa đen là "Muốn gặp (cậu)". Trong tiếng Hàn, đó chính là cách nói "Nhớ cậu". Dạng lịch sự: **보고 싶어요** (Bogo sipeoyo). Ghi chú ngữ pháp: **-고 싶다** nghĩa là "muốn", nên bạn cũng có thể nói **먹고 싶어** (meokko sipeo [먹꼬 시퍼]) – muốn ăn.
 
 ## 7. 됐어 – Thôi bỏ đi
 

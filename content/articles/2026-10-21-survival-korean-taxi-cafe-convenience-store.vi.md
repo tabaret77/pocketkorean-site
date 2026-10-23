@@ -34,7 +34,7 @@ Khi lên xe, bạn có thể nghe **어디로 가세요?** (eodiro gaseyo?) – 
 6. **아이스 아메리카노 한 잔 주세요.** (aiseu amerikano han jan juseyo.) – Cho tôi một ly americano đá. ***잔** (jan) là lượng từ cho cốc, ly: 한 잔 (han jan) một ly, 두 잔 (du jan) hai ly.*
 7. **따뜻한 걸로 주세요.** (ttatteutan geollo juseyo.) – Cho tôi loại nóng. *Với nhiều người Hàn, đồ uống đá là mặc định, kể cả vào mùa đông, nên nhân viên có thể hỏi: **따뜻한 거요, 아이스요?** (ttatteutan geoyo, aiseuyo?) – "Nóng hay đá ạ?"*
 8. **먹고 갈게요. / 가져갈게요.** (meokgo galgeyo. / gajyeogalgeyo.) – Dùng tại đây. / Mang đi. *Bạn sẽ thường được hỏi **드시고 가세요?** (deusigo gaseyo?) – "Anh/chị dùng tại đây ạ?"*
-9. **얼음 적게 주세요.** (eoreum jeokge juseyo.) – Cho ít đá thôi.
+9. **얼음 적게 주세요.** (eoreum jeokke juseyo. [어름 적께 주세요.]) – Cho ít đá thôi.
 10. **화장실 비밀번호가 뭐예요?** (hwajangsil bimilbeonhoga mwoyeyo?) – Mật khẩu nhà vệ sinh là gì ạ? *Nhiều nhà vệ sinh ở quán cà phê có khóa bấm số; mã thường được in trên hóa đơn.*
 
 Khi đồ uống sẵn sàng, chuông rung (**진동벨**, jindongbel) có thể rung lên, hoặc nhân viên sẽ gọi số order của bạn.
@@ -46,10 +46,10 @@ Cửa hàng tiện lợi Hàn Quốc (**편의점**, pyeonuijeom) bán mọi th�
 11. **봉투 하나 주세요.** (bongtu hana juseyo.) – Cho tôi một cái túi. *Túi không miễn phí, nên thu ngân thường hỏi **봉투 필요하세요?** (bongtu piryohaseyo?) – "Anh/chị có cần túi không ạ?" Nếu không cần: **괜찮아요** (gwaenchanayo), "Dạ thôi, không cần ạ."*
 12. **이거 원 플러스 원이에요?** (igeo won peulleoseu wonieyo?) – Cái này có mua một tặng một không ạ? *Hãy tìm nhãn "1+1" và "2+1" trên kệ hàng.*
 13. **교통카드 충전해 주세요.** (gyotong kadeu chungjeonhae juseyo.) – Nạp tiền thẻ giao thông giúp tôi. *Đưa thẻ kèm tiền mặt.*
-14. **젓가락 주세요.** (jeotgarak juseyo.) – Cho tôi đôi đũa. *Hữu ích khi bạn mua mì ăn liền hoặc cơm hộp.*
+14. **젓가락 주세요.** (jeotkarak juseyo. [젇까락 주세요.]) – Cho tôi đôi đũa. *Hữu ích khi bạn mua mì ăn liền hoặc cơm hộp.*
 15. **영수증은 괜찮아요.** (yeongsujeungeun gwaenchanayo.) – Tôi không cần hóa đơn.
 
-Thu ngân cũng có thể hỏi **포인트 카드 있으세요?** (pointeu kadeu isseuseyo?) – "Anh/chị có thẻ tích điểm không ạ?" Chỉ cần trả lời **없어요** (eopseoyo), "Không có", là đủ.
+Thu ngân cũng có thể hỏi **포인트 카드 있으세요?** (pointeu kadeu isseuseyo?) – "Anh/chị có thẻ tích điểm không ạ?" Chỉ cần trả lời **없어요** (eopsseoyo [업써요]), "Không có", là đủ.
 
 ## Hai câu hữu ích ở mọi nơi
 

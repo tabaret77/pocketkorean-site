@@ -50,6 +50,6 @@ Warna mudah dipelajari karena banyak yang merupakan kata serapan: **민트** (mi
 | 검색량 | geomsaengnyang | volume pencarian |
 | 매출 | maechul | penjualan (pendapatan) |
 
-Pola untuk berbelanja: **다른 색깔도 있어요?** (Dareun saekkkaldo isseoyo?) – "Ada warna lain juga?" Kata benda + **도** berarti "juga"; kamu bisa menyebut warnanya langsung: **보라색도 있어요?** (Borasaekdo isseoyo?) – "Ada yang warna ungu juga?"
+Pola untuk berbelanja: **다른 색깔도 있어요?** (Dareun saekkkaldo isseoyo?) – "Ada warna lain juga?" Kata benda + **도** berarti "juga"; kamu bisa menyebut warnanya langsung: **보라색도 있어요?** (Borasaekto isseoyo? [보라색또 이써요?]) – "Ada yang warna ungu juga?"
 
 Sumber: [Segye Ilbo – warna sedang tren untuk pakaian luar tahun ini, 23 Okt. (bahasa Korea)](https://www.segye.com/newsView/20261022518265), [Hankyung – "Tahun ini aku nggak pakai puffer hitam", 11 Okt. (bahasa Korea)](https://www.hankyung.com/article/202610080733g)

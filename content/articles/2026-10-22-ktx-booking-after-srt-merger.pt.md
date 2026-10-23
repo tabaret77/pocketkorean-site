@@ -35,7 +35,7 @@ Os trens de fim de semana nas rotas mais procuradas, especialmente na sexta à n
 
 1. **Escolha onde reservar.** Visitantes podem usar o site de reservas em inglês da Korail para passageiros estrangeiros (Let's Korail) ou o aplicativo Korail+.
 2. **Pesquise** a estação de partida, **출발** (chulbal), a estação de chegada, **도착** (dochak), e a data.
-3. **Escolha a classe.** **일반실** (ilbansil) é a classe padrão; **특실** (teuksil) é a primeira classe, com assentos mais largos. Quando os assentos esgotam, podem ser oferecidas passagens **입석** (ipseok), em pé.
+3. **Escolha a classe.** **일반실** (ilbansil) é a classe padrão; **특실** (teukssil [특씰]) é a primeira classe, com assentos mais largos. Quando os assentos esgotam, podem ser oferecidas passagens **입석** (ipsseok [입썩]), em pé.
 4. **Pague e salve a passagem** no celular. Não precisa imprimir; os funcionários conferem as passagens a bordo.
 5. **Encontre o seu vagão.** A passagem mostra o número do vagão, **호차** (hocha), e o número do assento. As plataformas são marcadas com os números dos vagões, então fique no lugar certo antes de o trem chegar.
 

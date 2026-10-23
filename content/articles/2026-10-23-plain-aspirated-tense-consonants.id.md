@@ -55,9 +55,9 @@ Dengan Halloween yang sudah dekat, **탈** adalah kata yang bagus untuk diingat.
 
 Kadang huruf biasa diucapkan tegang meskipun ditulis sebagai huruf biasa. Ini terjadi setelah bunyi akhir ㄱ, ㄷ, atau ㅂ:
 
-- **학교** (hakgyo) – sekolah → [학꾜]
-- **식당** (sikdang) – restoran → [식땅]
-- **입구** (ipgu) – pintu masuk → [입꾸]
+- **학교** (hakkyo [학꾜]) – sekolah → [학꾜]
+- **식당** (siktang [식땅]) – restoran → [식땅]
+- **입구** (ipku [입꾸]) – pintu masuk → [입꾸]
 
 Romanisasi Revisi tidak menunjukkan penegangan di dalam kata ini, jadi kamu membaca "hakgyo" tetapi mengucapkan sesuatu yang lebih mirip "hak-kyo". Ejaannya tetap biasa; hanya bunyinya yang berubah.
 

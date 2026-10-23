@@ -54,6 +54,6 @@ Kポップのニュースでよく見る言葉をあと2つ紹介します。
 | 2관왕 | igwanwang | 二冠王 |
 | 기록 | girok | 記録 |
 
-数字を比べるときのパターンです：**지난 앨범보다 적게 팔렸어요**（jinan aelbeomboda jeokge pallyeosseoyo）＝「前のアルバムより売れませんでした（少なく売れました）」。名詞＋**보다**は「〜より」という意味です。**적게**（少なく）を**많이**（多く）に入れ替えると反対の意味になります：**지난 앨범보다 많이 팔렸어요**＝前のアルバムよりたくさん売れました。
+数字を比べるときのパターンです：**지난 앨범보다 적게 팔렸어요**（jinan aelbeomboda jeokke pallyeosseoyo [지난 앨범보다 적께 팔려써요]）＝「前のアルバムより売れませんでした（少なく売れました）」。名詞＋**보다**は「〜より」という意味です。**적게**（少なく）を**많이**（多く）に入れ替えると反対の意味になります：**지난 앨범보다 많이 팔렸어요**＝前のアルバムよりたくさん売れました。
 
 出典：[スポーツ京郷 – NCT WISHの初週売上、10月20日](https://sports.khan.co.kr/en/article/202610200819007/)、[The Korea Times – NCT WISHが「I SPY」をリリース、10月12日](https://www.koreatimes.co.kr/entertainment/k-pop/20261012/nct-wish-drops-new-mini-album-i-spy-ahead-of-landmark-gocheok-sky-dome-concert)、[SMエンターテインメント – 「I SPY」ミュージックビデオ](https://www.youtube.com/watch?v=xIlFjHHUfI0)

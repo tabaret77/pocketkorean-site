@@ -37,9 +37,9 @@ If you're travelling that day, expect quiet streets in the morning and a possibl
 
 ## Sticky gifts and slippery soup
 
-Many customs are built on wordplay. To pass an entrance exam in Korean is to "stick" to a university: **붙다** (butda). So the classic good-luck gifts are sticky: **[엿](/en/dictionary/?q=엿)** (yeot), a chewy traditional taffy, and **[찹쌀떡](/en/dictionary/?q=찹쌀떡)** (chapssaltteok), glutinous rice cakes. Some people give a fork, to "pick" the right answer, or tissues, to "solve" the questions smoothly. Today chocolate, gift cards and vitamins are just as popular.
+Many customs are built on wordplay. To pass an entrance exam in Korean is to "stick" to a university: **붙다** (butta [붇따]). So the classic good-luck gifts are sticky: **[엿](/en/dictionary/?q=엿)** (yeot), a chewy traditional taffy, and **[찹쌀떡](/en/dictionary/?q=찹쌀떡)** (chapssaltteok), glutinous rice cakes. Some people give a fork, to "pick" the right answer, or tissues, to "solve" the questions smoothly. Today chocolate, gift cards and vitamins are just as popular.
 
-For the same reason, students avoid **[미역국](/en/dictionary/?q=미역국)** (miyeokguk), seaweed soup, on exam day. Its slippery seaweed suggests slipping, that is, failing.
+For the same reason, students avoid **[미역국](/en/dictionary/?q=미역국)** (miyeokkuk [미역꾹]), seaweed soup, on exam day. Its slippery seaweed suggests slipping, that is, failing.
 
 On the morning itself, younger students gather at the school gates with banners and chants to **[응원](/en/dictionary/?q=응원)** (eungwon), cheer on, their seniors, while many parents go to temples and churches to pray during the exam hours.
 
@@ -50,12 +50,12 @@ On the morning itself, younger students gather at the school gates with banners 
 | 수능 | suneung | college entrance exam |
 | 수험생 | suheomsaeng | exam taker |
 | [시험](/en/dictionary/?q=시험) | siheom | exam |
-| 붙다 | butda | to stick; to pass an exam |
+| 붙다 | butta [붇따] | to stick; to pass an exam |
 | [떨어지다](/en/dictionary/?q=떨어지다) | tteoreojida | to fall; to fail an exam |
 | 엿 | yeot | traditional taffy |
 | 찹쌀떡 | chapssaltteok | sticky rice cake |
 | 응원 | eungwon | cheering, support |
-| 듣기 평가 | deutgi pyeongga | listening test |
+| 듣기 평가 | deutki pyeongga [듣끼 평가] | listening test |
 
 **시험 잘 보세요!** (siheom jal boseyo!) – Good luck on your exam! (literally "see the exam well"). To a friend or younger student, say **시험 잘 봐!** (siheom jal bwa!). Another favourite: **수능 대박 나세요!** (suneung daebak naseyo!), "Hope you hit the jackpot on the suneung!"
 

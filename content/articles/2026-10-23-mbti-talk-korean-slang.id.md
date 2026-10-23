@@ -65,6 +65,6 @@ Simpan 너 T야? untuk teman; kepada rekan kerja atau orang yang lebih tua, kali
 | 극I | geugai | introver ekstrem |
 | 저 I예요 | jeo aiyeyo | Aku introver |
 
-Pola yang berguna: **저 극I라서 주말엔 집에 있어요.** (Jeo geugairaseo jumaren jibe isseoyo.) – Aku introver parah, jadi di akhir pekan aku di rumah saja. **-(이)라서** menyatakan alasan: ganti dengan kata benda apa pun, seperti **학생이라서** (haksaengiraseo) – karena aku pelajar.
+Pola yang berguna: **저 극I라서 주말엔 집에 있어요.** (Jeo geugairaseo jumaren jibe isseoyo.) – Aku introver parah, jadi di akhir pekan aku di rumah saja. **-(이)라서** menyatakan alasan: ganti dengan kata benda apa pun, seperti **학생이라서** (hakssaengiraseo [학쌩이라서]) – karena aku pelajar.
 
 Sumber: [Yonhap via Hanminjok Center – "MBTI가 어떻게 되세요?" (20 Okt 2026)](https://www.koreancenter.or.kr/news/articleView.html?idxno=1426956), [Hankyoreh 21 via Daum – Kenapa T menjadi huruf bermasalah dalam MBTI](https://v.daum.net/v/20230815234812392), [The Korea Herald via Asia News Network – "Are you a T?" adalah sindiran baru](https://asianews.network/?p=175825), [Yugacrew wiki – 극I](https://www.yugacrew.com/yugawiki/%EA%B7%B9I)

@@ -19,7 +19,7 @@ Saat udara mulai dingin di Korea, pasar-pasar dipenuhi tumpukan sawi putih dan k
 Hari kimjang yang biasa mengikuti langkah-langkah yang sama, dan masing-masing punya kata kerjanya sendiri:
 
 1. **절이다** (jeorida) – menggarami. Sawi putih yang dibelah dua direndam atau ditaburi garam supaya lunak. Banyak keluarga sekarang membeli sawi yang sudah digarami, **절임배추** (jeorimbaechu), untuk menghemat satu hari kerja.
-2. **[씻다](/id/dictionary/?q=씻다)** (ssitda) – mencuci. Sawi yang sudah digarami dibilas lalu ditiriskan.
+2. **[씻다](/id/dictionary/?q=씻다)** (ssitta [씯따]) – mencuci. Sawi yang sudah digarami dibilas lalu ditiriskan.
 3. **양념을 만들다** (yangnyeomeul mandeulda) – membuat bumbu: bubuk cabai, bawang putih, jahe, kecap ikan, lobak serut, dan daun bawang.
 4. **[버무리다](/id/dictionary/?q=버무리다)** (beomurida) – mencampur dan melumuri. Semua orang duduk mengelilingi baskom besar, memakai sarung tangan karet, dan mengoleskan isian merah di antara setiap lembar daun.
 5. **[담그다](/id/dictionary/?q=담그다)** (damgeuda) – membuat (kimchi, acar). Kimchi yang sudah jadi dimasukkan ke dalam wadah, sering kali ke kulkas khusus kimchi.
@@ -36,11 +36,11 @@ Lalu tibalah bagian terbaiknya: makan daging babi rebus yang dibungkus kimchi se
 | 배추 | baechu | sawi putih |
 | 무 | mu | lobak Korea |
 | 소금 | sogeum | garam |
-| 고춧가루 | gochutgaru | bubuk cabai merah |
+| 고춧가루 | gochutkaru [고춛까루] | bubuk cabai merah |
 | 마늘 | maneul | bawang putih |
 | 생강 | saenggang | jahe |
 | 파 | pa | daun bawang |
-| 젓갈 | jeotgal | makanan laut asin yang difermentasi |
+| 젓갈 | jeotkal [젇깔] | makanan laut asin yang difermentasi |
 | 새우젓 | saeujeot | udang asin (mirip ebi fermentasi) |
 | 양념 | yangnyeom | bumbu, saus |
 | 속 | sok | isian (diselipkan di antara daun) |
@@ -48,11 +48,11 @@ Lalu tibalah bagian terbaiknya: makan daging babi rebus yang dibungkus kimchi se
 | 고무장갑 | gomujanggap | sarung tangan karet |
 | 김치냉장고 | gimchinaengjanggo | kulkas kimchi |
 | 수육 | suyuk | irisan daging babi rebus |
-| 깍두기 | kkakdugi | kimchi lobak potong dadu |
+| 깍두기 | kkaktugi [깍뚜기] | kimchi lobak potong dadu |
 | 담그다 | damgeuda | membuat (kimchi) |
 | 절이다 | jeorida | menggarami |
 | 버무리다 | beomurida | mencampur dan melumuri |
-| 익다 | ikda | matang, terfermentasi |
+| 익다 | ikta [익따] | matang, terfermentasi |
 | 나누다 | nanuda | berbagi |
 
 ## Perhatikan pelafalannya
@@ -61,16 +61,16 @@ Beberapa kata ini tidak diucapkan sesuai tulisannya:
 
 - **고춧가루** diucapkan [고추까루] – ㅅ di tengah membuat ㄱ menjadi tegang: "go-chu-kka-ru".
 - **젓갈** diucapkan [젇깔]: ㅅ di akhir berbunyi seperti t, dan ㄱ sesudahnya menjadi tegang: "jeot-kkal".
-- **익다** diucapkan [익따] (ikda), dan pada **익었어요** (igeosseoyo) – sudah matang – bunyi ㄱ bersambung ke suku kata berikutnya.
+- **익다** diucapkan [익따] (ikta), dan pada **익었어요** (igeosseoyo) – sudah matang – bunyi ㄱ bersambung ke suku kata berikutnya.
 
 ## Kata-kata untuk rasa
 
 Saat kimjang, semua orang juga punya pendapat soal rasa. Kamu akan mendengar:
 
-- **맵다** (maepda) – pedas → **좀 매워요** (jom maewoyo) – agak pedas
+- **맵다** (maepta [맵따]) – pedas → **좀 매워요** (jom maewoyo) – agak pedas
 - **짜다** (jjada) – asin → **너무 짜요** (neomu jjayo) – terlalu asin
-- **싱겁다** (singgeopda) – hambar, kurang asin → **좀 싱거워요** (jom singgeowoyo)
-- **맛있다** (masitda) – enak → **진짜 맛있어요!** (jinjja masisseoyo!)
+- **싱겁다** (singgeopta [싱겁따]) – hambar, kurang asin → **좀 싱거워요** (jom singgeowoyo)
+- **맛있다** (masitta [마싣따]) – enak → **진짜 맛있어요!** (jinjja masisseoyo!)
 
 **맵다** dan **싱겁다** adalah kata kerja tak beraturan ㅂ, jadi ㅂ berubah menjadi 우: 매워요, 싱거워요.
 

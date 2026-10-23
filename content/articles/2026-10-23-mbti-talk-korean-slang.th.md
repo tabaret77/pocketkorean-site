@@ -65,6 +65,6 @@ draft: false
 | 극I | geugai | อินโทรเวิร์ตขั้นสุด |
 | 저 I예요 | jeo aiyeyo | ฉันเป็นอินโทรเวิร์ต |
 
-รูปประโยคที่มีประโยชน์: **저 극I라서 주말엔 집에 있어요.** (Jeo geugairaseo jumaren jibe isseoyo.) – ฉันเป็นอินโทรเวิร์ตขั้นสุด วันหยุดสุดสัปดาห์เลยอยู่บ้าน **-(이)라서** ใช้บอกเหตุผล ใส่คำนามอะไรก็ได้ เช่น **학생이라서** (haksaengiraseo) – เพราะเป็นนักเรียน
+รูปประโยคที่มีประโยชน์: **저 극I라서 주말엔 집에 있어요.** (Jeo geugairaseo jumaren jibe isseoyo.) – ฉันเป็นอินโทรเวิร์ตขั้นสุด วันหยุดสุดสัปดาห์เลยอยู่บ้าน **-(이)라서** ใช้บอกเหตุผล ใส่คำนามอะไรก็ได้ เช่น **학생이라서** (hakssaengiraseo [학쌩이라서]) – เพราะเป็นนักเรียน
 
 แหล่งที่มา: [Yonhap ผ่าน Hanminjok Center – "MBTI가 어떻게 되세요?" (20 ต.ค. 2026)](https://www.koreancenter.or.kr/news/articleView.html?idxno=1426956), [Hankyoreh 21 ผ่าน Daum – ทำไม T จึงกลายเป็นตัวอักษรที่มีปัญหาใน MBTI](https://v.daum.net/v/20230815234812392), [The Korea Herald ผ่าน Asia News Network – "Are you a T?" คำแซวแบบใหม่](https://asianews.network/?p=175825), [Yugacrew wiki – 극I](https://www.yugacrew.com/yugawiki/%EA%B7%B9I)

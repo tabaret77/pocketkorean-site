@@ -65,6 +65,6 @@ Hankyoreh 21 проследил происхождение мема до сер�
 | 극I | geugai | крайний интроверт |
 | 저 I예요 | jeo aiyeyo | Я интроверт |
 
-Полезная конструкция: **저 극I라서 주말엔 집에 있어요.** (Jeo geugairaseo jumaren jibe isseoyo.) — Я махровый интроверт, поэтому по выходным сижу дома. **-(이)라서** указывает причину: подставьте любое существительное, например **학생이라서** (haksaengiraseo) — потому что я студент.
+Полезная конструкция: **저 극I라서 주말엔 집에 있어요.** (Jeo geugairaseo jumaren jibe isseoyo.) — Я махровый интроверт, поэтому по выходным сижу дома. **-(이)라서** указывает причину: подставьте любое существительное, например **학생이라서** (hakssaengiraseo [학쌩이라서]) — потому что я студент.
 
 Источники: [Yonhap через Hanminjok Center – «MBTI가 어떻게 되세요?» (20 окт. 2026)](https://www.koreancenter.or.kr/news/articleView.html?idxno=1426956), [Hankyoreh 21 через Daum – Почему T стала проблемной буквой в MBTI](https://v.daum.net/v/20230815234812392), [The Korea Herald через Asia News Network – «Ты что, T?» — новый способ уколоть](https://asianews.network/?p=175825), [Yugacrew wiki – 극I](https://www.yugacrew.com/yugawiki/%EA%B7%B9I)

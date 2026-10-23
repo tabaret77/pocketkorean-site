@@ -28,7 +28,7 @@ Menurut prakiraan Korea Forest Service tahun 2026, warna daun diperkirakan menca
 
 Sebagian besar wilayah negara ini, termasuk bukit-bukit dan istana-istana di Seoul, mencapai puncaknya pada **akhir Oktober sampai awal November**. Pohon ginkgo, yang berjajar di banyak jalan di Seoul, berubah kuning cerah pada waktu yang hampir sama.
 
-Di Seoul, **Festival Rumput Perak Seoul** – **서울억새축제** (Seoul eoksae chukje) – berlangsung di Haneul Park di kawasan World Cup Park hingga **23 Oktober 2026**, buka pukul 10.00–21.00. **억새** (eoksae) adalah rumput perak, dan padang di puncak bukit itu berkilau saat matahari terbenam.
+Di Seoul, **Festival Rumput Perak Seoul** – **서울억새축제** (Seoul eoksae chukje) – berlangsung di Haneul Park di kawasan World Cup Park hingga **23 Oktober 2026**, buka pukul 10.00–21.00. **억새** (eokssae [억쌔]) adalah rumput perak, dan padang di puncak bukit itu berkilau saat matahari terbenam.
 
 ## November: kembang api, kimchi, dan ujian besar
 
@@ -61,7 +61,7 @@ Desember membawa **연말** (yeonmal), musim akhir tahun, dengan makan malam kan
 | Korea | Romanisasi | Arti |
 |---|---|---|
 | [단풍](/id/dictionary/?q=단풍) | danpung | daun musim gugur |
-| [축제](/id/dictionary/?q=축제) | chukje | festival |
+| [축제](/id/dictionary/?q=축제) | chukjje [축쩨] | festival |
 | 불꽃놀이 | bulkkonnori | kembang api |
 | [김장](/id/dictionary/?q=김장) | gimjang | membuat kimchi untuk musim dingin |
 | 첫눈 | cheonnun | salju pertama tahun ini |

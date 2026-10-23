@@ -64,6 +64,6 @@ Keep 너 T야? for friends; with a colleague or someone older, it can come acros
 | 극I | geugai | an extreme introvert |
 | 저 I예요 | jeo aiyeyo | I'm an introvert |
 
-Useful pattern: **저 극I라서 주말엔 집에 있어요.** (Jeo geugairaseo jumaren jibe isseoyo.) – I'm a hardcore introvert, so I stay home at weekends. **-(이)라서** gives the reason: swap in any noun, like **학생이라서** (haksaengiraseo) – because I'm a student.
+Useful pattern: **저 극I라서 주말엔 집에 있어요.** (Jeo geugairaseo jumaren jibe isseoyo.) – I'm a hardcore introvert, so I stay home at weekends. **-(이)라서** gives the reason: swap in any noun, like **학생이라서** (hakssaengiraseo [학쌩이라서]) – because I'm a student.
 
 Sources: [Yonhap via Hanminjok Center – "MBTI가 어떻게 되세요?" (20 Oct 2026)](https://www.koreancenter.or.kr/news/articleView.html?idxno=1426956), [Hankyoreh 21 via Daum – Why T became a problem letter in MBTI](https://v.daum.net/v/20230815234812392), [The Korea Herald via Asia News Network – "Are you a T?" is a new put-down](https://asianews.network/?p=175825), [Yugacrew wiki – 극I](https://www.yugacrew.com/yugawiki/%EA%B7%B9I)

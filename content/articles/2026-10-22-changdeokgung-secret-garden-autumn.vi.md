@@ -53,10 +53,10 @@ Khu vườn chỉ có thể tham quan theo tour có khung giờ cố định, v�
 | [단풍](/vi/dictionary/?q=단풍) | danpung | lá mùa thu |
 | [연못](/vi/dictionary/?q=연못) | yeonmot | ao, hồ |
 | [정자](/vi/dictionary/?q=정자) | jeongja | đình, tạ |
-| [입장권](/vi/dictionary/?q=입장권) | ipjanggwon | vé vào cửa |
+| [입장권](/vi/dictionary/?q=입장권) | ipjjanggwon [입짱권] | vé vào cửa |
 | [예약](/vi/dictionary/?q=예약) | yeyak | đặt chỗ, đặt trước |
 | 휴궁일 | hyugung-il | ngày nghỉ của cung điện |
 
-**후원 입장권 두 장 주세요.** (huwon ipjanggwon du jang juseyo.) – Cho tôi hai vé Hậu Uyển. Thay số đứng trước **장** (jang), lượng từ đếm vé và tờ giấy: 한 장 (han jang), 세 장 (se jang).
+**후원 입장권 두 장 주세요.** (huwon ipjjanggwon du jang juseyo. [후원 입짱권 두 장 주세요.]) – Cho tôi hai vé Hậu Uyển. Thay số đứng trước **장** (jang), lượng từ đếm vé và tờ giấy: 한 장 (han jang), 세 장 (se jang).
 
 Nguồn: [The Seoul Guide – Changdeokgung](https://www.theseoulguide.com/changdeokgung-palace/), [Telltrip – Changdeokgung Huwon (tiếng Hàn)](https://www.telltrip.com/domestic-travel/changdeokgung-huwon-secret-garden-visit/), [Segye Ilbo – free Wednesdays at palaces (tiếng Hàn)](https://www.segye.com/newsView/20260526512458), [Mileasia – Changdeokgung guide](https://mileasia.com/korea/changdeokgung-palace/)

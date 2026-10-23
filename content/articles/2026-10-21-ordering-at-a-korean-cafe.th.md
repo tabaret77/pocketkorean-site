@@ -46,7 +46,7 @@ draft: false
 
 คำตอบของคุณ:
 
-- **먹고 갈게요.** (Meokgo galgeyo.) – ทานที่ร้านค่ะ/ครับ
+- **먹고 갈게요.** (Meokko galgeyo. [먹꼬 갈게요.]) – ทานที่ร้านค่ะ/ครับ
 - **가져갈게요.** (Gajyeogalgeyo.) – กลับบ้านค่ะ/ครับ
 - **포장해 주세요.** (Pojanghae juseyo.) – ใส่ถุงกลับบ้านค่ะ/ครับ ใช้ได้ทั้งอาหารและเครื่องดื่ม
 
@@ -91,7 +91,7 @@ draft: false
 |---|---|---|
 | 한 잔 주세요 | han jan juseyo | ขอหนึ่งแก้ว |
 | 아이스 / 따뜻한 거 | aiseu / ttatteutan geo | เย็น / ร้อน |
-| 먹고 갈게요 | meokgo galgeyo | ทานที่ร้าน |
+| 먹고 갈게요 | meokko galgeyo [먹꼬 갈게요] | ทานที่ร้าน |
 | [가져갈게요](/th/dictionary/?q=가져가다) | gajyeogalgeyo | กลับบ้าน |
 | 샷 추가해 주세요 | syat chugahae juseyo | เพิ่มช็อต |
 | 시럽 빼 주세요 | sireop ppae juseyo | ไม่ใส่ไซรัป |

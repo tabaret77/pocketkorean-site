@@ -50,6 +50,6 @@ draft: false
 | 검색량 | geomsaengnyang | 搜尋量 |
 | 매출 | maechul | 銷售額 |
 
-一個購物用的句型：**다른 색깔도 있어요?**（Dareun saekkkaldo isseoyo?）——「有沒有其他顏色？」名詞 + **도** 表示「也」；你也可以直接說出顏色：**보라색도 있어요?**（Borasaekdo isseoyo?）——「也有紫色嗎？」
+一個購物用的句型：**다른 색깔도 있어요?**（Dareun saekkkaldo isseoyo?）——「有沒有其他顏色？」名詞 + **도** 表示「也」；你也可以直接說出顏色：**보라색도 있어요?**（Borasaekto isseoyo? [보라색또 이써요?]）——「也有紫色嗎？」
 
 資料來源：[《世界日報》– 今年外套流行彩色，10月23日（韓文）](https://www.segye.com/newsView/20261022518265)、[《韓國經濟新聞》– 「今年不穿黑色羽絨」，10月11日（韓文）](https://www.hankyung.com/article/202610080733g)

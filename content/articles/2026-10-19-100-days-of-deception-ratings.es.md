@@ -25,7 +25,7 @@ La serie se emite los sábados y domingos en tvN y también está en Netflix en 
 
 ## Una carterista convertida en espía
 
-La historia transcurre durante el periodo colonial japonés, que los coreanos llaman **일제강점기** (Ilje gangjeomgi). Kim You-jung interpreta a Ga-kyung, una talentosa **소매치기** (somaechigi), es decir, carterista, que se infiltra en el Gobierno General japonés de Corea. Desde dentro, empieza a pasar información importante al **독립군** (dongnipgun), el ejército independentista coreano. Park Jin-young interpreta al protagonista masculino junto a ella, y la serie combina espionaje y romance.
+La historia transcurre durante el periodo colonial japonés, que los coreanos llaman **일제강점기** (Ilje gangjeomgi). Kim You-jung interpreta a Ga-kyung, una talentosa **소매치기** (somaechigi), es decir, carterista, que se infiltra en el Gobierno General japonés de Corea. Desde dentro, empieza a pasar información importante al **독립군** (dongnipkun [동닙꾼]), el ejército independentista coreano. Park Jin-young interpreta al protagonista masculino junto a ella, y la serie combina espionaje y romance.
 
 El título apunta a una cuenta regresiva: la heroína tiene que mantener su disfraz, y el "engaño" del título es a la vez su misión y una fuente de tensión en la historia de amor.
 
@@ -41,7 +41,7 @@ Los dramas de época ambientados entre los años veinte y cuarenta usan mucho le
 | 주말 드라마 | jumal deurama | drama de fin de semana |
 | 소매치기 | somaechigi | carterista |
 | 스파이 | seupai | espía |
-| 독립군 | dongnipgun | ejército independentista |
+| 독립군 | dongnipkun [동닙꾼] | ejército independentista |
 | 일제강점기 | Ilje gangjeomgi | periodo colonial japonés (1910–1945) |
 | [거짓말](/es/dictionary/?q=거짓말) | geojinmal | mentira |
 

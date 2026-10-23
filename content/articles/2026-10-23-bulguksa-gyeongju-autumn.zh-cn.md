@@ -56,6 +56,6 @@ draft: false
 | [주차장](/zh-cn/dictionary/?q=주차장) | juchajang | 停车场 |
 | [단풍](/zh-cn/dictionary/?q=단풍) | danpung | 红叶，秋叶 |
 
-**석굴암까지 얼마나 걸려요?**（seokguramkkaji eolmana geollyeoyo?）——到石窟庵要多长时间？在**까지**（kkaji，“到……”）前面换上任何地点都可以，比如**역까지**（yeokkkaji），“到车站”。
+**석굴암까지 얼마나 걸려요?**（seokkuramkkaji eolmana geollyeoyo? [석꾸람까지 얼마나 걸려요?]）——到石窟庵要多长时间？在**까지**（kkaji，“到……”）前面换上任何地点都可以，比如**역까지**（yeokkkaji），“到车站”。
 
 资料来源：[Financial News – 2026 foliage map (Korean)](https://www.fnnews.com/news/202610080943468392), [K Trip Tips – Bulguksa (Korean)](https://www.ktriptips.com/kor/tourspot/126166), [Telltrip – Bulguksa visit guide (Korean)](https://www.telltrip.com/domestic-travel/bulguksa-winter-snow-sceneries-gyeongju/), [South Korea Hallyu – Bulguksa guide](https://southkoreahallyu.com/bulguksa-temple-gyeongju/), [iVisitKorea – things to do in Gyeongju](https://www.ivisitkorea.com/things-to-do-in-gyeongju/)

@@ -20,14 +20,14 @@ Những từ này thay thế động từ thông thường khi chủ ngữ là n
 
 | Thông thường | Kính ngữ | Nghĩa |
 |---|---|---|
-| 먹다 (meokda), 마시다 (masida) | **[드시다](/vi/dictionary/?q=드시다)** (deusida) | ăn, uống |
-| 먹다 (meokda) | **[잡수시다](/vi/dictionary/?q=잡수시다)** (japsusida) | ăn (rất kính trọng) |
+| 먹다 (meokta [먹따]), 마시다 (masida) | **[드시다](/vi/dictionary/?q=드시다)** (deusida) | ăn, uống |
+| 먹다 (meokta [먹따]) | **[잡수시다](/vi/dictionary/?q=잡수시다)** (japssusida [잡쑤시다]) | ăn (rất kính trọng) |
 | 자다 (jada) | **[주무시다](/vi/dictionary/?q=주무시다)** (jumusida) | ngủ |
-| 있다 (itda) | **[계시다](/vi/dictionary/?q=계시다)** (gyesida) | ở (đâu đó) |
+| 있다 (itta [읻따]) | **[계시다](/vi/dictionary/?q=계시다)** (gyesida) | ở (đâu đó) |
 | 말하다 (malhada) | **말씀하시다** (malsseumhasida) | nói |
-| 죽다 (jukda) | **돌아가시다** (doragasida) | qua đời |
+| 죽다 (jukta [죽따]) | **돌아가시다** (doragasida) | qua đời |
 
-Vì vậy, với bạn bè bạn nói **밥 먹었어?** (Bap meogeosseo?), nhưng với bà thì nói **할머니, 진지 드셨어요?** (Halmeoni, jinji deusyeosseoyo?). 잡수시다 còn kính trọng hơn nữa và nghe hơi cổ; bạn sẽ chủ yếu nghe từ này khi nói với ông bà: **진지 잡수셨어요?** (Jinji japsusyeosseoyo?)
+Vì vậy, với bạn bè bạn nói **밥 먹었어?** (Bap meogeosseo?), nhưng với bà thì nói **할머니, 진지 드셨어요?** (Halmeoni, jinji deusyeosseoyo?). 잡수시다 còn kính trọng hơn nữa và nghe hơi cổ; bạn sẽ chủ yếu nghe từ này khi nói với ông bà: **진지 잡수셨어요?** (Jinji japssusyeosseoyo? [진지 잡쑤셔써요?])
 
 Trước giờ đi ngủ, **잘 자** (jal ja) – ngủ ngon – trở thành **안녕히 주무세요** (annyeonghi jumuseyo) khi nói với bất kỳ ai lớn tuổi hơn.
 
@@ -40,8 +40,8 @@ Nửa còn lại của hệ thống này hoạt động theo chiều ngược l�
 | Thông thường | Khiêm nhường | Nghĩa |
 |---|---|---|
 | 주다 (juda) | **[드리다](/vi/dictionary/?q=드리다)** (deurida) | đưa, biếu |
-| 묻다 (mutda) | **[여쭙다](/vi/dictionary/?q=여쭙다)** (yeojjupda) | hỏi |
-| 보다 (boda) | **뵙다** (boepda) | gặp |
+| 묻다 (mutta [묻따]) | **[여쭙다](/vi/dictionary/?q=여쭙다)** (yeojjupta [여쭙따]) | hỏi |
+| 보다 (boda) | **뵙다** (boepta [뵙따]) | gặp |
 | 데리다 (derida) | **모시다** (mosida) | đưa đi, đi cùng |
 
 Bạn đã biết một số từ này qua những câu cố định: **처음 뵙겠습니다** (cheoeum boepgetseumnida) – "Rất vui được gặp anh/chị" – và nhân viên cửa hàng nói **뭐 드릴까요?** (Mwo deurilkkayo?) – "Quý khách dùng gì ạ?" Để hỏi giáo viên một câu: **하나 여쭤봐도 될까요?** (Hana yeojjwobwado doelkkayo?) – Em có thể hỏi thầy/cô một chút được không ạ?

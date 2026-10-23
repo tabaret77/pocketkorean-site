@@ -44,7 +44,7 @@ El otoño es la temporada ideal, pero no dura. Las temperaturas han bajado en lo
 | 치맥 | chimaek | pollo frito y cerveza |
 | [수산시장](/es/dictionary/?q=수산시장) | susansijang | mercado de pescado |
 | [포장](/es/dictionary/?q=포장) | pojang | empaque; para llevar |
-| 돗자리 | dotjari | tapete de pícnic |
+| 돗자리 | dotjjari [돋짜리] | tapete de pícnic |
 | 광어 | gwangeo | lenguado (lenguado del Pacífico, *olive flounder*) |
 | 초고추장 | chogochujang | salsa roja de chile para mojar |
 

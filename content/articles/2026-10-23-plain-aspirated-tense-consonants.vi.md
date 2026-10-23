@@ -55,9 +55,9 @@ Halloween đang đến gần, nên **탈** là một từ đáng nhớ. Đây l�
 
 Đôi khi một chữ thường lại được đọc thành âm căng dù viết ở dạng thường. Điều này xảy ra sau âm cuối ㄱ, ㄷ hoặc ㅂ:
 
-- **학교** (hakgyo) – trường học → [학꾜]
-- **식당** (sikdang) – nhà hàng → [식땅]
-- **입구** (ipgu) – lối vào → [입꾸]
+- **학교** (hakkyo [학꾜]) – trường học → [학꾜]
+- **식당** (siktang [식땅]) – nhà hàng → [식땅]
+- **입구** (ipku [입꾸]) – lối vào → [입꾸]
 
 Hệ phiên âm Romaja sửa đổi không thể hiện hiện tượng căng hóa bên trong từ, nên bạn đọc thấy "hakgyo" nhưng nói gần giống "hak-kyo" hơn. Chính tả vẫn giữ dạng thường; chỉ có âm là thay đổi.
 

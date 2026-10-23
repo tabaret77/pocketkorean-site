@@ -26,7 +26,7 @@ Sebagian besar kalimat ini muncul dalam bahasa santai (**반말**, banmal), kare
 
 ## 3. 무슨 일 있어? – Ada apa?
 
-**무슨 일 있어?** (Museun il isseo?) berarti "Ada sesuatu yang terjadi?" dan diucapkan saat seorang teman terlihat sedih atau diam saja. Bentuk sopannya **무슨 일 있어요?** (Museun il isseoyo?). Jawaban mengelak yang khas: **아무것도 아니야** (Amugeotdo aniya) – "Nggak ada apa-apa."
+**무슨 일 있어?** (Museun il isseo?) berarti "Ada sesuatu yang terjadi?" dan diucapkan saat seorang teman terlihat sedih atau diam saja. Bentuk sopannya **무슨 일 있어요?** (Museun il isseoyo?). Jawaban mengelak yang khas: **아무것도 아니야** (Amugeotto aniya [아무걷또 아니야]) – "Nggak ada apa-apa."
 
 ## 4. 잠깐만 – Tunggu sebentar
 
@@ -38,7 +38,7 @@ Sebagian besar kalimat ini muncul dalam bahasa santai (**반말**, banmal), kare
 
 ## 6. 보고 싶어 – Aku kangen kamu
 
-**보고 싶어** (Bogo sipeo) secara harfiah berarti "Aku ingin melihat (kamu)". Dalam bahasa Korea, begitulah cara mengatakan "Aku kangen kamu." Versi sopannya: **보고 싶어요** (Bogo sipeoyo). Catatan tata bahasa: **-고 싶다** berarti "ingin", jadi kamu juga bisa bilang **먹고 싶어** (meokgo sipeo) – aku ingin makan.
+**보고 싶어** (Bogo sipeo) secara harfiah berarti "Aku ingin melihat (kamu)". Dalam bahasa Korea, begitulah cara mengatakan "Aku kangen kamu." Versi sopannya: **보고 싶어요** (Bogo sipeoyo). Catatan tata bahasa: **-고 싶다** berarti "ingin", jadi kamu juga bisa bilang **먹고 싶어** (meokko sipeo [먹꼬 시퍼]) – aku ingin makan.
 
 ## 7. 됐어 – Sudahlah
 

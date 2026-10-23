@@ -96,8 +96,8 @@ Các kỳ thi giấy và thi máy khác sẽ được tổ chức tại Hàn Qu�
 | 급 | geup | cấp, bậc |
 | 듣기 / 읽기 / 쓰기 | deutgi / ilgi / sseugi | nghe / đọc / viết |
 | 말하기 | malhagi | nói |
-| [접수](/vi/dictionary/?q=접수) | jeopsu | đăng ký, nộp hồ sơ |
+| [접수](/vi/dictionary/?q=접수) | jeopssu [접쑤] | đăng ký, nộp hồ sơ |
 | 성적 | seongjeok | điểm số, kết quả |
-| 합격했어요! | hapgyeokhaesseoyo! | Tôi đỗ rồi! |
+| 합격했어요! | hapkyeokhaesseoyo! [합껴캐써요!] | Tôi đỗ rồi! |
 
 Dù bạn nhắm đến cấp nào, hãy luyện đề thi các năm trước trong điều kiện bấm giờ. Nắm rõ cấu trúc đề là đã thắng một nửa, nửa còn lại là thật nhiều tiếng Hàn đời thường.

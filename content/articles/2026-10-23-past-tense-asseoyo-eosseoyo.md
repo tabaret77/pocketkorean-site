@@ -27,9 +27,9 @@ It's exactly the same vowel choice as in the present tense, so if you can say **
 |---|---|---|---|
 | [살다](/en/dictionary/?q=살다) (salda) | 살- | 살았어요 (sarasseoyo) | I lived |
 | 좋다 (jota) | 좋- | 좋았어요 (joasseoyo) | it was good |
-| [먹다](/en/dictionary/?q=먹다) (meokda) | 먹- | 먹었어요 (meogeosseoyo) | I ate |
-| 읽다 (ikda) | 읽- | 읽었어요 (ilgeosseoyo) | I read |
-| 맛있다 (masitda) | 맛있- | 맛있었어요 (masisseosseoyo) | it was delicious |
+| [먹다](/en/dictionary/?q=먹다) (meokta [먹따]) | 먹- | 먹었어요 (meogeosseoyo) | I ate |
+| 읽다 (ikta [익따]) | 읽- | 읽었어요 (ilgeosseoyo) | I read |
+| 맛있다 (masitta [마싣따]) | 맛있- | 맛있었어요 (masisseosseoyo) | it was delicious |
 | [공부하다](/en/dictionary/?q=공부하다) (gongbuhada) | 공부하- | 공부했어요 (gongbuhaesseoyo) | I studied |
 | 일하다 (ilhada) | 일하- | 일했어요 (ilhaesseoyo) | I worked |
 
@@ -60,8 +60,8 @@ To say "was" with a noun, use **이었어요** after a consonant and **였어요
 
 Irregular verbs change in the past exactly as they do in the present, so learn them in pairs:
 
-- **듣다** (deutda) – to listen → 들었어요 (deureosseoyo)
-- **춥다** (chupda) – to be cold → 추웠어요 (chuwosseoyo)
+- **듣다** (deutta [듣따]) – to listen → 들었어요 (deureosseoyo)
+- **춥다** (chupta [춥따]) – to be cold → 추웠어요 (chuwosseoyo)
 - **바쁘다** (bappeuda) – to be busy → 바빴어요 (bappasseoyo)
 - **쓰다** (sseuda) – to write, use → 썼어요 (sseosseoyo)
 - **모르다** (moreuda) – not to know → 몰랐어요 (mollasseoyo)
@@ -91,7 +91,7 @@ Put these into the polite past. Answers below.
 4. 덥다 (to be hot)
 5. 학생 (student) + was
 
-**Answers:** 1. 만났어요 (mannasseoyo) 2. 마셨어요 (masyeosseoyo) 3. 청소했어요 (cheongsohaesseoyo) 4. 더웠어요 (deowosseoyo) 5. 학생이었어요 (haksaengieosseoyo)
+**Answers:** 1. 만났어요 (mannasseoyo) 2. 마셨어요 (masyeosseoyo) 3. 청소했어요 (cheongsohaesseoyo) 4. 더웠어요 (deowosseoyo) 5. 학생이었어요 (hakssaengieosseoyo [학쌩이어써요])
 
 ## Korean you can use
 

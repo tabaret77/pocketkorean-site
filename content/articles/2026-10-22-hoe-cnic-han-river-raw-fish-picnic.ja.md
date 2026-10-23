@@ -44,7 +44,7 @@ draft: false
 | 치맥 | chimaek | チキンとビール |
 | [수산시장](/ja/dictionary/?q=수산시장) | susansijang | 魚市場、水産市場 |
 | [포장](/ja/dictionary/?q=포장) | pojang | 包装、持ち帰り |
-| 돗자리 | dotjari | レジャーシート、ござ |
+| 돗자리 | dotjjari [돋짜리] | レジャーシート、ござ |
 | 광어 | gwangeo | ヒラメ |
 | 초고추장 | chogochujang | 赤い唐辛子のつけだれ |
 

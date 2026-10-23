@@ -54,6 +54,6 @@ Para hablar del tipo de lanzamiento, usa **미니 앨범** (mini aelbeom) para u
 | 2관왕 | igwanwang | doble corona |
 | 기록 | girok | récord |
 
-Una estructura para comparar cifras: **지난 앨범보다 적게 팔렸어요** (jinan aelbeomboda jeokge pallyeosseoyo): "Vendió menos que el álbum anterior". Sustantivo + **보다** significa "que" (en comparaciones); cambia **적게** (menos) por **많이** (más) para decir lo contrario: **지난 앨범보다 많이 팔렸어요**.
+Una estructura para comparar cifras: **지난 앨범보다 적게 팔렸어요** (jinan aelbeomboda jeokke pallyeosseoyo [지난 앨범보다 적께 팔려써요]): "Vendió menos que el álbum anterior". Sustantivo + **보다** significa "que" (en comparaciones); cambia **적게** (menos) por **많이** (más) para decir lo contrario: **지난 앨범보다 많이 팔렸어요**.
 
 Fuentes: [Sports Kyunghyang – ventas de la primera semana de NCT WISH, 20 de oct.](https://sports.khan.co.kr/en/article/202610200819007/), [The Korea Times – NCT WISH lanza "I SPY", 12 de oct.](https://www.koreatimes.co.kr/entertainment/k-pop/20261012/nct-wish-drops-new-mini-album-i-spy-ahead-of-landmark-gocheok-sky-dome-concert), [SM Entertainment – video musical de "I SPY"](https://www.youtube.com/watch?v=xIlFjHHUfI0)

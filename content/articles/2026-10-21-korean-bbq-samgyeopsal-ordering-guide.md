@@ -12,7 +12,7 @@ phrase_meaning: grilled pork belly
 draft: false
 ---
 
-A Korean barbecue restaurant is loud, smoky and friendly, and it can be confusing the first time. There's a grill in the middle of the table, a small menu on the wall, and staff moving fast. Here's how a typical **삼겹살** (samgyeopsal) – pork belly – dinner works, and what to say at each step.
+A Korean barbecue restaurant is loud, smoky and friendly, and it can be confusing the first time. There's a grill in the middle of the table, a small menu on the wall, and staff moving fast. Here's how a typical **삼겹살** (samgyeopssal [삼겹쌀]) – pork belly – dinner works, and what to say at each step.
 
 ## Step 1: Sit down and count people
 
@@ -30,7 +30,7 @@ Many barbecue restaurants have a **minimum of two portions** for the first order
 
 Other popular cuts:
 
-- **목살** (moksal) – pork neck/shoulder, a bit leaner
+- **목살** (mokssal [목쌀]) – pork neck/shoulder, a bit leaner
 - **항정살** (hangjeongsal) – pork jowl, rich and chewy
 - **갈비** (galbi) – ribs, often marinated
 
@@ -44,7 +44,7 @@ If you'd rather ask: **상추 좀 더 주세요.** (sangchu jom deo juseyo.) –
 
 ## Step 4: Who grills?
 
-It depends on the restaurant. At some places staff grill and cut the meat for you; at many casual places, the diners do it. If no one comes, it's your job. Use the **집게** (jipge), tongs, to turn the meat and the **가위** (gawi), scissors, to cut it into bite-sized pieces once it's browned on both sides.
+It depends on the restaurant. At some places staff grill and cut the meat for you; at many casual places, the diners do it. If no one comes, it's your job. Use the **집게** (jipke [집께]), tongs, to turn the meat and the **가위** (gawi), scissors, to cut it into bite-sized pieces once it's browned on both sides.
 
 Not sure if it's done? Ask **이거 다 익었어요?** (igeo da igeosseoyo?) – "Is this cooked?" When the grill plate gets black and sticky, ask **불판 좀 갈아 주세요.** (bulpan jom gara juseyo.) – "Could you change the grill plate?"
 
@@ -54,7 +54,7 @@ Not sure if it's done? Ask **이거 다 익었어요?** (igeo da igeosseoyo?) �
 
 ## Drinking manners
 
-Barbecue often comes with **소주** (soju) or **맥주** (maekju), beer. A few customs:
+Barbecue often comes with **소주** (soju) or **맥주** (maekjju [맥쭈]), beer. A few customs:
 
 - Don't pour your own glass; pour for others, and they'll pour for you.
 - When an older person pours for you, hold your glass with **two hands**.
@@ -65,7 +65,7 @@ Nobody expects visitors to get all of this right, but trying is always appreciat
 
 ## Step 6: Finish like a local
 
-Koreans often finish a barbecue meal with something starchy. Try **된장찌개** (doenjang-jjigae), soybean paste stew, with **공깃밥** (gonggitbap), a bowl of rice, or **볶음밥** (bokkeumbap), fried rice made on the grill with the leftovers. Cold noodles, **냉면** (naengmyeon), are another favourite.
+Koreans often finish a barbecue meal with something starchy. Try **된장찌개** (doenjang-jjigae), soybean paste stew, with **공깃밥** (gonggitpap [공긷빱]), a bowl of rice, or **볶음밥** (bokkeumbap), fried rice made on the grill with the leftovers. Cold noodles, **냉면** (naengmyeon), are another favourite.
 
 ## Step 7: Pay at the counter
 

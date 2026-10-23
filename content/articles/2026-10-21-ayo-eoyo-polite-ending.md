@@ -18,7 +18,7 @@ If you learn only one verb ending in Korean, make it **-아요/어요** (-ayo/-e
 Korean verbs and adjectives are listed in the dictionary ending in **-다** (-da). Take off 다 and you have the stem:
 
 - **가다** (gada) – to go → stem 가-
-- **먹다** (meokda) – to eat → stem 먹-
+- **먹다** (meokta [먹따]) – to eat → stem 먹-
 - **좋다** (jota) – to be good → stem 좋-
 
 ## Step 2: look at the last vowel
@@ -33,9 +33,9 @@ Now look at the vowel in the **last syllable of the stem**.
 |---|---|---|---|
 | 살다 (salda) | ㅏ | 살아요 (sarayo) | (I) live |
 | 좋다 (jota) | ㅗ | 좋아요 (joayo) | (it's) good |
-| 먹다 (meokda) | ㅓ | 먹어요 (meogeoyo) | (I) eat |
-| 읽다 (ikda) | ㅣ | 읽어요 (ilgeoyo) | (I) read |
-| 있다 (itda) | ㅣ | 있어요 (isseoyo) | there is / (I) have |
+| 먹다 (meokta [먹따]) | ㅓ | 먹어요 (meogeoyo) | (I) eat |
+| 읽다 (ikta [익따]) | ㅣ | 읽어요 (ilgeoyo) | (I) read |
+| 있다 (itta [읻따]) | ㅣ | 있어요 (isseoyo) | there is / (I) have |
 | 공부하다 (gongbuhada) | 하다 | 공부해요 (gongbuhaeyo) | (I) study |
 
 That last line is the one that looks "irregular", but it's completely predictable: every 하다 verb follows it. **일하다** (ilhada) – to work → **일해요** (ilhaeyo); **좋아하다** (joahada) – to like → **좋아해요** (joahaeyo).
@@ -59,7 +59,7 @@ Stems ending in **ㅡ** drop the ㅡ, then look at the syllable before it:
 - 바쁘다 (bappeuda) – to be busy → **바빠요** (bappayo), because the syllable before is 바
 - 예쁘다 (yeppeuda) – to be pretty → **예뻐요** (yeppeoyo)
 
-A few verbs are truly irregular, such as **덥다** (deopda) – to be hot → **더워요** (deowoyo), or **모르다** (moreuda) – not to know → **몰라요** (mollayo). Learn them as you meet them; the rules above handle most verbs.
+A few verbs are truly irregular, such as **덥다** (deopta [덥따]) – to be hot → **더워요** (deowoyo), or **모르다** (moreuda) – not to know → **몰라요** (mollayo). Learn them as you meet them; the rules above handle most verbs.
 
 ## One form, three jobs
 
@@ -79,7 +79,7 @@ Take away the **요** and you get casual speech (반말, banmal): 가, 먹어, �
 
 Change each verb into the -아요/어요 form. Answers are below.
 
-1. 앉다 (anda) – to sit
+1. 앉다 (antta [안따]) – to sit
 2. 마시다 (masida) – to drink
 3. 일하다 (ilhada) – to work
 4. 만나다 (mannada) – to meet

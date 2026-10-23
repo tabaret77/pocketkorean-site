@@ -28,9 +28,9 @@ Lấy gốc động từ (dạng nguyên thể bỏ **-다**) và nhìn vào ngu
 |---|---|---|---|
 | [살다](/vi/dictionary/?q=살다) (salda) | 살- | 살았어요 (sarasseoyo) | tôi đã sống |
 | 좋다 (jota) | 좋- | 좋았어요 (joasseoyo) | (nó) đã rất tốt |
-| [먹다](/vi/dictionary/?q=먹다) (meokda) | 먹- | 먹었어요 (meogeosseoyo) | tôi đã ăn |
-| 읽다 (ikda) | 읽- | 읽었어요 (ilgeosseoyo) | tôi đã đọc |
-| 맛있다 (masitda) | 맛있- | 맛있었어요 (masisseosseoyo) | (món đó) đã rất ngon |
+| [먹다](/vi/dictionary/?q=먹다) (meokta [먹따]) | 먹- | 먹었어요 (meogeosseoyo) | tôi đã ăn |
+| 읽다 (ikta [익따]) | 읽- | 읽었어요 (ilgeosseoyo) | tôi đã đọc |
+| 맛있다 (masitta [마싣따]) | 맛있- | 맛있었어요 (masisseosseoyo) | (món đó) đã rất ngon |
 | [공부하다](/vi/dictionary/?q=공부하다) (gongbuhada) | 공부하- | 공부했어요 (gongbuhaesseoyo) | tôi đã học |
 | 일하다 (ilhada) | 일하- | 일했어요 (ilhaesseoyo) | tôi đã làm việc |
 
@@ -61,8 +61,8 @@ Một số gốc, như **쉬다** (swida) – nghỉ ngơi – không hợp nh�
 
 Động từ bất quy tắc biến đổi ở thì quá khứ y như ở thì hiện tại, nên hãy học chúng theo cặp:
 
-- **듣다** (deutda) – nghe → 들었어요 (deureosseoyo)
-- **춥다** (chupda) – lạnh → 추웠어요 (chuwosseoyo)
+- **듣다** (deutta [듣따]) – nghe → 들었어요 (deureosseoyo)
+- **춥다** (chupta [춥따]) – lạnh → 추웠어요 (chuwosseoyo)
 - **바쁘다** (bappeuda) – bận → 바빴어요 (bappasseoyo)
 - **쓰다** (sseuda) – viết, dùng → 썼어요 (sseosseoyo)
 - **모르다** (moreuda) – không biết → 몰랐어요 (mollasseoyo)
@@ -92,7 +92,7 @@ Chuyển các từ sau sang quá khứ lịch sự. Đáp án ở bên dưới.
 4. 덥다 (nóng)
 5. 학생 (học sinh) + đã là
 
-**Đáp án:** 1. 만났어요 (mannasseoyo) 2. 마셨어요 (masyeosseoyo) 3. 청소했어요 (cheongsohaesseoyo) 4. 더웠어요 (deowosseoyo) 5. 학생이었어요 (haksaengieosseoyo)
+**Đáp án:** 1. 만났어요 (mannasseoyo) 2. 마셨어요 (masyeosseoyo) 3. 청소했어요 (cheongsohaesseoyo) 4. 더웠어요 (deowosseoyo) 5. 학생이었어요 (hakssaengieosseoyo [학쌩이어써요])
 
 ## Tiếng Hàn bạn có thể dùng
 

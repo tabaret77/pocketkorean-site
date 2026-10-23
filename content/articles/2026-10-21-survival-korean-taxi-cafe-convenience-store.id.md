@@ -34,7 +34,7 @@ Kamu mungkin mendengar **어디로 가세요?** (eodiro gaseyo?) – "Mau ke man
 6. **아이스 아메리카노 한 잔 주세요.** (aiseu amerikano han jan juseyo.) – Es americano satu, ya. ***잔** (jan) adalah kata satuan untuk cangkir dan gelas: 한 잔 (han jan) satu, 두 잔 (du jan) dua.*
 7. **따뜻한 걸로 주세요.** (ttatteutan geollo juseyo.) – Yang panas, ya. *Bagi banyak orang Korea, minuman dingin adalah pilihan default, bahkan di musim dingin, jadi pegawai mungkin bertanya: **따뜻한 거요, 아이스요?** (ttatteutan geoyo, aiseuyo?) – "Panas atau dingin?"*
 8. **먹고 갈게요. / 가져갈게요.** (meokgo galgeyo. / gajyeogalgeyo.) – Di sini. / Dibawa pulang. *Kamu akan sering ditanya **드시고 가세요?** (deusigo gaseyo?) – "Makan/minum di sini?"*
-9. **얼음 적게 주세요.** (eoreum jeokge juseyo.) – Esnya sedikit, ya.
+9. **얼음 적게 주세요.** (eoreum jeokke juseyo. [어름 적께 주세요.]) – Esnya sedikit, ya.
 10. **화장실 비밀번호가 뭐예요?** (hwajangsil bimilbeonhoga mwoyeyo?) – Kode toiletnya berapa? *Banyak toilet kafe dikunci dengan keypad; kodenya sering tercetak di struk.*
 
 Saat minumanmu siap, bel getar (**진동벨**, jindongbel) mungkin bergetar, atau pegawai akan memanggil nomor pesananmu.
@@ -46,10 +46,10 @@ Minimarket Korea (**편의점**, pyeonuijeom) menjual segalanya, dari nasi kotak
 11. **봉투 하나 주세요.** (bongtu hana juseyo.) – Minta kantong satu, ya. *Kantong tidak gratis, jadi kasir sering bertanya **봉투 필요하세요?** (bongtu piryohaseyo?) – "Perlu kantong?" Kalau tidak: **괜찮아요** (gwaenchanayo), "Nggak usah, terima kasih."*
 12. **이거 원 플러스 원이에요?** (igeo won peulleoseu wonieyo?) – Ini beli satu gratis satu? *Cari stiker "1+1" dan "2+1" di rak.*
 13. **교통카드 충전해 주세요.** (gyotong kadeu chungjeonhae juseyo.) – Tolong isi ulang kartu transportasi saya. *Serahkan kartunya beserta uang tunai.*
-14. **젓가락 주세요.** (jeotgarak juseyo.) – Minta sumpit, ya. *Berguna saat kamu membeli mi instan atau nasi kotak.*
+14. **젓가락 주세요.** (jeotkarak juseyo. [젇까락 주세요.]) – Minta sumpit, ya. *Berguna saat kamu membeli mi instan atau nasi kotak.*
 15. **영수증은 괜찮아요.** (yeongsujeungeun gwaenchanayo.) – Struknya nggak usah.
 
-Kasir mungkin juga bertanya **포인트 카드 있으세요?** (pointeu kadeu isseuseyo?) – "Punya kartu poin?" Cukup jawab **없어요** (eopseoyo), "Nggak punya."
+Kasir mungkin juga bertanya **포인트 카드 있으세요?** (pointeu kadeu isseuseyo?) – "Punya kartu poin?" Cukup jawab **없어요** (eopsseoyo [업써요]), "Nggak punya."
 
 ## Dua ungkapan yang berguna di mana saja
 

@@ -45,7 +45,7 @@ Kebanyakan orang Korea memesan lewat aplikasi pesan-antar, tetapi makan di tempa
 |---|---|---|
 | 치킨 | chikin | ayam goreng |
 | 치맥 | chimaek | ayam goreng dan bir |
-| [맥주](/id/dictionary/?q=맥주) | maekju | bir |
+| [맥주](/id/dictionary/?q=맥주) | maekjju [맥쭈] | bir |
 | 양념 | yangnyeom | bumbu; ayam bersaus |
 | 반반 | banban | setengah-setengah |
 | 순살 | sunsal | tanpa tulang |

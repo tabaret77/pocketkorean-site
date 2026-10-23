@@ -53,7 +53,7 @@ Don't mix it up with **썸 타다** (sseom tada), a different, newer use of 타�
 If 가을 타다 isn't specific enough, these help describe the feeling:
 
 - **쓸쓸하다** (sseulsseulhada) – lonely, desolate (a perfect autumn word)
-- **[외롭다](/en/dictionary/?q=외롭다)** (oeropda) – lonely
+- **[외롭다](/en/dictionary/?q=외롭다)** (oeropta [외롭따]) – lonely
 - **우울하다** (uulhada) – depressed, gloomy
 - **기분이 가라앉다** (gibuni garaanda) – to feel down (literally "the mood sinks")
 
@@ -67,7 +67,7 @@ If 가을 타다 isn't specific enough, these help describe the feeling:
 | 추위를 타다 | chuwireul tada | to feel the cold easily |
 | 더위를 타다 | deowireul tada | to suffer in the heat |
 | 쓸쓸하다 | sseulsseulhada | to feel lonely, desolate |
-| 외롭다 | oeropda | to be lonely |
+| 외롭다 | oeropta [외롭따] | to be lonely |
 | 산책하다 | sanchaekada | to go for a walk |
 
 Useful pattern: **요즘 가을 타나 봐요.** (Yojeum gaeul tana bwayo.) – I think the autumn mood is getting to me these days. Swap in **추위를 타나 봐요** (chuwireul tana bwayo) when it's the cold, not the season, that's getting to you.

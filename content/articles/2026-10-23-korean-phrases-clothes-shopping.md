@@ -49,7 +49,7 @@ If trousers are too long, ask about **수선** (suseon), alterations. Hemming ty
 
 Return rules depend on the shop. Department stores and large brands usually accept returns with a receipt within about 7 to 30 days, while street stalls and underground malls rarely refund and may only exchange. Ask before you pay: **환불 돼요?** (hwanbul dwaeyo?), "Can I get a refund?"
 
-Visitors can also ask **택스 리펀 돼요?** (taekseu ripeon dwaeyo?) – "Can I get a tax refund?" At most tax-free shops you need to spend at least 15,000 won in one transaction and show your passport. An instant refund at the till is possible for purchases under 1,000,000 won each, up to a total of 5,000,000 won per trip.
+Visitors can also ask **택스 리펀 돼요?** (taeksseu ripeon dwaeyo? [택쓰 리펀 돼요?]) – "Can I get a tax refund?" At most tax-free shops you need to spend at least 15,000 won in one transaction and show your passport. An instant refund at the till is possible for purchases under 1,000,000 won each, up to a total of 5,000,000 won per trip.
 
 ## Korean you can use
 
@@ -59,7 +59,7 @@ Visitors can also ask **택스 리펀 돼요?** (taekseu ripeon dwaeyo?) – "Ca
 | [사이즈](/en/dictionary/?q=사이즈) | saijeu | size |
 | 탈의실 | taruisil | fitting room |
 | [크다](/en/dictionary/?q=크다) | keuda | to be big |
-| [작다](/en/dictionary/?q=작다) | jakda | to be small |
+| [작다](/en/dictionary/?q=작다) | jakta [작따] | to be small |
 | [교환](/en/dictionary/?q=교환) | gyohwan | exchange |
 | [환불](/en/dictionary/?q=환불) | hwanbul | refund |
 | [영수증](/en/dictionary/?q=영수증) | yeongsujeung | receipt |

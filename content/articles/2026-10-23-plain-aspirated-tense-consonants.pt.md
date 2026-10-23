@@ -55,9 +55,9 @@ Com o Halloween chegando, **탈** é uma boa palavra para guardar. É a palavra 
 
 Às vezes uma letra simples é pronunciada como tensa, mesmo sendo escrita como simples. Isso acontece depois de um som final de ㄱ, ㄷ ou ㅂ:
 
-- **학교** (hakgyo) – escola → [학꾜]
-- **식당** (sikdang) – restaurante → [식땅]
-- **입구** (ipgu) – entrada → [입꾸]
+- **학교** (hakkyo [학꾜]) – escola → [학꾜]
+- **식당** (siktang [식땅]) – restaurante → [식땅]
+- **입구** (ipku [입꾸]) – entrada → [입꾸]
 
 A Romanização Revisada não mostra essa tensão dentro da palavra, então você lê "hakgyo", mas fala algo mais perto de "hak-kyo". A grafia continua simples; só o som muda.
 

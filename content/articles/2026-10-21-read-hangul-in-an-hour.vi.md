@@ -105,7 +105,7 @@ Hãy để ý rằng trong **한국어**, phụ âm cuối ㄱ của 국 trượ
 | 자음 | jaeum | phụ âm |
 | 모음 | moeum | nguyên âm |
 | 받침 | batchim | phụ âm cuối |
-| [읽다](/vi/dictionary/?q=읽다) | ikda | đọc |
+| [읽다](/vi/dictionary/?q=읽다) | ikta [익따] | đọc |
 | 이거 어떻게 읽어요? | igeo eotteoke ilgeoyo? | Cái này đọc thế nào ạ? |
 
 Khi đã nắm được cách ghép khối, mọi từ tiếng Hàn bạn gặp đều trở thành thứ bạn có thể đọc thành tiếng, và đó mới là khởi đầu thực sự của việc học tiếng Hàn.

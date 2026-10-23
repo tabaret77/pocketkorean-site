@@ -25,7 +25,7 @@ Phim phát sóng thứ Bảy và Chủ nhật trên tvN và cũng có trên Netf
 
 ## Từ kẻ móc túi thành điệp viên
 
-Câu chuyện lấy bối cảnh thời kỳ Nhật Bản chiếm đóng, mà người Hàn gọi là **일제강점기** (Ilje gangjeomgi). Kim You-jung vào vai Ga-kyung, một **소매치기** (somaechigi) – kẻ móc túi – tài ba, thâm nhập vào Phủ Tổng đốc Triều Tiên của Nhật. Từ bên trong, cô bắt đầu chuyển những thông tin quan trọng cho **독립군** (dongnipgun) – quân độc lập – của Hàn Quốc. Park Jin-young đóng vai nam chính đối diện cô, và phim kết hợp yếu tố gián điệp với tình cảm.
+Câu chuyện lấy bối cảnh thời kỳ Nhật Bản chiếm đóng, mà người Hàn gọi là **일제강점기** (Ilje gangjeomgi). Kim You-jung vào vai Ga-kyung, một **소매치기** (somaechigi) – kẻ móc túi – tài ba, thâm nhập vào Phủ Tổng đốc Triều Tiên của Nhật. Từ bên trong, cô bắt đầu chuyển những thông tin quan trọng cho **독립군** (dongnipkun [동닙꾼]) – quân độc lập – của Hàn Quốc. Park Jin-young đóng vai nam chính đối diện cô, và phim kết hợp yếu tố gián điệp với tình cảm.
 
 Tựa phim gợi đến một chiếc đồng hồ đếm ngược: nữ chính phải giữ được thân phận giả, và "sự lừa dối" trong tựa đề vừa là nhiệm vụ của cô, vừa là nguồn căng thẳng trong chuyện tình.
 
@@ -41,7 +41,7 @@ Phim cổ trang lấy bối cảnh những năm 1920–40 dùng nhiều lối n�
 | 주말 드라마 | jumal deurama | phim cuối tuần |
 | 소매치기 | somaechigi | kẻ móc túi |
 | 스파이 | seupai | điệp viên |
-| 독립군 | dongnipgun | quân độc lập |
+| 독립군 | dongnipkun [동닙꾼] | quân độc lập |
 | 일제강점기 | Ilje gangjeomgi | thời kỳ Nhật Bản chiếm đóng (1910–1945) |
 | [거짓말](/vi/dictionary/?q=거짓말) | geojinmal | lời nói dối |
 

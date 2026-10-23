@@ -27,7 +27,7 @@ According to the Korea Forest Service's 2026 forecast, colours were expected to 
 
 Most of the country, including the hills and palaces of Seoul, peaks in **late October to early November**. Ginkgo trees, which line many Seoul streets, turn bright yellow at about the same time.
 
-In Seoul, the **Seoul Silver Grass Festival** – **서울억새축제** (Seoul eoksae chukje) – runs at Haneul Park in World Cup Park until **23 October 2026**, open 10:00–21:00. **억새** (eoksae) is silver grass, and the hilltop fields glow at sunset.
+In Seoul, the **Seoul Silver Grass Festival** – **서울억새축제** (Seoul eoksae chukje) – runs at Haneul Park in World Cup Park until **23 October 2026**, open 10:00–21:00. **억새** (eokssae [억쌔]) is silver grass, and the hilltop fields glow at sunset.
 
 ## November: fireworks, kimchi and the big exam
 
@@ -60,7 +60,7 @@ December brings **연말** (yeonmal), the year-end season, with company dinners,
 | Korean | Romanization | Meaning |
 |---|---|---|
 | [단풍](/en/dictionary/?q=단풍) | danpung | autumn leaves |
-| [축제](/en/dictionary/?q=축제) | chukje | festival |
+| [축제](/en/dictionary/?q=축제) | chukjje [축쩨] | festival |
 | 불꽃놀이 | bulkkonnori | fireworks |
 | [김장](/en/dictionary/?q=김장) | gimjang | kimchi-making for winter |
 | 첫눈 | cheonnun | the first snow of the year |

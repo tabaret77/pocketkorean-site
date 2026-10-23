@@ -65,6 +65,6 @@ MBTI-ийн яриа хөгжилтэй ч бүгд оролцдоггүй. Мө
 | 극I | geugai | туйлын дотогшоо хүн |
 | 저 I예요 | jeo aiyeyo | Би дотогшоо хүн |
 
-Хэрэгтэй хэв маяг: **저 극I라서 주말엔 집에 있어요.** (Jeo geugairaseo jumaren jibe isseoyo.) – Би туйлын дотогшоо хүн болохоор амралтын өдрүүдэд гэртээ байдаг. **-(이)라서** нь шалтгааныг илэрхийлдэг: дурын нэр үгээр сольж болно, жишээ нь **학생이라서** (haksaengiraseo) – оюутан болохоор.
+Хэрэгтэй хэв маяг: **저 극I라서 주말엔 집에 있어요.** (Jeo geugairaseo jumaren jibe isseoyo.) – Би туйлын дотогшоо хүн болохоор амралтын өдрүүдэд гэртээ байдаг. **-(이)라서** нь шалтгааныг илэрхийлдэг: дурын нэр үгээр сольж болно, жишээ нь **학생이라서** (hakssaengiraseo [학쌩이라서]) – оюутан болохоор.
 
 Эх сурвалж: [Yonhap via Hanminjok Center – «MBTI가 어떻게 되세요?» (2026 оны 10-р сарын 20)](https://www.koreancenter.or.kr/news/articleView.html?idxno=1426956), [Hankyoreh 21 via Daum – MBTI-д T яагаад асуудалтай үсэг болсон бэ](https://v.daum.net/v/20230815234812392), [The Korea Herald via Asia News Network – «Чи T юу?» бол шинэ доромжлол](https://asianews.network/?p=175825), [Yugacrew wiki – 극I](https://www.yugacrew.com/yugawiki/%EA%B7%B9I)

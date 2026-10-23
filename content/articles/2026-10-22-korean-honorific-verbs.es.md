@@ -20,14 +20,14 @@ Estos reemplazan al verbo normal cuando el sujeto es alguien a quien respetas.
 
 | Normal | Honorífico | Significado |
 |---|---|---|
-| 먹다 (meokda), 마시다 (masida) | **[드시다](/es/dictionary/?q=드시다)** (deusida) | comer, beber |
-| 먹다 (meokda) | **[잡수시다](/es/dictionary/?q=잡수시다)** (japsusida) | comer (muy respetuoso) |
+| 먹다 (meokta [먹따]), 마시다 (masida) | **[드시다](/es/dictionary/?q=드시다)** (deusida) | comer, beber |
+| 먹다 (meokta [먹따]) | **[잡수시다](/es/dictionary/?q=잡수시다)** (japssusida [잡쑤시다]) | comer (muy respetuoso) |
 | 자다 (jada) | **[주무시다](/es/dictionary/?q=주무시다)** (jumusida) | dormir |
-| 있다 (itda) | **[계시다](/es/dictionary/?q=계시다)** (gyesida) | estar (en algún lugar) |
+| 있다 (itta [읻따]) | **[계시다](/es/dictionary/?q=계시다)** (gyesida) | estar (en algún lugar) |
 | 말하다 (malhada) | **말씀하시다** (malsseumhasida) | hablar |
-| 죽다 (jukda) | **돌아가시다** (doragasida) | fallecer |
+| 죽다 (jukta [죽따]) | **돌아가시다** (doragasida) | fallecer |
 
-Así, a un amigo le dices **밥 먹었어?** (Bap meogeosseo?), pero a tu abuela, **할머니, 진지 드셨어요?** (Halmeoni, jinji deusyeosseoyo?). 잡수시다 es todavía más respetuoso y suena un poco anticuado; lo oirás sobre todo con los abuelos: **진지 잡수셨어요?** (Jinji japsusyeosseoyo?)
+Así, a un amigo le dices **밥 먹었어?** (Bap meogeosseo?), pero a tu abuela, **할머니, 진지 드셨어요?** (Halmeoni, jinji deusyeosseoyo?). 잡수시다 es todavía más respetuoso y suena un poco anticuado; lo oirás sobre todo con los abuelos: **진지 잡수셨어요?** (Jinji japssusyeosseoyo? [진지 잡쑤셔써요?])
 
 A la hora de dormir, **잘 자** (jal ja), que duermas bien, se convierte en **안녕히 주무세요** (annyeonghi jumuseyo) con cualquier persona mayor.
 
@@ -40,8 +40,8 @@ La otra mitad del sistema funciona al revés. Cuando *tú* haces algo por una pe
 | Normal | Humilde | Significado |
 |---|---|---|
 | 주다 (juda) | **[드리다](/es/dictionary/?q=드리다)** (deurida) | dar |
-| 묻다 (mutda) | **[여쭙다](/es/dictionary/?q=여쭙다)** (yeojjupda) | preguntar |
-| 보다 (boda) | **뵙다** (boepda) | ver, conocer (a alguien) |
+| 묻다 (mutta [묻따]) | **[여쭙다](/es/dictionary/?q=여쭙다)** (yeojjupta [여쭙따]) | preguntar |
+| 보다 (boda) | **뵙다** (boepta [뵙따]) | ver, conocer (a alguien) |
 | 데리다 (derida) | **모시다** (mosida) | llevar, acompañar |
 
 Algunos ya los conoces por frases hechas: **처음 뵙겠습니다** (cheoeum boepgetseumnida), "Mucho gusto", y el personal de las tiendas que dice **뭐 드릴까요?** (Mwo deurilkkayo?): "¿Qué le doy?". Para hacerle una pregunta a un maestro: **하나 여쭤봐도 될까요?** (Hana yeojjwobwado doelkkayo?): ¿Le puedo hacer una pregunta?

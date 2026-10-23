@@ -41,13 +41,13 @@ Phiên âm chính thức theo âm đọc chứ không theo chữ viết, nên c�
 Một số âm tiết có hai phụ âm ở dưới, như **닭** hay **값**. Khi đứng một mình, bạn chỉ đọc một trong hai – thường là chữ đầu tiên:
 
 - **[값](/vi/dictionary/?q=값)** (gap) – giá → [갑]
-- **앉다** (anda) – ngồi → [안따]
-- **없다** (eopda) – không có → [업따]
+- **앉다** (antta [안따]) – ngồi → [안따]
+- **없다** (eopta [업따]) – không có → [업따]
 
 Một vài batchim kép thông dụng lại đọc chữ thứ hai, đặc biệt là ㄺ và ㄻ:
 
 - **[닭](/vi/dictionary/?q=닭)** (dak) – gà → [닥]
-- **읽다** (ikda) – đọc → [익따]
+- **읽다** (ikta [익따]) – đọc → [익따]
 - **삶** (sam) – cuộc sống → [삼]
 
 Đừng cố học thuộc mọi tổ hợp cùng lúc; hãy học cách phát âm cùng với từng từ.

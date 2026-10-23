@@ -54,7 +54,7 @@ draft: false
 가을 타다だけでは物足りないときは、次の言葉で気持ちを表せます。
 
 - **쓸쓸하다**（sseulsseulhada）＝寂しい、わびしい（秋にぴったりの言葉）
-- **[외롭다](/ja/dictionary/?q=외롭다)**（oeropda）＝孤独だ、寂しい
+- **[외롭다](/ja/dictionary/?q=외롭다)**（oeropta [외롭따]）＝孤独だ、寂しい
 - **우울하다**（uulhada）＝憂うつだ、気が滅入る
 - **기분이 가라앉다**（gibuni garaanda）＝落ち込む（直訳は「気分が沈む」）
 
@@ -68,7 +68,7 @@ draft: false
 | 추위를 타다 | chuwireul tada | 寒さに弱い、寒がりだ |
 | 더위를 타다 | deowireul tada | 暑さに弱い、暑がりだ |
 | 쓸쓸하다 | sseulsseulhada | 寂しい、わびしい |
-| 외롭다 | oeropda | 孤独だ、寂しい |
+| 외롭다 | oeropta [외롭따] | 孤独だ、寂しい |
 | 산책하다 | sanchaekada | 散歩する |
 
 使えるパターン：**요즘 가을 타나 봐요.**（Yojeum gaeul tana bwayo.）＝最近、秋の気分にやられているみたいです。季節ではなく寒さがこたえているときは、**추위를 타나 봐요**（chuwireul tana bwayo）に入れ替えましょう。

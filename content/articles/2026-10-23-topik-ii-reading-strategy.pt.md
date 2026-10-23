@@ -43,7 +43,7 @@ Se uma questão levar mais de dois minutos, escolha a sua melhor resposta, marqu
 
 **Ordem das frases.** Observe os conectivos. Uma frase que começa com **그래서** (geuraeseo) – por isso – ou **하지만** (hajiman) – mas – não pode vir primeiro. Palavras como **이것** (igeot) – isto – também remetem a algo dito antes.
 
-**Manchetes de jornal.** As manchetes cortam partículas e terminações e usam vocabulário condensado, como **급증** (geupjeung) – alta acentuada. Aprenda um conjunto de palavras comuns em manchetes; elas voltam prova após prova.
+**Manchetes de jornal.** As manchetes cortam partículas e terminações e usam vocabulário condensado, como **급증** (geupjjeung [급쯩]) – alta acentuada. Aprenda um conjunto de palavras comuns em manchetes; elas voltam prova após prova.
 
 **Lacunas.** Leia a frase antes e a frase depois da lacuna. A resposta geralmente repete ou contrasta uma ideia que está bem ao lado.
 
@@ -64,7 +64,7 @@ Se você vai fazer a prova neste outono, veja o nosso guia de [níveis, pontuaç
 
 | Coreano | Romanização | Significado |
 |---|---|---|
-| 읽기 | ilgi | leitura (seção) |
+| 읽기 | ilkki [일끼] | leitura (seção) |
 | 지문 | jimun | texto de leitura |
 | 빈칸 | binkan | lacuna |
 | 주제 | juje | ideia principal, tema |

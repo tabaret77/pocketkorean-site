@@ -48,7 +48,7 @@ Body, 450–800 words: a plain, friendly opening paragraph with the facts → 2�
 
 - Korean words in the text: bold, with romanization in parentheses; link the first mention of a dictionary word as `[병원](/en/dictionary/?q=병원)` (use the dictionary form, e.g. 괜찮다).
 - Romanization: Revised Romanization, and check pronunciation changes (e.g. 시청률 sicheongnyul).
-- Romanize what learners should say, including tensification that Revised Romanization leaves out, and add the pronunciation in brackets when it differs from the spelling: 신다 → sintta [신따], 입다 → ipta [입따], 먹고 싶다 → meokgo sipta [먹꼬 십따], 학교 → hakgyo [학꾜].
+- Romanize what learners should say, including tensification that Revised Romanization leaves out, and add the pronunciation in brackets when it differs from the spelling: 신다 → sintta [신따], 입다 → ipta [입따], 먹고 싶다 → meokgo sipta [먹꼬 십따], 학교 → hakkyo [학꾜].
 - Sentence case, no ALL CAPS, no emoji.
 
 ## Covers

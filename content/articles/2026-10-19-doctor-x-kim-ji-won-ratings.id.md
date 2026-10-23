@@ -31,7 +31,7 @@ Di episode 4, Su-jeong menyelamatkan pasien yang sangat membutuhkan transfusi, m
 
 ## Kenapa ini penting bagi pelajar
 
-Drama medis adalah cara bagus untuk belajar bahasa Korea yang praktis. Kata-kata seperti [병원](/id/dictionary/?q=병원) (byeongwon) – rumah sakit, **응급실** (eungeupsil) – IGD, dan **수술** (susul) – operasi muncul di setiap episode, dan sama bergunanya kalau suatu saat kamu perlu ke dokter di Korea. Perhatikan bahasa sopan dan formal antara dokter dan pasien, serta bahasa santai yang jauh lebih kasar di antara para rival.
+Drama medis adalah cara bagus untuk belajar bahasa Korea yang praktis. Kata-kata seperti [병원](/id/dictionary/?q=병원) (byeongwon) – rumah sakit, **응급실** (eungeupssil [응급씰]) – IGD, dan **수술** (susul) – operasi muncul di setiap episode, dan sama bergunanya kalau suatu saat kamu perlu ke dokter di Korea. Perhatikan bahasa sopan dan formal antara dokter dan pasien, serta bahasa santai yang jauh lebih kasar di antara para rival.
 
 ## Bahasa Korea dari berita ini
 
@@ -41,7 +41,7 @@ Drama medis adalah cara bagus untuk belajar bahasa Korea yang praktis. Kata-kata
 | 최고 시청률 | choego sicheongnyul | rating tertinggi (sejauh ini) |
 | 첫 방송 | cheot bangsong | penayangan perdana |
 | 병원 | byeongwon | rumah sakit |
-| 응급실 | eungeupsil | IGD, unit gawat darurat |
+| 응급실 | eungeupssil [응급씰] | IGD, unit gawat darurat |
 | 수술 | susul | operasi, pembedahan |
 | 외과 의사 | oegwa uisa | dokter bedah |
 

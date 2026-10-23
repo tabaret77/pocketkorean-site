@@ -56,6 +56,6 @@ draft: false
 | [주차장](/ru/dictionary/?q=주차장) | juchajang | парковка, автостоянка |
 | [단풍](/ru/dictionary/?q=단풍) | danpung | осенние листья |
 
-**석굴암까지 얼마나 걸려요?** (seokguramkkaji eolmana geollyeoyo?) — Сколько времени добираться до Соккурама? Перед **까지** (kkaji), «до», можно поставить любое место, например **역까지** (yeokkkaji) — «до станции».
+**석굴암까지 얼마나 걸려요?** (seokkuramkkaji eolmana geollyeoyo? [석꾸람까지 얼마나 걸려요?]) — Сколько времени добираться до Соккурама? Перед **까지** (kkaji), «до», можно поставить любое место, например **역까지** (yeokkkaji) — «до станции».
 
 Источники: [Financial News – карта осенней листвы 2026 (на корейском)](https://www.fnnews.com/news/202610080943468392), [K Trip Tips – Пульгукса (на корейском)](https://www.ktriptips.com/kor/tourspot/126166), [Telltrip – путеводитель по Пульгукса (на корейском)](https://www.telltrip.com/domestic-travel/bulguksa-winter-snow-sceneries-gyeongju/), [South Korea Hallyu – путеводитель по Пульгукса](https://southkoreahallyu.com/bulguksa-temple-gyeongju/), [iVisitKorea – чем заняться в Кёнджу](https://www.ivisitkorea.com/things-to-do-in-gyeongju/)

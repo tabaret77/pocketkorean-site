@@ -19,14 +19,14 @@ These replace the normal verb when the subject is someone you respect.
 
 | Normal | Honorific | Meaning |
 |---|---|---|
-| 먹다 (meokda), 마시다 (masida) | **[드시다](/en/dictionary/?q=드시다)** (deusida) | to eat, to drink |
-| 먹다 (meokda) | **[잡수시다](/en/dictionary/?q=잡수시다)** (japsusida) | to eat (very respectful) |
+| 먹다 (meokta [먹따]), 마시다 (masida) | **[드시다](/en/dictionary/?q=드시다)** (deusida) | to eat, to drink |
+| 먹다 (meokta [먹따]) | **[잡수시다](/en/dictionary/?q=잡수시다)** (japssusida [잡쑤시다]) | to eat (very respectful) |
 | 자다 (jada) | **[주무시다](/en/dictionary/?q=주무시다)** (jumusida) | to sleep |
-| 있다 (itda) | **[계시다](/en/dictionary/?q=계시다)** (gyesida) | to be (somewhere) |
+| 있다 (itta [읻따]) | **[계시다](/en/dictionary/?q=계시다)** (gyesida) | to be (somewhere) |
 | 말하다 (malhada) | **말씀하시다** (malsseumhasida) | to speak |
-| 죽다 (jukda) | **돌아가시다** (doragasida) | to pass away |
+| 죽다 (jukta [죽따]) | **돌아가시다** (doragasida) | to pass away |
 
-So you say **밥 먹었어?** (Bap meogeosseo?) to a friend, but **할머니, 진지 드셨어요?** (Halmeoni, jinji deusyeosseoyo?) to your grandmother. 잡수시다 is even more respectful and sounds slightly old-fashioned; you'll hear it mostly with grandparents: **진지 잡수셨어요?** (Jinji japsusyeosseoyo?)
+So you say **밥 먹었어?** (Bap meogeosseo?) to a friend, but **할머니, 진지 드셨어요?** (Halmeoni, jinji deusyeosseoyo?) to your grandmother. 잡수시다 is even more respectful and sounds slightly old-fashioned; you'll hear it mostly with grandparents: **진지 잡수셨어요?** (Jinji japssusyeosseoyo? [진지 잡쑤셔써요?])
 
 At bedtime, **잘 자** (jal ja) – sleep well – becomes **안녕히 주무세요** (annyeonghi jumuseyo) for anyone older.
 
@@ -39,8 +39,8 @@ The other half of the system works in reverse. When *you* do something for a res
 | Normal | Humble | Meaning |
 |---|---|---|
 | 주다 (juda) | **[드리다](/en/dictionary/?q=드리다)** (deurida) | to give |
-| 묻다 (mutda) | **[여쭙다](/en/dictionary/?q=여쭙다)** (yeojjupda) | to ask |
-| 보다 (boda) | **뵙다** (boepda) | to see, to meet |
+| 묻다 (mutta [묻따]) | **[여쭙다](/en/dictionary/?q=여쭙다)** (yeojjupta [여쭙따]) | to ask |
+| 보다 (boda) | **뵙다** (boepta [뵙따]) | to see, to meet |
 | 데리다 (derida) | **모시다** (mosida) | to take, to accompany |
 
 You already know some of these from set phrases: **처음 뵙겠습니다** (cheoeum boepgetseumnida) – "Nice to meet you" – and shop staff saying **뭐 드릴까요?** (Mwo deurilkkayo?) – "What can I get you?" To ask a teacher a question: **하나 여쭤봐도 될까요?** (Hana yeojjwobwado doelkkayo?) – May I ask you something?

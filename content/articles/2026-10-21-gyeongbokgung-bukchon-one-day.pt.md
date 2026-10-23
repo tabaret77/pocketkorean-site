@@ -72,7 +72,7 @@ Quando a zona vermelha fechar, desça a pé em direção a Insadong para tomar u
 | [한옥](/pt/dictionary/?q=한옥) | hanok | casa tradicional coreana |
 | [한복](/pt/dictionary/?q=한복) | hanbok | roupa tradicional coreana |
 | 매표소 | maepyoso | bilheteria |
-| 입장료 | ipjangnyo | preço da entrada |
+| 입장료 | ipjjangnyo [입짱뇨] | preço da entrada |
 | 몇 시까지 해요? | myeot sikkaji haeyo? | Até que horas fica aberto? (educado) |
 | 사진 찍어도 돼요? | sajin jjigeodo dwaeyo? | Posso tirar uma foto? (educado) |
 | 조용히 해 주세요 | joyonghi hae juseyo | Por favor, faça silêncio |

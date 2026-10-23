@@ -30,7 +30,7 @@ Como casi todo el diálogo de drama entre personajes cercanos, estas frases est�
 
 ## 4. 아직도 화났어?: ¿Sigues enojado?
 
-**아직도 화났어?** (Ajikdo hwanasseo?) comprueba si ya pasó la tormenta. **화나다** (hwanada) significa enojarse, y el pasado 화났어 describe el estado de estar enojado ahora. La respuesta de quien sigue con berrinche suele ser **됐어** (dwaesseo), "olvídalo", lo que significa que la disculpa necesita más trabajo.
+**아직도 화났어?** (Ajikto hwanasseo? [아직또 화나써?]) comprueba si ya pasó la tormenta. **화나다** (hwanada) significa enojarse, y el pasado 화났어 describe el estado de estar enojado ahora. La respuesta de quien sigue con berrinche suele ser **됐어** (dwaesseo), "olvídalo", lo que significa que la disculpa necesita más trabajo.
 
 ## 5. 화 풀어: Ya no te enojes
 
@@ -64,7 +64,7 @@ Una disculpa coreana real suele depender más de la jerarquía que en los dramas
 | 죄송합니다 | joesonghamnida | Lo siento (formal) |
 | 내가 잘못했어 | naega jalmotaesseo | Fue mi culpa |
 | 내 말 좀 들어 봐 | nae mal jom deureo bwa | Por favor, escúchame |
-| 아직도 화났어? | ajikdo hwanasseo? | ¿Sigues enojado? |
+| 아직도 화났어? | ajikto hwanasseo? [아직또 화나써?] | ¿Sigues enojado? |
 | 화 풀어 | hwa pureo | Ya no te enojes |
 | 다시는 안 그럴게 | dasineun an geureolge | No lo vuelvo a hacer |
 | 한 번만 봐줘 | han beonman bwajwo | Déjalo pasar solo esta vez |

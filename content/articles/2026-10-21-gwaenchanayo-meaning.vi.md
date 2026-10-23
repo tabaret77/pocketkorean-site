@@ -52,7 +52,7 @@ Bạn có thể nói ấm áp hơn với **아니에요, 괜찮아요** (Anieyo,
 
 Khi dùng để mô tả, **괜찮다** nghĩa là thứ gì đó tạm được, chấp nhận được hoặc thậm chí khá tốt. Đây là một lời khen kín đáo.
 
-- **이 식당 괜찮아요.** (I sikdang gwaenchanayo.) – Quán ăn này khá ngon đấy.
+- **이 식당 괜찮아요.** (I siktang gwaenchanayo. [이 식땅 괜차나요.]) – Quán ăn này khá ngon đấy.
 - **그 사람 괜찮아요.** (Geu saram gwaenchanayo.) – Người đó tốt đấy (hoặc: khá hấp dẫn, tùy ngữ cảnh).
 
 Đứng trước danh từ, nó thành **괜찮은** (gwaenchaneun): **괜찮은 카페** (gwaenchaneun kape) – một quán cà phê xinh.
@@ -89,7 +89,7 @@ Cũng như trong tiếng Việt, giọng điệu rất quan trọng. Một câu 
 | 아니에요, 괜찮아요 | anieyo, gwaenchanayo | Không, không sao mà |
 | 아니요, 괜찮아요 | aniyo, gwaenchanayo | Dạ thôi, không cần đâu ạ |
 | 사진 찍어도 괜찮아요? | sajin jjigeodo gwaenchanayo? | Tôi chụp ảnh được không? |
-| 괜찮은 [식당](/vi/dictionary/?q=식당) | gwaenchaneun sikdang | một quán ăn ngon |
+| 괜찮은 [식당](/vi/dictionary/?q=식당) | gwaenchaneun siktang [괜차는 식땅] | một quán ăn ngon |
 | 괜찮아 | gwaenchana | Không sao (thân mật) |
 
 Lần tới khi xem chương trình Hàn Quốc, hãy để ý từ 괜찮아요 và thử đoán xem nó mang nghĩa nào trong bốn nghĩa trên. Ngữ cảnh gần như luôn cho bạn câu trả lời.

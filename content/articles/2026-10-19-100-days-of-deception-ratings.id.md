@@ -25,7 +25,7 @@ Serial ini tayang setiap Sabtu dan Minggu di tvN dan juga tersedia di Netflix di
 
 ## Pencopet yang menjadi mata-mata
 
-Ceritanya berlatar masa penjajahan Jepang, yang oleh orang Korea disebut **일제강점기** (Ilje gangjeomgi). Kim You-jung berperan sebagai Ga-kyung, seorang **소매치기** (somaechigi) – pencopet – berbakat yang menyamar di dalam Kantor Gubernur Jenderal Jepang di Korea. Dari dalam, ia mulai menyalurkan informasi penting kepada **독립군** (dongnipgun) – tentara kemerdekaan Korea. Park Jin-young memerankan pemeran utama pria di sampingnya, dan drama ini memadukan spionase dengan romansa.
+Ceritanya berlatar masa penjajahan Jepang, yang oleh orang Korea disebut **일제강점기** (Ilje gangjeomgi). Kim You-jung berperan sebagai Ga-kyung, seorang **소매치기** (somaechigi) – pencopet – berbakat yang menyamar di dalam Kantor Gubernur Jenderal Jepang di Korea. Dari dalam, ia mulai menyalurkan informasi penting kepada **독립군** (dongnipkun [동닙꾼]) – tentara kemerdekaan Korea. Park Jin-young memerankan pemeran utama pria di sampingnya, dan drama ini memadukan spionase dengan romansa.
 
 Judulnya mengisyaratkan waktu yang terus berdetak: sang tokoh utama harus mempertahankan penyamarannya, dan "tipuan" dalam judul itu adalah misinya sekaligus sumber ketegangan dalam kisah cintanya.
 
@@ -41,7 +41,7 @@ Drama sejarah berlatar tahun 1920–40-an banyak memakai bahasa formal, dan bebe
 | 주말 드라마 | jumal deurama | drama akhir pekan |
 | 소매치기 | somaechigi | pencopet |
 | 스파이 | seupai | mata-mata |
-| 독립군 | dongnipgun | tentara kemerdekaan |
+| 독립군 | dongnipkun [동닙꾼] | tentara kemerdekaan |
 | 일제강점기 | Ilje gangjeomgi | masa penjajahan Jepang (1910–1945) |
 | [거짓말](/id/dictionary/?q=거짓말) | geojinmal | bohong |
 

@@ -65,6 +65,6 @@ MBTIトークは楽しいものですが、誰もが乗ってくるわけでは�
 | 극I | geugai | 極端な内向型 |
 | 저 I예요 | jeo aiyeyo | わたしは内向型です |
 
-使えるパターン：**저 극I라서 주말엔 집에 있어요.**（Jeo geugairaseo jumaren jibe isseoyo.）＝わたしはガチの内向型なので、週末は家にいます。**-(이)라서**は理由を表します。どんな名詞でも入れられます。たとえば**학생이라서**（haksaengiraseo）＝学生なので。
+使えるパターン：**저 극I라서 주말엔 집에 있어요.**（Jeo geugairaseo jumaren jibe isseoyo.）＝わたしはガチの内向型なので、週末は家にいます。**-(이)라서**は理由を表します。どんな名詞でも入れられます。たとえば**학생이라서**（hakssaengiraseo [학쌩이라서]）＝学生なので。
 
 出典：[聯合ニュース（韓民族センター経由）– 「MBTI가 어떻게 되세요?」（2026年10月20日）](https://www.koreancenter.or.kr/news/articleView.html?idxno=1426956)、[ハンギョレ21（Daum経由）– なぜTはMBTIの問題の文字になったのか](https://v.daum.net/v/20230815234812392)、[The Korea Herald（Asia News Network経由）– 「あなたTなの？」は新しい悪口](https://asianews.network/?p=175825)、[Yugacrew wiki – 극I](https://www.yugacrew.com/yugawiki/%EA%B7%B9I)

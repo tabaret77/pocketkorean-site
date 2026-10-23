@@ -50,7 +50,7 @@ Nếu quần quá dài, hãy hỏi về **수선** (suseon), sửa đồ. Lên g
 
 Quy định đổi trả tùy từng cửa hàng. Cửa hàng bách hóa và các thương hiệu lớn thường nhận trả hàng có hóa đơn trong khoảng 7 đến 30 ngày, còn các sạp hàng ngoài phố và trung tâm mua sắm dưới lòng đất hiếm khi hoàn tiền và có thể chỉ cho đổi. Hãy hỏi trước khi trả tiền: **환불 돼요?** (hwanbul dwaeyo?), "Có hoàn tiền được không ạ?"
 
-Du khách cũng có thể hỏi **택스 리펀 돼요?** (taekseu ripeon dwaeyo?) – "Có hoàn thuế được không ạ?" Ở hầu hết các cửa hàng miễn thuế, bạn cần chi ít nhất 15.000 won trong một lần giao dịch và xuất trình hộ chiếu. Có thể được hoàn thuế ngay tại quầy với mỗi giao dịch dưới 1.000.000 won, tổng cộng tối đa 5.000.000 won cho mỗi chuyến đi.
+Du khách cũng có thể hỏi **택스 리펀 돼요?** (taeksseu ripeon dwaeyo? [택쓰 리펀 돼요?]) – "Có hoàn thuế được không ạ?" Ở hầu hết các cửa hàng miễn thuế, bạn cần chi ít nhất 15.000 won trong một lần giao dịch và xuất trình hộ chiếu. Có thể được hoàn thuế ngay tại quầy với mỗi giao dịch dưới 1.000.000 won, tổng cộng tối đa 5.000.000 won cho mỗi chuyến đi.
 
 ## Tiếng Hàn bạn có thể dùng
 
@@ -60,7 +60,7 @@ Du khách cũng có thể hỏi **택스 리펀 돼요?** (taekseu ripeon dwaeyo
 | [사이즈](/vi/dictionary/?q=사이즈) | saijeu | cỡ, size |
 | 탈의실 | taruisil | phòng thử đồ |
 | [크다](/vi/dictionary/?q=크다) | keuda | to, rộng |
-| [작다](/vi/dictionary/?q=작다) | jakda | nhỏ, chật |
+| [작다](/vi/dictionary/?q=작다) | jakta [작따] | nhỏ, chật |
 | [교환](/vi/dictionary/?q=교환) | gyohwan | đổi hàng |
 | [환불](/vi/dictionary/?q=환불) | hwanbul | hoàn tiền |
 | [영수증](/vi/dictionary/?q=영수증) | yeongsujeung | hóa đơn |

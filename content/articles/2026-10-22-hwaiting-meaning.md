@@ -50,7 +50,7 @@ Koreans also use it with a raised fist, often with both hands, or as the final s
 
 ## Suneung season extras
 
-Around the exam you'll hear a few more lines. **수능 대박 나세요!** (Suneung daebak naseyo!) wishes someone a "jackpot" result. Families and friends give students sticky foods like **엿** (yeot), a chewy toffee, or **찹쌀떡** (chapssaltteok), sticky rice cake, because **붙다** (butda) means both "to stick" and "to pass an exam". The wish is **꼭 붙어라!** (Kkok buteora!) – "Make sure you pass!"
+Around the exam you'll hear a few more lines. **수능 대박 나세요!** (Suneung daebak naseyo!) wishes someone a "jackpot" result. Families and friends give students sticky foods like **엿** (yeot), a chewy toffee, or **찹쌀떡** (chapssaltteok), sticky rice cake, because **붙다** (butta [붇따]) means both "to stick" and "to pass an exam". The wish is **꼭 붙어라!** (Kkok buteora!) – "Make sure you pass!"
 
 ## Korean you can use
 

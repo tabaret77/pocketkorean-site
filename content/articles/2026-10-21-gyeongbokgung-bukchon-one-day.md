@@ -71,7 +71,7 @@ When the red zone closes, walk south towards Insadong for tea and craft shops, o
 | [한옥](/en/dictionary/?q=한옥) | hanok | traditional Korean house |
 | [한복](/en/dictionary/?q=한복) | hanbok | traditional Korean clothing |
 | 매표소 | maepyoso | ticket office |
-| 입장료 | ipjangnyo | admission fee |
+| 입장료 | ipjjangnyo [입짱뇨] | admission fee |
 | 몇 시까지 해요? | myeot sikkaji haeyo? | Until what time are you open? (polite) |
 | 사진 찍어도 돼요? | sajin jjigeodo dwaeyo? | May I take a photo? (polite) |
 | 조용히 해 주세요 | joyonghi hae juseyo | Please be quiet |

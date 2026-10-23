@@ -28,9 +28,9 @@ draft: false
 |---|---|---|---|
 | [살다](/zh-cn/dictionary/?q=살다) (salda) | 살- | 살았어요 (sarasseoyo) | 我住过，我生活过 |
 | 좋다 (jota) | 좋- | 좋았어요 (joasseoyo) | （当时）很好 |
-| [먹다](/zh-cn/dictionary/?q=먹다) (meokda) | 먹- | 먹었어요 (meogeosseoyo) | 我吃了 |
-| 읽다 (ikda) | 읽- | 읽었어요 (ilgeosseoyo) | 我读了 |
-| 맛있다 (masitda) | 맛있- | 맛있었어요 (masisseosseoyo) | （当时）很好吃 |
+| [먹다](/zh-cn/dictionary/?q=먹다) (meokta [먹따]) | 먹- | 먹었어요 (meogeosseoyo) | 我吃了 |
+| 읽다 (ikta [익따]) | 읽- | 읽었어요 (ilgeosseoyo) | 我读了 |
+| 맛있다 (masitta [마싣따]) | 맛있- | 맛있었어요 (masisseosseoyo) | （当时）很好吃 |
 | [공부하다](/zh-cn/dictionary/?q=공부하다) (gongbuhada) | 공부하- | 공부했어요 (gongbuhaesseoyo) | 我学习了 |
 | 일하다 (ilhada) | 일하- | 일했어요 (ilhaesseoyo) | 我工作了 |
 
@@ -61,8 +61,8 @@ draft: false
 
 不规则动词在过去式里的变化方式和现在时完全一样，所以要成对地记：
 
-- **듣다**（deutda）——听 → 들었어요（deureosseoyo）
-- **춥다**（chupda）——冷 → 추웠어요（chuwosseoyo）
+- **듣다**（deutta [듣따]）——听 → 들었어요（deureosseoyo）
+- **춥다**（chupta [춥따]）——冷 → 추웠어요（chuwosseoyo）
 - **바쁘다**（bappeuda）——忙 → 바빴어요（bappasseoyo）
 - **쓰다**（sseuda）——写，用 → 썼어요（sseosseoyo）
 - **모르다**（moreuda）——不知道 → 몰랐어요（mollasseoyo）
@@ -92,7 +92,7 @@ draft: false
 4. 덥다（热）
 5. 학생（学生）+ 曾经是
 
-**答案：** 1. 만났어요 (mannasseoyo) 2. 마셨어요 (masyeosseoyo) 3. 청소했어요 (cheongsohaesseoyo) 4. 더웠어요 (deowosseoyo) 5. 학생이었어요 (haksaengieosseoyo)
+**答案：** 1. 만났어요 (mannasseoyo) 2. 마셨어요 (masyeosseoyo) 3. 청소했어요 (cheongsohaesseoyo) 4. 더웠어요 (deowosseoyo) 5. 학생이었어요 (hakssaengieosseoyo [학쌩이어써요])
 
 ## 可以直接用的韩语
 

@@ -23,7 +23,7 @@ Penghargaan diberikan kepada orang-orang yang menjaga hanbok tetap hidup. Profes
 
 ## Apa yang bisa kamu lakukan minggu ini
 
-- **Istana Gyeongbokgung**: pameran hanbok tradisional dan kampanye tentang cara memakai hanbok dengan benar – **한복 바르게 입기** (hanbok bareuge ipgi).
+- **Istana Gyeongbokgung**: pameran hanbok tradisional dan kampanye tentang cara memakai hanbok dengan benar – **한복 바르게 입기** (hanbok bareuge ipki [한복 바르게 입끼]).
 - **Desa Hanok Namsangol**: upacara masuk sekolah "cendekiawan cilik" untuk anak-anak, berdasarkan upacara kuno ketika putra mahkota mulai bersekolah.
 - **Jeonju dan Jeolla Selatan**: membuat aksesori hanbok, pesta hanbok, dan lokakarya pewarnaan alami.
 - **Luar negeri**: sesi mencoba hanbok dan kelas etiket di Kanada, Jepang, dan Denmark.
@@ -47,7 +47,7 @@ Kata kerja untuk memakai pakaian adalah [입다](/id/dictionary/?q=입다) (ipta
 | 문화주간 | munhwa jugan | pekan budaya |
 | 입다 | ipta [입따] | memakai (pakaian) |
 | 할인 | harin | diskon |
-| 입장료 | ipjangnyo | biaya masuk |
+| 입장료 | ipjjangnyo [입짱뇨] | biaya masuk |
 | 박물관 | bangmulgwan | museum |
 | 천연 염색 | cheonyeon yeomsaek | pewarnaan alami |
 | 교복 | gyobok | seragam sekolah |

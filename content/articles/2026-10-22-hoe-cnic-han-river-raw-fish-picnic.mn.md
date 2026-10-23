@@ -44,7 +44,7 @@ draft: false
 | 치맥 | chimaek | тахиа, шар айраг |
 | [수산시장](/mn/dictionary/?q=수산시장) | susansijang | загасны зах |
 | [포장](/mn/dictionary/?q=포장) | pojang | савлах; авч явах |
-| 돗자리 | dotjari | пикникийн дэвсгэр |
+| 돗자리 | dotjjari [돋짜리] | пикникийн дэвсгэр |
 | 광어 | gwangeo | хавтгай загас (олив хавтгай загас) |
 | 초고추장 | chogochujang | улаан чинжүүтэй дүрэх соус |
 

@@ -54,6 +54,6 @@ Thêm hai từ bạn sẽ gặp trong tin tức K-pop:
 | 2관왕 | igwanwang | cú đúp vương miện |
 | 기록 | girok | kỷ lục |
 
-Một cấu trúc để so sánh con số: **지난 앨범보다 적게 팔렸어요** (jinan aelbeomboda jeokge pallyeosseoyo) – "Album này bán được ít hơn album trước." Danh từ + **보다** nghĩa là "hơn (so với)"; đổi **적게** (ít hơn) thành **많이** (nhiều hơn) để nói điều ngược lại: **지난 앨범보다 많이 팔렸어요**.
+Một cấu trúc để so sánh con số: **지난 앨범보다 적게 팔렸어요** (jinan aelbeomboda jeokke pallyeosseoyo [지난 앨범보다 적께 팔려써요]) – "Album này bán được ít hơn album trước." Danh từ + **보다** nghĩa là "hơn (so với)"; đổi **적게** (ít hơn) thành **많이** (nhiều hơn) để nói điều ngược lại: **지난 앨범보다 많이 팔렸어요**.
 
 Nguồn: [Sports Kyunghyang – Doanh số tuần đầu của NCT WISH, 20/10](https://sports.khan.co.kr/en/article/202610200819007/), [The Korea Times – NCT WISH phát hành "I SPY", 12/10](https://www.koreatimes.co.kr/entertainment/k-pop/20261012/nct-wish-drops-new-mini-album-i-spy-ahead-of-landmark-gocheok-sky-dome-concert), [SM Entertainment – MV "I SPY"](https://www.youtube.com/watch?v=xIlFjHHUfI0)

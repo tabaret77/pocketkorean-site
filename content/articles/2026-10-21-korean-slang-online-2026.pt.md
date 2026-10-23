@@ -32,13 +32,13 @@ Primeiro, uma regra rápida: todas elas são **informais**. Use com amigos e nos
 
 **꿀잼** (kkuljaem) – muito divertido. **꿀** (kkul) significa mel, e **잼** (jaem) vem de **재미** (jaemi) – diversão. O oposto é **노잼** (nojaem) – chato, "sem graça", do inglês "no" mais 잼.
 
-**갑분싸** (gapbunssa) – abreviação de **갑자기 분위기 싸해짐** (gapjagi bunwigi ssahaejim) – "o clima de repente esfriou". É o que acontece quando alguém faz uma piada sem graça.
+**갑분싸** (gappunssa [갑뿐싸]) – abreviação de **갑자기 분위기 싸해짐** (gapjjagi bunwigi ssahaejim [갑짜기 부뉘기 싸해짐]) – "o clima de repente esfriou". É o que acontece quando alguém faz uma piada sem graça.
 
 ## Pessoas e estilo de vida
 
 **인싸** (inssa) – uma pessoa popular e sociável, do inglês "insider". O oposto é **아싸** (assa) – alguém mais solitário, de "outsider". As duas são informais e às vezes usadas para tirar sarro de si mesmo: **저 완전 아싸예요** (Jeo wanjeon assayeyo) – "Eu sou totalmente antissocial."
 
-**갓생** (gatsaeng) – uma vida produtiva e disciplinada. Junta o inglês "God" com **생** (saeng), de **인생** (insaeng) – vida. As pessoas postam sobre **갓생 살기** (gatsaeng salgi) – "viver uma vida nível deus": acordar cedo, estudar, malhar.
+**갓생** (gatssaeng [갇쌩]) – uma vida produtiva e disciplinada. Junta o inglês "God" com **생** (saeng), de **인생** (insaeng) – vida. As pessoas postam sobre **갓생 살기** (gatssaeng salgi [갇쌩 살기]) – "viver uma vida nível deus": acordar cedo, estudar, malhar.
 
 **오운완** (ounwan) – abreviação de **오늘 운동 완료** (oneul undong wallyo) – "treino de hoje: feito". Você vai ver como hashtag em selfies de academia.
 
@@ -50,7 +50,7 @@ Primeiro, uma regra rápida: todas elas são **informais**. Use com amigos e nos
 
 **국룰** (gungnul) – "a regra nacional", ou seja, uma regra não escrita que todo mundo segue. Por exemplo: **치킨엔 콜라가 국룰이지** (Chikinen kollaga gungnuriji) – "Frango frito com refrigerante de cola – essa é a regra."
 
-**킹받다** (kingbatda) – ficar muito irritado. Mistura o inglês "king" (no sentido de extremamente) com **열받다** (yeolbatda) – ficar bravo. É mais de brincadeira do que raiva de verdade: **아, 킹받네** (A, kingbanne) – "Aff, que raiva." Informal, mas não grosseiro.
+**킹받다** (kingbatta [킹받따]) – ficar muito irritado. Mistura o inglês "king" (no sentido de extremamente) com **열받다** (yeolbatta [열받따]) – ficar bravo. É mais de brincadeira do que raiva de verdade: **아, 킹받네** (A, kingbanne) – "Aff, que raiva." Informal, mas não grosseiro.
 
 **손절** (sonjeol) – cortar relações com alguém. Originalmente um termo do mercado de ações para "stop loss", hoje significa terminar uma amizade ou um relacionamento. Pode soar duro, então cuidado ao usar sobre pessoas reais.
 
@@ -60,7 +60,7 @@ Primeiro, uma regra rápida: todas elas são **informais**. Use com amigos e nos
 
 **존맛** (jonmat) ou **존맛탱** (jonmattaeng) – "absurdamente gostoso". Está em todo post de comida, mas o prefixo **존-** (jon-) vem de uma palavra vulgar. Tudo bem entre amigos próximos na internet; nunca use com alguém mais velho ou em ambientes formais. Você também vai ver escrito como **JMT**, as iniciais em letras latinas, que é igualmente grosseiro. Uma alternativa segura é **완전 맛있어요** (wanjeon masisseoyo) – "muito gostoso".
 
-**개-** (gae-) como prefixo, como em **개웃겨** (gaeutgyeo) – "muito engraçado" – significa "extremamente". **개** significa literalmente cachorro, e o prefixo é chulo. Os jovens usam muito entre amigos, mas soa pesado para muitos ouvintes.
+**개-** (gae-) como prefixo, como em **개웃겨** (gaeutkyeo [개욷껴]) – "muito engraçado" – significa "extremamente". **개** significa literalmente cachorro, e o prefixo é chulo. Os jovens usam muito entre amigos, mas soa pesado para muitos ouvintes.
 
 ## Coreano para usar
 
@@ -70,9 +70,9 @@ Primeiro, uma regra rápida: todas elas são **informais**. Use com amigos e nos
 | 헐 | heol | nossa, não acredito |
 | 대박 | daebak | incrível, inacreditável |
 | 꿀잼 / 노잼 | kkuljaem / nojaem | muito divertido / chato |
-| [갓생](/pt/dictionary/?q=갓생) | gatsaeng | uma vida produtiva |
+| [갓생](/pt/dictionary/?q=갓생) | gatssaeng [갇쌩] | uma vida produtiva |
 | 내돈내산 | naedonnaesan | comprado com meu próprio dinheiro |
 | 국룰 | gungnul | uma regra não escrita |
-| [킹받다](/pt/dictionary/?q=킹받다) | kingbatda | ficar muito irritado (informal) |
+| [킹받다](/pt/dictionary/?q=킹받다) | kingbatta [킹받따] | ficar muito irritado (informal) |
 
 As gírias mudam rápido, e palavras que parecem novas hoje podem soar ultrapassadas em um ou dois anos. Aprenda a reconhecer estas, use algumas com amigos e mantenha o coreano padrão como sua escolha em todos os outros lugares.

@@ -51,7 +51,7 @@ Người Hàn cũng dùng từ này kèm động tác giơ nắm tay lên, thư�
 
 ## Thêm vài câu cho mùa Suneung
 
-Quanh kỳ thi, bạn sẽ nghe thêm vài câu nữa. **수능 대박 나세요!** (Suneung daebak naseyo!) chúc ai đó đạt kết quả "trúng lớn". Gia đình và bạn bè tặng học sinh những món ăn dính như **엿** (yeot), một loại kẹo mạch nha dẻo, hoặc **찹쌀떡** (chapssaltteok), bánh gạo nếp, vì **붙다** (butda) vừa có nghĩa là "dính" vừa có nghĩa là "thi đỗ". Lời chúc là **꼭 붙어라!** (Kkok buteora!) – "Nhất định phải đỗ nhé!"
+Quanh kỳ thi, bạn sẽ nghe thêm vài câu nữa. **수능 대박 나세요!** (Suneung daebak naseyo!) chúc ai đó đạt kết quả "trúng lớn". Gia đình và bạn bè tặng học sinh những món ăn dính như **엿** (yeot), một loại kẹo mạch nha dẻo, hoặc **찹쌀떡** (chapssaltteok), bánh gạo nếp, vì **붙다** (butta [붇따]) vừa có nghĩa là "dính" vừa có nghĩa là "thi đỗ". Lời chúc là **꼭 붙어라!** (Kkok buteora!) – "Nhất định phải đỗ nhé!"
 
 ## Tiếng Hàn bạn có thể dùng
 

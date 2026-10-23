@@ -12,7 +12,7 @@ cover: /media/covers/hobby-words-in-korean-s1.jpg
 draft: false
 ---
 
-Tarde o temprano, en un intercambio de idiomas, en tu primer día de trabajo o en una cita a ciegas de un K-drama, alguien te preguntará **취미가 뭐예요?** (Chwimiga mwoyeyo?): ¿Cuál es tu pasatiempo? Es una de las preguntas más comunes para hacer plática en coreano. **[취미](/es/dictionary/?q=취미)** (chwimi) significa pasatiempo, y el clima más fresco de finales de otoño es un buen momento para empezar uno. Mucha gente llama al otoño **독서의 계절** (dokseoui gyejeol), la estación de la lectura, porque los días despejados y frescos invitan a sentarse con un libro. Aquí tienes las palabras y estructuras que necesitas para hablar de lo que haces para divertirte.
+Tarde o temprano, en un intercambio de idiomas, en tu primer día de trabajo o en una cita a ciegas de un K-drama, alguien te preguntará **취미가 뭐예요?** (Chwimiga mwoyeyo?): ¿Cuál es tu pasatiempo? Es una de las preguntas más comunes para hacer plática en coreano. **[취미](/es/dictionary/?q=취미)** (chwimi) significa pasatiempo, y el clima más fresco de finales de otoño es un buen momento para empezar uno. Mucha gente llama al otoño **독서의 계절** (doksseoui gyejeol [독써의 계절]), la estación de la lectura, porque los días despejados y frescos invitan a sentarse con un libro. Aquí tienes las palabras y estructuras que necesitas para hablar de lo que haces para divertirte.
 
 ## 24 palabras de pasatiempos
 
@@ -21,7 +21,7 @@ Muchos pasatiempos son sustantivos que se convierten en verbos con **하다** (h
 | Coreano | Romanización | Significado |
 |---|---|---|
 | 등산 | deungsan | senderismo (en la montaña) |
-| 독서 | dokseo | lectura |
+| 독서 | doksseo [독써] | lectura |
 | 요리 | yori | cocina |
 | 운동 | undong | ejercicio, deporte |
 | 헬스 | helseu | hacer ejercicio en el gimnasio |
@@ -30,18 +30,18 @@ Muchos pasatiempos son sustantivos que se convierten en verbos con **하다** (h
 | 산책 | sanchaek | salir a caminar |
 | 자전거 타기 | jajeongeo tagi | andar en bicicleta |
 | 캠핑 | kaemping | campamento |
-| 낚시 | naksi | pesca |
+| 낚시 | nakssi [낙씨] | pesca |
 | 여행 | yeohaeng | viajes |
-| 사진 찍기 | sajin jjikgi | tomar fotos |
+| 사진 찍기 | sajin jjikki [사진 찍끼] | tomar fotos |
 | 그림 그리기 | geurim geurigi | dibujar, pintar |
 | 뜨개질 | tteugaejil | tejer |
 | 베이킹 | beiking | repostería |
 | 게임 | geim | videojuegos |
 | 영화 보기 | yeonghwa bogi | ver películas |
-| 음악 듣기 | eumak deutgi | escuchar música |
+| 음악 듣기 | eumak deutki [으막 듣끼] | escuchar música |
 | 노래 부르기 | norae bureugi | cantar |
 | 춤 | chum | baile |
-| 악기 연주 | akgi yeonju | tocar un instrumento |
+| 악기 연주 | akki yeonju [악끼 연주] | tocar un instrumento |
 | 피아노를 치다 | pianoreul chida | tocar el piano |
 | 기타를 치다 | gitareul chida | tocar la guitarra |
 
@@ -56,16 +56,16 @@ Los instrumentos que se golpean o se rasguean, como el piano y la guitarra, usan
 
 Para una acción, convierte el verbo en sustantivo con **-기**. Toma la raíz y añade **-기**: **읽다** → **읽기**, **찍다** → **찍기**.
 
-- **제 취미는 책 읽기예요.** (Je chwimineun chaek ilgiyeyo.): Mi pasatiempo es leer libros.
-- **제 취미는 사진 찍기예요.** (Je chwimineun sajin jjikgiyeyo.): Mi pasatiempo es tomar fotos.
+- **제 취미는 책 읽기예요.** (Je chwimineun chaek ilkkiyeyo. [책 일끼예요.]): Mi pasatiempo es leer libros.
+- **제 취미는 사진 찍기예요.** (Je chwimineun sajin jjikkiyeyo. [제 취미는 사진 찍끼예요.]): Mi pasatiempo es tomar fotos.
 
 **2. -는 것을 좋아해요.** Para decir "me gusta + infinitivo", añade **-는 것을 좋아해요** a la raíz del verbo. Al hablar, **것을** suele acortarse a **걸**.
 
 | Verbo | + -는 것을 좋아해요 | Significado |
 |---|---|---|
 | 요리하다 (yorihada) | 요리하는 것을 좋아해요 (yorihaneun geoseul joahaeyo) | Me gusta cocinar |
-| [걷다](/es/dictionary/?q=걷다) (geotda) | 걷는 걸 좋아해요 (geonneun geol joahaeyo) | Me gusta caminar |
-| 듣다 (deutda) | 음악 듣는 걸 좋아해요 (eumak deunneun geol joahaeyo) | Me gusta escuchar música |
+| [걷다](/es/dictionary/?q=걷다) (geotta [걷따]) | 걷는 걸 좋아해요 (geonneun geol joahaeyo) | Me gusta caminar |
+| 듣다 (deutta [듣따]) | 음악 듣는 걸 좋아해요 (eumak deunneun geol joahaeyo) | Me gusta escuchar música |
 | 만들다 (mandeulda) | 만드는 걸 좋아해요 (mandeuneun geol joahaeyo) | Me gusta hacer cosas |
 | 그리다 (geurida) | 그림 그리는 걸 좋아해요 (geurim geurineun geol joahaeyo) | Me gusta dibujar |
 
@@ -91,7 +91,7 @@ Y para responder con qué frecuencia: **매일** (maeil): todos los días, **일
 | Coreano | Romanización | Significado |
 |---|---|---|
 | 취미가 뭐예요? | chwimiga mwoyeyo? | ¿Cuál es tu pasatiempo? |
-| 제 취미는 독서예요 | je chwimineun dokseoyeyo | Mi pasatiempo es la lectura |
+| 제 취미는 독서예요 | je chwimineun doksseoyeyo [제 취미는 독써예요] | Mi pasatiempo es la lectura |
 | 등산하는 걸 좋아해요 | deungsanhaneun geol joahaeyo | Me gusta hacer senderismo |
 | 요즘 뜨개질을 배워요 | yojeum tteugaejireul baewoyo | Estos días estoy aprendiendo a tejer |
 | 게임을 자주 해요 | geimeul jaju haeyo | Juego videojuegos seguido |

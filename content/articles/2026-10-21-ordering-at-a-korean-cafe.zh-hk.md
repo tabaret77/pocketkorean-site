@@ -46,7 +46,7 @@ draft: false
 
 你的回答：
 
-- **먹고 갈게요.**（Meokgo galgeyo.）——在這裏喝。
+- **먹고 갈게요.**（Meokko galgeyo. [먹꼬 갈게요.]）——在這裏喝。
 - **가져갈게요.**（Gajyeogalgeyo.）——拿走。
 - **포장해 주세요.**（Pojanghae juseyo.）——請幫我包起來外賣。食物和飲品都常用。
 
@@ -91,7 +91,7 @@ draft: false
 |---|---|---|
 | 한 잔 주세요 | han jan juseyo | 一杯，唔該 |
 | 아이스 / 따뜻한 거 | aiseu / ttatteutan geo | 凍／熱 |
-| 먹고 갈게요 | meokgo galgeyo | 堂食 |
+| 먹고 갈게요 | meokko galgeyo [먹꼬 갈게요] | 堂食 |
 | [가져갈게요](/zh-hk/dictionary/?q=가져가다) | gajyeogalgeyo | 外賣 |
 | 샷 추가해 주세요 | syat chugahae juseyo | 加一份濃縮，唔該 |
 | 시럽 빼 주세요 | sireop ppae juseyo | 走糖漿，唔該 |

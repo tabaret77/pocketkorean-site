@@ -33,7 +33,7 @@ Notice that Korean says rain and snow "come": **비가 와요** (biga wayo) – 
 | 날씨 | nalssi | weather |
 | 일기 예보 | ilgi yebo | weather forecast |
 | 기온 | gion | temperature (air) |
-| 맑다 | makda | to be clear, sunny |
+| 맑다 | makta [막따] | to be clear, sunny |
 | 흐리다 | heurida | to be cloudy, overcast |
 | 구름 | gureum | cloud |
 | 해 / 햇빛 | hae / haetbit | sun / sunlight |
@@ -46,8 +46,8 @@ Notice that Korean says rain and snow "come": **비가 와요** (biga wayo) – 
 | 천둥 / 번개 | cheondung / beongae | thunder / lightning |
 | 안개 | angae | fog |
 | 무지개 | mujigae | rainbow |
-| 덥다 | deopda | to be hot (weather) |
-| 춥다 | chupda | to be cold (weather) |
+| 덥다 | deopta [덥따] | to be hot (weather) |
+| 춥다 | chupta [춥따] | to be cold (weather) |
 | 따뜻하다 | ttatteutada | to be warm |
 | 시원하다 | siwonhada | to be cool, refreshing |
 | 쌀쌀하다 | ssalssalhada | to be chilly |
@@ -69,8 +69,8 @@ Fine dust is a real part of daily life in Korea, and many people check an air-qu
 **Summer (여름, yeoreum)**
 
 - **너무 더워요!** (Neomu deowoyo!) – It's so hot!
-- **장마가 시작됐어요.** (Jangmaga sijakdwaesseoyo.) – The rainy season has started.
-- **갑자기 소나기가 왔어요.** (Gapjagi sonagiga wasseoyo.) – A sudden shower came out of nowhere.
+- **장마가 시작됐어요.** (Jangmaga sijaktwaesseoyo. [장마가 시작뙈써요.]) – The rainy season has started.
+- **갑자기 소나기가 왔어요.** (Gapjjagi sonagiga wasseoyo. [갑짜기 소나기가 와써요.]) – A sudden shower came out of nowhere.
 
 **장마** is the summer monsoon season, which usually begins in late June. Expect hot, sticky days, so **습해요** (seupaeyo) – it's humid – will get a lot of use.
 

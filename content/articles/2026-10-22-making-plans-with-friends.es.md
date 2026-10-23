@@ -63,7 +63,7 @@ Decir que no requiere un poco más de cuidado. Los coreanos rara vez dan un no r
 
 ## El plan que no es un plan
 
-Hay una frase que merece una advertencia: **언제 밥 한번 먹자** (Eonje bap hanbeon meokja): "A ver cuándo comemos juntos". Es una despedida amistosa, muy parecida a nuestro "a ver cuándo nos tomamos un café", y muchas veces no es una invitación real. Si quieres que suceda, propón un día concreto: **그럼 다음 주 금요일 어때?** (Geureom daeum ju geumyoil eottae?): Entonces, ¿qué tal el viernes de la próxima semana?
+Hay una frase que merece una advertencia: **언제 밥 한번 먹자** (Eonje bap hanbeon meokjja [언제 밥 한번 먹짜]): "A ver cuándo comemos juntos". Es una despedida amistosa, muy parecida a nuestro "a ver cuándo nos tomamos un café", y muchas veces no es una invitación real. Si quieres que suceda, propón un día concreto: **그럼 다음 주 금요일 어때?** (Geureom daeum ju geumyoil eottae?): Entonces, ¿qué tal el viernes de la próxima semana?
 
 ## Coreano que puedes usar
 

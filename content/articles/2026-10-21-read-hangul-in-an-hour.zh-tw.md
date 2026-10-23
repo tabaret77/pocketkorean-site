@@ -105,7 +105,7 @@ draft: false
 | 자음 | jaeum | 子音 |
 | 모음 | moeum | 母音 |
 | 받침 | batchim | 收尾音 |
-| [읽다](/zh-tw/dictionary/?q=읽다) | ikda | 讀 |
+| [읽다](/zh-tw/dictionary/?q=읽다) | ikta [익따] | 讀 |
 | 이거 어떻게 읽어요? | igeo eotteoke ilgeoyo? | 這個怎麼唸？ |
 
 一旦搞懂這些方塊，你遇到的每一個韓文單字都能開口唸出來，這才是學韓語真正的起點。

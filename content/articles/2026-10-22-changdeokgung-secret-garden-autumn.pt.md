@@ -53,10 +53,10 @@ Pegue a Linha 3 até a **안국역** (Angukyeok), estação Anguk, saída 3, e c
 | [단풍](/pt/dictionary/?q=단풍) | danpung | folhas de outono |
 | [연못](/pt/dictionary/?q=연못) | yeonmot | lago |
 | [정자](/pt/dictionary/?q=정자) | jeongja | pavilhão |
-| [입장권](/pt/dictionary/?q=입장권) | ipjanggwon | ingresso de entrada |
+| [입장권](/pt/dictionary/?q=입장권) | ipjjanggwon [입짱권] | ingresso de entrada |
 | [예약](/pt/dictionary/?q=예약) | yeyak | reserva |
 | 휴궁일 | hyugung-il | dia de fechamento do palácio |
 
-**후원 입장권 두 장 주세요.** (huwon ipjanggwon du jang juseyo.) – Dois ingressos para o Jardim Secreto, por favor. Troque o número antes de **장** (jang), o classificador para ingressos e folhas de papel: 한 장 (han jang), 세 장 (se jang).
+**후원 입장권 두 장 주세요.** (huwon ipjjanggwon du jang juseyo. [후원 입짱권 두 장 주세요.]) – Dois ingressos para o Jardim Secreto, por favor. Troque o número antes de **장** (jang), o classificador para ingressos e folhas de papel: 한 장 (han jang), 세 장 (se jang).
 
 Fontes: [The Seoul Guide – Changdeokgung](https://www.theseoulguide.com/changdeokgung-palace/), [Telltrip – Changdeokgung Huwon (Korean)](https://www.telltrip.com/domestic-travel/changdeokgung-huwon-secret-garden-visit/), [Segye Ilbo – free Wednesdays at palaces (Korean)](https://www.segye.com/newsView/20260526512458), [Mileasia – Changdeokgung guide](https://mileasia.com/korea/changdeokgung-palace/)

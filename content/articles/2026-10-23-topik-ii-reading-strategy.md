@@ -42,7 +42,7 @@ If a question takes more than two minutes, pick your best answer, mark it in the
 
 **Sentence order.** Look at the connecting words. A sentence that starts with **그래서** (geuraeseo) – so – or **하지만** (hajiman) – but – can't come first. Words like **이것** (igeot) – this – also point back to something said earlier.
 
-**Newspaper headlines.** Headlines drop particles and endings and use compressed vocabulary, like **급증** (geupjeung) – sharp rise. Learn a set of common headline words; they come back test after test.
+**Newspaper headlines.** Headlines drop particles and endings and use compressed vocabulary, like **급증** (geupjjeung [급쯩]) – sharp rise. Learn a set of common headline words; they come back test after test.
 
 **Blanks.** Read the sentence before and after the blank. The answer usually repeats or contrasts an idea that is right next to it.
 
@@ -63,7 +63,7 @@ If you are sitting the test this autumn, see our guide to [TOPIK levels, scores 
 
 | Korean | Romanization | Meaning |
 |---|---|---|
-| 읽기 | ilgi | reading (section) |
+| 읽기 | ilkki [일끼] | reading (section) |
 | 지문 | jimun | reading passage |
 | 빈칸 | binkan | blank |
 | 주제 | juje | main idea, topic |

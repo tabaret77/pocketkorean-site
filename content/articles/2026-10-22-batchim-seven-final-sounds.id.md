@@ -41,13 +41,13 @@ Romanisasi resmi mengikuti bunyinya, bukan hurufnya, jadi kelompok ㄱ/ㄷ/ㅂ d
 Beberapa suku kata punya dua konsonan di bagian bawahnya, seperti **닭** atau **값**. Kalau berdiri sendiri, kamu hanya mengucapkan salah satunya – biasanya yang pertama:
 
 - **[값](/id/dictionary/?q=값)** (gap) – harga → [갑]
-- **앉다** (anda) – duduk → [안따]
-- **없다** (eopda) – tidak ada → [업따]
+- **앉다** (antta [안따]) – duduk → [안따]
+- **없다** (eopta [업따]) – tidak ada → [업따]
 
 Beberapa yang umum justru memakai huruf kedua, terutama ㄺ dan ㄻ:
 
 - **[닭](/id/dictionary/?q=닭)** (dak) – ayam → [닥]
-- **읽다** (ikda) – membaca → [익따]
+- **읽다** (ikta [익따]) – membaca → [익따]
 - **삶** (sam) – kehidupan → [삼]
 
 Jangan mencoba menghafal semua kombinasi sekaligus; pelajari pelafalannya bersama setiap kata.

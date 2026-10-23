@@ -13,7 +13,7 @@ phrase_meaning: panceta de cerdo a la parrilla
 draft: false
 ---
 
-Un restaurante de barbacoa coreana es ruidoso, lleno de humo y acogedor, y la primera vez puede resultar confuso. Hay una parrilla en el centro de la mesa, un menú pequeño en la pared y personal que se mueve rápido. Así funciona una cena típica de **삼겹살** (samgyeopsal), panceta de cerdo, y esto es lo que debes decir en cada paso.
+Un restaurante de barbacoa coreana es ruidoso, lleno de humo y acogedor, y la primera vez puede resultar confuso. Hay una parrilla en el centro de la mesa, un menú pequeño en la pared y personal que se mueve rápido. Así funciona una cena típica de **삼겹살** (samgyeopssal [삼겹쌀]), panceta de cerdo, y esto es lo que debes decir en cada paso.
 
 ## Paso 1: siéntate y di cuántos son
 
@@ -31,7 +31,7 @@ Muchos restaurantes de barbacoa tienen un **mínimo de dos porciones** en el pri
 
 Otros cortes populares:
 
-- **목살** (moksal): cuello/paleta de cerdo, un poco más magro
+- **목살** (mokssal [목쌀]): cuello/paleta de cerdo, un poco más magro
 - **항정살** (hangjeongsal): papada de cerdo, sabrosa y masticable
 - **갈비** (galbi): costillas, a menudo marinadas
 
@@ -45,7 +45,7 @@ Si prefieres pedirlo: **상추 좀 더 주세요.** (sangchu jom deo juseyo.): "
 
 ## Paso 4: ¿quién asa la carne?
 
-Depende del restaurante. En algunos lugares el personal asa y corta la carne por ti; en muchos sitios informales, lo hacen los comensales. Si no viene nadie, te toca a ti. Usa las **집게** (jipge), pinzas, para darle la vuelta a la carne y las **가위** (gawi), tijeras, para cortarla en trozos pequeños cuando esté dorada por ambos lados.
+Depende del restaurante. En algunos lugares el personal asa y corta la carne por ti; en muchos sitios informales, lo hacen los comensales. Si no viene nadie, te toca a ti. Usa las **집게** (jipke [집께]), pinzas, para darle la vuelta a la carne y las **가위** (gawi), tijeras, para cortarla en trozos pequeños cuando esté dorada por ambos lados.
 
 ¿No sabes si ya está lista? Pregunta **이거 다 익었어요?** (igeo da igeosseoyo?): "¿Esto ya está cocido?". Cuando la plancha de la parrilla esté negra y pegajosa, pide **불판 좀 갈아 주세요.** (bulpan jom gara juseyo.): "¿Podría cambiar la plancha?".
 
@@ -55,7 +55,7 @@ Depende del restaurante. En algunos lugares el personal asa y corta la carne por
 
 ## Modales al beber
 
-La barbacoa suele ir acompañada de **소주** (soju) o **맥주** (maekju), cerveza. Algunas costumbres:
+La barbacoa suele ir acompañada de **소주** (soju) o **맥주** (maekjju [맥쭈]), cerveza. Algunas costumbres:
 
 - No te sirvas tú mismo; sírveles a los demás y ellos te servirán a ti.
 - Cuando una persona mayor te sirva, sostén el vaso con **las dos manos**.
@@ -66,7 +66,7 @@ Nadie espera que los visitantes hagan todo esto a la perfección, pero intentarl
 
 ## Paso 6: termina como un local
 
-Los coreanos suelen terminar la barbacoa con algo a base de arroz o fideos. Prueba el **된장찌개** (doenjang-jjigae), un guiso de pasta de soya, con **공깃밥** (gonggitbap), un tazón de arroz, o el **볶음밥** (bokkeumbap), arroz frito que se prepara en la parrilla con lo que sobró. Los fideos fríos, **냉면** (naengmyeon), son otro favorito.
+Los coreanos suelen terminar la barbacoa con algo a base de arroz o fideos. Prueba el **된장찌개** (doenjang-jjigae), un guiso de pasta de soya, con **공깃밥** (gonggitpap [공긷빱]), un tazón de arroz, o el **볶음밥** (bokkeumbap), arroz frito que se prepara en la parrilla con lo que sobró. Los fideos fríos, **냉면** (naengmyeon), son otro favorito.
 
 ## Paso 7: paga en la caja
 

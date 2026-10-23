@@ -51,7 +51,7 @@ Los coreanos también la dicen con el puño en alto, a menudo con las dos manos,
 
 ## Extras de la temporada del Suneung
 
-En torno al examen oirás algunas frases más. **수능 대박 나세요!** (Suneung daebak naseyo!) le desea a alguien un resultado "premio mayor". Las familias y los amigos regalan a los estudiantes alimentos pegajosos como el **엿** (yeot), un caramelo masticable, o el **찹쌀떡** (chapssaltteok), pastel de arroz glutinoso, porque **붙다** (butda) significa tanto "pegarse" como "aprobar un examen". El deseo es **꼭 붙어라!** (Kkok buteora!): "¡Que apruebes, sí o sí!".
+En torno al examen oirás algunas frases más. **수능 대박 나세요!** (Suneung daebak naseyo!) le desea a alguien un resultado "premio mayor". Las familias y los amigos regalan a los estudiantes alimentos pegajosos como el **엿** (yeot), un caramelo masticable, o el **찹쌀떡** (chapssaltteok), pastel de arroz glutinoso, porque **붙다** (butta [붇따]) significa tanto "pegarse" como "aprobar un examen". El deseo es **꼭 붙어라!** (Kkok buteora!): "¡Que apruebes, sí o sí!".
 
 ## Coreano que puedes usar
 

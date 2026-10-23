@@ -48,9 +48,9 @@ Bài hát unit "Sing to the Moon" cũng có tựa tiếng Hàn: **너는 달** (
 | 생일 | saengil | sinh nhật |
 | 달 | dal | mặt trăng |
 | 타이틀곡 | taiteulgok | ca khúc chủ đề |
-| 수록곡 | surokgok | bài hát trong album |
-| 작사 | jaksa | viết lời |
-| 작곡 | jakgok | soạn nhạc |
+| 수록곡 | surokkok [수록꼭] | bài hát trong album |
+| 작사 | jakssa [작싸] | viết lời |
+| 작곡 | jakkok [작꼭] | soạn nhạc |
 | 앙코르 콘서트 | angkoreu konseoteu | concert encore |
 
 Một cấu trúc hữu ích để nói điều ước: **건강하면 좋겠어요** (geonganghamyeon jokesseoyo) – "Mong là (chúng ta) luôn khỏe mạnh." Gốc động từ + **-(으)면 좋겠어요** nghĩa là "Tôi mong / sẽ thật tốt nếu …" – các thành viên nói rằng sức khỏe là điều ước lớn nhất của họ dành cho bản thân và người hâm mộ.

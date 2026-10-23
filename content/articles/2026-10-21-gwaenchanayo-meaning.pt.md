@@ -52,7 +52,7 @@ Aqui funciona bem parecido com o nosso "tô bem, obrigado" ou "não precisa". Se
 
 Como descrição, **괜찮다** significa que algo é decente, aceitável ou até bem bom. É um elogio discreto.
 
-- **이 식당 괜찮아요.** (I sikdang gwaenchanayo.) – Este restaurante é bem bom.
+- **이 식당 괜찮아요.** (I siktang gwaenchanayo. [이 식땅 괜차나요.]) – Este restaurante é bem bom.
 - **그 사람 괜찮아요.** (Geu saram gwaenchanayo.) – Ele/Ela é uma pessoa legal (ou: bem bonito/bonita, dependendo do contexto).
 
 Antes de um substantivo, vira **괜찮은** (gwaenchaneun): **괜찮은 카페** (gwaenchaneun kape) – um café legal.
@@ -89,7 +89,7 @@ Como em português, o tom faz diferença. Um **괜찮아요** curto, seco e sem 
 | 아니에요, 괜찮아요 | anieyo, gwaenchanayo | Imagina, tudo bem |
 | 아니요, 괜찮아요 | aniyo, gwaenchanayo | Não, obrigado, estou bem |
 | 사진 찍어도 괜찮아요? | sajin jjigeodo gwaenchanayo? | Posso tirar uma foto? |
-| 괜찮은 [식당](/pt/dictionary/?q=식당) | gwaenchaneun sikdang | um restaurante bom |
+| 괜찮은 [식당](/pt/dictionary/?q=식당) | gwaenchaneun siktang [괜차는 식땅] | um restaurante bom |
 | 괜찮아 | gwaenchana | Tudo bem (informal) |
 
 Preste atenção no 괜찮아요 da próxima vez que assistir a uma série coreana e tente adivinhar qual dos quatro sentidos ele tem. O contexto quase sempre entrega.

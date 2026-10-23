@@ -33,7 +33,7 @@ Kalau tidak ada slot kosong, cek lagi pagi-pagi sekali; slot yang dibatalkan ser
 
 Daftar persisnya tergantung visamu, tetapi kebanyakan orang memerlukan:
 
-- **Paspor** – **여권** (yeokgwon), beserta fotokopi halaman foto dan halaman visa
+- **Paspor** – **여권** (yeokkwon [여꿘]), beserta fotokopi halaman foto dan halaman visa
 - **Formulir pengajuan** – **신청서** (sincheongseo), yaitu "formulir pengajuan terpadu", bisa diunduh dari HiKorea atau tersedia di kantor
 - **Satu pas foto berwarna** yang diambil dalam enam bulan terakhir, ukuran paspor, latar belakang putih
 - **Bukti alamat**: kontrak sewa, surat keterangan asrama, atau sejenisnya
@@ -45,7 +45,7 @@ Bawa fotokopi cadangan untuk semua dokumen. Setiap kantor bisa berbeda, dan puny
 
 ## Langkah 3: Di kantor imigrasi
 
-Datanglah sedikit lebih awal, ambil nomor antrean atau tunjukkan reservasimu, lalu tunggu dipanggil. Di loket, petugas memeriksa dokumenmu, mengambil **지문** (jimun) – sidik jari – dan memberimu tanda terima. Simpan baik-baik tanda terima ini – **접수증** (jeopsujeung); kamu memerlukannya untuk mengambil kartu.
+Datanglah sedikit lebih awal, ambil nomor antrean atau tunjukkan reservasimu, lalu tunggu dipanggil. Di loket, petugas memeriksa dokumenmu, mengambil **지문** (jimun) – sidik jari – dan memberimu tanda terima. Simpan baik-baik tanda terima ini – **접수증** (jeopssujeung [접쑤증]); kamu memerlukannya untuk mengambil kartu.
 
 Kalimat berguna di loket:
 
@@ -71,10 +71,10 @@ Nomor registrasimu yang terdiri dari 13 digit akan terus-menerus diminta, dari a
 |---|---|---|
 | [외국인등록증](/id/dictionary/?q=외국인등록증) | oegugin deungnokjeung | kartu izin tinggal |
 | [예약](/id/dictionary/?q=예약) | yeyak | reservasi, janji temu |
-| 출입국 | churipguk | imigrasi (masuk dan keluar) |
+| 출입국 | churipkuk [추립꾹] | imigrasi (masuk dan keluar) |
 | [수수료](/id/dictionary/?q=수수료) | susuryo | biaya |
 | 체류지 변경 신고 | cheryuji byeongyeong singo | laporan perubahan alamat |
-| 접수증 | jeopsujeung | tanda terima pengajuan |
+| 접수증 | jeopssujeung [접쑤증] | tanda terima pengajuan |
 | 언제 받을 수 있어요? | eonje badeul su isseoyo? | Kapan bisa saya ambil? (sopan) |
 
 Mengurus kartu ini butuh sedikit kesabaran, tetapi begitu kartunya ada di dompetmu, kehidupan di Korea akan jauh lebih mudah.

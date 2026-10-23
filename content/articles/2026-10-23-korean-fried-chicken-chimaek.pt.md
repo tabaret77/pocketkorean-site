@@ -45,7 +45,7 @@ A maioria dos coreanos pede por apps de delivery, mas comer num **호프집** (h
 |---|---|---|
 | 치킨 | chikin | frango frito |
 | 치맥 | chimaek | frango frito com cerveja |
-| [맥주](/pt/dictionary/?q=맥주) | maekju | cerveja |
+| [맥주](/pt/dictionary/?q=맥주) | maekjju [맥쭈] | cerveja |
 | 양념 | yangnyeom | tempero; frango com molho |
 | 반반 | banban | meio a meio |
 | 순살 | sunsal | sem osso |

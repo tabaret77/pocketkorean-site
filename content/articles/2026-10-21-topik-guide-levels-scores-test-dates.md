@@ -95,8 +95,8 @@ The other paper and computer sessions will be held in Korea and overseas, but th
 | 급 | geup | level, grade |
 | 듣기 / 읽기 / 쓰기 | deutgi / ilgi / sseugi | listening / reading / writing |
 | 말하기 | malhagi | speaking |
-| [접수](/en/dictionary/?q=접수) | jeopsu | registration, application |
+| [접수](/en/dictionary/?q=접수) | jeopssu [접쑤] | registration, application |
 | 성적 | seongjeok | score, results |
-| 합격했어요! | hapgyeokhaesseoyo! | I passed! |
+| 합격했어요! | hapkyeokhaesseoyo! [합껴캐써요!] | I passed! |
 
 Whichever level you aim for, practise with past papers under timed conditions. Knowing the format is half the battle, and the other half is plenty of everyday Korean.

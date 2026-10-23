@@ -44,7 +44,7 @@ O outono é a época certa, mas não dura muito. As temperaturas caíram recente
 | 치맥 | chimaek | frango e cerveja |
 | [수산시장](/pt/dictionary/?q=수산시장) | susansijang | mercado de peixes |
 | [포장](/pt/dictionary/?q=포장) | pojang | embalagem; para viagem |
-| 돗자리 | dotjari | esteira de piquenique |
+| 돗자리 | dotjjari [돋짜리] | esteira de piquenique |
 | 광어 | gwangeo | linguado (linguado-oliva) |
 | 초고추장 | chogochujang | molho apimentado vermelho para mergulhar |
 

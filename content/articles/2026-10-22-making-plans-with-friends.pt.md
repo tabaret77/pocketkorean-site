@@ -63,7 +63,7 @@ Dizer não exige um pouco mais de cuidado. Os coreanos raramente dão um "não" 
 
 ## O programa que não é programa
 
-Uma frase merece um aviso: **언제 밥 한번 먹자** (Eonje bap hanbeon meokja) – "Vamos comer alguma coisa qualquer dia." É uma despedida simpática, bem parecida com o nosso "vamos marcar!", e muitas vezes não é um convite de verdade. Se você quer que aconteça, emende com um dia: **그럼 다음 주 금요일 어때?** (Geureom daeum ju geumyoil eottae?) – Então que tal na sexta da semana que vem?
+Uma frase merece um aviso: **언제 밥 한번 먹자** (Eonje bap hanbeon meokjja [언제 밥 한번 먹짜]) – "Vamos comer alguma coisa qualquer dia." É uma despedida simpática, bem parecida com o nosso "vamos marcar!", e muitas vezes não é um convite de verdade. Se você quer que aconteça, emende com um dia: **그럼 다음 주 금요일 어때?** (Geureom daeum ju geumyoil eottae?) – Então que tal na sexta da semana que vem?
 
 ## Coreano para usar
 

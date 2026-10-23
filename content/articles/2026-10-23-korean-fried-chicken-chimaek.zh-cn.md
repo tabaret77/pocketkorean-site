@@ -45,7 +45,7 @@ draft: false
 |---|---|---|
 | 치킨 | chikin | 炸鸡 |
 | 치맥 | chimaek | 炸鸡配啤酒 |
-| [맥주](/zh-cn/dictionary/?q=맥주) | maekju | 啤酒 |
+| [맥주](/zh-cn/dictionary/?q=맥주) | maekjju [맥쭈] | 啤酒 |
 | 양념 | yangnyeom | 调料；调味炸鸡 |
 | 반반 | banban | 一半一半 |
 | 순살 | sunsal | 无骨 |

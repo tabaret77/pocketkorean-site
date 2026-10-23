@@ -35,7 +35,7 @@ Los trenes de fin de semana en las rutas populares, sobre todo el viernes por la
 
 1. **Elige dónde reservar.** Los visitantes pueden usar el sitio de reservas en inglés de Korail para pasajeros extranjeros (Let's Korail) o la app Korail+.
 2. **Busca** tu estación de salida, **출발** (chulbal), tu estación de llegada, **도착** (dochak), y la fecha.
-3. **Elige la clase.** **일반실** (ilbansil) es la clase estándar; **특실** (teuksil) es la primera clase, con asientos más amplios. Cuando se agotan los asientos, puede que se ofrezcan boletos **입석** (ipseok), de pie.
+3. **Elige la clase.** **일반실** (ilbansil) es la clase estándar; **특실** (teukssil [특씰]) es la primera clase, con asientos más amplios. Cuando se agotan los asientos, puede que se ofrezcan boletos **입석** (ipsseok [입썩]), de pie.
 4. **Paga y guarda el boleto** en tu celular. No hace falta imprimirlo; el personal revisa los boletos a bordo.
 5. **Encuentra tu vagón.** Tu boleto muestra un número de vagón, **호차** (hocha), y un número de asiento. Los andenes están marcados con los números de vagón, así que colócate en el lugar correcto antes de que llegue el tren.
 

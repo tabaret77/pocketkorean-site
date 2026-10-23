@@ -56,6 +56,6 @@ Gyeongju es pequeña y se recorre fácilmente a pie, y sus lugares históricos e
 | [주차장](/es/dictionary/?q=주차장) | juchajang | estacionamiento |
 | [단풍](/es/dictionary/?q=단풍) | danpung | hojas de otoño |
 
-**석굴암까지 얼마나 걸려요?** (seokguramkkaji eolmana geollyeoyo?): ¿Cuánto se tarda en llegar a Seokguram? Pon cualquier lugar antes de **까지** (kkaji), "hasta", por ejemplo **역까지** (yeokkkaji), "hasta la estación".
+**석굴암까지 얼마나 걸려요?** (seokkuramkkaji eolmana geollyeoyo? [석꾸람까지 얼마나 걸려요?]): ¿Cuánto se tarda en llegar a Seokguram? Pon cualquier lugar antes de **까지** (kkaji), "hasta", por ejemplo **역까지** (yeokkkaji), "hasta la estación".
 
 Fuentes: [Financial News – mapa del follaje otoñal 2026 (en coreano)](https://www.fnnews.com/news/202610080943468392), [K Trip Tips – Bulguksa (en coreano)](https://www.ktriptips.com/kor/tourspot/126166), [Telltrip – guía de visita a Bulguksa (en coreano)](https://www.telltrip.com/domestic-travel/bulguksa-winter-snow-sceneries-gyeongju/), [South Korea Hallyu – guía de Bulguksa](https://southkoreahallyu.com/bulguksa-temple-gyeongju/), [iVisitKorea – qué hacer en Gyeongju](https://www.ivisitkorea.com/things-to-do-in-gyeongju/)

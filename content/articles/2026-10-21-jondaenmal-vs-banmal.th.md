@@ -29,7 +29,7 @@ draft: false
 | 네 (ne) | 응 (eung) / 어 (eo) | ใช่ |
 | 아니요 (aniyo) | 아니 (ani) | ไม่ |
 | 저 / 제가 (jeo / jega) | 나 / 내가 (na / naega) | ฉัน |
-| 학생이에요 (haksaengieyo) | 학생이야 (haksaengiya) | (ฉัน) เป็นนักเรียน |
+| 학생이에요 (hakssaengieyo [학쌩이에요]) | 학생이야 (hakssaengiya [학쌩이야]) | (ฉัน) เป็นนักเรียน |
 | 친구예요 (chinguyeyo) | 친구야 (chinguya) | (นี่) เป็นเพื่อน |
 | 안녕하세요 (annyeonghaseyo) | 안녕 (annyeong) | สวัสดี |
 

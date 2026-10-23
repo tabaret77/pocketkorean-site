@@ -44,7 +44,7 @@ Most Koreans order through delivery apps, but eating in at a **호프집** (hope
 |---|---|---|
 | 치킨 | chikin | fried chicken |
 | 치맥 | chimaek | chicken and beer |
-| [맥주](/en/dictionary/?q=맥주) | maekju | beer |
+| [맥주](/en/dictionary/?q=맥주) | maekjju [맥쭈] | beer |
 | 양념 | yangnyeom | seasoning; sauced chicken |
 | 반반 | banban | half and half |
 | 순살 | sunsal | boneless |

@@ -50,6 +50,6 @@ As cores são fáceis de aprender porque muitas vêm do inglês: **민트** (min
 | 검색량 | geomsaengnyang | volume de buscas |
 | 매출 | maechul | vendas (faturamento) |
 
-Um padrão para as compras: **다른 색깔도 있어요?** (Dareun saekkkaldo isseoyo?) – "Tem em outras cores também?" Substantivo + **도** significa "também"; você pode dizer a cor no lugar: **보라색도 있어요?** (Borasaekdo isseoyo?) – "Tem em roxo também?"
+Um padrão para as compras: **다른 색깔도 있어요?** (Dareun saekkkaldo isseoyo?) – "Tem em outras cores também?" Substantivo + **도** significa "também"; você pode dizer a cor no lugar: **보라색도 있어요?** (Borasaekto isseoyo? [보라색또 이써요?]) – "Tem em roxo também?"
 
 Fontes: [Segye Ilbo – cor está em alta nos casacos este ano, 23 out. (em coreano)](https://www.segye.com/newsView/20261022518265), [Hankyung – "Este ano não vou usar puffer preta", 11 out. (em coreano)](https://www.hankyung.com/article/202610080733g)

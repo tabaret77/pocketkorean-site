@@ -30,7 +30,7 @@ Como a maior parte dos diálogos de drama entre personagens próximos, estas fal
 
 ## 4. 아직도 화났어? – Você ainda está bravo(a)?
 
-**아직도 화났어?** (Ajikdo hwanasseo?) confere se a tempestade já passou. **화나다** (hwanada) significa ficar com raiva, e o passado 화났어 descreve o estado de estar com raiva agora. A resposta emburrada costuma ser **됐어** (dwaesseo) – "esquece" –, o que significa que o pedido de desculpas ainda precisa de mais esforço.
+**아직도 화났어?** (Ajikto hwanasseo? [아직또 화나써?]) confere se a tempestade já passou. **화나다** (hwanada) significa ficar com raiva, e o passado 화났어 descreve o estado de estar com raiva agora. A resposta emburrada costuma ser **됐어** (dwaesseo) – "esquece" –, o que significa que o pedido de desculpas ainda precisa de mais esforço.
 
 ## 5. 화 풀어 – Não fica mais bravo(a)
 
@@ -64,7 +64,7 @@ Um pedido de desculpas coreano de verdade depende mais da hierarquia do que nos 
 | 죄송합니다 | joesonghamnida | Peço desculpas (formal) |
 | 내가 잘못했어 | naega jalmotaesseo | A culpa foi minha |
 | 내 말 좀 들어 봐 | nae mal jom deureo bwa | Me escuta, por favor |
-| 아직도 화났어? | ajikdo hwanasseo? | Você ainda está bravo(a)? |
+| 아직도 화났어? | ajikto hwanasseo? [아직또 화나써?] | Você ainda está bravo(a)? |
 | 화 풀어 | hwa pureo | Não fica mais bravo(a) |
 | 다시는 안 그럴게 | dasineun an geureolge | Não vou fazer isso de novo |
 | 한 번만 봐줘 | han beonman bwajwo | Deixa passar só desta vez |

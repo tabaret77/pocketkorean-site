@@ -104,7 +104,7 @@ Notice that in **한국어**, the final ㄱ of 국 slides into the next syllable
 | 자음 | jaeum | consonant |
 | 모음 | moeum | vowel |
 | 받침 | batchim | final consonant |
-| [읽다](/en/dictionary/?q=읽다) | ikda | to read |
+| [읽다](/en/dictionary/?q=읽다) | ikta [익따] | to read |
 | 이거 어떻게 읽어요? | igeo eotteoke ilgeoyo? | How do you read this? |
 
 Once the blocks click, every Korean word you meet becomes something you can read aloud, and that's the real start of learning Korean.

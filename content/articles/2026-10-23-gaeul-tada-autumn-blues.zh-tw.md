@@ -54,7 +54,7 @@ draft: false
 如果 가을 타다 還不夠具體，這些詞可以幫你描述那種感覺：
 
 - **쓸쓸하다**（sseulsseulhada）——冷清、寂寥（非常適合秋天的詞）
-- **[외롭다](/zh-tw/dictionary/?q=외롭다)**（oeropda）——孤單、寂寞
+- **[외롭다](/zh-tw/dictionary/?q=외롭다)**（oeropta [외롭따]）——孤單、寂寞
 - **우울하다**（uulhada）——憂鬱、鬱悶
 - **기분이 가라앉다**（gibuni garaanda）——心情低落（字面上是「心情沉下去」）
 
@@ -68,7 +68,7 @@ draft: false
 | 추위를 타다 | chuwireul tada | 很怕冷 |
 | 더위를 타다 | deowireul tada | 很怕熱 |
 | 쓸쓸하다 | sseulsseulhada | 感到冷清、寂寥 |
-| 외롭다 | oeropda | 孤單、寂寞 |
+| 외롭다 | oeropta [외롭따] | 孤單、寂寞 |
 | 산책하다 | sanchaekada | 散步 |
 
 實用句型：**요즘 가을 타나 봐요.**（Yojeum gaeul tana bwayo.）——最近好像被秋天的氣氛影響了。如果影響你的不是季節而是寒冷，就換成 **추위를 타나 봐요**（chuwireul tana bwayo）。

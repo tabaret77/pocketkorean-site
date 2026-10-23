@@ -33,7 +33,7 @@ La serie está dirigida por Park Soo-won, conocido por *Work Later, Drink Now*, 
 
 El título coreano es **나를 충전해줘** (nareul chungjeonhaejwo), "Recárgame". [충전](/es/dictionary/?q=충전) (chungjeon) es la palabra cotidiana para cargar algo: tu celular, tu tarjeta de transporte, tu batería. Añade **하다** y obtienes el verbo **충전하다** (chungjeonhada), cargar. Lo oirás todo el tiempo en Corea:
 
-- **배터리가 없어요.** (Baeteoriga eopseoyo.): Se me acabó la batería.
+- **배터리가 없어요.** (Baeteoriga eopsseoyo. [배터리가 업써요.]): Se me acabó la batería.
 - **휴대폰 충전 좀 해도 돼요?** (Hyudaepon chungjeon jom haedo dwaeyo?): ¿Puedo cargar mi celular?
 
 Los coreanos también usan 충전 para las personas. Después de unas vacaciones o de una buena comida, alguien puede decir que "recargó" energía. Ese es justo el doble sentido del título: un hombre cuyo corazón necesita una batería de verdad, y un corazón que otra persona llena.
@@ -52,7 +52,7 @@ Otra palabra útil de la trama es [심장](/es/dictionary/?q=심장) (simjang), 
 | 전기 | jeongi | electricidad |
 | 재벌 3세 | jaebeol samse | heredero de tercera generación de un chaebol |
 | 계약 | gyeyak | contrato, trato |
-| 웹소설 | wepsoseol | novela web |
+| 웹소설 | wepssoseol [웹쏘설] | novela web |
 | 마음 | maeum | corazón, sentimientos |
 
 Una estructura de petición sacada directamente del título: **충전해 줘** (chungjeonhae jwo): "Cárgalo por mí". Raíz del verbo + **-아/어 줘** le pide a alguien que haga algo por ti en habla informal; con un desconocido, hazlo cortés con **-아/어 주세요**, como en **충전해 주세요** (chungjeonhae juseyo).

@@ -12,7 +12,7 @@ cover: /media/covers/hobby-words-in-korean-s1.jpg
 draft: false
 ---
 
-Sớm hay muộn, ở một buổi trao đổi ngôn ngữ, ngày đầu đi làm hay trong một buổi xem mắt trên phim Hàn, sẽ có người hỏi bạn **취미가 뭐예요?** (Chwimiga mwoyeyo?) – Sở thích của bạn là gì? Đây là một trong những câu hỏi xã giao phổ biến nhất trong tiếng Hàn. **[취미](/vi/dictionary/?q=취미)** (chwimi) nghĩa là sở thích, và tiết trời mát mẻ cuối thu là thời điểm tốt để bắt đầu một sở thích mới. Nhiều người gọi mùa thu là **독서의 계절** (dokseoui gyejeol) – mùa đọc sách – vì những ngày trong trẻo, mát mẻ khiến ta dễ dàng ngồi xuống với một cuốn sách. Dưới đây là những từ và cấu trúc bạn cần để nói về những gì bạn làm cho vui.
+Sớm hay muộn, ở một buổi trao đổi ngôn ngữ, ngày đầu đi làm hay trong một buổi xem mắt trên phim Hàn, sẽ có người hỏi bạn **취미가 뭐예요?** (Chwimiga mwoyeyo?) – Sở thích của bạn là gì? Đây là một trong những câu hỏi xã giao phổ biến nhất trong tiếng Hàn. **[취미](/vi/dictionary/?q=취미)** (chwimi) nghĩa là sở thích, và tiết trời mát mẻ cuối thu là thời điểm tốt để bắt đầu một sở thích mới. Nhiều người gọi mùa thu là **독서의 계절** (doksseoui gyejeol [독써의 계절]) – mùa đọc sách – vì những ngày trong trẻo, mát mẻ khiến ta dễ dàng ngồi xuống với một cuốn sách. Dưới đây là những từ và cấu trúc bạn cần để nói về những gì bạn làm cho vui.
 
 ## 24 từ về sở thích
 
@@ -21,7 +21,7 @@ Nhiều sở thích là danh từ, trở thành động từ khi thêm **하다*
 | Tiếng Hàn | Phiên âm | Nghĩa |
 |---|---|---|
 | 등산 | deungsan | leo núi |
-| 독서 | dokseo | đọc sách |
+| 독서 | doksseo [독써] | đọc sách |
 | 요리 | yori | nấu ăn |
 | 운동 | undong | tập thể dục, thể thao |
 | 헬스 | helseu | tập gym |
@@ -30,18 +30,18 @@ Nhiều sở thích là danh từ, trở thành động từ khi thêm **하다*
 | 산책 | sanchaek | đi dạo |
 | 자전거 타기 | jajeongeo tagi | đạp xe |
 | 캠핑 | kaemping | cắm trại |
-| 낚시 | naksi | câu cá |
+| 낚시 | nakssi [낙씨] | câu cá |
 | 여행 | yeohaeng | du lịch |
-| 사진 찍기 | sajin jjikgi | chụp ảnh |
+| 사진 찍기 | sajin jjikki [사진 찍끼] | chụp ảnh |
 | 그림 그리기 | geurim geurigi | vẽ tranh |
 | 뜨개질 | tteugaejil | đan len |
 | 베이킹 | beiking | làm bánh |
 | 게임 | geim | chơi game (điện tử) |
 | 영화 보기 | yeonghwa bogi | xem phim |
-| 음악 듣기 | eumak deutgi | nghe nhạc |
+| 음악 듣기 | eumak deutki [으막 듣끼] | nghe nhạc |
 | 노래 부르기 | norae bureugi | hát |
 | 춤 | chum | nhảy, khiêu vũ |
-| 악기 연주 | akgi yeonju | chơi nhạc cụ |
+| 악기 연주 | akki yeonju [악끼 연주] | chơi nhạc cụ |
 | 피아노를 치다 | pianoreul chida | chơi đàn piano |
 | 기타를 치다 | gitareul chida | chơi đàn guitar |
 
@@ -56,16 +56,16 @@ Các nhạc cụ phải gõ hoặc gảy, như piano và guitar, dùng **치다*
 
 Với một hành động, hãy danh từ hóa động từ bằng **-기**. Lấy gốc động từ rồi thêm **-기**: **읽다** → **읽기**, **찍다** → **찍기**.
 
-- **제 취미는 책 읽기예요.** (Je chwimineun chaek ilgiyeyo.) – Sở thích của tôi là đọc sách.
-- **제 취미는 사진 찍기예요.** (Je chwimineun sajin jjikgiyeyo.) – Sở thích của tôi là chụp ảnh.
+- **제 취미는 책 읽기예요.** (Je chwimineun chaek ilkkiyeyo. [책 일끼예요.]) – Sở thích của tôi là đọc sách.
+- **제 취미는 사진 찍기예요.** (Je chwimineun sajin jjikkiyeyo. [제 취미는 사진 찍끼예요.]) – Sở thích của tôi là chụp ảnh.
 
 **2. -는 것을 좋아해요.** Để nói "Tôi thích làm …", thêm **-는 것을 좋아해요** vào gốc động từ. Khi nói, **것을** thường được rút gọn thành **걸**.
 
 | Động từ | + -는 것을 좋아해요 | Nghĩa |
 |---|---|---|
 | 요리하다 (yorihada) | 요리하는 것을 좋아해요 (yorihaneun geoseul joahaeyo) | Tôi thích nấu ăn |
-| [걷다](/vi/dictionary/?q=걷다) (geotda) | 걷는 걸 좋아해요 (geonneun geol joahaeyo) | Tôi thích đi bộ |
-| 듣다 (deutda) | 음악 듣는 걸 좋아해요 (eumak deunneun geol joahaeyo) | Tôi thích nghe nhạc |
+| [걷다](/vi/dictionary/?q=걷다) (geotta [걷따]) | 걷는 걸 좋아해요 (geonneun geol joahaeyo) | Tôi thích đi bộ |
+| 듣다 (deutta [듣따]) | 음악 듣는 걸 좋아해요 (eumak deunneun geol joahaeyo) | Tôi thích nghe nhạc |
 | 만들다 (mandeulda) | 만드는 걸 좋아해요 (mandeuneun geol joahaeyo) | Tôi thích làm đồ (tự tay) |
 | 그리다 (geurida) | 그림 그리는 걸 좋아해요 (geurim geurineun geol joahaeyo) | Tôi thích vẽ |
 
@@ -91,7 +91,7 @@ Và để trả lời mức độ thường xuyên: **매일** (maeil) – mỗi
 | Tiếng Hàn | Phiên âm | Nghĩa |
 |---|---|---|
 | 취미가 뭐예요? | chwimiga mwoyeyo? | Sở thích của bạn là gì? |
-| 제 취미는 독서예요 | je chwimineun dokseoyeyo | Sở thích của tôi là đọc sách |
+| 제 취미는 독서예요 | je chwimineun doksseoyeyo [제 취미는 독써예요] | Sở thích của tôi là đọc sách |
 | 등산하는 걸 좋아해요 | deungsanhaneun geol joahaeyo | Tôi thích leo núi |
 | 요즘 뜨개질을 배워요 | yojeum tteugaejireul baewoyo | Dạo này tôi đang học đan len |
 | 게임을 자주 해요 | geimeul jaju haeyo | Tôi hay chơi game |

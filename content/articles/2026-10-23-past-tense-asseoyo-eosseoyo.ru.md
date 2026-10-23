@@ -28,9 +28,9 @@ draft: false
 |---|---|---|---|
 | [살다](/ru/dictionary/?q=살다) (salda) | 살- | 살았어요 (sarasseoyo) | я жил(а) |
 | 좋다 (jota) | 좋- | 좋았어요 (joasseoyo) | было хорошо |
-| [먹다](/ru/dictionary/?q=먹다) (meokda) | 먹- | 먹었어요 (meogeosseoyo) | я поел(а) |
-| 읽다 (ikda) | 읽- | 읽었어요 (ilgeosseoyo) | я прочитал(а) |
-| 맛있다 (masitda) | 맛있- | 맛있었어요 (masisseosseoyo) | было вкусно |
+| [먹다](/ru/dictionary/?q=먹다) (meokta [먹따]) | 먹- | 먹었어요 (meogeosseoyo) | я поел(а) |
+| 읽다 (ikta [익따]) | 읽- | 읽었어요 (ilgeosseoyo) | я прочитал(а) |
+| 맛있다 (masitta [마싣따]) | 맛있- | 맛있었어요 (masisseosseoyo) | было вкусно |
 | [공부하다](/ru/dictionary/?q=공부하다) (gongbuhada) | 공부하- | 공부했어요 (gongbuhaesseoyo) | я учился (училась) |
 | 일하다 (ilhada) | 일하- | 일했어요 (ilhaesseoyo) | я работал(а) |
 
@@ -61,8 +61,8 @@ draft: false
 
 Неправильные глаголы меняются в прошедшем времени точно так же, как в настоящем, поэтому учите их парами:
 
-- **듣다** (deutda) — слушать → 들었어요 (deureosseoyo)
-- **춥다** (chupda) — быть холодным → 추웠어요 (chuwosseoyo)
+- **듣다** (deutta [듣따]) — слушать → 들었어요 (deureosseoyo)
+- **춥다** (chupta [춥따]) — быть холодным → 추웠어요 (chuwosseoyo)
 - **바쁘다** (bappeuda) — быть занятым → 바빴어요 (bappasseoyo)
 - **쓰다** (sseuda) — писать, использовать → 썼어요 (sseosseoyo)
 - **모르다** (moreuda) — не знать → 몰랐어요 (mollasseoyo)
@@ -92,7 +92,7 @@ draft: false
 4. 덥다 (быть жарким)
 5. 학생 (студент) + был
 
-**Ответы:** 1. 만났어요 (mannasseoyo) 2. 마셨어요 (masyeosseoyo) 3. 청소했어요 (cheongsohaesseoyo) 4. 더웠어요 (deowosseoyo) 5. 학생이었어요 (haksaengieosseoyo)
+**Ответы:** 1. 만났어요 (mannasseoyo) 2. 마셨어요 (masyeosseoyo) 3. 청소했어요 (cheongsohaesseoyo) 4. 더웠어요 (deowosseoyo) 5. 학생이었어요 (hakssaengieosseoyo [학쌩이어써요])
 
 ## Корейский, который пригодится
 

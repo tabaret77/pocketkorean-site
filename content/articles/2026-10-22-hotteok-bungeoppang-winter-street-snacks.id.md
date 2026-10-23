@@ -33,7 +33,7 @@ Di Korea, malam pertama yang benar-benar dingin dalam setahun punya aromanya sen
 
 Harga berbeda-beda di setiap kios. Per Oktober 2026 tidak ada harga resmi, tetapi berita dari musim dingin lalu menyebutkan bungeoppang biasanya dijual sekitar 2.000 won untuk tiga buah, dengan beberapa kios mematok 1.000 won per buah. Orang Korea yang lebih tua masih ingat masa ketika 1.000 won bisa dapat tiga atau bahkan empat buah.
 
-Kios-kiosnya juga makin sulit ditemukan. Menurut laporan bulan November 2025, harga kacang merah naik lebih dari satu setengah kali lipat dalam setahun, tepung dan minyak tetap mahal, dan jumlah pedagang kaki lima di Seoul turun lebih dari seperlima, dari 6.079 pada tahun 2020 menjadi 4.741 pada pendataan terbaru yang dikutip. Banyak orang Korea kini memakai aplikasi peta yang diisi bersama oleh penggunanya, **가슴속3천원** (gaseumsok samcheonwon), "3.000 won di dalam hati," untuk menemukan kios terdekat. Bahkan ada kata candaan untuk tinggal di dekat kios semacam itu: **붕세권** (bungsegwon), plesetan dari **역세권** (yeoksegwon), "dalam jarak jalan kaki dari stasiun."
+Kios-kiosnya juga makin sulit ditemukan. Menurut laporan bulan November 2025, harga kacang merah naik lebih dari satu setengah kali lipat dalam setahun, tepung dan minyak tetap mahal, dan jumlah pedagang kaki lima di Seoul turun lebih dari seperlima, dari 6.079 pada tahun 2020 menjadi 4.741 pada pendataan terbaru yang dikutip. Banyak orang Korea kini memakai aplikasi peta yang diisi bersama oleh penggunanya, **가슴속3천원** (gaseumsok samcheonwon), "3.000 won di dalam hati," untuk menemukan kios terdekat. Bahkan ada kata candaan untuk tinggal di dekat kios semacam itu: **붕세권** (bungsegwon), plesetan dari **역세권** (yeokssegwon [역쎄권]), "dalam jarak jalan kaki dari stasiun."
 
 Bawalah uang tunai atau siapkan opsi transfer bank: banyak kios kecil lebih suka uang tunai, meskipun kini makin banyak yang menerima kartu.
 
@@ -58,7 +58,7 @@ Tunjuk dan sebutkan angka dengan **개** (gae), kata penggolong umum untuk benda
 | [어묵](/id/dictionary/?q=어묵) | eomuk | kue ikan |
 | [국물](/id/dictionary/?q=국물) | gungmul | kuah kaldu |
 | [포장](/id/dictionary/?q=포장) | pojang | bungkus, dibawa pulang |
-| [뜨겁다](/id/dictionary/?q=뜨겁다) | tteugeopda | panas (saat disentuh) |
+| [뜨겁다](/id/dictionary/?q=뜨겁다) | tteugeopta [뜨겁따] | panas (saat disentuh) |
 
 **[jumlah uang] + 어치 주세요.** – **삼천 원어치 주세요.** (samcheon woneochi juseyo.) – Minta yang seharga 3.000 won, ya.
 

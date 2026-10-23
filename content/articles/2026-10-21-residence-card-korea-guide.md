@@ -32,7 +32,7 @@ If you see no free slots, check again early in the morning; cancelled slots ofte
 
 The exact list depends on your visa, but most people need:
 
-- **Passport** – **여권** (yeokgwon), plus a copy of the photo page and visa page
+- **Passport** – **여권** (yeokkwon [여꿘]), plus a copy of the photo page and visa page
 - **Application form** – **신청서** (sincheongseo), the "integrated application form," downloadable from HiKorea or available at the office
 - **One colour photo** taken within the last six months, passport style, white background
 - **Proof of address**: a lease contract, dormitory certificate or similar
@@ -44,7 +44,7 @@ Bring an extra copy of everything. Offices differ, and having spares can save yo
 
 ## Step 3: At the immigration office
 
-Arrive a little early, take a number or show your reservation, and wait to be called. At the counter, the officer checks your papers, takes your **지문** (jimun) – fingerprints – and gives you a receipt. Keep this receipt – **접수증** (jeopsujeung) – safe; you need it to collect the card.
+Arrive a little early, take a number or show your reservation, and wait to be called. At the counter, the officer checks your papers, takes your **지문** (jimun) – fingerprints – and gives you a receipt. Keep this receipt – **접수증** (jeopssujeung [접쑤증]) – safe; you need it to collect the card.
 
 Useful lines at the counter:
 
@@ -70,10 +70,10 @@ Your 13-digit registration number will be asked for constantly, from bank apps t
 |---|---|---|
 | [외국인등록증](/en/dictionary/?q=외국인등록증) | oegugin deungnokjeung | residence card |
 | [예약](/en/dictionary/?q=예약) | yeyak | reservation, appointment |
-| 출입국 | churipguk | immigration (entry and exit) |
+| 출입국 | churipkuk [추립꾹] | immigration (entry and exit) |
 | [수수료](/en/dictionary/?q=수수료) | susuryo | fee |
 | 체류지 변경 신고 | cheryuji byeongyeong singo | change-of-address report |
-| 접수증 | jeopsujeung | application receipt |
+| 접수증 | jeopssujeung [접쑤증] | application receipt |
 | 언제 받을 수 있어요? | eonje badeul su isseoyo? | When can I get it? (polite) |
 
 The card takes a little patience, but once it is in your wallet, the rest of life in Korea gets much easier.

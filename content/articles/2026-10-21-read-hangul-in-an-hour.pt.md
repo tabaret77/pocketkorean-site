@@ -105,7 +105,7 @@ Repare que em **한국어** o ㄱ final de 국 escorrega para a sílaba seguinte
 | 자음 | jaeum | consoante |
 | 모음 | moeum | vogal |
 | 받침 | batchim | consoante final |
-| [읽다](/pt/dictionary/?q=읽다) | ikda | ler |
+| [읽다](/pt/dictionary/?q=읽다) | ikta [익따] | ler |
 | 이거 어떻게 읽어요? | igeo eotteoke ilgeoyo? | Como se lê isto? |
 
 Quando os blocos fizerem sentido, toda palavra coreana que você encontrar vai virar algo que você consegue ler em voz alta, e esse é o verdadeiro começo do aprendizado do coreano.

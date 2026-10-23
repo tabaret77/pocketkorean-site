@@ -45,7 +45,7 @@ Phần lớn người Hàn gọi qua ứng dụng giao đồ ăn, nhưng ngồi 
 |---|---|---|
 | 치킨 | chikin | gà rán |
 | 치맥 | chimaek | gà rán và bia |
-| [맥주](/vi/dictionary/?q=맥주) | maekju | bia |
+| [맥주](/vi/dictionary/?q=맥주) | maekjju [맥쭈] | bia |
 | 양념 | yangnyeom | gia vị; gà phủ sốt |
 | 반반 | banban | nửa này nửa kia |
 | 순살 | sunsal | không xương |

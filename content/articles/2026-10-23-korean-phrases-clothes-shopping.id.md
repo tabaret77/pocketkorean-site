@@ -50,7 +50,7 @@ Kalau celananya terlalu panjang, tanyakan tentang **수선** (suseon), permak. M
 
 Aturan pengembalian bergantung pada tokonya. Department store dan merek besar biasanya menerima pengembalian dengan struk dalam waktu sekitar 7 hingga 30 hari, sedangkan kios pinggir jalan dan pusat belanja bawah tanah jarang mengembalikan uang dan mungkin hanya mau menukar. Tanyakan sebelum membayar: **환불 돼요?** (hwanbul dwaeyo?), "Bisa refund?"
 
-Wisatawan juga bisa bertanya **택스 리펀 돼요?** (taekseu ripeon dwaeyo?) – "Bisa tax refund?" Di sebagian besar toko bebas pajak, kamu harus berbelanja minimal 15.000 won dalam satu transaksi dan menunjukkan paspor. Pengembalian pajak langsung di kasir bisa dilakukan untuk pembelian di bawah 1.000.000 won per transaksi, hingga total 5.000.000 won per perjalanan.
+Wisatawan juga bisa bertanya **택스 리펀 돼요?** (taeksseu ripeon dwaeyo? [택쓰 리펀 돼요?]) – "Bisa tax refund?" Di sebagian besar toko bebas pajak, kamu harus berbelanja minimal 15.000 won dalam satu transaksi dan menunjukkan paspor. Pengembalian pajak langsung di kasir bisa dilakukan untuk pembelian di bawah 1.000.000 won per transaksi, hingga total 5.000.000 won per perjalanan.
 
 ## Bahasa Korea yang bisa kamu pakai
 
@@ -60,7 +60,7 @@ Wisatawan juga bisa bertanya **택스 리펀 돼요?** (taekseu ripeon dwaeyo?) 
 | [사이즈](/id/dictionary/?q=사이즈) | saijeu | ukuran |
 | 탈의실 | taruisil | kamar pas |
 | [크다](/id/dictionary/?q=크다) | keuda | besar |
-| [작다](/id/dictionary/?q=작다) | jakda | kecil |
+| [작다](/id/dictionary/?q=작다) | jakta [작따] | kecil |
 | [교환](/id/dictionary/?q=교환) | gyohwan | penukaran |
 | [환불](/id/dictionary/?q=환불) | hwanbul | pengembalian uang |
 | [영수증](/id/dictionary/?q=영수증) | yeongsujeung | struk |

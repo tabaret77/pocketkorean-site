@@ -105,7 +105,7 @@ Perhatikan bahwa dalam **한국어**, ㄱ di akhir 국 berpindah ke suku kata be
 | 자음 | jaeum | konsonan |
 | 모음 | moeum | vokal |
 | 받침 | batchim | konsonan akhir |
-| [읽다](/id/dictionary/?q=읽다) | ikda | membaca |
+| [읽다](/id/dictionary/?q=읽다) | ikta [익따] | membaca |
 | 이거 어떻게 읽어요? | igeo eotteoke ilgeoyo? | Ini bacanya bagaimana? |
 
 Begitu cara kerja blok-blok ini sudah klik, setiap kata Korea yang kamu temui bisa kamu baca dengan suara keras, dan itulah awal sesungguhnya belajar bahasa Korea.

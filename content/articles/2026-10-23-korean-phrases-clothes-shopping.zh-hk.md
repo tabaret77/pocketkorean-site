@@ -50,7 +50,7 @@ draft: false
 
 退貨規則因店而異。百貨公司和大品牌通常接受在大約7至30日內憑收據退貨，而街邊檔口和地下商場則很少退款，可能只接受換貨。付款前先問清楚：**환불 돼요?**（hwanbul dwaeyo?），「可以退款嗎？」
 
-遊客亦可以問 **택스 리펀 돼요?**（taekseu ripeon dwaeyo?）——「可以退稅嗎？」在大部分免稅店，單次消費最少要滿15,000韓圜，並出示護照。每件購物金額低於1,000,000韓圜的話，可以在收銀處即時退稅，每次旅程總額上限為5,000,000韓圜。
+遊客亦可以問 **택스 리펀 돼요?**（taeksseu ripeon dwaeyo? [택쓰 리펀 돼요?]）——「可以退稅嗎？」在大部分免稅店，單次消費最少要滿15,000韓圜，並出示護照。每件購物金額低於1,000,000韓圜的話，可以在收銀處即時退稅，每次旅程總額上限為5,000,000韓圜。
 
 ## 實用韓語
 
@@ -60,7 +60,7 @@ draft: false
 | [사이즈](/zh-hk/dictionary/?q=사이즈) | saijeu | 尺碼 |
 | 탈의실 | taruisil | 試身室 |
 | [크다](/zh-hk/dictionary/?q=크다) | keuda | 大 |
-| [작다](/zh-hk/dictionary/?q=작다) | jakda | 細、小 |
+| [작다](/zh-hk/dictionary/?q=작다) | jakta [작따] | 細、小 |
 | [교환](/zh-hk/dictionary/?q=교환) | gyohwan | 換貨 |
 | [환불](/zh-hk/dictionary/?q=환불) | hwanbul | 退款 |
 | [영수증](/zh-hk/dictionary/?q=영수증) | yeongsujeung | 收據 |

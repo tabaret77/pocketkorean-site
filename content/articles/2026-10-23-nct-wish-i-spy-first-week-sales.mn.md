@@ -54,6 +54,6 @@ K-pop мэдээнд харах өөр хоёр үг:
 | 2관왕 | igwanwang | давхар титэм |
 | 기록 | girok | рекорд, амжилт |
 
-Тоо харьцуулах хэв маяг: **지난 앨범보다 적게 팔렸어요** (jinan aelbeomboda jeokge pallyeosseoyo) – «Өмнөх цомгоос бага зарагдсан». Нэр үг + **보다** нь «-аас/-ээс илүү» гэсэн харьцуулах утгатай; эсрэгээр хэлэхдээ **적게** (бага)-г **많이** (их)-ээр солино: **지난 앨범보다 많이 팔렸어요**.
+Тоо харьцуулах хэв маяг: **지난 앨범보다 적게 팔렸어요** (jinan aelbeomboda jeokke pallyeosseoyo [지난 앨범보다 적께 팔려써요]) – «Өмнөх цомгоос бага зарагдсан». Нэр үг + **보다** нь «-аас/-ээс илүү» гэсэн харьцуулах утгатай; эсрэгээр хэлэхдээ **적게** (бага)-г **많이** (их)-ээр солино: **지난 앨범보다 많이 팔렸어요**.
 
 Эх сурвалж: [Sports Kyunghyang – NCT WISH-ийн эхний долоо хоногийн борлуулалт, 10-р сарын 20](https://sports.khan.co.kr/en/article/202610200819007/), [The Korea Times – NCT WISH «I SPY»-г гаргалаа, 10-р сарын 12](https://www.koreatimes.co.kr/entertainment/k-pop/20261012/nct-wish-drops-new-mini-album-i-spy-ahead-of-landmark-gocheok-sky-dome-concert), [SM Entertainment – «I SPY» клип](https://www.youtube.com/watch?v=xIlFjHHUfI0)

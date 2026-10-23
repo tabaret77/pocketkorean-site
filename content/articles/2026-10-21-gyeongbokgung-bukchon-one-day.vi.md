@@ -72,7 +72,7 @@ Khi vùng đỏ đóng cửa, hãy đi bộ về phía nam đến Insadong để
 | [한옥](/vi/dictionary/?q=한옥) | hanok | nhà truyền thống Hàn Quốc |
 | [한복](/vi/dictionary/?q=한복) | hanbok | trang phục truyền thống Hàn Quốc |
 | 매표소 | maepyoso | quầy bán vé |
-| 입장료 | ipjangnyo | phí vào cửa |
+| 입장료 | ipjjangnyo [입짱뇨] | phí vào cửa |
 | 몇 시까지 해요? | myeot sikkaji haeyo? | Mở cửa đến mấy giờ ạ? (lịch sự) |
 | 사진 찍어도 돼요? | sajin jjigeodo dwaeyo? | Tôi chụp ảnh được không? (lịch sự) |
 | 조용히 해 주세요 | joyonghi hae juseyo | Xin giữ yên lặng |

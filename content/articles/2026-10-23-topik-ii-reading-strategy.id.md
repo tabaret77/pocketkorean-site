@@ -43,7 +43,7 @@ Kalau satu soal memakan waktu lebih dari dua menit, pilih jawaban terbaikmu, tan
 
 **Mengurutkan kalimat.** Perhatikan kata-kata penghubung. Kalimat yang diawali **그래서** (geuraeseo) – jadi – atau **하지만** (hajiman) – tetapi – tidak mungkin berada di urutan pertama. Kata seperti **이것** (igeot) – ini – juga merujuk ke sesuatu yang sudah disebut sebelumnya.
 
-**Judul berita surat kabar.** Judul berita menghilangkan partikel dan akhiran serta memakai kosakata yang dipadatkan, seperti **급증** (geupjeung) – lonjakan tajam. Pelajari sekumpulan kata yang umum dipakai di judul berita; kata-kata itu muncul lagi dari ujian ke ujian.
+**Judul berita surat kabar.** Judul berita menghilangkan partikel dan akhiran serta memakai kosakata yang dipadatkan, seperti **급증** (geupjjeung [급쯩]) – lonjakan tajam. Pelajari sekumpulan kata yang umum dipakai di judul berita; kata-kata itu muncul lagi dari ujian ke ujian.
 
 **Bagian kosong.** Baca kalimat sebelum dan sesudah bagian kosong. Jawabannya biasanya mengulang atau mengontraskan gagasan yang ada tepat di sebelahnya.
 
@@ -64,7 +64,7 @@ Kalau kamu mengikuti ujian musim gugur ini, lihat panduan kami tentang [level, n
 
 | Korea | Romanisasi | Arti |
 |---|---|---|
-| 읽기 | ilgi | membaca (bagian ujian) |
+| 읽기 | ilkki [일끼] | membaca (bagian ujian) |
 | 지문 | jimun | teks bacaan |
 | 빈칸 | binkan | bagian kosong |
 | 주제 | juje | gagasan utama, topik |

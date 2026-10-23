@@ -30,7 +30,7 @@ Seperti kebanyakan dialog drama antara tokoh yang akrab, kalimat-kalimat ini mem
 
 ## 4. 아직도 화났어? – Kamu masih marah?
 
-**아직도 화났어?** (Ajikdo hwanasseo?) memastikan apakah badai sudah berlalu. **화나다** (hwanada) berarti menjadi marah, dan bentuk lampau 화났어 menggambarkan keadaan sedang marah sekarang. Jawaban ketus yang sering muncul adalah **됐어** (dwaesseo) – "sudahlah" – yang berarti permintaan maafnya masih perlu usaha lebih.
+**아직도 화났어?** (Ajikto hwanasseo? [아직또 화나써?]) memastikan apakah badai sudah berlalu. **화나다** (hwanada) berarti menjadi marah, dan bentuk lampau 화났어 menggambarkan keadaan sedang marah sekarang. Jawaban ketus yang sering muncul adalah **됐어** (dwaesseo) – "sudahlah" – yang berarti permintaan maafnya masih perlu usaha lebih.
 
 ## 5. 화 풀어 – Jangan marah lagi
 
@@ -64,7 +64,7 @@ Permintaan maaf orang Korea yang sebenarnya sering lebih bergantung pada hierark
 | 죄송합니다 | joesonghamnida | Mohon maaf (formal) |
 | 내가 잘못했어 | naega jalmotaesseo | Ini salahku |
 | 내 말 좀 들어 봐 | nae mal jom deureo bwa | Dengarkan aku dulu |
-| 아직도 화났어? | ajikdo hwanasseo? | Kamu masih marah? |
+| 아직도 화났어? | ajikto hwanasseo? [아직또 화나써?] | Kamu masih marah? |
 | 화 풀어 | hwa pureo | Jangan marah lagi |
 | 다시는 안 그럴게 | dasineun an geureolge | Aku nggak akan begitu lagi |
 | 한 번만 봐줘 | han beonman bwajwo | Maafkan sekali ini saja |

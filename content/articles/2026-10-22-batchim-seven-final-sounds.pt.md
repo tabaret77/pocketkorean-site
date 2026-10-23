@@ -41,13 +41,13 @@ A romanização oficial segue o som, não a letra, então os grupos finais de �
 Algumas sílabas têm duas consoantes embaixo, como **닭** ou **값**. Quando estão sozinhas, você pronuncia só uma delas – geralmente a primeira:
 
 - **[값](/pt/dictionary/?q=값)** (gap) – preço → [갑]
-- **앉다** (anda) – sentar → [안따]
-- **없다** (eopda) – não ter → [업따]
+- **앉다** (antta [안따]) – sentar → [안따]
+- **없다** (eopta [업따]) – não ter → [업따]
 
 Algumas comuns usam a segunda letra, principalmente ㄺ e ㄻ:
 
 - **[닭](/pt/dictionary/?q=닭)** (dak) – frango, galinha → [닥]
-- **읽다** (ikda) – ler → [익따]
+- **읽다** (ikta [익따]) – ler → [익따]
 - **삶** (sam) – vida → [삼]
 
 Não tente decorar todas as combinações de uma vez; aprenda a pronúncia junto com cada palavra.

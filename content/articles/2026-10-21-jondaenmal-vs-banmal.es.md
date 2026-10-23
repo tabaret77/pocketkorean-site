@@ -29,7 +29,7 @@ En la mayoría de los casos, el 반말 se forma simplemente quitando el **요** 
 | 네 (ne) | 응 (eung) / 어 (eo) | sí |
 | 아니요 (aniyo) | 아니 (ani) | no |
 | 저 / 제가 (jeo / jega) | 나 / 내가 (na / naega) | yo |
-| 학생이에요 (haksaengieyo) | 학생이야 (haksaengiya) | (yo) soy estudiante |
+| 학생이에요 (hakssaengieyo [학쌩이에요]) | 학생이야 (hakssaengiya [학쌩이야]) | (yo) soy estudiante |
 | 친구예요 (chinguyeyo) | 친구야 (chinguya) | (es) un amigo |
 | 안녕하세요 (annyeonghaseyo) | 안녕 (annyeong) | hola |
 

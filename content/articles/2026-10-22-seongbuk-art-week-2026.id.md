@@ -36,7 +36,7 @@ Museum-museum di sekitarnya juga ikut serta: Museum Seni Kansong mengadakan pame
 
 ## Kenapa ini penting bagi pelajar
 
-집 adalah salah satu kata Korea pertama yang dipelajari kebanyakan orang, dan festival ini menunjukkan betapa banyak makna yang bisa dikandungnya: sebuah bangunan, sebuah keluarga, kenangan. Kamu juga akan menemukannya di dalam kata-kata yang lebih panjang: **한옥집** (hanokjip), rumah hanok; **우리 집** (uri jip), secara harfiah "rumah kami," yang dipakai orang Korea untuk "rumahku"; dan **집순이 / 집돌이** (jipsuni / jipdori), anak rumahan. Kalau kamu berkunjung, cari tulisan **무료** (muryo), gratis, dan **예약** (yeyak), reservasi, pada papan petunjuk – beberapa rumah bersejarah hanya bisa dimasuki dengan pemesanan.
+집 adalah salah satu kata Korea pertama yang dipelajari kebanyakan orang, dan festival ini menunjukkan betapa banyak makna yang bisa dikandungnya: sebuah bangunan, sebuah keluarga, kenangan. Kamu juga akan menemukannya di dalam kata-kata yang lebih panjang: **한옥집** (hanokjjip [하녹찝]), rumah hanok; **우리 집** (uri jip), secara harfiah "rumah kami," yang dipakai orang Korea untuk "rumahku"; dan **집순이 / 집돌이** (jipsuni / jipdori), anak rumahan. Kalau kamu berkunjung, cari tulisan **무료** (muryo), gratis, dan **예약** (yeyak), reservasi, pada papan petunjuk – beberapa rumah bersejarah hanya bisa dimasuki dengan pemesanan.
 
 ## Bahasa Korea dari berita ini
 
@@ -46,7 +46,7 @@ Museum-museum di sekitarnya juga ikut serta: Museum Seni Kansong mengadakan pame
 | 한옥 | hanok | rumah tradisional Korea |
 | [미술관](/id/dictionary/?q=미술관) | misulgwan | museum seni |
 | [전시회](/id/dictionary/?q=전시회) | jeonsihoe | pameran |
-| 작가 | jakga | seniman, pengarang |
+| 작가 | jakka [작까] | seniman, pengarang |
 | 성곽 | seonggwak | tembok kota, tembok benteng |
 | [무료](/id/dictionary/?q=무료) | muryo | gratis |
 | 아버지와 아들 | abeojiwa adeul | ayah dan anak laki-laki |

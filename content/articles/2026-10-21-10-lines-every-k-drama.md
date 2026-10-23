@@ -25,7 +25,7 @@ Most of these lines appear in casual speech (**반말**, banmal), because drama 
 
 ## 3. 무슨 일 있어? – Is something wrong?
 
-**무슨 일 있어?** (Museun il isseo?) means "Did something happen?" and is said when a friend looks upset or quiet. The polite form is **무슨 일 있어요?** (Museun il isseoyo?). The typical deflecting answer: **아무것도 아니야** (Amugeotdo aniya) – "It's nothing."
+**무슨 일 있어?** (Museun il isseo?) means "Did something happen?" and is said when a friend looks upset or quiet. The polite form is **무슨 일 있어요?** (Museun il isseoyo?). The typical deflecting answer: **아무것도 아니야** (Amugeotto aniya [아무걷또 아니야]) – "It's nothing."
 
 ## 4. 잠깐만 – Wait a second
 
@@ -37,7 +37,7 @@ Most of these lines appear in casual speech (**반말**, banmal), because drama 
 
 ## 6. 보고 싶어 – I miss you
 
-**보고 싶어** (Bogo sipeo) literally means "I want to see (you)". In Korean, that's how you say "I miss you." Politely: **보고 싶어요** (Bogo sipeoyo). Grammar note: **-고 싶다** means "want to", so you can also say **먹고 싶어** (meokgo sipeo) – I want to eat.
+**보고 싶어** (Bogo sipeo) literally means "I want to see (you)". In Korean, that's how you say "I miss you." Politely: **보고 싶어요** (Bogo sipeoyo). Grammar note: **-고 싶다** means "want to", so you can also say **먹고 싶어** (meokko sipeo [먹꼬 시퍼]) – I want to eat.
 
 ## 7. 됐어 – Forget it
 

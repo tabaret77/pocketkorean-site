@@ -32,7 +32,7 @@ The series is directed by Park Soo-won, known for *Work Later, Drink Now*, and i
 
 The Korean title is **나를 충전해줘** (nareul chungjeonhaejwo), "Recharge me." [충전](/en/dictionary/?q=충전) (chungjeon) is the everyday word for charging something: your phone, your transit card, your battery. Add **하다** and you get the verb **충전하다** (chungjeonhada), to charge. You will hear it all the time in Korea:
 
-- **배터리가 없어요.** (Baeteoriga eopseoyo.) – My battery is dead.
+- **배터리가 없어요.** (Baeteoriga eopsseoyo. [배터리가 업써요.]) – My battery is dead.
 - **휴대폰 충전 좀 해도 돼요?** (Hyudaepon chungjeon jom haedo dwaeyo?) – Can I charge my phone?
 
 Koreans also use 충전 for people. After a holiday or a good meal, someone might say they have "charged" their energy. That is exactly the double meaning in the title: a man whose heart needs a real battery, and a heart that a person fills up.
@@ -51,7 +51,7 @@ Another useful word from the plot is [심장](/en/dictionary/?q=심장) (simjang
 | 전기 | jeongi | electricity |
 | 재벌 3세 | jaebeol samse | third-generation chaebol heir |
 | 계약 | gyeyak | contract, deal |
-| 웹소설 | wepsoseol | web novel |
+| 웹소설 | wepssoseol [웹쏘설] | web novel |
 | 마음 | maeum | heart, feelings |
 
 A request pattern straight from the title: **충전해 줘** (chungjeonhae jwo) – "Charge it for me." Verb stem + **-아/어 줘** asks someone to do something for you in casual speech; to a stranger, make it polite with **-아/어 주세요**, as in **충전해 주세요** (chungjeonhae juseyo).

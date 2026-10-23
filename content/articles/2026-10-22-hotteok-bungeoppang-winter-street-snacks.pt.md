@@ -33,7 +33,7 @@ Na Coreia, a primeira noite realmente fria do ano tem cheiro: óleo quente, aç�
 
 Os preços variam de barraca para barraca. Em outubro de 2026 não há preço oficial, mas reportagens do inverno passado descreviam o bungeoppang sendo vendido normalmente a cerca de 2.000 wons por três, com algumas barracas cobrando 1.000 wons cada. Os coreanos mais velhos se lembram de três ou até quatro por 1.000 wons.
 
-As barracas também ficaram mais difíceis de achar. Segundo uma reportagem de novembro de 2025, o preço do feijão-vermelho subiu mais de uma vez e meia em um ano, a farinha e o óleo continuaram caros, e o número de vendedores ambulantes em Seul caiu mais de um quinto, de 6.079 em 2020 para 4.741 na contagem mais recente citada. Muitos coreanos agora usam um aplicativo de mapa colaborativo, **가슴속3천원** (gaseumsok samcheonwon), "3.000 wons no meu coração", para encontrar a barraca mais próxima. Existe até uma palavra de brincadeira para quem mora perto de uma: **붕세권** (bungsegwon), um trocadilho com **역세권** (yeoksegwon), "a uma curta caminhada de uma estação".
+As barracas também ficaram mais difíceis de achar. Segundo uma reportagem de novembro de 2025, o preço do feijão-vermelho subiu mais de uma vez e meia em um ano, a farinha e o óleo continuaram caros, e o número de vendedores ambulantes em Seul caiu mais de um quinto, de 6.079 em 2020 para 4.741 na contagem mais recente citada. Muitos coreanos agora usam um aplicativo de mapa colaborativo, **가슴속3천원** (gaseumsok samcheonwon), "3.000 wons no meu coração", para encontrar a barraca mais próxima. Existe até uma palavra de brincadeira para quem mora perto de uma: **붕세권** (bungsegwon), um trocadilho com **역세권** (yeokssegwon [역쎄권]), "a uma curta caminhada de uma estação".
 
 Leve dinheiro ou tenha a opção de transferência bancária à mão: muitas barracas pequenas preferem dinheiro, embora cada vez mais aceitem cartão.
 
@@ -58,7 +58,7 @@ Aponte e use um número com **개** (gae), o classificador geral para coisas:
 | [어묵](/pt/dictionary/?q=어묵) | eomuk | bolinho de peixe |
 | [국물](/pt/dictionary/?q=국물) | gungmul | caldo |
 | [포장](/pt/dictionary/?q=포장) | pojang | embalagem, para viagem |
-| [뜨겁다](/pt/dictionary/?q=뜨겁다) | tteugeopda | estar quente (ao toque) |
+| [뜨겁다](/pt/dictionary/?q=뜨겁다) | tteugeopta [뜨겁따] | estar quente (ao toque) |
 
 **[valor em dinheiro] + 어치 주세요.** – **삼천 원어치 주세요.** (samcheon woneochi juseyo.) – Me dá 3.000 wons, por favor.
 

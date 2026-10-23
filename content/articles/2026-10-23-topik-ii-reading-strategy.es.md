@@ -43,7 +43,7 @@ Si una pregunta te lleva más de dos minutos, elige la mejor respuesta que tenga
 
 **Orden de oraciones.** Fíjate en los conectores. Una oración que empieza con **그래서** (geuraeseo), por eso, o **하지만** (hajiman), pero, no puede ir primero. Palabras como **이것** (igeot), esto, también remiten a algo dicho antes.
 
-**Titulares de periódico.** Los titulares omiten partículas y terminaciones y usan vocabulario condensado, como **급증** (geupjeung), aumento brusco. Aprende un conjunto de palabras comunes de titulares; vuelven a aparecer examen tras examen.
+**Titulares de periódico.** Los titulares omiten partículas y terminaciones y usan vocabulario condensado, como **급증** (geupjjeung [급쯩]), aumento brusco. Aprende un conjunto de palabras comunes de titulares; vuelven a aparecer examen tras examen.
 
 **Espacios en blanco.** Lee la oración anterior y la posterior al espacio. La respuesta suele repetir o contrastar una idea que está justo al lado.
 
@@ -64,7 +64,7 @@ Si vas a presentar el examen este otoño, consulta nuestra guía de [niveles, pu
 
 | Coreano | Romanización | Significado |
 |---|---|---|
-| 읽기 | ilgi | lectura (sección) |
+| 읽기 | ilkki [일끼] | lectura (sección) |
 | 지문 | jimun | texto de lectura |
 | 빈칸 | binkan | espacio en blanco |
 | 주제 | juje | idea principal, tema |

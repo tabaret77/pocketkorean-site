@@ -46,7 +46,7 @@ Kích cỡ khác nhau tùy chuỗi, và nhiều quán nhỏ chỉ có một ho�
 
 Câu trả lời của bạn:
 
-- **먹고 갈게요.** (Meokgo galgeyo.) – Tôi dùng tại đây.
+- **먹고 갈게요.** (Meokko galgeyo. [먹꼬 갈게요.]) – Tôi dùng tại đây.
 - **가져갈게요.** (Gajyeogalgeyo.) – Tôi mang đi.
 - **포장해 주세요.** (Pojanghae juseyo.) – Gói mang đi giúp tôi. Dùng cho cả đồ ăn lẫn đồ uống.
 
@@ -91,7 +91,7 @@ Thường bạn sẽ được đưa một chiếc **진동벨** (jindongbel) –
 |---|---|---|
 | 한 잔 주세요 | han jan juseyo | Cho tôi một ly |
 | 아이스 / 따뜻한 거 | aiseu / ttatteutan geo | đá / nóng |
-| 먹고 갈게요 | meokgo galgeyo | Dùng tại đây |
+| 먹고 갈게요 | meokko galgeyo [먹꼬 갈게요] | Dùng tại đây |
 | [가져갈게요](/vi/dictionary/?q=가져가다) | gajyeogalgeyo | Mang đi |
 | 샷 추가해 주세요 | syat chugahae juseyo | Thêm shot giúp tôi |
 | 시럽 빼 주세요 | sireop ppae juseyo | Không cho siro nhé |

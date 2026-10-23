@@ -62,7 +62,7 @@ Saying no takes a little more care. Koreans rarely give a flat no; they explain 
 
 ## The plan that isn't a plan
 
-One phrase needs a warning: **언제 밥 한번 먹자** (Eonje bap hanbeon meokja) – "Let's grab a meal sometime." It's a friendly goodbye, much like English "We should get coffee sometime", and it often isn't a real invitation. If you want it to happen, follow up with a day: **그럼 다음 주 금요일 어때?** (Geureom daeum ju geumyoil eottae?) – Then how about next Friday?
+One phrase needs a warning: **언제 밥 한번 먹자** (Eonje bap hanbeon meokjja [언제 밥 한번 먹짜]) – "Let's grab a meal sometime." It's a friendly goodbye, much like English "We should get coffee sometime", and it often isn't a real invitation. If you want it to happen, follow up with a day: **그럼 다음 주 금요일 어때?** (Geureom daeum ju geumyoil eottae?) – Then how about next Friday?
 
 ## Korean you can use
 

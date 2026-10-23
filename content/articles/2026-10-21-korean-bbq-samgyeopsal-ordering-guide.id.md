@@ -13,7 +13,7 @@ phrase_meaning: samcan babi panggang
 draft: false
 ---
 
-Restoran BBQ Korea itu ramai, berasap, dan hangat suasananya, tapi bisa membingungkan saat pertama kali datang. Ada panggangan di tengah meja, menu kecil di dinding, dan pegawai yang bergerak cepat. Berikut cara kerja makan malam **삼겹살** (samgyeopsal) – samcan babi – pada umumnya, dan apa yang perlu diucapkan di setiap langkah.
+Restoran BBQ Korea itu ramai, berasap, dan hangat suasananya, tapi bisa membingungkan saat pertama kali datang. Ada panggangan di tengah meja, menu kecil di dinding, dan pegawai yang bergerak cepat. Berikut cara kerja makan malam **삼겹살** (samgyeopssal [삼겹쌀]) – samcan babi – pada umumnya, dan apa yang perlu diucapkan di setiap langkah.
 
 ## Langkah 1: Duduk dan sebutkan jumlah orang
 
@@ -31,7 +31,7 @@ Banyak restoran BBQ menerapkan **minimal dua porsi** untuk pesanan pertama, mesk
 
 Potongan populer lainnya:
 
-- **목살** (moksal) – daging leher/bahu babi, sedikit lebih rendah lemak
+- **목살** (mokssal [목쌀]) – daging leher/bahu babi, sedikit lebih rendah lemak
 - **항정살** (hangjeongsal) – daging pipi babi, gurih dan kenyal
 - **갈비** (galbi) – iga, sering kali dibumbui
 
@@ -45,7 +45,7 @@ Kalau mau minta saja: **상추 좀 더 주세요.** (sangchu jom deo juseyo.) �
 
 ## Langkah 4: Siapa yang memanggang?
 
-Tergantung restorannya. Di beberapa tempat, pegawai yang memanggang dan memotong daging untukmu; di banyak tempat santai, para tamu yang melakukannya. Kalau tidak ada yang datang, berarti itu tugasmu. Pakai **집게** (jipge), penjepit, untuk membalik daging dan **가위** (gawi), gunting, untuk memotongnya seukuran sekali suap setelah kedua sisinya kecokelatan.
+Tergantung restorannya. Di beberapa tempat, pegawai yang memanggang dan memotong daging untukmu; di banyak tempat santai, para tamu yang melakukannya. Kalau tidak ada yang datang, berarti itu tugasmu. Pakai **집게** (jipke [집께]), penjepit, untuk membalik daging dan **가위** (gawi), gunting, untuk memotongnya seukuran sekali suap setelah kedua sisinya kecokelatan.
 
 Tidak yakin sudah matang? Tanyakan **이거 다 익었어요?** (igeo da igeosseoyo?) – "Ini sudah matang?" Saat pelat panggangan menghitam dan lengket, minta **불판 좀 갈아 주세요.** (bulpan jom gara juseyo.) – "Tolong ganti pelat panggangannya."
 
@@ -55,7 +55,7 @@ Tidak yakin sudah matang? Tanyakan **이거 다 익었어요?** (igeo da igeosse
 
 ## Etika minum
 
-BBQ sering ditemani **소주** (soju) atau **맥주** (maekju), bir. Beberapa kebiasaan:
+BBQ sering ditemani **소주** (soju) atau **맥주** (maekjju [맥쭈]), bir. Beberapa kebiasaan:
 
 - Jangan menuang minuman ke gelasmu sendiri; tuangkan untuk orang lain, dan mereka akan menuangkan untukmu.
 - Saat orang yang lebih tua menuangkan untukmu, pegang gelasmu dengan **dua tangan**.
@@ -66,7 +66,7 @@ Tidak ada yang mengharapkan pengunjung melakukan semua ini dengan sempurna, tapi
 
 ## Langkah 6: Tutup seperti orang lokal
 
-Orang Korea sering menutup makan BBQ dengan sesuatu yang mengenyangkan. Coba **된장찌개** (doenjang-jjigae), sup pasta kedelai, dengan **공깃밥** (gonggitbap), semangkuk nasi, atau **볶음밥** (bokkeumbap), nasi goreng yang dibuat di atas panggangan dengan sisa-sisa makanan. Mi dingin, **냉면** (naengmyeon), juga jadi favorit.
+Orang Korea sering menutup makan BBQ dengan sesuatu yang mengenyangkan. Coba **된장찌개** (doenjang-jjigae), sup pasta kedelai, dengan **공깃밥** (gonggitpap [공긷빱]), semangkuk nasi, atau **볶음밥** (bokkeumbap), nasi goreng yang dibuat di atas panggangan dengan sisa-sisa makanan. Mi dingin, **냉면** (naengmyeon), juga jadi favorit.
 
 ## Langkah 7: Bayar di kasir
 

@@ -32,13 +32,13 @@ Satu aturan dulu: semua ini adalah bahasa **santai**. Pakai dengan teman dan di 
 
 **꿀잼** (kkuljaem) – seru banget. **꿀** (kkul) berarti madu, dan **잼** (jaem) berasal dari **재미** (jaemi) – keseruan. Lawannya adalah **노잼** (nojaem) – membosankan, "nggak seru", dari kata Inggris "no" ditambah 잼.
 
-**갑분싸** (gapbunssa) – singkatan dari **갑자기 분위기 싸해짐** (gapjagi bunwigi ssahaejim) – "suasana tiba-tiba jadi dingin". Itulah yang terjadi saat seseorang melontarkan lelucon garing.
+**갑분싸** (gappunssa [갑뿐싸]) – singkatan dari **갑자기 분위기 싸해짐** (gapjjagi bunwigi ssahaejim [갑짜기 부뉘기 싸해짐]) – "suasana tiba-tiba jadi dingin". Itulah yang terjadi saat seseorang melontarkan lelucon garing.
 
 ## Orang dan gaya hidup
 
 **인싸** (inssa) – orang yang populer dan pandai bergaul, dari kata Inggris "insider". Lawannya **아싸** (assa) – penyendiri, dari "outsider". Keduanya santai dan kadang dipakai untuk menertawakan diri sendiri: **저 완전 아싸예요** (Jeo wanjeon assayeyo) – "Aku penyendiri banget."
 
-**갓생** (gatsaeng) – hidup yang produktif dan disiplin. Gabungan kata Inggris "God" dengan **생** (saeng), dari **인생** (insaeng) – hidup. Orang-orang mengunggah konten tentang **갓생 살기** (gatsaeng salgi) – "menjalani hidup level dewa": bangun pagi, belajar, olahraga.
+**갓생** (gatssaeng [갇쌩]) – hidup yang produktif dan disiplin. Gabungan kata Inggris "God" dengan **생** (saeng), dari **인생** (insaeng) – hidup. Orang-orang mengunggah konten tentang **갓생 살기** (gatssaeng salgi [갇쌩 살기]) – "menjalani hidup level dewa": bangun pagi, belajar, olahraga.
 
 **오운완** (ounwan) – singkatan dari **오늘 운동 완료** (oneul undong wallyo) – "olahraga hari ini: selesai". Kamu akan melihatnya sebagai tagar di swafoto di gym.
 
@@ -50,7 +50,7 @@ Satu aturan dulu: semua ini adalah bahasa **santai**. Pakai dengan teman dan di 
 
 **국룰** (gungnul) – "aturan nasional", maksudnya aturan tak tertulis yang diikuti semua orang. Contoh: **치킨엔 콜라가 국룰이지** (Chikinen kollaga gungnuriji) – "Ayam goreng ya sama cola – itu sudah aturannya."
 
-**킹받다** (kingbatda) – kesal banget. Mencampur kata Inggris "king" (berarti sangat) dengan **열받다** (yeolbatda) – marah. Nadanya bercanda, bukan benar-benar marah: **아, 킹받네** (A, kingbanne) – "Ih, nyebelin banget." Santai, tapi tidak kasar.
+**킹받다** (kingbatta [킹받따]) – kesal banget. Mencampur kata Inggris "king" (berarti sangat) dengan **열받다** (yeolbatta [열받따]) – marah. Nadanya bercanda, bukan benar-benar marah: **아, 킹받네** (A, kingbanne) – "Ih, nyebelin banget." Santai, tapi tidak kasar.
 
 **손절** (sonjeol) – memutus hubungan dengan seseorang. Awalnya istilah pasar saham untuk "cut loss", sekarang berarti mengakhiri pertemanan atau hubungan. Bisa terdengar keras, jadi hati-hati saat memakainya tentang orang sungguhan.
 
@@ -60,7 +60,7 @@ Satu aturan dulu: semua ini adalah bahasa **santai**. Pakai dengan teman dan di 
 
 **존맛** (jonmat) atau **존맛탱** (jonmattaeng) – "enak gila". Ada di mana-mana di unggahan makanan, tapi awalan **존-** (jon-) berasal dari kata vulgar. Boleh di antara teman dekat di internet; jangan pernah dipakai dengan orang yang lebih tua atau dalam situasi sopan. Kamu juga akan melihatnya ditulis **JMT**, inisialnya dalam huruf Latin, yang sama kasarnya. Alternatif aman adalah **완전 맛있어요** (wanjeon masisseoyo) – "enak banget".
 
-Awalan **개-** (gae-), seperti dalam **개웃겨** (gaeutgyeo) – "lucu banget" – berarti "sangat". **개** secara harfiah berarti anjing, dan awalan ini kasar. Anak muda sering memakainya di antara teman, tapi kedengarannya kasar bagi banyak pendengar.
+Awalan **개-** (gae-), seperti dalam **개웃겨** (gaeutkyeo [개욷껴]) – "lucu banget" – berarti "sangat". **개** secara harfiah berarti anjing, dan awalan ini kasar. Anak muda sering memakainya di antara teman, tapi kedengarannya kasar bagi banyak pendengar.
 
 ## Bahasa Korea yang bisa kamu pakai
 
@@ -70,9 +70,9 @@ Awalan **개-** (gae-), seperti dalam **개웃겨** (gaeutgyeo) – "lucu banget
 | 헐 | heol | wah, masa sih |
 | 대박 | daebak | keren, gila |
 | 꿀잼 / 노잼 | kkuljaem / nojaem | seru banget / membosankan |
-| [갓생](/id/dictionary/?q=갓생) | gatsaeng | hidup yang produktif |
+| [갓생](/id/dictionary/?q=갓생) | gatssaeng [갇쌩] | hidup yang produktif |
 | 내돈내산 | naedonnaesan | dibeli pakai uang sendiri |
 | 국룰 | gungnul | aturan tak tertulis |
-| [킹받다](/id/dictionary/?q=킹받다) | kingbatda | kesal banget (santai) |
+| [킹받다](/id/dictionary/?q=킹받다) | kingbatta [킹받따] | kesal banget (santai) |
 
 Slang berubah cepat, dan kata yang terasa segar hari ini bisa terdengar ketinggalan zaman dalam satu atau dua tahun. Belajarlah mengenali kata-kata ini, pakai beberapa dengan teman, dan tetap jadikan bahasa Korea standar sebagai pilihan utamamu di tempat lain.

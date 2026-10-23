@@ -54,6 +54,6 @@ K-pop粉丝谈论销量时，会用几个由汉字词词根构成的简短词语
 | 2관왕 | igwanwang | 双冠王 |
 | 기록 | girok | 纪录 |
 
-一个比较数字的句型：**지난 앨범보다 적게 팔렸어요**（jinan aelbeomboda jeokge pallyeosseoyo）——“比上一张专辑卖得少。”名词 + **보다**表示“比”；把**적게**（少）换成**많이**（多），就是相反的意思：**지난 앨범보다 많이 팔렸어요**。
+一个比较数字的句型：**지난 앨범보다 적게 팔렸어요**（jinan aelbeomboda jeokke pallyeosseoyo [지난 앨범보다 적께 팔려써요]）——“比上一张专辑卖得少。”名词 + **보다**表示“比”；把**적게**（少）换成**많이**（多），就是相反的意思：**지난 앨범보다 많이 팔렸어요**。
 
 资料来源：[Sports Kyunghyang – NCT WISH first-week sales, Oct. 20](https://sports.khan.co.kr/en/article/202610200819007/), [The Korea Times – NCT WISH drop "I SPY", Oct. 12](https://www.koreatimes.co.kr/entertainment/k-pop/20261012/nct-wish-drops-new-mini-album-i-spy-ahead-of-landmark-gocheok-sky-dome-concert), [SM Entertainment – "I SPY" music video](https://www.youtube.com/watch?v=xIlFjHHUfI0)

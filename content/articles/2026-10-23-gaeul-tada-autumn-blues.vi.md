@@ -54,7 +54,7 @@ Vậy nên nếu bạn Hàn cứ mở cửa sổ trong khi bạn đang run cầm
 Nếu 가을 타다 chưa đủ cụ thể, những từ sau giúp bạn diễn tả cảm giác:
 
 - **쓸쓸하다** (sseulsseulhada) – cô quạnh, hiu hắt (một từ hoàn hảo cho mùa thu)
-- **[외롭다](/vi/dictionary/?q=외롭다)** (oeropda) – cô đơn
+- **[외롭다](/vi/dictionary/?q=외롭다)** (oeropta [외롭따]) – cô đơn
 - **우울하다** (uulhada) – trầm uất, u sầu
 - **기분이 가라앉다** (gibuni garaanda) – tâm trạng chùng xuống (nghĩa đen "tâm trạng chìm xuống")
 
@@ -68,7 +68,7 @@ Nếu 가을 타다 chưa đủ cụ thể, những từ sau giúp bạn diễn 
 | 추위를 타다 | chuwireul tada | dễ bị lạnh |
 | 더위를 타다 | deowireul tada | chịu nóng kém |
 | 쓸쓸하다 | sseulsseulhada | cô quạnh, hiu hắt |
-| 외롭다 | oeropda | cô đơn |
+| 외롭다 | oeropta [외롭따] | cô đơn |
 | 산책하다 | sanchaekada | đi dạo |
 
 Cấu trúc hữu ích: **요즘 가을 타나 봐요.** (Yojeum gaeul tana bwayo.) – Dạo này hình như tôi bị tâm trạng mùa thu ảnh hưởng. Đổi thành **추위를 타나 봐요** (chuwireul tana bwayo) khi thứ làm bạn khó chịu là cái lạnh chứ không phải mùa.

@@ -45,7 +45,7 @@ draft: false
 |---|---|---|
 | 치킨 | chikin | жареная курица |
 | 치맥 | chimaek | курица и пиво |
-| [맥주](/ru/dictionary/?q=맥주) | maekju | пиво |
+| [맥주](/ru/dictionary/?q=맥주) | maekjju [맥쭈] | пиво |
 | 양념 | yangnyeom | приправа; курица в соусе |
 | 반반 | banban | половина на половину |
 | 순살 | sunsal | без костей |

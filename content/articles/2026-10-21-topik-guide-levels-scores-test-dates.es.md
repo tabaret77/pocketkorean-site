@@ -96,8 +96,8 @@ Las demás convocatorias en papel y por computadora se celebrarán en Corea y en
 | 급 | geup | nivel, grado |
 | 듣기 / 읽기 / 쓰기 | deutgi / ilgi / sseugi | comprensión auditiva / comprensión lectora / expresión escrita |
 | 말하기 | malhagi | expresión oral |
-| [접수](/es/dictionary/?q=접수) | jeopsu | inscripción, solicitud |
+| [접수](/es/dictionary/?q=접수) | jeopssu [접쑤] | inscripción, solicitud |
 | 성적 | seongjeok | puntuación, resultados |
-| 합격했어요! | hapgyeokhaesseoyo! | ¡Aprobé! |
+| 합격했어요! | hapkyeokhaesseoyo! [합껴캐써요!] | ¡Aprobé! |
 
 Sea cual sea el nivel al que aspires, practica con exámenes anteriores y con el tiempo cronometrado. Conocer el formato es la mitad de la batalla, y la otra mitad es mucho coreano del día a día.

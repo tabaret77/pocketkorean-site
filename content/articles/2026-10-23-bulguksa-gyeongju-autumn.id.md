@@ -56,6 +56,6 @@ Gyeongju adalah kota kecil yang nyaman dijelajahi dengan berjalan kaki, dan situ
 | [주차장](/id/dictionary/?q=주차장) | juchajang | tempat parkir |
 | [단풍](/id/dictionary/?q=단풍) | danpung | daun musim gugur |
 
-**석굴암까지 얼마나 걸려요?** (seokguramkkaji eolmana geollyeoyo?) – Berapa lama untuk sampai ke Seokguram? Ganti dengan tempat mana pun sebelum **까지** (kkaji), "sampai", misalnya **역까지** (yeokkkaji), "sampai ke stasiun".
+**석굴암까지 얼마나 걸려요?** (seokkuramkkaji eolmana geollyeoyo? [석꾸람까지 얼마나 걸려요?]) – Berapa lama untuk sampai ke Seokguram? Ganti dengan tempat mana pun sebelum **까지** (kkaji), "sampai", misalnya **역까지** (yeokkkaji), "sampai ke stasiun".
 
 Sumber: [Financial News – peta dedaunan musim gugur 2026 (bahasa Korea)](https://www.fnnews.com/news/202610080943468392), [K Trip Tips – Bulguksa (bahasa Korea)](https://www.ktriptips.com/kor/tourspot/126166), [Telltrip – panduan kunjungan Bulguksa (bahasa Korea)](https://www.telltrip.com/domestic-travel/bulguksa-winter-snow-sceneries-gyeongju/), [South Korea Hallyu – panduan Bulguksa](https://southkoreahallyu.com/bulguksa-temple-gyeongju/), [iVisitKorea – hal yang bisa dilakukan di Gyeongju](https://www.ivisitkorea.com/things-to-do-in-gyeongju/)

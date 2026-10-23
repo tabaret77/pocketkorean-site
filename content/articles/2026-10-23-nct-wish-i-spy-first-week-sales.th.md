@@ -54,6 +54,6 @@ NCT WISH เดบิวต์ในปี 2024 ในฐานะยูนิ�
 | 2관왕 | igwanwang | มงกุฎคู่ |
 | 기록 | girok | สถิติ |
 
-รูปประโยคสำหรับเปรียบเทียบตัวเลข: **지난 앨범보다 적게 팔렸어요** (jinan aelbeomboda jeokge pallyeosseoyo) – "ขายได้น้อยกว่าอัลบั้มที่แล้ว" คำนาม + **보다** แปลว่า "กว่า" เปลี่ยน **적게** (น้อยกว่า) เป็น **많이** (มากกว่า) เพื่อพูดความหมายตรงข้าม: **지난 앨범보다 많이 팔렸어요**
+รูปประโยคสำหรับเปรียบเทียบตัวเลข: **지난 앨범보다 적게 팔렸어요** (jinan aelbeomboda jeokke pallyeosseoyo [지난 앨범보다 적께 팔려써요]) – "ขายได้น้อยกว่าอัลบั้มที่แล้ว" คำนาม + **보다** แปลว่า "กว่า" เปลี่ยน **적게** (น้อยกว่า) เป็น **많이** (มากกว่า) เพื่อพูดความหมายตรงข้าม: **지난 앨범보다 많이 팔렸어요**
 
 แหล่งที่มา: [Sports Kyunghyang – ยอดขายสัปดาห์แรกของ NCT WISH, 20 ต.ค.](https://sports.khan.co.kr/en/article/202610200819007/), [The Korea Times – NCT WISH ปล่อย «I SPY», 12 ต.ค.](https://www.koreatimes.co.kr/entertainment/k-pop/20261012/nct-wish-drops-new-mini-album-i-spy-ahead-of-landmark-gocheok-sky-dome-concert), [SM Entertainment – มิวสิกวิดีโอ «I SPY»](https://www.youtube.com/watch?v=xIlFjHHUfI0)

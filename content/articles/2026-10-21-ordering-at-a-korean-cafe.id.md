@@ -46,7 +46,7 @@ Ini pertanyaan yang sering bikin bingung:
 
 Jawabanmu:
 
-- **먹고 갈게요.** (Meokgo galgeyo.) – Di sini saja.
+- **먹고 갈게요.** (Meokko galgeyo. [먹꼬 갈게요.]) – Di sini saja.
 - **가져갈게요.** (Gajyeogalgeyo.) – Dibawa pulang.
 - **포장해 주세요.** (Pojanghae juseyo.) – Tolong dibungkus. Umum dipakai untuk makanan maupun minuman.
 
@@ -91,7 +91,7 @@ Sering kali kamu akan diberi **진동벨** (jindongbel) – bel getar – yang b
 |---|---|---|
 | 한 잔 주세요 | han jan juseyo | Satu gelas, ya |
 | 아이스 / 따뜻한 거 | aiseu / ttatteutan geo | dingin / panas |
-| 먹고 갈게요 | meokgo galgeyo | Di sini saja |
+| 먹고 갈게요 | meokko galgeyo [먹꼬 갈게요] | Di sini saja |
 | [가져갈게요](/id/dictionary/?q=가져가다) | gajyeogalgeyo | Dibawa pulang |
 | 샷 추가해 주세요 | syat chugahae juseyo | Tambah shot, ya |
 | 시럽 빼 주세요 | sireop ppae juseyo | Tanpa sirup, ya |

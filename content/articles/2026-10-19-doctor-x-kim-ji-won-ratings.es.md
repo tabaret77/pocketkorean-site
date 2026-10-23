@@ -31,7 +31,7 @@ En el episodio 4, Su-jeong salva a un paciente que necesita una transfusión urg
 
 ## Por qué importa a quienes estudian coreano
 
-Los dramas médicos son una gran manera de aprender coreano práctico. Palabras como [병원](/es/dictionary/?q=병원) (byeongwon), hospital; **응급실** (eungeupsil), sala de urgencias, y **수술** (susul), cirugía, aparecen en todos los episodios, y te serán igual de útiles si alguna vez necesitas un médico en Corea. Fíjate en el habla cortés y formal entre médicos y pacientes, y en el habla informal, mucho más brusca, entre rivales.
+Los dramas médicos son una gran manera de aprender coreano práctico. Palabras como [병원](/es/dictionary/?q=병원) (byeongwon), hospital; **응급실** (eungeupssil [응급씰]), sala de urgencias, y **수술** (susul), cirugía, aparecen en todos los episodios, y te serán igual de útiles si alguna vez necesitas un médico en Corea. Fíjate en el habla cortés y formal entre médicos y pacientes, y en el habla informal, mucho más brusca, entre rivales.
 
 ## Coreano de esta noticia
 
@@ -41,7 +41,7 @@ Los dramas médicos son una gran manera de aprender coreano práctico. Palabras 
 | 최고 시청률 | choego sicheongnyul | audiencia más alta (hasta ahora) |
 | 첫 방송 | cheot bangsong | estreno, primera emisión |
 | 병원 | byeongwon | hospital |
-| 응급실 | eungeupsil | sala de urgencias |
+| 응급실 | eungeupssil [응급씰] | sala de urgencias |
 | 수술 | susul | cirugía, operación |
 | 외과 의사 | oegwa uisa | cirujano |
 

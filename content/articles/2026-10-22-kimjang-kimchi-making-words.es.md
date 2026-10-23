@@ -19,7 +19,7 @@ Cuando el aire se enfría en Corea, los mercados se llenan de pilas de coles y c
 Un día típico de kimjang sigue los mismos pasos, y cada uno tiene su propio verbo:
 
 1. **절이다** (jeorida): salar. Las coles partidas a la mitad se remojan en salmuera o se espolvorean con sal para que se ablanden. Muchas familias compran ahora col ya salada, **절임배추** (jeorimbaechu), para ahorrarse un día de trabajo.
-2. **[씻다](/es/dictionary/?q=씻다)** (ssitda): lavar. La col salada se enjuaga y se escurre.
+2. **[씻다](/es/dictionary/?q=씻다)** (ssitta [씯따]): lavar. La col salada se enjuaga y se escurre.
 3. **양념을 만들다** (yangnyeomeul mandeulda): preparar el aderezo: chile en hojuelas, ajo, jengibre, salsa de pescado, rábano rallado y cebollín.
 4. **[버무리다](/es/dictionary/?q=버무리다)** (beomurida): mezclar y untar. Todos se sientan alrededor de una tina grande, con guantes de hule, y untan el relleno rojo entre cada hoja.
 5. **[담그다](/es/dictionary/?q=담그다)** (damgeuda): preparar (kimchi, encurtidos). El kimchi terminado se guarda en recipientes, a menudo en un refrigerador especial para kimchi.
@@ -36,11 +36,11 @@ Luego viene la mejor parte: comer cerdo hervido envuelto en kimchi fresco, reci�
 | 배추 | baechu | col china |
 | 무 | mu | rábano coreano |
 | 소금 | sogeum | sal |
-| 고춧가루 | gochutgaru | chile rojo en hojuelas |
+| 고춧가루 | gochutkaru [고춛까루] | chile rojo en hojuelas |
 | 마늘 | maneul | ajo |
 | 생강 | saenggang | jengibre |
 | 파 | pa | cebollín |
-| 젓갈 | jeotgal | mariscos salados y fermentados |
+| 젓갈 | jeotkal [젇깔] | mariscos salados y fermentados |
 | 새우젓 | saeujeot | camarón salado |
 | 양념 | yangnyeom | aderezo, salsa |
 | 속 | sok | relleno (que va entre las hojas) |
@@ -48,11 +48,11 @@ Luego viene la mejor parte: comer cerdo hervido envuelto en kimchi fresco, reci�
 | 고무장갑 | gomujanggap | guantes de hule |
 | 김치냉장고 | gimchinaengjanggo | refrigerador para kimchi |
 | 수육 | suyuk | rebanadas de cerdo hervido |
-| 깍두기 | kkakdugi | kimchi de rábano en cubos |
+| 깍두기 | kkaktugi [깍뚜기] | kimchi de rábano en cubos |
 | 담그다 | damgeuda | preparar (kimchi) |
 | 절이다 | jeorida | salar |
 | 버무리다 | beomurida | mezclar y untar |
-| 익다 | ikda | madurar, fermentar |
+| 익다 | ikta [익따] | madurar, fermentar |
 | 나누다 | nanuda | compartir |
 
 ## Cuidado con la pronunciación
@@ -61,16 +61,16 @@ Algunas de estas palabras no suenan como se escriben:
 
 - **고춧가루** se pronuncia [고추까루]: la ㅅ del medio vuelve tensa la ㄱ: "go-chu-kka-ru".
 - **젓갈** se pronuncia [젇깔]: la ㅅ final suena como una t, y la ㄱ que sigue se vuelve tensa: "jeot-kkal".
-- **익다** se pronuncia [익따] (ikda), y en **익었어요** (igeosseoyo), ya está maduro, la ㄱ se enlaza con la sílaba siguiente.
+- **익다** se pronuncia [익따] (ikta), y en **익었어요** (igeosseoyo), ya está maduro, la ㄱ se enlaza con la sílaba siguiente.
 
 ## Palabras de sabor
 
 El kimjang también es el momento en que todos opinan sobre el sabor. Oirás:
 
-- **맵다** (maepda): ser picante → **좀 매워요** (jom maewoyo): pica un poco
+- **맵다** (maepta [맵따]): ser picante → **좀 매워요** (jom maewoyo): pica un poco
 - **짜다** (jjada): ser salado → **너무 짜요** (neomu jjayo): está demasiado salado
-- **싱겁다** (singgeopda): estar soso, sin suficiente sal → **좀 싱거워요** (jom singgeowoyo)
-- **맛있다** (masitda): estar delicioso → **진짜 맛있어요!** (jinjja masisseoyo!)
+- **싱겁다** (singgeopta [싱겁따]): estar soso, sin suficiente sal → **좀 싱거워요** (jom singgeowoyo)
+- **맛있다** (masitta [마싣따]): estar delicioso → **진짜 맛있어요!** (jinjja masisseoyo!)
 
 **맵다** y **싱겁다** son verbos irregulares en ㅂ, así que la ㅂ se convierte en 우: 매워요, 싱거워요.
 

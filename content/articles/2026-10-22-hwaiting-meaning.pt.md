@@ -51,7 +51,7 @@ Os coreanos também dizem a palavra com o punho erguido, muitas vezes com as dua
 
 ## Extras da temporada do Suneung
 
-Perto da prova você vai ouvir mais algumas frases. **수능 대박 나세요!** (Suneung daebak naseyo!) deseja a alguém um resultado "estrondoso". Familiares e amigos dão aos estudantes comidas grudentas como **엿** (yeot), um caramelo puxa-puxa, ou **찹쌀떡** (chapssaltteok), bolinho de arroz glutinoso, porque **붙다** (butda) significa tanto "grudar" quanto "passar numa prova". O desejo é **꼭 붙어라!** (Kkok buteora!) – "Passa, hein!"
+Perto da prova você vai ouvir mais algumas frases. **수능 대박 나세요!** (Suneung daebak naseyo!) deseja a alguém um resultado "estrondoso". Familiares e amigos dão aos estudantes comidas grudentas como **엿** (yeot), um caramelo puxa-puxa, ou **찹쌀떡** (chapssaltteok), bolinho de arroz glutinoso, porque **붙다** (butta [붇따]) significa tanto "grudar" quanto "passar numa prova". O desejo é **꼭 붙어라!** (Kkok buteora!) – "Passa, hein!"
 
 ## Coreano para usar
 

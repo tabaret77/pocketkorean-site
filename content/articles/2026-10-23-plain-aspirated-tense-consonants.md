@@ -54,9 +54,9 @@ With Halloween around the corner, **탈** is a good word to remember. It's the w
 
 Sometimes a plain letter is pronounced tense even though it's written plain. This happens after a final ㄱ, ㄷ or ㅂ sound:
 
-- **학교** (hakgyo) – school → [학꾜]
-- **식당** (sikdang) – restaurant → [식땅]
-- **입구** (ipgu) – entrance → [입꾸]
+- **학교** (hakkyo [학꾜]) – school → [학꾜]
+- **식당** (siktang [식땅]) – restaurant → [식땅]
+- **입구** (ipku [입꾸]) – entrance → [입꾸]
 
 Revised Romanization doesn't show this tensing inside a word, so you read "hakgyo" but say something closer to "hak-kyo". The spelling stays plain; only the sound changes.
 

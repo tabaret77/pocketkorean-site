@@ -28,7 +28,7 @@ Theo dự báo năm 2026 của Cục Lâm nghiệp Hàn Quốc (Korea Forest Ser
 
 Phần lớn cả nước, bao gồm đồi núi và cung điện ở Seoul, đạt đỉnh vào **cuối tháng 10 đến đầu tháng 11**. Cây ngân hạnh, được trồng dọc nhiều con phố ở Seoul, chuyển sang vàng rực vào khoảng cùng thời điểm.
 
-Ở Seoul, **Lễ hội cỏ lau bạc Seoul** – **서울억새축제** (Seoul eoksae chukje) – diễn ra tại công viên Haneul trong khu World Cup Park đến hết **ngày 23/10/2026**, mở cửa 10:00–21:00. **억새** (eoksae) là cỏ lau bạc, và những cánh đồng trên đỉnh đồi rực sáng lúc hoàng hôn.
+Ở Seoul, **Lễ hội cỏ lau bạc Seoul** – **서울억새축제** (Seoul eoksae chukje) – diễn ra tại công viên Haneul trong khu World Cup Park đến hết **ngày 23/10/2026**, mở cửa 10:00–21:00. **억새** (eokssae [억쌔]) là cỏ lau bạc, và những cánh đồng trên đỉnh đồi rực sáng lúc hoàng hôn.
 
 ## Tháng 11: pháo hoa, kimchi và kỳ thi lớn
 
@@ -61,7 +61,7 @@ Tháng 12 mang đến **연말** (yeonmal), mùa cuối năm, với những bữ
 | Tiếng Hàn | Phiên âm | Nghĩa |
 |---|---|---|
 | [단풍](/vi/dictionary/?q=단풍) | danpung | lá mùa thu |
-| [축제](/vi/dictionary/?q=축제) | chukje | lễ hội |
+| [축제](/vi/dictionary/?q=축제) | chukjje [축쩨] | lễ hội |
 | 불꽃놀이 | bulkkonnori | bắn pháo hoa |
 | [김장](/vi/dictionary/?q=김장) | gimjang | muối kimchi cho mùa đông |
 | 첫눈 | cheonnun | trận tuyết đầu mùa |

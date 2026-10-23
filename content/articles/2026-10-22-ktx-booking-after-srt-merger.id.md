@@ -35,7 +35,7 @@ Kereta akhir pekan di rute populer, terutama Jumat malam dan Minggu sore, tetap 
 
 1. **Pilih tempat memesan.** Wisatawan bisa memakai situs pemesanan berbahasa Inggris dari Korail untuk penumpang asing (Let's Korail) atau aplikasi Korail+.
 2. **Cari** stasiun keberangkatan, **출발** (chulbal), dan stasiun tujuan, **도착** (dochak), serta tanggalnya.
-3. **Pilih kelas kursi.** **일반실** (ilbansil) adalah kelas standar; **특실** (teuksil) adalah kelas satu, dengan kursi lebih lebar. Kalau kursi sudah habis, mungkin ditawarkan **입석** (ipseok), tiket berdiri.
+3. **Pilih kelas kursi.** **일반실** (ilbansil) adalah kelas standar; **특실** (teukssil [특씰]) adalah kelas satu, dengan kursi lebih lebar. Kalau kursi sudah habis, mungkin ditawarkan **입석** (ipsseok [입썩]), tiket berdiri.
 4. **Bayar dan simpan tiketnya** di ponselmu. Tidak perlu dicetak; petugas memeriksa tiket di dalam kereta.
 5. **Temukan gerbongmu.** Tiketmu menunjukkan nomor gerbong, **호차** (hocha), dan nomor kursi. Peron diberi tanda nomor gerbong, jadi berdirilah di titik yang tepat sebelum kereta tiba.
 

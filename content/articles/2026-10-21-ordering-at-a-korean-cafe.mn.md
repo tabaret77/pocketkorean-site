@@ -46,7 +46,7 @@ draft: false
 
 Таны хариулт:
 
-- **먹고 갈게요.** (Meokgo galgeyo.) – Энд ууна.
+- **먹고 갈게요.** (Meokko galgeyo. [먹꼬 갈게요.]) – Энд ууна.
 - **가져갈게요.** (Gajyeogalgeyo.) – Авч явна.
 - **포장해 주세요.** (Pojanghae juseyo.) – Авч явахаар савлаж өгөөч. Хоол, ундааны аль алинд түгээмэл.
 
@@ -91,7 +91,7 @@ draft: false
 |---|---|---|
 | 한 잔 주세요 | han jan juseyo | Нэг аяга өгөөч |
 | 아이스 / 따뜻한 거 | aiseu / ttatteutan geo | мөстэй / халуун |
-| 먹고 갈게요 | meokgo galgeyo | Энд ууна |
+| 먹고 갈게요 | meokko galgeyo [먹꼬 갈게요] | Энд ууна |
 | [가져갈게요](/mn/dictionary/?q=가져가다) | gajyeogalgeyo | Авч явна |
 | 샷 추가해 주세요 | syat chugahae juseyo | Нэмэлт шот хийж өгөөч |
 | 시럽 빼 주세요 | sireop ppae juseyo | Сироп хийхгүй байгаарай |

@@ -13,7 +13,7 @@ thumb: /media/covers/korean-phrases-pharmacy-clinic-p1-t.jpg
 draft: false
 ---
 
-韩国的深秋带来干燥的空气、清冷的早晨和第一波感冒。求助很方便：药店，即**[약국](/zh-cn/dictionary/?q=약국)**（yakguk），几乎每条街都有，标志是一个大大的绿色或红色**약**（yak），“药”字；街坊里的小诊所也不用预约，直接去就能看。几句简短的话就能帮你解决大部分问题。下面这些句子都用礼貌的**-요**（-yo）结尾。
+韩国的深秋带来干燥的空气、清冷的早晨和第一波感冒。求助很方便：药店，即**[약국](/zh-cn/dictionary/?q=약국)**（yakkuk [약꾹]），几乎每条街都有，标志是一个大大的绿色或红色**약**（yak），“药”字；街坊里的小诊所也不用预约，直接去就能看。几句简短的话就能帮你解决大部分问题。下面这些句子都用礼貌的**-요**（-yo）结尾。
 
 ## 你只需要这一个句型
 
@@ -42,11 +42,11 @@ draft: false
 
 感冒或小伤，韩国人会去小诊所，即**[의원](/zh-cn/dictionary/?q=의원)**（uiwon），诊所通常以专科命名：**내과**（naegwa）是内科，**이비인후과**（ibiinhugwa）是耳鼻喉科。较大的医院，**[병원](/zh-cn/dictionary/?q=병원)**（byeongwon），则用于看重病。
 
-7. **진료 받고 싶어요.**（jillyo batgo sipeoyo.）——我想看医生。
+7. **진료 받고 싶어요.**（jillyo batko sipeoyo. [질료 받꼬 시퍼요.]）——我想看医生。
 8. **처음 왔어요.**（cheoeum wasseoyo.）——我是第一次来。*前台会要你出示护照或外国人登录证（居留卡）。*
 9. **영어 하는 의사 선생님 있어요?**（yeongeo haneun uisa seonsaengnim isseoyo?）——有会说英语的医生吗？
 10. **여기가 아파요.**（yeogiga apayo.）——这里疼。*用手指一下疼的地方。*
-11. **보험이 없어요.**（boheomi eopseoyo.）——我没有（韩国的）保险。
+11. **보험이 없어요.**（boheomi eopsseoyo. [보허미 업써요.]）——我没有（韩国的）保险。
 12. **처방전 주세요.**（cheobangjeon juseyo.）——请给我处方。*诊所会开处方，即**[처방전](/zh-cn/dictionary/?q=처방전)**（cheobangjeon），你拿着它去药店买药，药店往往就在同一栋楼里。*
 13. **진단서 받을 수 있어요?**（jindanseo badeul su isseoyo?）——可以给我开诊断书吗？*申请旅行保险理赔时很有用。*
 
@@ -62,7 +62,7 @@ draft: false
 
 | 韩语 | 罗马音 | 意思 |
 |---|---|---|
-| [약국](/zh-cn/dictionary/?q=약국) | yakguk | 药店 |
+| [약국](/zh-cn/dictionary/?q=약국) | yakkuk [약꾹] | 药店 |
 | [약](/zh-cn/dictionary/?q=약) | yak | 药 |
 | [감기](/zh-cn/dictionary/?q=감기) | gamgi | 感冒 |
 | [열](/zh-cn/dictionary/?q=열) | yeol | 发烧，热度 |

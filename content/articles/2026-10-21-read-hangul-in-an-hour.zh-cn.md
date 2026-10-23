@@ -105,7 +105,7 @@ draft: false
 | 자음 | jaeum | 辅音 |
 | 모음 | moeum | 元音 |
 | 받침 | batchim | 收音（末尾辅音） |
-| [읽다](/zh-cn/dictionary/?q=읽다) | ikda | 读 |
+| [읽다](/zh-cn/dictionary/?q=읽다) | ikta [익따] | 读 |
 | 이거 어떻게 읽어요? | igeo eotteoke ilgeoyo? | 这个怎么读？ |
 
 一旦掌握了方块的拼法，你遇到的每个韩语单词都能大声读出来，这才是学韩语真正的开始。

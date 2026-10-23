@@ -48,9 +48,9 @@ NMIXX 回歸了，而且來勢洶洶。這個 JYP Entertainment 旗下的女團�
 | 생일 | saengil | 生日 |
 | 달 | dal | 月亮 |
 | 타이틀곡 | taiteulgok | 主打歌 |
-| 수록곡 | surokgok | 收錄曲 |
-| 작사 | jaksa | 作詞 |
-| 작곡 | jakgok | 作曲 |
+| 수록곡 | surokkok [수록꼭] | 收錄曲 |
+| 작사 | jakssa [작싸] | 作詞 |
+| 작곡 | jakkok [작꼭] | 作曲 |
 | 앙코르 콘서트 | angkoreu konseoteu | 安可演唱會 |
 
 一個許願時很好用的句型：**건강하면 좋겠어요**（geonganghamyeon jokesseoyo）——「希望（我們）都健健康康。」動詞語幹 + **-(으)면 좋겠어요** 表示「希望……／如果……就好了」——成員們說，健康是她們對自己和粉絲最大的願望。

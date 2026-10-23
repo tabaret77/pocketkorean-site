@@ -30,7 +30,7 @@ draft: false
 
 ## 4. 아직도 화났어?——你还在生气吗？
 
-**아직도 화났어?**（Ajikdo hwanasseo?）是在确认风暴是否已经过去。**화나다**（hwanada）意思是生气，过去式화났어描述的是现在正处于生气的状态。对方赌气时常回答**됐어**（dwaesseo）——“算了”——意思是这次道歉还得再加把劲。
+**아직도 화났어?**（Ajikto hwanasseo? [아직또 화나써?]）是在确认风暴是否已经过去。**화나다**（hwanada）意思是生气，过去式화났어描述的是现在正处于生气的状态。对方赌气时常回答**됐어**（dwaesseo）——“算了”——意思是这次道歉还得再加把劲。
 
 ## 5. 화 풀어——别生气了
 
@@ -64,7 +64,7 @@ draft: false
 | 죄송합니다 | joesonghamnida | 对不起（正式） |
 | 내가 잘못했어 | naega jalmotaesseo | 是我错了 |
 | 내 말 좀 들어 봐 | nae mal jom deureo bwa | 你先听我说 |
-| 아직도 화났어? | ajikdo hwanasseo? | 你还在生气吗？ |
+| 아직도 화났어? | ajikto hwanasseo? [아직또 화나써?] | 你还在生气吗？ |
 | 화 풀어 | hwa pureo | 别生气了 |
 | 다시는 안 그럴게 | dasineun an geureolge | 我再也不会这样了 |
 | 한 번만 봐줘 | han beonman bwajwo | 就饶我这一次吧 |

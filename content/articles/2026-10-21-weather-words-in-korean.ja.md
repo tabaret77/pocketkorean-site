@@ -34,7 +34,7 @@ draft: false
 | 날씨 | nalssi | 天気 |
 | 일기 예보 | ilgi yebo | 天気予報 |
 | 기온 | gion | 気温 |
-| 맑다 | makda | 晴れている |
+| 맑다 | makta [막따] | 晴れている |
 | 흐리다 | heurida | 曇っている |
 | 구름 | gureum | 雲 |
 | 해 / 햇빛 | hae / haetbit | 太陽／日差し |
@@ -47,8 +47,8 @@ draft: false
 | 천둥 / 번개 | cheondung / beongae | 雷（の音）／稲妻 |
 | 안개 | angae | 霧 |
 | 무지개 | mujigae | 虹 |
-| 덥다 | deopda | 暑い（天気） |
-| 춥다 | chupda | 寒い（天気） |
+| 덥다 | deopta [덥따] | 暑い（天気） |
+| 춥다 | chupta [춥따] | 寒い（天気） |
 | 따뜻하다 | ttatteutada | 暖かい |
 | 시원하다 | siwonhada | 涼しい、さわやかだ |
 | 쌀쌀하다 | ssalssalhada | 肌寒い |
@@ -70,8 +70,8 @@ draft: false
 **夏（여름、yeoreum）**
 
 - **너무 더워요!**（Neomu deowoyo!）＝すごく暑いです！
-- **장마가 시작됐어요.**（Jangmaga sijakdwaesseoyo.）＝梅雨に入りました。
-- **갑자기 소나기가 왔어요.**（Gapjagi sonagiga wasseoyo.）＝突然にわか雨が降ってきました。
+- **장마가 시작됐어요.**（Jangmaga sijaktwaesseoyo. [장마가 시작뙈써요.]）＝梅雨に入りました。
+- **갑자기 소나기가 왔어요.**（Gapjjagi sonagiga wasseoyo. [갑짜기 소나기가 와써요.]）＝突然にわか雨が降ってきました。
 
 **장마**は夏の雨季で、たいてい6月下旬に始まります。暑くてじめじめした日が続くので、**습해요**（seupaeyo）＝湿気が多いです、を何度も使うことになるでしょう。
 

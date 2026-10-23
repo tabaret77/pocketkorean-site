@@ -38,9 +38,9 @@ Se for viajar nesse dia, espere ruas tranquilas pela manhã e uma possível muda
 
 ## Presentes grudentos e sopa escorregadia
 
-Muitos costumes se baseiam em trocadilhos. Em coreano, passar numa prova de admissão é "grudar" numa universidade: **붙다** (butda). Por isso, os presentes clássicos de boa sorte são grudentos: **[엿](/pt/dictionary/?q=엿)** (yeot), um caramelo tradicional puxa-puxa, e **[찹쌀떡](/pt/dictionary/?q=찹쌀떡)** (chapssaltteok), bolinhos de arroz glutinoso. Algumas pessoas dão um garfo, para "espetar" a resposta certa, ou lenços de papel, para "resolver" as questões sem tropeços. Hoje, chocolate, vales-presente e vitaminas são igualmente populares.
+Muitos costumes se baseiam em trocadilhos. Em coreano, passar numa prova de admissão é "grudar" numa universidade: **붙다** (butta [붇따]). Por isso, os presentes clássicos de boa sorte são grudentos: **[엿](/pt/dictionary/?q=엿)** (yeot), um caramelo tradicional puxa-puxa, e **[찹쌀떡](/pt/dictionary/?q=찹쌀떡)** (chapssaltteok), bolinhos de arroz glutinoso. Algumas pessoas dão um garfo, para "espetar" a resposta certa, ou lenços de papel, para "resolver" as questões sem tropeços. Hoje, chocolate, vales-presente e vitaminas são igualmente populares.
 
-Pelo mesmo motivo, os estudantes evitam **[미역국](/pt/dictionary/?q=미역국)** (miyeokguk), sopa de algas, no dia da prova. A alga escorregadia lembra escorregar, ou seja, ser reprovado.
+Pelo mesmo motivo, os estudantes evitam **[미역국](/pt/dictionary/?q=미역국)** (miyeokkuk [미역꾹]), sopa de algas, no dia da prova. A alga escorregadia lembra escorregar, ou seja, ser reprovado.
 
 Na própria manhã, alunos mais novos se reúnem nos portões das escolas com faixas e gritos de guerra para **[응원](/pt/dictionary/?q=응원)** (eungwon), torcer por, seus veteranos, enquanto muitos pais vão a templos e igrejas rezar durante o horário da prova.
 
@@ -51,12 +51,12 @@ Na própria manhã, alunos mais novos se reúnem nos portões das escolas com fa
 | 수능 | suneung | vestibular nacional |
 | 수험생 | suheomsaeng | candidato, vestibulando |
 | [시험](/pt/dictionary/?q=시험) | siheom | prova, exame |
-| 붙다 | butda | grudar; passar numa prova |
+| 붙다 | butta [붇따] | grudar; passar numa prova |
 | [떨어지다](/pt/dictionary/?q=떨어지다) | tteoreojida | cair; ser reprovado |
 | 엿 | yeot | caramelo tradicional |
 | 찹쌀떡 | chapssaltteok | bolinho de arroz glutinoso |
 | 응원 | eungwon | torcida, apoio |
-| 듣기 평가 | deutgi pyeongga | prova de compreensão oral |
+| 듣기 평가 | deutki pyeongga [듣끼 평가] | prova de compreensão oral |
 
 **시험 잘 보세요!** (siheom jal boseyo!) – Boa sorte na prova! (literalmente "veja bem a prova"). Para um amigo ou estudante mais novo, diga **시험 잘 봐!** (siheom jal bwa!). Outra favorita: **수능 대박 나세요!** (suneung daebak naseyo!), "Que você arrebente no suneung!"
 

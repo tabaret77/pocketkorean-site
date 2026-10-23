@@ -96,8 +96,8 @@ TOPIK Iで80点未満、TOPIK IIで120点未満の場合は、級は取得でき
 | 급 | geup | 級 |
 | 듣기 / 읽기 / 쓰기 | deutgi / ilgi / sseugi | 聞き取り／読解／筆記 |
 | 말하기 | malhagi | スピーキング（話すこと） |
-| [접수](/ja/dictionary/?q=접수) | jeopsu | 受付、申し込み |
+| [접수](/ja/dictionary/?q=접수) | jeopssu [접쑤] | 受付、申し込み |
 | 성적 | seongjeok | 成績、点数 |
-| 합격했어요! | hapgyeokhaesseoyo! | 合格しました！ |
+| 합격했어요! | hapkyeokhaesseoyo! [합껴캐써요!] | 合格しました！ |
 
 どの級を目指すにしても、過去問を時間を計って解く練習をしましょう。形式を知っていれば半分は勝ったようなもの。残りの半分は、たっぷりの日常韓国語です。

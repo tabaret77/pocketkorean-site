@@ -34,7 +34,7 @@ Weekend trains on popular routes, especially Friday evening and Sunday afternoon
 
 1. **Choose where to book.** Visitors can use Korail's English booking site for foreign passengers (Let's Korail) or the Korail+ app.
 2. **Search** your departure station, **출발** (chulbal), and arrival station, **도착** (dochak), and the date.
-3. **Pick a seat class.** **일반실** (ilbansil) is standard class; **특실** (teuksil) is first class, with wider seats. When seats sell out, **입석** (ipseok), standing tickets, may be offered.
+3. **Pick a seat class.** **일반실** (ilbansil) is standard class; **특실** (teukssil [특씰]) is first class, with wider seats. When seats sell out, **입석** (ipsseok [입썩]), standing tickets, may be offered.
 4. **Pay and save the ticket** on your phone. No printing is needed; staff check tickets on board.
 5. **Find your car.** Your ticket shows a car number, **호차** (hocha), and a seat number. Platforms are marked with car numbers, so stand at the right spot before the train arrives.
 

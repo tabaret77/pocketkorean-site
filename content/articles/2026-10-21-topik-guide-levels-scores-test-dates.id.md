@@ -96,8 +96,8 @@ Sesi kertas dan komputer lainnya akan diadakan di Korea dan di luar negeri, teta
 | 급 | geup | level, tingkat |
 | 듣기 / 읽기 / 쓰기 | deutgi / ilgi / sseugi | menyimak / membaca / menulis |
 | 말하기 | malhagi | berbicara |
-| [접수](/id/dictionary/?q=접수) | jeopsu | pendaftaran, pengajuan |
+| [접수](/id/dictionary/?q=접수) | jeopssu [접쑤] | pendaftaran, pengajuan |
 | 성적 | seongjeok | skor, hasil |
-| 합격했어요! | hapgyeokhaesseoyo! | Aku lulus! |
+| 합격했어요! | hapkyeokhaesseoyo! [합껴캐써요!] | Aku lulus! |
 
 Level mana pun yang kamu targetkan, berlatihlah dengan soal-soal ujian sebelumnya dengan batas waktu. Memahami formatnya adalah separuh perjuangan, dan separuh lainnya adalah banyak berlatih bahasa Korea sehari-hari.

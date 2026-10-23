@@ -32,7 +32,7 @@ In Korea, the first really cold evening of the year has a smell: hot oil, brown 
 
 Prices vary from stall to stall. As of October 2026 there is no official price, but news reports from last winter described bungeoppang typically selling for about 2,000 won for three, with some stalls charging 1,000 won a piece. Older Koreans remember three or even four for 1,000 won.
 
-Stalls have also become harder to find. According to a November 2025 report, the price of red beans rose more than one and a half times in a year, flour and oil stayed expensive, and the number of street vendors in Seoul dropped by more than a fifth, from 6,079 in 2020 to 4,741 in the latest count cited. Many Koreans now use a crowd-sourced map app, **가슴속3천원** (gaseumsok samcheonwon), "3,000 won in my heart," to find the nearest stall. There's even a joke word for living near one: **붕세권** (bungsegwon), a play on **역세권** (yeoksegwon), "within walking distance of a station."
+Stalls have also become harder to find. According to a November 2025 report, the price of red beans rose more than one and a half times in a year, flour and oil stayed expensive, and the number of street vendors in Seoul dropped by more than a fifth, from 6,079 in 2020 to 4,741 in the latest count cited. Many Koreans now use a crowd-sourced map app, **가슴속3천원** (gaseumsok samcheonwon), "3,000 won in my heart," to find the nearest stall. There's even a joke word for living near one: **붕세권** (bungsegwon), a play on **역세권** (yeokssegwon [역쎄권]), "within walking distance of a station."
 
 Bring cash or have a bank-transfer option ready: many small stalls prefer cash, though more now take cards.
 
@@ -57,7 +57,7 @@ Point and use a number with **개** (gae), the general counter for things:
 | [어묵](/en/dictionary/?q=어묵) | eomuk | fish cake |
 | [국물](/en/dictionary/?q=국물) | gungmul | broth |
 | [포장](/en/dictionary/?q=포장) | pojang | wrapping, takeaway |
-| [뜨겁다](/en/dictionary/?q=뜨겁다) | tteugeopda | to be hot (to the touch) |
+| [뜨겁다](/en/dictionary/?q=뜨겁다) | tteugeopta [뜨겁따] | to be hot (to the touch) |
 
 **[amount of money] + 어치 주세요.** – **삼천 원어치 주세요.** (samcheon woneochi juseyo.) – Please give me 3,000 won's worth.
 

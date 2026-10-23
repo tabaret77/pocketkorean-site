@@ -30,9 +30,9 @@ draft: false
 |---|---|---|---|
 | [살다](/th/dictionary/?q=살다) (salda) | 살- | 살았어요 (sarasseoyo) | ฉันเคยอาศัยอยู่ |
 | 좋다 (jota) | 좋- | 좋았어요 (joasseoyo) | ดีมาก (ที่ผ่านมา) |
-| [먹다](/th/dictionary/?q=먹다) (meokda) | 먹- | 먹었어요 (meogeosseoyo) | ฉันกินแล้ว |
-| 읽다 (ikda) | 읽- | 읽었어요 (ilgeosseoyo) | ฉันอ่านแล้ว |
-| 맛있다 (masitda) | 맛있- | 맛있었어요 (masisseosseoyo) | อร่อยมาก (ที่ผ่านมา) |
+| [먹다](/th/dictionary/?q=먹다) (meokta [먹따]) | 먹- | 먹었어요 (meogeosseoyo) | ฉันกินแล้ว |
+| 읽다 (ikta [익따]) | 읽- | 읽었어요 (ilgeosseoyo) | ฉันอ่านแล้ว |
+| 맛있다 (masitta [마싣따]) | 맛있- | 맛있었어요 (masisseosseoyo) | อร่อยมาก (ที่ผ่านมา) |
 | [공부하다](/th/dictionary/?q=공부하다) (gongbuhada) | 공부하- | 공부했어요 (gongbuhaesseoyo) | ฉันเรียนแล้ว |
 | 일하다 (ilhada) | 일하- | 일했어요 (ilhaesseoyo) | ฉันทำงานแล้ว |
 
@@ -63,8 +63,8 @@ draft: false
 
 คำกริยาผันไม่ปกติจะเปลี่ยนในรูปอดีตแบบเดียวกับในรูปปัจจุบันทุกประการ จึงควรจำเป็นคู่:
 
-- **듣다** (deutda) – ฟัง → 들었어요 (deureosseoyo)
-- **춥다** (chupda) – หนาว → 추웠어요 (chuwosseoyo)
+- **듣다** (deutta [듣따]) – ฟัง → 들었어요 (deureosseoyo)
+- **춥다** (chupta [춥따]) – หนาว → 추웠어요 (chuwosseoyo)
 - **바쁘다** (bappeuda) – ยุ่ง → 바빴어요 (bappasseoyo)
 - **쓰다** (sseuda) – เขียน, ใช้ → 썼어요 (sseosseoyo)
 - **모르다** (moreuda) – ไม่รู้ → 몰랐어요 (mollasseoyo)
@@ -94,7 +94,7 @@ draft: false
 4. 덥다 (ร้อน)
 5. 학생 (นักเรียน) + เคยเป็น
 
-**เฉลย:** 1. 만났어요 (mannasseoyo) 2. 마셨어요 (masyeosseoyo) 3. 청소했어요 (cheongsohaesseoyo) 4. 더웠어요 (deowosseoyo) 5. 학생이었어요 (haksaengieosseoyo)
+**เฉลย:** 1. 만났어요 (mannasseoyo) 2. 마셨어요 (masyeosseoyo) 3. 청소했어요 (cheongsohaesseoyo) 4. 더웠어요 (deowosseoyo) 5. 학생이었어요 (hakssaengieosseoyo [학쌩이어써요])
 
 ## ภาษาเกาหลีที่เอาไปใช้ได้
 

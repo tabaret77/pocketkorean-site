@@ -19,7 +19,7 @@ Si vas a aprender una sola terminación verbal en coreano, que sea **-아요/어
 En el diccionario, los verbos y adjetivos coreanos aparecen terminados en **-다** (-da). Quita el 다 y tendrás la raíz:
 
 - **가다** (gada): ir → raíz 가-
-- **먹다** (meokda): comer → raíz 먹-
+- **먹다** (meokta [먹따]): comer → raíz 먹-
 - **좋다** (jota): ser bueno → raíz 좋-
 
 ## Paso 2: mira la última vocal
@@ -34,9 +34,9 @@ Ahora fíjate en la vocal de la **última sílaba de la raíz**.
 |---|---|---|---|
 | 살다 (salda) | ㅏ | 살아요 (sarayo) | (yo) vivo |
 | 좋다 (jota) | ㅗ | 좋아요 (joayo) | (está) bien, es bueno |
-| 먹다 (meokda) | ㅓ | 먹어요 (meogeoyo) | (yo) como |
-| 읽다 (ikda) | ㅣ | 읽어요 (ilgeoyo) | (yo) leo |
-| 있다 (itda) | ㅣ | 있어요 (isseoyo) | hay / (yo) tengo |
+| 먹다 (meokta [먹따]) | ㅓ | 먹어요 (meogeoyo) | (yo) como |
+| 읽다 (ikta [익따]) | ㅣ | 읽어요 (ilgeoyo) | (yo) leo |
+| 있다 (itta [읻따]) | ㅣ | 있어요 (isseoyo) | hay / (yo) tengo |
 | 공부하다 (gongbuhada) | 하다 | 공부해요 (gongbuhaeyo) | (yo) estudio |
 
 Esa última fila es la que parece "irregular", pero es totalmente predecible: todos los verbos con 하다 la siguen. **일하다** (ilhada), trabajar → **일해요** (ilhaeyo); **좋아하다** (joahada), gustar → **좋아해요** (joahaeyo).
@@ -60,7 +60,7 @@ Las raíces que terminan en **ㅡ** pierden la ㅡ, y luego se mira la sílaba a
 - 바쁘다 (bappeuda): estar ocupado → **바빠요** (bappayo), porque la sílaba anterior es 바
 - 예쁘다 (yeppeuda): ser bonito → **예뻐요** (yeppeoyo)
 
-Algunos verbos son realmente irregulares, como **덥다** (deopda), hacer calor → **더워요** (deowoyo), o **모르다** (moreuda), no saber → **몰라요** (mollayo). Apréndelos a medida que los encuentres; las reglas anteriores sirven para la mayoría de los verbos.
+Algunos verbos son realmente irregulares, como **덥다** (deopta [덥따]), hacer calor → **더워요** (deowoyo), o **모르다** (moreuda), no saber → **몰라요** (mollayo). Apréndelos a medida que los encuentres; las reglas anteriores sirven para la mayoría de los verbos.
 
 ## Una forma, tres funciones
 
@@ -80,7 +80,7 @@ Si quitas el **요**, obtienes el habla informal (반말, banmal): 가, 먹어, 
 
 Cambia cada verbo a la forma -아요/어요. Las respuestas están abajo.
 
-1. 앉다 (anda): sentarse
+1. 앉다 (antta [안따]): sentarse
 2. 마시다 (masida): beber
 3. 일하다 (ilhada): trabajar
 4. 만나다 (mannada): encontrarse con alguien

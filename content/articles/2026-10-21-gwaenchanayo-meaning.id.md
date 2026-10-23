@@ -52,7 +52,7 @@ Di sini fungsinya mirip dengan "Nggak usah, makasih" atau "Udah, cukup" dalam ba
 
 Sebagai deskripsi, **괜찮다** berarti sesuatu itu lumayan, bisa diterima, atau bahkan cukup bagus. Ini pujian yang bernada rendah hati.
 
-- **이 식당 괜찮아요.** (I sikdang gwaenchanayo.) – Restoran ini lumayan enak.
+- **이 식당 괜찮아요.** (I siktang gwaenchanayo. [이 식땅 괜차나요.]) – Restoran ini lumayan enak.
 - **그 사람 괜찮아요.** (Geu saram gwaenchanayo.) – Dia orang yang baik (atau: cukup menarik, tergantung konteks).
 
 Sebelum kata benda, bentuknya menjadi **괜찮은** (gwaenchaneun): **괜찮은 카페** (gwaenchaneun kape) – kafe yang asyik.
@@ -89,7 +89,7 @@ Sama seperti dalam bahasa Indonesia, nada bicara itu penting. **괜찮아요** y
 | 아니에요, 괜찮아요 | anieyo, gwaenchanayo | Nggak kok, nggak apa-apa |
 | 아니요, 괜찮아요 | aniyo, gwaenchanayo | Nggak usah, terima kasih |
 | 사진 찍어도 괜찮아요? | sajin jjigeodo gwaenchanayo? | Boleh ambil foto? |
-| 괜찮은 [식당](/id/dictionary/?q=식당) | gwaenchaneun sikdang | restoran yang enak |
+| 괜찮은 [식당](/id/dictionary/?q=식당) | gwaenchaneun siktang [괜차는 식땅] | restoran yang enak |
 | 괜찮아 | gwaenchana | Nggak apa-apa (santai) |
 
 Perhatikan 괜찮아요 saat kamu menonton acara Korea berikutnya, dan coba tebak yang mana dari keempat makna itu yang dimaksud. Konteks hampir selalu memberi petunjuknya.

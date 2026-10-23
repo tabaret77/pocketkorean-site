@@ -40,13 +40,13 @@ Official romanization follows the sound, not the letter, so final ㄱ/ㄷ/ㅂ gr
 Some syllables have two consonants at the bottom, like **닭** or **값**. On their own, you pronounce only one of them – usually the first:
 
 - **[값](/en/dictionary/?q=값)** (gap) – price → [갑]
-- **앉다** (anda) – to sit → [안따]
-- **없다** (eopda) – not to have → [업따]
+- **앉다** (antta [안따]) – to sit → [안따]
+- **없다** (eopta [업따]) – not to have → [업따]
 
 A few common ones use the second letter instead, especially ㄺ and ㄻ:
 
 - **[닭](/en/dictionary/?q=닭)** (dak) – chicken → [닥]
-- **읽다** (ikda) – to read → [익따]
+- **읽다** (ikta [익따]) – to read → [익따]
 - **삶** (sam) – life → [삼]
 
 Don't try to memorise every combination at once; learn the pronunciation together with each word.

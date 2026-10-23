@@ -53,10 +53,10 @@ Naik Jalur 3 ke **안국역** (Angukyeok), Stasiun Anguk, pintu keluar 3, lalu b
 | [단풍](/id/dictionary/?q=단풍) | danpung | daun musim gugur |
 | [연못](/id/dictionary/?q=연못) | yeonmot | kolam |
 | [정자](/id/dictionary/?q=정자) | jeongja | paviliun |
-| [입장권](/id/dictionary/?q=입장권) | ipjanggwon | tiket masuk |
+| [입장권](/id/dictionary/?q=입장권) | ipjjanggwon [입짱권] | tiket masuk |
 | [예약](/id/dictionary/?q=예약) | yeyak | pemesanan, reservasi |
 | 휴궁일 | hyugung-il | hari tutup istana |
 
-**후원 입장권 두 장 주세요.** (huwon ipjanggwon du jang juseyo.) – Tolong dua tiket Taman Rahasia. Ganti angka sebelum **장** (jang), kata penggolong untuk tiket dan lembaran kertas: 한 장 (han jang), 세 장 (se jang).
+**후원 입장권 두 장 주세요.** (huwon ipjjanggwon du jang juseyo. [후원 입짱권 두 장 주세요.]) – Tolong dua tiket Taman Rahasia. Ganti angka sebelum **장** (jang), kata penggolong untuk tiket dan lembaran kertas: 한 장 (han jang), 세 장 (se jang).
 
 Sumber: [The Seoul Guide – Changdeokgung](https://www.theseoulguide.com/changdeokgung-palace/), [Telltrip – Changdeokgung Huwon (bahasa Korea)](https://www.telltrip.com/domestic-travel/changdeokgung-huwon-secret-garden-visit/), [Segye Ilbo – Rabu gratis di istana-istana (bahasa Korea)](https://www.segye.com/newsView/20260526512458), [Mileasia – panduan Changdeokgung](https://mileasia.com/korea/changdeokgung-palace/)

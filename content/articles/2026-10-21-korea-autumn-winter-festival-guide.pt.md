@@ -28,7 +28,7 @@ Segundo a previsão de 2026 do Korea Forest Service, as cores deviam atingir o a
 
 Na maior parte do país, incluindo os morros e palácios de Seul, o auge vai do **fim de outubro ao começo de novembro**. As ginkgos, árvores que ladeiam muitas ruas de Seul, ficam amarelo vivo mais ou menos na mesma época.
 
-Em Seul, o **Festival do Capim-Prateado de Seul** – **서울억새축제** (Seoul eoksae chukje) – acontece no Parque Haneul, dentro do World Cup Park, até **23 de outubro de 2026**, aberto das 10h às 21h. **억새** (eoksae) é o capim-prateado, e os campos no alto do morro brilham ao pôr do sol.
+Em Seul, o **Festival do Capim-Prateado de Seul** – **서울억새축제** (Seoul eoksae chukje) – acontece no Parque Haneul, dentro do World Cup Park, até **23 de outubro de 2026**, aberto das 10h às 21h. **억새** (eokssae [억쌔]) é o capim-prateado, e os campos no alto do morro brilham ao pôr do sol.
 
 ## Novembro: fogos, kimchi e a grande prova
 
@@ -61,7 +61,7 @@ O **Natal** na Coreia é feriado, mas tem mais cara de Dia dos Namorados: uma no
 | Coreano | Romanização | Significado |
 |---|---|---|
 | [단풍](/pt/dictionary/?q=단풍) | danpung | folhas de outono |
-| [축제](/pt/dictionary/?q=축제) | chukje | festival |
+| [축제](/pt/dictionary/?q=축제) | chukjje [축쩨] | festival |
 | 불꽃놀이 | bulkkonnori | fogos de artifício |
 | [김장](/pt/dictionary/?q=김장) | gimjang | preparo de kimchi para o inverno |
 | 첫눈 | cheonnun | a primeira neve do ano |

@@ -58,7 +58,7 @@ draft: false
 | [어묵](/zh-tw/dictionary/?q=어묵) | eomuk | 魚板 |
 | [국물](/zh-tw/dictionary/?q=국물) | gungmul | 高湯、湯汁 |
 | [포장](/zh-tw/dictionary/?q=포장) | pojang | 包裝、外帶 |
-| [뜨겁다](/zh-tw/dictionary/?q=뜨겁다) | tteugeopda | 燙（摸起來很熱） |
+| [뜨겁다](/zh-tw/dictionary/?q=뜨겁다) | tteugeopta [뜨겁따] | 燙（摸起來很熱） |
 
 **[金額] + 어치 주세요.**——**삼천 원어치 주세요.**（samcheon woneochi juseyo.）——請給我3,000韓元份的。
 

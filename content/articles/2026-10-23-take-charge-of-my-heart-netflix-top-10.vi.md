@@ -33,7 +33,7 @@ Phim do Park Soo-won đạo diễn, người được biết đến với *Work 
 
 Tựa tiếng Hàn là **나를 충전해줘** (nareul chungjeonhaejwo), "Hãy sạc cho tôi." [충전](/vi/dictionary/?q=충전) (chungjeon) là từ thường ngày để nói việc sạc hay nạp một thứ gì đó: điện thoại, thẻ giao thông, pin (Hán Việt: sung điện). Thêm **하다** là có động từ **충전하다** (chungjeonhada), sạc, nạp. Bạn sẽ nghe từ này suốt ở Hàn Quốc:
 
-- **배터리가 없어요.** (Baeteoriga eopseoyo.) – Điện thoại tôi hết pin rồi.
+- **배터리가 없어요.** (Baeteoriga eopsseoyo. [배터리가 업써요.]) – Điện thoại tôi hết pin rồi.
 - **휴대폰 충전 좀 해도 돼요?** (Hyudaepon chungjeon jom haedo dwaeyo?) – Tôi sạc điện thoại nhờ một chút được không?
 
 Người Hàn cũng dùng 충전 cho con người. Sau một kỳ nghỉ hay một bữa ăn ngon, người ta có thể nói mình đã "sạc" lại năng lượng – giống như tiếng Việt nói "nạp năng lượng". Đó chính là nghĩa kép trong tựa phim: một người đàn ông có trái tim cần pin thật, và một trái tim được một người lấp đầy.
@@ -52,7 +52,7 @@ Một từ hữu ích khác từ cốt truyện là [심장](/vi/dictionary/?q=�
 | 전기 | jeongi | điện |
 | 재벌 3세 | jaebeol samse | người thừa kế chaebol đời thứ ba |
 | 계약 | gyeyak | hợp đồng, thỏa thuận |
-| 웹소설 | wepsoseol | tiểu thuyết mạng |
+| 웹소설 | wepssoseol [웹쏘설] | tiểu thuyết mạng |
 | 마음 | maeum | trái tim, tấm lòng |
 
 Một cấu trúc nhờ vả lấy thẳng từ tựa phim: **충전해 줘** (chungjeonhae jwo) – "Sạc giúp mình nhé." Gốc động từ + **-아/어 줘** dùng để nhờ ai đó làm gì cho mình trong lối nói thân mật; với người lạ, hãy nói lịch sự bằng **-아/어 주세요**, như **충전해 주세요** (chungjeonhae juseyo).

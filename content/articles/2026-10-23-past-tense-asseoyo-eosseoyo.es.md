@@ -28,9 +28,9 @@ Es exactamente la misma elección de vocal que en el presente, así que si sabes
 |---|---|---|---|
 | [살다](/es/dictionary/?q=살다) (salda) | 살- | 살았어요 (sarasseoyo) | viví |
 | 좋다 (jota) | 좋- | 좋았어요 (joasseoyo) | estuvo bien |
-| [먹다](/es/dictionary/?q=먹다) (meokda) | 먹- | 먹었어요 (meogeosseoyo) | comí |
-| 읽다 (ikda) | 읽- | 읽었어요 (ilgeosseoyo) | leí |
-| 맛있다 (masitda) | 맛있- | 맛있었어요 (masisseosseoyo) | estuvo delicioso |
+| [먹다](/es/dictionary/?q=먹다) (meokta [먹따]) | 먹- | 먹었어요 (meogeosseoyo) | comí |
+| 읽다 (ikta [익따]) | 읽- | 읽었어요 (ilgeosseoyo) | leí |
+| 맛있다 (masitta [마싣따]) | 맛있- | 맛있었어요 (masisseosseoyo) | estuvo delicioso |
 | [공부하다](/es/dictionary/?q=공부하다) (gongbuhada) | 공부하- | 공부했어요 (gongbuhaesseoyo) | estudié |
 | 일하다 (ilhada) | 일하- | 일했어요 (ilhaesseoyo) | trabajé |
 
@@ -61,8 +61,8 @@ Para decir "era" o "fue" con un sustantivo, usa **이었어요** después de con
 
 Los verbos irregulares cambian en el pasado exactamente igual que en el presente, así que apréndelos en pares:
 
-- **듣다** (deutda), escuchar → 들었어요 (deureosseoyo)
-- **춥다** (chupda), hacer frío → 추웠어요 (chuwosseoyo)
+- **듣다** (deutta [듣따]), escuchar → 들었어요 (deureosseoyo)
+- **춥다** (chupta [춥따]), hacer frío → 추웠어요 (chuwosseoyo)
 - **바쁘다** (bappeuda), estar ocupado → 바빴어요 (bappasseoyo)
 - **쓰다** (sseuda), escribir, usar → 썼어요 (sseosseoyo)
 - **모르다** (moreuda), no saber → 몰랐어요 (mollasseoyo)
@@ -92,7 +92,7 @@ Pon estos en pasado cortés. Las respuestas están abajo.
 4. 덥다 (hacer calor)
 5. 학생 (estudiante) + era
 
-**Respuestas:** 1. 만났어요 (mannasseoyo) 2. 마셨어요 (masyeosseoyo) 3. 청소했어요 (cheongsohaesseoyo) 4. 더웠어요 (deowosseoyo) 5. 학생이었어요 (haksaengieosseoyo)
+**Respuestas:** 1. 만났어요 (mannasseoyo) 2. 마셨어요 (masyeosseoyo) 3. 청소했어요 (cheongsohaesseoyo) 4. 더웠어요 (deowosseoyo) 5. 학생이었어요 (hakssaengieosseoyo [학쌩이어써요])
 
 ## Coreano que puedes usar
 

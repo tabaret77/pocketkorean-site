@@ -45,7 +45,7 @@ La mayoría de los coreanos pide a través de apps de entrega a domicilio, pero 
 |---|---|---|
 | 치킨 | chikin | pollo frito |
 | 치맥 | chimaek | pollo y cerveza |
-| [맥주](/es/dictionary/?q=맥주) | maekju | cerveza |
+| [맥주](/es/dictionary/?q=맥주) | maekjju [맥쭈] | cerveza |
 | 양념 | yangnyeom | sazón; pollo con salsa |
 | 반반 | banban | mitad y mitad |
 | 순살 | sunsal | sin hueso |

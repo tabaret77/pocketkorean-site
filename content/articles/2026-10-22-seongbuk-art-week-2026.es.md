@@ -36,7 +36,7 @@ Los museos cercanos también se suman: el Museo de Arte Kansong tiene una exposi
 
 ## Por qué importa a quienes aprenden coreano
 
-집 es una de las primeras palabras coreanas que la mayoría aprende, y este festival muestra cuánto puede contener: un edificio, una familia, recuerdos. También la verás dentro de palabras más largas: **한옥집** (hanokjip), una casa hanok; **우리 집** (uri jip), literalmente "nuestra casa", que los coreanos usan para decir "mi casa"; y **집순이 / 집돌이** (jipsuni / jipdori), una persona hogareña. Si vas, busca en los carteles **무료** (muryo), gratis, y **예약** (yeyak), reserva: a algunas de las casas históricas solo se puede entrar con reserva.
+집 es una de las primeras palabras coreanas que la mayoría aprende, y este festival muestra cuánto puede contener: un edificio, una familia, recuerdos. También la verás dentro de palabras más largas: **한옥집** (hanokjjip [하녹찝]), una casa hanok; **우리 집** (uri jip), literalmente "nuestra casa", que los coreanos usan para decir "mi casa"; y **집순이 / 집돌이** (jipsuni / jipdori), una persona hogareña. Si vas, busca en los carteles **무료** (muryo), gratis, y **예약** (yeyak), reserva: a algunas de las casas históricas solo se puede entrar con reserva.
 
 ## Coreano de esta noticia
 
@@ -46,7 +46,7 @@ Los museos cercanos también se suman: el Museo de Arte Kansong tiene una exposi
 | 한옥 | hanok | casa tradicional coreana |
 | [미술관](/es/dictionary/?q=미술관) | misulgwan | museo de arte |
 | [전시회](/es/dictionary/?q=전시회) | jeonsihoe | exposición |
-| 작가 | jakga | artista, autor |
+| 작가 | jakka [작까] | artista, autor |
 | 성곽 | seonggwak | muralla de la ciudad, muralla de fortaleza |
 | [무료](/es/dictionary/?q=무료) | muryo | gratis |
 | 아버지와 아들 | abeojiwa adeul | padre e hijo |

@@ -45,7 +45,7 @@ This is the question that catches people out:
 
 Your answers:
 
-- **먹고 갈게요.** (Meokgo galgeyo.) – I'll have it here.
+- **먹고 갈게요.** (Meokko galgeyo. [먹꼬 갈게요.]) – I'll have it here.
 - **가져갈게요.** (Gajyeogalgeyo.) – I'll take it away.
 - **포장해 주세요.** (Pojanghae juseyo.) – Please wrap it to go. Common for food and drinks alike.
 
@@ -90,7 +90,7 @@ Often you'll be handed a **진동벨** (jindongbel) – a vibrating buzzer – t
 |---|---|---|
 | 한 잔 주세요 | han jan juseyo | One cup, please |
 | 아이스 / 따뜻한 거 | aiseu / ttatteutan geo | iced / hot |
-| 먹고 갈게요 | meokgo galgeyo | For here |
+| 먹고 갈게요 | meokko galgeyo [먹꼬 갈게요] | For here |
 | [가져갈게요](/en/dictionary/?q=가져가다) | gajyeogalgeyo | To go |
 | 샷 추가해 주세요 | syat chugahae juseyo | Extra shot, please |
 | 시럽 빼 주세요 | sireop ppae juseyo | No syrup, please |

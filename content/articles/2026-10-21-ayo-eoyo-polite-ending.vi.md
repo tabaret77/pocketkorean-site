@@ -19,7 +19,7 @@ Nếu chỉ học một đuôi động từ trong tiếng Hàn, hãy chọn **-�
 Động từ và tính từ tiếng Hàn được ghi trong từ điển với đuôi **-다** (-da). Bỏ 다 đi, bạn có gốc từ:
 
 - **가다** (gada) – đi → gốc 가-
-- **먹다** (meokda) – ăn → gốc 먹-
+- **먹다** (meokta [먹따]) – ăn → gốc 먹-
 - **좋다** (jota) – tốt → gốc 좋-
 
 ## Bước 2: nhìn nguyên âm cuối
@@ -34,9 +34,9 @@ Bây giờ hãy nhìn nguyên âm trong **âm tiết cuối cùng của gốc t�
 |---|---|---|---|
 | 살다 (salda) | ㅏ | 살아요 (sarayo) | (tôi) sống |
 | 좋다 (jota) | ㅗ | 좋아요 (joayo) | (nó) tốt |
-| 먹다 (meokda) | ㅓ | 먹어요 (meogeoyo) | (tôi) ăn |
-| 읽다 (ikda) | ㅣ | 읽어요 (ilgeoyo) | (tôi) đọc |
-| 있다 (itda) | ㅣ | 있어요 (isseoyo) | có |
+| 먹다 (meokta [먹따]) | ㅓ | 먹어요 (meogeoyo) | (tôi) ăn |
+| 읽다 (ikta [익따]) | ㅣ | 읽어요 (ilgeoyo) | (tôi) đọc |
+| 있다 (itta [읻따]) | ㅣ | 있어요 (isseoyo) | có |
 | 공부하다 (gongbuhada) | 하다 | 공부해요 (gongbuhaeyo) | (tôi) học |
 
 Dòng cuối trông có vẻ "bất quy tắc", nhưng thực ra hoàn toàn đoán trước được: mọi động từ 하다 đều theo quy tắc này. **일하다** (ilhada) – làm việc → **일해요** (ilhaeyo); **좋아하다** (joahada) – thích → **좋아해요** (joahaeyo).
@@ -60,7 +60,7 @@ Gốc từ kết thúc bằng **ㅡ** thì bỏ ㅡ, rồi nhìn vào âm tiết
 - 바쁘다 (bappeuda) – bận → **바빠요** (bappayo), vì âm tiết đứng trước là 바
 - 예쁘다 (yeppeuda) – đẹp → **예뻐요** (yeppeoyo)
 
-Một số động từ thực sự bất quy tắc, như **덥다** (deopda) – nóng → **더워요** (deowoyo), hoặc **모르다** (moreuda) – không biết → **몰라요** (mollayo). Gặp đến đâu học đến đó; các quy tắc trên đã áp dụng được cho hầu hết động từ.
+Một số động từ thực sự bất quy tắc, như **덥다** (deopta [덥따]) – nóng → **더워요** (deowoyo), hoặc **모르다** (moreuda) – không biết → **몰라요** (mollayo). Gặp đến đâu học đến đó; các quy tắc trên đã áp dụng được cho hầu hết động từ.
 
 ## Một dạng, ba công dụng
 
@@ -80,7 +80,7 @@ Bỏ **요** đi, bạn có lối nói thân mật (반말, banmal): 가, 먹어
 
 Chuyển mỗi động từ sang dạng -아요/어요. Đáp án ở bên dưới.
 
-1. 앉다 (anda) – ngồi
+1. 앉다 (antta [안따]) – ngồi
 2. 마시다 (masida) – uống
 3. 일하다 (ilhada) – làm việc
 4. 만나다 (mannada) – gặp

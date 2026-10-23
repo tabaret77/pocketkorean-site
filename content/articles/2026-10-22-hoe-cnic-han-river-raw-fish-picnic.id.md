@@ -44,7 +44,7 @@ Musim gugur adalah musimnya, tetapi tidak berlangsung lama. Suhu udara belakanga
 | 치맥 | chimaek | ayam goreng dan bir |
 | [수산시장](/id/dictionary/?q=수산시장) | susansijang | pasar ikan |
 | [포장](/id/dictionary/?q=포장) | pojang | pembungkusan; dibawa pulang |
-| 돗자리 | dotjari | tikar piknik |
+| 돗자리 | dotjjari [돋짜리] | tikar piknik |
 | 광어 | gwangeo | ikan sebelah (olive flounder) |
 | 초고추장 | chogochujang | saus cocolan cabai merah |
 

@@ -19,7 +19,7 @@ Quando o ar esfria na Coreia, os mercados se enchem de pilhas de repolhos e saco
 Um dia típico de kimjang segue sempre as mesmas etapas, e cada uma tem seu próprio verbo:
 
 1. **절이다** (jeorida) – salgar. Os repolhos cortados ao meio são deixados de molho na salmoura ou polvilhados com sal para amolecer. Hoje muitas famílias compram repolho já salgado, **절임배추** (jeorimbaechu), para economizar um dia de trabalho.
-2. **[씻다](/pt/dictionary/?q=씻다)** (ssitda) – lavar. O repolho salgado é enxaguado e escorrido.
+2. **[씻다](/pt/dictionary/?q=씻다)** (ssitta [씯따]) – lavar. O repolho salgado é enxaguado e escorrido.
 3. **양념을 만들다** (yangnyeomeul mandeulda) – fazer o tempero: pimenta em flocos, alho, gengibre, molho de peixe, rabanete ralado e cebolinha.
 4. **[버무리다](/pt/dictionary/?q=버무리다)** (beomurida) – misturar e envolver. Todos sentam em volta de uma grande bacia, de luvas de borracha, e esfregam o recheio vermelho entre todas as folhas.
 5. **[담그다](/pt/dictionary/?q=담그다)** (damgeuda) – fazer (kimchi, conservas). O kimchi pronto vai para potes, muitas vezes numa geladeira própria para kimchi.
@@ -36,11 +36,11 @@ Depois vem a melhor parte: comer carne de porco cozida enrolada no kimchi fresqu
 | 배추 | baechu | repolho chinês (acelga) |
 | 무 | mu | rabanete coreano |
 | 소금 | sogeum | sal |
-| 고춧가루 | gochutgaru | pimenta vermelha em flocos |
+| 고춧가루 | gochutkaru [고춛까루] | pimenta vermelha em flocos |
 | 마늘 | maneul | alho |
 | 생강 | saenggang | gengibre |
 | 파 | pa | cebolinha |
-| 젓갈 | jeotgal | frutos do mar salgados e fermentados |
+| 젓갈 | jeotkal [젇깔] | frutos do mar salgados e fermentados |
 | 새우젓 | saeujeot | camarão salgado |
 | 양념 | yangnyeom | tempero, molho |
 | 속 | sok | recheio (colocado entre as folhas) |
@@ -48,11 +48,11 @@ Depois vem a melhor parte: comer carne de porco cozida enrolada no kimchi fresqu
 | 고무장갑 | gomujanggap | luvas de borracha |
 | 김치냉장고 | gimchinaengjanggo | geladeira de kimchi |
 | 수육 | suyuk | fatias de carne de porco cozida |
-| 깍두기 | kkakdugi | kimchi de rabanete em cubos |
+| 깍두기 | kkaktugi [깍뚜기] | kimchi de rabanete em cubos |
 | 담그다 | damgeuda | fazer (kimchi) |
 | 절이다 | jeorida | salgar |
 | 버무리다 | beomurida | misturar e envolver |
-| 익다 | ikda | amadurecer, fermentar |
+| 익다 | ikta [익따] | amadurecer, fermentar |
 | 나누다 | nanuda | compartilhar |
 
 ## Atenção à pronúncia
@@ -61,16 +61,16 @@ Algumas dessas palavras não soam do jeito que se escrevem:
 
 - **고춧가루** se pronuncia [고추까루] – o ㅅ no meio deixa o ㄱ tenso: "go-chu-kka-ru".
 - **젓갈** se pronuncia [젇깔]: o ㅅ final soa como t, e o ㄱ depois dele fica tenso: "jeot-kkal".
-- **익다** se pronuncia [익따] (ikda), e em **익었어요** (igeosseoyo) – está maduro – o ㄱ se liga à sílaba seguinte.
+- **익다** se pronuncia [익따] (ikta), e em **익었어요** (igeosseoyo) – está maduro – o ㄱ se liga à sílaba seguinte.
 
 ## Palavras de sabor
 
 O kimjang também é a hora em que todo mundo tem uma opinião sobre o sabor. Você vai ouvir:
 
-- **맵다** (maepda) – ser apimentado → **좀 매워요** (jom maewoyo) – está um pouco apimentado
+- **맵다** (maepta [맵따]) – ser apimentado → **좀 매워요** (jom maewoyo) – está um pouco apimentado
 - **짜다** (jjada) – ser salgado → **너무 짜요** (neomu jjayo) – está salgado demais
-- **싱겁다** (singgeopda) – ser sem graça, sem sal suficiente → **좀 싱거워요** (jom singgeowoyo)
-- **맛있다** (masitda) – ser gostoso → **진짜 맛있어요!** (jinjja masisseoyo!)
+- **싱겁다** (singgeopta [싱겁따]) – ser sem graça, sem sal suficiente → **좀 싱거워요** (jom singgeowoyo)
+- **맛있다** (masitta [마싣따]) – ser gostoso → **진짜 맛있어요!** (jinjja masisseoyo!)
 
 **맵다** e **싱겁다** são verbos irregulares em ㅂ, então o ㅂ vira 우: 매워요, 싱거워요.
 

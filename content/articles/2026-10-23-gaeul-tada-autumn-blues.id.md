@@ -54,7 +54,7 @@ Jangan tertukar dengan **썸 타다** (sseom tada), pemakaian 타다 yang berbed
 Kalau 가을 타다 kurang spesifik, kata-kata ini membantu menggambarkan perasaannya:
 
 - **쓸쓸하다** (sseulsseulhada) – sepi, sunyi (kata yang pas untuk musim gugur)
-- **[외롭다](/id/dictionary/?q=외롭다)** (oeropda) – kesepian
+- **[외롭다](/id/dictionary/?q=외롭다)** (oeropta [외롭따]) – kesepian
 - **우울하다** (uulhada) – depresi, murung
 - **기분이 가라앉다** (gibuni garaanda) – merasa down (secara harfiah "suasana hati tenggelam")
 
@@ -68,7 +68,7 @@ Kalau 가을 타다 kurang spesifik, kata-kata ini membantu menggambarkan perasa
 | 추위를 타다 | chuwireul tada | gampang kedinginan |
 | 더위를 타다 | deowireul tada | tidak tahan panas |
 | 쓸쓸하다 | sseulsseulhada | merasa sepi, sunyi |
-| 외롭다 | oeropda | kesepian |
+| 외롭다 | oeropta [외롭따] | kesepian |
 | 산책하다 | sanchaekada | jalan-jalan santai |
 
 Pola yang berguna: **요즘 가을 타나 봐요.** (Yojeum gaeul tana bwayo.) – Kayaknya akhir-akhir ini suasana musim gugur lagi memengaruhiku. Ganti dengan **추위를 타나 봐요** (chuwireul tana bwayo) kalau yang memengaruhimu adalah dinginnya, bukan musimnya.

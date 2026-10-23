@@ -65,6 +65,6 @@ Guarda el 너 T야? para tus amigos; con un colega o alguien mayor puede sonar g
 | 극I | geugai | un introvertido extremo |
 | 저 I예요 | jeo aiyeyo | Soy introvertido |
 
-Estructura útil: **저 극I라서 주말엔 집에 있어요.** (Jeo geugairaseo jumaren jibe isseoyo.): Soy introvertido total, así que los fines de semana me quedo en casa. **-(이)라서** da la razón: cámbialo por cualquier sustantivo, como **학생이라서** (haksaengiraseo): porque soy estudiante.
+Estructura útil: **저 극I라서 주말엔 집에 있어요.** (Jeo geugairaseo jumaren jibe isseoyo.): Soy introvertido total, así que los fines de semana me quedo en casa. **-(이)라서** da la razón: cámbialo por cualquier sustantivo, como **학생이라서** (hakssaengiraseo [학쌩이라서]): porque soy estudiante.
 
 Fuentes: [Yonhap vía Hanminjok Center – "MBTI가 어떻게 되세요?" (20 de oct. de 2026)](https://www.koreancenter.or.kr/news/articleView.html?idxno=1426956), [Hankyoreh 21 vía Daum – Por qué la T se volvió la letra problemática del MBTI](https://v.daum.net/v/20230815234812392), [The Korea Herald vía Asia News Network – "¿Eres T?" es la nueva forma de criticar](https://asianews.network/?p=175825), [Yugacrew wiki – 극I](https://www.yugacrew.com/yugawiki/%EA%B7%B9I)

@@ -96,8 +96,8 @@ TOPIK现在有三种形式：
 | 급 | geup | 级，等级 |
 | 듣기 / 읽기 / 쓰기 | deutgi / ilgi / sseugi | 听力／阅读／写作 |
 | 말하기 | malhagi | 口语 |
-| [접수](/zh-cn/dictionary/?q=접수) | jeopsu | 报名，受理 |
+| [접수](/zh-cn/dictionary/?q=접수) | jeopssu [접쑤] | 报名，受理 |
 | 성적 | seongjeok | 成绩 |
-| 합격했어요! | hapgyeokhaesseoyo! | 我考过了！ |
+| 합격했어요! | hapkyeokhaesseoyo! [합껴캐써요!] | 我考过了！ |
 
 无论你的目标是哪个级别，都要用真题限时练习。熟悉题型就成功了一半，另一半则靠大量的日常韩语积累。

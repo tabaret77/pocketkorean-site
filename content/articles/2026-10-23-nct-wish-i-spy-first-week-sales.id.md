@@ -54,6 +54,6 @@ Untuk membicarakan jenis rilisan, gunakan **미니 앨범** (mini aelbeom) untuk
 | 2관왕 | igwanwang | mahkota ganda |
 | 기록 | girok | rekor |
 
-Pola untuk membandingkan angka: **지난 앨범보다 적게 팔렸어요** (jinan aelbeomboda jeokge pallyeosseoyo) – "Terjual lebih sedikit daripada album sebelumnya." Kata benda + **보다** berarti "daripada"; ganti **적게** (lebih sedikit) dengan **많이** (lebih banyak) untuk mengatakan kebalikannya: **지난 앨범보다 많이 팔렸어요**.
+Pola untuk membandingkan angka: **지난 앨범보다 적게 팔렸어요** (jinan aelbeomboda jeokke pallyeosseoyo [지난 앨범보다 적께 팔려써요]) – "Terjual lebih sedikit daripada album sebelumnya." Kata benda + **보다** berarti "daripada"; ganti **적게** (lebih sedikit) dengan **많이** (lebih banyak) untuk mengatakan kebalikannya: **지난 앨범보다 많이 팔렸어요**.
 
 Sumber: [Sports Kyunghyang – penjualan minggu pertama NCT WISH, 20 Okt.](https://sports.khan.co.kr/en/article/202610200819007/), [The Korea Times – NCT WISH merilis "I SPY", 12 Okt.](https://www.koreatimes.co.kr/entertainment/k-pop/20261012/nct-wish-drops-new-mini-album-i-spy-ahead-of-landmark-gocheok-sky-dome-concert), [SM Entertainment – video musik "I SPY"](https://www.youtube.com/watch?v=xIlFjHHUfI0)

@@ -34,7 +34,7 @@ Fíjate en que, en coreano, la lluvia y la nieve "vienen": **비가 와요** (bi
 | 날씨 | nalssi | clima, tiempo |
 | 일기 예보 | ilgi yebo | pronóstico del tiempo |
 | 기온 | gion | temperatura (del aire) |
-| 맑다 | makda | estar despejado, soleado |
+| 맑다 | makta [막따] | estar despejado, soleado |
 | 흐리다 | heurida | estar nublado |
 | 구름 | gureum | nube |
 | 해 / 햇빛 | hae / haetbit | sol / luz del sol |
@@ -47,8 +47,8 @@ Fíjate en que, en coreano, la lluvia y la nieve "vienen": **비가 와요** (bi
 | 천둥 / 번개 | cheondung / beongae | trueno / relámpago |
 | 안개 | angae | niebla |
 | 무지개 | mujigae | arcoíris |
-| 덥다 | deopda | hacer calor (clima) |
-| 춥다 | chupda | hacer frío (clima) |
+| 덥다 | deopta [덥따] | hacer calor (clima) |
+| 춥다 | chupta [춥따] | hacer frío (clima) |
 | 따뜻하다 | ttatteutada | estar templado, cálido |
 | 시원하다 | siwonhada | estar fresco, refrescante |
 | 쌀쌀하다 | ssalssalhada | estar fresquito, hacer algo de frío |
@@ -70,8 +70,8 @@ El polvo fino es parte de la vida diaria en Corea, y mucha gente revisa una apli
 **Verano (여름, yeoreum)**
 
 - **너무 더워요!** (Neomu deowoyo!): ¡Qué calor hace!
-- **장마가 시작됐어요.** (Jangmaga sijakdwaesseoyo.): Empezó la temporada de lluvias.
-- **갑자기 소나기가 왔어요.** (Gapjagi sonagiga wasseoyo.): De repente cayó un aguacero.
+- **장마가 시작됐어요.** (Jangmaga sijaktwaesseoyo. [장마가 시작뙈써요.]): Empezó la temporada de lluvias.
+- **갑자기 소나기가 왔어요.** (Gapjjagi sonagiga wasseoyo. [갑짜기 소나기가 와써요.]): De repente cayó un aguacero.
 
 El **장마** es la temporada de monzón de verano, que suele empezar a finales de junio. Espera días calurosos y pegajosos, así que vas a usar mucho **습해요** (seupaeyo): está húmedo.
 

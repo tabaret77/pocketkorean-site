@@ -46,7 +46,7 @@ Esta é a pergunta que pega as pessoas de surpresa:
 
 Suas respostas:
 
-- **먹고 갈게요.** (Meokgo galgeyo.) – Vou tomar aqui.
+- **먹고 갈게요.** (Meokko galgeyo. [먹꼬 갈게요.]) – Vou tomar aqui.
 - **가져갈게요.** (Gajyeogalgeyo.) – Vou levar.
 - **포장해 주세요.** (Pojanghae juseyo.) – Embrulha para viagem, por favor. Comum tanto para comida quanto para bebida.
 
@@ -91,7 +91,7 @@ Muitas vezes vão te entregar um **진동벨** (jindongbel) – um pager que vib
 |---|---|---|
 | 한 잔 주세요 | han jan juseyo | Uma xícara, por favor |
 | 아이스 / 따뜻한 거 | aiseu / ttatteutan geo | gelado / quente |
-| 먹고 갈게요 | meokgo galgeyo | Para tomar aqui |
+| 먹고 갈게요 | meokko galgeyo [먹꼬 갈게요] | Para tomar aqui |
 | [가져갈게요](/pt/dictionary/?q=가져가다) | gajyeogalgeyo | Para viagem |
 | 샷 추가해 주세요 | syat chugahae juseyo | Shot extra, por favor |
 | 시럽 빼 주세요 | sireop ppae juseyo | Sem xarope, por favor |

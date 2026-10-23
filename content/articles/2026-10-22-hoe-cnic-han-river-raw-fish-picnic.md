@@ -43,7 +43,7 @@ Autumn is the season for it, but it does not last. Temperatures have dropped rec
 | 치맥 | chimaek | chicken and beer |
 | [수산시장](/en/dictionary/?q=수산시장) | susansijang | fish market |
 | [포장](/en/dictionary/?q=포장) | pojang | packing; takeout |
-| 돗자리 | dotjari | picnic mat |
+| 돗자리 | dotjjari [돋짜리] | picnic mat |
 | 광어 | gwangeo | flatfish (olive flounder) |
 | 초고추장 | chogochujang | red chili dipping sauce |
 

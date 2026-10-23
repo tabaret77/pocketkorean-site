@@ -53,10 +53,10 @@ draft: false
 | [단풍](/zh-cn/dictionary/?q=단풍) | danpung | 红叶，秋叶 |
 | [연못](/zh-cn/dictionary/?q=연못) | yeonmot | 池塘 |
 | [정자](/zh-cn/dictionary/?q=정자) | jeongja | 亭子 |
-| [입장권](/zh-cn/dictionary/?q=입장권) | ipjanggwon | 门票 |
+| [입장권](/zh-cn/dictionary/?q=입장권) | ipjjanggwon [입짱권] | 门票 |
 | [예약](/zh-cn/dictionary/?q=예약) | yeyak | 预约，预订 |
 | 휴궁일 | hyugung-il | 宫殿闭馆日 |
 
-**후원 입장권 두 장 주세요.**（huwon ipjanggwon du jang juseyo.）——请给我两张秘苑门票。换掉**장**（jang）前面的数字就行，장是用于票和纸张的量词：한 장（han jang），세 장（se jang）。
+**후원 입장권 두 장 주세요.**（huwon ipjjanggwon du jang juseyo. [후원 입짱권 두 장 주세요.]）——请给我两张秘苑门票。换掉**장**（jang）前面的数字就行，장是用于票和纸张的量词：한 장（han jang），세 장（se jang）。
 
 资料来源：[The Seoul Guide – Changdeokgung](https://www.theseoulguide.com/changdeokgung-palace/), [Telltrip – Changdeokgung Huwon (Korean)](https://www.telltrip.com/domestic-travel/changdeokgung-huwon-secret-garden-visit/), [Segye Ilbo – free Wednesdays at palaces (Korean)](https://www.segye.com/newsView/20260526512458), [Mileasia – Changdeokgung guide](https://mileasia.com/korea/changdeokgung-palace/)

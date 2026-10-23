@@ -31,7 +31,7 @@ Trong tập 4, Su-jeong cứu một bệnh nhân cần truyền máu gấp, nh�
 
 ## Vì sao điều này đáng chú ý với người học
 
-Phim y khoa là cách tuyệt vời để học tiếng Hàn thực tế. Những từ như [병원](/vi/dictionary/?q=병원) (byeongwon) – bệnh viện, **응급실** (eungeupsil) – phòng cấp cứu và **수술** (susul) – phẫu thuật xuất hiện trong mọi tập, và chúng cũng hữu ích không kém nếu bạn cần đi khám bác sĩ ở Hàn Quốc. Hãy chú ý lối nói lịch sự, trang trọng giữa bác sĩ và bệnh nhân, và lối nói thân mật thô hơn hẳn giữa các đối thủ.
+Phim y khoa là cách tuyệt vời để học tiếng Hàn thực tế. Những từ như [병원](/vi/dictionary/?q=병원) (byeongwon) – bệnh viện, **응급실** (eungeupssil [응급씰]) – phòng cấp cứu và **수술** (susul) – phẫu thuật xuất hiện trong mọi tập, và chúng cũng hữu ích không kém nếu bạn cần đi khám bác sĩ ở Hàn Quốc. Hãy chú ý lối nói lịch sự, trang trọng giữa bác sĩ và bệnh nhân, và lối nói thân mật thô hơn hẳn giữa các đối thủ.
 
 ## Tiếng Hàn trong bài
 
@@ -41,7 +41,7 @@ Phim y khoa là cách tuyệt vời để học tiếng Hàn thực tế. Nhữn
 | 최고 시청률 | choego sicheongnyul | rating cao nhất (tính đến nay) |
 | 첫 방송 | cheot bangsong | tập đầu tiên, buổi phát sóng đầu tiên |
 | 병원 | byeongwon | bệnh viện |
-| 응급실 | eungeupsil | phòng cấp cứu |
+| 응급실 | eungeupssil [응급씰] | phòng cấp cứu |
 | 수술 | susul | phẫu thuật, ca mổ |
 | 외과 의사 | oegwa uisa | bác sĩ phẫu thuật (ngoại khoa) |
 

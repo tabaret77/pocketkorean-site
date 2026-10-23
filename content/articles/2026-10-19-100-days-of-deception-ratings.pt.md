@@ -25,7 +25,7 @@ A série vai ao ar aos sábados e domingos na tvN e também está na Netflix em 
 
 ## Uma batedora de carteiras que vira espiã
 
-A história se passa durante o período colonial japonês, que os coreanos chamam de **일제강점기** (Ilje gangjeomgi). Kim You-jung interpreta Ga-kyung, uma **소매치기** (somaechigi) – batedora de carteiras – talentosa que se infiltra no Governo-Geral japonês da Coreia. De dentro, ela começa a passar informações importantes para o **독립군** (dongnipgun) – o exército de independência coreano. Park Jin-young faz o protagonista masculino ao lado dela, e a série mistura espionagem com romance.
+A história se passa durante o período colonial japonês, que os coreanos chamam de **일제강점기** (Ilje gangjeomgi). Kim You-jung interpreta Ga-kyung, uma **소매치기** (somaechigi) – batedora de carteiras – talentosa que se infiltra no Governo-Geral japonês da Coreia. De dentro, ela começa a passar informações importantes para o **독립군** (dongnipkun [동닙꾼]) – o exército de independência coreano. Park Jin-young faz o protagonista masculino ao lado dela, e a série mistura espionagem com romance.
 
 O título aponta para uma contagem regressiva: a heroína precisa manter o disfarce, e o "engano" do título é ao mesmo tempo sua missão e uma fonte de tensão na história de amor.
 
@@ -41,7 +41,7 @@ Dramas de época ambientados entre os anos 1920 e 1940 usam muita fala formal, e
 | 주말 드라마 | jumal deurama | drama de fim de semana |
 | 소매치기 | somaechigi | batedor de carteiras |
 | 스파이 | seupai | espião |
-| 독립군 | dongnipgun | exército de independência |
+| 독립군 | dongnipkun [동닙꾼] | exército de independência |
 | 일제강점기 | Ilje gangjeomgi | período colonial japonês (1910–1945) |
 | [거짓말](/pt/dictionary/?q=거짓말) | geojinmal | mentira |
 

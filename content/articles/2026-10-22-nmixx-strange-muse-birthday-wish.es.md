@@ -48,9 +48,9 @@ La canción de subunidad "Sing to the Moon" también tiene un título en coreano
 | 생일 | saengil | cumpleaños |
 | 달 | dal | luna |
 | 타이틀곡 | taiteulgok | canción principal |
-| 수록곡 | surokgok | canción del álbum |
-| 작사 | jaksa | escribir letras |
-| 작곡 | jakgok | componer música |
+| 수록곡 | surokkok [수록꼭] | canción del álbum |
+| 작사 | jakssa [작싸] | escribir letras |
+| 작곡 | jakkok [작꼭] | componer música |
 | 앙코르 콘서트 | angkoreu konseoteu | concierto encore (de cierre) |
 
 Una estructura útil para expresar deseos: **건강하면 좋겠어요** (geonganghamyeon jokesseoyo): "Ojalá (estemos) sanos". Raíz verbal + **-(으)면 좋겠어요** significa "ojalá… / sería bueno que…"; las integrantes dicen que la buena salud es su mayor deseo para ellas y para sus fans.

@@ -45,7 +45,7 @@ draft: false
 |---|---|---|
 | 치킨 | chikin | ไก่ทอด |
 | 치맥 | chimaek | ไก่ทอดกับเบียร์ |
-| [맥주](/th/dictionary/?q=맥주) | maekju | เบียร์ |
+| [맥주](/th/dictionary/?q=맥주) | maekjju [맥쭈] | เบียร์ |
 | 양념 | yangnyeom | เครื่องปรุงรส; ไก่คลุกซอส |
 | 반반 | banban | ครึ่งต่อครึ่ง |
 | 순살 | sunsal | ไม่มีกระดูก |

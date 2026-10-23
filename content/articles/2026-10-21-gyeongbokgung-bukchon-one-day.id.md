@@ -72,7 +72,7 @@ Saat zona merah tutup, berjalanlah ke selatan menuju Insadong untuk menikmati te
 | [한옥](/id/dictionary/?q=한옥) | hanok | rumah tradisional Korea |
 | [한복](/id/dictionary/?q=한복) | hanbok | pakaian tradisional Korea |
 | 매표소 | maepyoso | loket tiket |
-| 입장료 | ipjangnyo | tiket masuk |
+| 입장료 | ipjjangnyo [입짱뇨] | tiket masuk |
 | 몇 시까지 해요? | myeot sikkaji haeyo? | Buka sampai jam berapa? (sopan) |
 | 사진 찍어도 돼요? | sajin jjigeodo dwaeyo? | Boleh saya ambil foto? (sopan) |
 | 조용히 해 주세요 | joyonghi hae juseyo | Mohon tenang |

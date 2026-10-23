@@ -65,6 +65,6 @@ Hãy giữ câu 너 T야? cho bạn bè; với đồng nghiệp hay người l�
 | 극I | geugai | người cực kỳ hướng nội |
 | 저 I예요 | jeo aiyeyo | Tôi là người hướng nội |
 
-Cấu trúc hữu ích: **저 극I라서 주말엔 집에 있어요.** (Jeo geugairaseo jumaren jibe isseoyo.) – Tôi hướng nội cực độ nên cuối tuần tôi ở nhà. **-(이)라서** nêu lý do: thay bằng bất kỳ danh từ nào, như **학생이라서** (haksaengiraseo) – vì tôi là học sinh.
+Cấu trúc hữu ích: **저 극I라서 주말엔 집에 있어요.** (Jeo geugairaseo jumaren jibe isseoyo.) – Tôi hướng nội cực độ nên cuối tuần tôi ở nhà. **-(이)라서** nêu lý do: thay bằng bất kỳ danh từ nào, như **학생이라서** (hakssaengiraseo [학쌩이라서]) – vì tôi là học sinh.
 
 Nguồn: [Yonhap qua Hanminjok Center – "MBTI가 어떻게 되세요?" (20/10/2026)](https://www.koreancenter.or.kr/news/articleView.html?idxno=1426956), [Hankyoreh 21 qua Daum – Vì sao T trở thành chữ cái "có vấn đề" trong MBTI](https://v.daum.net/v/20230815234812392), [The Korea Herald qua Asia News Network – "Cậu là T à?" là kiểu chê mới](https://asianews.network/?p=175825), [Yugacrew wiki – 극I](https://www.yugacrew.com/yugawiki/%EA%B7%B9I)

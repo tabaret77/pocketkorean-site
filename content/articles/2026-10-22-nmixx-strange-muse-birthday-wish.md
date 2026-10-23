@@ -47,9 +47,9 @@ The unit song "Sing to the Moon" also has a Korean title: **너는 달** (neoneu
 | 생일 | saengil | birthday |
 | 달 | dal | moon |
 | 타이틀곡 | taiteulgok | title track |
-| 수록곡 | surokgok | album track |
-| 작사 | jaksa | writing lyrics |
-| 작곡 | jakgok | composing music |
+| 수록곡 | surokkok [수록꼭] | album track |
+| 작사 | jakssa [작싸] | writing lyrics |
+| 작곡 | jakkok [작꼭] | composing music |
 | 앙코르 콘서트 | angkoreu konseoteu | encore concert |
 
 A useful pattern for wishes: **건강하면 좋겠어요** (geonganghamyeon jokesseoyo) – "I hope (we) stay healthy." Verb stem + **-(으)면 좋겠어요** means "I hope / it would be nice if …" – the members say good health is their biggest wish for themselves and their fans.

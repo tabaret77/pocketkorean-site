@@ -48,9 +48,9 @@ Lagu unit "Sing to the Moon" juga punya judul Korea: **너는 달** (neoneun dal
 | 생일 | saengil | ulang tahun |
 | 달 | dal | bulan |
 | 타이틀곡 | taiteulgok | lagu utama |
-| 수록곡 | surokgok | lagu dalam album |
-| 작사 | jaksa | menulis lirik |
-| 작곡 | jakgok | mengomposisi musik |
+| 수록곡 | surokkok [수록꼭] | lagu dalam album |
+| 작사 | jakssa [작싸] | menulis lirik |
+| 작곡 | jakkok [작꼭] | mengomposisi musik |
 | 앙코르 콘서트 | angkoreu konseoteu | konser encore |
 
 Pola yang berguna untuk menyampaikan harapan: **건강하면 좋겠어요** (geonganghamyeon jokesseoyo) – "Semoga (kita) selalu sehat." Batang kata kerja + **-(으)면 좋겠어요** berarti "semoga / alangkah baiknya kalau …" – para member bilang kesehatan adalah harapan terbesar mereka untuk diri sendiri dan para penggemar.

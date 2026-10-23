@@ -32,13 +32,13 @@ Trước tiên, một quy tắc nhanh: tất cả những từ này đều **th�
 
 **꿀잼** (kkuljaem) – siêu vui. **꿀** (kkul) nghĩa là mật ong, còn **잼** (jaem) bắt nguồn từ **재미** (jaemi) – sự thú vị. Ngược lại là **노잼** (nojaem) – chán, "không vui", từ chữ "no" trong tiếng Anh cộng với 잼.
 
-**갑분싸** (gapbunssa) – viết tắt của **갑자기 분위기 싸해짐** (gapjagi bunwigi ssahaejim) – "bầu không khí đột nhiên lạnh tanh". Đó là chuyện xảy ra khi ai đó pha một câu đùa vô duyên.
+**갑분싸** (gappunssa [갑뿐싸]) – viết tắt của **갑자기 분위기 싸해짐** (gapjjagi bunwigi ssahaejim [갑짜기 부뉘기 싸해짐]) – "bầu không khí đột nhiên lạnh tanh". Đó là chuyện xảy ra khi ai đó pha một câu đùa vô duyên.
 
 ## Con người và lối sống
 
 **인싸** (inssa) – người nổi tiếng, hòa đồng, từ chữ "insider" trong tiếng Anh. Ngược lại là **아싸** (assa) – người cô độc, từ "outsider". Cả hai đều thân mật và đôi khi được dùng để tự giễu: **저 완전 아싸예요** (Jeo wanjeon assayeyo) – "Tôi đúng là kẻ cô độc chính hiệu."
 
-**갓생** (gatsaeng) – cuộc sống năng suất, kỷ luật. Từ này kết hợp chữ "God" trong tiếng Anh với **생** (saeng), từ **인생** (insaeng) – cuộc đời. Mọi người đăng bài về **갓생 살기** (gatsaeng salgi) – "sống một cuộc đời đẳng cấp thần thánh": dậy sớm, học bài, tập thể dục.
+**갓생** (gatssaeng [갇쌩]) – cuộc sống năng suất, kỷ luật. Từ này kết hợp chữ "God" trong tiếng Anh với **생** (saeng), từ **인생** (insaeng) – cuộc đời. Mọi người đăng bài về **갓생 살기** (gatssaeng salgi [갇쌩 살기]) – "sống một cuộc đời đẳng cấp thần thánh": dậy sớm, học bài, tập thể dục.
 
 **오운완** (ounwan) – viết tắt của **오늘 운동 완료** (oneul undong wallyo) – "buổi tập hôm nay: xong". Bạn sẽ thấy nó dưới dạng hashtag trên những tấm ảnh selfie ở phòng gym.
 
@@ -50,7 +50,7 @@ Trước tiên, một quy tắc nhanh: tất cả những từ này đều **th�
 
 **국룰** (gungnul) – "luật quốc gia", nghĩa là một quy tắc bất thành văn ai cũng theo. Ví dụ: **치킨엔 콜라가 국룰이지** (Chikinen kollaga gungnuriji) – "Gà rán thì phải đi với cola – luật rồi."
 
-**킹받다** (kingbatda) – cực kỳ bực mình. Từ này pha chữ "king" trong tiếng Anh (nghĩa là cực kỳ) với **열받다** (yeolbatda) – nổi nóng. Nó mang tính đùa vui hơn là tức giận thật: **아, 킹받네** (A, kingbanne) – "Trời ạ, bực mình ghê." Thân mật, nhưng không thô lỗ.
+**킹받다** (kingbatta [킹받따]) – cực kỳ bực mình. Từ này pha chữ "king" trong tiếng Anh (nghĩa là cực kỳ) với **열받다** (yeolbatta [열받따]) – nổi nóng. Nó mang tính đùa vui hơn là tức giận thật: **아, 킹받네** (A, kingbanne) – "Trời ạ, bực mình ghê." Thân mật, nhưng không thô lỗ.
 
 **손절** (sonjeol) – cắt đứt quan hệ với ai đó. Ban đầu là thuật ngữ chứng khoán nghĩa là "cắt lỗ", giờ đây nó có nghĩa là chấm dứt một tình bạn hay mối quan hệ. Từ này có thể nghe gay gắt, nên hãy cẩn thận khi nói về người thật.
 
@@ -60,7 +60,7 @@ Trước tiên, một quy tắc nhanh: tất cả những từ này đều **th�
 
 **존맛** (jonmat) hoặc **존맛탱** (jonmattaeng) – "ngon kinh khủng". Từ này xuất hiện khắp nơi trong các bài đăng về đồ ăn, nhưng tiền tố **존-** (jon-) bắt nguồn từ một từ tục. Dùng giữa bạn thân trên mạng thì không sao; tuyệt đối không dùng với người lớn tuổi hơn hoặc ở nơi cần lịch sự. Bạn cũng sẽ thấy nó được viết là **JMT**, các chữ cái đầu bằng chữ Latinh, và cũng thô lỗ không kém. Một cách nói an toàn là **완전 맛있어요** (wanjeon masisseoyo) – "ngon thật sự".
 
-**개-** (gae-) làm tiền tố, như trong **개웃겨** (gaeutgyeo) – "buồn cười chết mất" – nghĩa là "cực kỳ". **개** nghĩa đen là con chó, và tiền tố này khá thô. Giới trẻ dùng nó rất nhiều với bạn bè, nhưng nhiều người nghe thấy nó khá thô tục.
+**개-** (gae-) làm tiền tố, như trong **개웃겨** (gaeutkyeo [개욷껴]) – "buồn cười chết mất" – nghĩa là "cực kỳ". **개** nghĩa đen là con chó, và tiền tố này khá thô. Giới trẻ dùng nó rất nhiều với bạn bè, nhưng nhiều người nghe thấy nó khá thô tục.
 
 ## Tiếng Hàn bạn có thể dùng
 
@@ -70,9 +70,9 @@ Trước tiên, một quy tắc nhanh: tất cả những từ này đều **th�
 | 헐 | heol | ôi, không thể nào |
 | 대박 | daebak | đỉnh, không tin nổi |
 | 꿀잼 / 노잼 | kkuljaem / nojaem | siêu vui / chán |
-| [갓생](/vi/dictionary/?q=갓생) | gatsaeng | cuộc sống năng suất |
+| [갓생](/vi/dictionary/?q=갓생) | gatssaeng [갇쌩] | cuộc sống năng suất |
 | 내돈내산 | naedonnaesan | tự bỏ tiền ra mua |
 | 국룰 | gungnul | quy tắc bất thành văn |
-| [킹받다](/vi/dictionary/?q=킹받다) | kingbatda | cực kỳ bực mình (thân mật) |
+| [킹받다](/vi/dictionary/?q=킹받다) | kingbatta [킹받따] | cực kỳ bực mình (thân mật) |
 
 Tiếng lóng thay đổi rất nhanh, và những từ nghe mới mẻ hôm nay có thể trở nên lỗi thời sau một hai năm. Hãy học cách nhận ra chúng, dùng vài từ với bạn bè, và giữ tiếng Hàn chuẩn làm mặc định ở mọi nơi khác.

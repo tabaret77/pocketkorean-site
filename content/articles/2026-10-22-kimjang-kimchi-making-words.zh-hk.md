@@ -19,7 +19,7 @@ draft: false
 一般的醃泡菜日都依照相同步驟，每一步都有自己的動詞：
 
 1. **절이다**（jeorida）——醃。切半的白菜會用鹽水浸泡或灑上鹽，令它變軟。現在很多家庭會購買已醃好的白菜 **절임배추**（jeorimbaechu），省下一日的工夫。
-2. **[씻다](/zh-hk/dictionary/?q=씻다)**（ssitda）——洗。把醃好的白菜沖洗乾淨，再瀝乾。
+2. **[씻다](/zh-hk/dictionary/?q=씻다)**（ssitta [씯따]）——洗。把醃好的白菜沖洗乾淨，再瀝乾。
 3. **양념을 만들다**（yangnyeomeul mandeulda）——調製醬料：辣椒粉、蒜頭、薑、魚露、蘿蔔絲和葱。
 4. **[버무리다](/zh-hk/dictionary/?q=버무리다)**（beomurida）——拌勻。大家戴上膠手套，圍坐在一個大盆旁邊，把紅色的餡料抹進每一片菜葉之間。
 5. **[담그다](/zh-hk/dictionary/?q=담그다)**（damgeuda）——醃製（泡菜、醃菜）。完成的泡菜會放入容器，通常再放進專用的泡菜雪櫃。
@@ -36,11 +36,11 @@ draft: false
 | 배추 | baechu | 白菜（紹菜） |
 | 무 | mu | 韓國蘿蔔 |
 | 소금 | sogeum | 鹽 |
-| 고춧가루 | gochutgaru | 紅辣椒粉 |
+| 고춧가루 | gochutkaru [고춛까루] | 紅辣椒粉 |
 | 마늘 | maneul | 蒜頭 |
 | 생강 | saenggang | 薑 |
 | 파 | pa | 葱 |
-| 젓갈 | jeotgal | 鹽漬發酵海鮮 |
+| 젓갈 | jeotkal [젇깔] | 鹽漬發酵海鮮 |
 | 새우젓 | saeujeot | 鹽漬蝦醬 |
 | 양념 | yangnyeom | 調味料、醬料 |
 | 속 | sok | 餡料（塞在菜葉之間） |
@@ -48,11 +48,11 @@ draft: false
 | 고무장갑 | gomujanggap | 膠手套 |
 | 김치냉장고 | gimchinaengjanggo | 泡菜雪櫃 |
 | 수육 | suyuk | 白切豬肉片 |
-| 깍두기 | kkakdugi | 蘿蔔粒泡菜 |
+| 깍두기 | kkaktugi [깍뚜기] | 蘿蔔粒泡菜 |
 | 담그다 | damgeuda | 醃製（泡菜） |
 | 절이다 | jeorida | 醃 |
 | 버무리다 | beomurida | 拌勻 |
-| 익다 | ikda | 熟成、發酵 |
+| 익다 | ikta [익따] | 熟成、發酵 |
 | 나누다 | nanuda | 分享 |
 
 ## 注意發音
@@ -61,16 +61,16 @@ draft: false
 
 - **고춧가루** 讀作 [고추까루]——中間的 ㅅ 令 ㄱ 變成緊音：「go-chu-kka-ru」。
 - **젓갈** 讀作 [젇깔]：收尾的 ㅅ 聽起來像 t，後面的 ㄱ 變成緊音：「jeot-kkal」。
-- **익다** 讀作 [익따]（ikda），而 **익었어요**（igeosseoyo）——熟了——則會把 ㄱ 連到下一個音節。
+- **익다** 讀作 [익따]（ikta），而 **익었어요**（igeosseoyo）——熟了——則會把 ㄱ 連到下一個音節。
 
 ## 味道詞彙
 
 醃泡菜時，人人對味道都有意見。你會聽到：
 
-- **맵다**（maepda）——辣 → **좀 매워요**（jom maewoyo）——有點辣
+- **맵다**（maepta [맵따]）——辣 → **좀 매워요**（jom maewoyo）——有點辣
 - **짜다**（jjada）——鹹 → **너무 짜요**（neomu jjayo）——太鹹了
-- **싱겁다**（singgeopda）——淡、不夠鹹 → **좀 싱거워요**（jom singgeowoyo）
-- **맛있다**（masitda）——好吃 → **진짜 맛있어요!**（jinjja masisseoyo!）
+- **싱겁다**（singgeopta [싱겁따]）——淡、不夠鹹 → **좀 싱거워요**（jom singgeowoyo）
+- **맛있다**（masitta [마싣따]）——好吃 → **진짜 맛있어요!**（jinjja masisseoyo!）
 
 **맵다** 和 **싱겁다** 是 ㅂ 不規則動詞，所以 ㅂ 會變成 우：매워요、싱거워요。
 

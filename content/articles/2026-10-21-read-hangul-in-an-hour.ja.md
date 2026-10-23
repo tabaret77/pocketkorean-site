@@ -105,7 +105,7 @@ draft: false
 | 자음 | jaeum | 子音 |
 | 모음 | moeum | 母音 |
 | 받침 | batchim | パッチム（最後の子音） |
-| [읽다](/ja/dictionary/?q=읽다) | ikda | 読む |
+| [읽다](/ja/dictionary/?q=읽다) | ikta [익따] | 読む |
 | 이거 어떻게 읽어요? | igeo eotteoke ilgeoyo? | これはどう読みますか？ |
 
 ブロックのしくみがわかれば、出会う韓国語の単語はすべて声に出して読めるものになります。それこそが、韓国語学習の本当のスタートです。

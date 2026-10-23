@@ -44,7 +44,7 @@ draft: false
 | 치맥 | chimaek | курица и пиво |
 | [수산시장](/ru/dictionary/?q=수산시장) | susansijang | рыбный рынок |
 | [포장](/ru/dictionary/?q=포장) | pojang | упаковка; навынос |
-| 돗자리 | dotjari | коврик для пикника |
+| 돗자리 | dotjjari [돋짜리] | коврик для пикника |
 | 광어 | gwangeo | камбала (оливковая камбала) |
 | 초고추장 | chogochujang | красный острый соус для макания |
 

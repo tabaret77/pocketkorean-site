@@ -29,7 +29,7 @@ Like most drama dialogue between close characters, these lines are in casual spe
 
 ## 4. 아직도 화났어? – Are you still mad?
 
-**아직도 화났어?** (Ajikdo hwanasseo?) checks whether the storm has passed. **화나다** (hwanada) means to get angry, and the past tense 화났어 describes the state of being angry now. The sulky answer is often **됐어** (dwaesseo) – "forget it" – which means the apology needs more work.
+**아직도 화났어?** (Ajikto hwanasseo? [아직또 화나써?]) checks whether the storm has passed. **화나다** (hwanada) means to get angry, and the past tense 화났어 describes the state of being angry now. The sulky answer is often **됐어** (dwaesseo) – "forget it" – which means the apology needs more work.
 
 ## 5. 화 풀어 – Don't be mad anymore
 
@@ -63,7 +63,7 @@ A real Korean apology often depends on hierarchy more than drama does. With frie
 | 죄송합니다 | joesonghamnida | I'm sorry (formal) |
 | 내가 잘못했어 | naega jalmotaesseo | It was my fault |
 | 내 말 좀 들어 봐 | nae mal jom deureo bwa | Just hear me out |
-| 아직도 화났어? | ajikdo hwanasseo? | Are you still mad? |
+| 아직도 화났어? | ajikto hwanasseo? [아직또 화나써?] | Are you still mad? |
 | 화 풀어 | hwa pureo | Don't be mad anymore |
 | 다시는 안 그럴게 | dasineun an geureolge | I won't do it again |
 | 한 번만 봐줘 | han beonman bwajwo | Let it go just this once |

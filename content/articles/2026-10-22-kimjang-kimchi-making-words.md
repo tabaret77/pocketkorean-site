@@ -18,7 +18,7 @@ When the air turns cold in Korea, markets fill with stacks of cabbages and sacks
 A typical kimjang day follows the same steps, and each one has its own verb:
 
 1. **절이다** (jeorida) – to salt. Halved cabbages are soaked or sprinkled with salt so they soften. Many families now buy ready-salted cabbage, **절임배추** (jeorimbaechu), to save a day of work.
-2. **[씻다](/en/dictionary/?q=씻다)** (ssitda) – to wash. The salted cabbage is rinsed and drained.
+2. **[씻다](/en/dictionary/?q=씻다)** (ssitta [씯따]) – to wash. The salted cabbage is rinsed and drained.
 3. **양념을 만들다** (yangnyeomeul mandeulda) – to make the seasoning: chilli flakes, garlic, ginger, fish sauce, shredded radish and spring onion.
 4. **[버무리다](/en/dictionary/?q=버무리다)** (beomurida) – to mix and coat. Everyone sits around a big tub, wearing rubber gloves, and rubs the red filling between every leaf.
 5. **[담그다](/en/dictionary/?q=담그다)** (damgeuda) – to make (kimchi, pickles). The finished kimchi goes into containers, often into a dedicated kimchi fridge.
@@ -35,11 +35,11 @@ Then comes the best part: eating boiled pork wrapped in fresh, just-made kimchi,
 | 배추 | baechu | napa cabbage |
 | 무 | mu | Korean radish |
 | 소금 | sogeum | salt |
-| 고춧가루 | gochutgaru | red chilli flakes |
+| 고춧가루 | gochutkaru [고춛까루] | red chilli flakes |
 | 마늘 | maneul | garlic |
 | 생강 | saenggang | ginger |
 | 파 | pa | spring onion |
-| 젓갈 | jeotgal | salted fermented seafood |
+| 젓갈 | jeotkal [젇깔] | salted fermented seafood |
 | 새우젓 | saeujeot | salted shrimp |
 | 양념 | yangnyeom | seasoning, sauce |
 | 속 | sok | filling (stuffed between the leaves) |
@@ -47,11 +47,11 @@ Then comes the best part: eating boiled pork wrapped in fresh, just-made kimchi,
 | 고무장갑 | gomujanggap | rubber gloves |
 | 김치냉장고 | gimchinaengjanggo | kimchi fridge |
 | 수육 | suyuk | boiled pork slices |
-| 깍두기 | kkakdugi | cubed radish kimchi |
+| 깍두기 | kkaktugi [깍뚜기] | cubed radish kimchi |
 | 담그다 | damgeuda | to make (kimchi) |
 | 절이다 | jeorida | to salt |
 | 버무리다 | beomurida | to mix and coat |
-| 익다 | ikda | to ripen, ferment |
+| 익다 | ikta [익따] | to ripen, ferment |
 | 나누다 | nanuda | to share |
 
 ## Watch the pronunciation
@@ -60,16 +60,16 @@ A few of these don't sound the way they're spelled:
 
 - **고춧가루** is said [고추까루] – the ㅅ in the middle makes the ㄱ tense: "go-chu-kka-ru".
 - **젓갈** is said [젇깔]: the final ㅅ sounds like a t, and the ㄱ after it becomes tense: "jeot-kkal".
-- **익다** is said [익따] (ikda), and **익었어요** (igeosseoyo) – it's ripe – links the ㄱ to the next syllable.
+- **익다** is said [익따] (ikta), and **익었어요** (igeosseoyo) – it's ripe – links the ㄱ to the next syllable.
 
 ## Taste words
 
 Kimjang is also when everyone has an opinion about flavour. You'll hear:
 
-- **맵다** (maepda) – to be spicy → **좀 매워요** (jom maewoyo) – it's a bit spicy
+- **맵다** (maepta [맵따]) – to be spicy → **좀 매워요** (jom maewoyo) – it's a bit spicy
 - **짜다** (jjada) – to be salty → **너무 짜요** (neomu jjayo) – it's too salty
-- **싱겁다** (singgeopda) – to be bland, not salty enough → **좀 싱거워요** (jom singgeowoyo)
-- **맛있다** (masitda) – to be delicious → **진짜 맛있어요!** (jinjja masisseoyo!)
+- **싱겁다** (singgeopta [싱겁따]) – to be bland, not salty enough → **좀 싱거워요** (jom singgeowoyo)
+- **맛있다** (masitta [마싣따]) – to be delicious → **진짜 맛있어요!** (jinjja masisseoyo!)
 
 **맵다** and **싱겁다** are ㅂ-irregular verbs, so the ㅂ turns into 우: 매워요, 싱거워요.
 

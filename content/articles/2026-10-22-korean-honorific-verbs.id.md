@@ -20,14 +20,14 @@ Kata-kata ini menggantikan kata kerja biasa ketika subjeknya adalah orang yang k
 
 | Biasa | Hormat | Arti |
 |---|---|---|
-| 먹다 (meokda), 마시다 (masida) | **[드시다](/id/dictionary/?q=드시다)** (deusida) | makan, minum |
-| 먹다 (meokda) | **[잡수시다](/id/dictionary/?q=잡수시다)** (japsusida) | makan (sangat hormat) |
+| 먹다 (meokta [먹따]), 마시다 (masida) | **[드시다](/id/dictionary/?q=드시다)** (deusida) | makan, minum |
+| 먹다 (meokta [먹따]) | **[잡수시다](/id/dictionary/?q=잡수시다)** (japssusida [잡쑤시다]) | makan (sangat hormat) |
 | 자다 (jada) | **[주무시다](/id/dictionary/?q=주무시다)** (jumusida) | tidur |
-| 있다 (itda) | **[계시다](/id/dictionary/?q=계시다)** (gyesida) | berada (di suatu tempat) |
+| 있다 (itta [읻따]) | **[계시다](/id/dictionary/?q=계시다)** (gyesida) | berada (di suatu tempat) |
 | 말하다 (malhada) | **말씀하시다** (malsseumhasida) | berbicara |
-| 죽다 (jukda) | **돌아가시다** (doragasida) | meninggal dunia |
+| 죽다 (jukta [죽따]) | **돌아가시다** (doragasida) | meninggal dunia |
 
-Jadi kepada teman kamu bilang **밥 먹었어?** (Bap meogeosseo?), tetapi kepada nenekmu **할머니, 진지 드셨어요?** (Halmeoni, jinji deusyeosseoyo?). 잡수시다 bahkan lebih hormat dan terdengar agak kuno; kamu kebanyakan akan mendengarnya dipakai kepada kakek-nenek: **진지 잡수셨어요?** (Jinji japsusyeosseoyo?)
+Jadi kepada teman kamu bilang **밥 먹었어?** (Bap meogeosseo?), tetapi kepada nenekmu **할머니, 진지 드셨어요?** (Halmeoni, jinji deusyeosseoyo?). 잡수시다 bahkan lebih hormat dan terdengar agak kuno; kamu kebanyakan akan mendengarnya dipakai kepada kakek-nenek: **진지 잡수셨어요?** (Jinji japssusyeosseoyo? [진지 잡쑤셔써요?])
 
 Saat waktu tidur, **잘 자** (jal ja) – tidur yang nyenyak – menjadi **안녕히 주무세요** (annyeonghi jumuseyo) untuk siapa pun yang lebih tua.
 
@@ -40,8 +40,8 @@ Separuh lain dari sistem ini bekerja sebaliknya. Ketika *kamu* melakukan sesuatu
 | Biasa | Merendah | Arti |
 |---|---|---|
 | 주다 (juda) | **[드리다](/id/dictionary/?q=드리다)** (deurida) | memberi |
-| 묻다 (mutda) | **[여쭙다](/id/dictionary/?q=여쭙다)** (yeojjupda) | bertanya |
-| 보다 (boda) | **뵙다** (boepda) | melihat, bertemu |
+| 묻다 (mutta [묻따]) | **[여쭙다](/id/dictionary/?q=여쭙다)** (yeojjupta [여쭙따]) | bertanya |
+| 보다 (boda) | **뵙다** (boepta [뵙따]) | melihat, bertemu |
 | 데리다 (derida) | **모시다** (mosida) | membawa, mengantar |
 
 Kamu sudah mengenal beberapa di antaranya dari ungkapan baku: **처음 뵙겠습니다** (cheoeum boepgetseumnida) – "Senang berkenalan dengan Anda" – dan pelayan toko yang bertanya **뭐 드릴까요?** (Mwo deurilkkayo?) – "Mau pesan apa?" Untuk mengajukan pertanyaan kepada guru: **하나 여쭤봐도 될까요?** (Hana yeojjwobwado doelkkayo?) – Boleh saya bertanya sesuatu?

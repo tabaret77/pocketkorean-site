@@ -50,6 +50,6 @@ draft: false
 | 검색량 | geomsaengnyang | 搜索量 |
 | 매출 | maechul | 销售额 |
 
-一个购物句型：**다른 색깔도 있어요?**（Dareun saekkkaldo isseoyo?）——“还有别的颜色吗？”名词 + **도**表示“也”；你也可以直接说出颜色：**보라색도 있어요?**（Borasaekdo isseoyo?）——“也有紫色的吗？”
+一个购物句型：**다른 색깔도 있어요?**（Dareun saekkkaldo isseoyo?）——“还有别的颜色吗？”名词 + **도**表示“也”；你也可以直接说出颜色：**보라색도 있어요?**（Borasaekto isseoyo? [보라색또 이써요?]）——“也有紫色的吗？”
 
 资料来源：[Segye Ilbo – colour is in for outerwear this year, Oct. 23 (Korean)](https://www.segye.com/newsView/20261022518265), [Hankyung – "I'm not wearing a black puffer this year", Oct. 11 (Korean)](https://www.hankyung.com/article/202610080733g)

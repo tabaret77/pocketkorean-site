@@ -52,10 +52,10 @@ Take Line 3 to **안국역** (Angukyeok), Anguk Station, exit 3, and walk along 
 | [단풍](/en/dictionary/?q=단풍) | danpung | autumn leaves |
 | [연못](/en/dictionary/?q=연못) | yeonmot | pond |
 | [정자](/en/dictionary/?q=정자) | jeongja | pavilion |
-| [입장권](/en/dictionary/?q=입장권) | ipjanggwon | admission ticket |
+| [입장권](/en/dictionary/?q=입장권) | ipjjanggwon [입짱권] | admission ticket |
 | [예약](/en/dictionary/?q=예약) | yeyak | booking, reservation |
 | 휴궁일 | hyugung-il | palace closing day |
 
-**후원 입장권 두 장 주세요.** (huwon ipjanggwon du jang juseyo.) – Two Secret Garden tickets, please. Swap the number before **장** (jang), the counter for tickets and sheets of paper: 한 장 (han jang), 세 장 (se jang).
+**후원 입장권 두 장 주세요.** (huwon ipjjanggwon du jang juseyo. [후원 입짱권 두 장 주세요.]) – Two Secret Garden tickets, please. Swap the number before **장** (jang), the counter for tickets and sheets of paper: 한 장 (han jang), 세 장 (se jang).
 
 Sources: [The Seoul Guide – Changdeokgung](https://www.theseoulguide.com/changdeokgung-palace/), [Telltrip – Changdeokgung Huwon (Korean)](https://www.telltrip.com/domestic-travel/changdeokgung-huwon-secret-garden-visit/), [Segye Ilbo – free Wednesdays at palaces (Korean)](https://www.segye.com/newsView/20260526512458), [Mileasia – Changdeokgung guide](https://mileasia.com/korea/changdeokgung-palace/)

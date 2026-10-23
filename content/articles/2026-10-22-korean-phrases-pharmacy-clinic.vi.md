@@ -13,7 +13,7 @@ thumb: /media/covers/korean-phrases-pharmacy-clinic-p1-t.jpg
 draft: false
 ---
 
-Cuối thu ở Hàn Quốc mang đến không khí khô, những buổi sáng se lạnh và đợt cảm cúm đầu tiên. Tìm sự trợ giúp khá dễ dàng: hiệu thuốc, **[약국](/vi/dictionary/?q=약국)** (yakguk), có ở gần như mọi con phố, được đánh dấu bằng chữ **약** (yak), "thuốc", to màu xanh lá hoặc đỏ, và các phòng khám nhỏ trong khu dân cư tiếp nhận bệnh nhân đến trực tiếp mà không cần hẹn trước. Chỉ vài câu ngắn là bạn đã giải quyết được phần lớn tình huống. Tất cả các câu dưới đây đều dùng đuôi lịch sự **-요** (-yo).
+Cuối thu ở Hàn Quốc mang đến không khí khô, những buổi sáng se lạnh và đợt cảm cúm đầu tiên. Tìm sự trợ giúp khá dễ dàng: hiệu thuốc, **[약국](/vi/dictionary/?q=약국)** (yakkuk [약꾹]), có ở gần như mọi con phố, được đánh dấu bằng chữ **약** (yak), "thuốc", to màu xanh lá hoặc đỏ, và các phòng khám nhỏ trong khu dân cư tiếp nhận bệnh nhân đến trực tiếp mà không cần hẹn trước. Chỉ vài câu ngắn là bạn đã giải quyết được phần lớn tình huống. Tất cả các câu dưới đây đều dùng đuôi lịch sự **-요** (-yo).
 
 ## Cấu trúc duy nhất bạn cần
 
@@ -42,11 +42,11 @@ Khi hiệu thuốc đóng cửa, cửa hàng tiện lợi có bán một số í
 
 Khi bị cảm hay chấn thương nhẹ, người Hàn đến phòng khám nhỏ, **[의원](/vi/dictionary/?q=의원)** (uiwon), thường được đặt tên theo chuyên khoa: **내과** (naegwa) là khoa nội, **이비인후과** (ibiinhugwa) là khoa tai mũi họng. Các bệnh viện lớn hơn, **[병원](/vi/dictionary/?q=병원)** (byeongwon), dành cho các trường hợp nghiêm trọng.
 
-7. **진료 받고 싶어요.** (jillyo batgo sipeoyo.) – Tôi muốn khám bệnh.
+7. **진료 받고 싶어요.** (jillyo batko sipeoyo. [질료 받꼬 시퍼요.]) – Tôi muốn khám bệnh.
 8. **처음 왔어요.** (cheoeum wasseoyo.) – Tôi đến lần đầu. *Quầy lễ tân sẽ yêu cầu hộ chiếu hoặc thẻ cư trú của bạn.*
 9. **영어 하는 의사 선생님 있어요?** (yeongeo haneun uisa seonsaengnim isseoyo?) – Có bác sĩ nào nói tiếng Anh không ạ?
 10. **여기가 아파요.** (yeogiga apayo.) – Tôi đau ở đây. *Chỉ vào chỗ đau.*
-11. **보험이 없어요.** (boheomi eopseoyo.) – Tôi không có bảo hiểm (Hàn Quốc).
+11. **보험이 없어요.** (boheomi eopsseoyo. [보허미 업써요.]) – Tôi không có bảo hiểm (Hàn Quốc).
 12. **처방전 주세요.** (cheobangjeon juseyo.) – Cho tôi xin đơn thuốc ạ. *Phòng khám kê đơn thuốc, **[처방전](/vi/dictionary/?q=처방전)** (cheobangjeon), và bạn mang đơn đến hiệu thuốc, thường nằm ngay trong cùng tòa nhà.*
 13. **진단서 받을 수 있어요?** (jindanseo badeul su isseoyo?) – Tôi có thể xin giấy chứng nhận y tế không? *Hữu ích khi yêu cầu bồi thường bảo hiểm du lịch.*
 
@@ -62,7 +62,7 @@ Câu quan trọng nhất: **도와주세요!** (dowajuseyo!) – Cứu tôi vớ
 
 | Tiếng Hàn | Phiên âm | Nghĩa |
 |---|---|---|
-| [약국](/vi/dictionary/?q=약국) | yakguk | hiệu thuốc |
+| [약국](/vi/dictionary/?q=약국) | yakkuk [약꾹] | hiệu thuốc |
 | [약](/vi/dictionary/?q=약) | yak | thuốc |
 | [감기](/vi/dictionary/?q=감기) | gamgi | cảm |
 | [열](/vi/dictionary/?q=열) | yeol | sốt |

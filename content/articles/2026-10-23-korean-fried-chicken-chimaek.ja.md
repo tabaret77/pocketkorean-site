@@ -45,7 +45,7 @@ draft: false
 |---|---|---|
 | 치킨 | chikin | フライドチキン |
 | 치맥 | chimaek | チキンとビール |
-| [맥주](/ja/dictionary/?q=맥주) | maekju | ビール |
+| [맥주](/ja/dictionary/?q=맥주) | maekjju [맥쭈] | ビール |
 | 양념 | yangnyeom | 味付け、ヤンニョムチキン |
 | 반반 | banban | ハーフ＆ハーフ |
 | 순살 | sunsal | 骨なし |

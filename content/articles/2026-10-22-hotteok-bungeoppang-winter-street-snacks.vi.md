@@ -33,7 +33,7 @@ draft: false
 
 Giá cả khác nhau tùy quầy. Tính đến tháng 10/2026, không có giá chính thức, nhưng các bản tin mùa đông năm ngoái cho biết bungeoppang thường được bán khoảng 2.000 won ba chiếc, và một số quầy bán 1.000 won một chiếc. Người Hàn lớn tuổi vẫn nhớ thời 1.000 won mua được ba, thậm chí bốn chiếc.
 
-Các quầy hàng cũng trở nên khó tìm hơn. Theo một bài báo tháng 11/2025, giá đậu đỏ đã tăng hơn một lần rưỡi trong một năm, bột mì và dầu ăn vẫn đắt, và số người bán hàng rong ở Seoul đã giảm hơn một phần năm, từ 6.079 người vào năm 2020 xuống còn 4.741 người theo số liệu mới nhất được trích dẫn. Nhiều người Hàn hiện dùng một ứng dụng bản đồ do cộng đồng đóng góp, **가슴속3천원** (gaseumsok samcheonwon), "3.000 won trong tim", để tìm quầy gần nhất. Thậm chí còn có một từ đùa để chỉ việc sống gần một quầy như vậy: **붕세권** (bungsegwon), chơi chữ từ **역세권** (yeoksegwon), "trong khoảng cách đi bộ đến ga tàu".
+Các quầy hàng cũng trở nên khó tìm hơn. Theo một bài báo tháng 11/2025, giá đậu đỏ đã tăng hơn một lần rưỡi trong một năm, bột mì và dầu ăn vẫn đắt, và số người bán hàng rong ở Seoul đã giảm hơn một phần năm, từ 6.079 người vào năm 2020 xuống còn 4.741 người theo số liệu mới nhất được trích dẫn. Nhiều người Hàn hiện dùng một ứng dụng bản đồ do cộng đồng đóng góp, **가슴속3천원** (gaseumsok samcheonwon), "3.000 won trong tim", để tìm quầy gần nhất. Thậm chí còn có một từ đùa để chỉ việc sống gần một quầy như vậy: **붕세권** (bungsegwon), chơi chữ từ **역세권** (yeokssegwon [역쎄권]), "trong khoảng cách đi bộ đến ga tàu".
 
 Hãy mang theo tiền mặt hoặc chuẩn bị sẵn phương án chuyển khoản ngân hàng: nhiều quầy nhỏ thích tiền mặt hơn, dù ngày càng nhiều quầy nhận thẻ.
 
@@ -58,7 +58,7 @@ Chỉ vào món và dùng số đếm với **개** (gae), lượng từ chung �
 | [어묵](/vi/dictionary/?q=어묵) | eomuk | chả cá |
 | [국물](/vi/dictionary/?q=국물) | gungmul | nước dùng |
 | [포장](/vi/dictionary/?q=포장) | pojang | gói lại, mang về |
-| [뜨겁다](/vi/dictionary/?q=뜨겁다) | tteugeopda | nóng (khi chạm vào) |
+| [뜨겁다](/vi/dictionary/?q=뜨겁다) | tteugeopta [뜨겁따] | nóng (khi chạm vào) |
 
 **[số tiền] + 어치 주세요.** – **삼천 원어치 주세요.** (samcheon woneochi juseyo.) – Cho tôi 3.000 won.
 

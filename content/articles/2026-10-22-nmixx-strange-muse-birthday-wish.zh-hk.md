@@ -48,9 +48,9 @@ NMIXX回歸了，而且來勢很快。這隊JYP Entertainment女團在2026年10�
 | 생일 | saengil | 生日 |
 | 달 | dal | 月亮 |
 | 타이틀곡 | taiteulgok | 主打歌 |
-| 수록곡 | surokgok | 專輯收錄曲 |
-| 작사 | jaksa | 作詞 |
-| 작곡 | jakgok | 作曲 |
+| 수록곡 | surokkok [수록꼭] | 專輯收錄曲 |
+| 작사 | jakssa [작싸] | 作詞 |
+| 작곡 | jakkok [작꼭] | 作曲 |
 | 앙코르 콘서트 | angkoreu konseoteu | 安哥演唱會 |
 
 一個表達願望的實用句型：**건강하면 좋겠어요**（geonganghamyeon jokesseoyo）——「希望（大家）身體健康。」動詞詞幹 + **-(으)면 좋겠어요** 解作「希望……／如果……就好了」——成員們說，身體健康是她們對自己和粉絲最大的願望。

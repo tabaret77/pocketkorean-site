@@ -19,7 +19,7 @@ Kalau kamu hanya mau mempelajari satu akhiran kata kerja dalam bahasa Korea, pil
 Kata kerja dan kata sifat Korea tercantum di kamus dengan akhiran **-다** (-da). Buang 다 dan kamu mendapatkan akar katanya (stem):
 
 - **가다** (gada) – pergi → akar 가-
-- **먹다** (meokda) – makan → akar 먹-
+- **먹다** (meokta [먹따]) – makan → akar 먹-
 - **좋다** (jota) – bagus, baik → akar 좋-
 
 ## Langkah 2: lihat vokal terakhirnya
@@ -34,9 +34,9 @@ Sekarang lihat vokal pada **suku kata terakhir akar kata**.
 |---|---|---|---|
 | 살다 (salda) | ㅏ | 살아요 (sarayo) | (aku) tinggal |
 | 좋다 (jota) | ㅗ | 좋아요 (joayo) | (itu) bagus |
-| 먹다 (meokda) | ㅓ | 먹어요 (meogeoyo) | (aku) makan |
-| 읽다 (ikda) | ㅣ | 읽어요 (ilgeoyo) | (aku) membaca |
-| 있다 (itda) | ㅣ | 있어요 (isseoyo) | ada / (aku) punya |
+| 먹다 (meokta [먹따]) | ㅓ | 먹어요 (meogeoyo) | (aku) makan |
+| 읽다 (ikta [익따]) | ㅣ | 읽어요 (ilgeoyo) | (aku) membaca |
+| 있다 (itta [읻따]) | ㅣ | 있어요 (isseoyo) | ada / (aku) punya |
 | 공부하다 (gongbuhada) | 하다 | 공부해요 (gongbuhaeyo) | (aku) belajar |
 
 Baris terakhir itulah yang terlihat "tidak beraturan", padahal sepenuhnya bisa ditebak: semua kata kerja 하다 mengikutinya. **일하다** (ilhada) – bekerja → **일해요** (ilhaeyo); **좋아하다** (joahada) – suka → **좋아해요** (joahaeyo).
@@ -60,7 +60,7 @@ Akar kata yang berakhiran **ㅡ** membuang ㅡ, lalu lihat suku kata sebelumnya:
 - 바쁘다 (bappeuda) – sibuk → **바빠요** (bappayo), karena suku kata sebelumnya adalah 바
 - 예쁘다 (yeppeuda) – cantik → **예뻐요** (yeppeoyo)
 
-Ada beberapa kata kerja yang benar-benar tidak beraturan, seperti **덥다** (deopda) – panas → **더워요** (deowoyo), atau **모르다** (moreuda) – tidak tahu → **몰라요** (mollayo). Hafalkan saja saat kamu menemukannya; aturan di atas sudah mencakup sebagian besar kata kerja.
+Ada beberapa kata kerja yang benar-benar tidak beraturan, seperti **덥다** (deopta [덥따]) – panas → **더워요** (deowoyo), atau **모르다** (moreuda) – tidak tahu → **몰라요** (mollayo). Hafalkan saja saat kamu menemukannya; aturan di atas sudah mencakup sebagian besar kata kerja.
 
 ## Satu bentuk, tiga fungsi
 
@@ -80,7 +80,7 @@ Hilangkan **요** dan kamu mendapatkan bahasa santai (반말, banmal): 가, 먹�
 
 Ubah setiap kata kerja ke bentuk -아요/어요. Jawabannya ada di bawah.
 
-1. 앉다 (anda) – duduk
+1. 앉다 (antta [안따]) – duduk
 2. 마시다 (masida) – minum
 3. 일하다 (ilhada) – bekerja
 4. 만나다 (mannada) – bertemu

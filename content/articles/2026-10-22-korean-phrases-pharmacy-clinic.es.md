@@ -13,7 +13,7 @@ thumb: /media/covers/korean-phrases-pharmacy-clinic-p1-t.jpg
 draft: false
 ---
 
-El final del otoño en Corea trae aire seco, mañanas frías y la primera ola de resfriados. Conseguir ayuda es fácil: las farmacias, **[약국](/es/dictionary/?q=약국)** (yakguk), están en casi todas las calles, señaladas con un gran **약** (yak), "medicina", en verde o rojo, y las pequeñas clínicas de barrio atienden a pacientes sin cita. Unas cuantas frases cortas te llevarán casi todo el camino. Todas usan la terminación cortés **-요** (-yo).
+El final del otoño en Corea trae aire seco, mañanas frías y la primera ola de resfriados. Conseguir ayuda es fácil: las farmacias, **[약국](/es/dictionary/?q=약국)** (yakkuk [약꾹]), están en casi todas las calles, señaladas con un gran **약** (yak), "medicina", en verde o rojo, y las pequeñas clínicas de barrio atienden a pacientes sin cita. Unas cuantas frases cortas te llevarán casi todo el camino. Todas usan la terminación cortés **-요** (-yo).
 
 ## La única estructura que necesitas
 
@@ -42,11 +42,11 @@ Cuando las farmacias están cerradas, las tiendas de conveniencia venden una lis
 
 Para un resfriado o una lesión menor, los coreanos van a una clínica pequeña, **[의원](/es/dictionary/?q=의원)** (uiwon), que a menudo lleva el nombre de su especialidad: **내과** (naegwa) para medicina interna, **이비인후과** (ibiinhugwa) para otorrinolaringología. Los hospitales más grandes, **[병원](/es/dictionary/?q=병원)** (byeongwon), son para los casos graves.
 
-7. **진료 받고 싶어요.** (jillyo batgo sipeoyo.): Quisiera ver a un médico.
+7. **진료 받고 싶어요.** (jillyo batko sipeoyo. [질료 받꼬 시퍼요.]): Quisiera ver a un médico.
 8. **처음 왔어요.** (cheoeum wasseoyo.): Es mi primera visita. *En la recepción te pedirán tu pasaporte o tu tarjeta de residencia.*
 9. **영어 하는 의사 선생님 있어요?** (yeongeo haneun uisa seonsaengnim isseoyo?): ¿Hay algún médico que hable inglés?
 10. **여기가 아파요.** (yeogiga apayo.): Me duele aquí. *Señala el lugar.*
-11. **보험이 없어요.** (boheomi eopseoyo.): No tengo seguro (coreano).
+11. **보험이 없어요.** (boheomi eopsseoyo. [보허미 업써요.]): No tengo seguro (coreano).
 12. **처방전 주세요.** (cheobangjeon juseyo.): ¿Me da la receta, por favor? *Las clínicas expiden una receta, **[처방전](/es/dictionary/?q=처방전)** (cheobangjeon), que llevas a una farmacia, a menudo en el mismo edificio.*
 13. **진단서 받을 수 있어요?** (jindanseo badeul su isseoyo?): ¿Me pueden dar un certificado médico? *Útil para las reclamaciones al seguro de viaje.*
 
@@ -62,7 +62,7 @@ La frase clave: **도와주세요!** (dowajuseyo!): ¡Ayuda! Y luego **구급차
 
 | Coreano | Romanización | Significado |
 |---|---|---|
-| [약국](/es/dictionary/?q=약국) | yakguk | farmacia |
+| [약국](/es/dictionary/?q=약국) | yakkuk [약꾹] | farmacia |
 | [약](/es/dictionary/?q=약) | yak | medicina |
 | [감기](/es/dictionary/?q=감기) | gamgi | resfriado |
 | [열](/es/dictionary/?q=열) | yeol | fiebre |

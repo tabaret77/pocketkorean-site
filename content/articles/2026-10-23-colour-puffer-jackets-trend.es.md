@@ -50,6 +50,6 @@ Los colores son fáciles de aprender porque muchos son préstamos del inglés: *
 | 검색량 | geomsaengnyang | volumen de búsquedas |
 | 매출 | maechul | ventas (ingresos) |
 
-Una estructura para ir de compras: **다른 색깔도 있어요?** (Dareun saekkkaldo isseoyo?): "¿Lo tiene también en otros colores?". Sustantivo + **도** significa "también"; puedes decir el color en su lugar: **보라색도 있어요?** (Borasaekdo isseoyo?): "¿Lo tiene también en morado?".
+Una estructura para ir de compras: **다른 색깔도 있어요?** (Dareun saekkkaldo isseoyo?): "¿Lo tiene también en otros colores?". Sustantivo + **도** significa "también"; puedes decir el color en su lugar: **보라색도 있어요?** (Borasaekto isseoyo? [보라색또 이써요?]): "¿Lo tiene también en morado?".
 
 Fuentes: [Segye Ilbo – este año la ropa de abrigo se pone de color, 23 de oct. (en coreano)](https://www.segye.com/newsView/20261022518265), [Hankyung – "Este año no me pongo una chamarra acolchada negra", 11 de oct. (en coreano)](https://www.hankyung.com/article/202610080733g)

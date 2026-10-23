@@ -34,7 +34,7 @@ Perhatikan bahwa dalam bahasa Korea, hujan dan salju "datang": **비가 와요**
 | 날씨 | nalssi | cuaca |
 | 일기 예보 | ilgi yebo | prakiraan cuaca |
 | 기온 | gion | suhu (udara) |
-| 맑다 | makda | cerah |
+| 맑다 | makta [막따] | cerah |
 | 흐리다 | heurida | berawan, mendung |
 | 구름 | gureum | awan |
 | 해 / 햇빛 | hae / haetbit | matahari / sinar matahari |
@@ -47,8 +47,8 @@ Perhatikan bahwa dalam bahasa Korea, hujan dan salju "datang": **비가 와요**
 | 천둥 / 번개 | cheondung / beongae | guntur / kilat |
 | 안개 | angae | kabut |
 | 무지개 | mujigae | pelangi |
-| 덥다 | deopda | panas (cuaca) |
-| 춥다 | chupda | dingin (cuaca) |
+| 덥다 | deopta [덥따] | panas (cuaca) |
+| 춥다 | chupta [춥따] | dingin (cuaca) |
 | 따뜻하다 | ttatteutada | hangat |
 | 시원하다 | siwonhada | sejuk, segar |
 | 쌀쌀하다 | ssalssalhada | dingin menusuk, agak dingin |
@@ -70,8 +70,8 @@ Debu halus benar-benar bagian dari kehidupan sehari-hari di Korea, dan banyak or
 **Musim panas (여름, yeoreum)**
 
 - **너무 더워요!** (Neomu deowoyo!) – Panas banget!
-- **장마가 시작됐어요.** (Jangmaga sijakdwaesseoyo.) – Musim hujan sudah dimulai.
-- **갑자기 소나기가 왔어요.** (Gapjagi sonagiga wasseoyo.) – Tiba-tiba hujan deras turun.
+- **장마가 시작됐어요.** (Jangmaga sijaktwaesseoyo. [장마가 시작뙈써요.]) – Musim hujan sudah dimulai.
+- **갑자기 소나기가 왔어요.** (Gapjjagi sonagiga wasseoyo. [갑짜기 소나기가 와써요.]) – Tiba-tiba hujan deras turun.
 
 **장마** adalah musim hujan monsun di musim panas, yang biasanya dimulai akhir Juni. Bersiaplah menghadapi hari-hari yang panas dan gerah, jadi **습해요** (seupaeyo) – lembap – akan sering kamu pakai.
 

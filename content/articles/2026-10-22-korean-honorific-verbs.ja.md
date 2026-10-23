@@ -20,14 +20,14 @@ draft: false
 
 | 普通 | 尊敬語 | 意味 |
 |---|---|---|
-| 먹다 (meokda), 마시다 (masida) | **[드시다](/ja/dictionary/?q=드시다)** (deusida) | 召し上がる（食べる、飲む） |
-| 먹다 (meokda) | **[잡수시다](/ja/dictionary/?q=잡수시다)** (japsusida) | 召し上がる（食べる、非常に丁重） |
+| 먹다 (meokta [먹따]), 마시다 (masida) | **[드시다](/ja/dictionary/?q=드시다)** (deusida) | 召し上がる（食べる、飲む） |
+| 먹다 (meokta [먹따]) | **[잡수시다](/ja/dictionary/?q=잡수시다)** (japssusida [잡쑤시다]) | 召し上がる（食べる、非常に丁重） |
 | 자다 (jada) | **[주무시다](/ja/dictionary/?q=주무시다)** (jumusida) | お休みになる（寝る） |
-| 있다 (itda) | **[계시다](/ja/dictionary/?q=계시다)** (gyesida) | いらっしゃる（〜にいる） |
+| 있다 (itta [읻따]) | **[계시다](/ja/dictionary/?q=계시다)** (gyesida) | いらっしゃる（〜にいる） |
 | 말하다 (malhada) | **말씀하시다** (malsseumhasida) | おっしゃる（話す） |
-| 죽다 (jukda) | **돌아가시다** (doragasida) | 亡くなる |
+| 죽다 (jukta [죽따]) | **돌아가시다** (doragasida) | 亡くなる |
 
-つまり友だちには**밥 먹었어?**（Bap meogeosseo?）＝ごはん食べた？と言いますが、おばあさんには**할머니, 진지 드셨어요?**（Halmeoni, jinji deusyeosseoyo?）＝おばあちゃん、お食事は召し上がりましたか？と言います。잡수시다はさらに丁重で、少し古風に聞こえます。主に祖父母に対して聞く言葉です：**진지 잡수셨어요?**（Jinji japsusyeosseoyo?）
+つまり友だちには**밥 먹었어?**（Bap meogeosseo?）＝ごはん食べた？と言いますが、おばあさんには**할머니, 진지 드셨어요?**（Halmeoni, jinji deusyeosseoyo?）＝おばあちゃん、お食事は召し上がりましたか？と言います。잡수시다はさらに丁重で、少し古風に聞こえます。主に祖父母に対して聞く言葉です：**진지 잡수셨어요?**（Jinji japssusyeosseoyo? [진지 잡쑤셔써요?]）
 
 寝る前のあいさつ**잘 자**（jal ja）＝おやすみ、は、年上の人に対しては**안녕히 주무세요**（annyeonghi jumuseyo）＝おやすみなさいませ、になります。
 
@@ -40,8 +40,8 @@ draft: false
 | 普通 | 謙譲語 | 意味 |
 |---|---|---|
 | 주다 (juda) | **[드리다](/ja/dictionary/?q=드리다)** (deurida) | 差し上げる（あげる） |
-| 묻다 (mutda) | **[여쭙다](/ja/dictionary/?q=여쭙다)** (yeojjupda) | 伺う（尋ねる） |
-| 보다 (boda) | **뵙다** (boepda) | お目にかかる（見る、会う） |
+| 묻다 (mutta [묻따]) | **[여쭙다](/ja/dictionary/?q=여쭙다)** (yeojjupta [여쭙따]) | 伺う（尋ねる） |
+| 보다 (boda) | **뵙다** (boepta [뵙따]) | お目にかかる（見る、会う） |
 | 데리다 (derida) | **모시다** (mosida) | お連れする、ご案内する |
 
 決まり文句の中で、もう知っているものもあるでしょう：**처음 뵙겠습니다**（cheoeum boepgetseumnida）＝「はじめまして」や、お店のスタッフが言う**뭐 드릴까요?**（Mwo deurilkkayo?）＝「何になさいますか？」。先生に質問するときは：**하나 여쭤봐도 될까요?**（Hana yeojjwobwado doelkkayo?）＝ひとつお伺いしてもよろしいですか？

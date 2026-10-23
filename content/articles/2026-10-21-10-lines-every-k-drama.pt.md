@@ -26,7 +26,7 @@ A maioria dessas falas aparece na fala informal (**반말**, banmal), porque os 
 
 ## 3. 무슨 일 있어? – Aconteceu alguma coisa?
 
-**무슨 일 있어?** (Museun il isseo?) significa "Aconteceu alguma coisa?" e é dito quando um amigo parece chateado ou calado. A forma educada é **무슨 일 있어요?** (Museun il isseoyo?). A resposta típica para desconversar: **아무것도 아니야** (Amugeotdo aniya) – "Não é nada."
+**무슨 일 있어?** (Museun il isseo?) significa "Aconteceu alguma coisa?" e é dito quando um amigo parece chateado ou calado. A forma educada é **무슨 일 있어요?** (Museun il isseoyo?). A resposta típica para desconversar: **아무것도 아니야** (Amugeotto aniya [아무걷또 아니야]) – "Não é nada."
 
 ## 4. 잠깐만 – Espera um pouco
 
@@ -38,7 +38,7 @@ A maioria dessas falas aparece na fala informal (**반말**, banmal), porque os 
 
 ## 6. 보고 싶어 – Tô com saudade
 
-**보고 싶어** (Bogo sipeo) significa literalmente "quero (te) ver". Em coreano, é assim que se diz "estou com saudade de você". De forma educada: **보고 싶어요** (Bogo sipeoyo). Nota de gramática: **-고 싶다** significa "querer", então você também pode dizer **먹고 싶어** (meokgo sipeo) – quero comer.
+**보고 싶어** (Bogo sipeo) significa literalmente "quero (te) ver". Em coreano, é assim que se diz "estou com saudade de você". De forma educada: **보고 싶어요** (Bogo sipeoyo). Nota de gramática: **-고 싶다** significa "querer", então você também pode dizer **먹고 싶어** (meokko sipeo [먹꼬 시퍼]) – quero comer.
 
 ## 7. 됐어 – Deixa pra lá
 

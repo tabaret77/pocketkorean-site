@@ -19,7 +19,7 @@ Se você for aprender só uma terminação verbal em coreano, que seja **-아요
 Os verbos e adjetivos coreanos aparecem no dicionário terminando em **-다** (-da). Tire o 다 e você tem o radical:
 
 - **가다** (gada) – ir → radical 가-
-- **먹다** (meokda) – comer → radical 먹-
+- **먹다** (meokta [먹따]) – comer → radical 먹-
 - **좋다** (jota) – ser bom → radical 좋-
 
 ## Passo 2: olhe a última vogal
@@ -34,9 +34,9 @@ Agora olhe a vogal da **última sílaba do radical**.
 |---|---|---|---|
 | 살다 (salda) | ㅏ | 살아요 (sarayo) | (eu) moro |
 | 좋다 (jota) | ㅗ | 좋아요 (joayo) | (é) bom |
-| 먹다 (meokda) | ㅓ | 먹어요 (meogeoyo) | (eu) como |
-| 읽다 (ikda) | ㅣ | 읽어요 (ilgeoyo) | (eu) leio |
-| 있다 (itda) | ㅣ | 있어요 (isseoyo) | tem / (eu) tenho |
+| 먹다 (meokta [먹따]) | ㅓ | 먹어요 (meogeoyo) | (eu) como |
+| 읽다 (ikta [익따]) | ㅣ | 읽어요 (ilgeoyo) | (eu) leio |
+| 있다 (itta [읻따]) | ㅣ | 있어요 (isseoyo) | tem / (eu) tenho |
 | 공부하다 (gongbuhada) | 하다 | 공부해요 (gongbuhaeyo) | (eu) estudo |
 
 A última linha é a que parece "irregular", mas é totalmente previsível: todo verbo com 하다 segue essa regra. **일하다** (ilhada) – trabalhar → **일해요** (ilhaeyo); **좋아하다** (joahada) – gostar → **좋아해요** (joahaeyo).
@@ -60,7 +60,7 @@ Radicais que terminam em **ㅡ** perdem o ㅡ, e aí você olha a sílaba anteri
 - 바쁘다 (bappeuda) – estar ocupado → **바빠요** (bappayo), porque a sílaba anterior é 바
 - 예쁘다 (yeppeuda) – ser bonito → **예뻐요** (yeppeoyo)
 
-Alguns verbos são realmente irregulares, como **덥다** (deopda) – estar quente → **더워요** (deowoyo), ou **모르다** (moreuda) – não saber → **몰라요** (mollayo). Aprenda-os conforme for encontrando; as regras acima resolvem a maioria dos verbos.
+Alguns verbos são realmente irregulares, como **덥다** (deopta [덥따]) – estar quente → **더워요** (deowoyo), ou **모르다** (moreuda) – não saber → **몰라요** (mollayo). Aprenda-os conforme for encontrando; as regras acima resolvem a maioria dos verbos.
 
 ## Uma forma, três funções
 
@@ -80,7 +80,7 @@ Tire o **요** e você tem a fala informal (반말, banmal): 가, 먹어, 해. I
 
 Passe cada verbo para a forma -아요/어요. As respostas estão abaixo.
 
-1. 앉다 (anda) – sentar
+1. 앉다 (antta [안따]) – sentar
 2. 마시다 (masida) – beber
 3. 일하다 (ilhada) – trabalhar
 4. 만나다 (mannada) – encontrar

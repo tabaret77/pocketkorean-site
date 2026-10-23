@@ -51,7 +51,7 @@ Orang Korea juga mengucapkannya sambil mengepalkan tangan ke atas, sering dengan
 
 ## Tambahan untuk musim Suneung
 
-Di sekitar hari ujian kamu akan mendengar beberapa ungkapan lagi. **수능 대박 나세요!** (Suneung daebak naseyo!) mendoakan seseorang mendapat hasil "jackpot". Keluarga dan teman memberi siswa makanan yang lengket seperti **엿** (yeot), permen gula kenyal, atau **찹쌀떡** (chapssaltteok), kue beras ketan, karena **붙다** (butda) berarti "menempel" sekaligus "lulus ujian". Harapannya adalah **꼭 붙어라!** (Kkok buteora!) – "Pokoknya harus lulus!"
+Di sekitar hari ujian kamu akan mendengar beberapa ungkapan lagi. **수능 대박 나세요!** (Suneung daebak naseyo!) mendoakan seseorang mendapat hasil "jackpot". Keluarga dan teman memberi siswa makanan yang lengket seperti **엿** (yeot), permen gula kenyal, atau **찹쌀떡** (chapssaltteok), kue beras ketan, karena **붙다** (butta [붇따]) berarti "menempel" sekaligus "lulus ujian". Harapannya adalah **꼭 붙어라!** (Kkok buteora!) – "Pokoknya harus lulus!"
 
 ## Bahasa Korea yang bisa kamu pakai
 

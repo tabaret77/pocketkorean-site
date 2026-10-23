@@ -50,6 +50,6 @@ Màu sắc dễ học vì nhiều từ là từ vay mượn: **민트** (minteu)
 | 검색량 | geomsaengnyang | lượng tìm kiếm |
 | 매출 | maechul | doanh số (doanh thu) |
 
-Một cấu trúc khi đi mua sắm: **다른 색깔도 있어요?** (Dareun saekkkaldo isseoyo?) – "Có màu khác nữa không ạ?" Danh từ + **도** nghĩa là "cũng, nữa"; bạn có thể nói thẳng tên màu: **보라색도 있어요?** (Borasaekdo isseoyo?) – "Có cả màu tím nữa không ạ?"
+Một cấu trúc khi đi mua sắm: **다른 색깔도 있어요?** (Dareun saekkkaldo isseoyo?) – "Có màu khác nữa không ạ?" Danh từ + **도** nghĩa là "cũng, nữa"; bạn có thể nói thẳng tên màu: **보라색도 있어요?** (Borasaekto isseoyo? [보라색또 이써요?]) – "Có cả màu tím nữa không ạ?"
 
 Nguồn: [Segye Ilbo – năm nay áo khoác ngoài lên ngôi sắc màu, 23/10 (tiếng Hàn)](https://www.segye.com/newsView/20261022518265), [Hankyung – "Năm nay tôi không mặc áo phao đen", 11/10 (tiếng Hàn)](https://www.hankyung.com/article/202610080733g)

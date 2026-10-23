@@ -63,7 +63,7 @@ Menolak butuh sedikit lebih banyak kehati-hatian. Orang Korea jarang menolak men
 
 ## Rencana yang bukan rencana
 
-Ada satu ungkapan yang perlu diwaspadai: **언제 밥 한번 먹자** (Eonje bap hanbeon meokja) – "Kapan-kapan makan bareng, yuk." Ini salam perpisahan yang ramah, mirip "Kapan-kapan ngopi bareng, ya" dalam bahasa Indonesia, dan sering kali bukan ajakan sungguhan. Kalau kamu ingin benar-benar terjadi, lanjutkan dengan menyebut hari: **그럼 다음 주 금요일 어때?** (Geureom daeum ju geumyoil eottae?) – Kalau gitu, Jumat depan gimana?
+Ada satu ungkapan yang perlu diwaspadai: **언제 밥 한번 먹자** (Eonje bap hanbeon meokjja [언제 밥 한번 먹짜]) – "Kapan-kapan makan bareng, yuk." Ini salam perpisahan yang ramah, mirip "Kapan-kapan ngopi bareng, ya" dalam bahasa Indonesia, dan sering kali bukan ajakan sungguhan. Kalau kamu ingin benar-benar terjadi, lanjutkan dengan menyebut hari: **그럼 다음 주 금요일 어때?** (Geureom daeum ju geumyoil eottae?) – Kalau gitu, Jumat depan gimana?
 
 ## Bahasa Korea yang bisa kamu pakai
 

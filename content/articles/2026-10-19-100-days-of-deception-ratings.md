@@ -24,7 +24,7 @@ The series airs on Saturdays and Sundays on tvN and is also on Netflix in many r
 
 ## A pickpocket turned spy
 
-The story is set during the Japanese colonial period, which Koreans call **일제강점기** (Ilje gangjeomgi). Kim You-jung plays Ga-kyung, a gifted **소매치기** (somaechigi) – pickpocket – who goes undercover inside the Japanese Government-General of Korea. From the inside, she starts passing important information to the Korean **독립군** (dongnipgun) – independence army. Park Jin-young plays the male lead opposite her, and the show mixes espionage with romance.
+The story is set during the Japanese colonial period, which Koreans call **일제강점기** (Ilje gangjeomgi). Kim You-jung plays Ga-kyung, a gifted **소매치기** (somaechigi) – pickpocket – who goes undercover inside the Japanese Government-General of Korea. From the inside, she starts passing important information to the Korean **독립군** (dongnipkun [동닙꾼]) – independence army. Park Jin-young plays the male lead opposite her, and the show mixes espionage with romance.
 
 The title points to a ticking clock: the heroine has to keep up her disguise, and the "deception" of the title is both her mission and a source of tension in the love story.
 
@@ -40,7 +40,7 @@ Period dramas set in the 1920s–40s use a lot of formal speech, and some charac
 | 주말 드라마 | jumal deurama | weekend drama |
 | 소매치기 | somaechigi | pickpocket |
 | 스파이 | seupai | spy |
-| 독립군 | dongnipgun | independence army |
+| 독립군 | dongnipkun [동닙꾼] | independence army |
 | 일제강점기 | Ilje gangjeomgi | Japanese colonial period (1910–1945) |
 | [거짓말](/en/dictionary/?q=거짓말) | geojinmal | lie |
 

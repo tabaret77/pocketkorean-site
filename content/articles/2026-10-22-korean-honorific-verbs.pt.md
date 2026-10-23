@@ -20,14 +20,14 @@ Estes substituem o verbo normal quando o sujeito é alguém que você respeita.
 
 | Normal | Honorífico | Significado |
 |---|---|---|
-| 먹다 (meokda), 마시다 (masida) | **[드시다](/pt/dictionary/?q=드시다)** (deusida) | comer, beber |
-| 먹다 (meokda) | **[잡수시다](/pt/dictionary/?q=잡수시다)** (japsusida) | comer (muito respeitoso) |
+| 먹다 (meokta [먹따]), 마시다 (masida) | **[드시다](/pt/dictionary/?q=드시다)** (deusida) | comer, beber |
+| 먹다 (meokta [먹따]) | **[잡수시다](/pt/dictionary/?q=잡수시다)** (japssusida [잡쑤시다]) | comer (muito respeitoso) |
 | 자다 (jada) | **[주무시다](/pt/dictionary/?q=주무시다)** (jumusida) | dormir |
-| 있다 (itda) | **[계시다](/pt/dictionary/?q=계시다)** (gyesida) | estar (em algum lugar) |
+| 있다 (itta [읻따]) | **[계시다](/pt/dictionary/?q=계시다)** (gyesida) | estar (em algum lugar) |
 | 말하다 (malhada) | **말씀하시다** (malsseumhasida) | falar |
-| 죽다 (jukda) | **돌아가시다** (doragasida) | falecer |
+| 죽다 (jukta [죽따]) | **돌아가시다** (doragasida) | falecer |
 
-Então você diz **밥 먹었어?** (Bap meogeosseo?) para um amigo, mas **할머니, 진지 드셨어요?** (Halmeoni, jinji deusyeosseoyo?) para a sua avó. 잡수시다 é ainda mais respeitoso e soa um pouco antiquado; você vai ouvi-lo principalmente com os avós: **진지 잡수셨어요?** (Jinji japsusyeosseoyo?)
+Então você diz **밥 먹었어?** (Bap meogeosseo?) para um amigo, mas **할머니, 진지 드셨어요?** (Halmeoni, jinji deusyeosseoyo?) para a sua avó. 잡수시다 é ainda mais respeitoso e soa um pouco antiquado; você vai ouvi-lo principalmente com os avós: **진지 잡수셨어요?** (Jinji japssusyeosseoyo? [진지 잡쑤셔써요?])
 
 Na hora de dormir, **잘 자** (jal ja) – dorme bem – vira **안녕히 주무세요** (annyeonghi jumuseyo) para qualquer pessoa mais velha.
 
@@ -40,8 +40,8 @@ A outra metade do sistema funciona ao contrário. Quando *você* faz algo para u
 | Normal | Humilde | Significado |
 |---|---|---|
 | 주다 (juda) | **[드리다](/pt/dictionary/?q=드리다)** (deurida) | dar |
-| 묻다 (mutda) | **[여쭙다](/pt/dictionary/?q=여쭙다)** (yeojjupda) | perguntar |
-| 보다 (boda) | **뵙다** (boepda) | ver, encontrar |
+| 묻다 (mutta [묻따]) | **[여쭙다](/pt/dictionary/?q=여쭙다)** (yeojjupta [여쭙따]) | perguntar |
+| 보다 (boda) | **뵙다** (boepta [뵙따]) | ver, encontrar |
 | 데리다 (derida) | **모시다** (mosida) | levar, acompanhar |
 
 Você já conhece algumas destas de expressões prontas: **처음 뵙겠습니다** (cheoeum boepgetseumnida) – "Muito prazer" – e os atendentes de loja dizendo **뭐 드릴까요?** (Mwo deurilkkayo?) – "O que vai querer?" Para fazer uma pergunta a um professor: **하나 여쭤봐도 될까요?** (Hana yeojjwobwado doelkkayo?) – Posso lhe perguntar uma coisa?

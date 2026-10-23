@@ -46,7 +46,7 @@ draft: false
 
 答え方：
 
-- **먹고 갈게요.**（Meokgo galgeyo.）＝店内で飲みます。
+- **먹고 갈게요.**（Meokko galgeyo. [먹꼬 갈게요.]）＝店内で飲みます。
 - **가져갈게요.**（Gajyeogalgeyo.）＝持ち帰ります。
 - **포장해 주세요.**（Pojanghae juseyo.）＝持ち帰り用に包んでください。食べ物にも飲み物にもよく使います。
 
@@ -91,7 +91,7 @@ draft: false
 |---|---|---|
 | 한 잔 주세요 | han jan juseyo | 1杯ください |
 | 아이스 / 따뜻한 거 | aiseu / ttatteutan geo | アイス／ホット |
-| 먹고 갈게요 | meokgo galgeyo | 店内で |
+| 먹고 갈게요 | meokko galgeyo [먹꼬 갈게요] | 店内で |
 | [가져갈게요](/ja/dictionary/?q=가져가다) | gajyeogalgeyo | 持ち帰りで |
 | 샷 추가해 주세요 | syat chugahae juseyo | ショット追加でお願いします |
 | 시럽 빼 주세요 | sireop ppae juseyo | シロップ抜きでお願いします |

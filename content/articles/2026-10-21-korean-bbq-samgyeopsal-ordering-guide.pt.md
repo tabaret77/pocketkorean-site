@@ -13,7 +13,7 @@ phrase_meaning: barriga de porco grelhada (panceta)
 draft: false
 ---
 
-Um restaurante de churrasco coreano é barulhento, cheio de fumaça e acolhedor, e pode confundir na primeira vez. Tem uma grelha no meio da mesa, um cardápio pequeno na parede e funcionários se movendo rápido. Veja como funciona um jantar típico de **삼겹살** (samgyeopsal) – barriga de porco, a nossa panceta – e o que dizer em cada etapa.
+Um restaurante de churrasco coreano é barulhento, cheio de fumaça e acolhedor, e pode confundir na primeira vez. Tem uma grelha no meio da mesa, um cardápio pequeno na parede e funcionários se movendo rápido. Veja como funciona um jantar típico de **삼겹살** (samgyeopssal [삼겹쌀]) – barriga de porco, a nossa panceta – e o que dizer em cada etapa.
 
 ## Passo 1: sente e diga quantas pessoas são
 
@@ -31,7 +31,7 @@ Muitos restaurantes de churrasco têm um **mínimo de duas porções** no primei
 
 Outros cortes populares:
 
-- **목살** (moksal) – pescoço/paleta de porco, um pouco mais magro
+- **목살** (mokssal [목쌀]) – pescoço/paleta de porco, um pouco mais magro
 - **항정살** (hangjeongsal) – papada de porco, suculenta e firme
 - **갈비** (galbi) – costela, muitas vezes marinada
 
@@ -45,7 +45,7 @@ Se preferir pedir: **상추 좀 더 주세요.** (sangchu jom deo juseyo.) – "
 
 ## Passo 4: quem assa?
 
-Depende do restaurante. Em alguns lugares, os funcionários assam e cortam a carne para você; em muitos lugares mais simples, são os próprios clientes. Se ninguém aparecer, a tarefa é sua. Use o **집게** (jipge), o pegador, para virar a carne e a **가위** (gawi), a tesoura, para cortá-la em pedaços pequenos depois que estiver dourada dos dois lados.
+Depende do restaurante. Em alguns lugares, os funcionários assam e cortam a carne para você; em muitos lugares mais simples, são os próprios clientes. Se ninguém aparecer, a tarefa é sua. Use o **집게** (jipke [집께]), o pegador, para virar a carne e a **가위** (gawi), a tesoura, para cortá-la em pedaços pequenos depois que estiver dourada dos dois lados.
 
 Não sabe se já está pronta? Pergunte **이거 다 익었어요?** (igeo da igeosseoyo?) – "Isso já está no ponto?" Quando a chapa ficar preta e grudenta, peça **불판 좀 갈아 주세요.** (bulpan jom gara juseyo.) – "Pode trocar a chapa?"
 
@@ -55,7 +55,7 @@ Não sabe se já está pronta? Pergunte **이거 다 익었어요?** (igeo da ig
 
 ## Etiqueta da bebida
 
-O churrasco muitas vezes vem acompanhado de **소주** (soju) ou **맥주** (maekju), cerveja. Alguns costumes:
+O churrasco muitas vezes vem acompanhado de **소주** (soju) ou **맥주** (maekjju [맥쭈]), cerveja. Alguns costumes:
 
 - Não sirva o seu próprio copo; sirva os outros, e eles vão servir você.
 - Quando uma pessoa mais velha servir você, segure o copo com **as duas mãos**.
@@ -66,7 +66,7 @@ Ninguém espera que os visitantes acertem tudo isso, mas o esforço é sempre be
 
 ## Passo 6: termine como um local
 
-Os coreanos costumam fechar o churrasco com algo mais "pesado". Experimente **된장찌개** (doenjang-jjigae), ensopado de pasta de soja, com **공깃밥** (gonggitbap), uma tigela de arroz, ou **볶음밥** (bokkeumbap), arroz frito feito na grelha com as sobras. Macarrão frio, o **냉면** (naengmyeon), é outro favorito.
+Os coreanos costumam fechar o churrasco com algo mais "pesado". Experimente **된장찌개** (doenjang-jjigae), ensopado de pasta de soja, com **공깃밥** (gonggitpap [공긷빱]), uma tigela de arroz, ou **볶음밥** (bokkeumbap), arroz frito feito na grelha com as sobras. Macarrão frio, o **냉면** (naengmyeon), é outro favorito.
 
 ## Passo 7: pague no caixa
 

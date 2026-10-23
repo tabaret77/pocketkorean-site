@@ -12,7 +12,7 @@ cover: /media/covers/hobby-words-in-korean-s1.jpg
 draft: false
 ---
 
-無論是在語言交換、上班第一天，還是韓劇裏的相睇場面，遲早都會有人問你 **취미가 뭐예요?**（Chwimiga mwoyeyo?）——你的興趣是甚麼？這是韓語中最常見的閒聊問題之一。**[취미](/zh-hk/dictionary/?q=취미)**（chwimi）解作興趣、嗜好，而深秋較涼爽的天氣正是培養新興趣的好時機。很多人把秋天稱為 **독서의 계절**（dokseoui gyejeol）——讀書的季節——因為天朗氣清、清涼舒適的日子最適合靜下心來看書。以下是談論消閒活動需要的詞彙和句型。
+無論是在語言交換、上班第一天，還是韓劇裏的相睇場面，遲早都會有人問你 **취미가 뭐예요?**（Chwimiga mwoyeyo?）——你的興趣是甚麼？這是韓語中最常見的閒聊問題之一。**[취미](/zh-hk/dictionary/?q=취미)**（chwimi）解作興趣、嗜好，而深秋較涼爽的天氣正是培養新興趣的好時機。很多人把秋天稱為 **독서의 계절**（doksseoui gyejeol [독써의 계절]）——讀書的季節——因為天朗氣清、清涼舒適的日子最適合靜下心來看書。以下是談論消閒活動需要的詞彙和句型。
 
 ## 24個興趣詞彙
 
@@ -21,7 +21,7 @@ draft: false
 | 韓語 | 羅馬拼音 | 意思 |
 |---|---|---|
 | 등산 | deungsan | 行山（登山） |
-| 독서 | dokseo | 閱讀 |
+| 독서 | doksseo [독써] | 閱讀 |
 | 요리 | yori | 烹飪 |
 | 운동 | undong | 運動 |
 | 헬스 | helseu | 去健身室做 gym |
@@ -30,18 +30,18 @@ draft: false
 | 산책 | sanchaek | 散步 |
 | 자전거 타기 | jajeongeo tagi | 踩單車 |
 | 캠핑 | kaemping | 露營 |
-| 낚시 | naksi | 釣魚 |
+| 낚시 | nakssi [낙씨] | 釣魚 |
 | 여행 | yeohaeng | 旅行 |
-| 사진 찍기 | sajin jjikgi | 拍照 |
+| 사진 찍기 | sajin jjikki [사진 찍끼] | 拍照 |
 | 그림 그리기 | geurim geurigi | 畫畫 |
 | 뜨개질 | tteugaejil | 編織 |
 | 베이킹 | beiking | 烘焙 |
 | 게임 | geim | 打機（電子遊戲） |
 | 영화 보기 | yeonghwa bogi | 看電影 |
-| 음악 듣기 | eumak deutgi | 聽音樂 |
+| 음악 듣기 | eumak deutki [으막 듣끼] | 聽音樂 |
 | 노래 부르기 | norae bureugi | 唱歌 |
 | 춤 | chum | 跳舞 |
-| 악기 연주 | akgi yeonju | 演奏樂器 |
+| 악기 연주 | akki yeonju [악끼 연주] | 演奏樂器 |
 | 피아노를 치다 | pianoreul chida | 彈鋼琴 |
 | 기타를 치다 | gitareul chida | 彈結他 |
 
@@ -56,16 +56,16 @@ draft: false
 
 如果是一個動作，就用 **-기** 把動詞變成名詞。取詞幹再加 **-기**：**읽다** → **읽기**，**찍다** → **찍기**。
 
-- **제 취미는 책 읽기예요.**（Je chwimineun chaek ilgiyeyo.）——我的興趣是看書。
-- **제 취미는 사진 찍기예요.**（Je chwimineun sajin jjikgiyeyo.）——我的興趣是拍照。
+- **제 취미는 책 읽기예요.**（Je chwimineun chaek ilkkiyeyo. [책 일끼예요.]）——我的興趣是看書。
+- **제 취미는 사진 찍기예요.**（Je chwimineun sajin jjikkiyeyo. [제 취미는 사진 찍끼예요.]）——我的興趣是拍照。
 
 **2. -는 것을 좋아해요。** 要說「我喜歡做……」，就在動詞詞幹後加上 **-는 것을 좋아해요**。口語中 **것을** 通常會縮略成 **걸**。
 
 | 動詞 | + -는 것을 좋아해요 | 意思 |
 |---|---|---|
 | 요리하다 (yorihada) | 요리하는 것을 좋아해요 (yorihaneun geoseul joahaeyo) | 我喜歡烹飪 |
-| [걷다](/zh-hk/dictionary/?q=걷다) (geotda) | 걷는 걸 좋아해요 (geonneun geol joahaeyo) | 我喜歡走路 |
-| 듣다 (deutda) | 음악 듣는 걸 좋아해요 (eumak deunneun geol joahaeyo) | 我喜歡聽音樂 |
+| [걷다](/zh-hk/dictionary/?q=걷다) (geotta [걷따]) | 걷는 걸 좋아해요 (geonneun geol joahaeyo) | 我喜歡走路 |
+| 듣다 (deutta [듣따]) | 음악 듣는 걸 좋아해요 (eumak deunneun geol joahaeyo) | 我喜歡聽音樂 |
 | 만들다 (mandeulda) | 만드는 걸 좋아해요 (mandeuneun geol joahaeyo) | 我喜歡做手作 |
 | 그리다 (geurida) | 그림 그리는 걸 좋아해요 (geurim geurineun geol joahaeyo) | 我喜歡畫畫 |
 
@@ -91,7 +91,7 @@ draft: false
 | 韓語 | 羅馬拼音 | 意思 |
 |---|---|---|
 | 취미가 뭐예요? | chwimiga mwoyeyo? | 你的興趣是甚麼？ |
-| 제 취미는 독서예요 | je chwimineun dokseoyeyo | 我的興趣是閱讀 |
+| 제 취미는 독서예요 | je chwimineun doksseoyeyo [제 취미는 독써예요] | 我的興趣是閱讀 |
 | 등산하는 걸 좋아해요 | deungsanhaneun geol joahaeyo | 我喜歡行山 |
 | 요즘 뜨개질을 배워요 | yojeum tteugaejireul baewoyo | 我最近在學編織 |
 | 게임을 자주 해요 | geimeul jaju haeyo | 我經常打機 |

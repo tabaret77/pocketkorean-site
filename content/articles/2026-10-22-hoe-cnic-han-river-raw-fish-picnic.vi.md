@@ -44,7 +44,7 @@ Mùa thu là mùa của nó, nhưng không kéo dài lâu. Nhiệt độ gần �
 | 치맥 | chimaek | gà rán và bia |
 | [수산시장](/vi/dictionary/?q=수산시장) | susansijang | chợ hải sản |
 | [포장](/vi/dictionary/?q=포장) | pojang | đóng gói; mang về |
-| 돗자리 | dotjari | thảm dã ngoại |
+| 돗자리 | dotjjari [돋짜리] | thảm dã ngoại |
 | 광어 | gwangeo | cá bơn (cá bơn vỉ ô liu) |
 | 초고추장 | chogochujang | nước chấm ớt đỏ |
 

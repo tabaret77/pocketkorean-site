@@ -34,7 +34,7 @@ draft: false
 6. **아이스 아메리카노 한 잔 주세요.**（aiseu amerikano han jan juseyo.）——请给我一杯冰美式。***잔**（jan）是杯子的量词：한 잔（han jan）一杯，두 잔（du jan）两杯。*
 7. **따뜻한 걸로 주세요.**（ttatteutan geollo juseyo.）——请给我热的。*很多韩国人默认喝冰饮，哪怕是冬天，所以店员可能会问：**따뜻한 거요, 아이스요?**（ttatteutan geoyo, aiseuyo?）——“热的还是冰的？”*
 8. **먹고 갈게요. / 가져갈게요.**（meokgo galgeyo. / gajyeogalgeyo.）——在这里喝。／带走。*店员常会问**드시고 가세요?**（deusigo gaseyo?）——“在这里用吗？”*
-9. **얼음 적게 주세요.**（eoreum jeokge juseyo.）——请少放点冰。
+9. **얼음 적게 주세요.**（eoreum jeokke juseyo. [어름 적께 주세요.]）——请少放点冰。
 10. **화장실 비밀번호가 뭐예요?**（hwajangsil bimilbeonhoga mwoyeyo?）——洗手间密码是多少？*很多咖啡馆的洗手间装有密码锁；密码常常印在小票上。*
 
 饮品做好后，取餐震动器（**진동벨**，jindongbel）可能会震动，或者店员会叫你的订单号。
@@ -46,10 +46,10 @@ draft: false
 11. **봉투 하나 주세요.**（bongtu hana juseyo.）——请给我一个袋子。*袋子不是免费的，所以收银员常会问**봉투 필요하세요?**（bongtu piryohaseyo?）——“需要袋子吗？”不需要的话就说：**괜찮아요**（gwaenchanayo），“不用了，谢谢。”*
 12. **이거 원 플러스 원이에요?**（igeo won peulleoseu wonieyo?）——这个是买一送一吗？*留意货架上“1+1”和“2+1”的标签。*
 13. **교통카드 충전해 주세요.**（gyotong kadeu chungjeonhae juseyo.）——请帮我给交通卡充值。*把卡和现金一起递过去。*
-14. **젓가락 주세요.**（jeotgarak juseyo.）——请给我筷子。*买方便面或便当时很实用。*
+14. **젓가락 주세요.**（jeotkarak juseyo. [젇까락 주세요.]）——请给我筷子。*买方便面或便当时很实用。*
 15. **영수증은 괜찮아요.**（yeongsujeungeun gwaenchanayo.）——小票不用了。
 
-收银员也可能会问**포인트 카드 있으세요?**（pointeu kadeu isseuseyo?）——“有积分卡吗？”简单回一句**없어요**（eopseoyo）——“没有”——就够了。
+收银员也可能会问**포인트 카드 있으세요?**（pointeu kadeu isseuseyo?）——“有积分卡吗？”简单回一句**없어요**（eopsseoyo [업써요]）——“没有”——就够了。
 
 ## 在哪儿都用得上的两句话
 

@@ -43,7 +43,7 @@ Nếu một câu mất hơn hai phút, hãy chọn đáp án bạn thấy tốt 
 
 **Sắp xếp câu.** Hãy nhìn các từ nối. Một câu bắt đầu bằng **그래서** (geuraeseo) – vì vậy – hay **하지만** (hajiman) – nhưng – không thể đứng đầu. Những từ như **이것** (igeot) – cái này – cũng chỉ ngược về điều đã được nói trước đó.
 
-**Tiêu đề báo.** Tiêu đề báo lược bỏ tiểu từ và đuôi câu, dùng từ vựng cô đọng, như **급증** (geupjeung) – tăng mạnh (Hán Việt: cấp tăng). Hãy học một bộ từ thường gặp trong tiêu đề; chúng xuất hiện lại kỳ thi này qua kỳ thi khác.
+**Tiêu đề báo.** Tiêu đề báo lược bỏ tiểu từ và đuôi câu, dùng từ vựng cô đọng, như **급증** (geupjjeung [급쯩]) – tăng mạnh (Hán Việt: cấp tăng). Hãy học một bộ từ thường gặp trong tiêu đề; chúng xuất hiện lại kỳ thi này qua kỳ thi khác.
 
 **Chỗ trống.** Đọc câu trước và câu sau chỗ trống. Đáp án thường lặp lại hoặc đối lập với một ý nằm ngay cạnh nó.
 
@@ -64,7 +64,7 @@ Nếu bạn thi vào mùa thu này, hãy xem hướng dẫn của chúng tôi v�
 
 | Tiếng Hàn | Phiên âm | Nghĩa |
 |---|---|---|
-| 읽기 | ilgi | (phần) đọc |
+| 읽기 | ilkki [일끼] | (phần) đọc |
 | 지문 | jimun | đoạn văn đọc hiểu |
 | 빈칸 | binkan | chỗ trống |
 | 주제 | juje | ý chính, chủ đề |
