@@ -16,7 +16,7 @@ Late October is when Seoul's shops fill up with coats, knitwear and padded jacke
 
 ## Trying things on
 
-The most useful sentence of the day: **입어 봐도 돼요?** (ibeo bwado dwaeyo?) – Can I try it on? It comes from **[입다](/en/dictionary/?q=입다)** (ipda), to wear, plus **-어 봐도 돼요?**, "is it OK if I try…?"
+The most useful sentence of the day: **입어 봐도 돼요?** (ibeo bwado dwaeyo?) – Can I try it on? It comes from **[입다](/en/dictionary/?q=입다)** (ipta [입따]), to wear, plus **-어 봐도 돼요?**, "is it OK if I try…?"
 
 1. **이거 다른 색 있어요?** (igeo dareun saek isseoyo?) – Do you have this in another colour?
 2. **탈의실 어디예요?** (taruisil eodiyeyo?) – Where's the fitting room?
@@ -55,7 +55,7 @@ Visitors can also ask **택스 리펀 돼요?** (taekseu ripeon dwaeyo?) – "Ca
 
 | Korean | Romanization | Meaning |
 |---|---|---|
-| 입다 | ipda | to wear (clothes) |
+| 입다 | ipta [입따] | to wear (clothes) |
 | [사이즈](/en/dictionary/?q=사이즈) | saijeu | size |
 | 탈의실 | taruisil | fitting room |
 | [크다](/en/dictionary/?q=크다) | keuda | to be big |

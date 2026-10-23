@@ -36,7 +36,7 @@ Se você estiver em Seul neste fim de semana, os dois últimos dias da semana s�
 
 **한복** junta **한** (han), coreano, com **복** (bok), roupa – o mesmo 복 que aparece em **교복** (gyobok), uniforme escolar, e **근무복** (geunmubok), uniforme de trabalho. Repare na mudança de som em **한복의 날**: 한복 + 의 se pronuncia [한보긔] ou [한보게], então o ㄱ desliza para a sílaba seguinte.
 
-O verbo para vestir roupa é [입다](/pt/dictionary/?q=입다) (ipda). O coreano é exigente aqui: 입다 é para roupas no corpo, **신다** (sinda) para sapatos e meias, e **쓰다** (sseuda) para chapéus e óculos.
+O verbo para vestir roupa é [입다](/pt/dictionary/?q=입다) (ipta [입따]). O coreano é exigente aqui: 입다 é para roupas no corpo, **신다** (sintta [신따]) para sapatos e meias, e **쓰다** (sseuda) para chapéus e óculos.
 
 ## Coreano desta notícia
 
@@ -45,7 +45,7 @@ O verbo para vestir roupa é [입다](/pt/dictionary/?q=입다) (ipda). O corean
 | 한복 | hanbok | roupa tradicional coreana |
 | 한복의 날 | hanbogui nal | Dia do Hanbok (21 de outubro) |
 | 문화주간 | munhwa jugan | semana cultural |
-| 입다 | ipda | vestir (roupa) |
+| 입다 | ipta [입따] | vestir (roupa) |
 | 할인 | harin | desconto |
 | 입장료 | ipjangnyo | preço da entrada |
 | 박물관 | bangmulgwan | museu |

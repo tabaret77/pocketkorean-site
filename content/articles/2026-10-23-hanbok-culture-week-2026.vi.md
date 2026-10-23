@@ -36,7 +36,7 @@ Nếu bạn ở Seoul cuối tuần này, hai ngày cuối của tuần lễ là
 
 **한복** ghép **한** (han), Hàn, với **복** (bok), quần áo – đúng chữ 복 (phục, như trong "trang phục") mà bạn gặp trong **교복** (gyobok), đồng phục học sinh, và **근무복** (geunmubok), đồng phục làm việc. Hãy để ý biến âm trong **한복의 날**: 한복 + 의 được đọc là [한보긔] hoặc [한보게], nên âm ㄱ lướt sang âm tiết tiếp theo.
 
-Động từ chỉ việc mặc quần áo là [입다](/vi/dictionary/?q=입다) (ipda). Tiếng Hàn khá kỹ tính ở điểm này: 입다 dùng cho quần áo trên người, **신다** (sinda) cho giày và tất, còn **쓰다** (sseuda) cho mũ và kính – trong khi tiếng Việt chỉ cần "mặc", "đi" và "đội/đeo".
+Động từ chỉ việc mặc quần áo là [입다](/vi/dictionary/?q=입다) (ipta [입따]). Tiếng Hàn khá kỹ tính ở điểm này: 입다 dùng cho quần áo trên người, **신다** (sintta [신따]) cho giày và tất, còn **쓰다** (sseuda) cho mũ và kính – trong khi tiếng Việt chỉ cần "mặc", "đi" và "đội/đeo".
 
 ## Tiếng Hàn từ câu chuyện này
 
@@ -45,7 +45,7 @@ Nếu bạn ở Seoul cuối tuần này, hai ngày cuối của tuần lễ là
 | 한복 | hanbok | trang phục truyền thống Hàn Quốc |
 | 한복의 날 | hanbogui nal | Ngày Hanbok (21/10) |
 | 문화주간 | munhwa jugan | tuần lễ văn hóa |
-| 입다 | ipda | mặc (quần áo) |
+| 입다 | ipta [입따] | mặc (quần áo) |
 | 할인 | harin | giảm giá |
 | 입장료 | ipjangnyo | phí vào cửa |
 | 박물관 | bangmulgwan | bảo tàng |

@@ -17,7 +17,7 @@ A finales de octubre, las tiendas de Seúl se llenan de abrigos, prendas de punt
 
 ## Probarse ropa
 
-La oración más útil del día: **입어 봐도 돼요?** (ibeo bwado dwaeyo?): ¿Me lo puedo probar? Viene de **[입다](/es/dictionary/?q=입다)** (ipda), ponerse (ropa), más **-어 봐도 돼요?**, "¿está bien si pruebo a…?".
+La oración más útil del día: **입어 봐도 돼요?** (ibeo bwado dwaeyo?): ¿Me lo puedo probar? Viene de **[입다](/es/dictionary/?q=입다)** (ipta [입따]), ponerse (ropa), más **-어 봐도 돼요?**, "¿está bien si pruebo a…?".
 
 1. **이거 다른 색 있어요?** (igeo dareun saek isseoyo?): ¿Tiene esto en otro color?
 2. **탈의실 어디예요?** (taruisil eodiyeyo?): ¿Dónde está el probador?
@@ -56,7 +56,7 @@ Los visitantes también pueden preguntar **택스 리펀 돼요?** (taekseu ripe
 
 | Coreano | Romanización | Significado |
 |---|---|---|
-| 입다 | ipda | ponerse, llevar (ropa) |
+| 입다 | ipta [입따] | ponerse, llevar (ropa) |
 | [사이즈](/es/dictionary/?q=사이즈) | saijeu | talla |
 | 탈의실 | taruisil | probador |
 | [크다](/es/dictionary/?q=크다) | keuda | ser grande |

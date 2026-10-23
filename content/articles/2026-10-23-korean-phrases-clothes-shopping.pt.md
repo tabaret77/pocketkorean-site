@@ -17,7 +17,7 @@ O fim de outubro é quando as lojas de Seul se enchem de casacos, malhas e jaque
 
 ## Experimentando
 
-A frase mais útil do dia: **입어 봐도 돼요?** (ibeo bwado dwaeyo?) – Posso experimentar? Vem de **[입다](/pt/dictionary/?q=입다)** (ipda), vestir, mais **-어 봐도 돼요?**, "tudo bem se eu experimentar…?"
+A frase mais útil do dia: **입어 봐도 돼요?** (ibeo bwado dwaeyo?) – Posso experimentar? Vem de **[입다](/pt/dictionary/?q=입다)** (ipta [입따]), vestir, mais **-어 봐도 돼요?**, "tudo bem se eu experimentar…?"
 
 1. **이거 다른 색 있어요?** (igeo dareun saek isseoyo?) – Tem esta em outra cor?
 2. **탈의실 어디예요?** (taruisil eodiyeyo?) – Onde fica o provador?
@@ -56,7 +56,7 @@ Turistas também podem perguntar **택스 리펀 돼요?** (taekseu ripeon dwaey
 
 | Coreano | Romanização | Significado |
 |---|---|---|
-| 입다 | ipda | vestir (roupa) |
+| 입다 | ipta [입따] | vestir (roupa) |
 | [사이즈](/pt/dictionary/?q=사이즈) | saijeu | tamanho |
 | 탈의실 | taruisil | provador |
 | [크다](/pt/dictionary/?q=크다) | keuda | ser grande |

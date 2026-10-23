@@ -17,7 +17,7 @@ Cuối tháng 10 là lúc các cửa hàng ở Seoul ngập tràn áo khoác, đ
 
 ## Thử đồ
 
-Câu hữu ích nhất trong ngày: **입어 봐도 돼요?** (ibeo bwado dwaeyo?) – Tôi mặc thử được không? Câu này đến từ **[입다](/vi/dictionary/?q=입다)** (ipda), mặc, cộng với **-어 봐도 돼요?**, "tôi thử… có được không?"
+Câu hữu ích nhất trong ngày: **입어 봐도 돼요?** (ibeo bwado dwaeyo?) – Tôi mặc thử được không? Câu này đến từ **[입다](/vi/dictionary/?q=입다)** (ipta [입따]), mặc, cộng với **-어 봐도 돼요?**, "tôi thử… có được không?"
 
 1. **이거 다른 색 있어요?** (igeo dareun saek isseoyo?) – Cái này có màu khác không ạ?
 2. **탈의실 어디예요?** (taruisil eodiyeyo?) – Phòng thử đồ ở đâu ạ?
@@ -56,7 +56,7 @@ Du khách cũng có thể hỏi **택스 리펀 돼요?** (taekseu ripeon dwaeyo
 
 | Tiếng Hàn | Phiên âm | Nghĩa |
 |---|---|---|
-| 입다 | ipda | mặc (quần áo) |
+| 입다 | ipta [입따] | mặc (quần áo) |
 | [사이즈](/vi/dictionary/?q=사이즈) | saijeu | cỡ, size |
 | 탈의실 | taruisil | phòng thử đồ |
 | [크다](/vi/dictionary/?q=크다) | keuda | to, rộng |

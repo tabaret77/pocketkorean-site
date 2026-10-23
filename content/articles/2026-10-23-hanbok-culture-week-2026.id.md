@@ -36,7 +36,7 @@ Jika kamu berada di Seoul akhir pekan ini, dua hari terakhir pekan ini bisa jadi
 
 **한복** menggabungkan **한** (han), Korea, dengan **복** (bok), pakaian – 복 yang sama yang kamu temukan dalam **교복** (gyobok), seragam sekolah, dan **근무복** (geunmubok), seragam kerja. Perhatikan perubahan bunyi dalam **한복의 날**: 한복 + 의 diucapkan [한보긔] atau [한보게], jadi bunyi ㄱ meluncur ke suku kata berikutnya.
 
-Kata kerja untuk memakai pakaian adalah [입다](/id/dictionary/?q=입다) (ipda). Bahasa Korea cukup rewel di sini: 입다 untuk pakaian di badan, **신다** (sinda) untuk sepatu dan kaus kaki, dan **쓰다** (sseuda) untuk topi dan kacamata.
+Kata kerja untuk memakai pakaian adalah [입다](/id/dictionary/?q=입다) (ipta [입따]). Bahasa Korea cukup rewel di sini: 입다 untuk pakaian di badan, **신다** (sintta [신따]) untuk sepatu dan kaus kaki, dan **쓰다** (sseuda) untuk topi dan kacamata.
 
 ## Bahasa Korea dari berita ini
 
@@ -45,7 +45,7 @@ Kata kerja untuk memakai pakaian adalah [입다](/id/dictionary/?q=입다) (ipda
 | 한복 | hanbok | pakaian tradisional Korea |
 | 한복의 날 | hanbogui nal | Hari Hanbok (21 Oktober) |
 | 문화주간 | munhwa jugan | pekan budaya |
-| 입다 | ipda | memakai (pakaian) |
+| 입다 | ipta [입따] | memakai (pakaian) |
 | 할인 | harin | diskon |
 | 입장료 | ipjangnyo | biaya masuk |
 | 박물관 | bangmulgwan | museum |

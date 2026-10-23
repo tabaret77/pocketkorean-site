@@ -17,7 +17,7 @@ Akhir Oktober adalah saat toko-toko di Seoul dipenuhi mantel, pakaian rajut, dan
 
 ## Mencoba pakaian
 
-Kalimat paling berguna hari ini: **입어 봐도 돼요?** (ibeo bwado dwaeyo?) – Boleh saya coba? Kalimat ini berasal dari **[입다](/id/dictionary/?q=입다)** (ipda), memakai, ditambah **-어 봐도 돼요?**, "bolehkah saya mencoba…?"
+Kalimat paling berguna hari ini: **입어 봐도 돼요?** (ibeo bwado dwaeyo?) – Boleh saya coba? Kalimat ini berasal dari **[입다](/id/dictionary/?q=입다)** (ipta [입따]), memakai, ditambah **-어 봐도 돼요?**, "bolehkah saya mencoba…?"
 
 1. **이거 다른 색 있어요?** (igeo dareun saek isseoyo?) – Yang ini ada warna lain?
 2. **탈의실 어디예요?** (taruisil eodiyeyo?) – Kamar pasnya di mana?
@@ -56,7 +56,7 @@ Wisatawan juga bisa bertanya **택스 리펀 돼요?** (taekseu ripeon dwaeyo?) 
 
 | Korea | Romanisasi | Arti |
 |---|---|---|
-| 입다 | ipda | memakai (pakaian) |
+| 입다 | ipta [입따] | memakai (pakaian) |
 | [사이즈](/id/dictionary/?q=사이즈) | saijeu | ukuran |
 | 탈의실 | taruisil | kamar pas |
 | [크다](/id/dictionary/?q=크다) | keuda | besar |

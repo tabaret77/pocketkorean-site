@@ -17,7 +17,7 @@ draft: false
 
 ## 試身
 
-今天最有用的一句：**입어 봐도 돼요?**（ibeo bwado dwaeyo?）——可以試穿嗎？它由 **[입다](/zh-hk/dictionary/?q=입다)**（ipda）「穿」加上 **-어 봐도 돼요?**「可以試試……嗎？」組成。
+今天最有用的一句：**입어 봐도 돼요?**（ibeo bwado dwaeyo?）——可以試穿嗎？它由 **[입다](/zh-hk/dictionary/?q=입다)**（ipta [입따]）「穿」加上 **-어 봐도 돼요?**「可以試試……嗎？」組成。
 
 1. **이거 다른 색 있어요?**（igeo dareun saek isseoyo?）——這件有其他顏色嗎？
 2. **탈의실 어디예요?**（taruisil eodiyeyo?）——試身室在哪裏？
@@ -56,7 +56,7 @@ draft: false
 
 | 韓語 | 羅馬拼音 | 意思 |
 |---|---|---|
-| 입다 | ipda | 穿（衣服） |
+| 입다 | ipta [입따] | 穿（衣服） |
 | [사이즈](/zh-hk/dictionary/?q=사이즈) | saijeu | 尺碼 |
 | 탈의실 | taruisil | 試身室 |
 | [크다](/zh-hk/dictionary/?q=크다) | keuda | 大 |
