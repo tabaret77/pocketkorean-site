@@ -205,6 +205,14 @@ PHOTO = {
  'seoul-late-night-n-buses-p1': (MEDIA + 'photos/nbus-stop-ill.png', '막차', '서울 심야버스', C['sky'], 'center'),
  'suneung-csat-day-customs-p1': (MEDIA + 'photos/exam-gate-ill.png', '수능', '11월 19일 시험의 날', C['sky'], 'center'),
  'korean-phrases-clothes-shopping-p1': (MEDIA + 'photos/boutique-ill.png', '입어 봐도 돼요?', '옷 가게에서', C['sky'], 'center'),
+ 'between-steps-ratings-high-p1': (MEDIA + 'photos/robot-lab-ill.png', '연애박사', '반환점에서 자체 최고 시청률', C['coral'], 'center'),
+ 'a2o-lite-neon-three-wins-p1': (MEDIA + 'photos/music-stage-ill.png', '1위', '데뷔 일주일 만에 음방 3관왕', C['coral'], 'center'),
+ 'hansik-day-first-korean-food-day-p1': (MEDIA + 'photos/hansik-pond-ill.png', '한식', '첫 번째 한식의 날', C['coral'], 'center'),
+ 'tamjo-birdwatching-young-koreans-p1': (MEDIA + 'photos/magpie-persimmon-ill.png', '탐조', '스마트폰 들고 새 보러 가요', C['coral'], 'center'),
+ 'korea-phone-number-sim-plan-p1': (MEDIA + 'photos/phone-shop-ill.png', '개통', '유심, 약정, 알뜰폰', C['sky'], 'center'),
+ 'korea-express-bus-guide-p1': (MEDIA + 'photos/rest-stop-ill.png', '고속버스', '우등, 프리미엄, 휴게소', C['sky'], 'center'),
+ 'g-star-2026-busan-game-show-p1': (MEDIA + 'photos/game-hall-ill.png', '전시회', '11월 부산 게임 전시회', C['sky'], 'center'),
+ 'korean-phrases-hair-salon-p1': (MEDIA + 'photos/hair-salon-ill.png', '다듬어 주세요', '미용실에서', C['sky'], 'center'),
 }  # slug -> (photo path, big phrase, small line, accent colour, object-position)
 def photo_page(photo, big, small, accent, pos='center'):
     return HEAD + f"""<img src="file://{photo}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:{pos}">
