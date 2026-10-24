@@ -1,6 +1,6 @@
 # Pocket German — daily "Life in Germany" posts
 
-Every day two posts go up in the **독일 이야기 / Life in Germany / ドイツ暮らし** section of pocketkorean.com/german/, each in Korean, English and Japanese:
+Every day two posts go up in the **독일 이야기 / Life in Germany / ドイツ暮らし** section of pocketkorean.com/german/, each in every site language: Korean, English, Japanese, plus every language that has a file in `tools/german_langs/` (now: Turkish `tr`). Below, "all languages" means this list.
 
 1. **Daily news briefing** — the most important German news of the day plus the weather, short and practical.
 2. **Life & culture** — one free-topic post about living in Germany or German culture.
@@ -12,8 +12,8 @@ For the date `YYYY-MM-DD` (Europe/Berlin):
 
 | What | Path |
 |---|---|
-| News, Korean / English / Japanese | `content/german/ko/YYYY-MM-DD-news.md`, `content/german/en/…`, `content/german/ja/…` |
-| Culture post (same slug in all 3) | `content/german/{ko,en,ja}/YYYY-MM-DD-<slug>.md` — slug in English, lowercase, hyphens |
+| News, one file per language | `content/german/ko/YYYY-MM-DD-news.md`, `content/german/en/…`, `content/german/ja/…`, `content/german/tr/…` |
+| Culture post (same slug in all languages) | `content/german/{ko,en,ja,tr}/YYYY-MM-DD-<slug>.md` — slug in English, lowercase, hyphens |
 | Images | `german/media/life/YYYY-MM-DD/` (JPG, ≤ 250 KB each) |
 
 Front matter (between `---` lines, one `key: value` per line):
@@ -47,14 +47,14 @@ Run from the repository root, e.g. `python3 -c "import sys; sys.path.insert(0,'t
 **Weather**: tomorrow + the next two days for Berlin, Hamburg, Munich, Cologne, Frankfurt (max/min °C and conditions), and one line of practical advice (umbrella, ice, heat). Show it as a table (a weather strip image is optional).
 
 **Structure** (each language written for its reader, not translated word for word):
-- Title — ko: `오늘의 독일 뉴스 (M/D 요일)｜<hook> + <item> + <item> + <item>` (full-width `｜`, ` + ` between items, hook first, most practical/surprising). en: `Germany today (Thu 22 Oct): <hook>, <item>, <item>`. ja: `今日のドイツニュース（10/22 木）｜<hook>＋<item>＋<item>`.
+- Title — ko: `오늘의 독일 뉴스 (M/D 요일)｜<hook> + <item> + <item> + <item>` (full-width `｜`, ` + ` between items, hook first, most practical/surprising). en: `Germany today (Thu 22 Oct): <hook>, <item>, <item>`. ja: `今日のドイツニュース（10/22 木）｜<hook>＋<item>＋<item>`. tr: `Bugün Almanya (22 Ekim Per): <hook>, <item>, <item>` (same shape as en: the part after the colon, comma-separated, becomes the card's headline list). Section labels in tr: `## 1. [Siyaset] …` (Siyaset · Ekonomi · Toplum · Kültür · Sanat · Magazin · Spor); weather `## Hava durumu`, words `## Günün haberlerinden Almanca`; source line `Kaynak:`.
 - 2–3 friendly lines of intro (the cover from the front matter is shown above the post automatically — don't put it in the body again).
 - One `## n. headline` section per item, **bullet points only — no card image, no prose paragraphs**: 3–5 bullets, each `- **short key point** — one line of detail`. The first bullet carries the key fact (date, number, who); include one bullet on what it means for the reader (what to do, who is affected). Add a small table only when facts are genuinely listable. End each item with a source line: `<p class="src">Source: <a href="…">tagesschau.de</a></p>` (ko: 출처, ja: 出典).
 - `## 날씨 / Weather / 天気` with the weather image and table.
 - `## 오늘의 독일어 / German from today's news / 今日のニュースのドイツ語`: a table of 4–6 German words from the news (word with article · meaning · example from the news topic).
 - A one-line sign-off.
 
-Write the news in your own words (no copied sentences; at most one short quote per post). Korean voice: 해요체, friendly and practical, like a Korean living in Berlin. English: plain and friendly. Japanese: です・ます調.
+Write the news in your own words (no copied sentences; at most one short quote per post). Korean voice: 해요체, friendly and practical, like a Korean living in Berlin. English: plain and friendly. Japanese: です・ます調. Turkish: warm, plain and polite (siz), written for Turks living in or moving to Germany.
 
 ## 2. Life & culture post
 - Pick a fresh topic: list `content/german/ko/` first and don't repeat a topic or angle used before. Good areas: everyday rules and habits (Pfand, Sunday rest, Mülltrennung, Lüften), seasons and festivals coming up soon (match the calendar!), food and bakeries, regional differences, bureaucracy tips, language quirks, history behind a custom, city life in Berlin.
@@ -64,9 +64,9 @@ Write the news in your own words (no copied sentences; at most one short quote p
 
 ## Build, check, publish
 1. `git pull --ff-only`
-2. Write the 6 Markdown files and the images.
+2. Write the Markdown files (2 posts × all languages) and the images. Images with text are made per language like the others (pass the language code to the card functions; for `tr` use the English layout with Turkish text).
 3. `python3 tools/german.py` (builds /german/, including the Life in Germany grid and the post pages).
-4. Check: the 6 pages exist under `german/life/…` and `german/{en,ja}/life/…`, images load (paths start with `/german/media/life/`), front matter has all fields, no Markdown left unrendered. Open one page per language in Chromium (Playwright) and look at a screenshot.
+4. Check: the pages exist under `german/life/…` and `german/<lang>/life/…` for every language, images load (paths start with `/german/media/life/`), front matter has all fields, no Markdown left unrendered. Open one page per language in Chromium (Playwright) and look at a screenshot.
 5. `git add -A && git commit -m "Pocket German: daily news + <topic> (YYYY-MM-DD)" && git push origin main`
 
 ## Notes from the first edition

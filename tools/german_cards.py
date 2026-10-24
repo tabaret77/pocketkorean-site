@@ -17,11 +17,18 @@ FONT = {'ko': "'Noto Sans CJK KR'", 'ja': "'Noto Sans CJK JP'", 'en': "'Noto San
 WD = {'ko': '월화수목금토일', 'ja': '月火水木金土日'}
 BRAND = {'ko': '포켓<b style="color:#FF5A4E">독일어</b>', 'en': 'Pocket <b style="color:#FF5A4E">German</b>', 'ja': 'ポケット<b style="color:#FF5A4E">ドイツ語</b>'}
 TODAY = {'ko': '오늘의 독일 뉴스', 'en': 'Germany today', 'ja': '今日のドイツニュース'}
+FONT['tr'] = "'Noto Sans CJK KR'"
+BRAND['tr'] = 'Cep <b style="color:#FF5A4E">Almancası</b>'
+TODAY['tr'] = 'Bugün Almanya'
+TRW = ['Pzt', 'Sal', 'Çar', 'Per', 'Cum', 'Cmt', 'Paz']
+TRM = ['Ocak', 'Şubat', 'Mart', 'Nisan', 'Mayıs', 'Haziran', 'Temmuz', 'Ağustos', 'Eylül', 'Ekim', 'Kasım', 'Aralık']
 E = lambda s: html.escape(str(s))
 
 def dstr(lang, d):
     if lang == 'en':
         return d.strftime('%a, %-d %B %Y')
+    if lang == 'tr':
+        return f'{d.day} {TRM[d.month - 1]} {d.year}, {TRW[d.weekday()]}'
     return f'{d.year}. {d.month}. {d.day} ({WD[lang][d.weekday()]})'
 
 FLAG = '<div style="display:flex;width:120px;height:8px;margin:14px 0 0"><i style="flex:1;background:#111"></i><i style="flex:1;background:#DC0000"></i><i style="flex:1;background:#FFCC00"></i></div>'
