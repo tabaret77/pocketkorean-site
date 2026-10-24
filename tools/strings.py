@@ -243,3 +243,11 @@ HF = {
             'ru': ('Поиск на вашем языке', 'Введите слово на своём языке или по-корейски и найдите его среди 11 000.'),
             'mn': ('Өөрийн хэлээр хайх', 'Өөрийн хэлээр эсвэл солонгосоор бичээд 11,000 үгээс олоорой.')},
 }
+
+# home: headline above the search box (app promise)
+S['home_hero'] = {'en': '11,000 Korean words, explained in your language.', 'es': '11.000 palabras coreanas, explicadas en tu idioma.',
+                  'vi': '11.000 từ tiếng Hàn, giải thích bằng tiếng của bạn.', 'th': 'คำศัพท์เกาหลี 11,000 คำ อธิบายเป็นภาษาของคุณ',
+                  'id': '11.000 kata Korea, dijelaskan dalam bahasamu.', 'yue': '11,000 個韓文生字，用你嘅語言講清楚。',
+                  'tw': '11,000 個韓文單字，用你的語言講清楚。', 'ja': '韓国語11,000語を、あなたの言葉で。',
+                  'zh': '11,000 个韩语单词，用你的语言讲明白。', 'pt': '11.000 palavras em coreano, explicadas no seu idioma.',
+                  'ru': '11 000 корейских слов — с объяснениями на вашем языке.', 'mn': 'Солонгос 11,000 үг — таны хэлээр тайлбартай.'}
