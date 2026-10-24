@@ -166,11 +166,13 @@ def build():
                 return f'<div class="grid">{"".join(placeholder(d, c) for c in cs)}</div>'
             extra = ''
             if sec == 'learn':
-                extra = (f'<div class="lessons" style="margin-top:44px"><a class="lesson" href="{L(d, "topik/")}"><img class="topik-mark sm" src="/assets/topik-mark.svg" width="92" height="24" alt="TOPIK"><span></span><span>{T("dict_bylevel", d)}</span></a>'
-                         f'<a class="lesson" href="{L(d, "grammar/")}"><b>{T("grammar_h", d)}</b><span></span><span>{T("q_grammar_d", d)}</span></a>'
-                         f'<a class="lesson" href="{L(d, "dictionary/")}"><b>{T("dict_search", d)}</b><span></span><span>{T("dict_hint", d)}</span></a>'
-                         f'<a class="lesson" href="{L(d, "level-test/")}"><b>{T("lt_cta", d)}</b><span></span><span>{T("q_level_d", d)}</span></a></div>')
-            body = phead(d, T(key, d), T(key, d), T(key + '_p', d), col, chips(d, sec), key=sec) + f'<div class="wrap" style="padding-top:36px;padding-bottom:64px">{listing(secposts)}{extra}</div>'
+                ic = lambda path: f'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">{path}</svg>'
+                bt = [(L(d, "level-test/"), T("lt_cta", d), T("q_level_d", d), ic('<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>'), ' main'),
+                      (L(d, "grammar/"), T("grammar_h", d), T("q_grammar_d", d), ic('<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/>'), ''),
+                      (L(d, "dictionary/"), T("dict_search", d), T("dict_hint", d), ic('<circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>'), ''),
+                      (L(d, "topik/"), 'TOPIK', T("dict_bylevel", d), ic('<rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8M8 16h5"/>'), '')]
+                extra = '<nav class="lbtns">' + ''.join(f'<a class="lbtn{m}" href="{h}">{i}<span><b>{E(t)}</b><small>{E(x)}</small></span></a>' for h, t, x, i, m in bt) + '</nav>'
+            body = phead(d, T(key, d), T(key, d), T(key + '_p', d), col, chips(d, sec), key=sec) + f'<div class="wrap" style="padding-top:28px;padding-bottom:64px">{extra}{listing(secposts)}</div>'
             write(f'/{u}/{sec}/', page(d, f'{sec}/', f'{T(key, d)} | Pocket Korean', T(key + '_p', d), body, wide=True, cur=sec))
             urls.append((f'{BASE}/{u}/{sec}/', max((q['date'] for q in secposts), default='')))
             for c, ck in cats:
