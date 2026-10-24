@@ -703,3 +703,326 @@ SCENES_1023 = {'topik-ii-reading-strategy': topik_reading, 'past-tense-asseoyo-e
                'plain-aspirated-tense-consonants': consonants, 'gaeul-tada-autumn-blues': autumn_blues, 'k-drama-apology-making-up-lines': apology,
                'korean-phone-call-phrases': phone_call, 'mbti-talk-korean-slang': mbti, 'korean-forms-of-address': address}
 SCENES.update(SCENES_1023)
+
+
+# ================= 2026-10-24 batch =================
+import re as _re
+
+def _at(x, y, s, inner):
+    """Draw `inner` in a character's 300x420 box coordinates (same mapping as P())."""
+    return f'<g transform="translate({x} {y}) scale({s})">{inner}</g>'
+
+def PR(fn, x, y, s=1.0, side=1, hand='wave', **kw):
+    """Like P(), but one arm is raised (side=1: viewer's right, -1: left); hand = 'wave' | 'thumb' | 'point'."""
+    g = fn(0, 0, 1, **kw)
+    sleeve = kw.get('cardigan', '#FFF1CF') if fn is cute.girl else kw.get('shirt', '#FFFFFF')
+    X = (lambda v: v) if side == 1 else (lambda v: 300 - v)
+    arm = (f'<path d="M{X(190)} 232 Q{X(238)} 222 {X(258)} 166 L{X(282)} 172 Q{X(266)} 246 {X(206)} 258Z" fill="{sleeve}" stroke="{INK}" stroke-width="4" stroke-linejoin="round"/>'
+           f'<circle cx="{X(272)}" cy="152" r="13" fill="{cute.SKIN}" stroke="{INK}" stroke-width="4"/>')
+    if hand == 'thumb':   # fist with the thumb up, a little away from the ear
+        hx = X(286)
+        arm = arm.replace(f'<circle cx="{X(272)}" cy="152" r="13"', f'<rect x="{hx-16}" y="140" width="32" height="30" rx="11"')
+        arm += (f'<rect x="{hx-6*side-6}" y="114" width="13" height="32" rx="6.5" fill="{cute.SKIN}" stroke="{INK}" stroke-width="4"/>'
+                f'<path d="M{hx-8} 152 h16 M{hx-8} 160 h16" stroke="{INK}" stroke-width="3" stroke-linecap="round"/>')
+    elif hand == 'wave':
+        arm += f'<path d="M{X(292)} 118 q{12*side} 14 {4*side} 34 M{X(306)} 104 q{20*side} 24 {8*side} 54" stroke="{INK}" stroke-width="4" fill="none" stroke-linecap="round"/>'
+    g = _re.sub(rf'<path d="M{150+44*side} 230 [^"]*"[^>]*/>', arm, g, count=1)
+    g = _re.sub(rf'<circle cx="{150+66*side}" cy="312" r="12.5"[^>]*/>', '', g, count=1)
+    return f'<svg x="{x}" y="{y}" width="{300*s:.0f}" height="{420*s:.0f}" viewBox="0 0 300 420" overflow="visible">{g}</svg>'
+
+def _tw(text, size):
+    return 56 + size * 1.02 * len(text)
+
+def _cloud(cx, cy, r, c='#FFFFFF'):
+    return (f'<g filter="url(#sh)"><path d="M{cx-r*1.4} {cy+r*.5} Q{cx-r*1.7} {cy-r*.2} {cx-r} {cy-r*.3} Q{cx-r*.8} {cy-r*1.1} {cx} {cy-r} Q{cx+r*.8} {cy-r*1.2} {cx+r} {cy-r*.3} '
+            f'Q{cx+r*1.7} {cy-r*.2} {cx+r*1.4} {cy+r*.5}Z" fill="{c}" stroke="{INK}" stroke-width="5" stroke-linejoin="round"/></g>')
+
+def topik_listening():
+    """Exam room: a student in big headphones at a desk with an OMR card and marker; wall speaker with sound waves; tags 듣기 · 한 번 · 두 번."""
+    d = _bg('tlbg', '#EAF1FF', '#D3DEF7')
+    s = ['<rect width="1600" height="1000" fill="url(#tlbg)"/>', '<rect y="800" width="1600" height="200" fill="#C9A47A"/><rect y="800" width="1600" height="10" fill="#A9875E"/>']
+    # wall speaker + waves
+    s.append(f'<rect x="150" y="50" width="50" height="24" fill="#8A90C0" stroke="{INK}" stroke-width="4"/><g filter="url(#sh)"><rect x="90" y="70" width="170" height="220" rx="24" fill="#3A3F66" stroke="{INK}" stroke-width="6"/></g>'
+             f'<circle cx="175" cy="135" r="36" fill="#22264A" stroke="#8A90C0" stroke-width="5"/><circle cx="175" cy="135" r="13" fill="#8A90C0"/>'
+             f'<circle cx="175" cy="228" r="42" fill="#22264A" stroke="#8A90C0" stroke-width="5"/><circle cx="175" cy="228" r="16" fill="#8A90C0"/>')
+    for r in (50, 90, 130):
+        s.append(f'<path d="M{285+r*.25:.0f} {180-r*.7:.0f} A{r} {r} 0 0 1 {285+r*.25:.0f} {180+r*.7:.0f}" stroke="#2446F0" stroke-width="9" fill="none" stroke-linecap="round" opacity=".75"/>')
+    s.append(tag(400, 110, '듣기', '#FFD84A', 70))
+    # board + clock
+    s.append(f'<g filter="url(#sh)"><rect x="920" y="60" width="600" height="270" rx="16" fill="#2F5A48" stroke="#8A5A34" stroke-width="14"/></g>'
+             f'<text x="1220" y="170" text-anchor="middle" font-family="Bricolage Grotesque, sans-serif" font-weight="800" font-size="64" fill="#FFFFFF">TOPIK II</text>'
+             f'<text x="1220" y="265" text-anchor="middle" {F} font-size="54" fill="#CFE8DA">1번 ~ 50번</text>')
+    s.append(_clock(760, 160, 72))
+    # student with headphones
+    s.append(P(cute.boy, 575, 290, 1.2, mood='smile', vest='#7C5CFF', vest_sh='#5B3FD6'))
+    band = 'M40 160 C30 -30 270 -30 260 160'
+    s.append(_at(575, 290, 1.2, f'<path d="{band}" stroke="{INK}" stroke-width="28" fill="none" stroke-linecap="round"/><path d="{band}" stroke="#F2555A" stroke-width="16" fill="none" stroke-linecap="round"/>'
+             + ''.join(f'<rect x="{x}" y="106" width="56" height="100" rx="26" fill="#F2555A" stroke="{INK}" stroke-width="5"/><rect x="{x+10}" y="120" width="36" height="72" rx="16" fill="#C93E44"/>' for x in (12, 232))))
+    s.append(''.join(f'<text x="{x}" y="{y}" {F} font-size="{fs}" fill="#2446F0" opacity=".8">♪</text>' for x, y, fs in [(420, 330, 60), (500, 280, 46)]))
+    # desk + papers
+    s.append(f'<g filter="url(#sh)"><rect x="360" y="700" width="980" height="44" rx="12" fill="#D8A86E" stroke="{INK}" stroke-width="6"/><rect x="380" y="744" width="940" height="170" fill="#C08A55" stroke="{INK}" stroke-width="6"/><rect x="420" y="780" width="860" height="10" rx="5" fill="#A87444"/></g>')
+    s.append(f'<g transform="translate(420 620) rotate(-6)" filter="url(#sh)"><rect width="190" height="96" rx="8" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/><rect x="14" y="14" width="54" height="68" rx="4" fill="#E8ECFF" stroke="{INK}" stroke-width="3"/>'
+             + ''.join(f'<rect x="82" y="{20+k*20}" width="{90-k*14}" height="8" rx="4" fill="#C8CDE4"/>' for k in range(3)) + '</g>')
+    s.append(f'<g transform="translate(880 600) rotate(4)" filter="url(#sh)"><rect width="260" height="110" rx="6" fill="#FFF6D1" stroke="{INK}" stroke-width="4"/><rect width="260" height="22" rx="6" fill="#F2555A"/>'
+             + ''.join(f'<circle cx="{26+c*30}" cy="{42+r*22}" r="8" fill="{"#141838" if (r*3+c)%4==1 else "none"}" stroke="#F2555A" stroke-width="2"/>' for r in range(3) for c in range(8)) + '</g>')
+    s.append(f'<g transform="translate(1170 690) rotate(-28)" filter="url(#sh)"><rect x="0" y="-11" width="170" height="22" rx="8" fill="#141838" stroke="{INK}" stroke-width="4"/><rect x="30" y="-11" width="40" height="22" fill="#FFFFFF" stroke="{INK}" stroke-width="3"/><path d="M170 -8 l24 8 l-24 8Z" fill="#141838" stroke="{INK}" stroke-width="3"/></g>')
+    # plant
+    s.append(f'<g filter="url(#sh)"><path d="M1400 700 h120 l-14 100 h-92Z" fill="#E8B070" stroke="{INK}" stroke-width="5"/></g>'
+             + _leaf(1430, 640, 46, '#12A57A', -25) + _leaf(1490, 630, 50, '#3CBF8C', 20) + _leaf(1460, 590, 44, '#0B7F5D', 0))
+    s.append(tag(110, 430, '한 번', '#FFFFFF', 56) + tag(150, 570, '두 번', '#E3F7F0', 56))
+    s.append(sparkle(1010, 450, 22) + sparkle(1540, 420, 18, '#FF9C9C') + sparkle(60, 360, 18, '#7C5CFF'))
+    return svg(d, ''.join(s))
+
+def future_plans():
+    """Cosy bedroom: a girl points at the wall calendar with the weekend circled and holds a cinema ticket; backpack; bubbles 주말에 뭐 할 거예요? / 갈 거예요!; tags 주말 · 영화."""
+    d = _bg('fpbg', '#FFEFE6', '#FFDCCF')
+    s = ['<rect width="1600" height="1000" fill="url(#fpbg)"/>', '<rect y="820" width="1600" height="180" fill="#D9B48A"/><rect y="820" width="1600" height="10" fill="#B88E62"/>']
+    # window with curtains
+    s.append(f'<g filter="url(#sh)"><rect x="50" y="60" width="180" height="220" rx="14" fill="#BFE3FF" stroke="#8A5A34" stroke-width="10"/></g><path d="M140 60 V280 M50 170 H230" stroke="#8A5A34" stroke-width="7"/>'
+             f'<circle cx="190" cy="110" r="22" fill="#FFF3C4"/><path d="M40 50 Q70 170 40 300 L20 300 L20 50Z M240 50 Q210 170 240 300 L260 300 L260 50Z" fill="#FF9C9C" stroke="{INK}" stroke-width="4" stroke-linejoin="round"/>')
+    # wall calendar, Monday first, October 2026
+    s.append(f'<g filter="url(#sh)"><rect x="1120" y="60" width="380" height="380" rx="16" fill="#FFFFFF" stroke="{INK}" stroke-width="6"/><rect x="1120" y="60" width="380" height="74" rx="16" fill="#F2555A" stroke="{INK}" stroke-width="6"/></g>'
+             f'<rect x="1123" y="110" width="374" height="22" fill="#F2555A"/><text x="1310" y="116" text-anchor="middle" {F} font-size="48" fill="#FFFFFF">10월</text>'
+             f'<circle cx="1200" cy="58" r="9" fill="{INK}"/><circle cx="1420" cy="58" r="9" fill="{INK}"/>')
+    for c, w in enumerate('월화수목금토일'):
+        s.append(f'<text x="{1162+c*50}" y="172" text-anchor="middle" {F} font-size="24" fill="{"#F2555A" if c>4 else "#8A90A8"}">{w}</text>')
+    for n in range(1, 32):
+        k = n + 2; r, c = divmod(k, 7)
+        s.append(f'<text x="{1162+c*50}" y="{214+r*48}" text-anchor="middle" font-family="Bricolage Grotesque, sans-serif" font-weight="700" font-size="24" fill="{"#F2555A" if c>4 else INK}">{n}</text>')
+    s.append('<ellipse cx="1437" cy="350" rx="50" ry="28" fill="none" stroke="#F2555A" stroke-width="6" transform="rotate(-6 1437 350)"/>')
+    # bed
+    s.append(f'<g filter="url(#sh)"><rect x="1150" y="620" width="40" height="230" rx="10" fill="#B47A48" stroke="{INK}" stroke-width="5"/><rect x="1170" y="700" width="430" height="130" rx="18" fill="#FFFFFF" stroke="{INK}" stroke-width="6"/>'
+             f'<path d="M1300 700 H1600 V830 H1290 Q1270 760 1300 700Z" fill="#7C5CFF" stroke="{INK}" stroke-width="6"/><rect x="1196" y="660" width="110" height="56" rx="24" fill="#FFF6D1" stroke="{INK}" stroke-width="5"/></g>')
+    # backpack
+    s.append(f'<g filter="url(#sh)"><path d="M590 720 Q590 660 650 660 Q710 660 710 720 V840 H590Z" fill="#12A57A" stroke="{INK}" stroke-width="5"/><path d="M620 668 Q650 620 680 668" stroke="{INK}" stroke-width="6" fill="none"/>'
+             f'<rect x="608" y="760" width="84" height="60" rx="14" fill="#3CBF8C" stroke="{INK}" stroke-width="4"/><path d="M608 780 H692" stroke="{INK}" stroke-width="3"/></g>')
+    s.append(P(cute.boy, 230, 410, 1.05, mood='talk', vest='#FF9F43', vest_sh='#D97B22'))
+    s.append(PR(cute.girl, 760, 410, 1.05, side=1, hand='point', mood='happy', cardigan='#FFFFFF', cardigan_sh='#E0DCE8', skirt='#2446F0', skirt_sh='#1632C4'))
+    s.append(f'<path d="M1085 520 Q1180 500 1250 455" stroke="#F2555A" stroke-width="6" fill="none" stroke-dasharray="14 10" stroke-linecap="round"/><path d="M1228 448 l24 6 l-10 22" stroke="#F2555A" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>')
+    # cinema ticket in the other hand
+    s.append(f'<g transform="translate(790 690) rotate(-14)" filter="url(#sh)"><path d="M0 0 H150 V24 a12 12 0 0 0 0 24 V74 H0 V48 a12 12 0 0 0 0 -24Z" fill="#FFD84A" stroke="{INK}" stroke-width="4"/>'
+             f'<path d="M110 6 V68" stroke="{INK}" stroke-width="3" stroke-dasharray="6 6"/><rect x="22" y="24" width="70" height="10" rx="5" fill="#F2555A"/><rect x="22" y="42" width="50" height="10" rx="5" fill="#F2A03A"/></g>')
+    s.append(bubble(240, 250, '주말에 뭐 할 거예요?', 46, 'down-left') + bubble(640, 110, '갈 거예요!', 50, 'down-right', '#FFF6D1'))
+    s.append(tag(1300, 470, '주말', '#FFE9E8', 50) + tag(560, 560, '영화', '#FFD84A', 50))
+    s.append(sparkle(560, 60, 20) + sparkle(1060, 380, 18, '#FF9C9C') + sparkle(80, 600, 20, '#7C5CFF'))
+    return svg(d, ''.join(s))
+
+def family():
+    """Living room: grandma, mum and a little sibling on the sofa; family-tree frame on the wall, photo frame; tags 가족 · 할머니 · 동생."""
+    d = _bg('fmbg', '#FFF4E0', '#F7E2C4')
+    s = ['<rect width="1600" height="1000" fill="url(#fmbg)"/>', '<rect y="800" width="1600" height="200" fill="#D9B48A"/><rect y="800" width="1600" height="10" fill="#B88E62"/>',
+         '<ellipse cx="700" cy="900" rx="560" ry="60" fill="#F2A0A0" opacity=".55"/>']
+    # family-tree frame
+    s.append(f'<g filter="url(#sh)"><rect x="1080" y="50" width="430" height="360" rx="12" fill="#B47A48" stroke="{INK}" stroke-width="6"/><rect x="1104" y="74" width="382" height="312" rx="6" fill="#FFFBF0"/></g>'
+             f'<path d="M1295 384 V300" stroke="#8A5A34" stroke-width="24"/><circle cx="1295" cy="205" r="118" fill="#CDEBB8"/>'
+             f'<path d="M1295 130 V180 M1215 180 H1375 M1215 180 V230 M1375 180 V230 M1375 230 V270 M1325 270 H1425 M1325 270 V300 M1425 270 V300" stroke="{INK}" stroke-width="4" fill="none"/>')
+    for x, y, c in [(1295, 120, '#C9C4C0'), (1215, 236, '#7A4A30'), (1375, 236, '#2C2220'), (1325, 310, '#5A3328'), (1425, 310, '#2C2220')]:
+        s.append(f'<circle cx="{x}" cy="{y}" r="28" fill="#FFE9DA" stroke="{INK}" stroke-width="4"/><path d="M{x-28} {y-4} Q{x} {y-44} {x+28} {y-4} Q{x} {y-20} {x-28} {y-4}Z" fill="{c}" stroke="{INK}" stroke-width="3"/>'
+                 f'<circle cx="{x-9}" cy="{y+4}" r="3" fill="{INK}"/><circle cx="{x+9}" cy="{y+4}" r="3" fill="{INK}"/><path d="M{x-6} {y+14} q6 6 12 0" stroke="{INK}" stroke-width="3" fill="none"/>')
+    # window + lamp
+    s.append(f'<g filter="url(#sh)"><rect x="300" y="60" width="240" height="200" rx="14" fill="#BFE3FF" stroke="#8A5A34" stroke-width="10"/></g><path d="M420 60 V260 M300 160 H540" stroke="#8A5A34" stroke-width="7"/>')
+    # sofa
+    s.append(f'<g filter="url(#sh)"><rect x="140" y="520" width="1060" height="220" rx="50" fill="#5B8DEF" stroke="{INK}" stroke-width="6"/><rect x="100" y="560" width="100" height="240" rx="44" fill="#3D6CCB" stroke="{INK}" stroke-width="6"/><rect x="1140" y="560" width="100" height="240" rx="44" fill="#3D6CCB" stroke="{INK}" stroke-width="6"/></g>'
+             f'<rect x="200" y="740" width="940" height="60" rx="16" fill="#4A7BE0" stroke="{INK}" stroke-width="6"/>')
+    # grandma (grey hair, glasses), mum, little sibling
+    s.append(P(cute.girl, 200, 446, 1.0, mood='happy', hair='#C9C4C0', hair_hi='#EDEAE6', cardigan='#9B7BD8', cardigan_sh='#7A5CB8', skirt='#5A4A7A', skirt_sh='#45385E', ribbon='#F2555A'))
+    s.append(_at(200, 446, 1.0, f'<g fill="none" stroke="{INK}" stroke-width="4"><circle cx="110" cy="150" r="26" fill="#FFFFFF" fill-opacity=".2"/><circle cx="190" cy="150" r="26" fill="#FFFFFF" fill-opacity=".2"/><path d="M136 146 q14 -8 28 0"/></g>'))
+    s.append(P(cute.girl, 560, 432, 1.04, mood='talk', hair='#7A4A30', hair_hi='#B07A58', cardigan='#F2777C', cardigan_sh='#D45A60', skirt='#2E3A5C', skirt_sh='#1E2840', ribbon='#FFD84A'))
+    s.append(P(cute.boy, 920, 548, 0.76, mood='happy', vest='#FFD84A', vest_sh='#D9B21E'))
+    # side table + photo frame
+    s.append(f'<g filter="url(#sh)"><rect x="1290" y="690" width="230" height="26" rx="8" fill="#B47A48" stroke="{INK}" stroke-width="5"/><rect x="1310" y="716" width="22" height="100" fill="#8A5A34"/><rect x="1478" y="716" width="22" height="100" fill="#8A5A34"/></g>'
+             f'<g transform="translate(1330 520) rotate(-4)" filter="url(#sh)"><rect width="150" height="170" rx="10" fill="#F2A03A" stroke="{INK}" stroke-width="5"/><rect x="14" y="14" width="122" height="142" rx="4" fill="#E4F2FD"/>'
+             f'<path d="M14 156 V120 Q75 96 136 120 V156Z" fill="#9BD08A"/><circle cx="50" cy="96" r="16" fill="#FFE9DA" stroke="{INK}" stroke-width="3"/><circle cx="96" cy="90" r="18" fill="#FFE9DA" stroke="{INK}" stroke-width="3"/>'
+             f'<path d="M34 92 q16 -26 32 0 M78 84 q18 -28 36 0" fill="#5A3328" stroke="{INK}" stroke-width="2"/></g>')
+    s.append(tag(600, 120, '가족', '#FFD84A', 72) + tag(50, 330, '할머니', '#EFEAFF', 50) + tag(1110, 440, '동생', '#E3F7F0', 50))
+    s.append(_heart(840, 160, 26) + _heart(890, 110, 18, '#FF9C9C') + sparkle(1560, 470, 18) + sparkle(290, 300, 18, '#FF9C9C'))
+    return svg(d, ''.join(s))
+
+def compound_vowels():
+    """Classroom blackboard ㅗ+ㅏ=ㅘ and ㅐ / ㅔ; a cartoon dog (개) and crab (게) side by side; a confused student; tags 개 · 게 · 모음."""
+    d = _bg('cvbg', '#E3F7F0', '#CDEDE2')
+    s = ['<rect width="1600" height="1000" fill="url(#cvbg)"/>', '<rect y="840" width="1600" height="160" fill="#C9A47A"/><rect y="840" width="1600" height="10" fill="#A9875E"/>']
+    s.append(f'<g filter="url(#sh)"><rect x="70" y="50" width="1080" height="460" rx="18" fill="#B47A48" stroke="{INK}" stroke-width="6"/><rect x="96" y="76" width="1028" height="408" rx="8" fill="#2F6B55"/></g>')
+    chalk = f'{F} fill="#F4F7EF"'
+    s.append(f'<text x="210" y="250" text-anchor="middle" {chalk} font-size="150">ㅗ</text><text x="365" y="235" text-anchor="middle" {chalk} font-size="100">+</text>'
+             f'<text x="520" y="250" text-anchor="middle" {chalk} font-size="150">ㅏ</text><text x="675" y="235" text-anchor="middle" {chalk} font-size="100">=</text>'
+             f'<text x="850" y="255" text-anchor="middle" {F} font-size="170" fill="#FFD84A">ㅘ</text>')
+    s.append(f'<path d="M130 300 H1080" stroke="#F4F7EF" stroke-width="4" stroke-dasharray="14 12" opacity=".5"/>')
+    s.append(f'<text x="230" y="450" text-anchor="middle" {F} font-size="130" fill="#FF9C9C">ㅐ</text><text x="380" y="440" text-anchor="middle" {chalk} font-size="100">/</text>'
+             f'<text x="530" y="450" text-anchor="middle" {F} font-size="130" fill="#9FD3F7">ㅔ</text>'
+             f'<text x="860" y="420" text-anchor="middle" {chalk} font-size="54">비슷한 소리</text><text x="860" y="465" text-anchor="middle" {chalk} font-size="32" opacity=".75">ae ≈ e</text>')
+    s.append('<rect x="90" y="500" width="1040" height="20" rx="6" fill="#8A5A34"/><rect x="200" y="490" width="60" height="14" rx="4" fill="#FFFFFF"/><rect x="280" y="492" width="44" height="12" rx="4" fill="#FFD84A"/>')
+    # dog
+    s.append(f'<g transform="translate(360 776)" filter="url(#sh)"><path d="M100 -20 Q150 -60 140 -100" stroke="{INK}" stroke-width="14" fill="none" stroke-linecap="round"/><path d="M100 -20 Q150 -60 140 -100" stroke="#E8B070" stroke-width="7" fill="none" stroke-linecap="round"/>'
+             + ''.join(f'<rect x="{x}" y="40" width="32" height="70" rx="14" fill="#E8B070" stroke="{INK}" stroke-width="5"/>' for x in (-70, -20, 40, 90)) +
+             f'<ellipse cx="20" cy="10" rx="120" ry="70" fill="#E8B070" stroke="{INK}" stroke-width="5"/>'
+             + f'<ellipse cx="60" cy="0" rx="34" ry="26" fill="#FFF1DA"/><circle cx="-90" cy="-60" r="68" fill="#E8B070" stroke="{INK}" stroke-width="5"/>'
+             f'<path d="M-150 -100 Q-190 -40 -160 0 Q-140 -30 -130 -80Z M-30 -100 Q10 -40 -20 0 Q-40 -30 -50 -80Z" fill="#8A5A34" stroke="{INK}" stroke-width="5" stroke-linejoin="round"/>'
+             f'<circle cx="-112" cy="-66" r="9" fill="{INK}"/><circle cx="-68" cy="-66" r="9" fill="{INK}"/><circle cx="-115" cy="-69" r="3" fill="#fff"/><circle cx="-71" cy="-69" r="3" fill="#fff"/>'
+             f'<ellipse cx="-90" cy="-40" rx="13" ry="9" fill="{INK}"/><path d="M-90 -32 v10 M-104 -20 q14 12 28 0" stroke="{INK}" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M-96 -18 q6 16 12 0Z" fill="#F2555A"/>'
+             f'<path d="M-150 -10 q60 20 120 0" stroke="#F2555A" stroke-width="10" fill="none" stroke-linecap="round"/><circle cx="-90" cy="2" r="9" fill="#FFD84A" stroke="{INK}" stroke-width="3"/></g>')
+    # crab
+    s.append(f'<g transform="translate(860 790)" filter="url(#sh)">'
+             + ''.join(f'<path d="M{sx*60} 20 l{sx*60} 40 l{sx*14} 30 M{sx*40} 34 l{sx*50} 46 l{sx*6} 26" stroke="{INK}" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M{sx*60} 20 l{sx*60} 40 l{sx*14} 30 M{sx*40} 34 l{sx*50} 46 l{sx*6} 26" stroke="#F2555A" stroke-width="4" fill="none" stroke-linecap="round"/>' for sx in (-1, 1)) +
+             ''.join(f'<path d="M{sx*80} -10 Q{sx*130} -40 {sx*130} -90" stroke="{INK}" stroke-width="16" fill="none" stroke-linecap="round"/><path d="M{sx*80} -10 Q{sx*130} -40 {sx*130} -90" stroke="#F2555A" stroke-width="8" fill="none" stroke-linecap="round"/>'
+                     f'<path d="M{sx*130} -90 m{-sx*32} 0 a32 36 0 1 1 {sx*64} 0 l{-sx*24} -6 l{-sx*10} 26 Z" fill="#F2555A" stroke="{INK}" stroke-width="5" stroke-linejoin="round" transform="rotate({sx*-10} {sx*130} -90)"/>' for sx in (-1, 1)) +
+             f'<ellipse cx="0" cy="0" rx="110" ry="66" fill="#F2555A" stroke="{INK}" stroke-width="5"/><ellipse cx="-30" cy="-26" rx="30" ry="12" fill="#FF9C9C" opacity=".8"/>'
+             f'<path d="M-30 -60 V-90 M30 -60 V-90" stroke="{INK}" stroke-width="6"/><circle cx="-30" cy="-98" r="16" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/><circle cx="30" cy="-98" r="16" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/>'
+             f'<circle cx="-27" cy="-96" r="7" fill="{INK}"/><circle cx="33" cy="-96" r="7" fill="{INK}"/><path d="M-20 14 q20 16 40 0" stroke="{INK}" stroke-width="5" fill="none" stroke-linecap="round"/></g>')
+    # confused student
+    s.append(P(cute.boy, 1220, 400, 1.05, mood='smile', vest='#2446F0', vest_sh='#1632C4', glasses=True))
+    s.append(f'<text x="1470" y="400" {F} font-size="110" fill="#F2555A">?</text><text x="1210" y="380" {F} font-size="76" fill="#2446F0">?</text>'
+             f'<path d="M1512 450 q-14 22 0 32 q14 -10 0 -32Z" fill="#9FD3F7" stroke="{INK}" stroke-width="3"/>')
+    s.append(tag(212, 530, '개', '#FFF6D1', 60) + tag(802, 540, '게', '#FFE9E8', 60) + tag(1250, 110, '모음', '#FFD84A', 64))
+    s.append(sparkle(1200, 270, 22) + sparkle(1540, 600, 18, '#FF9C9C') + sparkle(640, 640, 18, '#7C5CFF'))
+    return svg(d, ''.join(s))
+
+def nunchi():
+    """Office corner: a worker peeks over a monitor at a colleague with a little storm cloud overhead; clock, coffee, sweat drop; tags 눈치 · 눈치 보여 · 눈치껏."""
+    d = _bg('ncbg', '#EEF2F7', '#DCE4EE')
+    s = ['<rect width="1600" height="1000" fill="url(#ncbg)"/>', '<rect y="820" width="1600" height="180" fill="#B8BCC8"/><rect y="820" width="1600" height="10" fill="#9AA0B0"/>']
+    # window with blinds
+    s.append(f'<g filter="url(#sh)"><rect x="70" y="60" width="380" height="270" rx="10" fill="#BFE3FF" stroke="{INK}" stroke-width="6"/></g>'
+             + ''.join(f'<rect x="76" y="{70+i*26}" width="368" height="14" fill="#FFFFFF" opacity=".85"/>' for i in range(10)))
+    s.append(_clock(760, 160, 78))
+    # notice board
+    s.append(f'<g transform="translate(0 -32)"><g filter="url(#sh)"><rect x="1220" y="60" width="300" height="200" rx="10" fill="#D8A86E" stroke="{INK}" stroke-width="6"/></g>'
+             + ''.join(f'<g transform="translate({x} {y}) rotate({r})"><rect width="70" height="64" fill="{c}" stroke="{INK}" stroke-width="3"/><circle cx="35" cy="8" r="6" fill="#F2555A"/></g>' for x, y, r, c in [(1250, 90, -6, '#FFF6D1'), (1340, 100, 4, '#E3F7F0'), (1430, 86, -3, '#FFE9E8'), (1300, 170, 5, '#E4F2FD')]) + '</g>')
+    # peeking worker behind a monitor
+    s.append(P(cute.girl, 250, 430, 1.0, mood='smile', cardigan='#FFFFFF', cardigan_sh='#E0DCE8', skirt='#2E3A5C', skirt_sh='#1E2840'))
+    s.append(f'<g filter="url(#sh)"><rect x="240" y="598" width="330" height="200" rx="16" fill="#2B2F55" stroke="{INK}" stroke-width="6"/><rect x="380" y="798" width="50" height="20" fill="#2B2F55"/></g>'
+             f'<rect x="256" y="612" width="298" height="164" rx="8" fill="#9BD0FF"/><rect x="276" y="634" width="150" height="14" rx="7" fill="#FFFFFF"/><rect x="276" y="660" width="220" height="14" rx="7" fill="#FFFFFF" opacity=".7"/><circle cx="318" cy="598" r="13" fill="#FFE9DA" stroke="{INK}" stroke-width="4"/><circle cx="492" cy="598" r="13" fill="#FFE9DA" stroke="{INK}" stroke-width="4"/>')
+    s.append(f'<path d="M522 488 q-16 24 0 36 q16 -12 0 -36Z" fill="#9FD3F7" stroke="{INK}" stroke-width="3"/>')
+    s.append(f'<path d="M560 580 Q800 500 1060 540" stroke="#7C5CFF" stroke-width="5" fill="none" stroke-dasharray="4 14" stroke-linecap="round"/>')
+    # desks
+    s.append(f'<g filter="url(#sh)"><rect x="60" y="800" width="720" height="36" rx="10" fill="#D8A86E" stroke="{INK}" stroke-width="5"/><rect x="80" y="836" width="680" height="110" fill="#C08A55" stroke="{INK}" stroke-width="5"/></g>')
+    s.append(f'<g transform="translate(620 730)"><rect width="70" height="80" rx="10" fill="#F2555A" stroke="{INK}" stroke-width="4"/><path d="M70 18 q26 0 26 22 q0 22 -26 22" stroke="{INK}" stroke-width="5" fill="none"/><path d="M22 -10 q-10 -20 4 -40 M46 -10 q-10 -20 4 -40" stroke="#B8BCC8" stroke-width="5" fill="none"/></g>')
+    # colleague with a storm cloud
+    s.append(P(cute.boy, 1060, 400, 1.05, mood='smile', shirt='#FFFFFF', vest='#4A4A5A', vest_sh='#33333F'))
+    s.append(f'<g filter="url(#sh)"><rect x="960" y="690" width="600" height="36" rx="10" fill="#D8A86E" stroke="{INK}" stroke-width="5"/><rect x="980" y="726" width="560" height="220" fill="#C08A55" stroke="{INK}" stroke-width="5"/></g><g filter="url(#sh)"><rect x="1345" y="580" width="190" height="110" rx="10" fill="#C8CDE4" stroke="{INK}" stroke-width="5"/></g><circle cx="1440" cy="635" r="12" fill="#FFFFFF"/><g transform="translate(1020 640)" filter="url(#sh)"><rect width="110" height="50" rx="6" fill="#FFF6D1" stroke="{INK}" stroke-width="4"/><rect y="-14" width="110" height="18" rx="6" fill="#7FB8F0" stroke="{INK}" stroke-width="4"/></g>')
+    s.append(_cloud(1217, 290, 52, '#9AA0B8') + f'<path d="M1210 320 l-18 34 h20 l-14 32 l36 -44 h-20 l14 -22Z" fill="#FFD84A" stroke="{INK}" stroke-width="4" stroke-linejoin="round"/>')
+    s.append(tag(70, 400, '눈치', '#FFD84A', 72) + tag(600, 300, '눈치 보여', '#FFFFFF', 50) + tag(660, 430, '눈치껏', '#EFEAFF', 50))
+    s.append(sparkle(560, 70, 20) + sparkle(1560, 430, 18, '#FF9C9C'))
+    return svg(d, ''.join(s))
+
+def goodbye():
+    """Night bus stop under a streetlight with falling leaves; two friends wave, one holds a phone; bubbles 잘 가 · 잘 있어 · 연락해."""
+    R = random.Random(24)
+    d = _bg('gbbg', '#2A2F66', '#6A5AA8') + '<radialGradient id="gblamp" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#FFF3C4" stop-opacity=".85"/><stop offset="1" stop-color="#FFF3C4" stop-opacity="0"/></radialGradient>'
+    s = ['<rect width="1600" height="1000" fill="url(#gbbg)"/>']
+    for _ in range(30):
+        s.append(f'<circle cx="{R.uniform(0,1600):.0f}" cy="{R.uniform(0,300):.0f}" r="{R.uniform(2,4):.0f}" fill="#FFFFFF" opacity=".7"/>')
+    s.append('<circle cx="760" cy="110" r="56" fill="#FFF3C4"/><circle cx="785" cy="95" r="50" fill="#2C3168"/>')
+    for i in range(9):
+        x = i * 180; h = R.uniform(160, 300)
+        s.append(f'<rect x="{x}" y="{840-h:.0f}" width="160" height="{h:.0f}" fill="#3A3F7E"/>' + ''.join(f'<rect x="{x+22+c*46}" y="{860-h+r*50:.0f}" width="22" height="26" fill="#FFE59A" opacity="{R.choice([.2,.6,.9])}"/>' for c in range(3) for r in range(int(h//60))))
+    s.append('<rect y="840" width="1600" height="160" fill="#4A4470"/><rect y="840" width="1600" height="16" fill="#8A84B0"/>')
+    # streetlight
+    s.append(f'<circle cx="150" cy="200" r="240" fill="url(#gblamp)"/><rect x="140" y="200" width="20" height="640" fill="#2B2F55" stroke="{INK}" stroke-width="4"/><path d="M100 190 h100 l-20 30 h-60Z" fill="#FFE59A" stroke="{INK}" stroke-width="5"/>')
+    # bus shelter
+    s.append(f'<g filter="url(#sh)"><rect x="1200" y="350" width="370" height="30" rx="8" fill="#2446F0" stroke="{INK}" stroke-width="5"/><rect x="1220" y="380" width="14" height="460" fill="#2B2F55"/><rect x="1536" y="380" width="14" height="460" fill="#2B2F55"/></g>'
+             f'<rect x="1234" y="380" width="302" height="300" fill="#BFE3FF" opacity=".35" stroke="#BFE3FF" stroke-width="3"/><rect x="1270" y="420" width="120" height="160" rx="6" fill="#FFD84A" opacity=".85"/>'
+             f'<g filter="url(#sh)"><rect x="1250" y="720" width="270" height="22" rx="8" fill="#B47A48" stroke="{INK}" stroke-width="4"/></g>'
+             f'<g filter="url(#sh)"><rect x="1420" y="400" width="96" height="70" rx="12" fill="#12A57A" stroke="{INK}" stroke-width="4"/><rect x="1436" y="414" width="64" height="34" rx="8" fill="#FFFFFF"/><circle cx="1448" cy="456" r="6" fill="#FFFFFF"/><circle cx="1488" cy="456" r="6" fill="#FFFFFF"/></g>')
+    for _ in range(18):
+        s.append(_leaf(R.uniform(40, 1560), R.uniform(60, 980), R.uniform(12, 20), R.choice(['#E8434A', '#FF9F43', '#FFC93C']), R.uniform(-80, 80)))
+    s.append(PR(cute.girl, 430, 420, 1.05, side=1, mood='talk', cardigan='#FFD84A', cardigan_sh='#D9B21E', skirt='#7C5CFF', skirt_sh='#5B3FD6', ribbon='#F2555A'))
+    s.append(f'<g transform="translate(500 700) rotate(-12)" filter="url(#sh)"><rect width="56" height="100" rx="12" fill="#2B2F55" stroke="{INK}" stroke-width="4"/><rect x="7" y="12" width="42" height="72" rx="6" fill="#9BD0FF"/><rect x="13" y="22" width="28" height="10" rx="5" fill="#FFD84A"/></g>')
+    s.append(PR(cute.boy, 900, 420, 1.05, side=-1, mood='smile', vest='#F2555A', vest_sh='#C93E44'))
+    s.append(f'<g transform="translate(1110 690)" filter="url(#sh)"><rect width="80" height="100" rx="18" fill="#12A57A" stroke="{INK}" stroke-width="4"/><path d="M20 4 q20 -30 40 0" stroke="{INK}" stroke-width="5" fill="none"/></g>')
+    s.append(bubble(330, 200, '잘 가', 60, 'down-right') + bubble(90, 370, '연락해', 52, 'down-right', '#FFF6D1') + bubble(930, 200, '잘 있어', 60, 'down-left'))
+    s.append(_heart(820, 470, 22, '#FF9C9C') + sparkle(1100, 90, 22) + sparkle(1560, 220, 18, '#FF9C9C'))
+    return svg(d, ''.join(s))
+
+def compliments():
+    """Café table: one friend shows a drawing, the other gives a thumbs-up; sparkles; bubbles 대단해요! / 과찬이세요; tag 멋있어요."""
+    d = _bg('cpbg', '#FFF1E6', '#F6DCC4')
+    s = ['<rect width="1600" height="1000" fill="url(#cpbg)"/>', '<rect y="820" width="1600" height="180" fill="#B47A48"/>']
+    # shelf with cups, framed art, lamps
+    s.append(f'<g filter="url(#sh)"><rect x="80" y="130" width="300" height="20" rx="6" fill="#8A5A34" stroke="{INK}" stroke-width="4"/></g>'
+             f'<path d="M110 130 h50 l-6 -50 h-38Z" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/><path d="M190 130 h46 v-60 h-46Z" fill="#7FB28A" stroke="{INK}" stroke-width="4"/><circle cx="300" cy="96" r="34" fill="#5E9C72" stroke="{INK}" stroke-width="4"/><path d="M280 130 h40 l-4 -24 h-32Z" fill="#B47A48" stroke="{INK}" stroke-width="4"/>')
+    s.append(f'<g filter="url(#sh)"><rect x="1430" y="70" width="130" height="160" rx="8" fill="#FFFFFF" stroke="{INK}" stroke-width="5"/></g><rect x="1446" y="86" width="98" height="128" fill="#FFD6C8"/><circle cx="1495" cy="130" r="22" fill="#F2A03A"/><path d="M1446 214 L1480 160 L1510 190 L1544 150 V214Z" fill="#12A57A"/>')
+    for x in (640, 960):
+        s.append(f'<path d="M{x} 0 V110" stroke="{INK}" stroke-width="4"/><path d="M{x-56} 170 Q{x} 80 {x+56} 170Z" fill="#F2A03A" stroke="{INK}" stroke-width="5"/><ellipse cx="{x}" cy="178" rx="24" ry="10" fill="#FFE98A"/>')
+    s.append(P(cute.girl, 300, 400, 1.05, mood='happy', hair='#2B1E1A', hair_hi='#5A4038', cardigan='#E3F7F0', cardigan_sh='#A9DCC9', skirt='#F2555A', skirt_sh='#C93E44'))
+    # sketchbook with a drawing
+    s.append(f'<g transform="translate(570 570) rotate(6)" filter="url(#sh)"><rect width="250" height="180" rx="10" fill="#FFFFFF" stroke="{INK}" stroke-width="5"/>'
+             + ''.join(f'<circle cx="{24+i*28}" cy="0" r="8" fill="none" stroke="{INK}" stroke-width="4"/>' for i in range(8)) +
+             f'<path d="M20 162 Q70 96 120 142 Q170 86 230 162Z" fill="#9BD08A" stroke="{INK}" stroke-width="3"/><circle cx="190" cy="60" r="26" fill="#FFD84A" stroke="{INK}" stroke-width="3"/>'
+             f'<path d="M70 120 l0 -40 M70 80 m-16 0 a16 16 0 1 0 32 0 a16 16 0 1 0 -32 0" stroke="{INK}" stroke-width="3" fill="#FF9C9C"/></g>')
+    s.append(PR(cute.boy, 990, 400, 1.05, side=-1, hand='thumb', mood='talk', vest='#2446F0', vest_sh='#1632C4'))
+    # table and cups
+    s.append(f'<g filter="url(#sh)"><rect x="220" y="770" width="1160" height="40" rx="12" fill="#FFFFFF" stroke="{INK}" stroke-width="5"/><path d="M232 810 H1368 L1350 930 H250Z" fill="#F2A0A0" stroke="{INK}" stroke-width="5" stroke-linejoin="round"/><path d="M250 900 H1350" stroke="#FFFFFF" stroke-width="8" stroke-dasharray="20 14" opacity=".8"/></g>')
+    for x in (280, 1320):
+        s.append(f'<path d="M{x-36} 700 h72 l-8 70 h-56Z" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/><path d="M{x+36} 716 q22 2 18 22 q-4 16 -22 12" fill="none" stroke="{INK}" stroke-width="4"/><path d="M{x-10} 690 q-8 -16 4 -30 M{x+12} 690 q-8 -16 4 -30" stroke="#C8B49A" stroke-width="4" fill="none"/>')
+    s.append(f'<g transform="translate(900 740)"><ellipse cx="0" cy="30" rx="70" ry="14" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/><path d="M-40 26 V-10 L40 -24 V26Z" fill="#FFE6C2" stroke="{INK}" stroke-width="4" stroke-linejoin="round"/><path d="M-40 -10 L40 -24" stroke="#F2555A" stroke-width="10"/><circle cx="10" cy="-30" r="10" fill="#F2555A" stroke="{INK}" stroke-width="3"/></g>')
+    s.append(bubble(100, 220, '과찬이세요', 48, 'down-right', '#FFF6D1') + bubble(1060, 220, '대단해요!', 54, 'down-left'))
+    s.append(tag(650, 360, '멋있어요', '#FFD84A', 48))
+    s.append(sparkle(630, 500, 18) + sparkle(860, 540, 22, '#FF9C9C') + sparkle(870, 690, 16) + sparkle(980, 500, 14, '#7C5CFF') + sparkle(1520, 460, 20))
+    return svg(d, ''.join(s))
+
+def office_slang():
+    """Office at 6 p.m.: a worker in a coat dashes past a clock at 6:00 toward the door; laptop closing, FRI calendar; tags 칼퇴 · 불금 · 퇴근각."""
+    d = _bg('osbg', '#FFE8D0', '#F6CFAE') + _bg('ossky', '#FF9F6A', '#FFD08A')
+    s = ['<rect width="1600" height="1000" fill="url(#osbg)"/>', '<rect y="830" width="1600" height="170" fill="#B9A48A"/><rect y="830" width="1600" height="10" fill="#9A8668"/>']
+    # sunset window
+    s.append(f'<g filter="url(#sh)"><rect x="60" y="60" width="400" height="320" rx="10" fill="url(#ossky)" stroke="{INK}" stroke-width="6"/></g>'
+             f'<circle cx="260" cy="300" r="60" fill="#FFF3C4"/>' + ''.join(f'<rect x="{66+i*56}" y="{380-h}" width="50" height="{h-6}" fill="#7A5A8A"/>' for i, h in enumerate([90, 140, 70, 120, 160, 100, 80])) +
+             f'<path d="M260 60 V380 M60 220 H460" stroke="{INK}" stroke-width="6"/>')
+    # FRI calendar page
+    s.append(f'<g transform="rotate(-4 600 190)" filter="url(#sh)"><rect x="510" y="90" width="180" height="200" rx="10" fill="#FFFFFF" stroke="{INK}" stroke-width="5"/><rect x="510" y="90" width="180" height="60" rx="10" fill="#F2555A" stroke="{INK}" stroke-width="5"/>'
+             f'<rect x="513" y="130" width="174" height="18" fill="#F2555A"/><text x="600" y="136" text-anchor="middle" font-family="Bricolage Grotesque, sans-serif" font-weight="800" font-size="42" fill="#FFFFFF">FRI</text>'
+             f'<text x="600" y="255" text-anchor="middle" {F} font-size="96" fill="{INK}">금</text></g>')
+    # clock at 6:00
+    s.append(f'<g filter="url(#sh)"><circle cx="880" cy="170" r="92" fill="#FFFFFF" stroke="{INK}" stroke-width="7"/></g>'
+             + ''.join(f'<rect x="877" y="88" width="6" height="16" fill="{INK}" transform="rotate({a} 880 170)"/>' for a in range(0, 360, 30)) +
+             f'<path d="M880 170 V98" stroke="{INK}" stroke-width="7" stroke-linecap="round"/><path d="M880 170 V222" stroke="#F2555A" stroke-width="10" stroke-linecap="round"/><circle cx="880" cy="170" r="10" fill="{INK}"/>')
+    # door, slightly open with light
+    s.append(f'<g filter="url(#sh)"><rect x="1270" y="250" width="270" height="580" fill="#8A5A34" stroke="{INK}" stroke-width="6"/></g><rect x="1290" y="270" width="230" height="560" fill="#FFF3C4"/>'
+             f'<path d="M1290 270 L1440 300 V810 L1290 830Z" fill="#B47A48" stroke="{INK}" stroke-width="5" stroke-linejoin="round"/><circle cx="1415" cy="560" r="12" fill="#FFD84A" stroke="{INK}" stroke-width="4"/>')
+    # desk with closing laptop
+    s.append(f'<g filter="url(#sh)"><rect x="70" y="690" width="560" height="34" rx="10" fill="#D8A86E" stroke="{INK}" stroke-width="5"/><rect x="100" y="724" width="26" height="110" fill="#8A5A34"/><rect x="574" y="724" width="26" height="110" fill="#8A5A34"/></g>'
+             f'<path d="M250 690 H500 L496 676 H254Z" fill="#C8CDE4" stroke="{INK}" stroke-width="4" stroke-linejoin="round"/><g transform="translate(256 676) rotate(-24)"><rect x="0" y="-14" width="250" height="14" rx="5" fill="#9AA0B8" stroke="{INK}" stroke-width="4"/></g>'
+             f'<path d="M500 560 q30 18 26 56 M532 540 q40 26 32 80" stroke="{INK}" stroke-width="4" fill="none" stroke-linecap="round"/>'
+             f'<g transform="translate(140 640)"><rect width="60" height="50" rx="8" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/><path d="M60 12 q18 0 18 14 q0 14 -18 14" stroke="{INK}" stroke-width="4" fill="none"/></g>')
+    # worker in a coat, leaning forward, speed lines
+    coat = f'<path d="M94 296 L206 296 L222 362 L78 362Z" fill="#C8A070" stroke="{INK}" stroke-width="4" stroke-linejoin="round"/><path d="M150 300 V360" stroke="#A88050" stroke-width="4"/><rect x="92" y="290" width="116" height="14" rx="5" fill="#8A6040" stroke="{INK}" stroke-width="3"/>'
+    s.append(''.join(f'<path d="M{x} {y} h{w}" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" opacity=".9"/>' for x, y, w in [(700, 560, 90), (670, 620, 130), (710, 680, 80), (680, 740, 110)]))
+    s.append(f'<g transform="rotate(10 1010 830)">{P(cute.boy, 840, 360, 1.15, mood="happy", shirt="#C8A070", vest="#C8A070", vest_sh="#A88050", legs="#2E3A5C")}{_at(840, 360, 1.15, coat)}'
+             f'<g transform="translate(1100 690) rotate(-10)"><rect width="90" height="70" rx="10" fill="#4A2E2A" stroke="{INK}" stroke-width="4"/><path d="M20 0 q25 -30 50 0" stroke="{INK}" stroke-width="5" fill="none"/></g></g>')
+    s.append(''.join(f'<circle cx="{x}" cy="{y}" r="{r}" fill="#FFFFFF" stroke="{INK}" stroke-width="3" opacity=".9"/>' for x, y, r in [(880, 828, 18), (850, 812, 12), (826, 830, 9)]))
+    s.append(tag(1010, 80, '칼퇴', '#FFD84A', 64) + tag(470, 380, '불금', '#FFE9E8', 58) + tag(1290, 120, '퇴근각', '#FFFFFF', 52))
+    s.append(sparkle(1210, 260, 20) + sparkle(720, 440, 18, '#FF9C9C') + sparkle(1560, 900, 16))
+    return svg(d, ''.join(s))
+
+def polite_requests():
+    """By a window: a girl next to an open window; a five-step staircase rising from 닫아 줘 to 닫아 주실 수 있으세요?."""
+    R = random.Random(9)
+    d = _bg('prbg', '#E8ECFF', '#D8DEFA')
+    s = ['<rect width="1600" height="1000" fill="url(#prbg)"/>', '<rect y="880" width="1600" height="120" fill="#C9A47A"/><rect y="880" width="1600" height="10" fill="#A9875E"/>']
+    # open window with blowing curtain and wind
+    s.append(f'<g filter="url(#sh)"><rect x="60" y="60" width="340" height="380" rx="12" fill="#BFE3FF" stroke="#8A5A34" stroke-width="12"/></g>'
+             f'<path d="M66 300 Q160 270 230 300 T394 290 V434 H66Z" fill="#9BD08A"/><circle cx="320" cy="130" r="30" fill="#FFF3C4"/>'
+             f'<path d="M230 66 L300 96 V412 L230 434Z" fill="#E4F2FD" stroke="#8A5A34" stroke-width="8" stroke-linejoin="round"/>'
+             f'<path d="M50 50 Q120 140 80 250 Q140 330 120 460 L40 460 L40 50Z" fill="#FF9C9C" stroke="{INK}" stroke-width="4" stroke-linejoin="round"/>')
+    s.append(''.join(f'<path d="M{x} {y} q40 -20 80 0 t80 0" stroke="#FFFFFF" stroke-width="7" fill="none" stroke-linecap="round" opacity=".9"/>' for x, y in [(330, 160), (360, 230), (320, 300)]))
+    s.append(_leaf(560, 150, 16, '#12A57A', 40) + _leaf(640, 230, 14, '#3CBF8C', -30))
+    s.append(P(cute.girl, 110, 460, 1.0, mood='talk', cardigan='#FFD84A', cardigan_sh='#D9B21E', skirt='#2446F0', skirt_sh='#1632C4'))
+    # staircase
+    cols = ['#FFF6D1', '#FFE2B8', '#FFD0C8', '#F2C8EC', '#DCCBFF']
+    words = ['닫아 줘', '닫아 줄래?', '닫아 주세요', '닫아 주시겠어요?', '닫아 주실 수 있으세요?']
+    x0, w, size = 460, 220, 44
+    for i in range(5):
+        top = 760 - i * 120; x = x0 + i * w
+        s.append(f'<g filter="url(#sh)"><rect x="{x}" y="{top}" width="{w}" height="{880-top}" fill="{cols[i]}" stroke="{INK}" stroke-width="5"/></g>'
+                 f'<rect x="{x}" y="{top}" width="{w}" height="18" fill="#FFFFFF" opacity=".6"/><text x="{x+w/2}" y="{top+90}" text-anchor="middle" font-family="Bricolage Grotesque, sans-serif" font-weight="800" font-size="56" fill="{INK}" opacity=".25">{i+1}</text>')
+    for i in range(5):
+        top = 760 - i * 120; right = x0 + (i + 1) * w - 10
+        s.append(tag(right - _tw(words[i], size), top - 92, words[i], '#FFFFFF' if i % 2 == 0 else '#FFF6D1', size))
+    s.append(sparkle(1530, 120, 24) + sparkle(800, 160, 20, '#FF9C9C') + sparkle(1040, 90, 16, '#7C5CFF'))
+    return svg(d, ''.join(s))
+
+SCENES_1024 = {'topik-ii-listening-strategy': topik_listening, 'eul-geoyeyo-future-plans': future_plans, 'family-words-in-korean': family,
+               'compound-vowels-hangul': compound_vowels, 'nunchi-meaning': nunchi, 'k-drama-goodbye-lines': goodbye,
+               'korean-compliments': compliments, 'korean-office-slang': office_slang, 'polite-requests-korean': polite_requests}
+SCENES.update(SCENES_1024)
