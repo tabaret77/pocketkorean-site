@@ -647,3 +647,13 @@ footer.site .pglangs{border-top-color:#2E3466}footer.site .pglangs a{background:
 .hart .hpk{width:78%;height:auto}
 @media (max-width:960px){.hgrid{grid-template-columns:minmax(0,1fr)}.hart{display:none}}
 @media (max-width:760px){.hsearch .lead{display:block;font-size:16px;margin-bottom:16px}.hkick{font-size:14px;margin-bottom:8px}.soon{min-height:46px;font-size:14px}.hbtns .btn{min-height:46px}}
+/* compact hero (smaller type, less height) */
+.hsearch .wrap.hgrid{padding-top:30px;padding-bottom:30px;gap:40px}
+.hsearch .hcopy h1{font-size:clamp(26px,3.2vw,40px);margin:0 0 12px}
+.hsearch .lead{font-size:16.5px;margin-bottom:16px}
+.hkick{font-size:14px;margin-bottom:8px}
+.hsearch .dsearch input{font-size:17px;padding:6px 8px}
+.hbtns{margin-top:14px}.hbtns .btn,.soon{min-height:46px}
+.hfree{margin-top:10px;font-size:13.5px}
+.hart{max-width:280px}
+@media (max-width:760px){.hsearch .wrap.hgrid{padding-top:18px;padding-bottom:20px}.hsearch .hcopy h1{font-size:24px}.hsearch .lead{font-size:15px}}

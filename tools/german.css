@@ -372,3 +372,14 @@ body:has(.feat) .pgfoot{margin-top:72px}
 body:has(.hpriv) .pgfoot{margin-top:56px}
 .hsup+.hpriv{padding-top:28px}
 .faq{border:1px solid var(--line);border-radius:12px;padding:12px 16px;margin:10px 0;background:#fff}.faq summary{cursor:pointer;font-weight:700}.faq p{margin:8px 0 0}
+/* compact hero (smaller type, less height) */
+.herow{padding-top:36px;padding-bottom:36px;gap:32px}
+.hero h1{font-size:clamp(28px,3.6vw,44px);margin-bottom:12px}
+.hero .lead{font-size:16px;margin-bottom:18px}
+.hero .kick{margin-bottom:10px;font-size:13px}
+.hero .pgsearch input,.hero .pgsearch button{height:48px}
+.hero .btn,.hero .soon{min-height:44px}
+.hero .hbtns{margin-top:14px}.hero .free{margin-top:10px;font-size:13.5px}
+.hart{max-width:260px;padding:28px 22px 32px;border-radius:28px}
+.hpk{width:min(100%,210px)}
+@media (max-width:760px){.herow{padding-top:24px;padding-bottom:28px;gap:16px}.hpk{width:110px}.hart{padding:18px 16px 22px;max-width:170px}}
