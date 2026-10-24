@@ -2933,7 +2933,7 @@ new MutationObserver(()=>{document.querySelectorAll("[data-tip]:not([aria-label]
 </style><script>
 /* Pocket German web trial: A1 + topic words are free; other levels open a sheet that points to the app */
 (function(){
-  var FREE=["A1"],T={"name": "Cep Almancası", "badge": "Web sürümü", "intro_h": "Cep Almancası web'de", "intro_p": "845 A1 kelimesini ve 199 konunun kelime listelerini ücretsiz deneyin. A2'den C2'ye tüm seviyeler ve görev geçmişi uygulamada.", "start": "Başla", "lock_h": "Bu seviye uygulamada", "lock_p": "A2'den C2'ye 17.780 kelimenin tamamı, günlük görevler ve tekrar geçmişi Cep Almancası uygulamasında. Web'de A1'i ve konulara göre kelime listelerini ücretsiz kullanmaya devam edebilirsiniz.", "store": "App Store'dan indir", "soon": "Yakında App Store'da", "keep": "A1 ile devam et", "home": "Cep Almancası ana sayfa"},STORE="",HOME="/german/tr/";
+  var FREE=["A1"],T={"name": "Cep Almancası", "badge": "Web sürümü", "intro_h": "Cep Almancası web'de", "intro_p": "845 A1 kelimesini ve 199 konunun kelime listelerini ücretsiz deneyin. A2'den C2'ye tüm seviyeler ve görev geçmişi uygulamada.", "start": "Başla", "lock_h": "Bu seviye uygulamada", "lock_p": "A2'den C2'ye 17.780 kelimenin tamamı, günlük görevler ve tekrar geçmişi Cep Almancası uygulamasında. Web'de A1'i ve konulara göre kelime listelerini ücretsiz kullanmaya devam edebilirsiniz.", "store": "App Store'dan indir", "soon": "Yakında App Store'da", "keep": "A1 ile devam et", "home": "Cep Almancası ana sayfa", "back": "Web sitesine dön"},STORE="",HOME="/german/tr/";
   var SEL='[data-lv],[data-lvc],[data-lvsel],[data-qlv],[data-q],[data-pref="mlv"]';
   function val(b){var d=b.dataset;return d.lv||d.lvc||d.lvsel||d.qlv||d.q||(d.pref==="mlv"?d.val:"")||""}
   function locked(b){var v=val(b);if(!v||v==="blog")return false;return v.split(",").some(function(x){return FREE.indexOf(x)<0})}
@@ -2963,4 +2963,10 @@ new MutationObserver(()=>{document.querySelectorAll("[data-tip]:not([aria-label]
   sanitize();lockAll();
   /* no intro sheet of our own: the app runs its own first-time onboarding */
 })();
+</script><script>
+/* "back to the website" button in the empty space left of the app (wide screens only) */
+(function(){var T={"name": "Cep Almancası", "badge": "Web sürümü", "intro_h": "Cep Almancası web'de", "intro_p": "845 A1 kelimesini ve 199 konunun kelime listelerini ücretsiz deneyin. A2'den C2'ye tüm seviyeler ve görev geçmişi uygulamada.", "start": "Başla", "lock_h": "Bu seviye uygulamada", "lock_p": "A2'den C2'ye 17.780 kelimenin tamamı, günlük görevler ve tekrar geçmişi Cep Almancası uygulamasında. Web'de A1'i ve konulara göre kelime listelerini ücretsiz kullanmaya devam edebilirsiniz.", "store": "App Store'dan indir", "soon": "Yakında App Store'da", "keep": "A1 ile devam et", "home": "Cep Almancası ana sayfa", "back": "Web sitesine dön"},a=document.createElement("a");a.id="tosite";a.href="/german/tr/";
+  a.innerHTML='<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg><span>'+(T.back||"Back to the website")+'</span><small>pocketkorean.com/german</small>';
+  var st=document.createElement("style");st.textContent="#tosite{display:none}@media (min-width:1000px){#tosite{display:inline-grid;grid-template-columns:auto 1fr;column-gap:8px;align-items:center;position:fixed;left:24px;top:20px;z-index:50;padding:10px 18px 10px 12px;border-radius:14px;background:#fff;color:#111;text-decoration:none;font-weight:700;font-size:15px;font-family:inherit;box-shadow:0 0 0 1.5px #DADADA,0 4px 14px rgba(0,0,0,.06)}#tosite small{grid-column:2;font-weight:500;font-size:12px;color:#666}#tosite svg{grid-row:span 2;color:#DD0000}#tosite:hover{box-shadow:0 0 0 2px #DD0000}}";
+  document.head.appendChild(st);document.body.appendChild(a)})();
 </script></body></html>

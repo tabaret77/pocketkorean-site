@@ -2933,7 +2933,7 @@ new MutationObserver(()=>{document.querySelectorAll("[data-tip]:not([aria-label]
 </style><script>
 /* Pocket German web trial: A1 + topic words are free; other levels open a sheet that points to the app */
 (function(){
-  var FREE=["A1"],T={"name": "포켓독일어", "badge": "웹 체험판", "intro_h": "포켓독일어 웹 체험판", "intro_p": "A1 단어 845개와 199개 주제의 단어를 무료로 써 볼 수 있어요. A2부터 C2까지 모든 레벨과 미션 기록은 앱에서 열려요.", "start": "체험 시작하기", "lock_h": "이 레벨은 앱에서 열려요", "lock_p": "A2부터 C2까지 17,780단어 전체, 매일 미션과 복습 기록은 포켓독일어 앱에서 쓸 수 있어요. 웹 체험판에서는 A1 단어와 주제별 단어를 계속 무료로 써 보세요.", "store": "App Store에서 받기", "soon": "App Store 곧 출시", "keep": "A1로 계속하기", "home": "포켓독일어 홈"},STORE="",HOME="/german/";
+  var FREE=["A1"],T={"name": "포켓독일어", "badge": "웹 체험판", "intro_h": "포켓독일어 웹 체험판", "intro_p": "A1 단어 845개와 199개 주제의 단어를 무료로 써 볼 수 있어요. A2부터 C2까지 모든 레벨과 미션 기록은 앱에서 열려요.", "start": "체험 시작하기", "lock_h": "이 레벨은 앱에서 열려요", "lock_p": "A2부터 C2까지 17,780단어 전체, 매일 미션과 복습 기록은 포켓독일어 앱에서 쓸 수 있어요. 웹 체험판에서는 A1 단어와 주제별 단어를 계속 무료로 써 보세요.", "store": "App Store에서 받기", "soon": "App Store 곧 출시", "keep": "A1로 계속하기", "home": "포켓독일어 홈", "back": "웹사이트로 돌아가기"},STORE="",HOME="/german/";
   var SEL='[data-lv],[data-lvc],[data-lvsel],[data-qlv],[data-q],[data-pref="mlv"]';
   function val(b){var d=b.dataset;return d.lv||d.lvc||d.lvsel||d.qlv||d.q||(d.pref==="mlv"?d.val:"")||""}
   function locked(b){var v=val(b);if(!v||v==="blog")return false;return v.split(",").some(function(x){return FREE.indexOf(x)<0})}
@@ -2963,4 +2963,10 @@ new MutationObserver(()=>{document.querySelectorAll("[data-tip]:not([aria-label]
   sanitize();lockAll();
   /* no intro sheet of our own: the app runs its own first-time onboarding */
 })();
+</script><script>
+/* "back to the website" button in the empty space left of the app (wide screens only) */
+(function(){var T={"name": "포켓독일어", "badge": "웹 체험판", "intro_h": "포켓독일어 웹 체험판", "intro_p": "A1 단어 845개와 199개 주제의 단어를 무료로 써 볼 수 있어요. A2부터 C2까지 모든 레벨과 미션 기록은 앱에서 열려요.", "start": "체험 시작하기", "lock_h": "이 레벨은 앱에서 열려요", "lock_p": "A2부터 C2까지 17,780단어 전체, 매일 미션과 복습 기록은 포켓독일어 앱에서 쓸 수 있어요. 웹 체험판에서는 A1 단어와 주제별 단어를 계속 무료로 써 보세요.", "store": "App Store에서 받기", "soon": "App Store 곧 출시", "keep": "A1로 계속하기", "home": "포켓독일어 홈", "back": "웹사이트로 돌아가기"},a=document.createElement("a");a.id="tosite";a.href="/german/";
+  a.innerHTML='<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg><span>'+(T.back||"Back to the website")+'</span><small>pocketkorean.com/german</small>';
+  var st=document.createElement("style");st.textContent="#tosite{display:none}@media (min-width:1000px){#tosite{display:inline-grid;grid-template-columns:auto 1fr;column-gap:8px;align-items:center;position:fixed;left:24px;top:20px;z-index:50;padding:10px 18px 10px 12px;border-radius:14px;background:#fff;color:#111;text-decoration:none;font-weight:700;font-size:15px;font-family:inherit;box-shadow:0 0 0 1.5px #DADADA,0 4px 14px rgba(0,0,0,.06)}#tosite small{grid-column:2;font-weight:500;font-size:12px;color:#666}#tosite svg{grid-row:span 2;color:#DD0000}#tosite:hover{box-shadow:0 0 0 2px #DD0000}}";
+  document.head.appendChild(st);document.body.appendChild(a)})();
 </script></body></html>

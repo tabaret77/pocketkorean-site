@@ -68,5 +68,5 @@ L = dict(
         intro_h="Cep Almancası web'de", intro_p="845 A1 kelimesini ve 199 konunun kelime listelerini ücretsiz deneyin. A2'den C2'ye tüm seviyeler ve görev geçmişi uygulamada.",
         start='Başla', lock_h='Bu seviye uygulamada',
         lock_p="A2'den C2'ye 17.780 kelimenin tamamı, günlük görevler ve tekrar geçmişi Cep Almancası uygulamasında. Web'de A1'i ve konulara göre kelime listelerini ücretsiz kullanmaya devam edebilirsiniz.",
-        store="App Store'dan indir", soon="Yakında App Store'da", keep="A1 ile devam et", home='Cep Almancası ana sayfa'),
+        store="App Store'dan indir", soon="Yakında App Store'da", keep="A1 ile devam et", home='Cep Almancası ana sayfa', back='Web sitesine dön'),
 )

@@ -21,17 +21,17 @@ T = {
             intro_h='포켓독일어 웹 체험판', intro_p='A1 단어 845개와 199개 주제의 단어를 무료로 써 볼 수 있어요. A2부터 C2까지 모든 레벨과 미션 기록은 앱에서 열려요.',
             start='체험 시작하기', lock_h='이 레벨은 앱에서 열려요',
             lock_p='A2부터 C2까지 17,780단어 전체, 매일 미션과 복습 기록은 포켓독일어 앱에서 쓸 수 있어요. 웹 체험판에서는 A1 단어와 주제별 단어를 계속 무료로 써 보세요.',
-            store='App Store에서 받기', soon='App Store 곧 출시', keep='A1로 계속하기', home='포켓독일어 홈'),
+            store='App Store에서 받기', soon='App Store 곧 출시', keep='A1로 계속하기', home='포켓독일어 홈', back='웹사이트로 돌아가기'),
  'en': dict(name='Pocket German', badge='Web version',
             intro_h='Pocket German on the web', intro_p='Try all 845 A1 words and the word lists for 199 topics for free. Every level from A2 to C2 and your mission history open in the app.',
             start='Start', lock_h='This level is in the app',
             lock_p='All 17,780 words from A2 to C2, daily missions and your review history are in the Pocket German app. On the web you can keep using A1 and the topic word lists for free.',
-            store='Get it on the App Store', soon='Coming soon to the App Store', keep='Keep going with A1', home='Pocket German home'),
+            store='Get it on the App Store', soon='Coming soon to the App Store', keep='Keep going with A1', home='Pocket German home', back='Back to the website'),
  'ja': dict(name='ポケットドイツ語', badge='ウェブ版',
             intro_h='ポケットドイツ語 ウェブ版', intro_p='A1の845語と199テーマの単語を無料で試せます。A2からC2までのすべてのレベルとミッションの記録はアプリで使えます。',
             start='はじめる', lock_h='このレベルはアプリで使えます',
             lock_p='A2からC2までの17,780語すべて、毎日のミッションと復習の記録はポケットドイツ語アプリで使えます。ウェブ版ではA1とテーマ別単語を引き続き無料で使えます。',
-            store='App Storeで入手', soon='App Store 近日公開', keep='A1で続ける', home='ポケットドイツ語ホーム'),
+            store='App Storeで入手', soon='App Store 近日公開', keep='A1で続ける', home='ポケットドイツ語ホーム', back='ウェブサイトに戻る'),
 }
 
 # extra languages (tools/german_langs/*.py) whose app files are in SRC
@@ -95,6 +95,14 @@ TRIAL_JS = r'''<script>
 })();
 </script>'''
 
+BACK_JS = r'''<script>
+/* "back to the website" button in the empty space left of the app (wide screens only) */
+(function(){var T=__T__,a=document.createElement("a");a.id="tosite";a.href=__HOME__;
+  a.innerHTML='<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg><span>'+(T.back||"Back to the website")+'</span><small>pocketkorean.com/german</small>';
+  var st=document.createElement("style");st.textContent="#tosite{display:none}@media (min-width:1000px){#tosite{display:inline-grid;grid-template-columns:auto 1fr;column-gap:8px;align-items:center;position:fixed;left:24px;top:20px;z-index:50;padding:10px 18px 10px 12px;border-radius:14px;background:#fff;color:#111;text-decoration:none;font-weight:700;font-size:15px;font-family:inherit;box-shadow:0 0 0 1.5px #DADADA,0 4px 14px rgba(0,0,0,.06)}#tosite small{grid-column:2;font-weight:500;font-size:12px;color:#666}#tosite svg{grid-row:span 2;color:#DD0000}#tosite:hover{box-shadow:0 0 0 2px #DD0000}}";
+  document.head.appendChild(st);document.body.appendChild(a)})();
+</script>'''
+
 
 def free_ids():
     ids = {w['id'] for w in json.load(open(f'{SRC}/data/A1.json'))}
@@ -137,6 +145,7 @@ def main():
         s = s.replace('<meta name=viewport', head + '<meta name=viewport', 1)
         s = s.replace('<html>', f'<html lang="{g}">', 1)
         js = TRIAL_JS.replace('__T__', json.dumps(T[g], ensure_ascii=False)).replace('__STORE__', json.dumps(APP_STORE)).replace('__HOME__', json.dumps(HOME[g]))
+        js += BACK_JS.replace('__T__', json.dumps(T[g], ensure_ascii=False)).replace('__HOME__', json.dumps(HOME[g]))
         i = s.rfind('</body>')
         s = s[:i] + TRIAL_CSS + js + s[i:] if i >= 0 else s + TRIAL_CSS + js
         open(f'{OUT}/{page}', 'w').write(s)
