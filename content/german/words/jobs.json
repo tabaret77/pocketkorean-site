@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "パーティーで初対面の人に職業を聞かれました。正しい答えは？", "o": ["Ich bin Ingenieurin.", "Ich bin eine Ingenieurin von Beruf.", "Ich bin bei Ingenieurin."], "a": 0, "why": "職業は冠詞なしで Ich bin + 職業名 と言います。"},
     "outro": "家族や友だちの職業をドイツ語で一文ずつ言ってみましょう。Meine Schwester ist Ärztin. のように、声に出して！💪"
+  },
+  "tr": {
+    "title": "Ne iş yapıyorsunuz? Meslekler için 10 Almanca kelime",
+    "hook": "Almanya'da bu soru genellikle isminizden hemen sonra gelir.",
+    "intro": [
+      "Dil okulunda ilk gün, öğretmen soruyor: „Was sind Sie von Beruf?“ Mesleğinizi Türkçe çok iyi biliyorsunuz ama Almancası bir türlü ağzınızdan çıkmıyor.",
+      "Bugünkü 10 kelime tamamen meslekler üzerine. Ne iş yaptığınızı söyleyebilecek, başkalarına işlerini sorabilecek ve doktorda, restoranda, tamirhanede karşılaştığınız kişilere adlarıyla hitap edebileceksiniz. 👷"
+    ],
+    "words": {
+      "A1-046": {"pron": "be-RUF", "tip": "rufen (çağırmak) fiilinden 📣 Mesleğiniz, sizi çağıran iştir!", "bonus": "Was sind Sie von Beruf? = Mesleğiniz ne? · Samimi: Was machst du beruflich?"},
+      "A1-042": {"pron": "ARTST", "tip": "‘Artist’ kelimesinin ezilip kısalmış hâli gibi; doktorluk da bir sanat 💉", "warn": "Çoğulu die Ärzte, kadını die Ärztin. Mesleklerde artikel yok: Ich bin Ärztin."},
+      "A2-284": {"pron": "KOH", "tip": "kochen (yemek pişirmek) yapan kişi = Koch 👨‍🍳 İngilizce cook ile kuzen.", "warn": "Restorandaki aşçıbaşı da der Koch'tur. der Chef ise ‘patron’ demek!"},
+      "A2-277": {"pron": "fer-KOY-fer", "tip": "verkaufen (satmak) + -er (kişi) = satıcı 🛍️ Türkçedeki -cı/-ci eki gibi: -er ekleyince kişi olur.", "bonus": "Müşteri der Kunde / die Kundin."},
+      "A2-662": {"pron": "po-li-TSİST", "tip": "Polizei (polis teşkilatı) + -ist = tek bir polis memuru 👮", "bonus": "Teşkilatın kendisi die Polizei. Acil numara 110."},
+      "A2-656": {"pron": "KRAN-ken-pfle-ger", "tip": "krank (hasta) + pflegen (bakmak) + -er = hastaya bakan kişi, yani hastabakıcı 🏥", "bonus": "Bugün resmî unvanlar olarak Pflegefachmann / Pflegefachfrau da görürsünüz."},
+      "B1-801": {"pron": "in-jen-YÖR", "tip": "Fransızcadan geldi, Fransız gibi okuyun 🔧 Türkçedeki ‘ince g’ yani j sesiyle!", "bonus": "Kadın: die Ingenieurin"},
+      "A2-659": {"pron": "me-HA-ni-ker", "tip": "Yunanca mēchanē (makine) kökünden 🔩 Türkçedeki mekanik kelimesiyle akraba.", "bonus": "Araba tamirhanesi die Werkstatt."},
+      "B1-445": {"pron": "AN-valt", "tip": "an + walten (yönetmek) = davanızı yöneten kişi ⚖️", "warn": "Çoğulu umlautlu: die Anwälte. Tam unvanı der Rechtsanwalt."},
+      "B2-1017": {"pron": "pro-gra-Mİ-rer", "tip": "programmieren + -er = programcı 💻 Türkçe konuşanlar için bedava kelime!", "bonus": "Yazılım geliştirici der Entwickler."}
+    },
+    "culture": [
+      "Almanlar mesleklerde artikeli düşürür: Ich bin Lehrerin. Er ist Koch. Meslek adlarının çoğunun -in ile biten bir kadın hâli de vardır; bu yüzden bir kadın Ärztin ya da Ingenieurin der.",
+      "Birçok kişi üniversiteye gitmez, mesleki eğitim (Ausbildung) yapar. Bir şirkette işi yaparak öğrenirsiniz ve yanında meslek okuluna (Berufsschule) gidersiniz. Tamirciler ve aşçılar genellikle bu yoldan başlar.",
+      "İş ilanlarında sık sık ‘(m/w/d)’ görürsünüz. Bu, işin erkeklere, kadınlara ve farklı cinsiyetten kişilere açık olduğu anlamına gelir. 💼"
+    ],
+    "quiz": {"q": "Bir partide biri size ne iş yaptığınızı soruyor. Hangi cevap doğru?", "o": ["Ich bin Ingenieurin.", "Ich bin eine Ingenieurin von Beruf.", "Ich bin bei Ingenieurin."], "a": 0, "why": "Meslekler için artikelsiz olarak Ich bin + meslek kullanılır."},
+    "outro": "Ailenizdeki her bireyin mesleği hakkında bir cümle söyleyin: Meine Schwester ist Ärztin. Yüksek sesle lütfen! 💪"
   }
 }

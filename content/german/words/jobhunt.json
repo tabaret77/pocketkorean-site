@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "面接官に \"Was sind Ihre Stärken?\" と聞かれました。いちばん合う答えは？", "o": ["Ich arbeite sehr genau und bin zuverlässig.", "Ich habe die Stellenanzeige nicht gelesen.", "Ich suche eine neue Stelle."], "a": 0, "why": "Stärken = 強み。「私は正確に仕事をし、信頼できます」と強みを答えています。"},
     "outro": "今日は鏡の前で Meine Stärke ist … で始まる文を3つ作って、声に出してみましょう。次の面接の主役はあなたです！🌟"
+  },
+  "tr": {
+    "title": "Almanya'da iş ararken sizi işe aldıracak 10 kelime",
+    "hook": "Bir iş ilanının daha ilk satırında kayboluyorsanız, bugünün kelimeleri tam size göre.",
+    "intro": [
+      "Çok sevdiğiniz bir şirkette bir iş ilanı buldunuz. Sonra şu cümleyi görüyorsunuz: „Bitte senden Sie uns Ihre vollständigen Bewerbungsunterlagen.“ Özgeçmişin ne olduğunu biliyorsunuz ama Anschreiben de ne? Peki mülakatta neler sorulacak?",
+      "Bugünkü 10 kelime sizi başvurudan mülakata kadar götürüyor. Bu kelimelerle iş ilanlarını okuyabilir, belgelerinizi hazırlayabilir, hatta güçlü yönlerinizden bahsedebilirsiniz. Bu ilk adımı birlikte atalım! 💼"
+    ],
+    "words": {
+      "A2-021": {"pron": "be-FER-bunk", "tip": "sich bewerben (başvurmak) + -ung = başvuru 📨 -ung ile biterse artikel hep die!", "bonus": "başvuru dosyasının tamamı = die Bewerbungsunterlagen (çoğul)"},
+      "A2-051": {"pron": "zih be-FER-ben", "tip": "werben ‘reklam yapmak’ demek; yani başvurmak, kendinizin reklamını yapmak 📣", "warn": "Edatları ezberleyin: sich um eine Stelle bei einer Firma bewerben. Şimdiki zaman: er bewirbt sich!"},
+      "A2-026": {"pron": "LE-bens-lauf", "tip": "Leben (hayat) + Lauf (akış, koşu) = hayatınızın akışı 🏃 Tıpkı Latince curriculum vitae gibi.", "warn": "Çoğulu umlautlu: die Lebensläufe."},
+      "B2-406": {"pron": "AN-şray-ben", "tip": "an (-e) + schreiben (yazmak) = şirkete yazdığınız yazı ✍️ Fiilden türeyen bir das ismi.", "bonus": "Çoğulu aynı görünür: die Anschreiben"},
+      "BL-09-03": {"pron": "FOR-ştel-unks-ge-şpreh", "tip": "sich vorstellen (kendini tanıtmak) + Gespräch (konuşma) = kendinizi tanıttığınız konuşma 🤝", "bonus": "iş görüşmesine çağrılmak = zum Vorstellungsgespräch eingeladen werden"},
+      "A2-024": {"pron": "er-FA-runk", "tip": "İçinde fahren (yolculuk etmek) saklı; tecrübe, yolda topladıklarınızdır 🧳", "bonus": "… konusunda deneyimi olmak = Erfahrung in … haben"},
+      "B2-401": {"pron": "ŞTE-len-an-tsay-ge", "tip": "Stelle (iş, pozisyon) + Anzeige (ilan) = iş ilanı 📰 Ortadaki -n- sadece yapıştırıcı.", "bonus": "bir pozisyonu ilana çıkarmak = eine Stelle ausschreiben"},
+      "BL-09-07": {"pron": "ŞTE-le", "tip": "stellen (koymak, yerleştirmek) fiilinden: sizin yerleştirildiğiniz yer 📍", "bonus": "an deiner Stelle = senin yerinde olsam"},
+      "BL-09-05": {"pron": "ŞTER-ke", "tip": "stark (güçlü) + -e = güç 💪 Sıfat + -e, die artikelli bir isim yapar.", "bonus": "Hep çift olarak gelirler: Stärken und Schwächen"},
+      "B2-420": {"pron": "ŞVE-he", "tip": "schwach (zayıf) + -e = zayıflık 🍫 Stärke'deki gibi a → ä değişimi.", "bonus": "eine Schwäche für Schokolade haben = çikolataya karşı zaafı olmak"}
+    },
+    "culture": [
+      "Alman özgeçmişi (Lebenslauf) genellikle kısa ve düzenli bir tablodur. Eskiden fotoğraf neredeyse zorunluydu; bugün isteğe bağlı ve âdet şirkete ve sektöre göre değişiyor.",
+      "Başvurulara çoğu zaman önceki işverenlerden alınan referans yazıları (Arbeitszeugnis) eklenir. Baştan sona olumlu görünebilirler ama kalıplaşmış ifadelerin içinde gizli notlar saklıdır, bu yüzden Almanlar bunları çok dikkatli okur.",
+      "Mülakatta genellikle Sie kullanılır ve biraz erken gelmeniz beklenir. Stärken und Schwächen sorusu neredeyse her seferinde gelir, cevabınızı hazırlayın! 🤝"
+    ],
+    "quiz": {"q": "Görüşmeci „Was sind Ihre Stärken?“ diye soruyor. En uygun cevap hangisi?", "o": ["Ich arbeite sehr genau und bin zuverlässig.", "Ich habe die Stellenanzeige nicht gelesen.", "Ich suche eine neue Stelle."], "a": 0, "why": "Stärken = güçlü yönler; bu cevap iki tanesini söylüyor: ‘Çok titiz çalışırım ve güvenilirim.’"},
+    "outro": "Aynanın karşısına geçin ve Meine Stärke ist … ile başlayan üç cümleyi yüksek sesle söyleyin. Bir sonraki mülakat sizin! 🌟"
   }
 }

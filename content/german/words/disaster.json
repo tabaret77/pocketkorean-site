@@ -8,23 +8,72 @@
       "오늘은 재난과 경보에 관한 단어 10개를 모았어요. 이 단어들만 알아도 경보 문자와 뉴스를 빠르게 이해하고 침착하게 움직일 수 있어요. 모르는 것보다 아는 게 훨씬 든든하죠. 🚨"
     ],
     "words": {
-      "B2-775": {"pron": "나투어카타스트로페", "tip": "Natur(자연) + Katastrophe(재앙) 🌋 영어 natural catastrophe 그대로예요!", "bonus": "줄여서 그냥 die Katastrophe라고도 해요."},
-      "B1-1217": {"pron": "슈투름", "tip": "영어 storm과 같은 뿌리 🌪️ st는 ‘슈트’로 읽어요!", "bonus": "형용사 stürmisch = 폭풍우 치는, 격렬한"},
-      "B2-786": {"pron": "운베터", "tip": "un-(나쁜) + Wetter(날씨) = 아주 나쁜 날씨 ⛈️ 경보 문자 단골 단어!", "bonus": "기상 경보 = die Unwetterwarnung"},
-      "B2-781": {"pron": "호흐바서", "tip": "hoch(높은) + Wasser(물) = 물이 높아졌다 🌊 영어 high water랑 같아요.", "bonus": "강이 범람하다 = Der Fluss führt Hochwasser."},
-      "B2-791": {"pron": "에어트베벤", "tip": "Erde(땅) + beben(떨다) = 땅이 덜덜 떨다 🫨 Beben이 중성이라 das!", "bonus": "여진 = das Nachbeben"},
-      "B1-1547": {"pron": "바르눙", "tip": "warnen + -ung ⚠️ -ung은 언제나 die!", "bonus": "~에 대한 경고 = eine Warnung vor + 3격 (Warnung vor Glatteis)"},
-      "B2-358": {"pron": "바르넨", "tip": "영어 warn과 똑같아요 📢 ‘바르~넨!’ 하고 크게 외치는 느낌으로.", "warn": "무엇에 대해 경고할 땐 vor + 3격: vor dem Sturm warnen"},
-      "B2-2923": {"pron": "지레네", "tip": "그리스 신화의 세이렌이 노래로 사람을 부르듯 🧜 사이렌도 소리로 알려요!", "bonus": "사이렌이 울리다 = Die Sirenen heulen."},
-      "C1-4381": {"pron": "에바쿠이어렌", "tip": "라틴어 evacuare(비우다) 🏃 영어 evacuate와 닮았죠? 마을을 비우는 거예요.", "warn": "주민이 대피당할 땐 수동태: Das Dorf wurde evakuiert."},
-      "B2-829": {"pron": "슈트롬아우스팔", "tip": "Strom(전기) + Ausfall(빠짐) = 전기가 빠졌다 🔌 마지막 Fall이 남성이라 der!", "warn": "복수는 움라우트: die Stromausfälle"}
+      "B2-775": {
+        "pron": "나투어카타스트로페",
+        "tip": "Natur(자연) + Katastrophe(재앙) 🌋 영어 natural catastrophe 그대로예요!",
+        "bonus": "줄여서 그냥 die Katastrophe라고도 해요."
+      },
+      "B1-1217": {
+        "pron": "슈투름",
+        "tip": "영어 storm과 같은 뿌리 🌪️ st는 ‘슈트’로 읽어요!",
+        "bonus": "형용사 stürmisch = 폭풍우 치는, 격렬한"
+      },
+      "B2-786": {
+        "pron": "운베터",
+        "tip": "un-(나쁜) + Wetter(날씨) = 아주 나쁜 날씨 ⛈️ 경보 문자 단골 단어!",
+        "bonus": "기상 경보 = die Unwetterwarnung"
+      },
+      "B2-781": {
+        "pron": "호흐바서",
+        "tip": "hoch(높은) + Wasser(물) = 물이 높아졌다 🌊 영어 high water랑 같아요.",
+        "bonus": "강이 범람하다 = Der Fluss führt Hochwasser."
+      },
+      "B2-791": {
+        "pron": "에어트베벤",
+        "tip": "Erde(땅) + beben(떨다) = 땅이 덜덜 떨다 🫨 Beben이 중성이라 das!",
+        "bonus": "여진 = das Nachbeben"
+      },
+      "B1-1547": {
+        "pron": "바르눙",
+        "tip": "warnen + -ung ⚠️ -ung은 언제나 die!",
+        "bonus": "~에 대한 경고 = eine Warnung vor + 3격 (Warnung vor Glatteis)"
+      },
+      "B2-358": {
+        "pron": "바르넨",
+        "tip": "영어 warn과 똑같아요 📢 ‘바르~넨!’ 하고 크게 외치는 느낌으로.",
+        "warn": "무엇에 대해 경고할 땐 vor + 3격: vor dem Sturm warnen"
+      },
+      "B2-2923": {
+        "pron": "지레네",
+        "tip": "그리스 신화의 세이렌이 노래로 사람을 부르듯 🧜 사이렌도 소리로 알려요!",
+        "bonus": "사이렌이 울리다 = Die Sirenen heulen."
+      },
+      "C1-4381": {
+        "pron": "에바쿠이어렌",
+        "tip": "라틴어 evacuare(비우다) 🏃 영어 evacuate와 닮았죠? 마을을 비우는 거예요.",
+        "warn": "주민이 대피당할 땐 수동태: Das Dorf wurde evakuiert."
+      },
+      "B2-829": {
+        "pron": "슈트롬아우스팔",
+        "tip": "Strom(전기) + Ausfall(빠짐) = 전기가 빠졌다 🔌 마지막 Fall이 남성이라 der!",
+        "warn": "복수는 움라우트: die Stromausfälle"
+      }
     },
     "culture": [
       "독일에는 1년에 한 번 전국 경보 훈련일(Warntag)이 있어요. 보통 9월에 사이렌이 울리고 휴대폰으로 시험 경보가 오는데, 처음 겪으면 깜짝 놀랄 수 있어요.",
       "경보는 휴대폰 문자 외에도 NINA 같은 공식 경보 앱으로 받을 수 있어요. 내 동네 날씨 경보나 홍수 정보도 알려 줘서 깔아 두면 든든해요.",
       "독일은 지진은 드물지만 폭풍이나 홍수는 종종 있어요. 그래서 물과 비상식량, 손전등, 건전지를 며칠 치 집에 두라고 권하는 경우가 많아요. 🔦"
     ],
-    "quiz": {"q": "갑자기 집 안 불이 다 꺼지고 옆집도 깜깜해요. 이웃에게 뭐라고 할까요?", "o": ["Wir haben Hochwasser.", "Ich warne dich!", "Wir haben einen Stromausfall."], "a": 2, "why": "der Stromausfall = 정전. 전기가 끊겼을 때 쓰는 말이에요."},
+    "quiz": {
+      "q": "갑자기 집 안 불이 다 꺼지고 옆집도 깜깜해요. 이웃에게 뭐라고 할까요?",
+      "o": [
+        "Wir haben Hochwasser.",
+        "Ich warne dich!",
+        "Wir haben einen Stromausfall."
+      ],
+      "a": 2,
+      "why": "der Stromausfall = 정전. 전기가 끊겼을 때 쓰는 말이에요."
+    },
     "outro": "오늘은 휴대폰 경보 설정을 한 번 확인하고, 오늘 단어로 “무슨 일이에요?”라고 묻는 장면을 소리 내서 연습해 봐요. 안전이 먼저예요! 🦺"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words are about disasters and warnings. With them you can understand alerts and news quickly and stay calm. Knowing is always better than guessing. 🚨"
     ],
     "words": {
-      "B2-775": {"pron": "na-TOOR-ka-ta-stroh-fuh", "tip": "Natur + Katastrophe = natural catastrophe 🌋 Easy one!", "bonus": "Often shortened to die Katastrophe."},
-      "B1-1217": {"pron": "SHTOORM", "tip": "Same root as English storm 🌪️ Remember: st at the start sounds like sht.", "bonus": "The adjective stürmisch = stormy, wild"},
-      "B2-786": {"pron": "OON-vet-er", "tip": "un- (bad) + Wetter (weather) = really bad weather ⛈️ A regular in warning texts!", "bonus": "a severe weather warning = die Unwetterwarnung"},
-      "B2-781": {"pron": "HOKH-vass-er", "tip": "hoch (high) + Wasser = high water 🌊 Just like English.", "bonus": "The river is flooding = Der Fluss führt Hochwasser."},
-      "B2-791": {"pron": "AIRT-bay-ben", "tip": "Erde (earth) + beben (to tremble) = the earth trembles 🫨 Beben is neuter, so das.", "bonus": "an aftershock = das Nachbeben"},
-      "B1-1547": {"pron": "VAR-noong", "tip": "warnen + -ung ⚠️ -ung is always die!", "bonus": "a warning about = eine Warnung vor + dative (Warnung vor Glatteis)"},
-      "B2-358": {"pron": "VAR-nen", "tip": "Just like warn 📢 Shout it: “VAR-nen!”", "warn": "Warn about something with vor + dative: vor dem Sturm warnen"},
-      "B2-2923": {"pron": "zee-RAY-nuh", "tip": "Like the Sirens of Greek myth calling with their song 🧜 A siren calls with sound too!", "bonus": "The sirens are wailing = Die Sirenen heulen."},
-      "C1-4381": {"pron": "ay-va-koo-EE-ren", "tip": "From Latin evacuare (to empty) 🏃 Same as evacuate: emptying a village.", "warn": "For people being moved out, use the passive: Das Dorf wurde evakuiert."},
-      "B2-829": {"pron": "SHTROHM-ows-fal", "tip": "Strom (power) + Ausfall (failure) = power cut 🔌 Fall is masculine, so der.", "warn": "Plural with umlaut: die Stromausfälle"}
+      "B2-775": {
+        "pron": "na-TOOR-ka-ta-stroh-fuh",
+        "tip": "Natur + Katastrophe = natural catastrophe 🌋 Easy one!",
+        "bonus": "Often shortened to die Katastrophe."
+      },
+      "B1-1217": {
+        "pron": "SHTOORM",
+        "tip": "Same root as English storm 🌪️ Remember: st at the start sounds like sht.",
+        "bonus": "The adjective stürmisch = stormy, wild"
+      },
+      "B2-786": {
+        "pron": "OON-vet-er",
+        "tip": "un- (bad) + Wetter (weather) = really bad weather ⛈️ A regular in warning texts!",
+        "bonus": "a severe weather warning = die Unwetterwarnung"
+      },
+      "B2-781": {
+        "pron": "HOKH-vass-er",
+        "tip": "hoch (high) + Wasser = high water 🌊 Just like English.",
+        "bonus": "The river is flooding = Der Fluss führt Hochwasser."
+      },
+      "B2-791": {
+        "pron": "AIRT-bay-ben",
+        "tip": "Erde (earth) + beben (to tremble) = the earth trembles 🫨 Beben is neuter, so das.",
+        "bonus": "an aftershock = das Nachbeben"
+      },
+      "B1-1547": {
+        "pron": "VAR-noong",
+        "tip": "warnen + -ung ⚠️ -ung is always die!",
+        "bonus": "a warning about = eine Warnung vor + dative (Warnung vor Glatteis)"
+      },
+      "B2-358": {
+        "pron": "VAR-nen",
+        "tip": "Just like warn 📢 Shout it: “VAR-nen!”",
+        "warn": "Warn about something with vor + dative: vor dem Sturm warnen"
+      },
+      "B2-2923": {
+        "pron": "zee-RAY-nuh",
+        "tip": "Like the Sirens of Greek myth calling with their song 🧜 A siren calls with sound too!",
+        "bonus": "The sirens are wailing = Die Sirenen heulen."
+      },
+      "C1-4381": {
+        "pron": "ay-va-koo-EE-ren",
+        "tip": "From Latin evacuare (to empty) 🏃 Same as evacuate: emptying a village.",
+        "warn": "For people being moved out, use the passive: Das Dorf wurde evakuiert."
+      },
+      "B2-829": {
+        "pron": "SHTROHM-ows-fal",
+        "tip": "Strom (power) + Ausfall (failure) = power cut 🔌 Fall is masculine, so der.",
+        "warn": "Plural with umlaut: die Stromausfälle"
+      }
     },
     "culture": [
       "Germany holds a nationwide warning day (Warntag) once a year, usually in September. Sirens sound and test alerts arrive on phones — quite a shock if you don't expect it.",
       "As well as phone alerts, you can get warnings through official apps such as NINA. They also send local weather and flood warnings, so it's worth installing one.",
       "Earthquakes are rare in Germany, but storms and floods do happen. That's why people are often advised to keep a few days' worth of water, food, a torch and batteries at home. 🔦"
     ],
-    "quiz": {"q": "Suddenly all the lights go out, and the flat next door is dark too. What do you tell your neighbour?", "o": ["Wir haben Hochwasser.", "Ich warne dich!", "Wir haben einen Stromausfall."], "a": 2, "why": "der Stromausfall = a power cut, which is exactly what's happened."},
+    "quiz": {
+      "q": "Suddenly all the lights go out, and the flat next door is dark too. What do you tell your neighbour?",
+      "o": [
+        "Wir haben Hochwasser.",
+        "Ich warne dich!",
+        "Wir haben einen Stromausfall."
+      ],
+      "a": 2,
+      "why": "der Stromausfall = a power cut, which is exactly what's happened."
+    },
     "outro": "Check the alert settings on your phone today, then practise asking “What's happening?” with today's words, out loud. Safety first! 🦺"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日は災害と警報に関する単語を10個集めました。これだけでも警報やニュースをすばやく理解して、落ち着いて行動できます。知らないより知っているほうが、ずっと心強いですよね。🚨"
     ],
     "words": {
-      "B2-775": {"pron": "ナトゥーアカタストローフェ", "tip": "Natur（自然）+ Katastrophe（大惨事）🌋 英語の natural catastrophe そのままです！", "bonus": "短く die Katastrophe とも言います。"},
-      "B1-1217": {"pron": "シュトゥルム", "tip": "英語の storm と同じ根っこ 🌪️ 語頭の st は「シュト」と読みます！", "bonus": "形容詞 stürmisch = 嵐の、激しい"},
-      "B2-786": {"pron": "ウンヴェッター", "tip": "un-（悪い）+ Wetter（天気）= ひどい悪天候 ⛈️ 警報メッセージの常連！", "bonus": "悪天候警報 = die Unwetterwarnung"},
-      "B2-781": {"pron": "ホーホヴァッサー", "tip": "hoch（高い）+ Wasser（水）= 水位が高い 🌊 英語の high water と同じです。", "bonus": "川が増水している = Der Fluss führt Hochwasser."},
-      "B2-791": {"pron": "エーアトベーベン", "tip": "Erde（大地）+ beben（震える）= 大地がぶるぶる 🫨 Beben が中性なので das！", "bonus": "余震 = das Nachbeben"},
-      "B1-1547": {"pron": "ヴァルヌング", "tip": "warnen + -ung ⚠️ -ung はいつも die！", "bonus": "〜への警告 = eine Warnung vor + 3格（Warnung vor Glatteis）"},
-      "B2-358": {"pron": "ヴァルネン", "tip": "英語の warn とそっくり 📢「ヴァルネン！」と大声で呼びかけるイメージで。", "warn": "何かについて警告するときは vor + 3格：vor dem Sturm warnen"},
-      "B2-2923": {"pron": "ズィレーネ", "tip": "ギリシャ神話のセイレーンが歌で人を呼ぶように 🧜 サイレンも音で知らせます！", "bonus": "サイレンが鳴り響く = Die Sirenen heulen."},
-      "C1-4381": {"pron": "エヴァクイーレン", "tip": "ラテン語 evacuare（空にする）から 🏃 英語の evacuate と同じ、村を空にすることです。", "warn": "住民が避難させられるときは受動態：Das Dorf wurde evakuiert."},
-      "B2-829": {"pron": "シュトロームアウスファル", "tip": "Strom（電気）+ Ausfall（欠落）= 電気が抜けた 🔌 Fall が男性名詞なので der！", "warn": "複数形はウムラウト：die Stromausfälle"}
+      "B2-775": {
+        "pron": "ナトゥーアカタストローフェ",
+        "tip": "Natur（自然）+ Katastrophe（大惨事）🌋 英語の natural catastrophe そのままです！",
+        "bonus": "短く die Katastrophe とも言います。"
+      },
+      "B1-1217": {
+        "pron": "シュトゥルム",
+        "tip": "英語の storm と同じ根っこ 🌪️ 語頭の st は「シュト」と読みます！",
+        "bonus": "形容詞 stürmisch = 嵐の、激しい"
+      },
+      "B2-786": {
+        "pron": "ウンヴェッター",
+        "tip": "un-（悪い）+ Wetter（天気）= ひどい悪天候 ⛈️ 警報メッセージの常連！",
+        "bonus": "悪天候警報 = die Unwetterwarnung"
+      },
+      "B2-781": {
+        "pron": "ホーホヴァッサー",
+        "tip": "hoch（高い）+ Wasser（水）= 水位が高い 🌊 英語の high water と同じです。",
+        "bonus": "川が増水している = Der Fluss führt Hochwasser."
+      },
+      "B2-791": {
+        "pron": "エーアトベーベン",
+        "tip": "Erde（大地）+ beben（震える）= 大地がぶるぶる 🫨 Beben が中性なので das！",
+        "bonus": "余震 = das Nachbeben"
+      },
+      "B1-1547": {
+        "pron": "ヴァルヌング",
+        "tip": "warnen + -ung ⚠️ -ung はいつも die！",
+        "bonus": "〜への警告 = eine Warnung vor + 3格（Warnung vor Glatteis）"
+      },
+      "B2-358": {
+        "pron": "ヴァルネン",
+        "tip": "英語の warn とそっくり 📢「ヴァルネン！」と大声で呼びかけるイメージで。",
+        "warn": "何かについて警告するときは vor + 3格：vor dem Sturm warnen"
+      },
+      "B2-2923": {
+        "pron": "ズィレーネ",
+        "tip": "ギリシャ神話のセイレーンが歌で人を呼ぶように 🧜 サイレンも音で知らせます！",
+        "bonus": "サイレンが鳴り響く = Die Sirenen heulen."
+      },
+      "C1-4381": {
+        "pron": "エヴァクイーレン",
+        "tip": "ラテン語 evacuare（空にする）から 🏃 英語の evacuate と同じ、村を空にすることです。",
+        "warn": "住民が避難させられるときは受動態：Das Dorf wurde evakuiert."
+      },
+      "B2-829": {
+        "pron": "シュトロームアウスファル",
+        "tip": "Strom（電気）+ Ausfall（欠落）= 電気が抜けた 🔌 Fall が男性名詞なので der！",
+        "warn": "複数形はウムラウト：die Stromausfälle"
+      }
     },
     "culture": [
       "ドイツでは年に一度、全国一斉の警報訓練の日（Warntag）があります。たいてい9月で、サイレンが鳴り、スマホにテスト警報が届くので、知らないとびっくりします。",
       "警報はスマホのメッセージのほか、NINA などの公式警報アプリでも受け取れます。地域の気象警報や洪水情報も届くので、入れておくと安心です。",
       "ドイツでは地震はまれですが、嵐や洪水はときどき起こります。そのため、水や非常食、懐中電灯、電池を数日分家に置いておくよう勧められることが多いです。🔦"
     ],
-    "quiz": {"q": "突然家の電気が全部消えて、隣の家も真っ暗です。お隣さんに何と言いますか？", "o": ["Wir haben Hochwasser.", "Ich warne dich!", "Wir haben einen Stromausfall."], "a": 2, "why": "der Stromausfall =「停電」。電気が止まったときに使う言葉です。"},
+    "quiz": {
+      "q": "突然家の電気が全部消えて、隣の家も真っ暗です。お隣さんに何と言いますか？",
+      "o": [
+        "Wir haben Hochwasser.",
+        "Ich warne dich!",
+        "Wir haben einen Stromausfall."
+      ],
+      "a": 2,
+      "why": "der Stromausfall =「停電」。電気が止まったときに使う言葉です。"
+    },
     "outro": "今日はスマホの警報設定を確認して、今日の単語で「何があったんですか？」と聞く場面を声に出して練習してみましょう。安全第一です！🦺"
+  },
+  "tr": {
+    "title": "Alarm çaldığında: Acil durumlar için 10 Almanca kelime",
+    "hook": "Telefonunuz birden çığlık gibi çalıp Almanca bir uyarı gösterse, ne demek olduğunu anlar mıydınız?",
+    "intro": [
+      "Bir öğleden sonra telefonunuz kulak tırmalayan bir alarm veriyor. Ekranda: “Unwetterwarnung”. Dışarıda rüzgâr giderek sertleşiyor, uzaktan siren sesleri geliyor. Durum ciddi mi?",
+      "Bugünkü on kelime afetler ve uyarılarla ilgili. Bunlarla uyarıları ve haberleri hızla anlayıp sakin kalabilirsiniz. Bilmek, tahmin etmekten her zaman iyidir. 🚨"
+    ],
+    "words": {
+      "B2-775": {
+        "pron": "na-TUR-ka-ta-stro-fe",
+        "tip": "Natur + Katastrophe = doğal felaket 🌋 Bu çok kolay!",
+        "bonus": "Çoğu zaman kısaca die Katastrophe denir."
+      },
+      "B1-1217": {
+        "pron": "ŞTURM",
+        "tip": "İngilizce storm ile aynı kökten 🌪️ Unutmayın: başta st “şt” diye okunur.",
+        "bonus": "Sıfatı stürmisch = fırtınalı, çılgın"
+      },
+      "B2-786": {
+        "pron": "UN-vet-ır",
+        "tip": "un- (kötü) + Wetter (hava) = gerçekten kötü hava ⛈️ Uyarı mesajlarının müdavimi!",
+        "bonus": "şiddetli hava uyarısı = die Unwetterwarnung"
+      },
+      "B2-781": {
+        "pron": "HOH-vas-ır",
+        "tip": "hoch (yüksek) + Wasser (su) = yükselen su, yani taşkın 🌊",
+        "bonus": "Nehir taşıyor = Der Fluss führt Hochwasser."
+      },
+      "B2-791": {
+        "pron": "ERT-bey-ben",
+        "tip": "Erde (yer) + beben (titremek) = yer titriyor, tıpkı “yer sarsıntısı” gibi 🫨 Beben nötr, o yüzden das.",
+        "bonus": "artçı sarsıntı = das Nachbeben"
+      },
+      "B1-1547": {
+        "pron": "VAR-nunk",
+        "tip": "warnen + -ung ⚠️ -ung ile biten kelimeler hep die!",
+        "bonus": "...e karşı uyarı = eine Warnung vor + datif (Warnung vor Glatteis)"
+      },
+      "B2-358": {
+        "pron": "VAR-nen",
+        "tip": "İngilizce warn ile aynı 📢 Yüksek sesle söyleyin: “VAR-nen!”",
+        "warn": "Bir şeye karşı uyarmak için vor + datif: vor dem Sturm warnen"
+      },
+      "B2-2923": {
+        "pron": "zi-RE-ne",
+        "tip": "Yunan mitolojisinde şarkısıyla çağıran Sirenler gibi 🧜 Siren de sesiyle çağırır!",
+        "bonus": "Sirenler çalıyor = Die Sirenen heulen."
+      },
+      "C1-4381": {
+        "pron": "e-va-ku-İ-ren",
+        "tip": "Latince evacuare (boşaltmak) kökünden 🏃 Türkçedeki “tahliye” gibi: bir köyü boşaltmak.",
+        "warn": "İnsanların tahliye edilmesini anlatırken edilgen kullanılır: Das Dorf wurde evakuiert."
+      },
+      "B2-829": {
+        "pron": "ŞTROM-auz-fal",
+        "tip": "Strom (elektrik) + Ausfall (kesinti) = elektrik kesintisi 🔌 Fall eril, o yüzden der.",
+        "warn": "Çoğulda umlaut gelir: die Stromausfälle"
+      }
+    },
+    "culture": [
+      "Almanya'da yılda bir kez, genellikle eylül ayında, ülke çapında bir uyarı günü (Warntag) yapılır. Sirenler çalar ve telefonlara test uyarıları gelir; beklemiyorsanız epey ürkütücü olabilir.",
+      "Telefon uyarılarının yanı sıra NINA gibi resmî uygulamalardan da uyarı alabilirsiniz. Bu uygulamalar yerel hava ve sel uyarıları da gönderir, bu yüzden bir tane yüklemeye değer.",
+      "Almanya'da deprem nadirdir ama fırtına ve sel olur. Bu yüzden insanlara evde birkaç günlük su, yiyecek, el feneri ve pil bulundurmaları sıkça tavsiye edilir. 🔦"
+    ],
+    "quiz": {
+      "q": "Birden bütün ışıklar sönüyor, yan dairede de karanlık. Komşunuza ne dersiniz?",
+      "o": [
+        "Wir haben Hochwasser.",
+        "Ich warne dich!",
+        "Wir haben einen Stromausfall."
+      ],
+      "a": 2,
+      "why": "der Stromausfall = elektrik kesintisi; olan da tam olarak bu."
+    },
+    "outro": "Bugün telefonunuzdaki uyarı ayarlarını kontrol edin, sonra bugünkü kelimelerle “Ne oluyor?” diye sormayı yüksek sesle çalışın. Önce güvenlik! 🦺"
   }
 }

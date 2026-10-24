@@ -8,23 +8,72 @@
       "오늘은 카페와 식당에서 바로 쓰는 음료 단어 10개를 모았어요. 이제 원하는 음료를 정확하게 주문할 수 있어요. 독일 사람들이 사랑하는 그 음료까지요! 🥤"
     ],
     "words": {
-      "A1-018": {"pron": "바서", "tip": "영어 water와 형제예요 💧 w는 [v] 소리라서 ‘바서’!", "warn": "식당에서 그냥 Wasser라고 하면 보통 돈 내는 병물이 나와요."},
-      "A1-057": {"pron": "트링켄", "tip": "영어 drink와 쌍둥이 🍹 d → t만 바꾸면 돼요.", "warn": "불규칙: trinken – trank – hat getrunken"},
-      "A2-139": {"pron": "게트렝크", "tip": "trinken에서 나온 명사 🥂 마시는(trink) 것 = Getränk!", "bonus": "메뉴판에서 음료 코너는 보통 Getränke라고 적혀 있어요."},
-      "A1-020": {"pron": "카페", "tip": "아랍어 qahwa가 터키, 프랑스를 거쳐 왔어요 ☕ 긴 여행 끝에 der Kaffee!", "warn": "커피는 der Kaffee, 카페(가게)는 das Café예요."},
-      "A1-127": {"pron": "테", "tip": "중국 남부 말 ‘테’가 네덜란드를 거쳐 왔어요 🍵 짧고 길게 ‘테—’!", "bonus": "허브차는 der Kräutertee, 녹차는 der grüne Tee"},
-      "A1-128": {"pron": "자프트", "tip": "과일을 짜면 나오는 즙 🍊 Orange + Saft = Orangensaft!", "warn": "복수는 움라우트: die Säfte"},
-      "A2-517": {"pron": "미네랄바서", "tip": "Mineral + Wasser 🫧 독일에서는 대부분 기본이 탄산이에요!", "bonus": "탄산 없는 물은 stilles Wasser"},
-      "A2-219": {"pron": "두르스트", "tip": "영어 thirst와 같은 뿌리 🏜️ th → d로 바꿔 보면 보여요.", "warn": "‘목마르다’는 Ich habe Durst. (haben을 써요!)"},
-      "B1-1916": {"pron": "라이퉁스바서", "tip": "Leitung(관) + Wasser = 관으로 오는 물 🚰 독일 수돗물은 마셔도 돼요.", "bonus": "주문할 땐: Ein Glas Leitungswasser, bitte."},
-      "B2-2891": {"pron": "쇼를레", "tip": "주스 반 + 탄산수 반 = Schorle 🍏 독일 국민 음료!", "bonus": "제일 인기: die Apfelschorle (남부에서는 das Schorle라고도 해요)"}
+      "A1-018": {
+        "pron": "바서",
+        "tip": "영어 water와 형제예요 💧 w는 [v] 소리라서 ‘바서’!",
+        "warn": "식당에서 그냥 Wasser라고 하면 보통 돈 내는 병물이 나와요."
+      },
+      "A1-057": {
+        "pron": "트링켄",
+        "tip": "영어 drink와 쌍둥이 🍹 d → t만 바꾸면 돼요.",
+        "warn": "불규칙: trinken – trank – hat getrunken"
+      },
+      "A2-139": {
+        "pron": "게트렝크",
+        "tip": "trinken에서 나온 명사 🥂 마시는(trink) 것 = Getränk!",
+        "bonus": "메뉴판에서 음료 코너는 보통 Getränke라고 적혀 있어요."
+      },
+      "A1-020": {
+        "pron": "카페",
+        "tip": "아랍어 qahwa가 터키, 프랑스를 거쳐 왔어요 ☕ 긴 여행 끝에 der Kaffee!",
+        "warn": "커피는 der Kaffee, 카페(가게)는 das Café예요."
+      },
+      "A1-127": {
+        "pron": "테",
+        "tip": "중국 남부 말 ‘테’가 네덜란드를 거쳐 왔어요 🍵 짧고 길게 ‘테—’!",
+        "bonus": "허브차는 der Kräutertee, 녹차는 der grüne Tee"
+      },
+      "A1-128": {
+        "pron": "자프트",
+        "tip": "과일을 짜면 나오는 즙 🍊 Orange + Saft = Orangensaft!",
+        "warn": "복수는 움라우트: die Säfte"
+      },
+      "A2-517": {
+        "pron": "미네랄바서",
+        "tip": "Mineral + Wasser 🫧 독일에서는 대부분 기본이 탄산이에요!",
+        "bonus": "탄산 없는 물은 stilles Wasser"
+      },
+      "A2-219": {
+        "pron": "두르스트",
+        "tip": "영어 thirst와 같은 뿌리 🏜️ th → d로 바꿔 보면 보여요.",
+        "warn": "‘목마르다’는 Ich habe Durst. (haben을 써요!)"
+      },
+      "B1-1916": {
+        "pron": "라이퉁스바서",
+        "tip": "Leitung(관) + Wasser = 관으로 오는 물 🚰 독일 수돗물은 마셔도 돼요.",
+        "bonus": "주문할 땐: Ein Glas Leitungswasser, bitte."
+      },
+      "B2-2891": {
+        "pron": "쇼를레",
+        "tip": "주스 반 + 탄산수 반 = Schorle 🍏 독일 국민 음료!",
+        "bonus": "제일 인기: die Apfelschorle (남부에서는 das Schorle라고도 해요)"
+      }
     },
     "culture": [
       "독일 식당에서 물은 보통 공짜가 아니에요. 그냥 Wasser를 시키면 병에 든 탄산수가 나오는 경우가 많아요. 수돗물을 달라고 하면 주는 곳도 있지만, 가게마다 달라요.",
       "마트에서 산 페트병이나 유리병에는 보증금(Pfand)이 붙어 있어요. 빈 병을 마트에 있는 기계에 넣으면 돈을 돌려받을 수 있으니 버리지 마세요!",
       "그리고 운동 후에도, 아이들 생일 파티에서도 자주 보이는 게 Apfelschorle예요. 달지 않고 시원해서 한 번 빠지면 계속 찾게 돼요. 🍎"
     ],
-    "quiz": {"q": "식당에서 돈 안 드는 수돗물을 한 잔 달라고 하고 싶어요. 뭐라고 할까요?", "o": ["Ein Glas Leitungswasser, bitte.", "Ein Mineralwasser, bitte.", "Ich habe keinen Durst."], "a": 0, "why": "Leitungswasser = 수돗물. Mineralwasser를 시키면 보통 돈을 내는 병물이 나와요."},
+    "quiz": {
+      "q": "식당에서 돈 안 드는 수돗물을 한 잔 달라고 하고 싶어요. 뭐라고 할까요?",
+      "o": [
+        "Ein Glas Leitungswasser, bitte.",
+        "Ein Mineralwasser, bitte.",
+        "Ich habe keinen Durst."
+      ],
+      "a": 0,
+      "why": "Leitungswasser = 수돗물. Mineralwasser를 시키면 보통 돈을 내는 병물이 나와요."
+    },
     "outro": "다음에 카페에 가면 오늘 단어로 독일어로 주문해 봐요. 처음이라면 Apfelschorle부터 추천해요! 🥤"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words are for ordering drinks in cafés and restaurants. With them you'll get exactly what you want — including the drink Germans love most! 🥤"
     ],
     "words": {
-      "A1-018": {"pron": "VASS-er", "tip": "A brother of English water 💧 The w sounds like v.", "warn": "In restaurants, plain Wasser usually means bottled water you pay for."},
-      "A1-057": {"pron": "TRING-ken", "tip": "The twin of drink 🍹 Just swap d for t.", "warn": "Irregular: trinken – trank – hat getrunken"},
-      "A2-139": {"pron": "guh-TRENK", "tip": "The noun from trinken 🥂 Something you trink is a Getränk!", "bonus": "On menus, the drinks section is usually called Getränke."},
-      "A1-020": {"pron": "KAF-ay", "tip": "From Arabic qahwa, via Turkish and French ☕ A long journey to der Kaffee!", "warn": "The drink is der Kaffee; the café is das Café."},
-      "A1-127": {"pron": "TAY", "tip": "From a southern Chinese word te, via Dutch 🍵 Just one long syllable.", "bonus": "herbal tea = der Kräutertee · green tea = der grüne Tee"},
-      "A1-128": {"pron": "ZAFT", "tip": "What you squeeze out of fruit 🍊 Orange + Saft = Orangensaft!", "warn": "Plural with umlaut: die Säfte"},
-      "A2-517": {"pron": "min-eh-RAHL-vass-er", "tip": "Mineral + Wasser 🫧 In Germany it's usually sparkling by default!", "bonus": "still water = stilles Wasser"},
-      "A2-219": {"pron": "DOORST", "tip": "Same root as thirst 🏜️ Swap th for d and you'll see it.", "warn": "Germans “have” thirst: Ich habe Durst."},
-      "B1-1916": {"pron": "LY-toongs-vass-er", "tip": "Leitung (pipe) + Wasser = water from the pipes 🚰 German tap water is safe to drink.", "bonus": "To order: Ein Glas Leitungswasser, bitte."},
-      "B2-2891": {"pron": "SHOR-luh", "tip": "Half juice + half sparkling water = Schorle 🍏 Germany's favourite soft drink!", "bonus": "Most popular: die Apfelschorle (in the south also das Schorle)"}
+      "A1-018": {
+        "pron": "VASS-er",
+        "tip": "A brother of English water 💧 The w sounds like v.",
+        "warn": "In restaurants, plain Wasser usually means bottled water you pay for."
+      },
+      "A1-057": {
+        "pron": "TRING-ken",
+        "tip": "The twin of drink 🍹 Just swap d for t.",
+        "warn": "Irregular: trinken – trank – hat getrunken"
+      },
+      "A2-139": {
+        "pron": "guh-TRENK",
+        "tip": "The noun from trinken 🥂 Something you trink is a Getränk!",
+        "bonus": "On menus, the drinks section is usually called Getränke."
+      },
+      "A1-020": {
+        "pron": "KAF-ay",
+        "tip": "From Arabic qahwa, via Turkish and French ☕ A long journey to der Kaffee!",
+        "warn": "The drink is der Kaffee; the café is das Café."
+      },
+      "A1-127": {
+        "pron": "TAY",
+        "tip": "From a southern Chinese word te, via Dutch 🍵 Just one long syllable.",
+        "bonus": "herbal tea = der Kräutertee · green tea = der grüne Tee"
+      },
+      "A1-128": {
+        "pron": "ZAFT",
+        "tip": "What you squeeze out of fruit 🍊 Orange + Saft = Orangensaft!",
+        "warn": "Plural with umlaut: die Säfte"
+      },
+      "A2-517": {
+        "pron": "min-eh-RAHL-vass-er",
+        "tip": "Mineral + Wasser 🫧 In Germany it's usually sparkling by default!",
+        "bonus": "still water = stilles Wasser"
+      },
+      "A2-219": {
+        "pron": "DOORST",
+        "tip": "Same root as thirst 🏜️ Swap th for d and you'll see it.",
+        "warn": "Germans “have” thirst: Ich habe Durst."
+      },
+      "B1-1916": {
+        "pron": "LY-toongs-vass-er",
+        "tip": "Leitung (pipe) + Wasser = water from the pipes 🚰 German tap water is safe to drink.",
+        "bonus": "To order: Ein Glas Leitungswasser, bitte."
+      },
+      "B2-2891": {
+        "pron": "SHOR-luh",
+        "tip": "Half juice + half sparkling water = Schorle 🍏 Germany's favourite soft drink!",
+        "bonus": "Most popular: die Apfelschorle (in the south also das Schorle)"
+      }
     },
     "culture": [
       "Water usually isn't free in German restaurants. If you just order Wasser, you'll often get a bottle of sparkling water. Some places will bring tap water if you ask, but it depends on the restaurant.",
       "Many plastic and glass bottles from the supermarket carry a deposit (Pfand). Put the empties into the machine at the supermarket and you get your money back — so don't throw them away!",
       "After sport, at children's parties, almost everywhere, you'll see Apfelschorle. It's refreshing, not too sweet, and very easy to get hooked on. 🍎"
     ],
-    "quiz": {"q": "In a restaurant you'd like a free glass of tap water. What do you say?", "o": ["Ein Glas Leitungswasser, bitte.", "Ein Mineralwasser, bitte.", "Ich habe keinen Durst."], "a": 0, "why": "Leitungswasser = tap water; Mineralwasser is usually bottled water you pay for."},
+    "quiz": {
+      "q": "In a restaurant you'd like a free glass of tap water. What do you say?",
+      "o": [
+        "Ein Glas Leitungswasser, bitte.",
+        "Ein Mineralwasser, bitte.",
+        "Ich habe keinen Durst."
+      ],
+      "a": 0,
+      "why": "Leitungswasser = tap water; Mineralwasser is usually bottled water you pay for."
+    },
     "outro": "Next time you're in a café, order in German with today's words. First time? Try an Apfelschorle! 🥤"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日はカフェやレストランですぐ使える飲み物の単語を10個集めました。これで飲みたいものをきちんと注文できます。ドイツ人が大好きなあの飲み物も！🥤"
     ],
     "words": {
-      "A1-018": {"pron": "ヴァッサー", "tip": "英語の water の兄弟 💧 w は [v] の音なので「ヴァッサー」！", "warn": "レストランでただ Wasser と頼むと、たいてい有料のボトルの水が出てきます。"},
-      "A1-057": {"pron": "トリンケン", "tip": "英語の drink とふたご 🍹 d を t に変えるだけ。", "warn": "不規則動詞：trinken – trank – hat getrunken"},
-      "A2-139": {"pron": "ゲトレンク", "tip": "trinken から生まれた名詞 🥂 飲む（trink）もの = Getränk！", "bonus": "メニューの飲み物コーナーはたいてい Getränke と書いてあります。"},
-      "A1-020": {"pron": "カフェ", "tip": "アラビア語 qahwa がトルコ、フランスを経てやってきました ☕ 長旅の末に der Kaffee！", "warn": "飲み物は der Kaffee、お店のカフェは das Café です。"},
-      "A1-127": {"pron": "テー", "tip": "中国南部の「テー」がオランダ経由で来ました 🍵 短く「テー」と伸ばすだけ！", "bonus": "ハーブティーは der Kräutertee、緑茶は der grüne Tee"},
-      "A1-128": {"pron": "ザフト", "tip": "果物をしぼると出てくる汁 🍊 Orange + Saft = Orangensaft！", "warn": "複数形はウムラウト：die Säfte"},
-      "A2-517": {"pron": "ミネラールヴァッサー", "tip": "Mineral + Wasser 🫧 ドイツではたいてい炭酸入りが基本です！", "bonus": "炭酸なしの水は stilles Wasser"},
-      "A2-219": {"pron": "ドゥルスト", "tip": "英語の thirst と同じ根っこ 🏜️ th を d に変えると見えてきます。", "warn": "「のどが渇いた」は Ich habe Durst.（haben を使います！）"},
-      "B1-1916": {"pron": "ライトゥングスヴァッサー", "tip": "Leitung（管）+ Wasser = 管から来る水 🚰 ドイツの水道水は飲めます。", "bonus": "注文するなら：Ein Glas Leitungswasser, bitte."},
-      "B2-2891": {"pron": "ショルレ", "tip": "ジュース半分 + 炭酸水半分 = Schorle 🍏 ドイツの国民的ドリンク！", "bonus": "いちばん人気は die Apfelschorle（南部では das Schorle とも）"}
+      "A1-018": {
+        "pron": "ヴァッサー",
+        "tip": "英語の water の兄弟 💧 w は [v] の音なので「ヴァッサー」！",
+        "warn": "レストランでただ Wasser と頼むと、たいてい有料のボトルの水が出てきます。"
+      },
+      "A1-057": {
+        "pron": "トリンケン",
+        "tip": "英語の drink とふたご 🍹 d を t に変えるだけ。",
+        "warn": "不規則動詞：trinken – trank – hat getrunken"
+      },
+      "A2-139": {
+        "pron": "ゲトレンク",
+        "tip": "trinken から生まれた名詞 🥂 飲む（trink）もの = Getränk！",
+        "bonus": "メニューの飲み物コーナーはたいてい Getränke と書いてあります。"
+      },
+      "A1-020": {
+        "pron": "カフェ",
+        "tip": "アラビア語 qahwa がトルコ、フランスを経てやってきました ☕ 長旅の末に der Kaffee！",
+        "warn": "飲み物は der Kaffee、お店のカフェは das Café です。"
+      },
+      "A1-127": {
+        "pron": "テー",
+        "tip": "中国南部の「テー」がオランダ経由で来ました 🍵 短く「テー」と伸ばすだけ！",
+        "bonus": "ハーブティーは der Kräutertee、緑茶は der grüne Tee"
+      },
+      "A1-128": {
+        "pron": "ザフト",
+        "tip": "果物をしぼると出てくる汁 🍊 Orange + Saft = Orangensaft！",
+        "warn": "複数形はウムラウト：die Säfte"
+      },
+      "A2-517": {
+        "pron": "ミネラールヴァッサー",
+        "tip": "Mineral + Wasser 🫧 ドイツではたいてい炭酸入りが基本です！",
+        "bonus": "炭酸なしの水は stilles Wasser"
+      },
+      "A2-219": {
+        "pron": "ドゥルスト",
+        "tip": "英語の thirst と同じ根っこ 🏜️ th を d に変えると見えてきます。",
+        "warn": "「のどが渇いた」は Ich habe Durst.（haben を使います！）"
+      },
+      "B1-1916": {
+        "pron": "ライトゥングスヴァッサー",
+        "tip": "Leitung（管）+ Wasser = 管から来る水 🚰 ドイツの水道水は飲めます。",
+        "bonus": "注文するなら：Ein Glas Leitungswasser, bitte."
+      },
+      "B2-2891": {
+        "pron": "ショルレ",
+        "tip": "ジュース半分 + 炭酸水半分 = Schorle 🍏 ドイツの国民的ドリンク！",
+        "bonus": "いちばん人気は die Apfelschorle（南部では das Schorle とも）"
+      }
     },
     "culture": [
       "ドイツのレストランでは、水はふつう無料ではありません。ただ Wasser と頼むと、ボトルの炭酸水が出てくることが多いです。頼めば水道水を出してくれるお店もありますが、お店しだいです。",
       "スーパーで買ったペットボトルやびんには、デポジット（Pfand）がついているものが多いです。空きびんをスーパーの機械に入れるとお金が戻ってくるので、捨てないでくださいね！",
       "スポーツのあとにも子どもの誕生日パーティーにも、よく登場するのが Apfelschorle。甘すぎずさっぱりしていて、一度はまるとやみつきになります。🍎"
     ],
-    "quiz": {"q": "レストランで無料の水道水を1杯もらいたいです。何と言いますか？", "o": ["Ein Glas Leitungswasser, bitte.", "Ein Mineralwasser, bitte.", "Ich habe keinen Durst."], "a": 0, "why": "Leitungswasser =「水道水」。Mineralwasser はふつう有料のボトルの水です。"},
+    "quiz": {
+      "q": "レストランで無料の水道水を1杯もらいたいです。何と言いますか？",
+      "o": [
+        "Ein Glas Leitungswasser, bitte.",
+        "Ein Mineralwasser, bitte.",
+        "Ich habe keinen Durst."
+      ],
+      "a": 0,
+      "why": "Leitungswasser =「水道水」。Mineralwasser はふつう有料のボトルの水です。"
+    },
     "outro": "次にカフェに行ったら、今日の単語を使ってドイツ語で注文してみましょう。初めてなら Apfelschorle がおすすめです！🥤"
+  },
+  "tr": {
+    "title": "Susadınız mı? İçecek sipariş etmek için 10 Almanca kelime",
+    "hook": "Alman bir restoranda “su” isteyip önünüze bir şişe maden suyu ve hesapta da ücreti geldiği oldu mu?",
+    "intro": [
+      "Alman bir restorana oturuyorsunuz ve garson soruyor: “Was möchten Sie trinken?” Su istiyorsunuz, gelen ise maden suyu… ve sonra hesapta karşınıza çıkıyor.",
+      "Bugünkü on kelime kafe ve restoranlarda içecek sipariş etmek için. Bunlarla tam istediğinizi alırsınız; Almanların en sevdiği içecek de dahil! 🥤"
+    ],
+    "words": {
+      "A1-018": {
+        "pron": "VAS-sır",
+        "tip": "İngilizce water'ın kardeşi 💧 w harfi “v” diye okunur.",
+        "warn": "Restoranlarda düz Wasser genellikle parayla satılan şişe su demektir."
+      },
+      "A1-057": {
+        "pron": "TRİN-ken",
+        "tip": "İngilizce drink'in ikizi 🍹 d yerine t koyun, o kadar.",
+        "warn": "Düzensiz: trinken – trank – hat getrunken"
+      },
+      "A2-139": {
+        "pron": "ge-TRENK",
+        "tip": "trinken'den türeyen isim 🥂 trinken ettiğiniz şey bir Getränk!",
+        "bonus": "Menülerde içecekler bölümü genelde Getränke diye geçer."
+      },
+      "A1-020": {
+        "pron": "KA-fe",
+        "tip": "Arapça qahwa'dan Türkçe ve Fransızca üzerinden gelmiş ☕ Bizim “kahve” de bu yolculuğun bir durağı!",
+        "warn": "İçecek der Kaffee; kafe ise das Café."
+      },
+      "A1-127": {
+        "pron": "TEE",
+        "tip": "Güney Çin'deki te kelimesinden, Felemenkçe üzerinden gelmiş 🍵 Tek ve uzun bir hece.",
+        "bonus": "bitki çayı = der Kräutertee · yeşil çay = der grüne Tee"
+      },
+      "A1-128": {
+        "pron": "ZAFT",
+        "tip": "Meyveden sıktığınız şey 🍊 Orange + Saft = Orangensaft!",
+        "warn": "Çoğulda umlaut gelir: die Säfte"
+      },
+      "A2-517": {
+        "pron": "mi-ne-RAL-vas-sır",
+        "tip": "Mineral + Wasser 🫧 Almanya'da varsayılan olarak genelde gazlıdır!",
+        "bonus": "gazsız su = stilles Wasser"
+      },
+      "A2-219": {
+        "pron": "DURST",
+        "tip": "İngilizce thirst ile aynı kökten 🏜️ th yerine d koyunca görürsünüz.",
+        "warn": "Almancada susuzluk “sahip olunan” bir şeydir: Ich habe Durst."
+      },
+      "B1-1916": {
+        "pron": "LAY-tunks-vas-sır",
+        "tip": "Leitung (boru, şebeke) + Wasser = borulardan gelen su 🚰 Almanya'da musluk suyu içilebilir.",
+        "bonus": "Sipariş etmek için: Ein Glas Leitungswasser, bitte."
+      },
+      "B2-2891": {
+        "pron": "ŞOR-le",
+        "tip": "Yarısı meyve suyu + yarısı maden suyu = Schorle 🍏 Almanya'nın gözde meşrubatı!",
+        "bonus": "En popüleri: die Apfelschorle (güneyde das Schorle da denir)"
+      }
+    },
+    "culture": [
+      "Alman restoranlarında su genellikle ücretsiz değildir. Sadece Wasser derseniz çoğu zaman bir şişe maden suyu gelir. Bazı yerler isterseniz musluk suyu getirir, ama bu restorana göre değişir.",
+      "Süpermarketteki pek çok plastik ve cam şişenin depozitosu (Pfand) vardır. Boşları süpermarketteki makineye atarsanız paranızı geri alırsınız; o yüzden çöpe atmayın!",
+      "Spordan sonra, çocuk doğum günlerinde, neredeyse her yerde Apfelschorle görürsünüz. Ferahlatıcıdır, çok şekerli değildir ve insan buna çok kolay alışır. 🍎"
+    ],
+    "quiz": {
+      "q": "Restoranda ücretsiz bir bardak musluk suyu istiyorsunuz. Ne dersiniz?",
+      "o": [
+        "Ein Glas Leitungswasser, bitte.",
+        "Ein Mineralwasser, bitte.",
+        "Ich habe keinen Durst."
+      ],
+      "a": 0,
+      "why": "Leitungswasser = musluk suyu; Mineralwasser ise genellikle parayla alınan şişe sudur."
+    },
+    "outro": "Bir dahaki sefere kafeye gittiğinizde bugünkü kelimelerle Almanca sipariş verin. İlk kez mi? Bir Apfelschorle deneyin! 🥤"
   }
 }

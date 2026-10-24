@@ -8,23 +8,72 @@
       "오늘은 독일의 대표 요리와 메뉴판 단어 10개예요. 이걸 알면 메뉴판을 보고 뭘 시킬지 고를 수 있고, 독일 친구 집 밥상 이야기도 알아들을 수 있어요. 🍖"
     ],
     "words": {
-      "B1-1115": {"pron": "슈니첼", "tip": "schnitzen(깎다)에서 왔어요 🔪 얇게 깎아 낸 고기를 튀긴 게 Schnitzel!", "warn": "복수도 그대로 die Schnitzel이에요. -s를 붙이지 않아요."},
-      "A1-024": {"pron": "카르토펠", "tip": "원래 이탈리아어 ‘송로버섯’에서 왔대요 🥔 땅속에서 캐니까 헷갈렸나 봐요!", "bonus": "감자 샐러드 = der Kartoffelsalat · 으깬 감자 = der Kartoffelbrei"},
-      "B1-863": {"pron": "크뇌델", "tip": "Knoten(매듭)처럼 동그랗게 뭉친 경단 🧶", "warn": "남부·오스트리아에서는 Knödel, 다른 지역에서는 der Kloß라고도 해요."},
-      "B1-1156": {"pron": "조세", "tip": "프랑스어 sauce가 독일식 철자로 변신 🥫 Sauce라고 써도 맞아요.", "bonus": "고기 요리에 곁들이는 진한 소스 = die Bratensoße"},
-      "B2-2892": {"pron": "아인토프", "tip": "ein(하나) + Topf(냄비) = 냄비 하나에 다 넣고 끓이기 🍲", "bonus": "자주 보는 종류: Linseneintopf(렌틸), Erbseneintopf(완두콩)"},
-      "A2-137": {"pron": "주페", "tip": "영어 soup와 쌍둥이 🥣 -e로 끝나니까 die!", "bonus": "‘수프를 먹다’는 trinken이 아니라 essen: Ich esse eine Suppe."},
-      "A2-948": {"pron": "판쿠헨", "tip": "Pfanne(프라이팬) + Kuchen(케이크) = 팬에 굽는 케이크 🥞", "warn": "베를린에서 Pfannkuchen을 시키면 잼 든 도넛이 나와요!"},
-      "B2-2453": {"pron": "하웁트게리히트", "tip": "Haupt(주된) + Gericht(요리) = 오늘의 주인공 요리 🍽️", "bonus": "오늘의 요리 = das Tagesgericht"},
-      "B2-2452": {"pron": "바이라게", "tip": "bei(곁에) + legen(놓다) = 옆에 놓는 음식 🍟", "bonus": "주문할 때: Welche Beilage möchten Sie? (곁들이는 뭘로 하시겠어요?)"},
-      "C2-3322": {"pron": "데프티히", "tip": "든든하고 짭짤하고 기름진 음식에 딱인 형용사 🥓", "bonus": "명사처럼: etwas Deftiges = 뭔가 든든한 것"}
+      "B1-1115": {
+        "pron": "슈니첼",
+        "tip": "schnitzen(깎다)에서 왔어요 🔪 얇게 깎아 낸 고기를 튀긴 게 Schnitzel!",
+        "warn": "복수도 그대로 die Schnitzel이에요. -s를 붙이지 않아요."
+      },
+      "A1-024": {
+        "pron": "카르토펠",
+        "tip": "원래 이탈리아어 ‘송로버섯’에서 왔대요 🥔 땅속에서 캐니까 헷갈렸나 봐요!",
+        "bonus": "감자 샐러드 = der Kartoffelsalat · 으깬 감자 = der Kartoffelbrei"
+      },
+      "B1-863": {
+        "pron": "크뇌델",
+        "tip": "Knoten(매듭)처럼 동그랗게 뭉친 경단 🧶",
+        "warn": "남부·오스트리아에서는 Knödel, 다른 지역에서는 der Kloß라고도 해요."
+      },
+      "B1-1156": {
+        "pron": "조세",
+        "tip": "프랑스어 sauce가 독일식 철자로 변신 🥫 Sauce라고 써도 맞아요.",
+        "bonus": "고기 요리에 곁들이는 진한 소스 = die Bratensoße"
+      },
+      "B2-2892": {
+        "pron": "아인토프",
+        "tip": "ein(하나) + Topf(냄비) = 냄비 하나에 다 넣고 끓이기 🍲",
+        "bonus": "자주 보는 종류: Linseneintopf(렌틸), Erbseneintopf(완두콩)"
+      },
+      "A2-137": {
+        "pron": "주페",
+        "tip": "영어 soup와 쌍둥이 🥣 -e로 끝나니까 die!",
+        "bonus": "‘수프를 먹다’는 trinken이 아니라 essen: Ich esse eine Suppe."
+      },
+      "A2-948": {
+        "pron": "판쿠헨",
+        "tip": "Pfanne(프라이팬) + Kuchen(케이크) = 팬에 굽는 케이크 🥞",
+        "warn": "베를린에서 Pfannkuchen을 시키면 잼 든 도넛이 나와요!"
+      },
+      "B2-2453": {
+        "pron": "하웁트게리히트",
+        "tip": "Haupt(주된) + Gericht(요리) = 오늘의 주인공 요리 🍽️",
+        "bonus": "오늘의 요리 = das Tagesgericht"
+      },
+      "B2-2452": {
+        "pron": "바이라게",
+        "tip": "bei(곁에) + legen(놓다) = 옆에 놓는 음식 🍟",
+        "bonus": "주문할 때: Welche Beilage möchten Sie? (곁들이는 뭘로 하시겠어요?)"
+      },
+      "C2-3322": {
+        "pron": "데프티히",
+        "tip": "든든하고 짭짤하고 기름진 음식에 딱인 형용사 🥓",
+        "bonus": "명사처럼: etwas Deftiges = 뭔가 든든한 것"
+      }
     },
     "culture": [
       "독일 음식은 지역마다 정말 달라요. 남부 바이에른에서는 돼지고기 구이에 Knödel을, 슈바벤 지방에서는 계란 국수 Spätzle를, 베를린에서는 Currywurst를 즐겨 먹어요. 여행할 때 그 지역 대표 요리를 먹어 보는 재미가 있어요.",
       "같은 음식도 지역마다 이름이 달라요. 잼 든 도넛은 많은 지역에서 Berliner라고 하지만, 베를린에서는 Pfannkuchen, 남부에서는 Krapfen이라고 불러요.",
       "그리고 전통적으로 따뜻한 요리는 점심에 먹고, 저녁은 빵과 치즈, 햄으로 간단히 먹는 Abendbrot 문화가 있어요. 요즘은 집집마다 다르지만요. 🍞"
     ],
-    "quiz": {"q": "슈니첼을 시켰더니 웨이터가 ‘Und als Beilage?’라고 물어요. 어떻게 대답할까요?", "o": ["Ein Schnitzel, bitte.", "Die Suppe ist heiß.", "Kartoffelsalat, bitte."], "a": 2, "why": "Beilage는 곁들이 음식이라서 Kartoffelsalat처럼 곁들일 걸 말하면 돼요."},
+    "quiz": {
+      "q": "슈니첼을 시켰더니 웨이터가 ‘Und als Beilage?’라고 물어요. 어떻게 대답할까요?",
+      "o": [
+        "Ein Schnitzel, bitte.",
+        "Die Suppe ist heiß.",
+        "Kartoffelsalat, bitte."
+      ],
+      "a": 2,
+      "why": "Beilage는 곁들이 음식이라서 Kartoffelsalat처럼 곁들일 걸 말하면 돼요."
+    },
     "outro": "오늘 저녁 메뉴를 독일어로 말해 봐요. ‘Heute gibt es…’로 시작하면 돼요. Guten Appetit! 🍽️"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words are classic German dishes and the menu words around them. With them you can choose confidently from a menu and follow along when German friends talk about home cooking. 🍖"
     ],
     "words": {
-      "B1-1115": {"pron": "SHNIT-sel", "tip": "From schnitzen (to carve) 🔪 A thin slice of meat, breaded and fried.", "warn": "The plural is also die Schnitzel — no -s."},
-      "A1-024": {"pron": "kar-TOF-el", "tip": "It comes from the Italian word for truffle 🥔 Both are dug out of the ground!", "bonus": "potato salad = der Kartoffelsalat · mashed potato = der Kartoffelbrei"},
-      "B1-863": {"pron": "KNUR-del", "tip": "Related to Knoten (knot) — a dough ball tied into a tight round 🧶", "warn": "Knödel is southern and Austrian; elsewhere you'll also hear der Kloß."},
-      "B1-1156": {"pron": "ZOH-suh", "tip": "French sauce with a German spelling 🥫 Sauce is also correct.", "bonus": "the rich gravy served with roasts = die Bratensoße"},
-      "B2-2892": {"pron": "INE-topf", "tip": "ein (one) + Topf (pot) = everything in one pot 🍲", "bonus": "Common kinds: Linseneintopf (lentil), Erbseneintopf (pea)"},
-      "A2-137": {"pron": "ZOOP-uh", "tip": "A twin of English soup 🥣 Ends in -e, so die.", "bonus": "You ‘eat’ soup in German: Ich esse eine Suppe."},
-      "A2-948": {"pron": "PFAN-koo-khen", "tip": "Pfanne (pan) + Kuchen (cake) = pan cake, literally 🥞", "warn": "Order a Pfannkuchen in Berlin and you'll get a jam doughnut!"},
-      "B2-2453": {"pron": "HOWPT-guh-risht", "tip": "Haupt (main) + Gericht (dish) = the star of the meal 🍽️", "bonus": "dish of the day = das Tagesgericht"},
-      "B2-2452": {"pron": "BY-lah-guh", "tip": "bei (beside) + legen (to lay) = what's laid beside the main dish 🍟", "bonus": "The waiter may ask: Welche Beilage möchten Sie?"},
-      "C2-3322": {"pron": "DEF-tikh", "tip": "The word for hearty, salty, filling food 🥓", "bonus": "As a noun: etwas Deftiges = something hearty"}
+      "B1-1115": {
+        "pron": "SHNIT-sel",
+        "tip": "From schnitzen (to carve) 🔪 A thin slice of meat, breaded and fried.",
+        "warn": "The plural is also die Schnitzel — no -s."
+      },
+      "A1-024": {
+        "pron": "kar-TOF-el",
+        "tip": "It comes from the Italian word for truffle 🥔 Both are dug out of the ground!",
+        "bonus": "potato salad = der Kartoffelsalat · mashed potato = der Kartoffelbrei"
+      },
+      "B1-863": {
+        "pron": "KNUR-del",
+        "tip": "Related to Knoten (knot) — a dough ball tied into a tight round 🧶",
+        "warn": "Knödel is southern and Austrian; elsewhere you'll also hear der Kloß."
+      },
+      "B1-1156": {
+        "pron": "ZOH-suh",
+        "tip": "French sauce with a German spelling 🥫 Sauce is also correct.",
+        "bonus": "the rich gravy served with roasts = die Bratensoße"
+      },
+      "B2-2892": {
+        "pron": "INE-topf",
+        "tip": "ein (one) + Topf (pot) = everything in one pot 🍲",
+        "bonus": "Common kinds: Linseneintopf (lentil), Erbseneintopf (pea)"
+      },
+      "A2-137": {
+        "pron": "ZOOP-uh",
+        "tip": "A twin of English soup 🥣 Ends in -e, so die.",
+        "bonus": "You ‘eat’ soup in German: Ich esse eine Suppe."
+      },
+      "A2-948": {
+        "pron": "PFAN-koo-khen",
+        "tip": "Pfanne (pan) + Kuchen (cake) = pan cake, literally 🥞",
+        "warn": "Order a Pfannkuchen in Berlin and you'll get a jam doughnut!"
+      },
+      "B2-2453": {
+        "pron": "HOWPT-guh-risht",
+        "tip": "Haupt (main) + Gericht (dish) = the star of the meal 🍽️",
+        "bonus": "dish of the day = das Tagesgericht"
+      },
+      "B2-2452": {
+        "pron": "BY-lah-guh",
+        "tip": "bei (beside) + legen (to lay) = what's laid beside the main dish 🍟",
+        "bonus": "The waiter may ask: Welche Beilage möchten Sie?"
+      },
+      "C2-3322": {
+        "pron": "DEF-tikh",
+        "tip": "The word for hearty, salty, filling food 🥓",
+        "bonus": "As a noun: etwas Deftiges = something hearty"
+      }
     },
     "culture": [
       "German food is very regional. In Bavaria people love roast pork with Knödel, in Swabia it's egg noodles called Spätzle, and Berlin is famous for Currywurst. Trying the local speciality is half the fun of travelling.",
       "Even the names change from region to region. A jam doughnut is a Berliner in much of the country, but in Berlin it's a Pfannkuchen and in the south a Krapfen.",
       "Traditionally the hot meal was at lunchtime, and the evening meal was Abendbrot: bread, cheese and cold meats. Many families still do this, though habits vary a lot today. 🍞"
     ],
-    "quiz": {"q": "You order a schnitzel and the waiter asks ‘Und als Beilage?’. What do you answer?", "o": ["Ein Schnitzel, bitte.", "Die Suppe ist heiß.", "Kartoffelsalat, bitte."], "a": 2, "why": "A Beilage is a side dish, so you name something like Kartoffelsalat."},
+    "quiz": {
+      "q": "You order a schnitzel and the waiter asks ‘Und als Beilage?’. What do you answer?",
+      "o": [
+        "Ein Schnitzel, bitte.",
+        "Die Suppe ist heiß.",
+        "Kartoffelsalat, bitte."
+      ],
+      "a": 2,
+      "why": "A Beilage is a side dish, so you name something like Kartoffelsalat."
+    },
     "outro": "Say what you're having for dinner tonight in German, starting with ‘Heute gibt es…’. Guten Appetit! 🍽️"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日はドイツの代表的な料理とメニューによく出る単語を10個集めました。これがあればメニューから自信を持って選べて、ドイツ人の友だちの家庭料理の話にもついていけます。🍖"
     ],
     "words": {
-      "B1-1115": {"pron": "シュニッツェル", "tip": "schnitzen（削る）から 🔪 薄く削いだ肉を揚げたのが Schnitzel！", "warn": "複数形も die Schnitzel のまま。-s はつけません。"},
-      "A1-024": {"pron": "カルトッフェル", "tip": "もとはイタリア語の「トリュフ」から 🥔 どちらも土から掘り出すからかも！", "bonus": "ポテトサラダ = der Kartoffelsalat、マッシュポテト = der Kartoffelbrei"},
-      "B1-863": {"pron": "クネーデル", "tip": "Knoten（結び目）のように丸めたお団子 🧶", "warn": "Knödel は南ドイツ・オーストリアの言い方。ほかの地域では der Kloß とも言います。"},
-      "B1-1156": {"pron": "ゾーセ", "tip": "フランス語の sauce がドイツ風のつづりに 🥫 Sauce と書いても正解です。", "bonus": "ロースト肉にかける濃いソース = die Bratensoße"},
-      "B2-2892": {"pron": "アイントプフ", "tip": "ein（ひとつ）+ Topf（鍋）= 鍋ひとつで全部煮込む 🍲", "bonus": "よくある種類：Linseneintopf（レンズ豆）、Erbseneintopf（えんどう豆）"},
-      "A2-137": {"pron": "ズッペ", "tip": "英語の soup とそっくり 🥣 -e で終わるので die！", "bonus": "スープは「食べる」：Ich esse eine Suppe."},
-      "A2-948": {"pron": "プファンクーヘン", "tip": "Pfanne（フライパン）+ Kuchen（ケーキ）= フライパンで焼くケーキ 🥞", "warn": "ベルリンで Pfannkuchen を頼むとジャム入りドーナツが出てきます！"},
-      "B2-2453": {"pron": "ハウプトゲリヒト", "tip": "Haupt（主な）+ Gericht（料理）= 食事の主役 🍽️", "bonus": "日替わり料理 = das Tagesgericht"},
-      "B2-2452": {"pron": "バイラーゲ", "tip": "bei（そばに）+ legen（置く）= メインのそばに置くもの 🍟", "bonus": "注文時に聞かれるひとこと：Welche Beilage möchten Sie?"},
-      "C2-3322": {"pron": "デフティヒ", "tip": "しょっぱくて、こってり、おなかにたまる料理にぴったりの形容詞 🥓", "bonus": "名詞のように：etwas Deftiges = 何かがっつりしたもの"}
+      "B1-1115": {
+        "pron": "シュニッツェル",
+        "tip": "schnitzen（削る）から 🔪 薄く削いだ肉を揚げたのが Schnitzel！",
+        "warn": "複数形も die Schnitzel のまま。-s はつけません。"
+      },
+      "A1-024": {
+        "pron": "カルトッフェル",
+        "tip": "もとはイタリア語の「トリュフ」から 🥔 どちらも土から掘り出すからかも！",
+        "bonus": "ポテトサラダ = der Kartoffelsalat、マッシュポテト = der Kartoffelbrei"
+      },
+      "B1-863": {
+        "pron": "クネーデル",
+        "tip": "Knoten（結び目）のように丸めたお団子 🧶",
+        "warn": "Knödel は南ドイツ・オーストリアの言い方。ほかの地域では der Kloß とも言います。"
+      },
+      "B1-1156": {
+        "pron": "ゾーセ",
+        "tip": "フランス語の sauce がドイツ風のつづりに 🥫 Sauce と書いても正解です。",
+        "bonus": "ロースト肉にかける濃いソース = die Bratensoße"
+      },
+      "B2-2892": {
+        "pron": "アイントプフ",
+        "tip": "ein（ひとつ）+ Topf（鍋）= 鍋ひとつで全部煮込む 🍲",
+        "bonus": "よくある種類：Linseneintopf（レンズ豆）、Erbseneintopf（えんどう豆）"
+      },
+      "A2-137": {
+        "pron": "ズッペ",
+        "tip": "英語の soup とそっくり 🥣 -e で終わるので die！",
+        "bonus": "スープは「食べる」：Ich esse eine Suppe."
+      },
+      "A2-948": {
+        "pron": "プファンクーヘン",
+        "tip": "Pfanne（フライパン）+ Kuchen（ケーキ）= フライパンで焼くケーキ 🥞",
+        "warn": "ベルリンで Pfannkuchen を頼むとジャム入りドーナツが出てきます！"
+      },
+      "B2-2453": {
+        "pron": "ハウプトゲリヒト",
+        "tip": "Haupt（主な）+ Gericht（料理）= 食事の主役 🍽️",
+        "bonus": "日替わり料理 = das Tagesgericht"
+      },
+      "B2-2452": {
+        "pron": "バイラーゲ",
+        "tip": "bei（そばに）+ legen（置く）= メインのそばに置くもの 🍟",
+        "bonus": "注文時に聞かれるひとこと：Welche Beilage möchten Sie?"
+      },
+      "C2-3322": {
+        "pron": "デフティヒ",
+        "tip": "しょっぱくて、こってり、おなかにたまる料理にぴったりの形容詞 🥓",
+        "bonus": "名詞のように：etwas Deftiges = 何かがっつりしたもの"
+      }
     },
     "culture": [
       "ドイツ料理は地域ごとにかなり違います。バイエルンでは豚のローストに Knödel、シュヴァーベン地方では卵の麺 Spätzle、ベルリンでは Currywurst が有名です。旅先でその土地の名物を食べるのも楽しみのひとつです。",
       "同じ食べ物でも呼び名が変わります。ジャム入りドーナツは多くの地域で Berliner と呼ばれますが、ベルリンでは Pfannkuchen、南部では Krapfen です。",
       "また伝統的には温かい料理は昼に食べ、夜はパンとチーズ、ハムで軽く済ませる Abendbrot の習慣があります。今は家庭によってさまざまですが。🍞"
     ],
-    "quiz": {"q": "シュニッツェルを頼んだら、ウェイターに「Und als Beilage?」と聞かれました。何と答えますか？", "o": ["Ein Schnitzel, bitte.", "Die Suppe ist heiß.", "Kartoffelsalat, bitte."], "a": 2, "why": "Beilage は付け合わせなので、Kartoffelsalat のように添えるものを答えます。"},
+    "quiz": {
+      "q": "シュニッツェルを頼んだら、ウェイターに「Und als Beilage?」と聞かれました。何と答えますか？",
+      "o": [
+        "Ein Schnitzel, bitte.",
+        "Die Suppe ist heiß.",
+        "Kartoffelsalat, bitte."
+      ],
+      "a": 2,
+      "why": "Beilage は付け合わせなので、Kartoffelsalat のように添えるものを答えます。"
+    },
     "outro": "今夜の晩ごはんを「Heute gibt es…」で始めてドイツ語で言ってみましょう。Guten Appetit! 🍽️"
+  },
+  "tr": {
+    "title": "Sosisin ötesi: Almanya'nın 10 klasik yemeği",
+    "hook": "Alman mutfağı sadece sosis ve biradan mı ibaret sanıyorsunuz? Gerçek bir menü açın, fikriniz değişecek.",
+    "intro": [
+      "Güney Almanya'da bir köy lokantasında menü Knödel, Eintopf, Beilage gibi kelimelerle dolu. Riske girmeyip bildiğiniz tek kelimeyi, Schnitzel'i sipariş ediyorsunuz; gözünüz ise yan masadaki yuvarlak hamur toplarında.",
+      "Bugünkü on kelime klasik Alman yemekleri ve etrafındaki menü kelimeleri. Bunlarla menüden rahatça seçim yapabilir, Alman arkadaşlarınız ev yemeklerinden söz ettiğinde sohbete katılabilirsiniz. 🍖"
+    ],
+    "words": {
+      "B1-1115": {
+        "pron": "ŞNİT-sel",
+        "tip": "schnitzen (oymak, yontmak) fiilinden 🔪 İnce bir et dilimi, pane edilip kızartılmış.",
+        "warn": "Çoğulu da die Schnitzel; -s eklenmez."
+      },
+      "A1-024": {
+        "pron": "kar-TOF-el",
+        "tip": "İtalyancada yer mantarı anlamına gelen kelimeden gelir 🥔 İkisi de topraktan çıkarılır!",
+        "bonus": "patates salatası = der Kartoffelsalat · patates püresi = der Kartoffelbrei"
+      },
+      "B1-863": {
+        "pron": "KNÖ-del",
+        "tip": "Knoten (düğüm) ile akraba; sımsıkı yuvarlanmış bir hamur topu 🧶",
+        "warn": "Knödel güneyde ve Avusturya'da kullanılır; başka yerlerde der Kloß da duyarsınız."
+      },
+      "B1-1156": {
+        "pron": "ZO-se",
+        "tip": "Fransızca sauce, Alman yazımıyla 🥫 Sauce yazımı da doğrudur.",
+        "bonus": "kızartmalarla servis edilen koyu et sosu = die Bratensoße"
+      },
+      "B2-2892": {
+        "pron": "AYN-topf",
+        "tip": "ein (bir) + Topf (tencere) = her şey tek tencerede, tıpkı bizim tencere yemekleri gibi 🍲",
+        "bonus": "Yaygın çeşitleri: Linseneintopf (mercimek), Erbseneintopf (bezelye)"
+      },
+      "A2-137": {
+        "pron": "ZUP-pe",
+        "tip": "İngilizce soup'un ikizi 🥣 -e ile bitiyor, o yüzden die.",
+        "bonus": "Almancada da çorba “yenir”, tıpkı Türkçedeki gibi: Ich esse eine Suppe."
+      },
+      "A2-948": {
+        "pron": "PFAN-ku-hen",
+        "tip": "Pfanne (tava) + Kuchen (kek) = kelimesi kelimesine tava keki 🥞",
+        "warn": "Berlin'de Pfannkuchen isterseniz önünüze reçelli bir pişi gelir!"
+      },
+      "B2-2453": {
+        "pron": "HAUPT-ge-riht",
+        "tip": "Haupt (ana) + Gericht (yemek) = sofranın yıldızı 🍽️",
+        "bonus": "günün yemeği = das Tagesgericht"
+      },
+      "B2-2452": {
+        "pron": "BAY-la-ge",
+        "tip": "bei (yanına) + legen (koymak) = ana yemeğin yanına konan şey 🍟",
+        "bonus": "Garson şöyle sorabilir: Welche Beilage möchten Sie?"
+      },
+      "C2-3322": {
+        "pron": "DEF-tih",
+        "tip": "Doyurucu, tuzlu, “ağır” yemekler için kullanılan kelime 🥓",
+        "bonus": "İsim olarak: etwas Deftiges = doyurucu bir şey"
+      }
+    },
+    "culture": [
+      "Alman mutfağı çok bölgeseldir. Bavyera'da insanlar Knödel'li domuz kızartmasını sever, Swabya'da Spätzle denen yumurtalı erişte vardır, Berlin ise Currywurst ile ünlüdür. Yerel lezzeti denemek seyahatin keyfinin yarısıdır.",
+      "Adlar bile bölgeden bölgeye değişir. Reçelli pişiye ülkenin büyük kısmında Berliner denir; ama Berlin'de adı Pfannkuchen, güneyde ise Krapfen'dir.",
+      "Geleneksel olarak sıcak yemek öğlen yenirdi; akşam yemeği ise Abendbrot'tu: ekmek, peynir ve soğuk etler. Pek çok aile bunu hâlâ sürdürüyor, ama günümüzde alışkanlıklar epey farklılık gösteriyor. 🍞"
+    ],
+    "quiz": {
+      "q": "Şnitzel sipariş ediyorsunuz ve garson ‘Und als Beilage?’ diye soruyor. Ne cevap verirsiniz?",
+      "o": [
+        "Ein Schnitzel, bitte.",
+        "Die Suppe ist heiß.",
+        "Kartoffelsalat, bitte."
+      ],
+      "a": 2,
+      "why": "Beilage yan yemek demektir, o yüzden Kartoffelsalat gibi bir şey söylersiniz."
+    },
+    "outro": "Bu akşam ne yiyeceğinizi Almanca söyleyin; ‘Heute gibt es…’ ile başlayın. Guten Appetit! 🍽️"
   }
 }

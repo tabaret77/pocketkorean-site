@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "新しいクラスメートに「あなたもこのドイツ語コースに参加してるの？」と聞きたいです。", "o": ["Nimmst du auch an dem Deutschkurs teil?", "Integrierst du auch den Deutschkurs?", "Nimmst du auch den Deutschkurs an?"], "a": 0, "why": "teilnehmen は an + 3格と使い、teil は文の最後に来ます。"},
     "outro": "今日は「Ich mache einen Deutschkurs an der Volkshochschule.」で自己紹介を声に出してみましょう。みんなで Niveau アップを目指しましょう！💪"
+  },
+  "tr": {
+    "title": "Dil kursunun ilk günü için 10 Almanca kelime",
+    "hook": "Almanca kursunun ilk gününde öğretmeni anlamak zaten dersin ta kendisi.",
+    "intro": [
+      "Yeni bir sınıf, hiç görmediğiniz yüzler ve tahtanın önünde size ‘Welches Niveau haben Sie?’ diye soran bir öğretmen. Bir anda kafanız bomboş kalıyor.",
+      "Bugün dil okulunda ya da uyum kursunda her gün duyacağınız 10 kelimeyi topladık. Bu kelimelerle kursa kaydolmak, seviye testini geçmek ve sınıf arkadaşlarınızla sohbet etmek çok daha kolay olacak. 📚"
+    ],
+    "words": {
+      "B2-636": {"pron": "in-teg-ra-TSYONS-kurs", "tip": "Integration + s + Kurs: ortadaki o küçük s, Almancanın kelime yapıştırıcısı 🧩", "bonus": "Kursun sonundaki sınavda „Leben in Deutschland“ (Almanya'da Yaşam) testi de var."},
+      "A2-103": {"pron": "KURS", "tip": "Türkçedeki kurs ile aynı kelime, kökü Latince ‘koşu’ 🏃 Kurs da baştan sona koşulan bir yol!", "bonus": "dil kursu = der Sprachkurs · Almanca kursu = der Deutschkurs"},
+      "A1-151": {"pron": "ŞPRA-he", "tip": "sprechen (konuşmak) fiilinin isim hâli 🗣️ Konuştuğunuz şey = dil!", "bonus": "ana dili = die Muttersprache"},
+      "B1-1944": {"pron": "FOLKS-hoh-şu-le", "tip": "Volk (halk) + Hochschule (yüksekokul) = herkes için bir okul 🏫 Herkes kısaca VHS der.", "warn": "Üniversite değildir; herkesin katılabildiği bir yetişkin eğitim merkezidir."},
+      "B1-1855": {"pron": "ni-VO", "tip": "Fransızca kelime, Fransızca okunuş 🥐 Sondaki eau sadece ‘o’ diye okunur.", "bonus": "Welches Niveau hast du? = Hangi seviyedesin?"},
+      "A2-274": {"pron": "TEST", "tip": "Türkçedeki test ile aynı; hiçbir dilde testten kaçış yok 📝", "warn": "Almancada test ‘yazılır’: einen Test schreiben (ya da machen)."},
+      "B1-064": {"pron": "TAYL-ne-men", "tip": "Teil (parça) + nehmen (almak) = kelimesi kelimesine ‘pay almak’ 🙋", "warn": "Ayrılabilen fiil, an + Dativ ile kullanılır: Ich nehme an dem Kurs teil."},
+      "B1-892": {"pron": "KURS-lay-ter", "tip": "Kurs + Leiter (yöneten) = kursu yöneten kişi 👩‍🏫", "bonus": "Kadın öğretmen die Kursleiterin; birçok kişi kısaca Lehrer der."},
+      "B1-812": {"pron": "in-ten-ZİF-kurs", "tip": "Türkçedeki ‘yoğun’un Batı dillerindeki kardeşi intensiv 🔥 Her gün saatlerce Almanca!", "bonus": "Haftada bir iki kez yapılan kurslar çoğu zaman Abendkurs (akşam kursu) olur."},
+      "B1-809": {"pron": "in-teg-Rİ-ren", "tip": "Latince integer (bütün) kökünden: bütünün parçası olmak 🤝 -ieren ile biten fiiller Perfekt'te ge- almaz.", "bonus": "sich integrieren = uyum sağlamak, alışmak"}
+    },
+    "culture": [
+      "Almanya'daki uyum kursu (Integrationskurs) iki bölümden oluşur: B1 seviyesini hedefleyen bir dil kursu ve siyaset, tarih ve toplum üzerine bir ‘oryantasyon kursu’. Oturum durumunuza göre zorunlu olabilir ya da katılmak için başvurabilirsiniz.",
+      "Kurs bulmanın en kolay yolu Volkshochschule'dür. Neredeyse her şehirde bir tane vardır ve Almancanın yanında yemek, yoga ve başka diller de sunarlar. Genellikle özel okullardan daha ucuzdur.",
+      "Derste insanlar çoğu zaman birbirine ilk adıyla hitap eder ve öğretmene du der, ama bu gruba göre değişir. İlk gün diğerlerinin nasıl yaptığına bakın. ☕"
+    ],
+    "quiz": {"q": "Yeni bir sınıf arkadaşınıza ‘Sen de bu Almanca kursuna mı katılıyorsun?’ diye sormak istiyorsunuz.", "o": ["Nimmst du auch an dem Deutschkurs teil?", "Integrierst du auch den Deutschkurs?", "Nimmst du auch den Deutschkurs an?"], "a": 0, "why": "teilnehmen, an + Dativ ile kullanılır ve teil cümlenin sonuna gider."},
+    "outro": "‘Ich mache einen Deutschkurs an der Volkshochschule.’ cümlesiyle kendinizi yüksek sesle tanıtın. Niveau'nuz hep yükselsin! 💪"
   }
 }

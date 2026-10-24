@@ -224,5 +224,80 @@
       "why": "Mein Kopf tut weh. = 頭が痛いです。痛いところ + tut weh で答えればOKです。"
     },
     "outro": "鏡の前で「Mir tut der Hals weh.」のように、痛いところを3つドイツ語で言ってみましょう。本番で使う日が来ないといいですね！🍀"
+  },
+  "tr": {
+    "title": "Almanya'da doktora giderken sizi kurtaracak 10 kelime",
+    "hook": "Danışmadaki görevlinin söylediğini kaçırmak, daha doktoru görmeden sizi yorabilir.",
+    "intro": [
+      "Praxis'in kapısını açıyorsunuz ve görevli hemen bir soru yöneltiyor. Sigorta kartınızı uzatıyor, bekleme odasına oturuyor ve heyecanla adınızın okunmasını bekliyorsunuz. Sonra doktor soruyor: “Wo tut es weh?” Şimdi ne olacak?",
+      "Bugünkü on kelime doktorda gerçekten duyacağınız ve söyleyeceğiniz kelimeler. Muayene saatlerini öğrenebilecek, nerenizin ağrıdığını anlatabilecek ve rapor alabileceksiniz. 🏥"
+    ],
+    "words": {
+      "A1-042": {
+        "pron": "ARTST",
+        "tip": "Yunanca archiatros, yani ‘baş hekim’ kökünden 🩺 Kadın doktor die Ärztin.",
+        "bonus": "doktora gitmek = zum Arzt gehen · diş hekimi = der Zahnarzt"
+      },
+      "BL-04-02": {
+        "pron": "PRAK-sis",
+        "tip": "Türkçedeki “pratik” ile aynı kökten 👩‍⚕️ Mahallenizdeki aile hekimi muayenehanesi bir Praxis'tir.",
+        "warn": "Çoğulu die Praxen, Praxisse değil."
+      },
+      "A2-014": {
+        "pron": "ŞPREH-ştun-de",
+        "tip": "sprechen (konuşmak) + Stunde (saat) = doktorla konuşma saati 🕘",
+        "bonus": "randevu almak = einen Termin machen"
+      },
+      "BL-04-03": {
+        "pron": "VAR-te-tsim-mır",
+        "tip": "warten (beklemek) + Zimmer (oda) = bekleme odası 🪑 Tam da adı gibi!"
+      },
+      "BL-04-05": {
+        "pron": "KRANK",
+        "tip": "Hasta olunca insan “kırık” hisseder, krank da kulağa öyle gelir 🤒 Zıttı gesund.",
+        "bonus": "Karşılaştırmada umlaut gelir: kränker – am kränksten"
+      },
+      "BL-04-07": {
+        "pron": "ŞMER-tsen",
+        "tip": "İngilizce “that smarts” (acıtıyor) ile akraba ⚡ Vücut bölümü + Schmerzen = her türlü ağrı.",
+        "warn": "Doktorda neredeyse hep çoğul kullanılır: Ich habe Schmerzen. (Tekili: der Schmerz)"
+      },
+      "BL-04-08": {
+        "pron": "VEY-tun",
+        "tip": "weh, ağrı sızı anlamında; Türkçedeki “vay!” diye inlemeyi düşünün 😣 weh + tun = acıyor!",
+        "warn": "Ayrılabilen bir fiil ve kişi datif hâlinde: Mir tut der Kopf weh."
+      },
+      "A2-016": {
+        "pron": "Fİ-bır",
+        "tip": "Aslında İngilizce fever 🌡️ Ich habe Fieber. = Ateşim var.",
+        "bonus": "yüksek ateş = hohes Fieber"
+      },
+      "B1-349": {
+        "pron": "un-tır-ZU-hen",
+        "tip": "unter (alt) + suchen (aramak) = yüzeyin hemen altını aramak 🔍",
+        "warn": "Perfekt'te ge- almaz: hat untersucht."
+      },
+      "BL-04-10": {
+        "pron": "KRANK-şray-ben",
+        "tip": "krank (hasta) + schreiben (yazmak) = doktor sizi “hasta” diye yazar, yani rapor verir 📄",
+        "bonus": "Ich bin krankgeschrieben. = Raporluyum."
+      }
+    },
+    "culture": [
+      "Pek çok mahalle muayenehanesi (Praxis) çarşamba veya cuma öğleden sonraları kapalıdır, bu yüzden gitmeden önce Sprechstunde'ye bakın. Artık birçok muayenehane online randevu da veriyor.",
+      "Vardığınızda kayıt masasına (Anmeldung) gidip sigorta kartınızı verirsiniz. Sonra adınız okunana kadar bekleme odasında beklersiniz. İnsanlar genellikle sessizce bekler.",
+      "Muayenehaneniz gece ya da hafta sonu kapalıysa, nöbetçi hekim hizmeti için 116 117'yi arayabilirsiniz. Acil durumda 112'yi arayın. 📞"
+    ],
+    "quiz": {
+      "q": "Doktor “Wo tut es weh?” diye soruyor. Başınız ağrıyor. Ne dersiniz?",
+      "o": [
+        "Die Sprechstunde ist montags.",
+        "Mein Kopf tut weh.",
+        "Ich warte im Wartezimmer."
+      ],
+      "a": 1,
+      "why": "Mein Kopf tut weh. = Başım ağrıyor. Vücut bölümünü söyleyip tut weh eklemeniz yeterli."
+    },
+    "outro": "Aynanın karşısına geçip ağrıyan üç şeyi söyleyin, örneğin “Mir tut der Hals weh.” Umarız sadece alıştırma için lazım olur! 🍀"
   }
 }
