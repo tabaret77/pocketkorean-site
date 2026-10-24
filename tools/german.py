@@ -215,7 +215,7 @@ def page(g, rel, title, desc, body, cur=None, alts=True):
         f'<link rel="alternate" hreflang="x-default" href="{BASE}{url("en", rel)}">' if alts else ''
     first = next((p for p, t in PG_MENU[g] if cur and p.split('#')[0] == cur), None)
     nav = ''.join(f'<a href="{url(g, p)}"{" aria-current=\"page\"" if p == first else ""}>{E(t)}</a>' for p, t in PG_MENU[g])
-    lsw = ''.join(f'<a href="{url(x, rel if alts else "")}" lang="{x}"{" aria-current=\"true\"" if x == g else ""}>{NATIVE[x]}</a>' for x in GL)
+    lsw = ''.join(f'<option value="{url(x, rel if alts else "")}" lang="{x}"{" selected" if x == g else ""}>{NATIVE[x]}</option>' for x in GL)
     pk = '/ja/' if g == 'ja' else '/en/'
     return f'''<!doctype html><html lang="{HL[g]}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><meta name="description" content="{E(desc)}"><link rel="canonical" href="{canon}">{links}
@@ -229,7 +229,7 @@ def page(g, rel, title, desc, body, cur=None, alts=True):
 <header class="pgtop"><div class="pgw pgbar">
 <a class="pgbrand" href="{url(g)}">{PG_LOGO}<span>{PG_MARK[g]}</span></a>
 <nav class="pgnav" aria-label="{E(PG_NAME[g])}">{nav}</nav>
-<div class="pgact"><nav class="pglang" aria-label="{s["langs"]}">{lsw}</nav><a class="pgpk" href="{pk}">{LOGO}<span>Pocket <em class="pkblue">Korean</em></span></a></div>
+<div class="pgact"><label class="pglang"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 2.5 15.3 0 18M12 3c-2.5 2.7-2.5 15.3 0 18"/></svg><span class="sr">{s["langs"]}</span><select onchange="location.href=this.value" aria-label="{s["langs"]}">{lsw}</select></label><a class="pgpk" href="{pk}">{LOGO}<span>Pocket <em class="pkblue">Korean</em></span></a></div>
 </div></header>
 <main id="main">{body}</main>
 <footer class="pgfoot"><div class="pgw"><div class="pgfb"><a class="pgbrand" href="{url(g)}">{PG_LOGO}<span>{PG_MARK[g]}</span></a><p>{E(s["foot"])}</p></div>
