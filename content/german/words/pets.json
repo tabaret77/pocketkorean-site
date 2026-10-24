@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "ご近所さんが旅行中、猫にごはんをあげてほしいそうです。何と頼むでしょう？", "o": ["Kannst du meine Katze streicheln?", "Kannst du meine Katze füttern?", "Kannst du mit meiner Katze Gassi gehen?"], "a": 1, "why": "füttern は「えさをやる」。ごはんを頼むときは füttern を使います。"},
     "outro": "今日見かけた動物をドイツ語で呼んでみましょう。Hund、Katze、Kaninchen！犬を飼っているなら「Gassi?」と声をかけてみて。🐾"
+  },
+  "tr": {
+    "title": "Köpekler, kediler ve dahası: Evcil hayvanlar için 10 Almanca kelime",
+    "hook": "Alman parkında bir köpekle mi karşılaştınız? Sahibiyle nasıl sohbet başlatacağınız burada.",
+    "intro": [
+      "Parkta bir bankta oturuyorsunuz ve sevimli bir köpek kuyruğunu sallayarak yanınıza geliyor. Onu sevip sevemeyeceğinizi sormak istiyorsunuz ama kelimeler gelmiyor, siz de sadece gülümsüyorsunuz. Almanya'da köpekler her yerde: metroda, kafelerde, dükkânlarda.",
+      "Bugünkü 10 kelime tamamen evcil hayvanlarla ilgili. Bunlarla köpek sahipleriyle sohbet edebilir, komşunuz kedisini beslemenizi istediğinde evet diyebilir ve veterineri arayabilirsiniz. 🐶"
+    ],
+    "words": {
+      "B1-1251": {"pron": "HAUS-tir", "tip": "Haus (ev) + Tier (hayvan) = evde yaşayan hayvan 🏠 Tier sayesinde das.", "bonus": "Evcil hayvanın var mı? = Hast du ein Haustier?"},
+      "A1-106": {"pron": "HUNT", "tip": "İngilizce hound ile aynı kökten 🐕 Sondaki d, t gibi okunur.", "bonus": "havlamak = bellen · köpek Wau wau! der"},
+      "A1-107": {"pron": "KAT-se", "tip": "Türkçedeki kedi gibi, İngilizce cat Almanya'ya taşınıp Katze olmuş 🐈 -e, yani die.", "warn": "Erkek kedi der Kater; bu aynı zamanda akşamdan kalmalık demek!"},
+      "B1-2443": {"pron": "ka-NİN-hen", "tip": "-chen ile bitiyor, yani küçük ve sevimli bir das 🐇", "warn": "Evcil tavşan das Kaninchen; yabani tavşan der Hase."},
+      "B1-705": {"pron": "FÜ-tern", "tip": "Futter (mama) + umlaut = beslemek 🥣", "bonus": "Neyle: die Katze mit Trockenfutter füttern"},
+      "B2-2820": {"pron": "GA-si GE-en", "tip": "Gasse'ye (sokak) çıkmak 🦮 ‘Gassi?’ deyin ve kuyruğun nasıl sallandığını izleyin!", "warn": "Perfekt'i sein ile: Ich bin mit dem Hund Gassi gegangen."},
+      "B2-2819": {"pron": "LAY-ne", "tip": "İngilizce line ile aynı kökten 🪢 Çamaşır ipi de bir Leine'dir.", "bonus": "köpeğin tasmasını takmak = den Hund anleinen"},
+      "B1-2505": {"pron": "FU-ter", "tip": "İngilizce food ve fodder ile kuzen 🦴 Futter ve füttern'i çift olarak öğrenin.", "warn": "Sadece hayvanlar için; insan yemeği das Essen."},
+      "A2-1086": {"pron": "TİR-artst", "tip": "Tier (hayvan) + Arzt (doktor) = hayvan doktoru 🩺 Arzt sayesinde der.", "bonus": "Kadın veteriner die Tierärztin."},
+      "B2-2854": {"pron": "ŞTRAY-heln", "tip": "-eln yumuşak ve tekrarlanan bir his katar 🤲 okşa, okşa, okşa.", "bonus": "Sahibine sorun: Darf ich ihn streicheln? (Onu sevebilir miyim?)"}
+    },
+    "culture": [
+      "Almanya'da neredeyse her yerde köpek görürsünüz. Pek çok dükkân, restoran, otobüs ve tren köpeklere izin verir, ama bu değişir; kapıdaki tabelaya bakın.",
+      "Çoğu şehirde köpek sahipleri köpek vergisi (Hundesteuer) öder. Miktar ve kurallar nerede yaşadığınıza bağlıdır; köpeklerin ne zaman tasmalı olması gerektiğine dair kurallar da öyle.",
+      "Evcil hayvan istiyorsanız bir hayvan barınağından (Tierheim) sahiplenmek çok popülerdir. Barınaklar genellikle önce sizinle bir görüşme yapar ve bazen evinizin uygun olup olmadığını kontrol eder. 🐾"
+    ],
+    "quiz": {"q": "Komşunuz tatile gidiyor ve kediye mamasını verecek birine ihtiyacı var. Ne sorar?", "o": ["Kannst du meine Katze streicheln?", "Kannst du meine Katze füttern?", "Kannst du mit meiner Katze Gassi gehen?"], "a": 1, "why": "füttern beslemek demek; kediye mamasını vermek için doğru kelime bu."},
+    "outro": "Bugün gördüğünüz her hayvanın adını Almanca söyleyin: Hund, Katze, Kaninchen! Köpeğiniz varsa ona ‘Gassi?’ diye sormayı deneyin! 🐾"
   }
 }

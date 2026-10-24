@@ -222,5 +222,80 @@
       "why": "ふさふさのしっぽで木にのぼる動物は das Eichhörnchen（リス）です。"
     },
     "outro": "次の散歩では木を1本選んで、Stamm、Ast、Blatt と指さしながら声に出してみましょう。🌿"
+  },
+  "tr": {
+    "title": "Alman ormanlarına doğru: 10 kelime",
+    "hook": "Pek çok Alman için orman sadece bir sürü ağaç değil; pazar gününün ta kendisi.",
+    "intro": [
+      "Berlin'de bile birkaç tren durağı sizi ormana götürür. Bir pazar sabahı dökülmüş yaprakları çıtırdatarak yürüyorsunuz, bir sincap ağaca tırmanıyor, patika kenarında mantarlar baş gösteriyor. Sonra Alman arkadaşınız fısıldıyor: “Schau mal, ein Reh!” Bir ne?",
+      "Bugünkü on kelime ormanda gördüğünüz ve duyduğunuz şeyler. Ağaçların, yaprakların, mantarların ve hayvanların adlarını Almanca söyleyebileceksiniz. 🌳"
+    ],
+    "words": {
+      "A1-275": {
+        "pron": "VALT",
+        "tip": "Wald'da bir yürüyüşe çıkın 🌲 Schwarzwald'daki, yani Kara Orman'daki gibi.",
+        "warn": "Çoğulda umlaut gelir: die Wälder."
+      },
+      "B2-894": {
+        "pron": "LAUP-baum",
+        "tip": "Laub (yapraklar) + Baum (ağaç) = yapraklı ağaç 🍂",
+        "bonus": "Zıttı: der Nadelbaum = iğne yapraklı ağaç (Nadel = iğne)"
+      },
+      "A2-214": {
+        "pron": "BLAT",
+        "tip": "Bıçak ağzı gibi yassı 🍃 Bir kâğıt yaprağı da ein Blatt Papier, tıpkı Türkçedeki gibi.",
+        "bonus": "kein Blatt vor den Mund nehmen = sözünü sakınmamak",
+        "warn": "Çoğulu: die Blätter."
+      },
+      "B1-1031": {
+        "pron": "PİLTS",
+        "tip": "Mantarlar yağmurdan sonra “pıt pıt” fırlar: Pilze! 🍄"
+      },
+      "B1-1886": {
+        "pron": "AST",
+        "tip": "Kalın dal Ast, ince dal Zweig 🌿"
+      },
+      "B1-789": {
+        "pron": "HOLTS",
+        "tip": "Holz evleri “tutar” (hold) 🪵",
+        "bonus": "Klopf auf Holz! = Tahtaya vur! (Nazar değmesin!)",
+        "warn": "Canlı ağaç der Baum; malzeme olarak tahta das Holz."
+      },
+      "B2-2789": {
+        "pron": "ŞTAM",
+        "tip": "İngilizce stem ile aynı kökten 🌳 Gövde ağacı ayakta tutar.",
+        "bonus": "der Stammtisch = birahanede müdavimlerin masası"
+      },
+      "B2-2795": {
+        "pron": "AY-he",
+        "tip": "İngilizce oak ile aynı kökten 🌰 Meşe palamudu die Eichel."
+      },
+      "B2-2800": {
+        "pron": "REE",
+        "tip": "Utangaç küçük bir karaca için kısa bir isim gibi: ‘Ree’ 🦌 Ormanın kenarına dikkat edin.",
+        "warn": "das Reh karacadır, ren geyiği değil (das Rentier)."
+      },
+      "B2-2799": {
+        "pron": "AYH-hörn-hen",
+        "tip": "Meşedeki (Eiche) küçük bir boynuz (Hörnchen) mı? Sivri kulaklarını düşünün 🐿️ -chen demek das demek!",
+        "bonus": "Mühsam ernährt sich das Eichhörnchen. = Yavaş yavaş ama emin adımlarla."
+      }
+    },
+    "culture": [
+      "Almanlar orman yürüyüşüne (Waldspaziergang) bayılır. Genel olarak herkes dinlenmek için ormana girebilir, ama patikalardan ayrılmamanız ve çöpünüzü eve geri götürmeniz beklenir.",
+      "Sonbaharda pek çok kişi mantar toplamaya gider. Zehirli mantarlar yenilebilenlerle kolayca karıştırılır, bu yüzden yalnızca kesinlikle bildiklerinizi toplayın. Bazı bölgelerde mantar danışmanlığı (Pilzberatung) hizmeti vardır.",
+      "Hansel ile Gretel, Kırmızı Başlıklı Kız… Grimm Kardeşlerin pek çok masalı ormanda geçer. Alman ormanlarında yürümek insana bir masalın içine adım atmış gibi hissettirebilir. 🍄"
+    ],
+    "quiz": {
+      "q": "Ormanda arkadaşınız ağaca tırmanan, gür kuyruklu küçük bir hayvanı gösteriyor. “Schau mal, ___!”",
+      "o": [
+        "ein Reh",
+        "ein Pilz",
+        "ein Eichhörnchen"
+      ],
+      "a": 2,
+      "why": "Ağaca tırmanan gür kuyruklu hayvan das Eichhörnchen, yani sincaptır."
+    },
+    "outro": "Bir sonraki yürüyüşünüzde bir ağaç seçin; Stamm'ını, Ast'ını ve Blatt'ını gösterip her birinin adını yüksek sesle söyleyin. 🌿"
   }
 }

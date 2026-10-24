@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "銀行カードをなくしました。銀行に電話して何と言いますか？", "o": ["Ich muss meine Karte sperren lassen.", "Ich habe meine Karte wiedergefunden.", "Ich suche eine Handtasche."], "a": 0, "why": "die Karte sperren lassen は「カードを止めてもらう」という意味なので、これが正解です。"},
     "outro": "今日出かける前に、Habe ich alles? Geldbörse, Schlüssel, Perso! と声に出して確認してみましょう。なくし物がぐっと減りますよ！🔑"
+  },
+  "tr": {
+    "title": "Cüzdanınızı mı kaybettiniz? Onu geri almak için 10 Almanca kelime",
+    "hook": "O kalbi durduran ‘cüzdanım nerede?’ anı bu kelimelerle daha kolay atlatılır.",
+    "intro": [
+      "Tramvaydan iniyorsunuz, birkaç sokak yürüyorsunuz ve birden çantanız hafif geliyor. Cüzdan yok, kimlik yok! Yüreğiniz ağzınıza geliyor; peki nereye gideceksiniz, ne diyeceksiniz?",
+      "Bugünkü 10 kelime bir şeyi kaybetmenize, aramanıza, yeniden bulmanıza ve kartınızı bloke ettirmenize yardım ediyor. Bunlarla kayıp eşya bürosunda ya da bankanızla telefondayken sakin kalabilirsiniz. 👛"
+    ],
+    "words": {
+      "A2-170": {"pron": "fer-Lİ-ren", "tip": "İngilizce lose ve forlorn ile aynı kökten 😱 Bir şey kaybettiniz mi? Kendinizi çaresiz hissedersiniz.", "warn": "Perfekt: hat verloren. Bir maçı kaybetmek anlamına da gelir."},
+      "A1-186": {"pron": "FİN-den", "tip": "Tıpkı İngilizce find gibi 🔍 Kolay bir kelime!", "bonus": "Fikir sormak için de kullanılır: Wie findest du das? (Sence nasıl?)"},
+      "A1-187": {"pron": "ZU-hen", "tip": "İngilizce seek ile aynı kökten 👀 Hâlâ arıyorsanız suchen, buldunuz mu finden.", "warn": "Türkçedeki gibi doğrudan nesne alır: Ich suche meinen Schlüssel."},
+      "B1-1474": {"pron": "FUNT-bü-ro", "tip": "Fund (buluntu) + Büro (ofis) = bulunan eşyaların bürosu 🏢 Türkçedeki büro ile aynı!", "bonus": "Büro das olduğu için Fundbüro da das."},
+      "A2-474": {"pron": "GELT-bör-ze", "tip": "Geld (para) + Börse (kese) 💶 Börse aynı zamanda borsa demek; paranın toplandığı yer!", "bonus": "Günlük dilde das Portemonnaie ya da der Geldbeutel de duyarsınız."},
+      "A2-813": {"pron": "HANT-ta-şe", "tip": "Hand (el) + Tasche (çanta) = el çantası 👜 Adı üstünde.", "bonus": "Tek başına Tasche cep anlamına da gelebilir: in der Tasche"},
+      "A2-828": {"pron": "per-zo-NAL-aus-vays", "tip": "personal + Ausweis (kimlik belgesi) 🪪 Çok mu uzun? Almanlar kısaca der Perso der.", "bonus": "Oturma izni der Aufenthaltstitel."},
+      "A2-152": {"pron": "fer-GE-sen", "tip": "İngilizce forget ile aynı kökten 🤦 ver-gessen ≈ for-get.", "warn": "Ünlü değişir (er vergisst) ve ortacında ge- yoktur: vergessen."},
+      "B1-2154": {"pron": "Vİ-der-fin-den", "tip": "wieder (tekrar) + finden = tekrar bulmak 🎉 Bugünün en mutlu kelimesi!", "warn": "Ayrılabilen fiil: Ich finde meinen Schlüssel wieder."},
+      "B2-1026": {"pron": "ŞPE-ren", "tip": "Bir kapının önüne sürgü çektiğinizi düşünün 🔒 Kilitlendi!", "bonus": "kartını bloke ettirmek = die Karte sperren lassen"}
+    },
+    "culture": [
+      "Alman şehirlerinde genellikle belediyeye ait bir kayıp eşya bürosu (Fundbüro) vardır; toplu taşıma şirketleri ve Deutsche Bahn'ın da kendi büroları bulunur. Bir şeyi otobüste ya da trende kaybettiyseniz önce onlara sorun.",
+      "Banka kartınızı kaybederseniz hemen bloke ettirin: bankacılık uygulamanızdan, bankanızdan ya da Almanya'nın merkezi kart bloke numarası 116 116'dan. Kayıp kimlik kartı genellikle polise ya da vatandaşlık bürosuna (Bürgeramt) bildirilir.",
+      "Alman sokaklarında kaybolmuş bir eldiveni ya da bebek ayakkabısını bir çitin ya da bankın üzerine özenle bırakılmış görürsünüz; sahibi dönüş yolunda fark edebilsin diye. 🧤"
+    ],
+    "quiz": {"q": "Banka kartınızı kaybettiniz. Telefonda bankaya ne dersiniz?", "o": ["Ich muss meine Karte sperren lassen.", "Ich habe meine Karte wiedergefunden.", "Ich suche eine Handtasche."], "a": 0, "why": "die Karte sperren lassen kartınızı bloke ettirmek demektir."},
+    "outro": "Bugün evden çıkmadan önce yüksek sesle kontrol edin: Habe ich alles? Geldbörse, Schlüssel, Perso! Eşyalarınızı çok daha az kaybedeceksiniz. 🔑"
   }
 }

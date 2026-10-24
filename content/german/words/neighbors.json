@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "夜11時、上の階の音楽がうるさすぎます。ドアをノックして何と言いますか？", "o": ["Es hat geklingelt.", "Unser Hausmeister ist nett.", "Könnten Sie bitte etwas leiser sein?"], "a": 2, "why": "leiser は「もっと静かに」なので、ていねいに音を下げてもらうお願いです。"},
     "outro": "今日は「Könnten Sie bitte etwas leiser sein?」をていねいな声で練習してみましょう。使わずに済めばもっといいですね！🤫"
+  },
+  "tr": {
+    "title": "Gürültü, merdivenler ve bina kuralları: Alman komşularla yaşamak için 10 kelime",
+    "hook": "Alman komşularla iyi geçinmenin sırrı samimi bir merhaba değil, ne zaman sessiz olacağınızı bilmektir.",
+    "intro": [
+      "Yeni taşındınız. Pazar sabahı bir raf asmak için matkabı elinize alıyorsunuz ve birden birinin size ters ters baktığını hissediyorsunuz. Birkaç gün sonra yan dairedeki yaşlı hanım sizi merdivende durdurup uzun uzun bir şey anlatıyor. Ancak yarısını anlıyorsunuz.",
+      "Bugünkü 10 kelime Almanya'da bir binayı paylaştığınızda ihtiyacınız olanlar. Gürültüden bahsedebilecek, birinden sesini kısmasını isteyebilecek, kapıcıyı arayabilecek ve şikâyette bulunabileceksiniz. 🏠"
+    ],
+    "words": {
+      "BL-15-01": {"pron": "NAH-bar", "tip": "nah (yakın) + orada yaşayan kişi = yakında oturan 🏘️ İngilizce neighbour ile aynı kökten.", "warn": "Diğer hâllerde -n alır: den Nachbarn, dem Nachbarn."},
+      "BL-15-06": {"pron": "LERM", "tip": "Alarm ile aynı kökten 🔊 Lärm kulaklarınızda çınlayan gürültüdür.", "warn": "Çoğulu yok: Der Lärm stört mich."},
+      "A2-180": {"pron": "LAUT", "tip": "İngilizce loud ile neredeyse ikiz 📢 Die Musik ist zu laut!", "bonus": "Edat olarak laut ‘…e göre’ demek: laut Hausordnung"},
+      "BL-15-05": {"pron": "LAY-ze", "tip": "Fısıldayarak söyleyin: ‘lay-ze’ 🤫 laut'un zıttı.", "bonus": "Kannst du bitte leiser sein? = Biraz daha sessiz olabilir misin?"},
+      "BL-15-07": {"pron": "RU-e-tsayt", "tip": "Ruhe (dinlenme) + Zeit (zaman) = herkesin dinlenme zamanı 🌙 Matkabı bırakın!", "bonus": "Gece sessizliği die Nachtruhe"},
+      "B2-1409": {"pron": "HAUS-ort-nunk", "tip": "Haus (ev) + Ordnung (düzen) = binanızın kural kitabı 📋 -ung, yani die.", "bonus": "Genellikle merdiven boşluğundaki ilan panosunda ya da kira sözleşmenizin ekinde bulunur."},
+      "BL-15-02": {"pron": "TRE-pen-haus", "tip": "Treppe (merdiven) + Haus (ev) = merdiven boşluğu 🪜 Komşulara rastlamanın bir numaralı yeri.", "bonus": "Asansör der Aufzug"},
+      "A2-126": {"pron": "HAUS-may-ster", "tip": "Haus + Meister (usta) = evin ustası 🔧 Bir şey bozulunca onu arayın.", "bonus": "İsviçre'de: der Abwart"},
+      "A2-060": {"pron": "zih be-ŞVE-ren", "tip": "İçinde schwer (ağır) var 😤 Bir şey üstünüze ağır gelir, siz de şikâyet edersiniz.", "warn": "Sorun için über + Akkusativ, kişi için bei + Dativ: sich beim Hausmeister über den Lärm beschweren."},
+      "BL-15-03": {"pron": "KLİN-geln", "tip": "Kulağa kling-kling diye çalan bir zil gibi geliyor 🔔 Es hat geklingelt! = Kapıda biri var!", "bonus": "Kapı zili die Klingel"}
+    },
+    "culture": [
+      "Alman apartmanlarının çoğunda bir Hausordnung vardır ve genellikle sessizlik saatlerini (Ruhezeit) belirler. Saat 22.00'den 06.00'ya kadar sessiz olmak olağan kuraldır; bazı binalar öğle saatlerinde de sessizlik ister. Binaya ve şehre göre değişir.",
+      "Pazar günleri ve resmî tatillerde insanlar genellikle matkap kullanmak, çim biçmek ya da şişeleri cam kumbarasına atmak gibi gürültülü işlerden kaçınır. Parti planlıyorsanız önceden merdiven boşluğuna bir not asmak yaygındır.",
+      "İşin dostane bir yanı da var: Evde değilseniz kargocu paketinizi çok sık bir komşuya bırakır. ‘beim Nachbarn abgegeben’ yazan bir kart mı gördünüz? Yan dairenin zilini çalın! 📦"
+    ],
+    "quiz": {"q": "Saat 23.00 ve üst kattaki müzik çok yüksek. Kapıyı çalıyorsunuz. Ne dersiniz?", "o": ["Es hat geklingelt.", "Unser Hausmeister ist nett.", "Könnten Sie bitte etwas leiser sein?"], "a": 2, "why": "leiser daha sessiz demek; bu, sesi kısmak için kibar bir rica."},
+    "outro": "Bugün ‘Könnten Sie bitte etwas leiser sein?’ cümlesini en kibar sesinizle çalışın. Şansınız varsa hiç ihtiyacınız olmaz! 🤫"
   }
 }

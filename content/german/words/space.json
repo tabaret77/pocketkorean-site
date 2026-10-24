@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "ニュースで、宇宙飛行士が宇宙ステーションへ向かうそうです。正しい文は？", "o": ["Der Satellit fliegt um die Erde.", "Der Astronaut fliegt auf den Mond.", "Der Astronaut fliegt in den Weltraum."], "a": 2, "why": "宇宙へ行くは in den Weltraum fliegen、Astronaut は男性名詞なので der です。"},
     "outro": "今夜、窓の外を見ながら「der Mond, die Sonne, die Sterne」と声に出してみましょう。冠詞もいっしょに覚えれば完璧です！🌙"
+  },
+  "tr": {
+    "title": "Başınızı kaldırın! Gökyüzü ve uzay için 10 Almanca kelime",
+    "hook": "Gökyüzünü Almanca anlatabildiğinizde her akşam yürüyüşü biraz daha romantik olur.",
+    "intro": [
+      "Bir yaz gecesi parkta çimlere uzanmışsınız ve arkadaşınız ‘Schau mal, die Sterne!’ diyor. Ay'ın kocaman göründüğünü söylemek istiyorsunuz — ama der mi, die mi?",
+      "İşte gökyüzü ve uzayla ilgili on kelime. Hava sohbetinden yıldız gözlemine, uzay haberlerine kadar hepsinin tadını Almanca çıkarabileceksiniz. 🌌"
+    ],
+    "words": {
+      "A1-271": {"pron": "Hİ-mel", "tip": "Gökyüzü ve cennet tek kelimede ☁️ Ne de olsa cennet gökte!", "bonus": "‘Allah aşkına!’ = Um Himmels willen!"},
+      "A1-138": {"pron": "ZO-ne", "tip": "İngilizce sun ile aynı kökten ☀️ Almancada güneş dişildir: die Sonne.", "warn": "die Sonne ama der Mond — Fransızca ve İspanyolcanın tam tersi."},
+      "A1-272": {"pron": "MONT", "tip": "İngilizce moon'un kuzeni 🌙 Ve eril: der Mond.", "bonus": "dolunay = der Vollmond · Montag ‘ay günü’dür, tıpkı Monday gibi."},
+      "A1-273": {"pron": "ŞTERN", "tip": "İngilizce star ile aynı kökten ⭐ Unutmayın: baştaki st ‘şt’ diye okunur.", "bonus": "kayan yıldız = die Sternschnuppe"},
+      "B1-637": {"pron": "ER-de", "tip": "İngilizce earth'ün kız kardeşi 🌍 Gezegen, zemin ve toprak — hepsi Erde.", "bonus": "Dünya'da = auf der Erde"},
+      "B1-2494": {"pron": "pla-NEYT", "tip": "Yunancada ‘gezgin’ 🪐 Gezegenler gökyüzünde gezinir.", "warn": "Zayıf isim: den/dem/des Planeten"},
+      "B1-1721": {"pron": "VELT-raum", "tip": "Welt (dünya) + Raum (oda, alan) = dünyanın içinde durduğu oda 🚀", "bonus": "uzay istasyonu = die Raumstation"},
+      "B1-1722": {"pron": "as-tro-NAUT", "tip": "astron (yıldız) + nautes (denizci) = yıldız denizcisi 👩‍🚀", "warn": "Zayıf isim: den/dem/des Astronauten"},
+      "B1-1723": {"pron": "ra-KE-te", "tip": "İtalyancada küçük bir makara demek — şekli aynı, değil mi? 🚀", "bonus": "Roket fırlatılıyor = Die Rakete startet."},
+      "B2-1067": {"pron": "za-te-LİT", "tip": "Latince satelles = gezegeninin etrafında dolaşan koruma 🛰️ Türkçede de ‘satelit’ denir.", "warn": "Zayıf isim: den/dem/des Satelliten"}
+    },
+    "culture": [
+      "Gökyüzü Almanca gün adlarında da saklı. Sonntag ‘güneş günü’, Montag ‘ay günü’dür — Sunday ve Monday ile aynı fikir.",
+      "Birçok Alman şehrinde bir gözlemevi (Sternwarte) ya da planetaryum vardır. Darmstadt da Avrupa Uzay Ajansı'nın görev kontrol merkezine ev sahipliği yaptığı için uzay haberlerinde sık sık karşınıza çıkar.",
+      "Ağustosta pek çok kişi Perseid meteor yağmurunu izlemek için şehir dışına çıkar. Kayan bir yıldız gördüğünüzde ‘Wünsch dir was!’ (Bir dilek tut!) deyin. 🌠"
+    ],
+    "quiz": {"q": "Haberlerde bir astronotun uzay istasyonuna gittiği söyleniyor. Hangi cümle doğru?", "o": ["Der Satellit fliegt um die Erde.", "Der Astronaut fliegt auf den Mond.", "Der Astronaut fliegt in den Weltraum."], "a": 2, "why": "Uzaya gitmek in den Weltraum fliegen'dir ve Astronaut erildir: der."},
+    "outro": "Bu gece pencereden bakın ve ‘der Mond, die Sonne, die Sterne’ deyin — artikelleriyle birlikte, yüksek sesle! 🌙"
   }
 }

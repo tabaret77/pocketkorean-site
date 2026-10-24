@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "新しい友だちに「Wohnst du mit jemandem zusammen?」と聞かれました。一人暮らしなら何と答えますか？", "o": ["Ich fühle mich einsam.", "Eine Portion, bitte.", "Nein, ich wohne allein."], "a": 2, "why": "Nein, ich wohne allein. = ううん、一人で住んでるよ。allein は「一人で」、einsam は「寂しい」です。"},
     "outro": "今日は自分の部屋を見回して、ドイツ語で紹介してみましょう。Das ist meine eigene Wohnung! 🏡"
+  },
+  "tr": {
+    "title": "Almanya'da kendi eviniz: tek başına yaşamak için 10 kelime",
+    "hook": "Bazı kelimeler, ilk anahtarınızı eline almak kadar heyecan verir.",
+    "intro": [
+      "Sonunda bir posta kutusunun üstünde adınız yazıyor ve arkasındaki küçük daire tamamen sizin. Sonra sorular başlıyor. „Yalnız mı yaşıyorsun?“ „Yemek yapıyor musun?“ „Yalnızlık çekmiyor musun?“ Cevap vermek istiyorsunuz ama kelimeler gelmiyor.",
+      "Bu on kelimeyle tek başına hayatınızı Almanca anlatabilirsiniz. Evinizi tarif edebilir, ev işleri hakkında sohbet edebilir ve nasıl hissettiğinizi dürüstçe söyleyebilirsiniz. 🔑"
+    ],
+    "words": {
+      "A1-377": {"pron": "a-LAYN", "tip": "all + ein = tamamen bir 🧍 İngilizce alone da aynı şekilde kurulmuş: all + one.", "bonus": "Zıttı: zusammen = birlikte"},
+      "B1-371": {"pron": "AY-gen", "tip": "İngilizce own ile aynı kökten 🏠 eine eigene Wohnung = kendinize ait bir ev.", "warn": "Sıfat olduğu için ek alır: mein eigenes Zimmer, meine eigene Küche."},
+      "A1-002": {"pron": "VO-nunk", "tip": "wohnen (oturmak, yaşamak) + -ung = yaşadığınız yer 🛋️ -ung her zaman die demektir.", "bonus": "ev aramak = eine Wohnung suchen"},
+      "B1-2416": {"pron": "SİN-gıl", "tip": "Doğrudan İngilizce single 💁 Ich bin Single. Bu kadar.", "warn": "der Single bekâr kişidir, die Single ise single plak. Artikel anlamı değiştirir."},
+      "B1-2555": {"pron": "UN-ap-hen-gih", "tip": "un- (değil) + abhängig (bağlı, asılı) = kimseye asılı değil 🦅 Kuş gibi özgür.", "bonus": "Zıttı: abhängig von + datif = -e bağımlı"},
+      "B1-077": {"pron": "ZELPST-şten-dih", "tip": "selbst (kendi) + Stand (duruş) = kendi ayakları üzerinde durmak 💪 Serbest çalışanlar da selbstständig'dir.", "bonus": "selbständig yazımı da doğrudur."},
+      "B2-028": {"pron": "HAUS-halt", "tip": "Haus (ev) + halten (tutmak) = evi ayakta tutmak 🧹 Yani ev idaresi.", "bonus": "ev işlerini yapmak = den Haushalt machen"},
+      "A2-539": {"pron": "por-TSYON", "tip": "Türkçedeki ‘porsiyon’ ile aynı 🍟 ama -tion ‘tsyon’ diye okunur.", "bonus": "tek kişilik yemek = eine Portion für eine Person"},
+      "B2-1218": {"pron": "FER-tih-ge-riht", "tip": "fertig (hazır) + Gericht (yemek) = çoktan yapılmış yemek 🍱 Mikrodalgaya atın, bitti.", "warn": "das Gericht ‘yemek’ demek ama aynı zamanda ‘mahkeme’."},
+      "B1-372": {"pron": "AYN-zam", "tip": "ein (bir) + -sam (İngilizce -some gibi) = lonesome 🥺 Neredeyse aynı yapı.", "warn": "allein = tek başına, einsam = yalnızlık çeken. Tek başına yaşayıp yalnız hissetmeyebilirsiniz!"}
+    },
+    "culture": [
+      "Almanya'da, özellikle büyük şehirlerde birçok insan tek başına yaşar. Ama çoğu işe bir WG (Wohngemeinschaft) ile başlar: herkesin kendi odası olduğu, mutfak ve banyonun paylaşıldığı bir ortak ev.",
+      "Tek başına yaşarken hatırlamanız gereken bir şey: Almanya'da süpermarketlerin çoğu pazar günü kapalıdır. Bu yüzden insanlar cumartesi büyük alışveriş yapmayı alışkanlık haline getirir. Acil durumda büyük tren istasyonlarındaki dükkânlar ve benzin istasyonları imdadınıza yetişir.",
+      "Çöpü ayırmak (Mülltrennung) ve şişeleri depozito (Pfand) için iade etmek de temel hayat becerileridir. Boş şişe ve kutularınızı süpermarketteki makineye atın, paranızı geri alın. ♻️"
+    ],
+    "quiz": {"q": "Yeni bir arkadaşınız „Wohnst du mit jemandem zusammen?“ diye soruyor. Tek başına yaşıyorsunuz. Ne dersiniz?", "o": ["Ich fühle mich einsam.", "Eine Portion, bitte.", "Nein, ich wohne allein."], "a": 2, "why": "Nein, ich wohne allein. = Hayır, tek başıma yaşıyorum — allein ‘tek başına’, einsam ise ‘yalnızlık çeken’ demektir."},
+    "outro": "Bugün odanızda dolaşın ve onu Almanca tanıtın. Das ist meine eigene Wohnung! 🏡"
   }
 }

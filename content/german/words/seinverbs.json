@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "昨日、映画を見ながら寝てしまったと言いたいです。正しい文はどれ？", "o": ["Ich bin beim Film eingeschlafen.", "Ich habe beim Film eingeschlafen.", "Ich bin beim Film eingeschlaft."], "a": 0, "why": "einschlafen は状態が変わる動詞なので sein を使い、過去分詞は eingeschlafen です。"},
     "outro": "昨日したことを sein の動詞で3文言ってみましょう。Ich bin … gegangen, gefahren, geblieben! 💬"
+  },
+  "tr": {
+    "title": "haben değil sein: perfekt zamanda 10 fiil",
+    "hook": "Hiç „Ich habe gegangen“ dediyseniz, bu yazı tam size göre.",
+    "intro": [
+      "Alman bir arkadaşınıza hafta sonunuzu anlatıyorsunuz: „Ich habe nach Hamburg gefahren.“ Gülüp düzeltiyor: „Ich BIN gefahren!“ Perfekt'in hep haben ile kurulduğunu sanıyordunuz. Öyle değil.",
+      "Bugünkü on fiil perfekt'i sein ile kurar. Çoğu bir yerden başka bir yere hareketi ya da bir durumdan başka bir duruma geçişi anlatır. Bu onu iyi öğrenin, dünü çok daha kendinizden emin anlatırsınız. 🚶"
+    ],
+    "words": {
+      "A1-053": {"pron": "GEY-en", "tip": "İngilizce go ile aynı kökten 🚶 Yürüyerek hareket, yani sein!", "warn": "Düzensiz: Ich bin gegangen. (gegeht değil)"},
+      "A1-054": {"pron": "KO-men", "tip": "İngilizce come ile aynı kökten 🏃 Gelmek de bir hareket, yani sein.", "bonus": "Wann bist du nach Hause gekommen? = Eve ne zaman geldin?"},
+      "A1-055": {"pron": "FA-ren", "tip": "Taşıtla gitmek 🚗 Yer değiştiriyorsunuz, yani sein.", "warn": "Nesneyle haben alır: Ich habe das Auto gefahren. = Arabayı ben sürdüm."},
+      "A1-315": {"pron": "FLİ-gen", "tip": "İngilizce fly ile aynı kökten ✈️ Gökyüzünde hareket — yine sein.", "bonus": "İsimler: der Flug (uçuş), das Flugzeug (uçak)"},
+      "A1-193": {"pron": "BLAY-ben", "tip": "Hareket yok ama yine de sein 🛋️ Ezberlenmesi gereken klasik istisna.", "warn": "Yerinde kalmak da sein alır: Ich bin zu Hause geblieben."},
+      "A2-331": {"pron": "pa-Sİ-ren", "tip": "Fransızca passer (geçmek) kelimesinden 💥 Bir şey geçip gider ve olur.", "warn": "-ieren fiilleri ge- almaz: Was ist passiert? (gepassiert değil)"},
+      "A2-053": {"pron": "UM-tsi-en", "tip": "um (değişim) + ziehen (çekmek, taşınmak) = evinizi değiştirmek 🚚 Hareket, yani sein.", "warn": "sich umziehen (üstünü değiştirmek) haben alır: Ich habe mich umgezogen. Ev taşımak: Ich bin umgezogen."},
+      "A2-738": {"pron": "AYN-şla-fen", "tip": "Uyanıklıktan uykuya 😴 Durum değişikliği de sein alır.", "bonus": "Uzuvlar için de: Mein Bein ist eingeschlafen. = Bacağım uyuştu."},
+      "A2-458": {"pron": "FA-len", "tip": "Tıpkı İngilizce fall gibi 🍂 Aşağı doğru hareket, yani sein.", "warn": "fällen (ağaç kesmek) başka bir fiildir ve haben alır."},
+      "B1-346": {"pron": "ŞTER-ben", "tip": "İngilizce starve ile aynı kökten 🕯️ Hayattan ölüme, en büyük durum değişikliği.", "bonus": "-den ölmek = an + datif: an Krebs sterben"}
+    },
+    "culture": [
+      "Almanlar geçmişten söz ederken çoğunlukla perfekt kullanır. Özellikle güneyde konuşmada basit geçmiş zaman nadirdir; bu yüzden Ich bin gestern ins Kino gegangen. gibi cümleleri günde defalarca duyarsınız.",
+      "Eğlenceli bir bölgesel fark var: Güney Almanya, Avusturya ve İsviçre'de insanlar sitzen, stehen ve liegen ile de sein kullanır — Ich bin gesessen. Kuzeyde ise Ich habe gesessen denir. İkisini de duyarsanız şaşırmayın.",
+      "Sevilen bir Almanca vedalaşma olan Bleib gesund! (Sağlıcakla kal!) de bugünkü fiil bleiben'i kullanır. Bir dahaki vedalaşmanızda deneyin. 👋"
+    ],
+    "quiz": {"q": "Film sırasında uyuyakaldığınızı söylemek istiyorsunuz. Hangi cümle doğru?", "o": ["Ich bin beim Film eingeschlafen.", "Ich habe beim Film eingeschlafen.", "Ich bin beim Film eingeschlaft."], "a": 0, "why": "einschlafen bir durum değişikliğidir, bu yüzden sein alır; geçmiş zaman ortacı eingeschlafen'dir."},
+    "outro": "Dünle ilgili sein'lı üç cümle kurun: Ich bin … gegangen, gefahren, geblieben! 💬"
   }
 }

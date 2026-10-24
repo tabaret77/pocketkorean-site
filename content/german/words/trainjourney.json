@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "車内で空いている席を見つけました。隣の人に何と聞きますか？", "o": ["Wann kommt der Zug an?", "Wo ist der Speisewagen?", "Ist der Platz noch frei?"], "a": 2, "why": "Ist der Platz noch frei? =「この席はまだ空いていますか？」座る前に聞く言葉です。"},
     "outro": "次に列車に乗るときは、アナウンスで今日の単語がいくつ聞き取れるか数えてみましょう。Gute Reise! 🚆"
+  },
+  "tr": {
+    "title": "Herkes trene! Alman tren yolculukları için 10 kelime",
+    "hook": "Alman trenlerinde bilet yetmez. Anonsları da anlamak isteyeceksiniz.",
+    "intro": [
+      "Perondaki Münih ICE'sini bekliyorsunuz ve bir anons geliyor: „Der ICE nach München fährt heute in umgekehrter Wagenreihung ab…“ Herkes peronun öbür ucuna yürüyor, siz orada öylece kalıyorsunuz.",
+      "Bugünkü on kelime her tren yolculuğunda duyduğunuz ve kullandığınız kelimeler. Bunlarla kalkış ve varış saatlerine bakabilir, ayırttığınız koltuğu bulabilir, yemekli vagona gidebilir ve tren görevlileriyle konuşabilirsiniz. 🚄"
+    ],
+    "words": {
+      "BL-14-01": {"pron": "TSUK", "tip": "ziehen (çekmek) fiilinden, İngilizce tug gibi 🚆 Lokomotif vagonları çeker.", "warn": "Çoğulu umlautlu: die Züge."},
+      "A2-1117": {"pron": "i-tse-E", "tip": "InterCityExpress ⚡ Harf harf Almanca okuyun — asla ‘ays’ değil!", "bonus": "Daha yavaş uzun mesafe trenleri der IC; bölgesel olanlar der RE ya da die RB'dir."},
+      "A2-055": {"pron": "AP-fa-ren", "tip": "ab (uzağa) + fahren (gitmek) = hareket etmek, kalkmak 🚉", "warn": "Ayrılabilen, perfekt sein ile: Der Zug fährt um 9 Uhr ab. / Der Zug ist schon abgefahren."},
+      "A2-163": {"pron": "AN-ko-men", "tip": "an (-e) + kommen (gelmek) = varmak 🏁 abfahren'in eşi.", "warn": "-e varmak = in + datif: in Berlin ankommen (nach değil). Perfekt sein ile: Wir sind angekommen."},
+      "B1-1076": {"pron": "re-zer-Vİ-runk", "tip": "reservieren + -ung = rezervasyon 📌 -ung her zaman die'dir.", "bonus": "Ich möchte einen Platz reservieren. = Bir koltuk ayırtmak istiyorum."},
+      "BL-14-05": {"pron": "ZİTS-plats", "tip": "sitzen (oturmak) + Platz (yer) = oturacak yer, koltuk 💺", "bonus": "Ist der Platz noch frei? = Bu koltuk boş mu? · Cevaplar: Ja, frei! ya da Nein, besetzt."},
+      "BL-14-06": {"pron": "VA-gen", "tip": "Türkçedeki ‘vagon’ ve İngilizce wagon ile aynı kökten 🚃 Her vagon bir Wagen'dir.", "bonus": "Çoğulu aynı: die Wagen. Biletinizdeki Wagen 12, 12 numaralı vagon demek."},
+      "B1-1164": {"pron": "ŞPAY-ze-va-gen", "tip": "Speise (yemek) + Wagen (vagon) = yemekli vagon 🍝 Speisekarte'deki (menü) Speise ile aynı.", "bonus": "Daha küçük atıştırmalık vagonu das Bordbistro'dur."},
+      "B2-2635": {"pron": "TSUK-be-glay-ter", "tip": "Zug + Begleiter (refakatçi) = trenle birlikte yolculuk eden kişi 🧑‍✈️", "bonus": "Eski kelime der Schaffner'dir."},
+      "B2-2645": {"pron": "BAN-kart", "tip": "Bahn (demiryolu) + İngilizce card = demiryolu indirim kartı 🎫 Alman-İngiliz ortaklığı!", "bonus": "BahnCard 25, 50 ve 100 — sayı indirim seviyesini gösterir."}
+    },
+    "culture": [
+      "Alman istasyonlarında turnike yoktur. Bunun yerine görevliler biletleri trende kontrol eder (Fahrkartenkontrolle). Biletsiz yolculuğun cezası vardır, o yüzden binmeden önce mutlaka bilet alın.",
+      "ICE'de rezervasyon isteğe bağlıdır, yani herhangi bir boş koltuğa oturabilirsiniz. Ama bir koltuğun üstündeki ekran, güzergâhın bir kısmı için ayrıldığını gösteriyorsa, o kişi bindiğinde kalkmanız gerekir. Huzur ve sessizlik için Ruhebereich'ı (sessiz bölge) arayın.",
+      "Alman trenleri ayrıca oldukça sık gecikir. Aktarmanız sıkışıksa fazladan zaman bırakın ve tren gelmeden önce perondaki ekranda vagon dizilimine (Wagenreihung) bakın. 🧳"
+    ],
+    "quiz": {"q": "Trende boş bir koltuk gördünüz. Yanındaki kişiye ne sorarsınız?", "o": ["Wann kommt der Zug an?", "Wo ist der Speisewagen?", "Ist der Platz noch frei?"], "a": 2, "why": "Ist der Platz noch frei? oturmadan önce koltuğun boş olup olmadığını sorar."},
+    "outro": "Bir dahaki tren yolculuğunuzda anonslarda bugünkü kelimelerden kaçını yakaladığınızı sayın. Gute Reise! 🚆"
   }
 }

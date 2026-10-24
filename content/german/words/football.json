@@ -8,23 +8,72 @@
       "오늘은 축구 볼 때 꼭 들리는 단어 10개를 모았어요. 이 10개만 알면 경기 이야기에 끼고, 다음 경기에서는 다 같이 “Tor!”를 외칠 수 있어요. ⚽"
     ],
     "words": {
-      "A1-480": {"pron": "푸스발", "tip": "Fuß(발) + Ball(공) = 발로 차는 공 ⚽ 영어 football이랑 똑같은 조립이에요!", "bonus": "Fußball spielen = 축구하다 · Fußball gucken = 축구 보다"},
-      "A2-914": {"pron": "푸스발슈필", "tip": "Fußball + Spiel(경기) 🏟️ 마지막 Spiel이 das라서 전체도 das!", "bonus": "줄여서 그냥 das Spiel이라고도 해요: Wer hat das Spiel gewonnen?"},
-      "A2-135": {"pron": "만샤프트", "tip": "Mann(사람) + -schaft(무리) = 사람들의 무리 👥 -schaft로 끝나면 언제나 die!", "bonus": "독일 국가대표팀을 그냥 die Mannschaft라고 부르기도 해요."},
-      "B1-1167": {"pron": "슈필러", "tip": "spielen(하다, 놀다) + -er = 하는 사람 🏃 축구 선수도, 게이머도 Spieler!", "bonus": "여자 선수는 die Spielerin."},
-      "B1-1257": {"pron": "토어", "tip": "영어 door와 같은 뿌리 🥅 공이 골대라는 ‘문’으로 들어가면 Tor!", "warn": "das Tor는 문, 골이지만 der Tor는 ‘바보’예요. 관사 조심!"},
-      "B2-2735": {"pron": "토어바르트", "tip": "Tor(골) + Wart(지키는 사람) = 골 지킴이 🧤 Wart는 영어 ward와 친척이에요.", "bonus": "같은 뜻으로 der Torhüter라고도 해요."},
-      "B2-1239": {"pron": "쉬츠리히터", "tip": "scheiden(가르다) + Richter(판사) = 판정하는 판사 🟨 경기장의 판사님!", "bonus": "Elfmeter! = 페널티킥! 심판이 휘슬을 불면 들리는 말이에요."},
-      "A2-459": {"pron": "펜", "tip": "영어 fan에서 그대로 왔어요 📣 원래는 fanatic(광신자)의 줄임말!", "bonus": "축구 팬 머플러는 der Fanschal."},
-      "B1-1180": {"pron": "슈타디온", "tip": "그리스어 stadion(경주로)에서 왔어요 🏟️ 영어 stadium과 거의 같아요.", "warn": "복수가 특이해요: die Stadien."},
-      "B1-1483": {"pron": "운엔트쉬덴", "tip": "un-(아님) + entschieden(결정된) = 결정이 안 남 🤝 그래서 무승부!", "bonus": "Es steht 1:1. = 1 대 1이에요. (eins zu eins라고 읽어요)"}
+      "A1-480": {
+        "pron": "푸스발",
+        "tip": "Fuß(발) + Ball(공) = 발로 차는 공 ⚽ 영어 football이랑 똑같은 조립이에요!",
+        "bonus": "Fußball spielen = 축구하다 · Fußball gucken = 축구 보다"
+      },
+      "A2-914": {
+        "pron": "푸스발슈필",
+        "tip": "Fußball + Spiel(경기) 🏟️ 마지막 Spiel이 das라서 전체도 das!",
+        "bonus": "줄여서 그냥 das Spiel이라고도 해요: Wer hat das Spiel gewonnen?"
+      },
+      "A2-135": {
+        "pron": "만샤프트",
+        "tip": "Mann(사람) + -schaft(무리) = 사람들의 무리 👥 -schaft로 끝나면 언제나 die!",
+        "bonus": "독일 국가대표팀을 그냥 die Mannschaft라고 부르기도 해요."
+      },
+      "B1-1167": {
+        "pron": "슈필러",
+        "tip": "spielen(하다, 놀다) + -er = 하는 사람 🏃 축구 선수도, 게이머도 Spieler!",
+        "bonus": "여자 선수는 die Spielerin."
+      },
+      "B1-1257": {
+        "pron": "토어",
+        "tip": "영어 door와 같은 뿌리 🥅 공이 골대라는 ‘문’으로 들어가면 Tor!",
+        "warn": "das Tor는 문, 골이지만 der Tor는 ‘바보’예요. 관사 조심!"
+      },
+      "B2-2735": {
+        "pron": "토어바르트",
+        "tip": "Tor(골) + Wart(지키는 사람) = 골 지킴이 🧤 Wart는 영어 ward와 친척이에요.",
+        "bonus": "같은 뜻으로 der Torhüter라고도 해요."
+      },
+      "B2-1239": {
+        "pron": "쉬츠리히터",
+        "tip": "scheiden(가르다) + Richter(판사) = 판정하는 판사 🟨 경기장의 판사님!",
+        "bonus": "Elfmeter! = 페널티킥! 심판이 휘슬을 불면 들리는 말이에요."
+      },
+      "A2-459": {
+        "pron": "펜",
+        "tip": "영어 fan에서 그대로 왔어요 📣 원래는 fanatic(광신자)의 줄임말!",
+        "bonus": "축구 팬 머플러는 der Fanschal."
+      },
+      "B1-1180": {
+        "pron": "슈타디온",
+        "tip": "그리스어 stadion(경주로)에서 왔어요 🏟️ 영어 stadium과 거의 같아요.",
+        "warn": "복수가 특이해요: die Stadien."
+      },
+      "B1-1483": {
+        "pron": "운엔트쉬덴",
+        "tip": "un-(아님) + entschieden(결정된) = 결정이 안 남 🤝 그래서 무승부!",
+        "bonus": "Es steht 1:1. = 1 대 1이에요. (eins zu eins라고 읽어요)"
+      }
     },
     "culture": [
       "독일에서 축구는 거의 국민 스포츠예요. 분데스리가 경기는 전통적으로 토요일 오후에 많이 열리고, 그 시간에는 술집이나 친구 집에 모여서 같이 보는 사람이 많아요.",
       "경기장에 가면 팬들이 팀 머플러(Schal)를 두르고 노래를 불러요. 독일 경기장에는 서서 응원하는 Stehplatz 구역이 있는 곳이 많아서 분위기가 정말 뜨거워요.",
       "월드컵이나 유럽 선수권 같은 큰 대회 때는 광장이나 공원에서 큰 화면으로 다 같이 보는 Public Viewing도 흔해요. 영어 같지만 독일에서 이런 뜻으로 쓰는 말이에요. 📺"
     ],
-    "quiz": {"q": "경기가 1:1로 끝났어요. 친구에게 결과를 어떻게 말할까요?", "o": ["Wir haben gewonnen!", "Der Torwart hat den Ball gehalten.", "Das Spiel ist unentschieden ausgegangen."], "a": 2, "why": "unentschieden = 무승부라서, 1:1로 끝난 경기에 딱 맞아요."},
+    "quiz": {
+      "q": "경기가 1:1로 끝났어요. 친구에게 결과를 어떻게 말할까요?",
+      "o": [
+        "Wir haben gewonnen!",
+        "Der Torwart hat den Ball gehalten.",
+        "Das Spiel ist unentschieden ausgegangen."
+      ],
+      "a": 2,
+      "why": "unentschieden = 무승부라서, 1:1로 끝난 경기에 딱 맞아요."
+    },
     "outro": "다음 경기 볼 때 골이 들어가면 크게 “Tor!”, 비기면 “Unentschieden!”을 외쳐 봐요. 옆자리 독일 사람과 바로 친구가 될지도요! 🎉"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words are the ones you'll hear during any match. With them you can join the conversation, and next time you'll be shouting “Tor!” with everyone else. ⚽"
     ],
     "words": {
-      "A1-480": {"pron": "FOOS-bal", "tip": "Fuß (foot) + Ball = football ⚽ Built exactly like the English word.", "bonus": "Fußball spielen = to play football · Fußball gucken = to watch football"},
-      "A2-914": {"pron": "FOOS-bal-shpeel", "tip": "Fußball + Spiel (game) 🏟️ Spiel is das, so the whole word is das.", "bonus": "People often just say das Spiel: Wer hat das Spiel gewonnen?"},
-      "A2-135": {"pron": "MAN-shaft", "tip": "Mann (man) + -schaft (group) = a group of people 👥 Words ending in -schaft are always die.", "bonus": "The German national team is often simply called die Mannschaft."},
-      "B1-1167": {"pron": "SHPEE-ler", "tip": "spielen (to play) + -er = player 🏃 Footballers and gamers are both Spieler.", "bonus": "A female player is die Spielerin."},
-      "B1-1257": {"pron": "TOR", "tip": "Same root as English door 🥅 The ball goes through the ‘door’ — Tor!", "warn": "das Tor = gate, goal, but der Tor = fool. Mind the article!"},
-      "B2-2735": {"pron": "TOR-vart", "tip": "Tor (goal) + Wart (keeper — think ward) = goalkeeper 🧤", "bonus": "You'll also hear der Torhüter."},
-      "B2-1239": {"pron": "SHEETS-rikh-ter", "tip": "scheiden (to separate, decide) + Richter (judge) = the judge on the pitch 🟨", "bonus": "Elfmeter! = Penalty! You'll hear it when the whistle blows."},
-      "A2-459": {"pron": "FEN", "tip": "Straight from English fan, short for fanatic 📣", "bonus": "A football scarf is der Fanschal."},
-      "B1-1180": {"pron": "SHTAH-dee-on", "tip": "From Greek stadion, a racecourse 🏟️ Almost the same as stadium.", "warn": "Unusual plural: die Stadien."},
-      "B1-1483": {"pron": "OON-ent-shee-den", "tip": "un- (not) + entschieden (decided) = not decided 🤝 So it's a draw!", "bonus": "Es steht 1:1. = It's one-all. (Say eins zu eins.)"}
+      "A1-480": {
+        "pron": "FOOS-bal",
+        "tip": "Fuß (foot) + Ball = football ⚽ Built exactly like the English word.",
+        "bonus": "Fußball spielen = to play football · Fußball gucken = to watch football"
+      },
+      "A2-914": {
+        "pron": "FOOS-bal-shpeel",
+        "tip": "Fußball + Spiel (game) 🏟️ Spiel is das, so the whole word is das.",
+        "bonus": "People often just say das Spiel: Wer hat das Spiel gewonnen?"
+      },
+      "A2-135": {
+        "pron": "MAN-shaft",
+        "tip": "Mann (man) + -schaft (group) = a group of people 👥 Words ending in -schaft are always die.",
+        "bonus": "The German national team is often simply called die Mannschaft."
+      },
+      "B1-1167": {
+        "pron": "SHPEE-ler",
+        "tip": "spielen (to play) + -er = player 🏃 Footballers and gamers are both Spieler.",
+        "bonus": "A female player is die Spielerin."
+      },
+      "B1-1257": {
+        "pron": "TOR",
+        "tip": "Same root as English door 🥅 The ball goes through the ‘door’ — Tor!",
+        "warn": "das Tor = gate, goal, but der Tor = fool. Mind the article!"
+      },
+      "B2-2735": {
+        "pron": "TOR-vart",
+        "tip": "Tor (goal) + Wart (keeper — think ward) = goalkeeper 🧤",
+        "bonus": "You'll also hear der Torhüter."
+      },
+      "B2-1239": {
+        "pron": "SHEETS-rikh-ter",
+        "tip": "scheiden (to separate, decide) + Richter (judge) = the judge on the pitch 🟨",
+        "bonus": "Elfmeter! = Penalty! You'll hear it when the whistle blows."
+      },
+      "A2-459": {
+        "pron": "FEN",
+        "tip": "Straight from English fan, short for fanatic 📣",
+        "bonus": "A football scarf is der Fanschal."
+      },
+      "B1-1180": {
+        "pron": "SHTAH-dee-on",
+        "tip": "From Greek stadion, a racecourse 🏟️ Almost the same as stadium.",
+        "warn": "Unusual plural: die Stadien."
+      },
+      "B1-1483": {
+        "pron": "OON-ent-shee-den",
+        "tip": "un- (not) + entschieden (decided) = not decided 🤝 So it's a draw!",
+        "bonus": "Es steht 1:1. = It's one-all. (Say eins zu eins.)"
+      }
     },
     "culture": [
       "Football is close to a national sport in Germany. Bundesliga matches traditionally take place on Saturday afternoons, and many people meet in a pub or at a friend's place to watch together.",
       "At the stadium, fans wear their club scarf (Schal) and sing all match long. Many German stadiums still have standing sections (Stehplatz), which makes the atmosphere really loud.",
       "During big tournaments like the World Cup or the Euros, people gather in squares and parks to watch on giant screens. Germans call this Public Viewing — it sounds English, but that's a German use of it. 📺"
     ],
-    "quiz": {"q": "The match ended 1:1. How do you tell a friend the result?", "o": ["Wir haben gewonnen!", "Der Torwart hat den Ball gehalten.", "Das Spiel ist unentschieden ausgegangen."], "a": 2, "why": "unentschieden means drawn, which fits a 1:1 result."},
+    "quiz": {
+      "q": "The match ended 1:1. How do you tell a friend the result?",
+      "o": [
+        "Wir haben gewonnen!",
+        "Der Torwart hat den Ball gehalten.",
+        "Das Spiel ist unentschieden ausgegangen."
+      ],
+      "a": 2,
+      "why": "unentschieden means drawn, which fits a 1:1 result."
+    },
     "outro": "At the next match, shout “Tor!” for every goal and “Unentschieden!” at a draw. You might make a new German friend on the spot! 🎉"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日は試合中に必ず聞こえてくる単語を10個集めました。この10個があれば試合の話に入れて、次はみんなと一緒に「Tor!」と叫べます。⚽"
     ],
     "words": {
-      "A1-480": {"pron": "フースバル", "tip": "Fuß（足）+ Ball（ボール）= 足で蹴るボール ⚽ 英語の football と同じ組み立てです！", "bonus": "Fußball spielen = サッカーをする · Fußball gucken = サッカーを観る"},
-      "A2-914": {"pron": "フースバルシュピール", "tip": "Fußball + Spiel（試合）🏟️ 最後の Spiel が das なので、全体も das！", "bonus": "短く das Spiel とも言います：Wer hat das Spiel gewonnen?"},
-      "A2-135": {"pron": "マンシャフト", "tip": "Mann（人）+ -schaft（集まり）= 人の集まり 👥 -schaft で終わる名詞はいつも die！", "bonus": "ドイツ代表チームを単に die Mannschaft と呼ぶこともあります。"},
-      "B1-1167": {"pron": "シュピーラー", "tip": "spielen（プレーする）+ -er = プレーする人 🏃 サッカー選手もゲーマーも Spieler！", "bonus": "女性の選手は die Spielerin."},
-      "B1-1257": {"pron": "トーア", "tip": "英語の door と同じ語源 🥅 ボールが「門」に入ったら Tor！", "warn": "das Tor は門・ゴールですが、der Tor は「愚か者」。冠詞に注意！"},
-      "B2-2735": {"pron": "トーアヴァルト", "tip": "Tor（ゴール）+ Wart（番人）= ゴールの番人 🧤 Wart は英語の ward の親戚です。", "bonus": "同じ意味で der Torhüter とも言います。"},
-      "B2-1239": {"pron": "シーツリヒター", "tip": "scheiden（分ける）+ Richter（裁判官）= 判定する裁判官 🟨 ピッチの裁判官です！", "bonus": "Elfmeter! = PK！審判の笛が鳴ったときに聞こえる言葉です。"},
-      "A2-459": {"pron": "フェン", "tip": "英語の fan がそのまま入ってきた言葉 📣 もとは fanatic（熱狂者）の略です！", "bonus": "サッカーファンのマフラーは der Fanschal."},
-      "B1-1180": {"pron": "シュターディオン", "tip": "ギリシャ語 stadion（競走路）から 🏟️ 英語の stadium とほぼ同じです。", "warn": "複数形が特殊です：die Stadien."},
-      "B1-1483": {"pron": "ウンエントシーデン", "tip": "un-（〜でない）+ entschieden（決まった）= 決着がつかない 🤝 つまり引き分け！", "bonus": "Es steht 1:1. = 1対1です。（eins zu eins と読みます）"}
+      "A1-480": {
+        "pron": "フースバル",
+        "tip": "Fuß（足）+ Ball（ボール）= 足で蹴るボール ⚽ 英語の football と同じ組み立てです！",
+        "bonus": "Fußball spielen = サッカーをする · Fußball gucken = サッカーを観る"
+      },
+      "A2-914": {
+        "pron": "フースバルシュピール",
+        "tip": "Fußball + Spiel（試合）🏟️ 最後の Spiel が das なので、全体も das！",
+        "bonus": "短く das Spiel とも言います：Wer hat das Spiel gewonnen?"
+      },
+      "A2-135": {
+        "pron": "マンシャフト",
+        "tip": "Mann（人）+ -schaft（集まり）= 人の集まり 👥 -schaft で終わる名詞はいつも die！",
+        "bonus": "ドイツ代表チームを単に die Mannschaft と呼ぶこともあります。"
+      },
+      "B1-1167": {
+        "pron": "シュピーラー",
+        "tip": "spielen（プレーする）+ -er = プレーする人 🏃 サッカー選手もゲーマーも Spieler！",
+        "bonus": "女性の選手は die Spielerin."
+      },
+      "B1-1257": {
+        "pron": "トーア",
+        "tip": "英語の door と同じ語源 🥅 ボールが「門」に入ったら Tor！",
+        "warn": "das Tor は門・ゴールですが、der Tor は「愚か者」。冠詞に注意！"
+      },
+      "B2-2735": {
+        "pron": "トーアヴァルト",
+        "tip": "Tor（ゴール）+ Wart（番人）= ゴールの番人 🧤 Wart は英語の ward の親戚です。",
+        "bonus": "同じ意味で der Torhüter とも言います。"
+      },
+      "B2-1239": {
+        "pron": "シーツリヒター",
+        "tip": "scheiden（分ける）+ Richter（裁判官）= 判定する裁判官 🟨 ピッチの裁判官です！",
+        "bonus": "Elfmeter! = PK！審判の笛が鳴ったときに聞こえる言葉です。"
+      },
+      "A2-459": {
+        "pron": "フェン",
+        "tip": "英語の fan がそのまま入ってきた言葉 📣 もとは fanatic（熱狂者）の略です！",
+        "bonus": "サッカーファンのマフラーは der Fanschal."
+      },
+      "B1-1180": {
+        "pron": "シュターディオン",
+        "tip": "ギリシャ語 stadion（競走路）から 🏟️ 英語の stadium とほぼ同じです。",
+        "warn": "複数形が特殊です：die Stadien."
+      },
+      "B1-1483": {
+        "pron": "ウンエントシーデン",
+        "tip": "un-（〜でない）+ entschieden（決まった）= 決着がつかない 🤝 つまり引き分け！",
+        "bonus": "Es steht 1:1. = 1対1です。（eins zu eins と読みます）"
+      }
     },
     "culture": [
       "ドイツでサッカーはほぼ国民的スポーツです。ブンデスリーガの試合は伝統的に土曜の午後に多く、その時間は酒場や友だちの家に集まって一緒に観る人がたくさんいます。",
       "スタジアムでは、ファンがチームのマフラー（Schal）を巻いて歌い続けます。ドイツのスタジアムには立って応援する Stehplatz のエリアがあるところが多く、雰囲気はとても熱いです。",
       "ワールドカップやユーロのような大きな大会では、広場や公園の大型スクリーンでみんなで観る Public Viewing もよくあります。英語っぽいですが、ドイツではこの意味で使われる言葉です。📺"
     ],
-    "quiz": {"q": "試合が1対1で終わりました。友だちに結果をどう伝えますか？", "o": ["Wir haben gewonnen!", "Der Torwart hat den Ball gehalten.", "Das Spiel ist unentschieden ausgegangen."], "a": 2, "why": "unentschieden は「引き分け」なので、1対1で終わった試合にぴったりです。"},
+    "quiz": {
+      "q": "試合が1対1で終わりました。友だちに結果をどう伝えますか？",
+      "o": [
+        "Wir haben gewonnen!",
+        "Der Torwart hat den Ball gehalten.",
+        "Das Spiel ist unentschieden ausgegangen."
+      ],
+      "a": 2,
+      "why": "unentschieden は「引き分け」なので、1対1で終わった試合にぴったりです。"
+    },
     "outro": "次の試合では、ゴールのたびに「Tor!」、引き分けなら「Unentschieden!」と叫んでみましょう。隣のドイツ人とすぐ友だちになれるかも！🎉"
+  },
+  "tr": {
+    "title": "Hep birlikte bağırın: 10 Almanca futbol kelimesi",
+    "hook": "Almanya'da arkadaş edinmenin en hızlı yolu mu? Birlikte maç izlemek.",
+    "intro": [
+      "Cumartesi öğleden sonra, mahalle birahanesi (Kneipe) forma giymiş insanlarla dolu. Bir gol oluyor, herkes ayağa fırlayıp “Tor!” diye bağırıyor; siz ise bir saniye geç alkışlıyorsunuz.",
+      "Bugünkü on kelime her maçta duyacağınız kelimeler. Bunlarla sohbete katılabilir, bir dahaki sefere herkesle birlikte “Tor!” diye bağırabilirsiniz. ⚽"
+    ],
+    "words": {
+      "A1-480": {
+        "pron": "FUS-bal",
+        "tip": "Fuß (ayak) + Ball (top) = futbol ⚽ İngilizce football ile tıpatıp aynı yapı.",
+        "bonus": "Fußball spielen = futbol oynamak · Fußball gucken = maç izlemek"
+      },
+      "A2-914": {
+        "pron": "FUS-bal-şpil",
+        "tip": "Fußball + Spiel (oyun, maç) 🏟️ Spiel das olduğu için kelimenin tamamı das.",
+        "bonus": "Çoğu zaman kısaca das Spiel denir: Wer hat das Spiel gewonnen?"
+      },
+      "A2-135": {
+        "pron": "MAN-şaft",
+        "tip": "Mann (adam) + -schaft (topluluk) = bir grup insan 👥 -schaft ile bitenler hep die.",
+        "bonus": "Alman milli takımına çoğu zaman kısaca die Mannschaft denir."
+      },
+      "B1-1167": {
+        "pron": "ŞPİ-lır",
+        "tip": "spielen (oynamak) + -er = oyuncu 🏃 Futbolcular da oyun oynayanlar da Spieler'dır.",
+        "bonus": "Kadın oyuncu die Spielerin."
+      },
+      "B1-1257": {
+        "pron": "TOR",
+        "tip": "İngilizce door ile aynı kökten 🥅 Top ‘kapıdan’ geçer: Tor!",
+        "warn": "das Tor = kapı, gol; ama der Tor = budala. Artikele dikkat!"
+      },
+      "B2-2735": {
+        "pron": "TOR-vart",
+        "tip": "Tor (kale) + Wart (bekçi) = kaleci 🧤",
+        "bonus": "der Torhüter da duyarsınız."
+      },
+      "B2-1239": {
+        "pron": "ŞİTS-rih-tır",
+        "tip": "scheiden (ayırmak, karar vermek) + Richter (yargıç) = sahadaki yargıç 🟨",
+        "bonus": "Elfmeter! = Penaltı! Düdük çalınca duyarsınız."
+      },
+      "A2-459": {
+        "pron": "FEN",
+        "tip": "Doğrudan İngilizce fan'dan; fanatic'in kısası, Türkçedeki “fanatik” gibi 📣",
+        "bonus": "Taraftar atkısı der Fanschal."
+      },
+      "B1-1180": {
+        "pron": "ŞTA-di-on",
+        "tip": "Yunanca stadion (koşu pisti) kökünden 🏟️ Türkçedeki “stadyum” ile neredeyse aynı.",
+        "warn": "Alışılmadık bir çoğul: die Stadien."
+      },
+      "B1-1483": {
+        "pron": "UN-ent-şi-den",
+        "tip": "un- (değil) + entschieden (karara bağlanmış) = karara bağlanmamış 🤝 Yani berabere!",
+        "bonus": "Es steht 1:1. = 1-1. (eins zu eins diye okunur.)"
+      }
+    },
+    "culture": [
+      "Futbol Almanya'da neredeyse milli spordur. Bundesliga maçları geleneksel olarak cumartesi öğleden sonraları oynanır ve pek çok kişi birlikte izlemek için bir birahanede ya da bir arkadaşın evinde buluşur.",
+      "Stadyumda taraftarlar kulüp atkılarını (Schal) takar ve maç boyunca şarkı söyler. Pek çok Alman stadyumunda hâlâ ayakta izleme bölümleri (Stehplatz) vardır; bu da atmosferi çok gürültülü yapar.",
+      "Dünya Kupası ya da Avrupa Şampiyonası gibi büyük turnuvalarda insanlar meydanlarda ve parklarda dev ekranlarda maç izlemek için toplanır. Almanlar buna Public Viewing der; kulağa İngilizce gelir ama bu Almanlara özgü bir kullanımdır. 📺"
+    ],
+    "quiz": {
+      "q": "Maç 1:1 bitti. Sonucu bir arkadaşınıza nasıl söylersiniz?",
+      "o": [
+        "Wir haben gewonnen!",
+        "Der Torwart hat den Ball gehalten.",
+        "Das Spiel ist unentschieden ausgegangen."
+      ],
+      "a": 2,
+      "why": "unentschieden berabere demektir; 1:1'lik bir sonuca uyar."
+    },
+    "outro": "Bir sonraki maçta her golde “Tor!”, beraberlikte “Unentschieden!” diye bağırın. Belki hemen orada yeni bir Alman arkadaş edinirsiniz! 🎉"
   }
 }

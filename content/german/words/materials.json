@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "お店で、バッグが革製かどうか知りたいです。正しい質問は？", "o": ["Ist die Tasche aus Leder?", "Ist die Tasche von Leder?", "Ist die Tasche mit Leder?"], "a": 0, "why": "何でできているかを言うときは aus を使います：aus Leder, aus Holz。"},
     "outro": "身の回りの物を3つ選んで „Das ist aus …“ と声に出して言ってみましょう。机は aus Holz、マグカップは aus …？🧱"
+  },
+  "tr": {
+    "title": "Tahta mı, yün mü, plastik mi? Malzemeler için 10 Almanca kelime",
+    "hook": "Bit pazarında harika bir çanta mı buldunuz? İlk soru her zaman ‘neyden yapılmış?’ olur.",
+    "intro": [
+      "Bir hafta sonu bit pazarında (Flohmarkt) çok güzel bir çanta buldum ve durmadan „Ist das echt?“ diye sordum. Gerçek deri olup olmadığını öğrenmek istiyordum ama deri kelimesi bir türlü aklıma gelmedi.",
+      "Bugünkü 10 kelime bir şeyin neyden yapıldığını söylemek için. Bunlarla alışverişte malzemeyi sorabilir, çöpünüzü doğru ayırabilir ve kendi eşyalarınızı tarif edebilirsiniz. 🧱"
+    ],
+    "words": {
+      "B1-934": {"pron": "ma-te-RYAL", "tip": "Türkçedeki materyal ile aynı 🧵 Vurgu son hecede.", "warn": "Alışılmadık çoğul: die Materialien"},
+      "B1-789": {"pron": "HOLTS", "tip": "Eski İngilizce holt (koru) ile akraba 🌳 Eskiden ‘orman’ anlamına da geliyordu.", "bonus": "Klopf auf Holz! = Tahtaya vur!"},
+      "B1-947": {"pron": "me-TAL", "tip": "Türkçedeki metal ile aynı, vurgu sonda 🤘", "bonus": "‘…den yapılmış’ = aus + Dativ: aus Metall, aus Holz"},
+      "B1-1415": {"pron": "VO-le", "tip": "İngilizce wool ile aynı kökten 🐑 Koyun yünü kazak aus Wolle'dir.", "bonus": "Sıfatı wollig = yünlü, kabarık"},
+      "B1-891": {"pron": "KUNST-ştof", "tip": "Kunst (yapay şey) + Stoff (madde) = insan yapımı malzeme 🧴 Plastiğin resmî adı.", "bonus": "Günlük dilde das Plastik de denir."},
+      "A1-281": {"pron": "pa-PİR", "tip": "Yunanca papyros (papirüs) kökünden 📜 Türkçedeki papirüs ile akraba.", "warn": "Çoğulu die Papiere belgeler, evrak demek."},
+      "B1-1203": {"pron": "ŞTOF", "tip": "İngilizce stuff ile akraba 🧶 Kumaş, madde ya da ders konusu; hepsi Stoff.", "bonus": "sınav konusu = der Prüfungsstoff"},
+      "B1-909": {"pron": "LE-der", "tip": "İngilizce leather ile aynı kökten 👜 Gerçek deri echtes Leder'dir.", "warn": "Çoğulu aynı: die Leder"},
+      "B1-1197": {"pron": "ŞTAYN", "tip": "İngilizce stone ile aynı kökten 🪨 Bira bardağı stein adını Steinzeug (taş çini) kelimesinden alır.", "bonus": "Mir fällt ein Stein vom Herzen. = İçim rahatladı (yüreğimden taş düştü)."},
+      "A2-479": {"pron": "HART", "tip": "İngilizce hard ile aynı kökten 💪 Sert yüzeyler de zor zamanlar da hart.", "bonus": "Zıttı: weich = yumuşak"}
+    },
+    "culture": [
+      "Almanya'da çöpünüzü ayırmak için malzeme kelimelerine ihtiyacınız olacak. Pek çok yerde kâğıt (Papier) mavi kutuya, plastik (Kunststoff) ya da metal (Metall) ambalajlar ise sarı torbaya veya kutuya gider. Kurallar şehirden şehre biraz değişir; taşındığınızda binanızdaki duyuruya bakın.",
+      "Eski bir şehir merkezinde dolaşırsanız ahşap iskeleti dışarıdan görünen yarı ahşap evlere (Fachwerkhaus) sık sık rastlarsınız. Tahta, kil ve taştan yapılan bu evler bütün sokakları masal gibi gösterir.",
+      "Bir Alman arkadaşınız sınavınızdan ya da mülakatınızdan önce masaya vurup „Toi, toi, toi!“ derse, bu Klopf auf Holz'un ta kendisidir. Size şans diliyor. 🍀"
+    ],
+    "quiz": {"q": "Bir dükkânda çantanın deri olup olmadığını öğrenmek istiyorsunuz. Hangi soru doğru?", "o": ["Ist die Tasche aus Leder?", "Ist die Tasche von Leder?", "Ist die Tasche mit Leder?"], "a": 0, "why": "Bir şeyin neyden yapıldığını söylemek için Almanca aus kullanır: aus Leder, aus Holz."},
+    "outro": "Çevrenizden üç şey seçin ve yüksek sesle „Das ist aus …“ deyin. Masa aus Holz, kupa aus…? 🧱"
   }
 }

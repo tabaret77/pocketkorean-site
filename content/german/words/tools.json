@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "棚を組み立てていて、ねじを回したいです。隣の友だちに何と頼みますか？「Kannst du mir mal … geben?」", "o": ["den Hammer", "den Schraubendreher", "den Kleber"], "a": 1, "why": "ねじ（Schraube）を回す（drehen）道具が der Schraubendreher です。"},
     "outro": "今日は家にある工具をひとつずつ取り出して、ドイツ語の名前を呼んでみましょう。次の家具の組み立ては、ドイツ語でつぶやきながら！🪛"
+  },
+  "tr": {
+    "title": "Alet çantanızı kapın: kendin yap işleri için 10 Almanca kelime",
+    "hook": "Alman bir dairede yeterince uzun yaşarsanız elinize bir gün mutlaka çekiç alırsınız. Bu kelimeler o gün için.",
+    "intro": [
+      "Yeni taşındınız. Duvarlar bomboş, yeni raf hâlâ kutusunda parça parça duruyor. Komşunuzun matkabını ödünç almak istiyorsunuz ama Almanca ‘matkap’ ne? Yapı markette doğru vidayı bulmak da imkânsız gibi.",
+      "Bugünkü on kelime tamamen aletler ve kendin yap işleri hakkında. Bunlarla alet ödünç alabilir, markette yardım isteyebilir ve bozulan şeyi birine tamir ettirebilirsiniz. 🛠️"
+    ],
+    "words": {
+      "B1-272": {"pron": "VERK-tsoyk", "tip": "Werk (iş) + Zeug (şey, eşya) = iş eşyası 🧰", "bonus": "Zeug tek başına ‘şey, zımbırtı’ demek: Was ist das für Zeug?"},
+      "B1-769": {"pron": "HA-mer", "tip": "İngilizce hammer ile aynı — güm, güm 🔨", "warn": "Çoğulu umlautlu: die Hämmer", "bonus": "Konuşma dilinde: Das ist der Hammer! = İnanılmaz! (iyi ya da kötü)"},
+      "B1-972": {"pron": "NA-gel", "tip": "Duvardaki çivi de parmağınızdaki tırnak da Nagel'dir 💅 Türkçedeki ‘nal’ı düşünün, o da çivilenir!", "warn": "Çoğulu die Nägel'dir.", "bonus": "den Nagel auf den Kopf treffen = taşı gediğine koymak (tam isabet)"},
+      "B2-2377": {"pron": "ŞRAU-be", "tip": "İngilizce screw'nun kuzeni — çevirerek sokun 🔩", "bonus": "eine Schraube locker haben = bir tahtası eksik olmak"},
+      "B2-2378": {"pron": "ŞRAU-ben-drey-er", "tip": "Schraube + drehen (çevirmek) + -er = vida çevirici 🪛 Türkçedeki ‘tornavida’ da ‘vidayı tornala’ demek!", "bonus": "Günlük konuşmada der Schraubenzieher da duyarsınız · yıldız tornavida = der Kreuzschraubendreher"},
+      "B2-2380": {"pron": "BOR-ma-şi-ne", "tip": "bohren (delmek) + Maschine = delme makinesi 🔌 Türkçedeki ‘burgu’yu düşünün.", "bonus": "Bir şey asmak için dübel de lazım: der Dübel!"},
+      "B2-2395": {"pron": "KLEY-ber", "tip": "kleben (yapıştırmak) + -er = yapıştırıcı 🧴", "bonus": "bant = das Klebeband"},
+      "A2-167": {"pron": "re-pa-Rİ-ren", "tip": "Tıpkı İngilizce repair gibi 🔧 Bozuksa, reparieren!", "warn": "-ieren fiilleri geçmiş zaman ortacında ge- almaz: hat repariert", "bonus": "ismi: die Reparatur · bozuk = kaputt"},
+      "B2-2399": {"pron": "BAU-markt", "tip": "bauen (inşa etmek) + Markt (pazar) = yapı market 🏬 Türkçesi de neredeyse kelimesi kelimesine aynı!", "bonus": "kendin yap işleri yapmak = heimwerken"},
+      "B2-2402": {"pron": "tsu-ZA-men-bau-en", "tip": "zusammen (birlikte) + bauen (inşa etmek) = parçaları birleştirip kurmak 🪑", "warn": "Ayrılabilen: Ich baue das Regal zusammen. · hat zusammengebaut", "bonus": "kurulum kılavuzu = die Bauanleitung"}
+    },
+    "culture": [
+      "Almanlar kendin yap işlerine (Heimwerken) bayılır. Cumartesi günleri yapı marketler (Baumarkt) alet ve boya alan insanlarla dolup taşar; birçoğu tahtaları sizin için ölçüye göre keser.",
+      "Kiralık dairelerde bile raf asmak için duvara delik açmak çok yaygındır. Taşınırken bunları doldurmanız gerekip gerekmediği sözleşmenize ve ev sahibinize bağlıdır, o yüzden önce kontrol etmekte fayda var.",
+      "Ve delme işini doğru zamanlayın! Birçok binada pazar günleri ve geceleri gürültülü işlerden kaçınmak temel görgü kuralıdır. 🔨"
+    ],
+    "quiz": {"q": "Bir raf kuruyorsunuz ve birkaç vida çevirmeniz gerekiyor. Arkadaşınızdan ne istersiniz? ‘Kannst du mir mal … geben?’", "o": ["den Hammer", "den Schraubendreher", "den Kleber"], "a": 1, "why": "der Schraubendreher vidaları (Schrauben) çeviren (drehen) alettir."},
+    "outro": "Evdeki aletlerinizi çıkarın ve her birinin Almanca adını söyleyin. Bir dahaki mobilya kurulumunda işi yaparken Almanca söylenmeyi deneyin! 🪛"
   }
 }

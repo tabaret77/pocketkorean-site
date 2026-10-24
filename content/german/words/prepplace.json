@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "猫がテーブルの下で寝ています。正しい文はどれでしょう？", "o": ["Die Katze liegt unter dem Tisch.", "Die Katze liegt auf dem Tisch.", "Die Katze liegt über dem Tisch."], "a": 0, "why": "unter は「〜の下に」。auf はテーブルの上、über はテーブルの上の空中という意味です。"},
     "outro": "今いる部屋を見回して、5つの物の場所をドイツ語で言ってみましょう。Das Handy liegt auf dem Tisch！📱"
+  },
+  "tr": {
+    "title": "Nerede? Size yerini söyleyen 10 küçük Almanca kelime",
+    "hook": "Anahtarlar nerede? Eczane nerede? Bu minik kelimeler olmadan cevap veremezsiniz.",
+    "intro": [
+      "Alman bir arkadaşımın evinde „Wo ist das Bad?“ diye sordum. Cevap: „Hinter der Küche, neben dem Schlafzimmer.“ Kısa kelimeler, ama kafam bomboş kaldı.",
+      "Bugünkü 10 kelime yer bildiren edatlar. Türkçede -de, -e gibi eklerle ya da ‘üstünde, altında’ gibi kelimelerle söylediklerimizi Almanca bu küçük kelimelerle söylersiniz. Bunlarla eşyaların nerede olduğunu söyleyebilir, yol sorabilir ve tarifleri anlayabilirsiniz. 📍"
+    ],
+    "words": {
+      "A1-093": {"pron": "İN", "tip": "Tıpkı İngilizce in gibi, Türkçedeki ‘içinde’ 📦 Buzdolabındaki süt im Kühlschrank'tadır.", "warn": "Nerede? sorusunda Dativ (im), nereye? sorusunda Akkusativ (ins): Ich gehe ins Kino."},
+      "A1-417": {"pron": "AUF", "tip": "İngilizce up ile aynı kökten 📚 Üstünde ve temas ediyorsa: auf!", "warn": "Temas etmeden üstünde ise über. Das Buch liegt auf dem Tisch."},
+      "A1-566": {"pron": "UN-ter", "tip": "İngilizce under ile neredeyse aynı 🐈 Masanın altındaki kedi: unter dem Tisch.", "bonus": "unter uns = aramızda kalsın"},
+      "A2-523": {"pron": "NE-ben", "tip": "in eben, yani ‘aynı hizada’ ifadesinin sıkışmış hâli 🧍‍♂️ Yan yana = yanında.", "bonus": "Die Bank ist neben der Post. = Banka postanenin yanında."},
+      "A2-485": {"pron": "HİN-ter", "tip": "İngilizce behind ve hind ile kuzen 🏡 Evin arkasındaki bahçe: hinter dem Haus.", "warn": "Konum Dativ alır (hinter dem Haus), hareket Akkusativ (hinter das Haus)."},
+      "A1-592": {"pron": "TSVİ-şen", "tip": "İçinde zwei (iki) saklı ✌️ İki şeyin arasına sıkışmış.", "bonus": "zwischen der Bank und der Post = bankayla postanenin arasında"},
+      "A1-406": {"pron": "AN", "tip": "İngilizce on ile aynı kökten 🖼️ Bir kenara temas ediyorsa, duvardaki tablo gibi: an.", "bonus": "an + dem = am: am Fenster (pencerenin yanında), am Montag (pazartesi günü)"},
+      "A1-562": {"pron": "Ü-ber", "tip": "İngilizce over ile aynı kökten 💡 Masanın üstünde asılı lamba: über dem Tisch.", "bonus": "‘Hakkında’ anlamına da gelir: über das Wetter sprechen"},
+      "A2-094": {"pron": "ge-gen-Ü-ber", "tip": "gegen (-e doğru) + über (karşıya) = yolun karşısında ↔️", "warn": "Her zaman Dativ alır ve zamirlerden sonra gelir: mir gegenüber."},
+      "A1-431": {"pron": "BAY", "tip": "İngilizce by ile aynı kökten 🏠 Birinin yanında ya da evinde: bei, Türkçedeki ‘-de’ gibi.", "warn": "Her zaman Dativ. bei + dem = beim: Ich bin beim Arzt."}
+    },
+    "culture": [
+      "Almanya'da yol sorduğunuzda genellikle çok kesin bir cevap alırsınız, örneğin „Gegenüber der Apotheke, neben dem Supermarkt.“ Bugünkü kelimelerle tarifleri takip etmek çok daha kolaylaşır.",
+      "Katlara dikkat! Zemin kat das Erdgeschoss'tur; yani im ersten Stock bir kat yukarısıdır, tıpkı Türkiye'deki birinci kat gibi. Amerikalıların ‘ikinci kat’ dediği yer. Biriyle buluşurken karıştırmak kolaydır.",
+      "Ve ‘birinin evinde’ demek sadece bei'dir: Ich bin bei Anna. = Anna'dayım. Almanlar bunu sürekli kullanır. 🏠"
+    ],
+    "quiz": {"q": "Kedi masanın altında uyuyor. Hangi cümle doğru?", "o": ["Die Katze liegt unter dem Tisch.", "Die Katze liegt auf dem Tisch.", "Die Katze liegt über dem Tisch."], "a": 0, "why": "unter altında demek; auf masanın üstünde, über ise masanın yukarısında demektir."},
+    "outro": "Odanıza bakın ve beş şeyin nerede olduğunu Almanca söyleyin. Das Handy liegt auf dem Tisch! 📱"
   }
 }

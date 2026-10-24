@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "カフェでWi-Fiを使いたいです。店員さんに何と聞きますか？", "o": ["Ich kündige den Vertrag.", "Wie ist das WLAN-Passwort?", "Mein Handy ist kaputt."], "a": 1, "why": "Wie ist das WLAN-Passwort? =「Wi-Fiのパスワードは何ですか？」カフェでそのまま使える文です。"},
     "outro": "今日は自分のスマホの料金プランをドイツ語で紹介してみましょう。Mein Tarif hat… から始めればOKです！📶"
+  },
+  "tr": {
+    "title": "Bağlantıda kalın: Telefon ve internet için 10 Almanca kelime",
+    "hook": "Almanya'daki ilk haftanızda ev aramadan önce Wi-Fi arayacaksınız.",
+    "intro": [
+      "İniyorsunuz, telefonunuzu açıyorsunuz ve… hiçbir şey. Telefon mağazasında satıcı hiç durmadan Tarif, Laufzeit ve Datenvolumen'den bahsediyor. Başınızı sallıyorsunuz ama neredeyse hiçbir şey anlamadınız.",
+      "Bugünkü 10 kelime her telefon ya da internet sözleşmesi imzaladığınızda karşınıza çıkıyor. Bunlarla tarifeleri karşılaştırabilir, küçük harflerle yazılanları okuyabilir ve sonra sözleşmeyi kendiniz iptal edebilirsiniz. 📱"
+    ],
+    "words": {
+      "BL-13-01": {"pron": "HEN-di", "tip": "İngilizce görünüyor ama telefona Handy diyen sadece Almanlar 📱", "warn": "Sahte arkadaş: İngilizce ‘handy’ (kullanışlı) Almancada praktisch'tir."},
+      "B1-034": {"pron": "fer-TRAK", "tip": "ver- + tragen (taşımak) = iki tarafın da kendi payını taşıdığı anlaşma 🤝", "bonus": "Kira sözleşmesi: der Mietvertrag · iş sözleşmesi: der Arbeitsvertrag"},
+      "BL-13-04": {"pron": "ta-RİF", "tip": "Türkçedeki tarife ile aynı kelime; Alman aksanlı bir fiyat listesi 📊", "bonus": "Cep telefonu tarifesi der Handytarif."},
+      "BL-13-03": {"pron": "ZİM-kar-te", "tip": "Almanca S, Z gibi okunur; SIM de ‘zim’ olur 🗂️", "bonus": "Artık pek çok kişi die eSIM kullanıyor."},
+      "BL-13-05": {"pron": "DA-ten-vo-LU-men", "tip": "Daten (veri) + Volumen (hacim) = veri kovanızın büyüklüğü, yani kotanız 📶", "bonus": "Bittiğinde: Mein Datenvolumen ist aufgebraucht."},
+      "A2-280": {"pron": "VE-lan", "tip": "Almanca W, V gibi okunur; yani ‘vay-fay’ değil ‘VE-lan’ 📡", "bonus": "Kafede işe yarar: Gibt es hier WLAN?"},
+      "A1-498": {"pron": "İN-ter-net", "tip": "Bedava kelime; Türkçedeki ile aynı 🌐 im Internet = internette", "warn": "Nötrdür: das Internet."},
+      "B1-428": {"pron": "AN-bi-ter", "tip": "an + bieten (teklif etmek, İngilizce bid gibi) + -er = size teklif sunan 🏪", "bonus": "Teklifin kendisi: das Angebot"},
+      "BL-13-09": {"pron": "LAUF-tsayt", "tip": "Bir sözleşmenin işlediği (laufen) süre (Zeit) ⏳", "bonus": "Bir filmin gösterim süresi anlamına da gelir."},
+      "A2-068": {"pron": "KÜN-di-gen", "tip": "Bir sözleşmeden ya da işten bıktınız mı? kündigen ✂️", "warn": "İşten çıkarılmak için de kullanılır: Mir wurde gekündigt. (İşten çıkarıldım.)"}
+    },
+    "culture": [
+      "Almanya'da genellikle bir sözleşme (Vertrag) ile ön ödemeli SIM kart arasında seçim yaparsınız. Pek çok yeni gelen bir süpermarketten ya da drogerie'den alınan ön ödemeli bir kartla başlar. Çalışmaya başlamadan önce genellikle örneğin pasaportunuzla kimliğinizi doğrulamanız gerekir.",
+      "Sözleşmeler çoğu zaman 24 ay sürer; bu yüzden Laufzeit'a ve fesih süresine (Kündigungsfrist) bakın. Bazı sözleşmeler sonunda otomatik olarak uzar; çıkmak istiyorsanız zamanında kündigen yapın.",
+      "Ev interneti, özellikle bir teknisyenin gelmesi gerekiyorsa, birkaç haftada kurulabilir. Taşınma tarihinizi öğrendiğiniz an ilk iş interneti halledin. 📶"
+    ],
+    "quiz": {"q": "Bir kafedesiniz ve internete bağlanmak istiyorsunuz. Ne sorarsınız?", "o": ["Ich kündige den Vertrag.", "Wie ist das WLAN-Passwort?", "Mein Handy ist kaputt."], "a": 1, "why": "Wie ist das WLAN-Passwort? = Wi-Fi şifresi ne? Kafede tam ihtiyacınız olan cümle."},
+    "outro": "Bugün kendi telefon tarifenizi Almanca anlatın. Mein Tarif hat… ile başlayın ve devam edin! 📶"
   }
 }

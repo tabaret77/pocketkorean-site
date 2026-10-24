@@ -8,23 +8,72 @@
       "오늘은 독일 역사를 이야기할 때 꼭 나오는 단어 10개를 모았어요. 이 단어들이면 박물관 안내판이나 다큐멘터리를 훨씬 많이 이해하고, 독일 친구와 역사 얘기도 조금은 나눌 수 있어요. 📜"
     ],
     "words": {
-      "A2-231": {"pron": "게시히테", "tip": "geschehen(일어나다)에서 왔어요 📖 ‘일어난 일’이 곧 이야기이자 역사!", "bonus": "이야기도 역사도 Geschichte: Erzähl mir eine Geschichte! / Ich studiere Geschichte."},
-      "B1-1988": {"pron": "야르훈데르트", "tip": "Jahr(해) + hundert(백) = 100년 💯 영어 year, hundred랑 닮았죠?", "bonus": "‘15세기에’ = im 15. Jahrhundert (fünfzehnten이라고 읽어요)"},
-      "B1-888": {"pron": "크릭", "tip": "원래 ‘고집, 다툼’이라는 뜻 ⚔️ 다툼이 커지면 전쟁이 돼요.", "bonus": "반대말: der Frieden = 평화"},
-      "B1-2463": {"pron": "카이저", "tip": "로마의 Caesar(카이사르)에서 온 말 👑 러시아의 차르(tsar)도 같은 뿌리!", "bonus": "여성 황제·황후 = die Kaiserin"},
-      "B2-725": {"pron": "미텔알터", "tip": "mittel(가운데) + Alter(시대) = 고대와 근대 사이의 시대 🏰", "warn": "독일어에서는 단수예요: das Mittelalter (영어 the Middle Ages와 달라요)"},
-      "B2-728": {"pron": "벨트크릭", "tip": "Welt(세계) + Krieg(전쟁) = 세계 대전 🌍 레고처럼 붙이기!", "bonus": "제1차 세계 대전 = der Erste Weltkrieg, 제2차 = der Zweite Weltkrieg"},
-      "B2-723": {"pron": "에포헤", "tip": "영어 epoch와 같은 단어 ⏳ 끝이 -e라서 die!", "bonus": "비슷한 말: die Zeit, das Zeitalter"},
-      "B2-726": {"pron": "레볼루치온", "tip": "-tion으로 끝나면 언제나 die 🔥 영어 revolution과 철자도 거의 같아요.", "bonus": "형용사: revolutionär = 혁명적인"},
-      "B2-686": {"pron": "딕타투어", "tip": "dictate(명령하다)에서 왔어요 ✋ -ur로 끝나는 외래어는 대부분 die!", "bonus": "독재자 = der Diktator"},
-      "B2-745": {"pron": "나흐크릭스차이트", "tip": "nach(후) + Krieg(전쟁) + s + Zeit(시간) = 전쟁 후의 시간 🧱", "warn": "Zeit이 마지막이라 die예요. 합성어는 마지막 단어가 성을 정해요."}
+      "A2-231": {
+        "pron": "게시히테",
+        "tip": "geschehen(일어나다)에서 왔어요 📖 ‘일어난 일’이 곧 이야기이자 역사!",
+        "bonus": "이야기도 역사도 Geschichte: Erzähl mir eine Geschichte! / Ich studiere Geschichte."
+      },
+      "B1-1988": {
+        "pron": "야르훈데르트",
+        "tip": "Jahr(해) + hundert(백) = 100년 💯 영어 year, hundred랑 닮았죠?",
+        "bonus": "‘15세기에’ = im 15. Jahrhundert (fünfzehnten이라고 읽어요)"
+      },
+      "B1-888": {
+        "pron": "크릭",
+        "tip": "원래 ‘고집, 다툼’이라는 뜻 ⚔️ 다툼이 커지면 전쟁이 돼요.",
+        "bonus": "반대말: der Frieden = 평화"
+      },
+      "B1-2463": {
+        "pron": "카이저",
+        "tip": "로마의 Caesar(카이사르)에서 온 말 👑 러시아의 차르(tsar)도 같은 뿌리!",
+        "bonus": "여성 황제·황후 = die Kaiserin"
+      },
+      "B2-725": {
+        "pron": "미텔알터",
+        "tip": "mittel(가운데) + Alter(시대) = 고대와 근대 사이의 시대 🏰",
+        "warn": "독일어에서는 단수예요: das Mittelalter (영어 the Middle Ages와 달라요)"
+      },
+      "B2-728": {
+        "pron": "벨트크릭",
+        "tip": "Welt(세계) + Krieg(전쟁) = 세계 대전 🌍 레고처럼 붙이기!",
+        "bonus": "제1차 세계 대전 = der Erste Weltkrieg, 제2차 = der Zweite Weltkrieg"
+      },
+      "B2-723": {
+        "pron": "에포헤",
+        "tip": "영어 epoch와 같은 단어 ⏳ 끝이 -e라서 die!",
+        "bonus": "비슷한 말: die Zeit, das Zeitalter"
+      },
+      "B2-726": {
+        "pron": "레볼루치온",
+        "tip": "-tion으로 끝나면 언제나 die 🔥 영어 revolution과 철자도 거의 같아요.",
+        "bonus": "형용사: revolutionär = 혁명적인"
+      },
+      "B2-686": {
+        "pron": "딕타투어",
+        "tip": "dictate(명령하다)에서 왔어요 ✋ -ur로 끝나는 외래어는 대부분 die!",
+        "bonus": "독재자 = der Diktator"
+      },
+      "B2-745": {
+        "pron": "나흐크릭스차이트",
+        "tip": "nach(후) + Krieg(전쟁) + s + Zeit(시간) = 전쟁 후의 시간 🧱",
+        "warn": "Zeit이 마지막이라 die예요. 합성어는 마지막 단어가 성을 정해요."
+      }
     },
     "culture": [
       "독일은 1871년 전까지 하나의 나라가 아니라 여러 왕국과 공국으로 나뉘어 있었어요. 그래서 지금도 지역마다 사투리, 음식, 건축이 꽤 달라요.",
       "독일에서는 자기 나라의 어두운 역사를 기억하는 일을 중요하게 여겨요. 학교에서 나치 시대를 자세히 배우고, 도시 곳곳에 기념관과 기념비가 있어요.",
       "길을 걷다 보면 보도에 작은 황동판, Stolpersteine를 볼 수 있어요. 나치에게 희생된 사람이 살던 집 앞에 그 이름을 새겨 둔 거예요. 잠깐 멈춰서 이름을 읽어 보는 것도 의미 있는 일이에요. 🕯️"
     ],
-    "quiz": {"q": "박물관 안내판에 \"Diese Burg stammt aus dem 12. Jahrhundert.\"라고 쓰여 있어요. 이 성은 어느 시대 것일까요?", "o": ["aus dem Mittelalter", "aus der Nachkriegszeit", "aus dem Zweiten Weltkrieg"], "a": 0, "why": "12세기는 중세, 즉 Mittelalter에 속해요."},
+    "quiz": {
+      "q": "박물관 안내판에 \"Diese Burg stammt aus dem 12. Jahrhundert.\"라고 쓰여 있어요. 이 성은 어느 시대 것일까요?",
+      "o": [
+        "aus dem Mittelalter",
+        "aus der Nachkriegszeit",
+        "aus dem Zweiten Weltkrieg"
+      ],
+      "a": 0,
+      "why": "12세기는 중세, 즉 Mittelalter에 속해요."
+    },
     "outro": "오늘은 가까운 건물이나 기념비 하나를 골라 \"Das stammt aus dem … Jahrhundert.\" 하고 소리 내 말해 봐요. 역사가 훨씬 가까워질 거예요! 🏛️"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words come up whenever people talk about German history. With them you'll understand far more of museum signs and documentaries, and you can even chat about history with German friends. 📜"
     ],
     "words": {
-      "A2-231": {"pron": "guh-SHIKH-tuh", "tip": "From geschehen (to happen) 📖 What happened = a story, and history.", "bonus": "Both meanings: Erzähl mir eine Geschichte! / Ich studiere Geschichte."},
-      "B1-1988": {"pron": "yar-HOON-dert", "tip": "Jahr (year) + hundert (hundred) = century 💯 Looks just like English.", "bonus": "‘in the 15th century’ = im 15. Jahrhundert (read: fünfzehnten)"},
-      "B1-888": {"pron": "kreek", "tip": "It first meant ‘stubbornness, strife’ ⚔️ Strife grows into war.", "bonus": "The opposite: der Frieden = peace"},
-      "B1-2463": {"pron": "KY-zer", "tip": "From the Roman name Caesar 👑 Russian tsar has the same root!", "bonus": "empress = die Kaiserin"},
-      "B2-725": {"pron": "MIT-el-al-ter", "tip": "mittel (middle) + Alter (age) = the age in the middle 🏰", "warn": "It's singular in German: das Mittelalter (unlike English ‘the Middle Ages’)."},
-      "B2-728": {"pron": "VELT-kreek", "tip": "Welt (world) + Krieg (war) = world war 🌍 Lego-style again!", "bonus": "First World War = der Erste Weltkrieg · Second = der Zweite Weltkrieg"},
-      "B2-723": {"pron": "eh-POKH-uh", "tip": "The same word as English epoch ⏳ Ends in -e, so die.", "bonus": "Similar: die Zeit, das Zeitalter"},
-      "B2-726": {"pron": "reh-vo-loo-TSYOHN", "tip": "Nouns ending in -tion are always die 🔥 Spelt almost like English.", "bonus": "Adjective: revolutionär = revolutionary"},
-      "B2-686": {"pron": "dik-ta-TOOR", "tip": "From dictate ✋ Borrowed nouns in -ur are mostly die.", "bonus": "dictator = der Diktator"},
-      "B2-745": {"pron": "NAHKH-kreeks-tsite", "tip": "nach (after) + Krieg (war) + s + Zeit (time) = the time after the war 🧱", "warn": "Zeit comes last, so it's die. The last part of a compound sets the gender."}
+      "A2-231": {
+        "pron": "guh-SHIKH-tuh",
+        "tip": "From geschehen (to happen) 📖 What happened = a story, and history.",
+        "bonus": "Both meanings: Erzähl mir eine Geschichte! / Ich studiere Geschichte."
+      },
+      "B1-1988": {
+        "pron": "yar-HOON-dert",
+        "tip": "Jahr (year) + hundert (hundred) = century 💯 Looks just like English.",
+        "bonus": "‘in the 15th century’ = im 15. Jahrhundert (read: fünfzehnten)"
+      },
+      "B1-888": {
+        "pron": "kreek",
+        "tip": "It first meant ‘stubbornness, strife’ ⚔️ Strife grows into war.",
+        "bonus": "The opposite: der Frieden = peace"
+      },
+      "B1-2463": {
+        "pron": "KY-zer",
+        "tip": "From the Roman name Caesar 👑 Russian tsar has the same root!",
+        "bonus": "empress = die Kaiserin"
+      },
+      "B2-725": {
+        "pron": "MIT-el-al-ter",
+        "tip": "mittel (middle) + Alter (age) = the age in the middle 🏰",
+        "warn": "It's singular in German: das Mittelalter (unlike English ‘the Middle Ages’)."
+      },
+      "B2-728": {
+        "pron": "VELT-kreek",
+        "tip": "Welt (world) + Krieg (war) = world war 🌍 Lego-style again!",
+        "bonus": "First World War = der Erste Weltkrieg · Second = der Zweite Weltkrieg"
+      },
+      "B2-723": {
+        "pron": "eh-POKH-uh",
+        "tip": "The same word as English epoch ⏳ Ends in -e, so die.",
+        "bonus": "Similar: die Zeit, das Zeitalter"
+      },
+      "B2-726": {
+        "pron": "reh-vo-loo-TSYOHN",
+        "tip": "Nouns ending in -tion are always die 🔥 Spelt almost like English.",
+        "bonus": "Adjective: revolutionär = revolutionary"
+      },
+      "B2-686": {
+        "pron": "dik-ta-TOOR",
+        "tip": "From dictate ✋ Borrowed nouns in -ur are mostly die.",
+        "bonus": "dictator = der Diktator"
+      },
+      "B2-745": {
+        "pron": "NAHKH-kreeks-tsite",
+        "tip": "nach (after) + Krieg (war) + s + Zeit (time) = the time after the war 🧱",
+        "warn": "Zeit comes last, so it's die. The last part of a compound sets the gender."
+      }
     },
     "culture": [
       "Until 1871, Germany wasn't one country but many kingdoms and duchies. That's why dialects, food and architecture still vary so much from region to region.",
       "Germans put a lot of weight on remembering the dark chapters of their own history. Schools teach the Nazi era in detail, and there are memorials and museums in towns all over the country.",
       "On the pavement you may spot small brass plaques called Stolpersteine. Each one marks the home of a person persecuted by the Nazis and bears their name. Stopping for a moment to read it means something. 🕯️"
     ],
-    "quiz": {"q": "A museum sign says, \"Diese Burg stammt aus dem 12. Jahrhundert.\" Which period is the castle from?", "o": ["aus dem Mittelalter", "aus der Nachkriegszeit", "aus dem Zweiten Weltkrieg"], "a": 0, "why": "The 12th century belongs to the Middle Ages — das Mittelalter."},
+    "quiz": {
+      "q": "A museum sign says, \"Diese Burg stammt aus dem 12. Jahrhundert.\" Which period is the castle from?",
+      "o": [
+        "aus dem Mittelalter",
+        "aus der Nachkriegszeit",
+        "aus dem Zweiten Weltkrieg"
+      ],
+      "a": 0,
+      "why": "The 12th century belongs to the Middle Ages — das Mittelalter."
+    },
     "outro": "Pick a building or monument near you and say out loud, \"Das stammt aus dem … Jahrhundert.\" History will feel much closer! 🏛️"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日はドイツの歴史を話すときに必ず出てくる単語を10個集めました。これで博物館の説明やドキュメンタリーがぐっとわかるようになり、ドイツの友だちと歴史の話も少しできるようになります。📜"
     ],
     "words": {
-      "A2-231": {"pron": "ゲシヒテ", "tip": "geschehen（起こる）から 📖「起こったこと」が物語であり歴史！", "bonus": "物語も歴史も Geschichte：Erzähl mir eine Geschichte! / Ich studiere Geschichte."},
-      "B1-1988": {"pron": "ヤールフンダート", "tip": "Jahr（年）+ hundert（百）= 100年 💯 英語の year, hundred に似ていますね。", "bonus": "「15世紀に」= im 15. Jahrhundert（fünfzehnten と読みます）"},
-      "B1-888": {"pron": "クリーク", "tip": "もとは「頑固さ、争い」という意味 ⚔️ 争いが大きくなると戦争に。", "bonus": "反対語：der Frieden = 平和"},
-      "B1-2463": {"pron": "カイザー", "tip": "ローマの Caesar（カエサル）から 👑 ロシアの tsar（ツァーリ）も同じ語源！", "bonus": "女帝・皇后 = die Kaiserin"},
-      "B2-725": {"pron": "ミッテルアルター", "tip": "mittel（真ん中）+ Alter（時代）= 古代と近代の間の時代 🏰", "warn": "ドイツ語では単数です：das Mittelalter（英語の the Middle Ages とは違います）"},
-      "B2-728": {"pron": "ヴェルトクリーク", "tip": "Welt（世界）+ Krieg（戦争）= 世界大戦 🌍 レゴのように組み合わせ！", "bonus": "第一次世界大戦 = der Erste Weltkrieg、第二次 = der Zweite Weltkrieg"},
-      "B2-723": {"pron": "エポッヘ", "tip": "英語の epoch と同じ単語 ⏳ -e で終わるので die！", "bonus": "似た言葉：die Zeit、das Zeitalter"},
-      "B2-726": {"pron": "レヴォルツィオーン", "tip": "-tion で終わる名詞はいつも die 🔥 英語の revolution とつづりもほぼ同じ。", "bonus": "形容詞：revolutionär = 革命的な"},
-      "B2-686": {"pron": "ディクタトゥーア", "tip": "dictate（命令する）から ✋ -ur で終わる外来語はたいてい die！", "bonus": "独裁者 = der Diktator"},
-      "B2-745": {"pron": "ナーハクリークスツァイト", "tip": "nach（後）+ Krieg（戦争）+ s + Zeit（時）= 戦争の後の時代 🧱", "warn": "最後が Zeit なので die。複合語は最後の単語が性を決めます。"}
+      "A2-231": {
+        "pron": "ゲシヒテ",
+        "tip": "geschehen（起こる）から 📖「起こったこと」が物語であり歴史！",
+        "bonus": "物語も歴史も Geschichte：Erzähl mir eine Geschichte! / Ich studiere Geschichte."
+      },
+      "B1-1988": {
+        "pron": "ヤールフンダート",
+        "tip": "Jahr（年）+ hundert（百）= 100年 💯 英語の year, hundred に似ていますね。",
+        "bonus": "「15世紀に」= im 15. Jahrhundert（fünfzehnten と読みます）"
+      },
+      "B1-888": {
+        "pron": "クリーク",
+        "tip": "もとは「頑固さ、争い」という意味 ⚔️ 争いが大きくなると戦争に。",
+        "bonus": "反対語：der Frieden = 平和"
+      },
+      "B1-2463": {
+        "pron": "カイザー",
+        "tip": "ローマの Caesar（カエサル）から 👑 ロシアの tsar（ツァーリ）も同じ語源！",
+        "bonus": "女帝・皇后 = die Kaiserin"
+      },
+      "B2-725": {
+        "pron": "ミッテルアルター",
+        "tip": "mittel（真ん中）+ Alter（時代）= 古代と近代の間の時代 🏰",
+        "warn": "ドイツ語では単数です：das Mittelalter（英語の the Middle Ages とは違います）"
+      },
+      "B2-728": {
+        "pron": "ヴェルトクリーク",
+        "tip": "Welt（世界）+ Krieg（戦争）= 世界大戦 🌍 レゴのように組み合わせ！",
+        "bonus": "第一次世界大戦 = der Erste Weltkrieg、第二次 = der Zweite Weltkrieg"
+      },
+      "B2-723": {
+        "pron": "エポッヘ",
+        "tip": "英語の epoch と同じ単語 ⏳ -e で終わるので die！",
+        "bonus": "似た言葉：die Zeit、das Zeitalter"
+      },
+      "B2-726": {
+        "pron": "レヴォルツィオーン",
+        "tip": "-tion で終わる名詞はいつも die 🔥 英語の revolution とつづりもほぼ同じ。",
+        "bonus": "形容詞：revolutionär = 革命的な"
+      },
+      "B2-686": {
+        "pron": "ディクタトゥーア",
+        "tip": "dictate（命令する）から ✋ -ur で終わる外来語はたいてい die！",
+        "bonus": "独裁者 = der Diktator"
+      },
+      "B2-745": {
+        "pron": "ナーハクリークスツァイト",
+        "tip": "nach（後）+ Krieg（戦争）+ s + Zeit（時）= 戦争の後の時代 🧱",
+        "warn": "最後が Zeit なので die。複合語は最後の単語が性を決めます。"
+      }
     },
     "culture": [
       "ドイツは1871年まで一つの国ではなく、たくさんの王国や公国に分かれていました。そのため今でも地域ごとに方言や料理、建築がかなり違います。",
       "ドイツでは自国の暗い歴史を記憶することをとても大切にしています。学校ではナチ時代を詳しく学び、街のあちこちに記念館や記念碑があります。",
       "道を歩いていると、歩道に小さな真ちゅうのプレート Stolpersteine を見かけることがあります。ナチスに迫害された人が住んでいた家の前に、その名前が刻まれているのです。少し立ち止まって名前を読んでみるのも意味のあることです。🕯️"
     ],
-    "quiz": {"q": "博物館の説明板に「Diese Burg stammt aus dem 12. Jahrhundert.」とあります。この城はどの時代のものですか？", "o": ["aus dem Mittelalter", "aus der Nachkriegszeit", "aus dem Zweiten Weltkrieg"], "a": 0, "why": "12世紀は中世、つまり Mittelalter にあたります。"},
+    "quiz": {
+      "q": "博物館の説明板に「Diese Burg stammt aus dem 12. Jahrhundert.」とあります。この城はどの時代のものですか？",
+      "o": [
+        "aus dem Mittelalter",
+        "aus der Nachkriegszeit",
+        "aus dem Zweiten Weltkrieg"
+      ],
+      "a": 0,
+      "why": "12世紀は中世、つまり Mittelalter にあたります。"
+    },
     "outro": "今日は近くの建物や記念碑をひとつ選んで、「Das stammt aus dem … Jahrhundert.」と声に出してみましょう。歴史がぐっと身近になりますよ！🏛️"
+  },
+  "tr": {
+    "title": "10 kelimede Alman tarihi",
+    "hook": "Herhangi bir Alman kasabasında yürüyün; tarih duvarlardan ve kaldırımlardan size seslenir.",
+    "intro": [
+      "Hafta sonu bir müzeye gidiyorsunuz ve bütün tabelalar Almanca. \"Mittelalter\", \"Jahrhundert\", \"Nachkriegszeit\"… Sadece resimlere bakıp çıkmak insana yazık geliyor.",
+      "Bugünkü on kelime Alman tarihinden söz edildiğinde hep karşınıza çıkar. Bunlarla müze tabelalarını ve belgeselleri çok daha iyi anlar, hatta Alman arkadaşlarınızla tarih sohbeti yapabilirsiniz. 📜"
+    ],
+    "words": {
+      "A2-231": {
+        "pron": "ge-Şİh-te",
+        "tip": "geschehen (olmak, meydana gelmek) fiilinden 📖 Olup biten = hem hikâye hem tarih.",
+        "bonus": "İki anlamı da: Erzähl mir eine Geschichte! / Ich studiere Geschichte."
+      },
+      "B1-1988": {
+        "pron": "yar-HUN-dırt",
+        "tip": "Jahr (yıl) + hundert (yüz) = yüzyıl 💯 Tıpkı Türkçedeki gibi kurulmuş!",
+        "bonus": "‘15. yüzyılda’ = im 15. Jahrhundert (okunuşu: fünfzehnten)"
+      },
+      "B1-888": {
+        "pron": "KRİK",
+        "tip": "İlk anlamı ‘inat, çekişme’ydi ⚔️ Çekişme büyüyüp savaşa dönüşür.",
+        "bonus": "Zıttı: der Frieden = barış"
+      },
+      "B1-2463": {
+        "pron": "KAY-zır",
+        "tip": "Roma adı Caesar'dan 👑 Türkçedeki “Kayser-i Rum” unvanı ve Rusça çar da aynı kökten!",
+        "bonus": "imparatoriçe = die Kaiserin"
+      },
+      "B2-725": {
+        "pron": "MİT-tel-al-tır",
+        "tip": "mittel (orta) + Alter (çağ) = ortadaki çağ, tıpkı Türkçedeki “Orta Çağ” gibi 🏰",
+        "warn": "Almancada tekildir: das Mittelalter."
+      },
+      "B2-728": {
+        "pron": "VELT-krik",
+        "tip": "Welt (dünya) + Krieg (savaş) = dünya savaşı 🌍 Yine Lego usulü!",
+        "bonus": "Birinci Dünya Savaşı = der Erste Weltkrieg · İkinci = der Zweite Weltkrieg"
+      },
+      "B2-723": {
+        "pron": "e-PO-he",
+        "tip": "Türkçedeki “epok” ve İngilizce epoch ile aynı kelime ⏳ -e ile bitiyor, o yüzden die.",
+        "bonus": "Benzerleri: die Zeit, das Zeitalter"
+      },
+      "B2-726": {
+        "pron": "re-vo-lu-TSYON",
+        "tip": "-tion ile biten isimler hep die 🔥 Türkçedeki “revolüsyon” gibi yazılır.",
+        "bonus": "Sıfatı: revolutionär = devrimci"
+      },
+      "B2-686": {
+        "pron": "dik-ta-TUR",
+        "tip": "“dikte etmek” kökünden ✋ -ur ile biten alıntı isimler çoğunlukla die.",
+        "bonus": "diktatör = der Diktator"
+      },
+      "B2-745": {
+        "pron": "NAH-kriks-tsayt",
+        "tip": "nach (sonra) + Krieg (savaş) + s + Zeit (zaman) = savaştan sonraki zaman 🧱",
+        "warn": "Zeit en sonda, o yüzden die. Birleşik kelimenin cinsiyetini son parça belirler."
+      }
+    },
+    "culture": [
+      "1871'e kadar Almanya tek bir ülke değil, birçok krallık ve dukalıktı. Bu yüzden lehçeler, yemekler ve mimari bölgeden bölgeye hâlâ bu kadar farklıdır.",
+      "Almanlar kendi tarihlerinin karanlık sayfalarını hatırlamaya büyük önem verir. Okullarda Nazi dönemi ayrıntılı olarak öğretilir ve ülkenin dört bir yanındaki kasabalarda anıtlar ve müzeler vardır.",
+      "Kaldırımda Stolpersteine denen küçük pirinç plakalar görebilirsiniz. Her biri Naziler tarafından zulme uğramış bir kişinin evini işaret eder ve onun adını taşır. Bir an durup okumak anlamlı bir harekettir. 🕯️"
+    ],
+    "quiz": {
+      "q": "Bir müze tabelasında şöyle yazıyor: \"Diese Burg stammt aus dem 12. Jahrhundert.\" Kale hangi döneme ait?",
+      "o": [
+        "aus dem Mittelalter",
+        "aus der Nachkriegszeit",
+        "aus dem Zweiten Weltkrieg"
+      ],
+      "a": 0,
+      "why": "12. yüzyıl Orta Çağ'a, yani das Mittelalter'e aittir."
+    },
+    "outro": "Yakınınızdaki bir bina ya da anıt seçin ve yüksek sesle söyleyin: \"Das stammt aus dem … Jahrhundert.\" Tarih size çok daha yakın gelecek! 🏛️"
   }
 }

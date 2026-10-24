@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "自転車を盗まれました。警察に何と言いますか？", "o": ["Ich habe ein Fahrrad gestohlen.", "Mir wurde das Fahrrad gestohlen.", "Ich bin schuldig."], "a": 1, "why": "Mir wurde … gestohlen は「〜を盗まれました」。1つ目は「私が盗みました」という自白になります！"},
     "outro": "今日はドイツのニュースの見出しをひとつ読んで、今日の単語を探してみましょう。Gericht を見つけたら、料理か裁判所か当ててみてください！⚖️"
+  },
+  "tr": {
+    "title": "Kanun ve düzen: 10 Almanca kelimede hukuk",
+    "hook": "Bu kelimeler her gün Almanca haberlerde geçiyor ama ders kitapları neredeyse hiç bahsetmiyor.",
+    "intro": [
+      "Bir sabah bisikletimden geriye sadece kilidi kalmıştı. Karakolda ‘gestohlen’ ve ‘Anzeige’ gibi kelimeler öyle hızlı geliyordu ki terlemiştim. O akşam haberler de Gericht ve Urteil ile doluydu.",
+      "Bugünkü 10 kelime hukuk ve suçla ilgili. Bu kelimelerle haber başlıklarını takip etmek çok daha kolaylaşacak; başınıza bir şey gelirse de durumu anlatabileceksiniz. ⚖️"
+    ],
+    "words": {
+      "B1-231": {"pron": "ge-ZETS", "tip": "setzen (koymak) fiilinden 📜 Kanun, konmuş bir kuraldır.", "bonus": "Das ist gegen das Gesetz. = Bu kanuna aykırı."},
+      "B1-278": {"pron": "ge-RİHT", "tip": "richten (yargılamak; yemek hazırlamak) fiilinden 🍲⚖️ Yani hem mahkeme hem yemek Gericht!", "warn": "Menüde Gericht yemek demek. Restoranda panik yapmayın!"},
+      "B1-1078": {"pron": "RİH-ter", "tip": "richten (doğrultmak) + -er = işleri doğrultan kişi 🧑‍⚖️ İçinde recht (doğru) saklı.", "bonus": "Kadın hâkim die Richterin · karar = das Urteil"},
+      "B1-445": {"pron": "AN-valt", "tip": "an + walten (yönetmek) = davanızı yürüten kişi 💼", "warn": "Çoğulu umlautlu: die Anwälte. Resmî unvanı der Rechtsanwalt."},
+      "B2-277": {"pron": "fer-BRE-hen", "tip": "İçinde brechen (kırmak) var 🔨 Kanunu kırmak = suç.", "bonus": "suçlu = der Verbrecher"},
+      "B2-709": {"pron": "DİP-ştal", "tip": "Dieb (hırsız) + stahl (çalma) = hırsızlık 🦹 Hırsız artı çalmak kombinasyonu.", "bonus": "hırsız = der Dieb · ev soygunu = der Einbruch"},
+      "B1-1195": {"pron": "ŞTE-len", "tip": "İngilizce steal ile aynı kökten 🚲 Okunuşları bile benziyor.", "warn": "‘…m çalındı’ derken Dativ kullanılır: Mir wurde das Fahrrad gestohlen."},
+      "B1-725": {"pron": "ge-FENG-nis", "tip": "fangen (yakalamak) ile aynı kökten 🔒 Yakalananların gittiği yer. -nis ile bittiği için das.", "bonus": "hapse girmek = ins Gefängnis kommen"},
+      "B1-129": {"pron": "ŞTRA-fe", "tip": "Park cezası kâğıdı Strafzettel'deki Strafe 💸 Ceza da para cezası da Strafe.", "bonus": "para cezası ödemek = eine Strafe zahlen"},
+      "B1-1124": {"pron": "ŞUL-dih", "tip": "die Schuld (suç, borç) + -ig = suçlu ya da borçlu 😳", "bonus": "Dükkânda da işe yarar: Was bin ich Ihnen schuldig? = Size borcum ne kadar?"}
+    },
+    "culture": [
+      "Almanya'nın anayasasının adı ‘Grundgesetz’dir (Temel Yasa). İlk cümlesi meşhurdur: ‘Die Würde des Menschen ist unantastbar.’ (İnsan onuru dokunulmazdır.) Almanların çoğu bunu ezbere bilir.",
+      "Şehirlerde bisiklet hırsızlığı yaygındır; sağlam bir kilit kullanın ve bisikletin gövdesini sabit bir yere bağlayın. Bisikletiniz çalınırsa polise suç duyurusunda bulunmak (Anzeige erstatten) sigortaya başvururken işinize yarar.",
+      "Almanya'da birçok kişinin hukuki koruma sigortası (Rechtsschutzversicherung) da vardır. Komşularla ya da ev sahipleriyle yaşanan anlaşmazlıklarda içi rahat olmak için popülerdir. 📄"
+    ],
+    "quiz": {"q": "Bisikletiniz çalındı. Polise ne dersiniz?", "o": ["Ich habe ein Fahrrad gestohlen.", "Mir wurde das Fahrrad gestohlen.", "Ich bin schuldig."], "a": 1, "why": "Mir wurde … gestohlen ‘…m çalındı’ demektir. İlk seçenek ise bir bisiklet çaldığınızı itiraf etmek olur!"},
+    "outro": "Bugün bir Almanca haber başlığı okuyun ve bugünün kelimelerini arayın. Gericht görürseniz karar verin: mahkeme mi, yemek mi? ⚖️"
   }
 }

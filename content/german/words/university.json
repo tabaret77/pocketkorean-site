@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "新しい友だちに大学の専攻を聞きたいです。何と言いますか？", "o": ["Wann beginnt die Vorlesung?", "Wo ist die Mensa?", "Was studierst du?"], "a": 2, "why": "studieren は大学で専攻するという意味なので、Was studierst du? = 何を専攻しているの？です。"},
     "outro": "今日は自己紹介を声に出してみましょう。「Ich studiere …, ich bin im … Semester.」空欄を埋めて言えば完成です！📚"
+  },
+  "tr": {
+    "title": "Almanya'daki ilk döneminiz, 10 kelimede",
+    "hook": "Alman bir üniversitede saat sekiz dersi sekizi çeyrek geçe başlayabilir. Nedenini merak ediyor musunuz?",
+    "intro": [
+      "Kabul e-postanızı aldınız ve heyecanla bir Alman üniversitesine geldiniz. Ama nereye kayıt olacaksınız? Hangi amfi? Öğle yemeği nerede? Her tabela Almanca.",
+      "Bugünkü on kelime üniversitede her gün duyacağınız kelimeler. Bunlarla kayıt yaptırabilir, ders programınızı takip edebilir ve yemekhaneyi bulabilirsiniz — ilk döneminizi atlatmaya yeter. Değişim öğrencileri için de birebir! 🎓"
+    ],
+    "words": {
+      "A2-613": {"pron": "u-ni-ver-zi-TEYT", "tip": "Latince universitas, yani topluluk kelimesinden 🏛️ Herkes sadece die Uni der.", "bonus": "Edat an'dır: an der Uni studieren = üniversitede okumak"},
+      "A1-277": {"pron": "ştu-DENT", "tip": "İngilizce student ile aynı — sadece st ‘şt’ diye okunur 🎒", "warn": "Zayıf isimdir: den Studenten, dem Studenten."},
+      "A1-314": {"pron": "ştu-Dİ-ren", "tip": "studieren = üniversitede bir bölüm okumak; lernen = sınava çalışmak 📚 Karıştırmayın!", "bonus": "Was studierst du? = Ne okuyorsun?"},
+      "A2-270": {"pron": "ŞTU-di-um", "tip": "studieren'in ismi 🎓 -um ile biten Latince kelimeler genelde das'tır.", "bonus": "nach dem Studium = mezun olduktan sonra"},
+      "B2-1272": {"pron": "FOR-le-zunk", "tip": "vor (önde) + lesen (okumak) 📖 Eskiden profesörler kitaplarını salona yüksek sesle okurmuş — Türkçedeki ‘takrir’ gibi.", "warn": "die Lektüre okuma malzemesidir, ders değil. Yanıltıcı kelime alarmı!"},
+      "B1-1136": {"pron": "ze-MES-ter", "tip": "Latincede ‘altı ayda bir’ 🗓️ Yılda iki tane, o kadar — Türkçedeki ‘sömestr’ gibi.", "warn": "Çoğulu aynı: die Semester.", "bonus": "Ich bin im dritten Semester. = Üçüncü dönemdeyim."},
+      "B1-1042": {"pron": "pro-FE-sor", "tip": "Tekil: pro-FE-sor. Çoğul: pro-fe-SO-ren 👨‍🏫 Vurgu ev değiştiriyor!", "bonus": "Kadın profesör die Professorin'dir."},
+      "B1-2253": {"pron": "zih AYN-şray-ben", "tip": "ein (içeri) + schreiben (yazmak) ✍️ Adınızı deftere yazdırırsınız.", "warn": "Ayrılabilen: Ich schreibe mich ein. / Ich habe mich eingeschrieben."},
+      "B1-944": {"pron": "MEN-za", "tip": "Latince mensa masa demek — Türkçedeki ‘masa’ ile aynı kökten 🍽️ Üniversitedeki büyük masa = yemekhane.", "bonus": "Çoğulu: die Mensen"},
+      "B2-2901": {"pron": "KAM-pus", "tip": "Latincede tarla 🌳 Almancaya İngilizce üzerinden geçmiş — Türkçedeki ‘kampüs’ gibi.", "bonus": "auf dem Campus = kampüste"}
+    },
+    "culture": [
+      "Ders programınızda c.t. yazıyorsa ders saat başından on beş dakika sonra başlar. Bu ‘akademik çeyrek’ (akademisches Viertel) denen eski bir gelenektir. s.t. yazıyorsa tam saatinde başlar — dikkat!",
+      "Dersin sonunda öğrenciler çoğu zaman alkışlamak yerine parmak eklemleriyle sıralara vurur. Bu, ‘teşekkürler, güzel dersti’ demenin Alman usulüdür.",
+      "Yıl genellikle bir kış dönemine (Wintersemester) ve bir yaz dönemine (Sommersemester) ayrılır. Öğrenciler her dönem bir ücret (Semesterbeitrag) öder; birçok üniversitede buna bir toplu taşıma kartı (Semesterticket) dahildir. 🚌"
+    ],
+    "quiz": {"q": "Yeni bir arkadaşınıza hangi bölümü okuduğunu sormak istiyorsunuz. Ne dersiniz?", "o": ["Wann beginnt die Vorlesung?", "Wo ist die Mensa?", "Was studierst du?"], "a": 2, "why": "studieren üniversitede bir bölüm okumak demektir; yani Was studierst du? = Ne okuyorsun?"},
+    "outro": "Bugün kendinizi yüksek sesle tanıtın: „Ich studiere …, ich bin im … Semester.“ Boşlukları doldurun, tamamdır! 📚"
   }
 }

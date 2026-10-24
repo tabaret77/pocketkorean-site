@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "留守中に不在票が入っていて、荷物は郵便局にあるそうです。今日することは？", "o": ["Ich schicke das Paket.", "Ich hole das Paket ab.", "Ich klebe eine Briefmarke."], "a": 1, "why": "abholen = 取りに行く。郵便局に預けられた荷物を受け取りに行くことです。"},
     "outro": "「Ich möchte dieses Paket nach Japan schicken.」を声に出して3回言ってみましょう。郵便局の窓口でさっと出てくるはずです！📮"
+  },
+  "tr": {
+    "title": "Postane Almancası: Mektup ve koliler için 10 kelime",
+    "hook": "Posta kutunuzda paketiniz yerine küçük bir kart mı buldunuz? İhtiyacınız olan kelimeler bunlar.",
+    "intro": [
+      "İnternetten verdiğiniz bir siparişi bekliyorsunuz. On dakikalığına dışarı çıkıyorsunuz ve döndüğünüzde posta kutunuzda bir kart var. Paketiniz nerede? Postaneye mi gitmeniz gerekiyor? Karttaki Almanca henüz hiçbir anlam ifade etmiyor.",
+      "Bugünkü 10 kelime mektup göndermekten paket teslim almaya kadar her şeyi kapsıyor. Bunlarla memlekete koli gönderebilir, teslimat kartını okuyabilir ve paket dolabını kendi başınıza kullanabilirsiniz. 📦"
+    ],
+    "words": {
+      "A1-217": {"pron": "POST", "tip": "Türkçedeki posta gibi 📮 Hem postane hem gelen mektuplar die Post.", "bonus": "Hast du Post für mich? = Bana posta var mı?"},
+      "BL-12-02": {"pron": "BRİF", "tip": "Mektuplar eskiden kısaymış ✉️ Latince breve, yani kısa belge kelimesinden.", "warn": "Sahte arkadaş: Brief mektup demek, İngilizce ‘brief’ (kısa) değil."},
+      "BL-12-03": {"pron": "BRİF-mar-ke", "tip": "Brief (mektup) + Marke (işaret) = mektuba yapıştırdığınız işaret 🏷️ Türkçedeki marka ile akraba.", "bonus": "Posta ücreti das Porto."},
+      "BL-12-01": {"pron": "pa-KET", "tip": "Türkçedeki paket ile aynı 📦 Vurgu sonda: pa-KET.", "bonus": "Küçük koli das Päckchen; -chen demek das demek."},
+      "BL-12-04": {"pron": "Şİ-ken", "tip": "Vıııın, gitti 💨 Schick mir die Adresse! = Bana adresi gönder!", "bonus": "Perfekt: Ich habe das Paket geschickt."},
+      "A1-168": {"pron": "a-DRE-se", "tip": "Türkçedeki adres, sonuna bir e eklenmiş hâli 🏠", "warn": "Yazılış: tek d, çift s: Adresse."},
+      "BL-12-06": {"pron": "emp-FEN-ger", "tip": "empfangen (almak, karşılamak) + -er = alıcı 🙋 Otel resepsiyonu der Empfang.", "bonus": "Zıttı: gönderici = der Absender"},
+      "A2-121": {"pron": "Lİ-fe-runk", "tip": "liefern (teslim etmek) + -ung = teslimat 🚚 -ung ile biten kelimeler her zaman die.", "bonus": "Wann wird das geliefert? = Ne zaman teslim edilecek?"},
+      "BL-12-08": {"pron": "AP-ho-len", "tip": "ab (-den) + holen (getirmek) = gidip almak 🏃‍♀️ İnsanlar için de olur: Ich hole dich ab.", "warn": "Ayrılabilen fiil: Ich hole das Paket ab."},
+      "BL-12-09": {"pron": "PAK-şta-tsyon", "tip": "Paketlerin sizi beklediği bir istasyon 🔐 Pack + Station, çok kolay.", "bonus": "Dolabı açan numara der Code."}
+    },
+    "culture": [
+      "Evde değilseniz Alman kuryeler paketinizi çoğu zaman bir komşuya (Nachbar) bırakır ve posta kutunuza paketin kimde olduğunu yazan bir kart koyar. Yan dairedekilerin paketlerini teslim almak tamamen normaldir.",
+      "Hiçbir komşu alamazsa paket genellikle yakındaki bir postane şubesine ya da bir paket dolabına gider. abholen için giderken kartı ve kimliğinizi yanınıza alın.",
+      "Bir şey daha: Adınız posta kutunuzda (Briefkasten) ve kapı zilinizde yazmıyorsa postanız hiç gelmeyebilir. Taşındıktan sonra ilk iş adınızı yazın. 🏷️"
+    ],
+    "quiz": {"q": "Bir teslimatı kaçırdınız ve kartta paketinizin postanede olduğu yazıyor. Ne yapacaksınız?", "o": ["Ich schicke das Paket.", "Ich hole das Paket ab.", "Ich klebe eine Briefmarke."], "a": 1, "why": "abholen = gidip almak; yani gidip paketinizi teslim alırsınız."},
+    "outro": "‘Ich möchte dieses Paket nach Korea schicken.’ cümlesini üç kez yüksek sesle söyleyin, sonra kendi ülkenizle deneyin. 📮"
   }
 }

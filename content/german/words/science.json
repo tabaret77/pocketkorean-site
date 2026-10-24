@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "実験を終えた同僚に「もう結果出た？」と聞くなら？", "o": ["Hast du das Labor gemessen?", "Hast du eine Theorie entdeckt?", "Hast du schon das Ergebnis?"], "a": 2, "why": "das Ergebnis = 結果。schon（もう）といっしょに使うと「もう結果出た？」になります。"},
     "outro": "今日何かを測ったら「Ich messe …」、何かを見つけたら「Ich habe … entdeckt!」と声に出して言ってみましょう。🔬"
+  },
+  "tr": {
+    "title": "Önlükler giyildi: bilimle ilgili 10 Almanca kelime",
+    "hook": "Einstein'ın ve Röntgen'in dilinde bilim konuşmaya ne dersiniz?",
+    "intro": [
+      "Almanya'da bir üniversite laboratuvarında çalışan arkadaşınızı ziyaret ediyorsunuz. Heyecanla ‘Das Experiment hat endlich geklappt!’ diyor, siz de sadece başınızı sallıyorsunuz. Bilim haberlerinin başlıkları da hep zor görünmüştür.",
+      "Bugünkü on kelime bilimde ve araştırmada tekrar tekrar karşınıza çıkar. Bunlarla bilim haberlerinin başlıklarını okuyabilir, araştırmacı arkadaşlarınızla sohbet edebilir ve sonuçların çıkıp çıkmadığını sorabilirsiniz. 🔬"
+    ],
+    "words": {
+      "B1-040": {"pron": "Vİ-sen-şaft", "tip": "wissen (bilmek) + -schaft = bilinen her şey 🧪 -schaft hep die'dir.", "bonus": "Sıfatı: wissenschaftlich = bilimsel, akademik"},
+      "B1-1412": {"pron": "Vİ-sen-şaft-ler", "tip": "Wissenschaft + -ler = bilimle uğraşan kişi 👩‍🔬 Türkçedeki -ci eki gibi!", "bonus": "Kadın bilim insanı die Wissenschaftlerin'dir."},
+      "B1-226": {"pron": "FOR-şunk", "tip": "forschen (araştırmak) + -ung 🔍 -ung, yani die.", "bonus": "Araştırmacı = der Forscher · die Forscherin"},
+      "B2-1049": {"pron": "eks-pe-ri-MENT", "tip": "İngilizce experiment ile aynı yazılış ⚗️ Sadece vurgu sona kayar.", "bonus": "Fiili: experimentieren = deney yapmak"},
+      "B1-1249": {"pron": "te-o-Rİ", "tip": "Türkçedeki ‘teori’ ile aynı — Yunanca theōria, yani bakmak 🤔 -ie ile biter: die, vurgu sonda.", "bonus": "In der Theorie … in der Praxis … = Teoride … pratikte …"},
+      "B2-1051": {"pron": "la-BOR", "tip": "Latince laborare, çalışmak 🥼 Türkçedeki laboratuvar'ın kısası. Vurgu sonda.", "bonus": "Kan tahlili sonuçlarınız da das Labor'dan gelir."},
+      "B1-021": {"pron": "er-GEYP-nis", "tip": "sich ergeben (sonuçlanmak) + -nis = sonuç 📊", "warn": "Çoğulda çift s: die Ergebnisse."},
+      "B1-301": {"pron": "ent-DE-ken", "tip": "ent- (kaldırmak) + decken (örtmek) = örtüsünü kaldırmak — tıpkı İngilizce dis-cover gibi 🗺️", "bonus": "İsmi: die Entdeckung = keşif"},
+      "B1-521": {"pron": "be-VAY-zen", "tip": "be- + weisen (göstermek) = kanıtı parmakla göstermek 👉", "bonus": "İsmi: der Beweis = kanıt"},
+      "B1-330": {"pron": "ME-sen", "tip": "Laboratuvarda dağınıklığa (mess) yer yok — her şeyi iki kez ölçün 📏", "warn": "Düzensiz: du misst, er misst, hat gemessen."}
+    },
+    "culture": [
+      "Almancadaki Wissenschaft sadece doğa bilimleri değildir. Tarih, dilbilim ve diğer beşerî bilimler de buna dahildir; bu yüzden Literaturwissenschaft (edebiyat bilimi) gibi kelimeler son derece normal gelir.",
+      "Almanya, Max Planck ve Fraunhofer enstitüleri gibi tanınmış araştırma kuruluşlarına ve Einstein ile Röntgen gibi bilim insanlarına ev sahipliği yapar. Bu yüzden Almancada röntgen çektirmek düpedüz röntgen'dir.",
+      "Bazı şehirlerde ‘Lange Nacht der Wissenschaften’ gibi etkinlikler düzenlenir; üniversiteler ve enstitüler akşam geç saatlere kadar kapılarını açar. Gerçek bir laboratuvarın içini görmek için harika bir fırsat. 🌙"
+    ],
+    "quiz": {"q": "İş arkadaşınız az önce bir deneyi bitirdi. Sonucun çıkıp çıkmadığını nasıl sorarsınız?", "o": ["Hast du das Labor gemessen?", "Hast du eine Theorie entdeckt?", "Hast du schon das Ergebnis?"], "a": 2, "why": "das Ergebnis = sonuç; schon ile birlikte ‘sonuç çıktı mı bile?’ anlamına gelir."},
+    "outro": "Bugün bir şey ölçerseniz ‘Ich messe …’, bir şey bulursanız ‘Ich habe … entdeckt!’ deyin — yüksek sesle. 🔬"
   }
 }

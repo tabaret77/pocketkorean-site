@@ -77,5 +77,31 @@
     ],
     "quiz": {"q": "初めて会った人に、どこの国から来たのか聞きたいです。", "o": ["Woher kommst du?", "Wohin fährst du?", "Wann kommst du?"], "a": 0, "why": "Woher kommst du? =「どこから来ましたか？」出身を聞くときは woher を使います。"},
     "outro": "今日は W の疑問詞で質問を5つ作って、声に出して読んでみましょう。ひとり言でも大丈夫です！❓"
+  },
+  "tr": {
+    "title": "Kim, ne, nerede? 10 Almanca soru kelimesi",
+    "hook": "Almanca soruların neredeyse hepsi W ile başlar. Bu onunu öğrenin, her şeyi sorabilirsiniz.",
+    "intro": [
+      "Almanya'daki ilk haftam: Fırında fiyatı sormak istiyorum, ağzımdan tek kelime çıkmıyor. Yol sormam lazım, ‘nerede’ aklıma gelmiyor. Sonra yeni bir arkadaş “Woher kommst du?” diye soruyor ve wo ile woher kafamda birbirine giriyor.",
+      "Bugünkü on kelime Almanca soru kelimeleri: kim, ne, nerede, ne zaman, neden, nasıl… Bunlarla sohbeti kendiniz yönlendirebilirsiniz — ve soru soran daha hızlı öğrenir. ❓"
+    ],
+    "words": {
+      "A1-579": {"pron": "VEER", "tip": "‘Kim’ demek ama İngilizce where gibi görünür — klasik tuzak 🕵️", "warn": "wer = kim, ‘nerede’ değil! Diğer halleri wem (kime) ve wen (kimi)."},
+      "A1-574": {"pron": "VAS", "tip": "İngilizce what ile aynı kökten 🤔 Almanca W, V gibi okunur: ‘vas’.", "bonus": "Konuşmada ‘bir şey’ anlamına da gelir: Ich hab was gefunden."},
+      "A1-585": {"pron": "VO", "tip": "İngilizce where'in kısaltılmışı gibi 📍 Yer sorarken wo kullanın.", "warn": "‘Nereye’ wohin, ‘nereden’ woher; wo sadece ‘nerede’."},
+      "A1-394": {"pron": "VAN", "tip": "İngilizce when ile aynı kökten ⏰ Saat kaçta? = Um wie viel Uhr?", "warn": "Geçmişteki bir ‘…dığında’ için wann değil als kullanılır: Als ich klein war…"},
+      "A1-393": {"pron": "va-RUM", "tip": "Meraklı bir çocuğun durmadan ‘va-RUUUM?’ diye sorduğunu düşünün 🧐", "bonus": "Cevap weil ile verilir: Weil ich in Deutschland wohne."},
+      "A1-581": {"pron": "Vİ", "tip": "En sık sorularda karşınıza çıkar: Wie geht's? Wie heißt du? 🙋", "warn": "Karşılaştırmada wie değil als kullanılır: größer als (-den daha büyük)."},
+      "A1-395": {"pron": "vo-HEER", "tip": "wo + her (buraya doğru) = nereden buraya? 🧳", "bonus": "Cevap: Ich komme aus der Türkei."},
+      "A1-396": {"pron": "vo-HİN", "tip": "wo + hin (buradan uzağa) = nereye? 🚀 her bana gelir, hin uzaklaşır.", "bonus": "Konuşmada çoğu zaman ayrılır: Wo gehst du hin?"},
+      "A2-404": {"pron": "VEL-her", "tip": "İngilizce which ile aynı kökten 👉 Seçenekler arasında seçim için.", "warn": "Sonu artikel gibi değişir: welcher Bus, welche Farbe, welches Buch."},
+      "A1-582": {"pron": "Vİ FİL", "tip": "wie (nasıl) + viel (çok) = ne kadar 💶 Alışverişin olmazsa olmazı.", "bonus": "Sayılabilen çoğullar için: wie viele? = kaç tane? Wie viele Kinder hast du?"}
+    },
+    "culture": [
+      "Almanya'da “Wie geht's?” çoğu zaman sadece selam değil, gerçek bir sorudur. Arkadaşlara dürüstçe cevap vermek normaldir: “Nicht so gut, ich bin müde.” Öte yandan yabancılara otomatik olarak pek sorulmaz.",
+      "Bir şeyi anlamadıysanız “Wie bitte?” demek “Was?” demekten çok daha kibar durur. Almanlar genelde sorulardan rahatsız olmaz; emin değilseniz bir W-kelimesiyle sorun gitsin. 🙋"
+    ],
+    "quiz": {"q": "Biriyle yeni tanıştınız ve hangi ülkeden geldiğini sormak istiyorsunuz.", "o": ["Woher kommst du?", "Wohin fährst du?", "Wann kommst du?"], "a": 0, "why": "Woher kommst du? = Nerelisin? Kökeni sormak için woher kullanılır."},
+    "outro": "Bugünkü W-kelimeleriyle beş soru kurun ve yüksek sesle söyleyin — kendi kendinize konuşmak da sayılır! ❓"
   }
 }

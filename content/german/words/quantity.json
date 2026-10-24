@@ -77,5 +77,31 @@
     ],
     "quiz": {"q": "友だちに駅まで電車でどのくらいかかるか聞かれました。「だいたい2時間」と言うには？", "o": ["Ich bin fast fertig.", "Ich habe wenig Zeit.", "Die Fahrt dauert ungefähr zwei Stunden."], "a": 2, "why": "ungefähr は「だいたい、約」という意味なので、「移動はだいたい2時間かかるよ」となります。"},
     "outro": "今日あったことを、viel、wenig、ziemlich、fast を使って3文で言ってみましょう。小さな単語が文をぐっと生き生きさせてくれます！✨"
+  },
+  "tr": {
+    "title": "Çok mu, az mı, tam kıvamında mı? Miktar bildiren 10 Almanca kelime",
+    "hook": "Tek bir küçük kelime, ‘azıcık’ı ‘dağ gibi’ye çevirebilir.",
+    "intro": [
+      "Bir Alman süpermarketinin şarküteri reyonundasınız. Sadece biraz jambon istiyorsunuz, görevli de „Wie viel darf's sein?“ diye soruyor. Parmaklarınızla şöyle bir kalınlık gösteriyorsunuz — ve önünüze dağ gibi jambon geliyor.",
+      "Bugünkü on kelime küçük ama etkili: miktar ve derece bildiren kelimeler. Çok, az, yeterince, neredeyse, en az… Bunlarla alışverişten bir işin ne kadar süreceğini anlatmaya kadar her şey çok daha net olur. ⚖️"
+    ],
+    "words": {
+      "A1-568": {"pron": "FİL", "tip": "FİL diye okunur — fil gibi kocaman, yani çok 🐘 Çok = viel.", "bonus": "Viel Spaß! = İyi eğlenceler! · Vielen Dank! = Çok teşekkürler!", "warn": "Karşılaştırması düzensiz: viel – mehr – am meisten"},
+      "A1-578": {"pron": "VE-nih", "tip": "Söylerken küçüldüğünü duyun: VE-nih 🤏 Aslında ‘zavallı’ anlamına geliyormuş.", "warn": "wenig = (fazla) az; ein wenig = biraz. Hissi farklı!"},
+      "A1-091": {"pron": "ZEER", "tip": "İngilizce sore (ağrıyan) ile akraba — eskiden ‘acı verecek kadar’ demekmiş 💯 yani ‘çok’!", "bonus": "Sehr gut! = Çok iyi!"},
+      "B1-401": {"pron": "ayn BİS-hen", "tip": "der Bissen (lokma) + -chen = bir lokmalık 🍪 İngilizce bit ve bite ile aynı kökten!", "bonus": "Güneyde a bissl derler.", "warn": "bisschen küçük harfle yazılır."},
+      "A2-532": {"pron": "ayn PAR", "tip": "das Paar (çift) kelimesinden gelir ama küçük harfli paar ‘birkaç’ demek 👫 Tam olarak iki değil!", "warn": "Hiç değişmez: mit ein paar Freunden"},
+      "A2-398": {"pron": "ge-NUK", "tip": "İngilizce enough ile aynı kökten ✋ Dur artık — genug!", "bonus": "Genug ist genug! = Yeter artık!"},
+      "A2-196": {"pron": "TSİM-lih", "tip": "Hafif endişeli bir yüz yapın: TSİM-lih 😬 ziemlich kalt = epey soğuk.", "bonus": "ziemlich viel = epey çok"},
+      "A2-461": {"pron": "FAST", "tip": "İngilizce fast gibi görünür ama ‘neredeyse’ demektir 🏁 Bitiş çizgisine neredeyse geldiniz!", "warn": "Yanıltıcı kelime: hızlı = schnell. fast = neredeyse!"},
+      "B1-1301": {"pron": "UN-ge-feer", "tip": "Omuz silkip UN-ge-feer deyin 🤷 ‘Hilesiz’ anlamına gelen eski bir deyimden gelir.", "bonus": "etwa da aynı anlamda: etwa zwei Stunden"},
+      "A2-516": {"pron": "MİN-des-tens", "tip": "mindest (en az) + -ens ⏳ Minimum gibi m ile başlıyor!", "bonus": "Zıttı: höchstens = en fazla"}
+    },
+    "culture": [
+      "Alman süpermarketlerinin et ve peynir tezgâhında (Theke) genellikle gramla sipariş verilir: „200 Gramm, bitte.“ Kesim biraz fazla gelirse, görevli neredeyse her zaman „Darf's ein bisschen mehr sein?“ diye sorar — biraz fazlası olur mu?",
+      "Almanya'da biri „Möchtest du noch etwas?“ diye ikram ettiğinde „Nein, danke“ derseniz, genellikle sözünüze inanılır. İki üç kez ısrar edilmez; o yüzden biraz daha istiyorsanız hemen „Ja, gern, ein bisschen!“ deyin. 🍰"
+    ],
+    "quiz": {"q": "Bir arkadaşınız yolculuğun ne kadar sürdüğünü soruyor. ‘Yaklaşık iki saat’ nasıl dersiniz?", "o": ["Ich bin fast fertig.", "Ich habe wenig Zeit.", "Die Fahrt dauert ungefähr zwei Stunden."], "a": 2, "why": "ungefähr ‘yaklaşık’ demektir; cümle ‘Yolculuk yaklaşık iki saat sürüyor’ anlamına gelir."},
+    "outro": "Gününüzü viel, wenig, ziemlich ve fast kullanarak üç cümleyle anlatın. Küçük kelimeler büyük fark yaratır! ✨"
   }
 }

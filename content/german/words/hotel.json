@@ -8,23 +8,72 @@
       "오늘은 호텔에서 꼭 쓰는 단어 10개예요. 이걸로 방을 예약하고, 체크인하고, 열쇠를 받고, 만실이라는 말도 바로 알아들을 수 있어요. 🛎️"
     ],
     "words": {
-      "A1-145": {"pron": "호텔", "tip": "철자는 영어와 같고, 강세는 뒤에! '호텔~' 🏨 프랑스어 hôtel에서 왔어요.", "bonus": "작고 가족적인 숙소 = die Pension, 유스호스텔 = die Jugendherberge"},
-      "A1-003": {"pron": "치머", "tip": "원래 '목재'라는 뜻, 영어 timber와 친척 🪵 나무로 지은 방을 떠올려요!", "bonus": "빈방 있어요? = Haben Sie ein Zimmer frei?"},
-      "A1-544": {"pron": "레체프치온", "tip": "영어 reception과 같은 말 🛎️ 독일어 철자는 c 대신 z!", "bonus": "열쇠는 프런트에서 = an der Rezeption"},
-      "A1-462": {"pron": "아인첼치머", "tip": "einzel(하나씩) + Zimmer = 1인실 🧍 ein(하나)이 보이죠?", "bonus": "1인실 하나 주세요 = Ich hätte gern ein Einzelzimmer."},
-      "A1-456": {"pron": "도펠치머", "tip": "doppel = 영어 double 👫 Doppel이 보이면 둘!", "warn": "복수형도 똑같이 die Doppelzimmer예요. -er로 끝나는 중성 명사는 복수에서 모양이 안 바뀌는 경우가 많아요."},
-      "A1-490": {"pron": "할프팡지온", "tip": "halb(반) + Pension(숙식) = 식사 반만 포함 🍽️ 아침과 저녁!", "bonus": "세 끼 모두 = die Vollpension, 조식만 = mit Frühstück"},
-      "B2-2646": {"pron": "아인체켄", "tip": "ein(안으로) + 영어 check = 체크인 🧳 영어가 독일어 옷을 입었어요.", "warn": "분리동사예요: Ich checke um 15 Uhr ein. / hat eingecheckt"},
-      "A1-563": {"pron": "위버나흐텐", "tip": "über(넘어) + Nacht(밤) = 밤을 넘기다 🌙 하룻밤 묵는 거죠!", "warn": "분리동사가 아니에요: Wir übernachten im Hotel. / hat übernachtet"},
-      "A1-166": {"pron": "슐뤼셀", "tip": "schließen(잠그다)에서 왔어요 🔑 잠그는 물건 = Schlüssel!", "bonus": "요즘 호텔은 열쇠 대신 die Schlüsselkarte(카드키)를 많이 줘요."},
-      "B1-1670": {"pron": "아우스게부흐트", "tip": "aus(완전히) + gebucht(예약된) = 예약이 꽉 찬 📵 영어 booked out과 똑같아요!", "warn": "공연이나 표는 ausverkauft(매진)라고 해요."}
+      "A1-145": {
+        "pron": "호텔",
+        "tip": "철자는 영어와 같고, 강세는 뒤에! '호텔~' 🏨 프랑스어 hôtel에서 왔어요.",
+        "bonus": "작고 가족적인 숙소 = die Pension, 유스호스텔 = die Jugendherberge"
+      },
+      "A1-003": {
+        "pron": "치머",
+        "tip": "원래 '목재'라는 뜻, 영어 timber와 친척 🪵 나무로 지은 방을 떠올려요!",
+        "bonus": "빈방 있어요? = Haben Sie ein Zimmer frei?"
+      },
+      "A1-544": {
+        "pron": "레체프치온",
+        "tip": "영어 reception과 같은 말 🛎️ 독일어 철자는 c 대신 z!",
+        "bonus": "열쇠는 프런트에서 = an der Rezeption"
+      },
+      "A1-462": {
+        "pron": "아인첼치머",
+        "tip": "einzel(하나씩) + Zimmer = 1인실 🧍 ein(하나)이 보이죠?",
+        "bonus": "1인실 하나 주세요 = Ich hätte gern ein Einzelzimmer."
+      },
+      "A1-456": {
+        "pron": "도펠치머",
+        "tip": "doppel = 영어 double 👫 Doppel이 보이면 둘!",
+        "warn": "복수형도 똑같이 die Doppelzimmer예요. -er로 끝나는 중성 명사는 복수에서 모양이 안 바뀌는 경우가 많아요."
+      },
+      "A1-490": {
+        "pron": "할프팡지온",
+        "tip": "halb(반) + Pension(숙식) = 식사 반만 포함 🍽️ 아침과 저녁!",
+        "bonus": "세 끼 모두 = die Vollpension, 조식만 = mit Frühstück"
+      },
+      "B2-2646": {
+        "pron": "아인체켄",
+        "tip": "ein(안으로) + 영어 check = 체크인 🧳 영어가 독일어 옷을 입었어요.",
+        "warn": "분리동사예요: Ich checke um 15 Uhr ein. / hat eingecheckt"
+      },
+      "A1-563": {
+        "pron": "위버나흐텐",
+        "tip": "über(넘어) + Nacht(밤) = 밤을 넘기다 🌙 하룻밤 묵는 거죠!",
+        "warn": "분리동사가 아니에요: Wir übernachten im Hotel. / hat übernachtet"
+      },
+      "A1-166": {
+        "pron": "슐뤼셀",
+        "tip": "schließen(잠그다)에서 왔어요 🔑 잠그는 물건 = Schlüssel!",
+        "bonus": "요즘 호텔은 열쇠 대신 die Schlüsselkarte(카드키)를 많이 줘요."
+      },
+      "B1-1670": {
+        "pron": "아우스게부흐트",
+        "tip": "aus(완전히) + gebucht(예약된) = 예약이 꽉 찬 📵 영어 booked out과 똑같아요!",
+        "warn": "공연이나 표는 ausverkauft(매진)라고 해요."
+      }
     },
     "culture": [
       "독일 호텔의 Doppelzimmer에는 큰 침대 하나에 이불이 두 개 놓여 있는 경우가 많아요. 매트리스도 두 개를 붙여 놓은 경우가 흔해서, 처음 보면 살짝 신기해요.",
       "작은 도시나 시골에서는 호텔 대신 가족이 운영하는 Pension이나 Gasthof에 묵어 보는 것도 좋아요. 아침 식사가 푸짐하고 분위기도 따뜻한 곳이 많아요.",
       "그리고 도시에 따라 1박마다 숙박세(Kurtaxe, City Tax 등)를 따로 받기도 해요. 체크아웃할 때 계산서에 처음 보는 항목이 있어도 놀라지 마세요. 🧾"
     ],
-    "quiz": {"q": "주말에 묵을 호텔에 전화했어요. 방이 하나도 없다는 뜻의 대답은?", "o": ["Wir haben noch ein Doppelzimmer frei.", "Wir sind leider ausgebucht.", "Sie können ab 15 Uhr einchecken."], "a": 1, "why": "ausgebucht = 예약이 꽉 찬. Wir sind leider ausgebucht. 는 '죄송하지만 만실이에요'라는 뜻이에요."},
+    "quiz": {
+      "q": "주말에 묵을 호텔에 전화했어요. 방이 하나도 없다는 뜻의 대답은?",
+      "o": [
+        "Wir haben noch ein Doppelzimmer frei.",
+        "Wir sind leider ausgebucht.",
+        "Sie können ab 15 Uhr einchecken."
+      ],
+      "a": 1,
+      "why": "ausgebucht = 예약이 꽉 찬. Wir sind leider ausgebucht. 는 '죄송하지만 만실이에요'라는 뜻이에요."
+    },
     "outro": "오늘 단어로 호텔 예약 전화를 혼자 연습해 봐요. Ich möchte ein Doppelzimmer für zwei Nächte! 🏨"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Here are ten words you'll use at any hotel. With them you can book a room, check in, get your key and understand straight away when they say they're full. 🛎️"
     ],
     "words": {
-      "A1-145": {"pron": "ho-TEL", "tip": "Same spelling as English, stress on the second syllable 🏨 It came from French hôtel.", "bonus": "a small family-run guesthouse = die Pension · youth hostel = die Jugendherberge"},
-      "A1-003": {"pron": "TSIM-er", "tip": "It originally meant timber 🪵 Picture a little wooden room.", "bonus": "Do you have a room free? = Haben Sie ein Zimmer frei?"},
-      "A1-544": {"pron": "ray-tsep-TSYOHN", "tip": "The same word as reception 🛎️ German just swaps the c for a z.", "bonus": "You get your key at the desk = an der Rezeption"},
-      "A1-462": {"pron": "INE-tsel-tsim-er", "tip": "einzel (single) + Zimmer = single room 🧍 Spot the ein (one)?", "bonus": "I'd like a single room = Ich hätte gern ein Einzelzimmer."},
-      "A1-456": {"pron": "DOP-el-tsim-er", "tip": "doppel = double 👫 See Doppel, think two.", "warn": "The plural looks the same: die Doppelzimmer."},
-      "A1-490": {"pron": "HALP-pahng-zyohn", "tip": "halb (half) + Pension (board) = half board 🍽️ Breakfast and dinner.", "bonus": "full board = die Vollpension · breakfast only = mit Frühstück"},
-      "B2-2646": {"pron": "INE-chek-en", "tip": "ein (in) + English check = check in 🧳 An English word in German clothes.", "warn": "Separable: Ich checke um 15 Uhr ein. / hat eingecheckt"},
-      "A1-563": {"pron": "ue-ber-NAKH-ten", "tip": "über (over) + Nacht (night) = to stay over the night 🌙 Easy to picture.", "warn": "Not separable: Wir übernachten im Hotel. / hat übernachtet"},
-      "A1-166": {"pron": "SHLUE-sel", "tip": "From schließen (to lock) 🔑 The thing that locks = Schlüssel.", "bonus": "Many hotels give you a key card instead: die Schlüsselkarte"},
-      "B1-1670": {"pron": "OWS-guh-bookht", "tip": "aus (completely) + gebucht (booked) = booked out 📵 Just like English!", "warn": "For concerts and tickets it's ausverkauft (sold out)."}
+      "A1-145": {
+        "pron": "ho-TEL",
+        "tip": "Same spelling as English, stress on the second syllable 🏨 It came from French hôtel.",
+        "bonus": "a small family-run guesthouse = die Pension · youth hostel = die Jugendherberge"
+      },
+      "A1-003": {
+        "pron": "TSIM-er",
+        "tip": "It originally meant timber 🪵 Picture a little wooden room.",
+        "bonus": "Do you have a room free? = Haben Sie ein Zimmer frei?"
+      },
+      "A1-544": {
+        "pron": "ray-tsep-TSYOHN",
+        "tip": "The same word as reception 🛎️ German just swaps the c for a z.",
+        "bonus": "You get your key at the desk = an der Rezeption"
+      },
+      "A1-462": {
+        "pron": "INE-tsel-tsim-er",
+        "tip": "einzel (single) + Zimmer = single room 🧍 Spot the ein (one)?",
+        "bonus": "I'd like a single room = Ich hätte gern ein Einzelzimmer."
+      },
+      "A1-456": {
+        "pron": "DOP-el-tsim-er",
+        "tip": "doppel = double 👫 See Doppel, think two.",
+        "warn": "The plural looks the same: die Doppelzimmer."
+      },
+      "A1-490": {
+        "pron": "HALP-pahng-zyohn",
+        "tip": "halb (half) + Pension (board) = half board 🍽️ Breakfast and dinner.",
+        "bonus": "full board = die Vollpension · breakfast only = mit Frühstück"
+      },
+      "B2-2646": {
+        "pron": "INE-chek-en",
+        "tip": "ein (in) + English check = check in 🧳 An English word in German clothes.",
+        "warn": "Separable: Ich checke um 15 Uhr ein. / hat eingecheckt"
+      },
+      "A1-563": {
+        "pron": "ue-ber-NAKH-ten",
+        "tip": "über (over) + Nacht (night) = to stay over the night 🌙 Easy to picture.",
+        "warn": "Not separable: Wir übernachten im Hotel. / hat übernachtet"
+      },
+      "A1-166": {
+        "pron": "SHLUE-sel",
+        "tip": "From schließen (to lock) 🔑 The thing that locks = Schlüssel.",
+        "bonus": "Many hotels give you a key card instead: die Schlüsselkarte"
+      },
+      "B1-1670": {
+        "pron": "OWS-guh-bookht",
+        "tip": "aus (completely) + gebucht (booked) = booked out 📵 Just like English!",
+        "warn": "For concerts and tickets it's ausverkauft (sold out)."
+      }
     },
     "culture": [
       "In a German Doppelzimmer you'll often find one big bed with two separate duvets. It's also common for the bed to be two mattresses pushed together, which surprises some visitors at first.",
       "In small towns and the countryside, try a family-run Pension or Gasthof instead of a hotel. Many serve a generous breakfast and have a cosy, personal feel.",
       "Some cities also charge a small tax per night (called Kurtaxe, City Tax or something similar). So don't be surprised if there's an extra line on your bill when you check out. 🧾"
     ],
-    "quiz": {"q": "You phone a hotel about the weekend. Which answer means they have no rooms left?", "o": ["Wir haben noch ein Doppelzimmer frei.", "Wir sind leider ausgebucht.", "Sie können ab 15 Uhr einchecken."], "a": 1, "why": "ausgebucht = fully booked, so Wir sind leider ausgebucht means ‘Sorry, we're full’."},
+    "quiz": {
+      "q": "You phone a hotel about the weekend. Which answer means they have no rooms left?",
+      "o": [
+        "Wir haben noch ein Doppelzimmer frei.",
+        "Wir sind leider ausgebucht.",
+        "Sie können ab 15 Uhr einchecken."
+      ],
+      "a": 1,
+      "why": "ausgebucht = fully booked, so Wir sind leider ausgebucht means ‘Sorry, we're full’."
+    },
     "outro": "Practise a hotel booking call out loud with today's words. Ich möchte ein Doppelzimmer für zwei Nächte! 🏨"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日はホテルで必ず使う単語を10個集めました。これで部屋を予約して、チェックインして、鍵を受け取り、満室と言われてもすぐにわかります。🛎️"
     ],
     "words": {
-      "A1-145": {"pron": "ホテル", "tip": "綴りは英語と同じ、アクセントは後ろに！ 🏨 フランス語の hôtel から来ました。", "bonus": "小さな家族経営の宿 = die Pension、ユースホステル = die Jugendherberge"},
-      "A1-003": {"pron": "ツィマー", "tip": "もとは「木材」、英語の timber の親戚 🪵 木でできた部屋をイメージ！", "bonus": "空いている部屋はありますか？= Haben Sie ein Zimmer frei?"},
-      "A1-544": {"pron": "レツェプツィオーン", "tip": "英語の reception と同じ言葉 🛎️ ドイツ語では c が z になります！", "bonus": "鍵はフロントで = an der Rezeption"},
-      "A1-462": {"pron": "アインツェルツィマー", "tip": "einzel（ひとつずつ）+ Zimmer = シングルルーム 🧍 ein（ひとつ）が見えますね？", "bonus": "シングルを一部屋お願いします = Ich hätte gern ein Einzelzimmer."},
-      "A1-456": {"pron": "ドッペルツィマー", "tip": "doppel = 英語の double 👫 Doppel を見たら「ふたり」！", "warn": "複数形も同じ形の die Doppelzimmer です。"},
-      "A1-490": {"pron": "ハルプパンズィオーン", "tip": "halb（半分）+ Pension（食事付き宿泊）= 食事が半分付き 🍽️ 朝食と夕食です！", "bonus": "3食付き = die Vollpension、朝食のみ = mit Frühstück"},
-      "B2-2646": {"pron": "アインチェッケン", "tip": "ein（中へ）+ 英語の check = チェックイン 🧳 英語がドイツ語の服を着ています。", "warn": "分離動詞です：Ich checke um 15 Uhr ein. / hat eingecheckt"},
-      "A1-563": {"pron": "ユーバーナハテン", "tip": "über（越えて）+ Nacht（夜）= 夜を越す 🌙 つまり一泊すること！", "warn": "分離動詞ではありません：Wir übernachten im Hotel. / hat übernachtet"},
-      "A1-166": {"pron": "シュリュッセル", "tip": "schließen（鍵をかける）から 🔑 鍵をかけるもの = Schlüssel！", "bonus": "最近はカードキー（die Schlüsselkarte）を渡すホテルも多いです。"},
-      "B1-1670": {"pron": "アウスゲブーフト", "tip": "aus（完全に）+ gebucht（予約された）= 予約でいっぱい 📵 英語の booked out と同じ！", "warn": "コンサートやチケットは ausverkauft（売り切れ）と言います。"}
+      "A1-145": {
+        "pron": "ホテル",
+        "tip": "綴りは英語と同じ、アクセントは後ろに！ 🏨 フランス語の hôtel から来ました。",
+        "bonus": "小さな家族経営の宿 = die Pension、ユースホステル = die Jugendherberge"
+      },
+      "A1-003": {
+        "pron": "ツィマー",
+        "tip": "もとは「木材」、英語の timber の親戚 🪵 木でできた部屋をイメージ！",
+        "bonus": "空いている部屋はありますか？= Haben Sie ein Zimmer frei?"
+      },
+      "A1-544": {
+        "pron": "レツェプツィオーン",
+        "tip": "英語の reception と同じ言葉 🛎️ ドイツ語では c が z になります！",
+        "bonus": "鍵はフロントで = an der Rezeption"
+      },
+      "A1-462": {
+        "pron": "アインツェルツィマー",
+        "tip": "einzel（ひとつずつ）+ Zimmer = シングルルーム 🧍 ein（ひとつ）が見えますね？",
+        "bonus": "シングルを一部屋お願いします = Ich hätte gern ein Einzelzimmer."
+      },
+      "A1-456": {
+        "pron": "ドッペルツィマー",
+        "tip": "doppel = 英語の double 👫 Doppel を見たら「ふたり」！",
+        "warn": "複数形も同じ形の die Doppelzimmer です。"
+      },
+      "A1-490": {
+        "pron": "ハルプパンズィオーン",
+        "tip": "halb（半分）+ Pension（食事付き宿泊）= 食事が半分付き 🍽️ 朝食と夕食です！",
+        "bonus": "3食付き = die Vollpension、朝食のみ = mit Frühstück"
+      },
+      "B2-2646": {
+        "pron": "アインチェッケン",
+        "tip": "ein（中へ）+ 英語の check = チェックイン 🧳 英語がドイツ語の服を着ています。",
+        "warn": "分離動詞です：Ich checke um 15 Uhr ein. / hat eingecheckt"
+      },
+      "A1-563": {
+        "pron": "ユーバーナハテン",
+        "tip": "über（越えて）+ Nacht（夜）= 夜を越す 🌙 つまり一泊すること！",
+        "warn": "分離動詞ではありません：Wir übernachten im Hotel. / hat übernachtet"
+      },
+      "A1-166": {
+        "pron": "シュリュッセル",
+        "tip": "schließen（鍵をかける）から 🔑 鍵をかけるもの = Schlüssel！",
+        "bonus": "最近はカードキー（die Schlüsselkarte）を渡すホテルも多いです。"
+      },
+      "B1-1670": {
+        "pron": "アウスゲブーフト",
+        "tip": "aus（完全に）+ gebucht（予約された）= 予約でいっぱい 📵 英語の booked out と同じ！",
+        "warn": "コンサートやチケットは ausverkauft（売り切れ）と言います。"
+      }
     },
     "culture": [
       "ドイツのホテルの Doppelzimmer には、大きなベッドに掛け布団が2枚置いてあることが多いです。マットレスも2枚をくっつけてあることがよくあり、初めて見るとちょっと驚きます。",
       "小さな町や田舎では、ホテルの代わりに家族経営の Pension や Gasthof に泊まってみるのもおすすめです。朝食がたっぷりで、温かい雰囲気の宿がたくさんあります。",
       "また、都市によっては1泊ごとに宿泊税（Kurtaxe、City Tax など）がかかることもあります。チェックアウトのとき見慣れない項目があっても驚かないでくださいね。🧾"
     ],
-    "quiz": {"q": "週末のホテルに電話しました。「部屋がひとつもない」という意味の答えは？", "o": ["Wir haben noch ein Doppelzimmer frei.", "Wir sind leider ausgebucht.", "Sie können ab 15 Uhr einchecken."], "a": 1, "why": "ausgebucht = 予約でいっぱい。Wir sind leider ausgebucht. は「あいにく満室です」という意味です。"},
+    "quiz": {
+      "q": "週末のホテルに電話しました。「部屋がひとつもない」という意味の答えは？",
+      "o": [
+        "Wir haben noch ein Doppelzimmer frei.",
+        "Wir sind leider ausgebucht.",
+        "Sie können ab 15 Uhr einchecken."
+      ],
+      "a": 1,
+      "why": "ausgebucht = 予約でいっぱい。Wir sind leider ausgebucht. は「あいにく満室です」という意味です。"
+    },
     "outro": "今日の単語で、ホテルの予約電話を一人で練習してみましょう。Ich möchte ein Doppelzimmer für zwei Nächte! 🏨"
+  },
+  "tr": {
+    "title": "Otele gönül rahatlığıyla giriş yapın: 10 Almanca otel kelimesi",
+    "hook": "Uzun bir tren yolculuğundan sonra en son istediğiniz şey resepsiyonda donakalmaktır.",
+    "intro": [
+      "Gece geç saatte Münih'e varıyor ve bavulunuzu otele doğru sürüklüyorsunuz. Resepsiyondaki görevli gülümsüyor: \"Haben Sie reserviert?\" Rezervasyon yaptınız, ama oda tipleri ve kahvaltı lafı açılır açılmaz aklınız duruyor.",
+      "İşte her otelde kullanacağınız on kelime. Bunlarla oda ayırtabilir, giriş yapabilir, anahtarınızı alabilir ve yer olmadığını söylediklerinde hemen anlayabilirsiniz. 🛎️"
+    ],
+    "words": {
+      "A1-145": {
+        "pron": "ho-TEL",
+        "tip": "Türkçedeki “otel” ile aynı, vurgu ikinci hecede 🏨 Fransızca hôtel'den gelmiş.",
+        "bonus": "küçük aile pansiyonu = die Pension · gençlik hosteli = die Jugendherberge"
+      },
+      "A1-003": {
+        "pron": "TSİM-mır",
+        "tip": "Aslında kereste (timber) anlamına geliyordu 🪵 Küçük ahşap bir oda düşünün.",
+        "bonus": "Boş odanız var mı? = Haben Sie ein Zimmer frei?"
+      },
+      "A1-544": {
+        "pron": "re-tsep-TSYON",
+        "tip": "Türkçedeki “resepsiyon” ile aynı kelime 🛎️ Almanca sadece c yerine z koyar.",
+        "bonus": "Anahtarı masadan alırsınız = an der Rezeption"
+      },
+      "A1-462": {
+        "pron": "AYN-tsel-tsim-mır",
+        "tip": "einzel (tek) + Zimmer = tek kişilik oda 🧍 İçindeki ein'i (bir) gördünüz mü?",
+        "bonus": "Tek kişilik bir oda istiyorum = Ich hätte gern ein Einzelzimmer."
+      },
+      "A1-456": {
+        "pron": "DOP-pel-tsim-mır",
+        "tip": "doppel = çift 👫 Doppel'i görünce ikiyi düşünün.",
+        "warn": "Çoğulu aynı görünür: die Doppelzimmer."
+      },
+      "A1-490": {
+        "pron": "HALP-pang-zyon",
+        "tip": "halb (yarım) + Pension (pansiyon) = yarım pansiyon 🍽️ Kahvaltı ve akşam yemeği.",
+        "bonus": "tam pansiyon = die Vollpension · sadece kahvaltı = mit Frühstück"
+      },
+      "B2-2646": {
+        "pron": "AYN-çek-ken",
+        "tip": "ein (içeri) + İngilizce check = check-in 🧳 Alman kılığına girmiş bir İngilizce kelime.",
+        "warn": "Ayrılabilen fiil: Ich checke um 15 Uhr ein. / hat eingecheckt"
+      },
+      "A1-563": {
+        "pron": "ü-bır-NAH-ten",
+        "tip": "über (üzerinden) + Nacht (gece) = geceyi bir yerde geçirmek 🌙 Gözünüzün önüne getirmesi kolay.",
+        "warn": "Ayrılamaz: Wir übernachten im Hotel. / hat übernachtet"
+      },
+      "A1-166": {
+        "pron": "ŞLÜS-sel",
+        "tip": "schließen (kilitlemek) fiilinden 🔑 Kilitleyen şey = Schlüssel.",
+        "bonus": "Pek çok otel bunun yerine anahtar kart verir: die Schlüsselkarte"
+      },
+      "B1-1670": {
+        "pron": "AUS-ge-buht",
+        "tip": "aus (tamamen) + gebucht (rezerve edilmiş) = tamamen dolu 📵 Tıpkı İngilizcedeki gibi!",
+        "warn": "Konserler ve biletler için ausverkauft (tükendi) denir."
+      }
+    },
+    "culture": [
+      "Alman bir Doppelzimmer'de sık sık iki ayrı yorganlı büyük bir yatak bulursunuz. Yatağın yan yana itilmiş iki şilteden oluşması da yaygındır; bu bazı ziyaretçileri ilk başta şaşırtır.",
+      "Küçük kasabalarda ve kırsalda otel yerine aile işletmesi bir Pension ya da Gasthof deneyin. Pek çoğu bol bir kahvaltı sunar ve sıcak, samimi bir havası vardır.",
+      "Bazı şehirler gecelik küçük bir vergi de alır (Kurtaxe, City Tax ya da benzer bir adla). Bu yüzden çıkış yaparken faturanızda fazladan bir satır görürseniz şaşırmayın. 🧾"
+    ],
+    "quiz": {
+      "q": "Hafta sonu için bir oteli arıyorsunuz. Hangi cevap boş odaları kalmadığı anlamına gelir?",
+      "o": [
+        "Wir haben noch ein Doppelzimmer frei.",
+        "Wir sind leider ausgebucht.",
+        "Sie können ab 15 Uhr einchecken."
+      ],
+      "a": 1,
+      "why": "ausgebucht = tamamen dolu; Wir sind leider ausgebucht ‘Maalesef doluyuz’ demektir."
+    },
+    "outro": "Bugünkü kelimelerle bir otel rezervasyonu telefonunu yüksek sesle çalışın. Ich möchte ein Doppelzimmer für zwei Nächte! 🏨"
   }
 }

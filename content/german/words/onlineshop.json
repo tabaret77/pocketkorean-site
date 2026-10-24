@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "ネットで買った靴のサイズが合いません。友だちに何と言いますか？", "o": ["Ich bestelle sie noch einmal.", "Ich schicke sie zurück.", "Die Lieferung ist kostenlos."], "a": 1, "why": "zurückschicken は「送り返す」なので、返品するという意味です。"},
     "outro": "今日はショッピングアプリやサイトをドイツ語表示にして、今日の単語を探してみましょう。Warenkorb に入れるだけで、購入はがまんでもOK！😉"
+  },
+  "tr": {
+    "title": "Sepetten iadeye: 10 kelimede Almanca internet alışverişi",
+    "hook": "Hiç bir Alman alışveriş sitesinde ödeme butonunu ararken kayboldunuz mu?",
+    "intro": [
+      "Almanya'da internetten ilk kez ayakkabı aldığımda her butonun üzerinde uzun bir kelime vardı: Warenkorb, Versandkosten, Rücksendung… Ve tabii ki ayakkabılar olmadı, geri göndermem gerekti.",
+      "Bugünkü 10 kelime internetten alışveriş yaparken ekranda göreceğiniz kelimeler. Bunlarla kendi başınıza sipariş verebilir, kargoyu takip edebilir, ürün iade edebilir ve hatta yorum bırakabilirsiniz. 🛒"
+    ],
+    "words": {
+      "A2-530": {"pron": "ON-layn", "tip": "Doğrudan İngilizceden alınma 💻 Almanca cümlelerde de aynen kullanılır, Türkçedeki gibi.", "bonus": "online einkaufen = internetten alışveriş yapmak"},
+      "BL-01-01": {"pron": "be-ŞTEL-lunk", "tip": "bestellen + -ung = sipariş 📦 -ung ile biten kelimeler her zaman die.", "bonus": "eine Bestellung aufgeben = sipariş vermek"},
+      "BL-01-02": {"pron": "be-ŞTEL-len", "tip": "be- + stellen (koymak) = bir şeyin önünüze konmasını sağlamak 🍽️ Kafede de internette de işe yarar.", "bonus": "Perfekt: Ich habe Schuhe bestellt."},
+      "A2-323": {"pron": "Lİ-fern", "tip": "Fransızca livrer kelimesinden 🚚 İngilizce deliver'daki -liver- kısmını görün!", "bonus": "Teslimatın kendisi die Lieferung."},
+      "B2-1433": {"pron": "fer-ZANT", "tip": "versenden (göndermek) fiilinin ismi 📮 İçinde İngilizce send'i görebilirsiniz.", "warn": "Genellikle çoğulu yok: Der Versand dauert zwei Tage."},
+      "B1-1720": {"pron": "fer-ZANT-kos-ten", "tip": "Versand (gönderim) + Kosten (masraf) 💸 Ücretsiz kargo versandkostenfrei!", "warn": "Her zaman çoğul: die Versandkosten."},
+      "B1-1697": {"pron": "tsu-RÜK-şi-ken", "tip": "zurück (geri) + schicken (göndermek) = geri göndermek ↩️", "warn": "Ayrılabilen fiil: Ich schicke die Schuhe zurück."},
+      "B2-1432": {"pron": "RÜK-zen-dunk", "tip": "Rück (geri) + Sendung (gönderi) = iade 📦 -ung, yani die.", "bonus": "İade etiketi das Rücksendeetikett."},
+      "B2-110": {"pron": "be-VER-tunk", "tip": "İçinde Wert (değer) var ⭐ Bir şeyin ne değerde olduğunu söylemek = değerlendirme.", "bonus": "eine Bewertung schreiben = yorum yazmak"},
+      "C1-2496": {"pron": "VA-ren-korp", "tip": "Ware (mal) + Korb (sepet) = alışveriş sepeti 🧺 Korb der olduğu için der.", "bonus": "In den Warenkorb = Sepete ekle (her mağaza butonunda görürsünüz)"}
+    },
+    "culture": [
+      "Almanya'da internetten aldığınız ürünleri genellikle 14 gün içinde sebep belirtmeden iade edebilirsiniz. Buna Widerrufsrecht (cayma hakkı) denir. Ancak iade kargo ücretini kimin ödeyeceği mağazaya bağlıdır.",
+      "Paket geldiğinde evde değilseniz çoğu zaman bir komşunuz teslim alır. Posta kutunuzda bir kart bulursanız komşularınıza, yakındaki postaneye ya da bir paket istasyonuna (Packstation) bakın.",
+      "Teslimattan sonra faturayla ödemek, yani Kauf auf Rechnung, de Almanya'da oldukça popülerdir. 🧾"
+    ],
+    "quiz": {"q": "İnternetten aldığınız ayakkabılar olmadı. Arkadaşınıza ne dersiniz?", "o": ["Ich bestelle sie noch einmal.", "Ich schicke sie zurück.", "Die Lieferung ist kostenlos."], "a": 1, "why": "zurückschicken geri göndermek demek; yani onları iade ediyorsunuz."},
+    "outro": "Bugün bir alışveriş uygulamasını ya da sitesini Almancaya çevirin ve bugünün kelimelerini arayın. Warenkorb'a eklemek serbest, ödeme yapmak isteğe bağlı! 😉"
   }
 }

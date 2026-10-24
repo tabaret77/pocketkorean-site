@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "電車が遅れて、乗り継ぐ予定の列車に乗れませんでした。駅の窓口で何と言いますか？", "o": ["Ich habe meine Ankunft verpasst.", "Ich habe den Fahrplan verpasst.", "Ich habe meinen Anschluss verpasst."], "a": 2, "why": "der Anschluss は乗り継ぎの便のことなので、「乗り継ぎを逃しました」がぴったりです。"},
     "outro": "次に駅へ行ったら、案内板の Abfahrt、Gleis、Verspätung を声に出して読んでみましょう。アナウンスも少しずつ聞き取れるようになりますよ！🛤️"
+  },
+  "tr": {
+    "title": "Herkes trene: tren istasyonu için 10 Almanca kelime",
+    "hook": "Alman trenlerine binen herkes bunu çabuk öğrenir: anonsları anlamak, bilet kadar gereklidir.",
+    "intro": [
+      "Merkez istasyonda kalkış panosunun altında duruyorsunuz; bir anons cızırdıyor ve herkes birden başka bir perona koşuşturuyor. Ne oldu, ve neden orada dikilen bir tek siz kaldınız?",
+      "Bugünkü on kelime her istasyonda gördüğünüz ve duyduğunuz kelimeler. Bunlarla panoyu okuyabilir, gecikme anonslarını takip edebilir ve aktarmayı kaçırdığınızda yardım isteyebilirsiniz. 🚆"
+    ],
+    "words": {
+      "A1-033": {"pron": "BAN-hof", "tip": "Bahn (demiryolu) + Hof (avlu) = trenlerin toplandığı avlu 🏰", "bonus": "Ich verstehe nur Bahnhof. = Hiçbir şey anlamıyorum (bana Çince gibi geliyor)."},
+      "BL-14-01": {"pron": "TSUK", "tip": "ziehen (çekmek) fiilinden gelir — lokomotif vagonları çeker 🚂", "warn": "Çoğulu umlautlu: die Züge", "bonus": "trenle gitmek = mit dem Zug fahren"},
+      "BL-14-02": {"pron": "GLAYS", "tip": "İngilizce glides (kayar) gibi — trenin üzerinde kaydığı ray 🛤️", "bonus": "Anonslarda duyacağınız bir kelime: Gleiswechsel = peron değişikliği"},
+      "A2-007": {"pron": "BAN-ştayk", "tip": "Bahn + steigen (tırmanmak) = trene tırmandığınız yer 🧍", "warn": "Anonslar ve panolar genelde Bahnsteig değil Gleis numarasını verir.", "bonus": "einsteigen = binmek · aussteigen = inmek · umsteigen = aktarma yapmak"},
+      "BL-07-08": {"pron": "FAR-plan", "tip": "fahren (yolculuk etmek) + Plan = yolculuk planı, yani sefer tarifesi 🗓️", "bonus": "laut Fahrplan = tarifeye göre"},
+      "A2-008": {"pron": "fer-ŞPEY-tunk", "tip": "İçinde spät (geç) saklı ⏰ Alman istasyonlarında belki de en çok duyulan kelime — Türkçedeki ‘rötar’.", "warn": "haben ile kullanılır: Der Zug hat zehn Minuten Verspätung."},
+      "BL-14-04": {"pron": "AN-şlus", "tip": "anschließen (bağlamak) fiilinden — sizinkine bağlanan tren 🔗", "bonus": "den Anschluss verpassen = aktarmayı kaçırmak"},
+      "A2-010": {"pron": "AN-kunft", "tip": "ankommen (varmak) fiilinden eski bir isim 🏁 Zukunft (gelecek) ile aynı kalıp.", "bonus": "varmak = ankommen: Wann kommt der Zug an?"},
+      "A2-009": {"pron": "AP-fart", "tip": "ab (uzağa) + Fahrt (yolculuk) = yola koyulmak 🚉", "warn": "abfahren fiili ayrılabilen: Der Zug fährt um acht ab."},
+      "BL-14-07": {"pron": "DURH-za-ge", "tip": "durch (içinden) + sagen (söylemek) = hoparlörün içinden söylemek 📢", "bonus": "S-Bahn'ın klasiği: Zurückbleiben, bitte! = Lütfen geri çekilin (kapılar kapanıyor)."}
+    },
+    "culture": [
+      "Alman istasyonlarının çoğunda turnike yoktur. Bunun yerine kontrolörler biletleri trende kontrol eder, o yüzden binmeden önce geçerli bir biletiniz olduğundan emin olun. Bazı bölgelerde kâğıt biletlerin yolculuktan önce damgalanması (entwerten) gerekir.",
+      "Uzun mesafe peronlarında A, B, C gibi bölüm harfleri görürsünüz. Vagonunuzun nerede duracağını bulmak için vagon dizilim panosuna (Wagenreihung) bakın; tren geldiğinde çok daha az koşturursunuz.",
+      "Dürüst olalım: gecikmeler olur. Treniniz çok gecikirse çoğu zaman ücretin bir kısmını geri talep edebilirsiniz (Fahrgastrechte), o yüzden biletinizi saklayın. 🎫"
+    ],
+    "quiz": {"q": "Treniniz gecikti ve binmeniz gereken bir sonraki treni kaçırdınız. Seyahat merkezindeki görevliye ne dersiniz?", "o": ["Ich habe meine Ankunft verpasst.", "Ich habe den Fahrplan verpasst.", "Ich habe meinen Anschluss verpasst."], "a": 2, "why": "der Anschluss aktarma treninizdir; ‘Aktarmamı kaçırdım’ demek tam olarak doğru."},
+    "outro": "Bir dahaki istasyon ziyaretinizde panodaki Abfahrt, Gleis ve Verspätung'u yüksek sesle okuyun. Yavaş yavaş anonslar da anlam kazanmaya başlayacak! 🛤️"
   }
 }

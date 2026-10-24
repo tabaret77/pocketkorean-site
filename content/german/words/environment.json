@@ -8,23 +8,72 @@
       "오늘은 환경 이야기에 꼭 나오는 단어 10개예요. 이걸로 분리수거 규칙을 알아듣고, 뉴스 헤드라인을 읽고, 친구와 환경 얘기도 나눌 수 있어요. 🌱"
     ],
     "words": {
-      "A2-040": {"pron": "움벨트", "tip": "um(둘레) + Welt(세상) = 나를 빙 둘러싼 세상 🌍 그게 바로 환경!", "warn": "복수형 없이 늘 die Umwelt로 써요."},
-      "B1-1299": {"pron": "움벨트슈츠", "tip": "Umwelt + Schutz(보호) = 환경 보호 🛡️ 합성어는 마지막 단어 성을 따라서 der!", "bonus": "데이터 보호 = der Datenschutz도 같은 Schutz예요."},
-      "B1-058": {"pron": "쉬첸", "tip": "der Schutz(보호)에 -en 붙여 동사로 🧴 선크림이 피부를 schützen!", "warn": "'~로부터 보호하다'는 vor + 3격: vor der Sonne schützen (von ✗)"},
-      "B1-1300": {"pron": "움벨트페어슈무충", "tip": "Umwelt + ver-schmutz-ung, 가운데 Schmutz(더러움)가 보이죠? 🏭 환경을 더럽히는 것!", "bonus": "더러운 = schmutzig, 오염시키다 = verschmutzen"},
-      "A2-041": {"pron": "뮐", "tip": "'뮐~' 하고 입을 쭉 내밀면 쓰레기 냄새에 찡그린 얼굴 같아요 🗑️", "bonus": "쓰레기통 = der Mülleimer · 분리수거하다 = den Müll trennen"},
-      "B1-1033": {"pron": "플라스틱", "tip": "영어 plastic과 같아요 🥤 그리스어 '빚을 수 있는'에서 왔어요.", "warn": "das Plastik은 플라스틱, die Plastik은 조각 작품이에요. 관사가 중요해요!"},
-      "B2-849": {"pron": "리사이클른", "tip": "영어 recycle에 독일어 동사 어미 -n만 붙였어요 ♻️ 발음도 영어처럼!", "warn": "철자 주의: recyceln · 과거분사는 ge- 없이 recycelt"},
-      "B1-078": {"pron": "움벨트프로인틀리히", "tip": "Umwelt + freundlich(친절한) = 환경에게 친절한 💚 직역이 너무 귀여워요.", "bonus": "반대말: umweltschädlich = 환경에 해로운"},
-      "B1-079": {"pron": "나흐할티히", "tip": "nach(뒤에) + halten(유지하다) = 뒤에까지 오래 가는 🌳 숲을 지키던 독일 임업에서 나온 말이에요.", "bonus": "명사: die Nachhaltigkeit = 지속 가능성"},
-      "B2-811": {"pron": "에어노이어바르", "tip": "er- + neu(새로운) + -bar(~할 수 있는) = 다시 새로 만들 수 있는 🔋 -bar는 영어 -able!", "bonus": "재생 에너지 = erneuerbare Energien (독일어에서는 복수로 말해요)"}
+      "A2-040": {
+        "pron": "움벨트",
+        "tip": "um(둘레) + Welt(세상) = 나를 빙 둘러싼 세상 🌍 그게 바로 환경!",
+        "warn": "복수형 없이 늘 die Umwelt로 써요."
+      },
+      "B1-1299": {
+        "pron": "움벨트슈츠",
+        "tip": "Umwelt + Schutz(보호) = 환경 보호 🛡️ 합성어는 마지막 단어 성을 따라서 der!",
+        "bonus": "데이터 보호 = der Datenschutz도 같은 Schutz예요."
+      },
+      "B1-058": {
+        "pron": "쉬첸",
+        "tip": "der Schutz(보호)에 -en 붙여 동사로 🧴 선크림이 피부를 schützen!",
+        "warn": "'~로부터 보호하다'는 vor + 3격: vor der Sonne schützen (von ✗)"
+      },
+      "B1-1300": {
+        "pron": "움벨트페어슈무충",
+        "tip": "Umwelt + ver-schmutz-ung, 가운데 Schmutz(더러움)가 보이죠? 🏭 환경을 더럽히는 것!",
+        "bonus": "더러운 = schmutzig, 오염시키다 = verschmutzen"
+      },
+      "A2-041": {
+        "pron": "뮐",
+        "tip": "'뮐~' 하고 입을 쭉 내밀면 쓰레기 냄새에 찡그린 얼굴 같아요 🗑️",
+        "bonus": "쓰레기통 = der Mülleimer · 분리수거하다 = den Müll trennen"
+      },
+      "B1-1033": {
+        "pron": "플라스틱",
+        "tip": "영어 plastic과 같아요 🥤 그리스어 '빚을 수 있는'에서 왔어요.",
+        "warn": "das Plastik은 플라스틱, die Plastik은 조각 작품이에요. 관사가 중요해요!"
+      },
+      "B2-849": {
+        "pron": "리사이클른",
+        "tip": "영어 recycle에 독일어 동사 어미 -n만 붙였어요 ♻️ 발음도 영어처럼!",
+        "warn": "철자 주의: recyceln · 과거분사는 ge- 없이 recycelt"
+      },
+      "B1-078": {
+        "pron": "움벨트프로인틀리히",
+        "tip": "Umwelt + freundlich(친절한) = 환경에게 친절한 💚 직역이 너무 귀여워요.",
+        "bonus": "반대말: umweltschädlich = 환경에 해로운"
+      },
+      "B1-079": {
+        "pron": "나흐할티히",
+        "tip": "nach(뒤에) + halten(유지하다) = 뒤에까지 오래 가는 🌳 숲을 지키던 독일 임업에서 나온 말이에요.",
+        "bonus": "명사: die Nachhaltigkeit = 지속 가능성"
+      },
+      "B2-811": {
+        "pron": "에어노이어바르",
+        "tip": "er- + neu(새로운) + -bar(~할 수 있는) = 다시 새로 만들 수 있는 🔋 -bar는 영어 -able!",
+        "bonus": "재생 에너지 = erneuerbare Energien (독일어에서는 복수로 말해요)"
+      }
     },
     "culture": [
       "독일에서는 분리수거(Mülltrennung)가 생활의 기본이에요. 보통 종이, 포장재(Gelbe Tonne 또는 Gelber Sack), 음식물(Biomüll), 일반 쓰레기(Restmüll)로 나눠요. 통 색깔과 세부 규칙은 도시마다 조금씩 달라서, 이사하면 집 안내문부터 확인하는 게 좋아요.",
       "유리병은 거리의 컨테이너에 흰색, 초록색, 갈색으로 나눠 넣어요. 시끄러우니까 밤이나 일요일에는 넣지 말라는 안내가 붙어 있는 경우가 많아요. 보증금(Pfand)이 붙은 병은 마트에 돌려주면 돼요.",
       "그리고 nachhaltig라는 말은 18세기 독일 임업에서 나왔어요. 자라는 만큼만 나무를 베자는 생각이 지금 전 세계가 쓰는 '지속 가능성'의 뿌리가 된 거예요. 🌲"
     ],
-    "quiz": {"q": "\"자전거 타는 게 차 타는 것보다 더 친환경적이야.\"를 독일어로 하면?", "o": ["Radfahren ist umweltschädlicher als Autofahren.", "Radfahren ist umweltfreundlicher als Autofahren.", "Radfahren ist genauso schmutzig wie Autofahren."], "a": 1, "why": "umweltfreundlich = 친환경적인, 비교급은 umweltfreundlicher예요. umweltschädlich는 반대로 '환경에 해로운'이에요."},
+    "quiz": {
+      "q": "\"자전거 타는 게 차 타는 것보다 더 친환경적이야.\"를 독일어로 하면?",
+      "o": [
+        "Radfahren ist umweltschädlicher als Autofahren.",
+        "Radfahren ist umweltfreundlicher als Autofahren.",
+        "Radfahren ist genauso schmutzig wie Autofahren."
+      ],
+      "a": 1,
+      "why": "umweltfreundlich = 친환경적인, 비교급은 umweltfreundlicher예요. umweltschädlich는 반대로 '환경에 해로운'이에요."
+    },
     "outro": "오늘 버린 쓰레기를 하나씩 독일어로 말해 봐요. Das ist Plastik, das ist Papier! ♻️"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words come up in every conversation about the environment. With them you can follow the recycling rules, read the headlines and talk green with your friends. 🌱"
     ],
     "words": {
-      "A2-040": {"pron": "OOM-velt", "tip": "um (around) + Welt (world) = the world around you 🌍 That's your environment.", "warn": "No plural — it's always die Umwelt."},
-      "B1-1299": {"pron": "OOM-velt-shoots", "tip": "Umwelt + Schutz (protection) 🛡️ Compounds take the gender of the last part, so it's der.", "bonus": "Same Schutz in der Datenschutz = data protection"},
-      "B1-058": {"pron": "SHUET-sen", "tip": "der Schutz (protection) + -en = to protect 🧴 Sun cream schützt your skin.", "warn": "Protect from = vor + dative: vor der Sonne schützen (not von)"},
-      "B1-1300": {"pron": "OOM-velt-fair-shmoot-soong", "tip": "Spot Schmutz (dirt) in the middle? 🏭 Making the environment dirty = pollution.", "bonus": "dirty = schmutzig · to pollute = verschmutzen"},
-      "A2-041": {"pron": "MUEL", "tip": "Push your lips out for the ü and you'll pull the face of someone smelling rubbish 🗑️", "bonus": "bin = der Mülleimer · to sort rubbish = den Müll trennen"},
-      "B1-1033": {"pron": "PLAS-tik", "tip": "Just like plastic 🥤 From Greek for ‘mouldable’.", "warn": "das Plastik = plastic, die Plastik = a sculpture. Watch the article!"},
-      "B2-849": {"pron": "ree-SY-keln", "tip": "English recycle with a German -n stuck on ♻️ Say it the English way.", "warn": "Mind the spelling: recyceln · no ge- in the perfect: recycelt"},
-      "B1-078": {"pron": "OOM-velt-froynt-likh", "tip": "Umwelt + freundlich (friendly) = friendly to the environment 💚 Literally ‘eco-friendly’.", "bonus": "Opposite: umweltschädlich = harmful to the environment"},
-      "B1-079": {"pron": "NAKH-hal-tikh", "tip": "nach (after) + halten (to hold) = holding on long afterwards 🌳 It started in German forestry.", "bonus": "The noun: die Nachhaltigkeit = sustainability"},
-      "B2-811": {"pron": "air-NOY-er-bar", "tip": "er- + neu (new) + -bar (-able) = able to be made new again 🔋 -bar works like -able.", "bonus": "renewable energy = erneuerbare Energien (plural in German)"}
+      "A2-040": {
+        "pron": "OOM-velt",
+        "tip": "um (around) + Welt (world) = the world around you 🌍 That's your environment.",
+        "warn": "No plural — it's always die Umwelt."
+      },
+      "B1-1299": {
+        "pron": "OOM-velt-shoots",
+        "tip": "Umwelt + Schutz (protection) 🛡️ Compounds take the gender of the last part, so it's der.",
+        "bonus": "Same Schutz in der Datenschutz = data protection"
+      },
+      "B1-058": {
+        "pron": "SHUET-sen",
+        "tip": "der Schutz (protection) + -en = to protect 🧴 Sun cream schützt your skin.",
+        "warn": "Protect from = vor + dative: vor der Sonne schützen (not von)"
+      },
+      "B1-1300": {
+        "pron": "OOM-velt-fair-shmoot-soong",
+        "tip": "Spot Schmutz (dirt) in the middle? 🏭 Making the environment dirty = pollution.",
+        "bonus": "dirty = schmutzig · to pollute = verschmutzen"
+      },
+      "A2-041": {
+        "pron": "MUEL",
+        "tip": "Push your lips out for the ü and you'll pull the face of someone smelling rubbish 🗑️",
+        "bonus": "bin = der Mülleimer · to sort rubbish = den Müll trennen"
+      },
+      "B1-1033": {
+        "pron": "PLAS-tik",
+        "tip": "Just like plastic 🥤 From Greek for ‘mouldable’.",
+        "warn": "das Plastik = plastic, die Plastik = a sculpture. Watch the article!"
+      },
+      "B2-849": {
+        "pron": "ree-SY-keln",
+        "tip": "English recycle with a German -n stuck on ♻️ Say it the English way.",
+        "warn": "Mind the spelling: recyceln · no ge- in the perfect: recycelt"
+      },
+      "B1-078": {
+        "pron": "OOM-velt-froynt-likh",
+        "tip": "Umwelt + freundlich (friendly) = friendly to the environment 💚 Literally ‘eco-friendly’.",
+        "bonus": "Opposite: umweltschädlich = harmful to the environment"
+      },
+      "B1-079": {
+        "pron": "NAKH-hal-tikh",
+        "tip": "nach (after) + halten (to hold) = holding on long afterwards 🌳 It started in German forestry.",
+        "bonus": "The noun: die Nachhaltigkeit = sustainability"
+      },
+      "B2-811": {
+        "pron": "air-NOY-er-bar",
+        "tip": "er- + neu (new) + -bar (-able) = able to be made new again 🔋 -bar works like -able.",
+        "bonus": "renewable energy = erneuerbare Energien (plural in German)"
+      }
     },
     "culture": [
       "Sorting rubbish (Mülltrennung) is part of everyday life in Germany. You'll usually split it into paper, packaging (Gelbe Tonne or Gelber Sack), food waste (Biomüll) and everything else (Restmüll). Bin colours and the finer rules vary from town to town, so check your building's notice when you move in.",
       "Glass goes into street containers, sorted into white, green and brown. Signs often ask you not to use them at night or on Sundays because of the noise. Bottles with a deposit (Pfand) go back to the supermarket instead.",
       "And the word nachhaltig comes from 18th-century German forestry: the idea of only cutting as many trees as can grow back. That idea became the root of ‘sustainability’ worldwide. 🌲"
     ],
-    "quiz": {"q": "How do you say \"Cycling is more eco-friendly than driving\"?", "o": ["Radfahren ist umweltschädlicher als Autofahren.", "Radfahren ist umweltfreundlicher als Autofahren.", "Radfahren ist genauso schmutzig wie Autofahren."], "a": 1, "why": "umweltfreundlich = eco-friendly, and the comparative is umweltfreundlicher; umweltschädlich means the opposite."},
+    "quiz": {
+      "q": "How do you say \"Cycling is more eco-friendly than driving\"?",
+      "o": [
+        "Radfahren ist umweltschädlicher als Autofahren.",
+        "Radfahren ist umweltfreundlicher als Autofahren.",
+        "Radfahren ist genauso schmutzig wie Autofahren."
+      ],
+      "a": 1,
+      "why": "umweltfreundlich = eco-friendly, and the comparative is umweltfreundlicher; umweltschädlich means the opposite."
+    },
     "outro": "Name each thing you throw away today in German. Das ist Plastik, das ist Papier! ♻️"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日は環境の話に欠かせない単語を10個集めました。これでごみ分別のルールがわかり、ニュースの見出しを読み、友だちと環境の話もできます。🌱"
     ],
     "words": {
-      "A2-040": {"pron": "ウムヴェルト", "tip": "um（周り）+ Welt（世界）= 自分をぐるりと囲む世界 🌍 それが環境！", "warn": "複数形はなく、いつも die Umwelt です。"},
-      "B1-1299": {"pron": "ウムヴェルトシュッツ", "tip": "Umwelt + Schutz（保護）= 環境保護 🛡️ 複合語は最後の単語の性に従うので der！", "bonus": "データ保護 = der Datenschutz も同じ Schutz です。"},
-      "B1-058": {"pron": "シュッツェン", "tip": "der Schutz（保護）に -en をつけて動詞に 🧴 日焼け止めが肌を schützen！", "warn": "「〜から守る」は vor + 3格：vor der Sonne schützen（von は×）"},
-      "B1-1300": {"pron": "ウムヴェルトフェアシュムッツング", "tip": "真ん中に Schmutz（汚れ）が見えますね？ 🏭 環境を汚すこと = 環境汚染！", "bonus": "汚い = schmutzig、汚染する = verschmutzen"},
-      "A2-041": {"pron": "ミュル", "tip": "ü で口をとがらせると、ごみのにおいに顔をしかめた表情に 🗑️", "bonus": "ごみ箱 = der Mülleimer、ごみを分別する = den Müll trennen"},
-      "B1-1033": {"pron": "プラスティク", "tip": "英語の plastic と同じ 🥤 ギリシャ語の「形づくれる」から来ています。", "warn": "das Plastik はプラスチック、die Plastik は彫刻作品。冠詞が大事！"},
-      "B2-849": {"pron": "リサイケルン", "tip": "英語の recycle にドイツ語の動詞語尾 -n をつけただけ ♻️ 発音も英語風！", "warn": "綴りに注意：recyceln。過去分詞は ge- なしの recycelt"},
-      "B1-078": {"pron": "ウムヴェルトフロイントリヒ", "tip": "Umwelt + freundlich（親切な）= 環境に親切な 💚 直訳がかわいいですね。", "bonus": "反対語：umweltschädlich = 環境に有害な"},
-      "B1-079": {"pron": "ナーハハルティヒ", "tip": "nach（後に）+ halten（保つ）= 後々まで長く保つ 🌳 ドイツの林業から生まれた言葉です。", "bonus": "名詞：die Nachhaltigkeit = 持続可能性"},
-      "B2-811": {"pron": "エアノイアーバール", "tip": "er- + neu（新しい）+ -bar（〜できる）= また新しくできる 🔋 -bar は英語の -able！", "bonus": "再生可能エネルギー = erneuerbare Energien（ドイツ語では複数形）"}
+      "A2-040": {
+        "pron": "ウムヴェルト",
+        "tip": "um（周り）+ Welt（世界）= 自分をぐるりと囲む世界 🌍 それが環境！",
+        "warn": "複数形はなく、いつも die Umwelt です。"
+      },
+      "B1-1299": {
+        "pron": "ウムヴェルトシュッツ",
+        "tip": "Umwelt + Schutz（保護）= 環境保護 🛡️ 複合語は最後の単語の性に従うので der！",
+        "bonus": "データ保護 = der Datenschutz も同じ Schutz です。"
+      },
+      "B1-058": {
+        "pron": "シュッツェン",
+        "tip": "der Schutz（保護）に -en をつけて動詞に 🧴 日焼け止めが肌を schützen！",
+        "warn": "「〜から守る」は vor + 3格：vor der Sonne schützen（von は×）"
+      },
+      "B1-1300": {
+        "pron": "ウムヴェルトフェアシュムッツング",
+        "tip": "真ん中に Schmutz（汚れ）が見えますね？ 🏭 環境を汚すこと = 環境汚染！",
+        "bonus": "汚い = schmutzig、汚染する = verschmutzen"
+      },
+      "A2-041": {
+        "pron": "ミュル",
+        "tip": "ü で口をとがらせると、ごみのにおいに顔をしかめた表情に 🗑️",
+        "bonus": "ごみ箱 = der Mülleimer、ごみを分別する = den Müll trennen"
+      },
+      "B1-1033": {
+        "pron": "プラスティク",
+        "tip": "英語の plastic と同じ 🥤 ギリシャ語の「形づくれる」から来ています。",
+        "warn": "das Plastik はプラスチック、die Plastik は彫刻作品。冠詞が大事！"
+      },
+      "B2-849": {
+        "pron": "リサイケルン",
+        "tip": "英語の recycle にドイツ語の動詞語尾 -n をつけただけ ♻️ 発音も英語風！",
+        "warn": "綴りに注意：recyceln。過去分詞は ge- なしの recycelt"
+      },
+      "B1-078": {
+        "pron": "ウムヴェルトフロイントリヒ",
+        "tip": "Umwelt + freundlich（親切な）= 環境に親切な 💚 直訳がかわいいですね。",
+        "bonus": "反対語：umweltschädlich = 環境に有害な"
+      },
+      "B1-079": {
+        "pron": "ナーハハルティヒ",
+        "tip": "nach（後に）+ halten（保つ）= 後々まで長く保つ 🌳 ドイツの林業から生まれた言葉です。",
+        "bonus": "名詞：die Nachhaltigkeit = 持続可能性"
+      },
+      "B2-811": {
+        "pron": "エアノイアーバール",
+        "tip": "er- + neu（新しい）+ -bar（〜できる）= また新しくできる 🔋 -bar は英語の -able！",
+        "bonus": "再生可能エネルギー = erneuerbare Energien（ドイツ語では複数形）"
+      }
     },
     "culture": [
       "ドイツではごみの分別（Mülltrennung）が生活の基本です。ふつうは紙、容器包装（Gelbe Tonne または Gelber Sack）、生ごみ（Biomüll）、その他（Restmüll）に分けます。ごみ箱の色や細かいルールは町によって少しずつ違うので、引っ越したら建物の案内を確認しましょう。",
       "ガラス瓶は街角のコンテナに、白・緑・茶色に分けて入れます。音がうるさいので、夜や日曜日は入れないようにという案内が貼ってあることが多いです。保証金（Pfand）つきの瓶はスーパーに返します。",
       "そして nachhaltig という言葉は、18世紀ドイツの林業から生まれました。育つ分だけ木を切ろうという考えが、いま世界中で使われる「持続可能性」のルーツになったんです。🌲"
     ],
-    "quiz": {"q": "「自転車は車より環境にやさしいよ」をドイツ語で言うと？", "o": ["Radfahren ist umweltschädlicher als Autofahren.", "Radfahren ist umweltfreundlicher als Autofahren.", "Radfahren ist genauso schmutzig wie Autofahren."], "a": 1, "why": "umweltfreundlich = 環境にやさしい、比較級は umweltfreundlicher です。umweltschädlich は逆に「環境に有害な」です。"},
+    "quiz": {
+      "q": "「自転車は車より環境にやさしいよ」をドイツ語で言うと？",
+      "o": [
+        "Radfahren ist umweltschädlicher als Autofahren.",
+        "Radfahren ist umweltfreundlicher als Autofahren.",
+        "Radfahren ist genauso schmutzig wie Autofahren."
+      ],
+      "a": 1,
+      "why": "umweltfreundlich = 環境にやさしい、比較級は umweltfreundlicher です。umweltschädlich は逆に「環境に有害な」です。"
+    },
     "outro": "今日捨てたものを、ひとつずつドイツ語で言ってみましょう。Das ist Plastik, das ist Papier! ♻️"
+  },
+  "tr": {
+    "title": "Ayırın bakalım: Çevreyle ilgili 10 Almanca kelime",
+    "hook": "Alman mutfaklarında bir yerine dört çöp kutusu olmasının bir sebebi var.",
+    "intro": [
+      "Alman evinizdeki ilk gününüzde mutfakta bir sıra çöp kutusu görüyorsunuz. Yoğurt kabı nereye gidecek? Pizza kutusu? Ev arkadaşınız sırıtıyor: \"Wir trennen hier den Müll!\" Sonra haberleri açıyorsunuz; her yer Umwelt ve nachhaltig.",
+      "Bugünkü on kelime çevreyle ilgili her sohbette geçer. Bunlarla geri dönüşüm kurallarına uyabilir, manşetleri okuyabilir ve arkadaşlarınızla yeşil konularda konuşabilirsiniz. 🌱"
+    ],
+    "words": {
+      "A2-040": {
+        "pron": "UM-velt",
+        "tip": "um (etrafında) + Welt (dünya) = etrafınızdaki dünya 🌍 İşte çevreniz.",
+        "warn": "Çoğulu yoktur, hep die Umwelt."
+      },
+      "B1-1299": {
+        "pron": "UM-velt-şuts",
+        "tip": "Umwelt + Schutz (koruma) 🛡️ Birleşik kelimeler son parçanın cinsiyetini alır, o yüzden der.",
+        "bonus": "Aynı Schutz, der Datenschutz'ta da var = veri koruma"
+      },
+      "B1-058": {
+        "pron": "ŞÜT-sen",
+        "tip": "der Schutz (koruma) + -en = korumak 🧴 Güneş kremi cildinizi schützt.",
+        "warn": "...den korumak = vor + datif: vor der Sonne schützen (von değil)"
+      },
+      "B1-1300": {
+        "pron": "UM-velt-fer-şmut-sunk",
+        "tip": "Ortadaki Schmutz'u (kir) fark ettiniz mi? 🏭 Çevreyi kirletmek = kirlilik.",
+        "bonus": "kirli = schmutzig · kirletmek = verschmutzen"
+      },
+      "A2-041": {
+        "pron": "MÜL",
+        "tip": "ü için dudaklarınızı öne uzatın; çöp kokusu almış birinin yüz ifadesini yapmış olursunuz 🗑️",
+        "bonus": "çöp kutusu = der Mülleimer · çöpü ayırmak = den Müll trennen"
+      },
+      "B1-1033": {
+        "pron": "PLAS-tik",
+        "tip": "Türkçedeki “plastik” ile aynı 🥤 Yunanca ‘şekil verilebilir’ anlamından.",
+        "warn": "das Plastik = plastik, die Plastik = heykel. Artikele dikkat!"
+      },
+      "B2-849": {
+        "pron": "ri-SAY-keln",
+        "tip": "İngilizce recycle'a bir Almanca -n yapıştırılmış ♻️ İngilizce gibi okuyun.",
+        "warn": "Yazımına dikkat: recyceln · Perfekt'te ge- almaz: recycelt"
+      },
+      "B1-078": {
+        "pron": "UM-velt-froynt-lih",
+        "tip": "Umwelt + freundlich (dost canlısı) = çevreye dost 💚 Tam olarak ‘çevre dostu’.",
+        "bonus": "Zıttı: umweltschädlich = çevreye zararlı"
+      },
+      "B1-079": {
+        "pron": "NAH-hal-tih",
+        "tip": "nach (sonra) + halten (tutmak) = uzun süre sonra da tutunmak 🌳 Alman ormancılığında doğdu.",
+        "bonus": "İsmi: die Nachhaltigkeit = sürdürülebilirlik"
+      },
+      "B2-811": {
+        "pron": "er-NOY-ır-bar",
+        "tip": "er- + neu (yeni) + -bar (-ebilir) = yeniden yenilenebilir 🔋 -bar tıpkı -ebilir gibi çalışır.",
+        "bonus": "yenilenebilir enerji = erneuerbare Energien (Almancada çoğul)"
+      }
+    },
+    "culture": [
+      "Çöp ayırma (Mülltrennung) Almanya'da gündelik hayatın bir parçasıdır. Çöpler genellikle kâğıt, ambalaj (Gelbe Tonne ya da Gelber Sack), yemek artıkları (Biomüll) ve geri kalan her şey (Restmüll) diye ayrılır. Kutu renkleri ve ayrıntılı kurallar şehirden şehre değişir; taşındığınızda binanızdaki duyuruya bakın.",
+      "Cam şişeler sokaktaki konteynerlere beyaz, yeşil ve kahverengi diye ayrılarak atılır. Tabelalar gürültü yüzünden geceleri ve pazar günleri bunları kullanmamanızı rica eder. Depozitolu (Pfand) şişeler ise süpermarkete geri götürülür.",
+      "nachhaltig kelimesi 18. yüzyıl Alman ormancılığından gelir: yalnızca yeniden büyüyebilecek kadar ağaç kesme fikri. Bu fikir dünya çapında ‘sürdürülebilirlik’ kavramının kökü oldu. 🌲"
+    ],
+    "quiz": {
+      "q": "\"Bisiklete binmek araba kullanmaktan daha çevre dostudur\" nasıl denir?",
+      "o": [
+        "Radfahren ist umweltschädlicher als Autofahren.",
+        "Radfahren ist umweltfreundlicher als Autofahren.",
+        "Radfahren ist genauso schmutzig wie Autofahren."
+      ],
+      "a": 1,
+      "why": "umweltfreundlich = çevre dostu, karşılaştırma hâli umweltfreundlicher; umweltschädlich ise tam tersi demektir."
+    },
+    "outro": "Bugün attığınız her şeyin adını Almanca söyleyin. Das ist Plastik, das ist Papier! ♻️"
   }
 }

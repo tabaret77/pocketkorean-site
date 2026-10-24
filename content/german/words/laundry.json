@@ -227,5 +227,32 @@
       "why": "Fleck は「しみ」なので「シャツにしみがついた」が正解です。"
     },
     "outro": "今日洗濯するときに、Wäsche、waschen、trocknen をひとつずつ声に出してみましょう。服もきれいに、ドイツ語も上達です！🧺"
+  },
+  "tr": {
+    "title": "Çamaşır gününden kopan düğmeye: 10 Almanca kelime",
+    "hook": "Bir Alman bodrumunda çamaşır makinesine bakakaldıysanız, bugünün kelimeleri sizin için.",
+    "intro": [
+      "Yeni dairedeki ilk haftanız. Çamaşır sepetinizi bodruma (Keller) taşıyorsunuz; işte makine orada, yanında da komşudan tamamen Almanca bir not. Gömleğinizde kahve lekesi var, montunuzun düğmesi de bir iplikle sallanıyor.",
+      "Bugünkü 10 kelime yıkama, kurutma, ütü, kuru temizleme ve biraz da dikişle ilgili. Bu kelimelerle çamaşır gününü rahatça halledebilir, kuru temizlemecide ya da terzide ne istediğinizi anlatabilirsiniz. 👕"
+    ],
+    "words": {
+      "A2-279": {"pron": "VE-şe", "tip": "waschen + iki nokta = Wäsche 🧺 Yıkanması gereken her şey.", "warn": "Çoğulu yok. İç çamaşırı anlamına da gelebilir, bağlama dikkat."},
+      "BL-16-05": {"pron": "VA-şen", "tip": "İngilizce wash ile aynı kökten 🫧 wasch, wash: kulağınız duyuyor.", "warn": "Ünlü değişir: du wäschst, er wäscht."},
+      "A2-128": {"pron": "VAŞ-ma-şi-ne", "tip": "waschen + Maschine = çamaşır makinesi 🌀 Yan yana yapıştırın, bitti.", "bonus": "kurutma makinesi = der Trockner"},
+      "B1-1389": {"pron": "VAŞ-mi-tel", "tip": "Mittel ‘madde, ilaç’ demek 🧴 Yıkama maddesi = deterjan.", "bonus": "yumuşatıcı = der Weichspüler (weich = yumuşak)"},
+      "B1-1271": {"pron": "TROK-nen", "tip": "trocken (kuru) kelimesinden ☀️ Kupkuru, çıtır bir ‘trok’ sesi düşünün.", "bonus": "çamaşır kurutmalığı = der Wäscheständer"},
+      "B2-2363": {"pron": "BÜ-geln", "tip": "Elbise askısı da der Bügel 👔 Önce asın, sonra ütüleyin.", "bonus": "ütü = das Bügeleisen · etikette bügelfrei = ütü gerektirmez"},
+      "A2-552": {"pron": "RAY-ni-gunk", "tip": "rein (temiz) + -ung = temizlik yeri ✨ -ung demek die demek.", "warn": "Sadece ‘temizlik’ anlamına da gelir. Dükkân için: in die Reinigung bringen."},
+      "B1-683": {"pron": "FLEK", "tip": "Türkçedeki ‘lekeyi’ tersten okursanız neredeyse Fleck ☕ Bir damla kahve, bir Fleck.", "warn": "Çoğulu -en alır: die Flecken."},
+      "B1-974": {"pron": "NE-en", "tip": "die Nadel (iğne) ile aynı kökten 🪡 İğneyle ne yaparsınız? nähen.", "bonus": "düğme dikmek = einen Knopf annähen"},
+      "B1-864": {"pron": "k-NOPF", "tip": "İngilizce knob ile kuzen 🔘 Ama Almancada K okunur: k-nopf!", "warn": "Çoğulu umlautlu: die Knöpfe."}
+    },
+    "culture": [
+      "Pek çok Alman dairesinde çamaşır makinesi banyoda ya da mutfakta durur, ama eski binalarda genellikle bodrumdadır ya da ortak bir çamaşırhane (Waschküche) bulunur. Ortak odalarda çoğu zaman bir kayıt listesi asılıdır.",
+      "Kurutma makineleri sandığınızdan daha az yaygındır, bu yüzden pek çok kişi çamaşırlarını kurutmalıkta (Wäscheständer) kurutur. Bazı komşular gece geç saatte ya da pazar günü çalışan makineleri sevmez; bu yüzden bina kurallarını (Hausordnung) okumakta fayda var.",
+      "Pantolon kısaltmak ya da fermuar değiştirmek için bir terzi dükkânı (Änderungsschneiderei) arayın. Bunlar genellikle küçük mahalle dükkânlarıdır ve bazıları aynı zamanda kuru temizlemecidir. 🧵"
+    ],
+    "quiz": {"q": "Gömleğinize kahve döktünüz. Arkadaşınıza ne dersiniz?", "o": ["Ich habe einen Fleck auf dem Hemd.", "Ich habe einen Knopf auf dem Hemd.", "Ich bügle den Fleck."], "a": 0, "why": "Fleck leke demek; yani bu cümle ‘Gömleğimde bir leke var’ anlamına gelir."},
+    "outro": "Bir dahaki çamaşır gününüzde Wäsche, waschen ve trocknen kelimelerini yaparken yüksek sesle söyleyin. Hem temiz kıyafetler hem daha iyi Almanca! 🧺"
   }
 }

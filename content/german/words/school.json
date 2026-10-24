@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "子どもに宿題をやったか聞きたいです。何と言いますか？", "o": ["Die Ferien beginnen morgen.", "Der Lehrer schreibt an die Tafel.", "Hast du deine Hausaufgaben gemacht?"], "a": 2, "why": "Hast du deine Hausaufgaben gemacht? =「宿題やった？」Hausaufgaben はふつう複数形で使います。"},
     "outro": "今日は自分の時間割をドイツ語で言ってみましょう。Am Montag habe ich… から始めればOKです。📚"
+  },
+  "tr": {
+    "title": "Okula dönüş: sınıfta duyacağınız 10 Almanca kelime",
+    "hook": "İster veli toplantısı ister dil kursundaki ilk gününüz olsun, bu kelimeler sınıfı daha az korkutucu yapar.",
+    "intro": [
+      "Komşunun küçük kızı, şekerle dolu kocaman bir külaha sarılmış okula yürüyor. Annesi benimle ders programı ve ödevler hakkında sohbet ediyor, ben yarısını anlıyorum. Kendi Almanca dersimde de öğretmen „Schreibt das von der Tafel ab!“ diyor ve kafam bomboş kalıyor.",
+      "Bugünkü on kelime okulda her gün duyduğunuz kelimeler. Bunlarla çocuğunuzun okul haberlerini de kendi dil kursunuzu da çok daha kolay takip edersiniz. 🏫"
+    ],
+    "words": {
+      "A1-036": {"pron": "ŞU-le", "tip": "İngilizce school'un sonuna -e eklenmiş hali 🏫 okula gitmek = in die Schule gehen", "bonus": "ilkokul: die Grundschule · dil okulu: die Sprachschule"},
+      "A1-150": {"pron": "LEY-rer", "tip": "lehren (öğretmek) + -er = öğreten kişi 👩‍🏫 lernen ve İngilizce learn ile akraba."},
+      "A1-276": {"pron": "ŞÜ-ler", "tip": "Schule + -er = okula giden kişi 🎒 ü tıpkı Türkçedeki gibi okunur, ne şanslısınız!", "warn": "Üniversite öğrencileri Studenten'dir, Schüler değil."},
+      "A1-278": {"pron": "KLA-se", "tip": "Sınıf, okul yılı — ve „Klasse!“ ‘Süper!’ demek 👍", "bonus": "Kaçıncı sınıftasın? = In welcher Klasse bist du?"},
+      "A2-104": {"pron": "UN-ter-riht", "tip": "unterrichten (ders vermek) fiilinden — birinin size ders verdiği zaman 📚", "bonus": "Fiili: unterrichten = ders vermek, öğretmek"},
+      "A2-105": {"pron": "HAUS-auf-ga-be", "tip": "Haus (ev) + Aufgabe (görev) = eve götürdüğünüz görev 📝 -e ile bitiyor, yani die.", "warn": "Genelde çoğul: Hausaufgaben machen (ödev yapmak)"},
+      "A2-680": {"pron": "ŞTUN-den-plan", "tip": "Stunde (ders saati) + Plan = derslerinizin planı 🗓️", "bonus": "Okulda die Stunde sadece saat değil, ders saati anlamına gelir."},
+      "A2-223": {"pron": "FAH", "tip": "İlk anlamı ‘göz, bölme’ 🗄️ Dersler küçük kutulara konmuş bilgidir!", "warn": "Çoğulu umlautlu: die Fächer", "bonus": "en sevdiğiniz ders = das Lieblingsfach"},
+      "A2-594": {"pron": "TA-fel", "tip": "Latince tabula'dan — Türkçedeki ‘tabela’ ve ‘tablo’ gibi 🧑‍🏫 Her düz pano bir Tafel'dir.", "bonus": "bir tablet çikolata = eine Tafel Schokolade"},
+      "A1-289": {"pron": "FE-ri-en", "tip": "Latincede bayram günleri demek 🏖️ Tatil her zaman bayramdır!", "warn": "Yalnızca çoğul: die Ferien. Çalışanın tatili der Urlaub'dur."}
+    },
+    "culture": [
+      "Alman çocukları ilkokulun ilk günü bir Schultüte alır: şeker ve okul eşyalarıyla dolu kocaman bir kâğıt külah. Birçok çocuk için doğum günü kadar heyecanlıdır. 🎒",
+      "Notlar 1'den 6'ya kadardır ve en iyisi 1'dir. Yani bir Alman çocuğu gururla 1 aldığını söylüyorsa bu felaket değil, en yüksek not demektir.",
+      "Okul tatili tarihleri eyalete (Bundesland) göre değişir. Yaz tatilleri eyaletler arasında kaydırılır; bunun bir sebebi de herkesin aynı anda otobana çıkmaması. Seyahat planlıyorsanız önce oradaki Ferien tarihlerine bakın."
+    ],
+    "quiz": {"q": "Çocuğunuza ödevini yapıp yapmadığını sormak istiyorsunuz. Ne dersiniz?", "o": ["Die Ferien beginnen morgen.", "Der Lehrer schreibt an die Tafel.", "Hast du deine Hausaufgaben gemacht?"], "a": 2, "why": "Hast du deine Hausaufgaben gemacht? = Ödevini yaptın mı? Hausaufgaben genelde çoğuldur."},
+    "outro": "Bugün kendi haftalık programınızı Almanca yüksek sesle söyleyin. Am Montag habe ich… diye başlayın! 📚"
   }
 }

@@ -8,23 +8,72 @@
       "오늘은 퇴근해서 잠들 때까지 쓰는 단어 10개를 모았어요. 이 단어들만 있으면 내 저녁 일과를 독일어로 술술 말할 수 있어요. 룸메이트의 코골이 불평까지요! 🌙"
     ],
     "words": {
-      "A1-030": {"pron": "아벤트", "tip": "영어 evening의 eve와 같은 뿌리예요 🌆 Guten Abend! 하면 저녁 인사 끝!", "bonus": "abends = 저녁마다 · heute Abend = 오늘 저녁"},
-      "BL-10-04": {"pron": "파이어아벤트", "tip": "Feier(축제) + Abend(저녁) = 일 끝난 저녁은 매일 축제 🎉", "bonus": "퇴근할 때 인사: Schönen Feierabend!"},
-      "A1-131": {"pron": "아벤트에센", "tip": "Abend + Essen(식사) = 저녁 식사 🍲 합성어는 마지막 단어 성을 따라서 das!", "bonus": "아침은 das Frühstück, 점심은 das Mittagessen"},
-      "A2-066": {"pron": "지히 아우스루엔", "tip": "aus(완전히) + ruhen(쉬다) = 완전히 푹 쉬다 🛋️ 배터리 0%에서 100%까지!", "warn": "분리동사예요: Ich ruhe mich aus."},
-      "A1-331": {"pron": "페른제엔", "tip": "fern(멀리) + sehen(보다) = 멀리 있는 걸 보다 📺 tele+vision을 그대로 옮긴 말이에요.", "warn": "분리동사라서 Ich sehe fern. 처럼 fern이 맨 뒤로 가요."},
-      "A1-198": {"pron": "뮈데", "tip": "‘뮈데’ 하고 하품하듯 길게 말해 보세요 🥱 말하는 순간 졸려요.", "bonus": "반대말은 wach(깨어 있는): Ich bin noch wach."},
-      "A1-058": {"pron": "슐라펜", "tip": "영어 sleep과 친척이에요 😴 ‘슐라~’ 하고 늘어지는 소리가 딱 잠자는 느낌!", "warn": "du schläfst, er schläft처럼 a가 ä로 바뀌어요."},
-      "A2-738": {"pron": "아인슐라펜", "tip": "ein(안으로) + schlafen = 잠 속으로 쏙 들어가다 💤 영화 보다 잠드는 그 순간!", "warn": "완료형은 sein: Ich bin eingeschlafen."},
-      "A2-340": {"pron": "트로이멘", "tip": "der Traum(꿈)에서 온 동사, 영어 dream과 소리가 닮았죠 💭", "bonus": "꿈에 누가 나왔다면: Ich habe von dir geträumt."},
-      "B2-2707": {"pron": "슈나르헨", "tip": "‘슈나르~ 헨~’ 진짜 코 고는 소리 같지 않나요? 🐻 소리를 흉내 낸 말이에요.", "bonus": "새벽에 깨면: Du hast die ganze Nacht geschnarcht!"}
+      "A1-030": {
+        "pron": "아벤트",
+        "tip": "영어 evening의 eve와 같은 뿌리예요 🌆 Guten Abend! 하면 저녁 인사 끝!",
+        "bonus": "abends = 저녁마다 · heute Abend = 오늘 저녁"
+      },
+      "BL-10-04": {
+        "pron": "파이어아벤트",
+        "tip": "Feier(축제) + Abend(저녁) = 일 끝난 저녁은 매일 축제 🎉",
+        "bonus": "퇴근할 때 인사: Schönen Feierabend!"
+      },
+      "A1-131": {
+        "pron": "아벤트에센",
+        "tip": "Abend + Essen(식사) = 저녁 식사 🍲 합성어는 마지막 단어 성을 따라서 das!",
+        "bonus": "아침은 das Frühstück, 점심은 das Mittagessen"
+      },
+      "A2-066": {
+        "pron": "지히 아우스루엔",
+        "tip": "aus(완전히) + ruhen(쉬다) = 완전히 푹 쉬다 🛋️ 배터리 0%에서 100%까지!",
+        "warn": "분리동사예요: Ich ruhe mich aus."
+      },
+      "A1-331": {
+        "pron": "페른제엔",
+        "tip": "fern(멀리) + sehen(보다) = 멀리 있는 걸 보다 📺 tele+vision을 그대로 옮긴 말이에요.",
+        "warn": "분리동사라서 Ich sehe fern. 처럼 fern이 맨 뒤로 가요."
+      },
+      "A1-198": {
+        "pron": "뮈데",
+        "tip": "‘뮈데’ 하고 하품하듯 길게 말해 보세요 🥱 말하는 순간 졸려요.",
+        "bonus": "반대말은 wach(깨어 있는): Ich bin noch wach."
+      },
+      "A1-058": {
+        "pron": "슐라펜",
+        "tip": "영어 sleep과 친척이에요 😴 ‘슐라~’ 하고 늘어지는 소리가 딱 잠자는 느낌!",
+        "warn": "du schläfst, er schläft처럼 a가 ä로 바뀌어요."
+      },
+      "A2-738": {
+        "pron": "아인슐라펜",
+        "tip": "ein(안으로) + schlafen = 잠 속으로 쏙 들어가다 💤 영화 보다 잠드는 그 순간!",
+        "warn": "완료형은 sein: Ich bin eingeschlafen."
+      },
+      "A2-340": {
+        "pron": "트로이멘",
+        "tip": "der Traum(꿈)에서 온 동사, 영어 dream과 소리가 닮았죠 💭",
+        "bonus": "꿈에 누가 나왔다면: Ich habe von dir geträumt."
+      },
+      "B2-2707": {
+        "pron": "슈나르헨",
+        "tip": "‘슈나르~ 헨~’ 진짜 코 고는 소리 같지 않나요? 🐻 소리를 흉내 낸 말이에요.",
+        "bonus": "새벽에 깨면: Du hast die ganze Nacht geschnarcht!"
+      }
     },
     "culture": [
       "독일 사람들에게 Feierabend는 거의 신성해요. 퇴근 후에는 업무 메일을 잘 안 보고, 저녁 시간은 가족이나 취미를 위해 쓰는 경우가 많아요.",
       "전통적인 독일 저녁은 따뜻한 요리 대신 빵에 치즈와 햄을 올려 먹는 Abendbrot예요. 점심을 든든하게 먹고 저녁은 가볍게 먹는 집이 아직도 꽤 있어요.",
       "그리고 아파트에 산다면 밤 10시쯤부터는 조용히 하는 게 예의예요. 많은 건물의 규칙(Hausordnung)에 밤 시간 정숙(Nachtruhe)이 적혀 있거든요. 🤫"
     ],
-    "quiz": {"q": "회사에서 퇴근하는 동료에게 뭐라고 인사할까요?", "o": ["Ich bin eingeschlafen.", "Schönen Feierabend!", "Ich sehe fern."], "a": 1, "why": "Schönen Feierabend! = 좋은 저녁 보내세요! 퇴근하는 사람에게 하는 인사예요."},
+    "quiz": {
+      "q": "회사에서 퇴근하는 동료에게 뭐라고 인사할까요?",
+      "o": [
+        "Ich bin eingeschlafen.",
+        "Schönen Feierabend!",
+        "Ich sehe fern."
+      ],
+      "a": 1,
+      "why": "Schönen Feierabend! = 좋은 저녁 보내세요! 퇴근하는 사람에게 하는 인사예요."
+    },
     "outro": "오늘 밤 잠들기 전에 내 저녁 일과를 독일어로 세 문장만 말해 봐요. Schlaf gut! 😴"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words take you from the end of work to falling asleep. With them you can describe your whole evening in German — even complain about a snoring flatmate! 🌙"
     ],
     "words": {
-      "A1-030": {"pron": "AH-bent", "tip": "Same root as English eve and evening 🌆 Guten Abend! = Good evening!", "bonus": "abends = in the evenings · heute Abend = this evening"},
-      "BL-10-04": {"pron": "FY-er-ah-bent", "tip": "Feier (celebration) + Abend = every evening after work is a party 🎉", "bonus": "What you say when leaving work: Schönen Feierabend!"},
-      "A1-131": {"pron": "AH-bent-ess-en", "tip": "Abend + Essen (meal) = dinner 🍲 Compounds take the gender of the last word: das.", "bonus": "Breakfast is das Frühstück, lunch is das Mittagessen."},
-      "A2-066": {"pron": "zikh OWS-roo-en", "tip": "aus (completely) + ruhen (rest) = rest until you're fully recharged 🛋️", "warn": "Separable: Ich ruhe mich aus."},
-      "A1-331": {"pron": "FAIRN-zay-en", "tip": "fern (far) + sehen (see) = tele + vision, translated bit by bit 📺", "warn": "Separable: Ich sehe fern. The fern goes to the end."},
-      "A1-198": {"pron": "MUE-duh", "tip": "Say it slowly like a yawn: “müüüde” 🥱 You'll feel sleepy already.", "bonus": "The opposite is wach (awake): Ich bin noch wach."},
-      "A1-058": {"pron": "SHLAH-fen", "tip": "A cousin of English sleep 😴 Stretch the “shlaaa” like a lazy yawn.", "warn": "The vowel changes: du schläfst, er schläft."},
-      "A2-738": {"pron": "INE-shlah-fen", "tip": "ein (into) + schlafen = to slip into sleep 💤 Like halfway through a film.", "warn": "Perfect with sein: Ich bin eingeschlafen."},
-      "A2-340": {"pron": "TROY-men", "tip": "From der Traum (dream) — Traum and dream sound alike 💭", "bonus": "Dreaming about someone: Ich habe von dir geträumt."},
-      "B2-2707": {"pron": "SHNAR-khen", "tip": "Say it with a rumble — it sounds just like snoring 🐻", "bonus": "The morning complaint: Du hast die ganze Nacht geschnarcht!"}
+      "A1-030": {
+        "pron": "AH-bent",
+        "tip": "Same root as English eve and evening 🌆 Guten Abend! = Good evening!",
+        "bonus": "abends = in the evenings · heute Abend = this evening"
+      },
+      "BL-10-04": {
+        "pron": "FY-er-ah-bent",
+        "tip": "Feier (celebration) + Abend = every evening after work is a party 🎉",
+        "bonus": "What you say when leaving work: Schönen Feierabend!"
+      },
+      "A1-131": {
+        "pron": "AH-bent-ess-en",
+        "tip": "Abend + Essen (meal) = dinner 🍲 Compounds take the gender of the last word: das.",
+        "bonus": "Breakfast is das Frühstück, lunch is das Mittagessen."
+      },
+      "A2-066": {
+        "pron": "zikh OWS-roo-en",
+        "tip": "aus (completely) + ruhen (rest) = rest until you're fully recharged 🛋️",
+        "warn": "Separable: Ich ruhe mich aus."
+      },
+      "A1-331": {
+        "pron": "FAIRN-zay-en",
+        "tip": "fern (far) + sehen (see) = tele + vision, translated bit by bit 📺",
+        "warn": "Separable: Ich sehe fern. The fern goes to the end."
+      },
+      "A1-198": {
+        "pron": "MUE-duh",
+        "tip": "Say it slowly like a yawn: “müüüde” 🥱 You'll feel sleepy already.",
+        "bonus": "The opposite is wach (awake): Ich bin noch wach."
+      },
+      "A1-058": {
+        "pron": "SHLAH-fen",
+        "tip": "A cousin of English sleep 😴 Stretch the “shlaaa” like a lazy yawn.",
+        "warn": "The vowel changes: du schläfst, er schläft."
+      },
+      "A2-738": {
+        "pron": "INE-shlah-fen",
+        "tip": "ein (into) + schlafen = to slip into sleep 💤 Like halfway through a film.",
+        "warn": "Perfect with sein: Ich bin eingeschlafen."
+      },
+      "A2-340": {
+        "pron": "TROY-men",
+        "tip": "From der Traum (dream) — Traum and dream sound alike 💭",
+        "bonus": "Dreaming about someone: Ich habe von dir geträumt."
+      },
+      "B2-2707": {
+        "pron": "SHNAR-khen",
+        "tip": "Say it with a rumble — it sounds just like snoring 🐻",
+        "bonus": "The morning complaint: Du hast die ganze Nacht geschnarcht!"
+      }
     },
     "culture": [
       "For many Germans, Feierabend is almost sacred. Once work is over, people often ignore work emails and keep the evening for family, friends or hobbies.",
       "A traditional German evening meal is Abendbrot: bread with cheese and cold meats rather than a hot dish. Plenty of families still eat a big lunch and a light supper.",
       "If you live in a flat, keep the noise down from around 10 pm. Many buildings' house rules (Hausordnung) mention quiet hours at night (Nachtruhe). 🤫"
     ],
-    "quiz": {"q": "A colleague is leaving the office for the day. What do you say?", "o": ["Ich bin eingeschlafen.", "Schönen Feierabend!", "Ich sehe fern."], "a": 1, "why": "Schönen Feierabend! = Enjoy your evening! It's what you say to someone finishing work."},
+    "quiz": {
+      "q": "A colleague is leaving the office for the day. What do you say?",
+      "o": [
+        "Ich bin eingeschlafen.",
+        "Schönen Feierabend!",
+        "Ich sehe fern."
+      ],
+      "a": 1,
+      "why": "Schönen Feierabend! = Enjoy your evening! It's what you say to someone finishing work."
+    },
     "outro": "Before bed tonight, describe your evening in three German sentences, out loud. Schlaf gut! 😴"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日は仕事が終わってから眠るまでに使う単語を10個集めました。これで自分の夜の過ごし方をドイツ語で話せます。ルームメイトのいびきの文句だって言えますよ！🌙"
     ],
     "words": {
-      "A1-030": {"pron": "アーベント", "tip": "英語の eve や evening と同じ根っこ 🌆 Guten Abend! で夜のあいさつ完成！", "bonus": "abends = 毎晩、夜に · heute Abend = 今晩"},
-      "BL-10-04": {"pron": "ファイアーアーベント", "tip": "Feier（お祝い）+ Abend（夜）= 仕事終わりの夜は毎日がお祝い 🎉", "bonus": "仕事を終えて帰るときのあいさつ：Schönen Feierabend!"},
-      "A1-131": {"pron": "アーベントエッセン", "tip": "Abend + Essen（食事）= 夕食 🍲 複合語は最後の単語の性になるので das！", "bonus": "朝食は das Frühstück、昼食は das Mittagessen"},
-      "A2-066": {"pron": "ズィッヒ アウスルーエン", "tip": "aus（すっかり）+ ruhen（休む）= すっかり休んで充電完了 🛋️", "warn": "分離動詞です：Ich ruhe mich aus."},
-      "A1-331": {"pron": "フェルンゼーエン", "tip": "fern（遠く）+ sehen（見る）= tele + vision をそのまま訳した言葉 📺", "warn": "分離動詞なので Ich sehe fern. と fern が文末に来ます。"},
-      "A1-198": {"pron": "ミューデ", "tip": "あくびをするように「ミューーデ」と言ってみて 🥱 言うだけで眠くなります。", "bonus": "反対は wach（起きている）：Ich bin noch wach."},
-      "A1-058": {"pron": "シュラーフェン", "tip": "英語の sleep の親戚 😴「シュラ〜」とのびる音がいかにも眠そう！", "warn": "du schläfst, er schläft と a が ä に変わります。"},
-      "A2-738": {"pron": "アインシュラーフェン", "tip": "ein（中へ）+ schlafen = 眠りの中へすっと入る 💤 映画の途中で寝落ちするあの瞬間！", "warn": "完了形は sein：Ich bin eingeschlafen."},
-      "A2-340": {"pron": "トロイメン", "tip": "der Traum（夢）から来た動詞。Traum と dream、音が似ていますね 💭", "bonus": "誰かの夢を見たら：Ich habe von dir geträumt."},
-      "B2-2707": {"pron": "シュナルヒェン", "tip": "「シュナルヒェン」、本当にいびきの音みたい 🐻 音をまねた言葉です。", "bonus": "朝の文句：Du hast die ganze Nacht geschnarcht!"}
+      "A1-030": {
+        "pron": "アーベント",
+        "tip": "英語の eve や evening と同じ根っこ 🌆 Guten Abend! で夜のあいさつ完成！",
+        "bonus": "abends = 毎晩、夜に · heute Abend = 今晩"
+      },
+      "BL-10-04": {
+        "pron": "ファイアーアーベント",
+        "tip": "Feier（お祝い）+ Abend（夜）= 仕事終わりの夜は毎日がお祝い 🎉",
+        "bonus": "仕事を終えて帰るときのあいさつ：Schönen Feierabend!"
+      },
+      "A1-131": {
+        "pron": "アーベントエッセン",
+        "tip": "Abend + Essen（食事）= 夕食 🍲 複合語は最後の単語の性になるので das！",
+        "bonus": "朝食は das Frühstück、昼食は das Mittagessen"
+      },
+      "A2-066": {
+        "pron": "ズィッヒ アウスルーエン",
+        "tip": "aus（すっかり）+ ruhen（休む）= すっかり休んで充電完了 🛋️",
+        "warn": "分離動詞です：Ich ruhe mich aus."
+      },
+      "A1-331": {
+        "pron": "フェルンゼーエン",
+        "tip": "fern（遠く）+ sehen（見る）= tele + vision をそのまま訳した言葉 📺",
+        "warn": "分離動詞なので Ich sehe fern. と fern が文末に来ます。"
+      },
+      "A1-198": {
+        "pron": "ミューデ",
+        "tip": "あくびをするように「ミューーデ」と言ってみて 🥱 言うだけで眠くなります。",
+        "bonus": "反対は wach（起きている）：Ich bin noch wach."
+      },
+      "A1-058": {
+        "pron": "シュラーフェン",
+        "tip": "英語の sleep の親戚 😴「シュラ〜」とのびる音がいかにも眠そう！",
+        "warn": "du schläfst, er schläft と a が ä に変わります。"
+      },
+      "A2-738": {
+        "pron": "アインシュラーフェン",
+        "tip": "ein（中へ）+ schlafen = 眠りの中へすっと入る 💤 映画の途中で寝落ちするあの瞬間！",
+        "warn": "完了形は sein：Ich bin eingeschlafen."
+      },
+      "A2-340": {
+        "pron": "トロイメン",
+        "tip": "der Traum（夢）から来た動詞。Traum と dream、音が似ていますね 💭",
+        "bonus": "誰かの夢を見たら：Ich habe von dir geträumt."
+      },
+      "B2-2707": {
+        "pron": "シュナルヒェン",
+        "tip": "「シュナルヒェン」、本当にいびきの音みたい 🐻 音をまねた言葉です。",
+        "bonus": "朝の文句：Du hast die ganze Nacht geschnarcht!"
+      }
     },
     "culture": [
       "多くのドイツ人にとって Feierabend はほとんど神聖なもの。仕事が終わったら仕事のメールは見ず、夜は家族や趣味のために使う人が多いです。",
       "昔ながらのドイツの夕食は、温かい料理ではなくパンにチーズやハムをのせて食べる Abendbrot。お昼をしっかり食べて夜は軽く、という家庭も今でもけっこうあります。",
       "アパートに住むなら、夜10時ごろからは静かにするのがマナー。多くの建物のルール（Hausordnung）に夜間の静粛時間（Nachtruhe）が書かれています。🤫"
     ],
-    "quiz": {"q": "仕事を終えて帰る同僚に、何と声をかけますか？", "o": ["Ich bin eingeschlafen.", "Schönen Feierabend!", "Ich sehe fern."], "a": 1, "why": "Schönen Feierabend! =「お疲れさま、良い夜を！」仕事を終えた人にかけるあいさつです。"},
+    "quiz": {
+      "q": "仕事を終えて帰る同僚に、何と声をかけますか？",
+      "o": [
+        "Ich bin eingeschlafen.",
+        "Schönen Feierabend!",
+        "Ich sehe fern."
+      ],
+      "a": 1,
+      "why": "Schönen Feierabend! =「お疲れさま、良い夜を！」仕事を終えた人にかけるあいさつです。"
+    },
     "outro": "今夜寝る前に、自分の夜の過ごし方をドイツ語で3文、声に出して言ってみましょう。Schlaf gut! 😴"
+  },
+  "tr": {
+    "title": "Mesai bitiminden rüyalar ülkesine: Akşamın 10 Almanca kelimesi",
+    "hook": "Almanların en sevdiği bir kelime olsaydı, büyük ihtimalle Feierabend olurdu.",
+    "intro": [
+      "Saat akşam altı. Bir iş arkadaşınız çantasını kapıyor ve çıkarken “Schönen Feierabend!” diyor. Eve geliyor, kendinizi kanepeye atıyor, yemek yiyor, televizyonu açıyorsunuz… ve çok geçmeden gözleriniz kapanmaya başlıyor.",
+      "Bugünkü on kelime sizi işin bitiminden uykuya dalana kadar götürüyor. Bunlarla bütün akşamınızı Almanca anlatabilirsiniz; horlayan ev arkadaşınızdan yakınmak da dahil! 🌙"
+    ],
+    "words": {
+      "A1-030": {
+        "pron": "A-bent",
+        "tip": "İngilizce eve ve evening ile aynı kökten 🌆 Guten Abend! = İyi akşamlar!",
+        "bonus": "abends = akşamları · heute Abend = bu akşam"
+      },
+      "BL-10-04": {
+        "pron": "FAY-ır-a-bent",
+        "tip": "Feier (kutlama) + Abend = iş sonrası her akşam bir bayram 🎉",
+        "bonus": "İşten çıkarken söylenen: Schönen Feierabend!"
+      },
+      "A1-131": {
+        "pron": "A-bent-es-sen",
+        "tip": "Abend + Essen (yemek) = akşam yemeği 🍲 Birleşik kelimeler son kelimenin cinsiyetini alır: das.",
+        "bonus": "Kahvaltı das Frühstück, öğle yemeği das Mittagessen."
+      },
+      "A2-066": {
+        "pron": "zih AUS-ru-en",
+        "tip": "aus (tamamen) + ruhen (dinlenmek) = pilleriniz tamamen dolana kadar dinlenmek 🛋️",
+        "warn": "Ayrılabilen fiil: Ich ruhe mich aus."
+      },
+      "A1-331": {
+        "pron": "FERN-zee-en",
+        "tip": "fern (uzak) + sehen (görmek) = tele + vizyon, parça parça çevrilmiş 📺",
+        "warn": "Ayrılabilen fiil: Ich sehe fern. fern sona gider."
+      },
+      "A1-198": {
+        "pron": "MÜ-de",
+        "tip": "Esner gibi yavaşça söyleyin: “müüüde” 🥱 Şimdiden uykunuz gelecek.",
+        "bonus": "Zıttı wach (uyanık): Ich bin noch wach."
+      },
+      "A1-058": {
+        "pron": "ŞLA-fen",
+        "tip": "İngilizce sleep'in kuzeni 😴 “Şlaaa” kısmını tembel bir esneme gibi uzatın.",
+        "warn": "Ünlü değişir: du schläfst, er schläft."
+      },
+      "A2-738": {
+        "pron": "AYN-şla-fen",
+        "tip": "ein (içine) + schlafen = uykunun içine kaymak 💤 Filmin ortasında olduğu gibi.",
+        "warn": "Perfekt sein ile kurulur: Ich bin eingeschlafen."
+      },
+      "A2-340": {
+        "pron": "TROY-men",
+        "tip": "der Traum (rüya) kelimesinden; Traum ile İngilizce dream kulağa benzer gelir 💭",
+        "bonus": "Birini rüyada görmek: Ich habe von dir geträumt."
+      },
+      "B2-2707": {
+        "pron": "ŞNAR-hen",
+        "tip": "Gürüldeyerek söyleyin; tıpkı horlama sesi gibi 🐻",
+        "bonus": "Sabah şikâyeti: Du hast die ganze Nacht geschnarcht!"
+      }
+    },
+    "culture": [
+      "Pek çok Alman için Feierabend neredeyse kutsaldır. İş bittiğinde insanlar çoğu zaman iş e-postalarına bakmaz ve akşamı aileye, arkadaşlara ya da hobilere ayırır.",
+      "Geleneksel bir Alman akşam yemeği Abendbrot'tur: sıcak bir yemek yerine peynir ve soğuk etlerle ekmek. Pek çok aile hâlâ öğlen doyurucu, akşam hafif yer.",
+      "Apartmanda oturuyorsanız saat 22 civarından itibaren gürültüyü azaltın. Pek çok binanın ev kuralları (Hausordnung) gece sessizlik saatlerinden (Nachtruhe) söz eder. 🤫"
+    ],
+    "quiz": {
+      "q": "Bir iş arkadaşınız günü bitirip ofisten çıkıyor. Ne dersiniz?",
+      "o": [
+        "Ich bin eingeschlafen.",
+        "Schönen Feierabend!",
+        "Ich sehe fern."
+      ],
+      "a": 1,
+      "why": "Schönen Feierabend! = İyi akşamlar, keyfini çıkar! İşi bitiren birine söylenir."
+    },
+    "outro": "Bu gece yatmadan önce akşamınızı üç Almanca cümleyle, yüksek sesle anlatın. Schlaf gut! 😴"
   }
 }

@@ -218,5 +218,78 @@
       "why": "eine Überweisung vom Hausarzt = かかりつけ医からの紹介状のことです。"
     },
     "outro": "財布の保険証を見ながら「Ich bin gesetzlich versichert.」と3回声に出してみましょう。次の受付ですっと言えますよ！😊"
+  },
+  "tr": {
+    "title": "10 kelimede Alman sağlık sigortası",
+    "hook": "Sağlık sigortanızdan gelen bir mektup, bir avuç kelime bilince çok daha az korkutucu.",
+    "intro": [
+      "Sağlık sigortası yaptırmak Almanya'ya taşındıktan sonra yaptığınız ilk işlerden biridir. Sonra Krankenkasse, Krankenversicherung ve gesetzlich dolu mektuplar gelir ve başınız dönmeye başlar. Muayenehanede biri soruyor: “Haben Sie eine Überweisung?” Banka havalesi mi istiyorlar?",
+      "Bugünkü on kelime sigortanın ve aile hekimi sisteminin nasıl işlediğini açıklıyor. Bunlarla sigorta mektupları ve kayıt masası çok daha kolay hâle gelir. 🩺"
+    ],
+    "words": {
+      "B1-018": {
+        "pron": "KRAN-ken-kas-se",
+        "tip": "krank (hasta) + Kasse (kasa) = hastalandığınızda kullanılan para kasası 💰",
+        "bonus": "Sık sık duyarsınız: “Bei welcher Krankenkasse sind Sie?” (Hangi sigortadasınız?)"
+      },
+      "B1-280": {
+        "pron": "KRAN-ken-fer-zih-e-runk",
+        "tip": "krank + Versicherung (sigorta) = sağlık sigortası 🛡️ -ung ile bitiyor, o yüzden die.",
+        "warn": "Krankenversicherung sigortanın kendisidir; Krankenkasse ise onu yürüten kurum. Günlük dilde ikisi sık sık karıştırılır."
+      },
+      "B1-1352": {
+        "pron": "fer-Zİ-hır-ten-kar-te",
+        "tip": "der/die Versicherte (sigortalı kişi) + Karte = sigorta kartınız 💳",
+        "bonus": "Çoğu zaman kısaca Krankenkassenkarte denir."
+      },
+      "B2-1126": {
+        "pron": "HAUS-artst",
+        "tip": "Haus (ev) + Arzt = evinizin doktoru, yani aile hekimi 🏡 Hastalandığınızda ilk durağınız."
+      },
+      "B1-1286": {
+        "pron": "ü-bır-VAY-zunk",
+        "tip": "über (karşıya) + weisen (göstermek) = bir şeyi karşıya göndermek ➡️ Para da olur hasta da!",
+        "warn": "Bankada havale, doktorda sevk kâğıdı demektir. Aynı kelime, iki anlam."
+      },
+      "B2-1127": {
+        "pron": "FAH-artst",
+        "tip": "Fach (alan, ders) + Arzt = uzman doktor 🔬 Tek bir ‘dersi’ olan bir doktor düşünün.",
+        "bonus": "Facharzt für + akuzatif: Facharzt für Augenheilkunde = göz doktoru"
+      },
+      "BL-04-02": {
+        "pron": "PRAK-sis",
+        "tip": "Türkçedeki “pratik” ile aynı kökten 👩‍⚕️ Aile hekimleri de uzmanlar da genellikle kendi Praxis'lerinde çalışır."
+      },
+      "B2-1138": {
+        "pron": "TSU-tsa-lunk",
+        "tip": "zu (ek olarak) + zahlen (ödemek) = üstüne ödediğiniz kısım, yani katkı payı 🪙"
+      },
+      "B2-1121": {
+        "pron": "FOR-zor-ge-un-tır-zu-hunk",
+        "tip": "Vorsorge (önceden önlem) + Untersuchung (muayene) = check-up 🩻 Uzun kelimeler bölünce kolaylaşır!",
+        "bonus": "Çoğu zaman kısaca Vorsorge denir."
+      },
+      "B2-379": {
+        "pron": "ge-ZETS-lih",
+        "tip": "Gesetz (yasa) + -lich = yasayla belirlenmiş ⚖️ Kamu sigortası gesetzlich, özel sigorta privat.",
+        "bonus": "gesetzliche Krankenversicherung = yasal (kamu) sağlık sigortası · private Krankenversicherung = özel sağlık sigortası"
+      }
+    },
+    "culture": [
+      "Almanya'da sağlık sigortası zorunludur. Çoğu kişi kamu sistemindedir (gesetzlich); bazı kişiler ise durumlarına bağlı olarak bunun yerine özel sigortayı seçebilir. Kamu sigorta kurumunuzu birkaç kurum arasından kendiniz seçersiniz.",
+      "Hastalandığınızda genellikle önce aile hekiminize (Hausarzt) gidersiniz. İnsanlar uzman doktora çoğu zaman bir sevk kâğıdıyla (Überweisung) gider, ama buna ihtiyacınız olup olmadığı uzmanlık alanına ve sigortanıza bağlıdır.",
+      "Doktora giderken sigorta kartınızı her zaman yanınızda taşıyın. Muayenehaneler genellikle her yeni çeyrek dönemin başında kartı yeniden görmek ister, o yüzden cüzdanınızda dursun. 💳"
+    ],
+    "quiz": {
+      "q": "Bir uzman doktorun kayıt masasında size soruluyor: “Haben Sie ___ vom Hausarzt?” Boşluğa ne gelir?",
+      "o": [
+        "eine Zuzahlung",
+        "eine Krankenkasse",
+        "eine Überweisung"
+      ],
+      "a": 2,
+      "why": "eine Überweisung vom Hausarzt = aile hekiminizden bir sevk kâğıdı."
+    },
+    "outro": "Sigorta kartınızı çıkarın ve üç kez yüksek sesle “Ich bin gesetzlich versichert.” deyin. Bir sonraki kayıt masasında ağzınızdan kolayca çıkacak! 😊"
   }
 }

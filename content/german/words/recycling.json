@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "Pfand マークのついた空きビール瓶、どこへ持っていきますか？", "o": ["In den Restmüll.", "Zum Pfandautomaten.", "In den Biomüll."], "a": 1, "why": "デポジットつきの瓶はスーパーの Pfandautomat に入れると、お金が戻ってきます。"},
     "outro": "今日ごみを出すとき、手に持っているものをドイツ語で言ってみましょう。「Das kommt in den Gelben Sack!」のように。🗑️"
+  },
+  "tr": {
+    "title": "Çöpü Alman usulü ayırmak: bilmeniz gereken 10 kelime",
+    "hook": "Almanya'daki ilk haftanızda en zor sınav dil değil — çöp bidonlarıdır.",
+    "intro": [
+      "Yeni evinizin avlusuna çıkıyorsunuz ve karşınızda bir sıra bidon: sarı, mavi, kahverengi, siyah. Yoğurt kabı nereye gidecek? Kahve telvesi? Peki neden herkes boş şişeleri süpermarkete geri taşıyor?",
+      "Bugünkü on kelime tamamen çöp ve geri dönüşümle ilgili. Bunlarla hangi bidonun ne olduğunu bilir, komşunuza sorabilir, hatta boş şişelerinizden para bile geri alabilirsiniz. ♻️"
+    ],
+    "words": {
+      "BL-18-02": {"pron": "MÜL-tre-nunk", "tip": "Müll (çöp) + Trennung (ayırma) ♻️ -ung ile biten kelimeler die alır.", "bonus": "Fiil olarak: Müll trennen = çöpü ayırmak"},
+      "BL-18-09": {"pron": "VEK-ver-fen", "tip": "weg (uzağa) + werfen (fırlatmak) = kelimesi kelimesine ‘atıp gitmek’ 🚮", "warn": "Ayrılabilen ve düzensiz: Ich werfe das weg. – hat weggeworfen."},
+      "B1-057": {"pron": "TRE-nen", "tip": "Çöpünüzü de trennen edebilirsiniz, sevgilinizden de 💔 İkisi de ayrılmak.", "bonus": "sich trennen von = -den ayrılmak: Sie hat sich von ihm getrennt."},
+      "BL-18-03": {"pron": "MÜL-to-ne", "tip": "Tonne büyük bir fıçı demek — Türkçedeki ‘ton’ gibi ağır bir şey düşünün 🗑️", "bonus": "Çoğu zaman sadece die Tonne denir: die gelbe Tonne, die blaue Tonne"},
+      "BL-18-04": {"pron": "Bİ-o-mül", "tip": "bio (organik) + Müll = çürüyen şeyler, genelde kahverengi bidon 🍌", "warn": "der Biomüll, çünkü cinsiyeti son parça der Müll belirler."},
+      "BL-18-05": {"pron": "REST-mül", "tip": "Rest (artan, kalan) + Müll = başka hiçbir yere sığmayan her şey ⚫ Genelde siyah ya da gri bidon."},
+      "BL-18-06": {"pron": "ALT-pa-pi:r", "tip": "alt (kullanılmış) + Papier = atık kâğıt, genelde mavi bidon 📰", "bonus": "Kutuları önce düzleştirin: den Karton zusammenfalten"},
+      "BL-18-07": {"pron": "ALT-gla:s", "tip": "alt + Glas = boş kavanozlar ve şişeler 🍾 weiß, grün ve braun diye ayrılır.", "warn": "Pfand'lı şişeler mağazaya geri gider, Altglas'a değil."},
+      "B2-2369": {"pron": "GEL-be ZAK", "tip": "Ambalajlar için sarı (gelb) torba (Sack) 💛 Bir isim olduğu için Gelbe büyük harfle yazılır.", "warn": "Sıfat eki değişir: in den Gelben Sack, die Gelben Säcke"},
+      "BL-03-10": {"pron": "PFANT", "tip": "İngilizce pawn (rehin) ile akraba 💰 Şişeyi teslim edersiniz, paranızı geri alırsınız.", "bonus": "depozitolu şişe = die Pfandflasche · iade makinesi = der Pfandautomat"}
+    },
+    "culture": [
+      "Temel sistem renklere göre işler: sarı genelde ambalaj, mavi kâğıt, kahverengi organik atık, siyah ya da gri ise geri kalan her şey için. Ama renkler ve kurallar şehirden şehre değişir; taşındığınızda ev sahibinizin ya da belediyenin broşürüne bakın.",
+      "Birçok plastik şişe ve kutuda Pfand vardır. Bunları süpermarket girişindeki Pfandautomat'a atın, fişi kasaya götürün, tutar alışverişinizden düşülür. İnsanların boş şişeleri başkaları toplayabilsin diye sokaktaki çöp kutularının yanına bıraktığını da görürsünüz.",
+      "Cam kumbaraları (Altglascontainer) gürültülüdür, bu yüzden geceleri ve pazar günleri kullanılmaz. İzin verilen saatler genellikle doğrudan konteynerin üzerinde yazar. 🍾"
+    ],
+    "quiz": {"q": "Üzerinde Pfand logosu olan boş bir bira şişeniz var. Nereye gider?", "o": ["In den Restmüll.", "Zum Pfandautomaten.", "In den Biomüll."], "a": 1, "why": "Depozitolu şişeler Pfandautomat'a gider ve paranızı geri alırsınız."},
+    "outro": "Bir dahaki çöp atışınızda elinizde ne olduğunu Almanca söyleyin: ‘Das kommt in den Gelben Sack!’ 🗑️"
   }
 }

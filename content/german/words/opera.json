@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "劇場の入口で、係の人に大きなコートを預けてくださいと言われました。どこに預けますか？", "o": ["im Parkett", "im zweiten Akt", "an der Garderobe"], "a": 2, "why": "Garderobe はコートを預けるクロークです。an der Garderobe = クロークで。"},
     "outro": "好きな公演の映像を流して、Akt が変わるたびにドイツ語でひとこと感想を言ってみましょう。Bravo! 🎼"
+  },
+  "tr": {
+    "title": "Perde açılıyor: Opera ve bale için 10 Almanca kelime",
+    "hook": "Biletinizdeki Parkett ve Rang'ın ne demek olduğunu bildiğinizde akşam çok daha keyifli geçer.",
+    "intro": [
+      "Bir Alman opera binası için ilk biletinizi alıyorsunuz ve koltuklar Parkett, 1. Rang, 2. Rang… diye işaretlenmiş. Hangisi hangisi? Gösteri akşamı da bir tabela montunuzu bir yere bırakmanızı söylüyor.",
+      "Bugünkü 10 kelime opera ve balede karşılaşacaklarınız. Bunlarla koltuğunuzu seçebilir, arada sohbet edebilir ve gösteri hakkında ne düşündüğünüzü Almanca söyleyebilirsiniz. 🎼"
+    ],
+    "words": {
+      "B1-1000": {"pron": "O-per", "tip": "İtalyanca opera, ‘eser’ kelimesinden 🎭 Almanca sondaki a'yı -er ile değiştirmiş.", "bonus": "in die Oper gehen = operaya gitmek (die Oper hem gösteri hem bina)"},
+      "B1-482": {"pron": "ba-LET", "tip": "İtalyanca balletto, ‘küçük dans’ kelimesinden 🩰", "warn": "İki t var ve Türkçedeki bale'nin aksine sondaki t okunur."},
+      "B1-2349": {"pron": "TEN-tser", "tip": "tanzen + -er = dans eden kişi 💃 a da ä'ye dönüşüyor.", "bonus": "kadın dansçı = die Tänzerin"},
+      "B1-1231": {"pron": "TANTS", "tip": "Türkçedeki dans ile kuzen 🕺 d, t olmuş; s de z.", "warn": "Çoğulu umlaut alır: die Tänze."},
+      "A1-176": {"pron": "TAN-tsen", "tip": "Tanz'a -en ekleyin, fiil hazır 💃 Wir tanzen!", "bonus": "Darf ich bitten? = Bu dansı bana lütfeder misiniz? (resmî)"},
+      "B2-1348": {"pron": "in-stse-Nİ-runk", "tip": "in + Szene (sahne) + -ung = sahneye koymak 🎬 -ung, yani die.", "bonus": "yönetmen = der Regisseur / die Regisseurin"},
+      "B2-3004": {"pron": "AKT", "tip": "Türkçedeki perde gibi, İngilizce act'in aynısı 🎭 Bir eser birkaç Akt'a bölünür.", "warn": "der Akt (perde) ile die Akte (dosya) farklı kelimeler!"},
+      "B1-711": {"pron": "gar-de-RO-be", "tip": "Fransızca garder (saklamak) + robe (giysi) = montunuzun saklandığı yer 🧥 Türkçedeki gardırop ile aynı kök!", "bonus": "Wo ist die Garderobe? = Vestiyer nerede?"},
+      "B2-2303": {"pron": "par-KET", "tip": "Zemin kattaki koltuklar parkenin üstünde durur 🪵 Türkçedeki parke gibi; hem zemin hem koltuklar Parkett."},
+      "B2-2035": {"pron": "RANK", "tip": "Türkçedeki rütbe gibi, İngilizce rank ile aynı kökten 🏅 Balkonlar sıra sıra yükselir.", "bonus": "1. Rang = birinci balkon, 2. Rang = ikinci balkon (düzen tiyatroya göre değişir)"}
+    },
+    "culture": [
+      "Almanya'da şaşırtıcı sayıda opera binası vardır. Sadece büyük şehirlerde değil, pek çok orta büyüklükteki şehirde de opera, bale ve tiyatroyu tek çatı altında sahneleyen bir tiyatro bulunur.",
+      "Kıyafet kuralları sandığınızdan daha rahattır. Bir gala ya da prömiyer (Premiere) değilse şık ama rahat giyinmek genellikle yeterlidir; montlar ve büyük çantalar normalde Garderobe'a bırakılır.",
+      "Alman tiyatroları klasikleri çoğu zaman cesur ve modern yorumlarla sahneler. Bu yüzden gösteriden sonra insanlar ‘Wie fandest du die Inszenierung?’ diye sormaya bayılır. 🎭"
+    ],
+    "quiz": {"q": "Girişte bir görevli büyük montunuzu bırakmanızı istiyor. Onu nereye götürürsünüz?", "o": ["im Parkett", "im zweiten Akt", "an der Garderobe"], "a": 2, "why": "Garderobe montunuzu bıraktığınız vestiyerdir."},
+    "outro": "En sevdiğiniz gösteriden bir video açın ve her Akt değiştiğinde hakkında Almanca bir cümle söyleyin. Bravo! 🎼"
   }
 }

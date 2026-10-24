@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "返却日は明日なのに、本を読み終わっていません。カウンターで何と言いますか？", "o": ["Ich möchte das Buch nachschlagen.", "Ich konzentriere mich auf das Buch.", "Kann ich das Buch verlängern?"], "a": 2, "why": "verlängern は「延長する」なので、「本の貸し出しを延長できますか？」が正解です。"},
     "outro": "勉強中に知らない単語が出てきたら、Ich schlage das Wort nach! と声に出してみましょう。勉強、応援しています！📖"
+  },
+  "tr": {
+    "title": "Ödünç al, süreyi uzat, odaklan: Kütüphanede 10 Almanca kelime",
+    "hook": "Alman kütüphaneleri sessizdir ama bankoda yine de birkaç kelimeye ihtiyacınız olacak.",
+    "intro": [
+      "Sınav dönemi ve evde bir türlü odaklanamıyorsunuz, o yüzden kütüphaneye gidiyorsunuz. Bir kitap ödünç almak istiyorsunuz ama bankoda ne diyeceğinizden emin değilsiniz; elinizdeki kitabın da iade tarihi yarın ve daha yarısını okumadınız.",
+      "Bugünkü 10 kelime kitap ödünç almanıza, iade etmenize, süresini uzatmanıza, bir şeye bakmanıza ve ders çalışmaktan bahsetmenize yardım ediyor. Kütüphane bankosunu halletmek ve sınav hazırlığınızı Almanca planlamak için yeterli. 📚"
+    ],
+    "words": {
+      "A2-101": {"pron": "bib-li-o-TEK", "tip": "İçinde Yunanca biblion (kitap) var 📚 Türkçedeki bibliyografya ile aynı kök.", "warn": "Kitapçı die Buchhandlung'dur. Bibliothek'te satın almazsınız, ödünç alırsınız!"},
+      "A1-049": {"pron": "BUH", "tip": "Neredeyse İngilizce book 📖 Sonunu boğazdan gelen hırıltılı bir ‘h’ ile bitirin.", "warn": "Çoğulu: die Bücher; hem umlaut hem -er."},
+      "BL-15-09": {"pron": "AUS-lay-en", "tip": "leihen, İngilizce loan ile akraba 🤝 aus = dışarı: kitap dışarı çıkıyor.", "warn": "Ayrılabilen fiil: Ich leihe das Buch aus.", "bonus": "Kendiniz için ödünç alırken sich ekleyin: Ich leihe mir ein Buch aus."},
+      "A2-714": {"pron": "tsu-RÜK-ge-ben", "tip": "zurück (geri) + geben (vermek) = geri vermek 🔙 Yine Lego Almancası.", "bonus": "(kütüphanede) iade = die Rückgabe"},
+      "B1-352": {"pron": "fer-LEN-gern", "tip": "İçinde länger (daha uzun) saklı ⏳ Ödünç süresini uzatmak = yenilemek.", "bonus": "uzatma = die Verlängerung · vize için de kullanılır."},
+      "A1-065": {"pron": "LER-nen", "tip": "İngilizce learn ile aynı kökten ✏️ Yan yana söyleyin.", "warn": "Üniversitede bir bölüm okumak studieren'dir: Ich studiere Medizin."},
+      "B1-326": {"pron": "zih kon-tsen-TRİ-ren", "tip": "con (birlikte) + centrum (merkez) = düşüncelerinizi merkeze çekmek 🎯 Türkçedeki konsantre olmak ile aynı!", "warn": "Dönüşlü fiil: Ich konzentriere mich auf die Prüfung."},
+      "A2-106": {"pron": "VÖR-ter-buh", "tip": "Wörter (kelimeler) + Buch (kitap) = kelime kitabı 📕 Adı üstünde.", "bonus": "Sözlük uygulaması da yine bir Wörterbuch'tur."},
+      "B1-969": {"pron": "NAH-şla-gen", "tip": "schlagen ‘vurmak’ demek 👆 Sayfaları hızla çevirdiğinizi düşünün.", "warn": "Ayrılabilen fiil: Ich schlage das Wort nach."},
+      "B2-1260": {"pron": "LERN-ştof", "tip": "Stoff ‘malzeme, kumaş’ demek 🧱 Öğrenilecek koca bir malzeme dağı = Lernstoff.", "bonus": "der alır, çünkü cinsiyeti son parça der Stoff belirler."}
+    },
+    "culture": [
+      "Üniversite kütüphanelerinin yanında çoğu şehirde bir halk kütüphanesi (Stadtbibliothek ya da Stadtbücherei) vardır. Kütüphane kartı (Bibliotheksausweis) almak için genellikle kimlik ve adres belgesi gerekir. Ücret şehirden şehre değişir: bazıları ücretsiz, bazıları yıllık ücret alır.",
+      "Üniversite kütüphanelerinde büyük çantalarınızı ve montlarınızı bir dolaba (Schließfach) bırakmanız sık sık istenir. Bazı dolaplar bozuk para ile çalışır, bu yüzden yanınızda bir ya da iki euroluk bulundurmak işe yarar.",
+      "Birçok halk kütüphanesi e-kitap da ödünç verir. Sınav döneminde de yerler hızla dolar, erken gidin! ☕"
+    ],
+    "quiz": {"q": "Kitabınızın iade tarihi yarın ama henüz bitirmediniz. Bankoda ne sorarsınız?", "o": ["Ich möchte das Buch nachschlagen.", "Ich konzentriere mich auf das Buch.", "Kann ich das Buch verlängern?"], "a": 2, "why": "verlängern süreyi uzatmak demek; yani kitabı daha uzun tutmak istediğinizi soruyorsunuz."},
+    "outro": "Ders çalışırken bir dahaki yeni kelimede yüksek sesle Ich schlage das Wort nach! deyin. Sınavlarınızda başarılar! 📖"
   }
 }

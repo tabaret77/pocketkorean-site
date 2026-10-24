@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "財布を家に忘れました。友だちに10ユーロ借りたいとき、何と言いますか？", "o": ["Kannst du mir zehn Euro leihen?", "Kannst du zehn Euro sparen?", "Kannst du zehn Euro ausgeben?"], "a": 0, "why": "jemandem etwas leihen は「〜に貸す」。「私に（mir）貸してくれる？」と聞いています。"},
     "outro": "今日財布を開いたら、中身をドイツ語で言ってみましょう。Bargeld、Münzen、Kleingeld…そして Schulden はありませんように！💶"
+  },
+  "tr": {
+    "title": "Para konuşalım: Nakit, bozuk para ve birikim için 10 Almanca kelime",
+    "hook": "Alman süpermarketinde alışveriş arabasını çıkaramıyor musunuz? İşte tam o an bugünün kelimelerine ihtiyacınız olacak.",
+    "intro": [
+      "Bir Alman süpermarketinde alışveriş arabasını çekmeye çalışıyorsunuz ama yerinden kıpırdamıyor. Bozuk para gerekiyor; cüzdanınız ise kartlarla dolu. ‘Haben Sie eine Münze?’ diye sormaya utanıp bir sepet alıyorsunuz.",
+      "Bugünkü 10 kelime tamamen parayla ilgili: nakit ve bozuk para, biriktirmek ve harcamak, borç vermek ve almak. Bunlarla kasada da arkadaşlarla para konusu açıldığında da rahat edeceksiniz. 💰"
+    ],
+    "words": {
+      "A1-038": {"pron": "GELT", "tip": "gelten (değerinde olmak) ile akraba 💶 Geld, değeri olan şeydir.", "warn": "Sayılamaz, çoğulu yok: viel Geld, kein Geld"},
+      "A2-118": {"pron": "BAR-gelt", "tip": "bar (çıplak) + Geld = çıplak elinizdeki para 💵", "bonus": "nakit ödemek = bar bezahlen"},
+      "A2-169": {"pron": "ŞPA-ren", "tip": "İngilizce spare ile aynı kökten 🐷 Kumbara das Sparschwein, yani ‘biriktirme domuzu’.", "bonus": "Bir şey için biriktirmek für ile: für eine Reise sparen"},
+      "A2-301": {"pron": "AUS-ge-ben", "tip": "aus (dışarı) + geben (vermek) = dışarı çıkan para 💸", "warn": "Ayrılabilen fiil: Ich gebe viel Geld aus. – hat ausgegeben"},
+      "A2-595": {"pron": "TA-şen-gelt", "tip": "Tasche (cep) + Geld = cep harçlığı, kelimesi kelimesine 👖"},
+      "B1-963": {"pron": "MÜN-tse", "tip": "İngilizce money ve mint ile aynı kökten 🪙 -e ile bittiği için die.", "bonus": "Kâğıt para der Schein (Geldschein)."},
+      "A2-741": {"pron": "KLAYN-gelt", "tip": "klein (küçük) + Geld = ufak para, yani bozukluk 🪙", "bonus": "Kasada şunu duyarsınız: Haben Sie es passend? (Tam paranız var mı?)"},
+      "A2-322": {"pron": "LAY-en", "tip": "İngilizce loan ile aynı kökten 🤝 Hem ödünç vermek hem ödünç almak için tek fiil.", "warn": "Ödünç vermek: jemandem etwas leihen · Ödünç almak: sich etwas leihen"},
+      "B1-1123": {"pron": "ŞUL-den", "tip": "Bir sürü Schuld (borç) birikince Schulden olur 😰", "warn": "Tekil die Schuld kusur ya da suç demek: Das ist nicht meine Schuld."},
+      "A2-1015": {"pron": "GELT-boy-tel", "tip": "Geld (para) + Beutel (kese) = para kesesi 👛 Beutel sayesinde der.", "bonus": "Kuzeyde das Portemonnaie de duyarsınız."}
+    },
+    "culture": [
+      "Almanya uzun zamandır nakit parayı seven bir ülke olarak bilinir. Kartla ödeme çok daha yaygınlaştı ama bazı küçük fırınlar ve mahalle restoranları hâlâ sadece nakit kabul ediyor; yanınızda biraz nakit bulundurmak akıllıca olur.",
+      "Süpermarket arabalarını açmak için genellikle bozuk para ya da bir araba jetonu gerekir; arabayı geri getirdiğinizde paranızı geri alırsınız. Pek çok kişi anahtarlığında bir jeton taşır.",
+      "Biriktirmeye de değer verilir. Pek çok çocuk Taschengeld alır ve bir kısmını kumbarada biriktirerek parasını yönetmeyi öğrenir. 🐷"
+    ],
+    "quiz": {"q": "Cüzdanınızı evde unuttunuz ve bir arkadaşınızdan on euro ödünç almak istiyorsunuz. Ne sorarsınız?", "o": ["Kannst du mir zehn Euro leihen?", "Kannst du zehn Euro sparen?", "Kannst du zehn Euro ausgeben?"], "a": 0, "why": "jemandem etwas leihen birine bir şey ödünç vermek demektir; yani ‘bana (mir) on euro ödünç verebilir misin?’ diye sorarsınız."},
+    "outro": "Bugün cüzdanınızı açın ve içindekileri Almanca sayın: Bargeld, Münzen, Kleingeld… ve umarız hiç Schulden yoktur! 💶"
   }
 }

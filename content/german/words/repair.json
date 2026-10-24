@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "トイレの水が流れず、どんどんたまってきます。管理人に何と言いますか？", "o": ["Die Heizung ist undicht.", "Ich repariere den Hausmeister.", "Die Toilette ist verstopft."], "a": 2, "why": "verstopft =「詰まった」。トイレが詰まったときにぴったりの言葉です。"},
     "outro": "家の中で今 kaputt なものをひとつ選んで、管理人に電話する練習を声に出してやってみましょう。何も壊れていなければラッキーですね！🏡"
+  },
+  "tr": {
+    "title": "Bir şey bozuldu! Evdeki tamirler için 10 Almanca kelime",
+    "hook": "Alman evleri sağlamdır ama yine de bir şeyler bozulur — genelde de pazar akşamı.",
+    "intro": [
+      "Bir kış sabahı. Kalorifer buz gibi, mutfak musluğu bütün gece damlatmış. Bina görevlisini aramanız lazım ama Almanca ‘tıkalı’ ya da ‘sızdırıyor’ nasıl denir?",
+      "Bugünkü on kelime evde bir şeyler ters gittiğinde işinize yarayacak. Bunlarla neyin bozulduğunu ve kimi aramanız gerektiğini tam olarak söyleyebilir, usta kapıya geldiğinde de sakin kalabilirsiniz! 🔧"
+    ],
+    "words": {
+      "A2-190": {"pron": "ka-PUT", "tip": "„Kaputt!“ bir şeyin çat diye kırılma sesi gibi 💥 İngilizceye de geçmiş: kaput.", "bonus": "İnsanlar için ‘bitkin’ demek: Ich bin total kaputt."},
+      "A2-313": {"pron": "funk-tsyo-Nİ-ren", "tip": "‘fonksiyon’ + -ieren ⚙️ Çalışmıyorsa sadece nicht ekleyin.", "bonus": "Der Aufzug funktioniert nicht. = Asansör çalışmıyor."},
+      "A2-167": {"pron": "re-pa-Rİ-ren", "tip": "Türkçedeki ‘reparasyon’ ve İngilizce repair ile neredeyse aynı 🛠️ -ieren fiilleri perfektte ge- almaz: hat repariert.", "bonus": "Tamir edebilir misiniz? = Können Sie das reparieren?"},
+      "B2-2284": {"pron": "VA-ser-han", "tip": "Wasser (su) + Hahn (horoz)! Ağzından su fışkıran horoz başlı bir musluk düşünün 🐓", "warn": "Çoğulu umlautlu: die Wasserhähne"},
+      "A2-126": {"pron": "HAUS-may-ster", "tip": "Haus (ev) + Meister (usta) = binanızın ustası 🏠 Bir şey bozulunca ilk aranacak kişi!", "bonus": "İsviçre'de: der Abwart"},
+      "A2-049": {"pron": "HANT-ver-ker", "tip": "Hand (el) + Werk (iş) + -er = elleriyle çalışan kişi 👷 Türkçedeki ‘el emeği’ gibi.", "bonus": "Kadın usta: die Handwerkerin"},
+      "B2-2276": {"pron": "KLEMP-ner", "tip": "Metal boruya vuran çekicin ‘klemp, klemp’ sesini duyun 🔩 Su derdi mi? Klempner!", "warn": "Güney Almanya ve Avusturya'da genelde Installateur denir."},
+      "A2-004": {"pron": "HAY-tsunk", "tip": "heizen (ısıtmak, heiß = sıcak kelimesinden) + -ung 🔥 -ung, yani die.", "bonus": "kaloriferi açmak = die Heizung anmachen / aufdrehen"},
+      "B2-2407": {"pron": "UN-diht", "tip": "un- (değil) + dicht (sıkı, geçirmez) = sıkı değil, yani sızdırıyor 💧", "bonus": "sızıntı = eine undichte Stelle (sızdırılan sırlar için de!)"},
+      "B2-2274": {"pron": "fer-ŞTOPFT", "tip": "İçinde İngilizce stop saklı 🚽 Su durur, tuvalet verstopft olur.", "bonus": "Tıkalı burun için de: Meine Nase ist verstopft."}
+    },
+    "culture": [
+      "Almanya'da kiracıysanız büyük tamirler genellikle ev sahibinizin (Vermieter) ya da yönetim şirketinin (Hausverwaltung) işidir. Önemli olan, kendiniz tamir etmeye çalışmadan önce sorunu hızlıca bildirmektir. E-postayla fotoğraf göndermek işe yarar.",
+      "Ama bazı sözleşmelerde küçük tamirleri kiracının ödeyeceği yazar. Kendi kira sözleşmenize (Mietvertrag) bakmakta fayda var.",
+      "Bir de kapıda kalıp çilingir (Schlüsseldienst) çağırırsanız, gelmeden önce mutlaka yaklaşık ne kadar tutacağını sorun. Durum ne kadar acil görünürse o kadar dikkatli olun! 🔑"
+    ],
+    "quiz": {"q": "Sifon çalışmıyor ve su yükselmeye devam ediyor. Bina görevlisine ne dersiniz?", "o": ["Die Heizung ist undicht.", "Ich repariere den Hausmeister.", "Die Toilette ist verstopft."], "a": 2, "why": "verstopft = tıkalı — boşalmayan bir tuvalet için tam olarak bu söylenir."},
+    "outro": "Evinizde kaputt olan bir şey seçin ve bina görevlisini arıyormuş gibi yüksek sesle pratik yapın. Hiçbir şey bozuk değilse, ne mutlu size! 🏡"
   }
 }

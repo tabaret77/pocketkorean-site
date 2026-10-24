@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "目覚ましに気づかず会社に遅刻しました。上司に何と言いますか？", "o": ["Ich habe heute ausgeschlafen.", "Entschuldigung, ich habe verschlafen.", "Ich ziehe mir eine Jacke an."], "a": 1, "why": "verschlafen は「寝坊した」。ausschlafen だと「わざとたっぷり寝た」になってしまいます！"},
     "outro": "明日の朝は、ひとつ動くたびにドイツ語でつぶやいてみましょう。Ich stehe auf, ich dusche, ich frühstücke! 🌅"
+  },
+  "tr": {
+    "title": "Sabah rutininiz 10 Almanca kelimede",
+    "hook": "Sabahınızı Almanca anlatabilirseniz her gün bedava bir pratik olur.",
+    "intro": [
+      "Alarm çalıyor. Ertele tuşuna basıyorsunuz, sonra bir daha, sonra bir daha. Birden kendinizi aceleyle duş alırken ve elinizde bir ekmekle kapıdan koşarak çıkarken buluyorsunuz. Sonra Almanca öğretmeniniz soruyor: ‘Bu sabah ne yaptınız?’ Ve kafanız bomboş.",
+      "Bugünkü 10 kelime ilk zil sesinden kapıdan çıkışa kadar sıradan bir sabahı kapsıyor. Bunlarla bütün rutininizi Almanca anlatabilir, hatta neden geç kaldığınızı bile açıklayabilirsiniz. ⏰"
+    ],
+    "words": {
+      "B1-1390": {"pron": "VE-ker", "tip": "wecken (uyandırmak) + -er = sizi uyandıran şey ⏰ İngilizce wake ile kuzen.", "bonus": "Argo: Du gehst mir auf den Wecker! = Sinirimi bozuyorsun!"},
+      "B1-468": {"pron": "AUF-va-hen", "tip": "auf (yukarı) + wachen (uyanık olmak) = gözleriniz pat diye açılıyor 👀", "warn": "Perfekt'i sein ile: Ich bin aufgewacht. Başkasını uyandırmak wecken'dir."},
+      "A1-072": {"pron": "AUF-şte-en", "tip": "auf (yukarı) + stehen (durmak) = yataktan kelimenin tam anlamıyla ‘ayağa kalkmak’ 🛏️", "warn": "Ayrılabilen fiil: Ich stehe um sieben Uhr auf. auf sona zıplar."},
+      "A1-197": {"pron": "DU-şen", "tip": "Doğrudan die Dusche (duş) kelimesinden 🚿 Türkçedeki duş ile aynı kökten!", "bonus": "Sabahçı mısınız akşamcı mı? Duschst du morgens oder abends?"},
+      "B1-549": {"pron": "TSAN-bürs-te", "tip": "Zahn (diş) + Bürste (fırça) = diş fırçası 🪥 Son parça die olduğu için bütün kelime de die.", "bonus": "dişleri fırçalamak = Zähne putzen · diş macunu = die Zahnpasta"},
+      "A1-327": {"pron": "AN-tsi-en", "tip": "an (üstüne) + ziehen (çekmek) = kıyafetlerinizi üstünüze çekmek 👕", "warn": "anziehen giyme eylemidir. Bir şeyi üstünde taşımak, giyiyor olmak tragen'dir."},
+      "A1-332": {"pron": "FRÜ-ştü-ken", "tip": "Frühstück ismine -en ekleyin, fiil hazır 🍳 Çok kolay.", "warn": "Ayrılamaz: Ich frühstücke um acht. · Perfekt: hat gefrühstückt"},
+      "A1-129": {"pron": "FRÜ-ştük", "tip": "früh (erken) + Stück (parça) = erken yenen bir parça ekmek 🥐", "bonus": "kahvaltıda = zum Frühstück: Was isst du zum Frühstück?"},
+      "B1-286": {"pron": "zih be-AY-len", "tip": "İçinde die Eile (acele) saklı 🏃‍♀️ Klasik anne baba çığlığı: Beeil dich!", "warn": "Dönüşlü fiil, sich'i unutmayın: Ich beeile mich."},
+      "B2-2704": {"pron": "fer-ŞLA-fen", "tip": "ver- (yanlış) + schlafen (uyumak) = uyuya uyuya başını belaya sokmak 😱", "warn": "verschlafen (kazara uyuyakalmak) ≠ ausschlafen (bilerek uzun uzun uyumak)"}
+    },
+    "culture": [
+      "Pek çok Alman güne erken başlar. İşe göre değişir ama saat yediden önce işe başlamak alışılmadık değildir; okul da genellikle sekiz civarında başlar.",
+      "Hafta içi kahvaltı çoğu zaman sadedir: tereyağlı, reçelli ya da peynirli ekmek. Hafta sonları ise farklıdır. Mahalle fırınından (Bäckerei) taze Brötchen alıp rafadan yumurtayla ağır ağır yemek pek çok evde küçük bir ritüeldir.",
+      "Bu yüzden neredeyse her yer kapalıyken bile pek çok fırın pazar sabahları açıktır. Pazar günü fırının önündeki kuyruk çok Alman bir manzaradır. 🥨"
+    ],
+    "quiz": {"q": "Alarmınızı duymadınız ve işe geç kaldınız. Patronunuza ne dersiniz?", "o": ["Ich habe heute ausgeschlafen.", "Entschuldigung, ich habe verschlafen.", "Ich ziehe mir eine Jacke an."], "a": 1, "why": "verschlafen kazara uyuyakaldığınız anlamına gelir; ausschlafen ise bilerek uzun uzun uyumayı seçmişsiniz gibi durur!"},
+    "outro": "Yarın sabah her adımı yaparken Almanca anlatın: Ich stehe auf, ich dusche, ich frühstücke! 🌅"
   }
 }

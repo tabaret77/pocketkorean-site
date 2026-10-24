@@ -77,5 +77,31 @@
     ],
     "quiz": {"q": "警察署で自転車の盗難を届けたいです。最初に何と言いますか？", "o": ["Ich möchte einen Diebstahl anzeigen.", "Der Polizist hilft uns.", "Gab es Zeugen für den Unfall?"], "a": 0, "why": "anzeigen は警察に届け出るという意味なので、「盗難を届けたいのですが」となります。"},
     "outro": "今日の単語で、自転車の盗難を届ける場面を声に出して練習してみましょう。本番がこないことを祈って！🍀"
+  },
+  "tr": {
+    "title": "Bisikletiniz mi gitti? Karakol için 10 Almanca kelime",
+    "hook": "Bisikletinizin çalınması Almanya'da neredeyse bir geçiş ritüelidir; o gün anahtara değil kelimelere ihtiyacınız olacak.",
+    "intro": [
+      "Sabah dışarı çıkıyorsunuz ve binanızın önüne kilitlediğiniz bisiklet yok. Geriye sadece kilit kalmış. Polise bildirmeniz gerekiyor ama kafanız tamamen bomboş.",
+      "Bugünkü 10 kelime polise bir şey bildirirken ihtiyacınız olanlar. Hırsız, ev soygunu, tanık, ifade; bunlarla ne olduğunu sakince anlatabilirsiniz. Umarız hiç ihtiyacınız olmaz ama hazırlıklı olmak iyidir! 👮"
+    ],
+    "words": {
+      "A1-218": {"pron": "po-li-TSAY", "tip": "Türkçedeki polis ile aynı kökten 🚓 Sadece sonunu ‘-tsay’ ile bitirin.", "warn": "Çoğulu yok: die Polizei teşkilatın kendisi. Tek bir memur der Polizist."},
+      "A2-662": {"pron": "po-li-TSİST", "tip": "die Polizei + -ist = tek bir memur 👮 Pianist gibi, -ist bir kişidir.", "warn": "Zayıf isim: den Polizisten, dem Polizisten"},
+      "B1-1486": {"pron": "FEST-ne-men", "tip": "fest (sıkıca) + nehmen (almak) = sıkıca yakalamak 🚔 Gözaltı!", "warn": "Ayrılabilen fiil: Die Polizei nimmt ihn fest. / hat ihn festgenommen"},
+      "B1-568": {"pron": "DİP", "tip": "İngilizce thief ile aynı kökten 🦹 Sondaki b, p gibi okunur.", "bonus": "çalmak = stehlen · hırsızlık = der Diebstahl"},
+      "B2-3583": {"pron": "po-li-TSAY-re-vir", "tip": "Polizei + Revier (bölge) = mahallenizin karakolu 🏢 Kendi bölgesini korur.", "bonus": "auf ile kullanılır: aufs Polizeirevier gehen"},
+      "B1-602": {"pron": "AYN-bruh", "tip": "ein (içeri) + brechen (kırmak) = zorla içeri girmek 🔨 Gözünüzde canlandırması kolay!", "bonus": "bei Einbruch der Dunkelheit = hava kararırken"},
+      "B2-1681": {"pron": "AN-tsay-ge er-ŞTA-ten", "tip": "Bir suçu bildirmenin resmî yolu 📝 Bir ihbarı (Anzeige) teslim etmek (erstatten).", "bonus": "Kısası: anzeigen — Ich möchte einen Diebstahl anzeigen.", "warn": "die Anzeige gazete ilanı anlamına da gelebilir."},
+      "B1-274": {"pron": "TSOY-ge", "tip": "zeugen (tanıklık etmek) fiilinden 👀 Gördüğünü anlatan kişi.", "warn": "Zayıf isim: den/dem/des Zeugen"},
+      "A1-424": {"pron": "AUS-za-ge", "tip": "aus (dışarı) + sagen (söylemek) = yüksek sesle söylediğiniz şey 🗣️ Yani ifade.", "bonus": "ifade vermek = eine Aussage machen"},
+      "B2-271": {"pron": "TE-ter", "tip": "die Tat (eylem) + -er, a → ä ile 🕵️ İşi yapan kişi, yani fail!", "bonus": "kurban, mağdur = das Opfer"}
+    },
+    "culture": [
+      "Almanya'nın acil numaraları polis için 110, itfaiye ve ambulans için 112'dir. Acil olmayan durumlar için bölgenizdeki karakola gidebilirsiniz; pek çok eyaletin bir de çevrim içi ihbar hizmeti (Onlinewache) vardır.",
+      "Bir şey çalınırsa sigortanız çoğu zaman polise bildirdiğinize dair kanıt ister. Bu yüzden pek çok kişi bisikletinin şasi numarasını önceden not alır ya da fotoğrafını çeker. 🚲"
+    ],
+    "quiz": {"q": "Çalınan bisikletinizi bildirmek için karakoldasınız. İlk ne dersiniz?", "o": ["Ich möchte einen Diebstahl anzeigen.", "Der Polizist hilft uns.", "Gab es Zeugen für den Unfall?"], "a": 0, "why": "anzeigen polise bildirmek demek; yani bu cümle ‘Bir hırsızlık bildirmek istiyorum’ anlamına gelir."},
+    "outro": "Bugünkü kelimelerle çalınan bir bisikleti bildirmeyi yüksek sesle canlandırın. Umalım ki sadece pratik için ihtiyacınız olsun! 🍀"
   }
 }

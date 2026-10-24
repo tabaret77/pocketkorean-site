@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちから「Am Samstag ziehe ich um. Kannst du mir helfen?」とメッセージが来ました。土曜日は何をすることになりますか？", "o": ["Wir gehen ins Kino.", "Wir tragen Umzugskartons.", "Wir ziehen uns um."], "a": 1, "why": "umziehen は「引っ越す」なので箱を運ぶことに。sich umziehen は「着替える」です。"},
     "outro": "今日は部屋の物を3つ見ながら「Das packe ich ein.」と声に出してみましょう。引っ越しの予定がなくても練習はタダです！📦"
+  },
+  "tr": {
+    "title": "Koliler, bantlar ve evraklar: Ev taşırken 10 Almanca kelime",
+    "hook": "Almanya'da ev taşırken taşıyacağınız en ağır şey kelimeler olabilir.",
+    "intro": [
+      "Yeni bir daire için imzayı attınız! Heyecan, boş koliler üst üste yığılana ve bir arkadaşınıza Almanca ‘Cumartesi taşınmama yardım edebilir misin?’ diye mesaj atmanız gerekene kadar sürüyor. Taşındıktan sonra da yeni adresinizi bildirmeye gitmeniz gerekiyor.",
+      "Bugünkü 10 kelime sizi bütün taşınma süreci boyunca götürüyor: eşyaları paketlemek, koli taşımak, nakliye firması ayarlamak, eşyaları çıkarmak ve yeni adresinizi bildirmek. 📦"
+    ],
+    "words": {
+      "A2-053": {"pron": "UM-tsi-en", "tip": "um (değişim) + ziehen (göç etmek) = yaşadığınız yeri değiştirmek 🚚", "warn": "Ayrılabilen fiil, Perfekt'i sein ile: Wir ziehen um. / Wir sind umgezogen. sich eklerseniz üstünü değiştirmek olur!"},
+      "A2-612": {"pron": "UM-tsuk", "tip": "umziehen'in isim hâli 🏠 Kannst du mir beim Umzug helfen?", "bonus": "Karnaval geçidi de bir Umzug'dur: der Karnevalsumzug"},
+      "A1-328": {"pron": "AUS-tsi-en", "tip": "aus (dışarı) + ziehen (çekmek) = kıyafetlerinizi çıkarmak ya da evden çıkmak 👟", "warn": "Kıyafet: hat ausgezogen. Evden taşınmak: ist ausgezogen."},
+      "A2-162": {"pron": "PA-ken", "tip": "Tıpkı İngilizce pack, Türkçedeki paket gibi 🧳 Koffer packen = bavul hazırlamak", "bonus": "Ich muss noch packen. = Daha bavulumu hazırlamam lazım."},
+      "B2-2314": {"pron": "UM-tsuks-kar-tonk", "tip": "Umzug + s + Karton (karton kutu) = taşınma kolisi 📦 Ortadaki s yapıştırıcı.", "bonus": "Kitaplar küçük kolilere, yorganlar büyüklere!"},
+      "A1-336": {"pron": "TRA-gen", "tip": "İngilizce drag ile aynı kökten 💪 Ağır şeyleri sürüklersiniz, yani tragen edersiniz.", "warn": "Düzensiz: du trägst, er trägt. Giymek (üstünde taşımak) anlamına da gelir."},
+      "B2-2315": {"pron": "UM-tsuks-fir-ma", "tip": "Umzug + Firma (şirket) = nakliye firması 🚛 Türkçedeki firma ile aynı!", "bonus": "die Firma'nın çoğulu: die Firmen"},
+      "B2-2394": {"pron": "KLE-be-bant", "tip": "kleben (yapıştırmak) + Band (şerit) = yapışkan şerit 🩹", "bonus": "İnsanlar çoğu zaman sadece Tesa der; bu bir marka adı."},
+      "A2-302": {"pron": "AUS-pa-ken", "tip": "aus + packen = eşyaları koliden çıkarmak 🎁 Hediye açmak da auspacken'dir.", "warn": "Ayrılabilen fiil: Ich packe aus. / Ich habe ausgepackt."},
+      "B2-2483": {"pron": "zih UM-mel-den", "tip": "um (değişim) + melden (bildirmek) = değişikliği bildirmek 📝 Taşınmanın son boss'u!", "bonus": "İlk kayıt: sich anmelden. Ülkeden ayrılırken: sich abmelden."}
+    },
+    "culture": [
+      "Almanya'da taşındıktan sonra genellikle yaklaşık iki hafta içinde yeni adresinizi bölgenizdeki vatandaşlık bürosuna (Bürgeramt) bildirmeniz gerekir. Ev sahibinizden bir onay belgesi (Wohnungsgeberbestätigung) almanız lazım. Büyük şehirlerde randevu bulmak zor olabilir, önceden planlayın.",
+      "Arkadaşlar taşınırken birbirine sık sık yardım eder ve onlara pizza ve içecekle teşekkür etmek normaldir. İnsanlar bir günlüğüne minibüs kiralar ya da taşınacak çok eşya varsa bir Umzugsfirma tutar.",
+      "Yeni gelenlerin çoğunu şaşırtan bir şey: Almanya'da kiralık dairelerde her zaman mutfak olmaz. İmzalamadan önce bir Einbauküche (ankastre mutfak) olup olmadığını kontrol edin. 🍳"
+    ],
+    "quiz": {"q": "Bir arkadaşınız mesaj atıyor: ‘Am Samstag ziehe ich um. Kannst du mir helfen?’ Cumartesi ne yapacaksınız?", "o": ["Wir gehen ins Kino.", "Wir tragen Umzugskartons.", "Wir ziehen uns um."], "a": 1, "why": "umziehen ev taşımak demek, yani koli taşıyacaksınız; sich umziehen ise üstünü değiştirmek demektir."},
+    "outro": "Odanızdaki üç şeye bakın ve yüksek sesle ‘Das packe ich ein.’ deyin. Taşınmaya gerek yok, pratik bedava! 📦"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "チャンネルを変えたいのにリモコンが見当たりません。ルームメイトに何と聞きますか？", "o": ["Auf welchem Sender läuft das?", "Der Fernseher ist zu laut.", "Wo ist die Fernbedienung?"], "a": 2, "why": "die Fernbedienung は「リモコン」なので、リモコンの場所を聞いています。"},
     "outro": "今夜はドイツのニュースを5分だけつけて、知っている単語を数えてみましょう。Sendung, Moderator, live…いくつ聞き取れるかな？📺"
+  },
+  "tr": {
+    "title": "Kumanda elinizde: televizyonla ilgili 10 Almanca kelime",
+    "hook": "Alman televizyonunu açık bırakmanın kulağı eğittiği söylenir — ama önce televizyonun kendisi için kelimeler lazım.",
+    "intro": [
+      "Almanya'daki ilk aylarımda ders çalışırken her akşam televizyon açıktı. Haber sunucusu ‘Guten Abend, meine Damen und Herren’ dediğinde düşünmeden tekrar ederdim. Ama ev arkadaşım ‘Auf welchem Sender läuft das Spiel?’ diye sorduğunda nasıl cevap vereceğimi bilemedim.",
+      "Bugünkü on kelime televizyon ve yayıncılıkla ilgili. Bunlarla ne izlediğinizi anlatabilir, doğru kanalı bulabilir ve kumanda savaşını kazanabilirsiniz. 📺"
+    ],
+    "words": {
+      "A1-331": {"pron": "FERN-ze-en", "tip": "fern (uzak) + sehen (görmek) = uzağı görmek 📺 tele-vizyon'un kelimesi kelimesine çevirisi!", "warn": "Ayrılabilen: Ich sehe fern. · perfekt: hat ferngesehen"},
+      "A2-130": {"pron": "FERN-ze-er", "tip": "fernsehen + -er = uzağı gören makine 🖥️ -er ile biten makineler genelde der'dir.", "warn": "Cihaz der Fernseher; televizyon izlemek fernsehen. Karıştırmayın!"},
+      "A2-259": {"pron": "pro-GRAM", "tip": "Türkçedeki ‘program’ ile aynı, sadece çift m ile 📋 Hem yayın akışı hem bugünkü plan Programm'dır.", "bonus": "Was steht heute auf dem Programm? = Bugün programda ne var?"},
+      "B1-037": {"pron": "ZEN-dunk", "tip": "senden (göndermek) + -ung = havadan gönderilen şey 📡 -ung, yani die!", "bonus": "Kargo gönderisi de bir Sendung'dur — takip e-postalarında görürsünüz."},
+      "B1-1139": {"pron": "ZEN-der", "tip": "senden + -er = gönderen 📡 Yayın kuruluşu ya da kanal: der Sender.", "bonus": "Auf welchem Sender läuft das? = Hangi kanalda?"},
+      "B1-2312": {"pron": "mo-de-RA-tor", "tip": "Programı ölçülü (moderate) ve rayında tutan kişi 🎤 yani sunucu — Türkçedeki ‘moderatör’.", "bonus": "Kadın sunucu die Moderatorin · sunmak = moderieren"},
+      "B1-1450": {"pron": "TSU-şau-er", "tip": "zu + schauen (bakmak) + -er = izleyen kişi 👀 Stadyumdaki kalabalık da TV izleyicileri de.", "bonus": "Dinleyici der Zuhörer; seyircinin tamamı das Publikum'dur."},
+      "B1-672": {"pron": "FERN-be-di-nunk", "tip": "fern (uzaktan) + Bedienung (kullanım) = uzaktan kumanda 🎮 Hep kaybolan şey.", "bonus": "Wo ist schon wieder die Fernbedienung? = Kumanda yine nereye gitti?"},
+      "B1-2018": {"pron": "LAYF", "tip": "Tıpkı İngilizce live gibi — ‘layf’ diye okunur 🔴", "bonus": "canlı yayın = die Livesendung"},
+      "B1-2048": {"pron": "ü-ber-TRA-gen", "tip": "über (karşıya) + tragen (taşımak) = uzaklara taşımak 📡 yani yayınlamak!", "warn": "Ayrılmaz: Das Spiel wird live übertragen."}
+    },
+    "culture": [
+      "Almanya'nın en eski akşam alışkanlıklarından biri saat 20.00 haberleri, yani ‘Tagesschau’dur. On yıllardır aynı saatte yayınlanır; bu yüzden birçok evde saat sekiz düpedüz haber saati demektir.",
+      "Pazar akşamları pek çok kişi polisiye dizi ‘Tatort’u izler. Her şehrin kendi dedektifleri vardır ve arkadaşlar çoğu zaman evde, hatta birahanede birlikte izler.",
+      "Ayrıca Almanya'da her hane genellikle kamu televizyonu ve radyosu için bir yayın katkı payı (Rundfunkbeitrag) öder — çoğu zaman televizyonu olmasa bile. Taşındıktan sonra o mektup sizi bulur. 📬"
+    ],
+    "quiz": {"q": "Kanalı değiştirmek istiyorsunuz ama kumandayı göremiyorsunuz. Ev arkadaşınıza ne sorarsınız?", "o": ["Auf welchem Sender läuft das?", "Der Fernseher ist zu laut.", "Wo ist die Fernbedienung?"], "a": 2, "why": "die Fernbedienung kumandadır; yani nerede olduğunu soruyorsunuz."},
+    "outro": "Bu akşam beş dakikalığına Almanca haberleri açın ve bildiğiniz kelimeleri sayın. Sendung, Moderator, live… kaçını yakalayabileceksiniz? 📺"
   }
 }

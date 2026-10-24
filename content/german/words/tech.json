@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "ドイツの新聞の見出しに「KI」とありました。何の略でしょう？", "o": ["Künstliche Information", "Künstliche Intelligenz", "Kluge Innovation"], "a": 1, "why": "KI = Künstliche Intelligenz、英語の AI（人工知能）のことです。"},
     "outro": "今日はテクノロジーのニュースの見出しをひとつ探して、知っている単語に丸をつけてみましょう。KI がひとつ見つかれば大成功です！📰"
+  },
+  "tr": {
+    "title": "Yapay zekâ, robotlar ve algoritmalar: 10 Almanca teknoloji kelimesi",
+    "hook": "Alman haber başlıklarında ‘KI’nin geçmediği gün neredeyse yok — o halde anlamıyla başlayalım.",
+    "intro": [
+      "Trende Almanca bir haber uygulaması açıyorsunuz ve her başlık KI, Digitalisierung, Algorithmus ile dolu… Neredeyse İngilizce gibi görünüyorlar ama tam değil — sonunda çeviri uygulamasına uzanıyorsunuz.",
+      "Bugünkü on kelime yapay zekâ ve teknoloji haberlerinde tekrar tekrar karşınıza çıkar. Uzunlar ama çoğu Türkçedeki ve İngilizcedeki karşılıklarına benziyor, yani göründüklerinden kolaylar. Bunlarla teknoloji başlıklarını kendi başınıza okuyabilirsiniz! 🤖"
+    ],
+    "words": {
+      "B2-1014": {"pron": "KÜNST-li-he in-te-li-GENTS", "tip": "Kunst (beceri, sanat) ile yapılmış zekâ = yapay zekâ 🧠 Kısaltması: KI, ‘ka-İ’ diye okunur.", "warn": "Almanlar AI demez — KI der."},
+      "B2-1032": {"pron": "RO-bo-ter", "tip": "Çekçe robota (ağır iş) kelimesinden 🦾 Çalışmak için yapılmış makine!", "bonus": "Çoğulu aynı: die Roboter · robot süpürge = der Saugroboter"},
+      "B1-1240": {"pron": "teh-no-lo-Gİ", "tip": "-ie ile bitiyor, yani die 💡 Türkçedeki ‘teknoloji’ gibi vurgu son hecede.", "bonus": "Benzeri: die Technik = teknoloji, mühendislik, cihazlar"},
+      "B1-571": {"pron": "di-gi-TAL", "tip": "Latince digitus (parmak) kelimesinden 👆 Parmakla saymak ‘dijital’e dönüştü.", "bonus": "Zıttı analog'dur."},
+      "B1-053": {"pron": "ent-Vİ-keln", "tip": "ent- (çözmek) + wickeln (sarmak) = sarılı olanı açmak 🧶 Bir fikri açıp ürüne dönüştürürsünüz.", "bonus": "die Entwicklung = gelişme, geliştirme · geliştirici = der Entwickler"},
+      "B2-216": {"pron": "di-gi-ta-li-Zİ-runk", "tip": "digital + -isierung (-leşme) = dijitalleşme 📲 -ung ile bitiyor, yani die.", "bonus": "Fiili: digitalisieren"},
+      "B2-988": {"pron": "al-go-RİT-mus", "tip": "Adını İranlı matematikçi Harezmi'den (al-Khwarizmi) alır 🧮 Bir insan kelime oldu!", "warn": "Çoğulu: die Algorithmen (-us, -en olur)"},
+      "B2-1015": {"pron": "au-to-ma-ti-Zİ-runk", "tip": "automatisch + -isierung = otomasyon ⚙️ Digitalisierung ile aynı kalıp.", "bonus": "automatisch = otomatik"},
+      "B2-521": {"pron": "i-no-va-TSYON", "tip": "İçinde novus (yeni) saklı 🚀 -tion ‘tsyon’ diye okunur — ve hep die'dir.", "bonus": "innovativ = yenilikçi"},
+      "C1-1041": {"pron": "ma-şi-NE-le LER-nen", "tip": "Maschine öğreniyor = makine öğrenmesi 🤓 İsim olarak kullanılan fiil her zaman das'tır.", "warn": "Sıfatın eki değişir: beim maschinellen Lernen"}
+    },
+    "culture": [
+      "Birçok Alman veri korumaya (Datenschutz) çok önem verir. Yeni bir uygulama ya da hizmet çıktığında ilk soru çoğu zaman ‘Verilerim nereye gidiyor?’ olur; web siteleri de onayınızı titizlikle ister.",
+      "Ödemeler giderek dijitalleşiyor ama hâlâ pek çok kişi nakdi (Bargeld) tercih ediyor. Bazı küçük fırın ya da dükkânlarda nakit kartdan daha kolaydır, o yüzden cüzdanınızda biraz bozuk para bulundurmak işe yarar.",
+      "Eğlenceli bir bilgi: Çoğu zaman dünyanın ilk programlanabilir bilgisayarlarından biri olarak anılan Z3, 1941'de Almanya'da Konrad Zuse tarafından yapıldı. 💻"
+    ],
+    "quiz": {"q": "Almanca bir gazete başlığında ‘KI’ görüyorsunuz. Neyin kısaltması?", "o": ["Künstliche Information", "Künstliche Intelligenz", "Kluge Innovation"], "a": 1, "why": "KI = Künstliche Intelligenz, yani yapay zekânın Almancası."},
+    "outro": "Bugün bir teknoloji başlığı bulun ve bildiğiniz her kelimeyi daire içine alın. Bir KI yakaladıysanız şimdiden kazandınız! 📰"
   }
 }

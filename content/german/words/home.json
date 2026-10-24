@@ -8,23 +8,72 @@
       "오늘은 집과 가구에 관한 기본 단어 10개예요. 이 10개면 집 광고를 읽고, 집 구경을 하고, 친구 집에서 ‘욕실 어디예요?’까지 물어볼 수 있어요. 관사도 같이 외워요! 🛋️"
     ],
     "words": {
-      "A2-129": {"pron": "뫼벨", "tip": "프랑스어 meuble(움직일 수 있는 것)에서 왔어요 🪑 이사할 때 옮기는 게 바로 Möbel!", "warn": "보통 복수로 써요: die Möbel. 가구 하나는 das Möbelstück이에요."},
-      "A1-003": {"pron": "침머", "tip": "영어 timber(목재)와 친척이에요 🪵 옛날 방은 다 나무로 지었거든요.", "bonus": "Wie viele Zimmer hat die Wohnung? = 그 집 방이 몇 개예요?"},
-      "A1-220": {"pron": "본침머", "tip": "wohnen(살다) + Zimmer(방) = 사는 방, 거실 🛋️ Zimmer로 끝나니까 das!", "bonus": "집(아파트)은 die Wohnung, 같은 wohnen에서 왔어요."},
-      "A1-221": {"pron": "슐라프침머", "tip": "schlafen은 영어 sleep이랑 닮았죠 😴 자는 방 = 침실!", "bonus": "자러 가다 = ins Bett gehen"},
-      "A1-108": {"pron": "바트", "tip": "영어 bath에서 th가 d로 바뀐 것뿐 🛁 목욕하는 곳이에요.", "warn": "영어 bad(나쁜)가 아니에요! 화장실만 찾을 땐 die Toilette. 복수는 die Bäder."},
-      "A1-005": {"pron": "티쉬", "tip": "영어 dish(접시), desk와 같은 뿌리 🍽️ 접시를 올려놓는 곳이 Tisch!", "bonus": "책상은 der Schreibtisch, 식탁은 der Esstisch"},
-      "A1-110": {"pron": "슈툴", "tip": "영어 stool(등받이 없는 의자)과 같은 말이에요 🪑", "warn": "복수에 움라우트가 생겨요: die Stühle"},
-      "A1-227": {"pron": "조파", "tip": "독일어 s는 모음 앞에서 ‘ㅈ’ 소리 💤 ‘조~파’에 누워서 쉬어요.", "bonus": "같은 뜻으로 die Couch도 많이 써요."},
-      "A1-111": {"pron": "슈랑크", "tip": "Kühlschrank(냉장고)는 ‘시원한(kühl) 장’이에요 🧊 Schrank 하나로 단어가 두 개!", "bonus": "옷장은 der Kleiderschrank · 복수는 die Schränke"},
-      "A1-006": {"pron": "베트", "tip": "영어 bed에 t만 두 개 🛏️ 거의 똑같아요.", "bonus": "Gute Nacht, ab ins Bett! = 잘 자, 이제 자러 가!"}
+      "A2-129": {
+        "pron": "뫼벨",
+        "tip": "프랑스어 meuble(움직일 수 있는 것)에서 왔어요 🪑 이사할 때 옮기는 게 바로 Möbel!",
+        "warn": "보통 복수로 써요: die Möbel. 가구 하나는 das Möbelstück이에요."
+      },
+      "A1-003": {
+        "pron": "침머",
+        "tip": "영어 timber(목재)와 친척이에요 🪵 옛날 방은 다 나무로 지었거든요.",
+        "bonus": "Wie viele Zimmer hat die Wohnung? = 그 집 방이 몇 개예요?"
+      },
+      "A1-220": {
+        "pron": "본침머",
+        "tip": "wohnen(살다) + Zimmer(방) = 사는 방, 거실 🛋️ Zimmer로 끝나니까 das!",
+        "bonus": "집(아파트)은 die Wohnung, 같은 wohnen에서 왔어요."
+      },
+      "A1-221": {
+        "pron": "슐라프침머",
+        "tip": "schlafen은 영어 sleep이랑 닮았죠 😴 자는 방 = 침실!",
+        "bonus": "자러 가다 = ins Bett gehen"
+      },
+      "A1-108": {
+        "pron": "바트",
+        "tip": "영어 bath에서 th가 d로 바뀐 것뿐 🛁 목욕하는 곳이에요.",
+        "warn": "영어 bad(나쁜)가 아니에요! 화장실만 찾을 땐 die Toilette. 복수는 die Bäder."
+      },
+      "A1-005": {
+        "pron": "티쉬",
+        "tip": "영어 dish(접시), desk와 같은 뿌리 🍽️ 접시를 올려놓는 곳이 Tisch!",
+        "bonus": "책상은 der Schreibtisch, 식탁은 der Esstisch"
+      },
+      "A1-110": {
+        "pron": "슈툴",
+        "tip": "영어 stool(등받이 없는 의자)과 같은 말이에요 🪑",
+        "warn": "복수에 움라우트가 생겨요: die Stühle"
+      },
+      "A1-227": {
+        "pron": "조파",
+        "tip": "독일어 s는 모음 앞에서 ‘ㅈ’ 소리 💤 ‘조~파’에 누워서 쉬어요.",
+        "bonus": "같은 뜻으로 die Couch도 많이 써요."
+      },
+      "A1-111": {
+        "pron": "슈랑크",
+        "tip": "Kühlschrank(냉장고)는 ‘시원한(kühl) 장’이에요 🧊 Schrank 하나로 단어가 두 개!",
+        "bonus": "옷장은 der Kleiderschrank · 복수는 die Schränke"
+      },
+      "A1-006": {
+        "pron": "베트",
+        "tip": "영어 bed에 t만 두 개 🛏️ 거의 똑같아요.",
+        "bonus": "Gute Nacht, ab ins Bett! = 잘 자, 이제 자러 가!"
+      }
     },
     "culture": [
       "독일 집 광고의 ‘3-Zimmer-Wohnung’은 방 3개짜리가 아니라, 거실까지 포함해서 방이 3개라는 뜻이에요. 부엌과 욕실은 세지 않아요. 그러니까 보통 거실 하나에 침실 두 개예요.",
       "그리고 놀라운 점! 지역에 따라 다르지만, 임대 집에 부엌(Einbauküche)이 없는 경우도 꽤 있어요. 이사 나가는 사람이 부엌을 통째로 떼어 가거나, 다음 세입자에게 팔기도 해요.",
       "안 쓰는 큰 가구는 아무 데나 버리면 안 되고, 보통 시나 구청에 대형 폐기물(Sperrmüll) 수거를 신청해요. 방법은 도시마다 달라요. 🛋️"
     ],
-    "quiz": {"q": "친구 집에 놀러 갔어요. 손을 씻고 싶을 때 뭐라고 물어볼까요?", "o": ["Wo ist das Schlafzimmer?", "Wo ist das Bad?", "Wo ist der Schrank?"], "a": 1, "why": "das Bad = 욕실이에요. 손 씻는 곳은 욕실이죠!"},
+    "quiz": {
+      "q": "친구 집에 놀러 갔어요. 손을 씻고 싶을 때 뭐라고 물어볼까요?",
+      "o": [
+        "Wo ist das Schlafzimmer?",
+        "Wo ist das Bad?",
+        "Wo ist der Schrank?"
+      ],
+      "a": 1,
+      "why": "das Bad = 욕실이에요. 손 씻는 곳은 욕실이죠!"
+    },
     "outro": "지금 앉아 있는 방을 둘러보면서 보이는 가구를 관사와 함께 독일어로 말해 봐요. der Tisch, der Stuhl, das Bett! 🏠"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words cover rooms and furniture. With them you can read a flat advert, follow a viewing and ask where the bathroom is at a friend's place. Learn each one with its article! 🛋️"
     ],
     "words": {
-      "A2-129": {"pron": "MER-bel", "tip": "From French meuble, ‘movable thing’ 🪑 Furniture is what you carry when you move.", "warn": "Usually plural: die Möbel. One piece of furniture is das Möbelstück."},
-      "A1-003": {"pron": "TSIM-er", "tip": "A cousin of English timber 🪵 Rooms used to be made of wood.", "bonus": "Wie viele Zimmer hat die Wohnung? = How many rooms does the flat have?"},
-      "A1-220": {"pron": "VOHN-tsim-er", "tip": "wohnen (to live) + Zimmer = the living room 🛋️ Ends in Zimmer, so it's das.", "bonus": "A flat is die Wohnung, from the same verb wohnen."},
-      "A1-221": {"pron": "SHLAHF-tsim-er", "tip": "schlafen sounds like sleep 😴 The sleep room = bedroom.", "bonus": "to go to bed = ins Bett gehen"},
-      "A1-108": {"pron": "BAHT", "tip": "English bath with a d at the end 🛁 Where you have a bath.", "warn": "Not English ‘bad’! If you just need the loo, ask for die Toilette. Plural: die Bäder."},
-      "A1-005": {"pron": "TISH", "tip": "Same root as English dish and desk 🍽️ The place where you put your dishes.", "bonus": "desk = der Schreibtisch · dining table = der Esstisch"},
-      "A1-110": {"pron": "SHTOOL", "tip": "It's English stool, upgraded with a backrest 🪑", "warn": "The plural gets an umlaut: die Stühle"},
-      "A1-227": {"pron": "ZOH-fah", "tip": "A German s before a vowel sounds like z 💤 Flop onto the ‘zofa’.", "bonus": "die Couch means the same and is very common."},
-      "A1-111": {"pron": "SHRANK", "tip": "A fridge is a Kühlschrank, a ‘cool cupboard’ 🧊 Two words for the price of one.", "bonus": "wardrobe = der Kleiderschrank · plural: die Schränke"},
-      "A1-006": {"pron": "BET", "tip": "English bed with a double t 🛏️ Nearly identical.", "bonus": "Gute Nacht, ab ins Bett! = Good night, off to bed!"}
+      "A2-129": {
+        "pron": "MER-bel",
+        "tip": "From French meuble, ‘movable thing’ 🪑 Furniture is what you carry when you move.",
+        "warn": "Usually plural: die Möbel. One piece of furniture is das Möbelstück."
+      },
+      "A1-003": {
+        "pron": "TSIM-er",
+        "tip": "A cousin of English timber 🪵 Rooms used to be made of wood.",
+        "bonus": "Wie viele Zimmer hat die Wohnung? = How many rooms does the flat have?"
+      },
+      "A1-220": {
+        "pron": "VOHN-tsim-er",
+        "tip": "wohnen (to live) + Zimmer = the living room 🛋️ Ends in Zimmer, so it's das.",
+        "bonus": "A flat is die Wohnung, from the same verb wohnen."
+      },
+      "A1-221": {
+        "pron": "SHLAHF-tsim-er",
+        "tip": "schlafen sounds like sleep 😴 The sleep room = bedroom.",
+        "bonus": "to go to bed = ins Bett gehen"
+      },
+      "A1-108": {
+        "pron": "BAHT",
+        "tip": "English bath with a d at the end 🛁 Where you have a bath.",
+        "warn": "Not English ‘bad’! If you just need the loo, ask for die Toilette. Plural: die Bäder."
+      },
+      "A1-005": {
+        "pron": "TISH",
+        "tip": "Same root as English dish and desk 🍽️ The place where you put your dishes.",
+        "bonus": "desk = der Schreibtisch · dining table = der Esstisch"
+      },
+      "A1-110": {
+        "pron": "SHTOOL",
+        "tip": "It's English stool, upgraded with a backrest 🪑",
+        "warn": "The plural gets an umlaut: die Stühle"
+      },
+      "A1-227": {
+        "pron": "ZOH-fah",
+        "tip": "A German s before a vowel sounds like z 💤 Flop onto the ‘zofa’.",
+        "bonus": "die Couch means the same and is very common."
+      },
+      "A1-111": {
+        "pron": "SHRANK",
+        "tip": "A fridge is a Kühlschrank, a ‘cool cupboard’ 🧊 Two words for the price of one.",
+        "bonus": "wardrobe = der Kleiderschrank · plural: die Schränke"
+      },
+      "A1-006": {
+        "pron": "BET",
+        "tip": "English bed with a double t 🛏️ Nearly identical.",
+        "bonus": "Gute Nacht, ab ins Bett! = Good night, off to bed!"
+      }
     },
     "culture": [
       "In a German flat advert, ‘3-Zimmer-Wohnung’ means three rooms including the living room. The kitchen and bathroom aren't counted. So it's usually one living room and two bedrooms.",
       "A surprise for many newcomers: depending on the region, rented flats sometimes come without a fitted kitchen (Einbauküche). Outgoing tenants may take theirs with them or sell it to the next tenant.",
       "You can't just leave big furniture on the street. Usually you book a bulky waste collection (Sperrmüll) with the city, and how it works depends on where you live. 🛋️"
     ],
-    "quiz": {"q": "You're at a friend's flat and want to wash your hands. What do you ask?", "o": ["Wo ist das Schlafzimmer?", "Wo ist das Bad?", "Wo ist der Schrank?"], "a": 1, "why": "das Bad is the bathroom — the place to wash your hands."},
+    "quiz": {
+      "q": "You're at a friend's flat and want to wash your hands. What do you ask?",
+      "o": [
+        "Wo ist das Schlafzimmer?",
+        "Wo ist das Bad?",
+        "Wo ist der Schrank?"
+      ],
+      "a": 1,
+      "why": "das Bad is the bathroom — the place to wash your hands."
+    },
     "outro": "Look around the room you're in and name every piece of furniture out loud, with its article: der Tisch, der Stuhl, das Bett! 🏠"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日は住まいと家具の基本単語を10個集めました。これで物件広告を読んだり、内見で説明を聞いたり、友だちの家で「お手洗いはどこ？」と聞いたりできます。冠詞も一緒に覚えましょう！🛋️"
     ],
     "words": {
-      "A2-129": {"pron": "メーベル", "tip": "フランス語 meuble（動かせるもの）から 🪑 引っ越しで運ぶものが Möbel！", "warn": "ふつう複数形 die Möbel で使います。家具1点は das Möbelstück です。"},
-      "A1-003": {"pron": "ツィマー", "tip": "英語の timber（木材）の親戚 🪵 昔の部屋は木で作られていました。", "bonus": "Wie viele Zimmer hat die Wohnung? = その物件は部屋がいくつありますか？"},
-      "A1-220": {"pron": "ヴォーンツィマー", "tip": "wohnen（住む）+ Zimmer（部屋）= 暮らす部屋、リビング 🛋️ Zimmer で終わるので das！", "bonus": "住まい（アパート）は die Wohnung。同じ wohnen から来ています。"},
-      "A1-221": {"pron": "シュラーフツィマー", "tip": "schlafen は英語の sleep に似ていますね 😴 眠る部屋＝寝室！", "bonus": "寝る（ベッドに行く）= ins Bett gehen"},
-      "A1-108": {"pron": "バート", "tip": "英語の bath の th が d になっただけ 🛁 お風呂に入る場所です。", "warn": "英語の bad（悪い）ではありません！トイレだけなら die Toilette。複数形は die Bäder。"},
-      "A1-005": {"pron": "ティッシュ", "tip": "英語の dish（皿）や desk と同じ語源 🍽️ お皿を置くところが Tisch！", "bonus": "机は der Schreibtisch、食卓は der Esstisch"},
-      "A1-110": {"pron": "シュトゥール", "tip": "英語の stool（背もたれのないいす）と同じ言葉です 🪑", "warn": "複数形はウムラウトが付きます：die Stühle"},
-      "A1-227": {"pron": "ゾーファ", "tip": "ドイツ語の s は母音の前で「ザ行」の音 💤「ゾーファ」でごろごろ。", "bonus": "同じ意味で die Couch もよく使います。"},
-      "A1-111": {"pron": "シュランク", "tip": "冷蔵庫は Kühlschrank、「冷たい（kühl）戸棚」です 🧊 一度に2語覚えられます！", "bonus": "洋服だんすは der Kleiderschrank・複数形は die Schränke"},
-      "A1-006": {"pron": "ベット", "tip": "英語の bed に t がふたつ 🛏️ ほとんど同じです。", "bonus": "Gute Nacht, ab ins Bett! = おやすみ、さあ寝よう！"}
+      "A2-129": {
+        "pron": "メーベル",
+        "tip": "フランス語 meuble（動かせるもの）から 🪑 引っ越しで運ぶものが Möbel！",
+        "warn": "ふつう複数形 die Möbel で使います。家具1点は das Möbelstück です。"
+      },
+      "A1-003": {
+        "pron": "ツィマー",
+        "tip": "英語の timber（木材）の親戚 🪵 昔の部屋は木で作られていました。",
+        "bonus": "Wie viele Zimmer hat die Wohnung? = その物件は部屋がいくつありますか？"
+      },
+      "A1-220": {
+        "pron": "ヴォーンツィマー",
+        "tip": "wohnen（住む）+ Zimmer（部屋）= 暮らす部屋、リビング 🛋️ Zimmer で終わるので das！",
+        "bonus": "住まい（アパート）は die Wohnung。同じ wohnen から来ています。"
+      },
+      "A1-221": {
+        "pron": "シュラーフツィマー",
+        "tip": "schlafen は英語の sleep に似ていますね 😴 眠る部屋＝寝室！",
+        "bonus": "寝る（ベッドに行く）= ins Bett gehen"
+      },
+      "A1-108": {
+        "pron": "バート",
+        "tip": "英語の bath の th が d になっただけ 🛁 お風呂に入る場所です。",
+        "warn": "英語の bad（悪い）ではありません！トイレだけなら die Toilette。複数形は die Bäder。"
+      },
+      "A1-005": {
+        "pron": "ティッシュ",
+        "tip": "英語の dish（皿）や desk と同じ語源 🍽️ お皿を置くところが Tisch！",
+        "bonus": "机は der Schreibtisch、食卓は der Esstisch"
+      },
+      "A1-110": {
+        "pron": "シュトゥール",
+        "tip": "英語の stool（背もたれのないいす）と同じ言葉です 🪑",
+        "warn": "複数形はウムラウトが付きます：die Stühle"
+      },
+      "A1-227": {
+        "pron": "ゾーファ",
+        "tip": "ドイツ語の s は母音の前で「ザ行」の音 💤「ゾーファ」でごろごろ。",
+        "bonus": "同じ意味で die Couch もよく使います。"
+      },
+      "A1-111": {
+        "pron": "シュランク",
+        "tip": "冷蔵庫は Kühlschrank、「冷たい（kühl）戸棚」です 🧊 一度に2語覚えられます！",
+        "bonus": "洋服だんすは der Kleiderschrank・複数形は die Schränke"
+      },
+      "A1-006": {
+        "pron": "ベット",
+        "tip": "英語の bed に t がふたつ 🛏️ ほとんど同じです。",
+        "bonus": "Gute Nacht, ab ins Bett! = おやすみ、さあ寝よう！"
+      }
     },
     "culture": [
       "ドイツの物件広告の「3-Zimmer-Wohnung」は、リビングも含めて部屋が3つという意味です。キッチンと浴室は数えません。つまり、ふつうはリビング1つと寝室2つです。",
       "驚くことに、地域にもよりますが、賃貸なのにキッチン（Einbauküche）が付いていない物件もけっこうあります。出ていく人がキッチンごと持っていったり、次の入居者に売ったりするんです。",
       "大きな家具を勝手に道に出すのはNG。ふつうは市や区に粗大ごみ（Sperrmüll）の回収を申し込みます。やり方は街によって違います。🛋️"
     ],
-    "quiz": {"q": "友だちの家で手を洗いたいとき、何と聞きますか？", "o": ["Wo ist das Schlafzimmer?", "Wo ist das Bad?", "Wo ist der Schrank?"], "a": 1, "why": "das Bad は浴室・洗面所のことで、手を洗う場所です。"},
+    "quiz": {
+      "q": "友だちの家で手を洗いたいとき、何と聞きますか？",
+      "o": [
+        "Wo ist das Schlafzimmer?",
+        "Wo ist das Bad?",
+        "Wo ist der Schrank?"
+      ],
+      "a": 1,
+      "why": "das Bad は浴室・洗面所のことで、手を洗う場所です。"
+    },
     "outro": "今いる部屋を見回して、見える家具を冠詞付きでドイツ語で言ってみましょう。der Tisch, der Stuhl, das Bett！🏠"
+  },
+  "tr": {
+    "title": "Alman evinde kendinizi evinizde hissettirecek 10 kelime",
+    "hook": "Alman bir ev ilanında ‘3 Zimmer’ yazar; ama bu üç yatak odası demek değildir.",
+    "intro": [
+      "Almanya'daki ilk ev gezmeniz: ev sahibi hızla sıralıyor, ‘Das ist das Wohnzimmer, hier ist das Bad…’, siz de sadece başınızı sallıyorsunuz. Sonra mobilya mağazasında adlarını bilmediğiniz için eşyaları parmağınızla gösteriyorsunuz.",
+      "Bugünkü on kelime odaları ve mobilyaları kapsıyor. Bunlarla bir ev ilanını okuyabilir, ev gezmesini takip edebilir ve bir arkadaşınızın evinde banyonun nerede olduğunu sorabilirsiniz. Her birini artikeliyle öğrenin! 🛋️"
+    ],
+    "words": {
+      "A2-129": {
+        "pron": "MÖ-bel",
+        "tip": "Fransızca meuble, ‘taşınabilir şey’ kökünden; Türkçedeki “mobilya” ile akraba 🪑 Mobilya taşınırken taşıdığınız şeydir.",
+        "warn": "Genellikle çoğul: die Möbel. Tek bir mobilya parçası das Möbelstück."
+      },
+      "A1-003": {
+        "pron": "TSİM-mır",
+        "tip": "İngilizce timber'ın (kereste) kuzeni 🪵 Odalar eskiden ahşaptan yapılırdı.",
+        "bonus": "Wie viele Zimmer hat die Wohnung? = Ev kaç odalı?"
+      },
+      "A1-220": {
+        "pron": "VON-tsim-mır",
+        "tip": "wohnen (oturmak, yaşamak) + Zimmer = oturma odası 🛋️ Sonu Zimmer, o yüzden das.",
+        "bonus": "Daire die Wohnung, aynı wohnen fiilinden."
+      },
+      "A1-221": {
+        "pron": "ŞLAF-tsim-mır",
+        "tip": "schlafen kulağa İngilizce sleep gibi gelir 😴 Uyku odası = yatak odası.",
+        "bonus": "yatmaya gitmek = ins Bett gehen"
+      },
+      "A1-108": {
+        "pron": "BAT",
+        "tip": "Sonu d ile biten İngilizce bath 🛁 Banyo yaptığınız yer.",
+        "warn": "İngilizce ‘bad’ değil! Sadece tuvalete ihtiyacınız varsa die Toilette'yi sorun. Çoğul: die Bäder."
+      },
+      "A1-005": {
+        "pron": "TİŞ",
+        "tip": "İngilizce dish ve desk ile aynı kökten 🍽️ Tabaklarınızı koyduğunuz yer.",
+        "bonus": "çalışma masası = der Schreibtisch · yemek masası = der Esstisch"
+      },
+      "A1-110": {
+        "pron": "ŞTUL",
+        "tip": "Türkçedeki “tabure” anlamındaki İngilizce stool'un sırtlıklı hâli 🪑",
+        "warn": "Çoğulda umlaut gelir: die Stühle"
+      },
+      "A1-227": {
+        "pron": "ZO-fa",
+        "tip": "Türkçedeki “sofa” ile aynı! Yalnız ünlüden önce s “z” gibi okunur 💤 ‘Zofa’ya kendinizi bırakın.",
+        "bonus": "die Couch da aynı anlama gelir ve çok yaygındır."
+      },
+      "A1-111": {
+        "pron": "ŞRANK",
+        "tip": "Buzdolabı bir Kühlschrank, yani ‘soğuk dolap’ 🧊 Bir fiyatına iki kelime.",
+        "bonus": "gardırop = der Kleiderschrank · çoğul: die Schränke"
+      },
+      "A1-006": {
+        "pron": "BET",
+        "tip": "Çift t ile İngilizce bed 🛏️ Neredeyse aynı.",
+        "bonus": "Gute Nacht, ab ins Bett! = İyi geceler, hadi yatağa!"
+      }
+    },
+    "culture": [
+      "Alman ev ilanlarında ‘3-Zimmer-Wohnung’ oturma odası dahil üç oda demektir. Mutfak ve banyo sayılmaz. Yani genellikle bir salon ve iki yatak odasıdır; bizdeki “2+1” gibi.",
+      "Yeni gelenlerin çoğunu şaşırtan bir şey: bölgeye bağlı olarak kiralık daireler bazen ankastre mutfak (Einbauküche) olmadan gelir. Çıkan kiracılar mutfaklarını yanlarında götürebilir ya da sonraki kiracıya satabilir.",
+      "Büyük mobilyaları öylece sokağa bırakamazsınız. Genellikle belediyeden iri hacimli atık toplama (Sperrmüll) randevusu alırsınız; nasıl işlediği oturduğunuz yere bağlıdır. 🛋️"
+    ],
+    "quiz": {
+      "q": "Bir arkadaşınızın evindesiniz ve ellerinizi yıkamak istiyorsunuz. Ne sorarsınız?",
+      "o": [
+        "Wo ist das Schlafzimmer?",
+        "Wo ist das Bad?",
+        "Wo ist der Schrank?"
+      ],
+      "a": 1,
+      "why": "das Bad banyodur; ellerinizi yıkayacağınız yer."
+    },
+    "outro": "Bulunduğunuz odaya bakın ve her mobilyanın adını artikeliyle birlikte yüksek sesle söyleyin: der Tisch, der Stuhl, das Bett! 🏠"
   }
 }

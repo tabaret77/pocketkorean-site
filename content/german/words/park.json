@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "公園を歩いていて足が疲れました。友だちに「ベンチに座ろう！」と言うなら？", "o": ["Setzen wir uns an den Teich!", "Setzen wir uns auf die Bank!", "Setzen wir uns in den Korb!"], "a": 1, "why": "die Bank は銀行だけでなくベンチの意味もあり、auf die Bank = ベンチの上に、です。"},
     "outro": "次に公園へ行ったら、目に入るものをドイツ語で言ってみましょう：der Baum, die Bank, der Teich… 🌳"
+  },
+  "tr": {
+    "title": "Güneşli Almanca: Parkta bir gün için 10 kelime",
+    "hook": "Güneş çıktığı an Almanlar parka koşar. Bu kelimeleri yanınıza alın ve onlara katılın.",
+    "intro": [
+      "Haftalardır ilk kez güneş çıktı. Parktaki çimenler örtülerle kaplı ve bir yerlerde biri sucuk ızgara yapıyor. Arkadaşınız mesaj atıyor: ‘Picknick im Park?’",
+      "Bugünkü 10 kelime tamamen parklar ve piknikle ilgili. Bunlarla bir piknik planlayabilir, ne getireceğinize karar verebilir ve arkadaşlarınıza sizi tam olarak nerede bulacaklarını söyleyebilirsiniz. 🧺"
+    ],
+    "words": {
+      "A1-147": {"pron": "PARK", "tip": "Türkçedeki park ile birebir aynı 🌳 Sadece r'yi biraz gırtlaktan söyleyin.", "bonus": "im Park spazieren gehen = parkta yürüyüşe çıkmak"},
+      "B1-1405": {"pron": "Vİ-ze", "tip": "Rüzgârda sallanan otları duyun: Vİ-ze 🌾 -e ile bittiği için die.", "bonus": "Münih'te Oktoberfest'e kısaca die Wiesn denir."},
+      "B1-1029": {"pron": "PİK-nik", "tip": "Türkçedeki piknik ile aynı okunur 🥪 Sadece yazılışı Almanca: ck, ck.", "bonus": "ein Picknick machen = piknik yapmak"},
+      "A2-217": {"pron": "DE-ke", "tip": "decken (örtmek) fiilinden 🛏️ Battaniye sizi, tavan da odayı örter.", "warn": "Tavan anlamına da gelir: an der Decke = tavanda."},
+      "A2-801": {"pron": "KORP", "tip": "Sepete pat diye atın: KORP 🧺 Sondaki b, p gibi okunur.", "bonus": "jemandem einen Korb geben = birini geri çevirmek, ‘sepetlemek’!"},
+      "BL-06-01": {"pron": "BANK", "tip": "Hem oturak hem banka Bank'tır; Türkçedeki park bankı gibi 🪑 Sarraflar eskiden bankların başında çalışırmış.", "warn": "Çoğul tuzağı: banklar = die Bänke, bankalar = die Banken."},
+      "A2-314": {"pron": "GRİ-len", "tip": "Türkçedeki ızgara anlamındaki grill + -en = Almanca fiil 🔥", "bonus": "Izgaranın kendisi der Grill; yıldızı da die Wurst."},
+      "B1-1168": {"pron": "ŞPİL-plats", "tip": "spielen (oynamak) + Platz (yer) = oyun yeri 🛝", "bonus": "salıncak = die Schaukel · kaydırak = die Rutsche"},
+      "A1-267": {"pron": "BAUM", "tip": "İngilizce beam (kiriş) ile aynı kökten 🌳 Kirişler ağaçtan yapılırdı.", "warn": "Çoğulda umlaut: die Bäume."},
+      "B2-2782": {"pron": "TAYH", "tip": "Ördeklerin yüzdüğü küçük bir gölet 🦆 İngilizce ditch ile akraba.", "warn": "Teich = gölet. Göl ise der See."}
+    },
+    "culture": [
+      "Hava güzelleşir güzelleşmez Alman parkları çimenlerin (Wiese) üstünde örtülere uzanıp kitap okuyan, kestiren ya da sohbet eden insanlarla dolar. Parkta bir şişe bira çok normal bir manzaradır.",
+      "Mangal yapmak istiyorsanız önce tabelalara bakın. Pek çok şehirde ızgara yapmak sadece işaretli alanlarda (Grillplatz) serbesttir ve kurallar şehirden şehre, parktan parka değişir.",
+      "Ve çöpünüzü eve götürün. Boş şişeler depozito (Pfand) karşılığında süpermarketlere iade edilebilir; bu yüzden bazı insanlar onları toplayıcılar için çöp kutusunun yanına bırakır. ♻️"
+    ],
+    "quiz": {"q": "Parkta yürüyüşten sonra bacaklarınız yoruldu. Bir banka oturmayı nasıl önerirsiniz?", "o": ["Setzen wir uns an den Teich!", "Setzen wir uns auf die Bank!", "Setzen wir uns in den Korb!"], "a": 1, "why": "die Bank hem bank (oturak) hem banka demek; auf die Bank = bankın üstüne."},
+    "outro": "Bir dahaki parka gidişinizde gördüklerinizi yüksek sesle adlandırın: der Baum, die Bank, der Teich… 🌳"
   }
 }

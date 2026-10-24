@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちに、このゲームに完全にハマっていると言いたいです。正しい文は？", "o": ["Ich bin süchtig auf das Spiel.", "Ich bin süchtig von dem Spiel.", "Ich bin süchtig nach dem Spiel."], "a": 2, "why": "süchtig はいつも nach + 3格といっしょに使います。"},
     "outro": "今日ゲームをするときは „Noch eine Runde!“ „Der Gegner ist zu stark!“ と声に出して叫んでみましょう。もちろん süchtig にならない程度に！🎮"
+  },
+  "tr": {
+    "title": "Oyun başlasın! Oyuncular için 10 Almanca kelime",
+    "hook": "Oyununuzun dilini Almancaya çevirin, ders çalışmak oyuna dönüşsün.",
+    "intro": [
+      "Alman bir arkadaşınız mesaj atıyor: „Wollen wir heute Abend zocken?“ Zocken mi? Sözlükte biraz aradıktan sonra ‘oyun oynamak’ demek olduğunu anlıyorsunuz. Sonra oyunun ortasında tek duyduğunuz: „Noch eine Runde!“",
+      "Bugünkü on kelime insanlar oyun oynarken sürekli karşınıza çıkar. Bunlarla Alman arkadaşlarınızla online oynarken sohbet edebilir ve Almanca bir oyun incelemesinin ana fikrini kavrayabilirsiniz. 🎮"
+    ],
+    "words": {
+      "A2-580": {"pron": "ŞPİL", "tip": "spielen (oynamak) fiilinden 🎲 Video oyunu da futbol maçı da bir Spiel'dir.", "bonus": "video oyunu = das Videospiel · bilgisayar oyunu = das Computerspiel"},
+      "C2-3953": {"pron": "TSO-ken", "tip": "Tuşlara basıp durmanın sesi gibi: tsok-tsok 🕹️ ‘Oyun oynamak’ın samimi hali.", "warn": "Argo; ‘kumar oynamak’ anlamına da gelebilir. Resmî ortamlarda spielen kullanın."},
+      "B1-2185": {"pron": "LE-vel", "tip": "Doğrudan İngilizceden ⬆️ Level atlamak, aynı fikir.", "warn": "İngilizce usulü çoğul: die Levels"},
+      "B1-726": {"pron": "GEYG-ner", "tip": "gegen (karşı) + -er = size karşı olan ⚔️ Düşman ya da rakip.", "bonus": "son boss = der Endgegner"},
+      "B1-1084": {"pron": "RUN-de", "tip": "İngilizce round ile aynı kökten 🔄 Bir el daha = noch eine Runde! Türkçedeki ‘raunt’ gibi.", "bonus": "Birahanede: eine Runde ausgeben = herkese bir tur ısmarlamak"},
+      "B1-680": {"pron": "fi-GUR", "tip": "Türkçedeki ‘figür’ gibi: bir şekil ya da kişi 🧍 Oyun karakteri de bir Figur'dur.", "bonus": "iyi görünmek, iyi izlenim bırakmak = eine gute Figur machen"},
+      "B2-3291": {"pron": "a-va-TAR", "tip": "Sanskritçede yeryüzüne inen bir tanrı 👤 Şimdi ekrandaki sizsiniz.", "warn": "Almancada vurgu son hecededir."},
+      "B1-751": {"pron": "GRA-fik", "tip": "Yunanca graphein (çizmek) kelimesinden ✏️ Türkçedeki ‘grafik’ gibi.", "bonus": "Die Grafik ist super! = Grafikler harika!"},
+      "B1-1366": {"pron": "vir-tu-EL", "tip": "Türkçedeki ‘virtüel’ ve İngilizce virtual'ın ikizi 🥽 VR, virtuelle Realität'tir.", "bonus": "die virtuelle Welt = sanal dünya"},
+      "B1-1220": {"pron": "ZÜH-tih", "tip": "die Sucht (bağımlılık) + -ig 🌀 Sadece bir level daha…", "warn": "nach ile kullanılır: süchtig nach Computerspielen"}
+    },
+    "culture": [
+      "Almanya'da oyun çok büyük bir sektör. Köln, dünyanın en büyük oyun fuarlarından biri olan gamescom'a genellikle yaz sonunda ev sahipliği yapar ve dünyanın her yerinden oyuncular oraya gelir.",
+      "Almanya'da satılan oyunların kutusunda büyük bir USK yaş sınırı etiketi bulunur. Renk ve sayı, oyunun hangi yaşa uygun olduğunu bir bakışta gösterir.",
+      "Almanca oyuncu dili de İngilizceyle doludur. leveln, looten ve der Boss gibi kelimeler olduğu gibi kullanılır; yani oyun oynuyorsanız sandığınızdan çabuk kaparsınız. 🕹️"
+    ],
+    "quiz": {"q": "Bir arkadaşınıza bu oyuna tamamen bağımlı olduğunuzu söylemek istiyorsunuz. Hangi cümle doğru?", "o": ["Ich bin süchtig auf das Spiel.", "Ich bin süchtig von dem Spiel.", "Ich bin süchtig nach dem Spiel."], "a": 2, "why": "süchtig her zaman nach + datif ile kullanılır."},
+    "outro": "Bir dahaki oyununuzda yüksek sesle „Noch eine Runde!“ ve „Der Gegner ist zu stark!“ diye bağırın. Yalnız süchtig olmayın! 🎮"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "医者にかからずに咳止めシロップを買いたいです。薬剤師さんに何と聞きますか？", "o": ["Ich brauche ein Rezept für die Salbe.", "Ist dieser Hustensaft rezeptfrei?", "Die Apotheke hat bis 20 Uhr geöffnet."], "a": 1, "why": "rezeptfrei = 処方箋なしで買える、なので知りたいことをそのまま聞ける文です。"},
     "outro": "今日は „Ist das rezeptfrei?“ と „Hat das Nebenwirkungen?“ を声に出して3回ずつ言ってみましょう。次の薬局がぐっと気楽になりますよ！🍀"
+  },
+  "tr": {
+    "title": "Alman eczanesi için hayatta kalma çantanız: 10 kelime",
+    "hook": "O kırmızı A tabelasının altından geçmeden önce bu kelimeleri yanınıza alın.",
+    "intro": [
+      "Ağrı kesici almak için uğruyorsunuz ve eczacı soruyor: „Nehmen Sie noch andere Medikamente?“ Kafanız bomboş kalıyor; sadece başınızı sallayıp en iyisini umuyorsunuz.",
+      "Bugünkü 10 kelime her Apotheke'de duyacaklarınız. Bunlarla reçete gerekip gerekmediğini sorabilir, bir ilacı ne sıklıkla almanız gerektiğini anlayabilir ve yan etkileri sorabilirsiniz. 💊"
+    ],
+    "words": {
+      "BL-08-01": {"pron": "a-po-TE-ke", "tip": "Eski Türkçedeki ‘ispençiyar’ gibi, İngilizce apothecary ile kuzen 🏥 Büyük kırmızı A tabelasını arayın.", "warn": "Drogerie (dm ya da Rossmann gibi) şampuan ve vitamin satar ama eczane değildir."},
+      "BL-08-02": {"pron": "me-di-ka-MENT", "tip": "Türkçedeki medikal kelimesini hatırlatıyor; anlamı ilaç 💊 Kolay kazanç.", "bonus": "Çoğulu die Medikamente · ağrı kesici = das Schmerzmittel"},
+      "A2-017": {"pron": "tab-LE-te", "tip": "Yuttuğunuz tablet, sonunda bir -e ile 💊 -e onu yenilebilir yapıyor!", "warn": "Tablet bilgisayar ise das Tablet."},
+      "A2-018": {"pron": "re-TSEPT", "tip": "Türkçedeki reçete ile aynı kökten 📝 İkisi de ‘şunu yap’ diyen bir not; Almancada yemek tarifi de Rezept!", "warn": "Sahte arkadaş: fiş, makbuz der Kassenbon ya da die Quittung'dur."},
+      "BL-08-05": {"pron": "re-TSEPT-fray", "tip": "Rezept + frei (-sız, serbest) = reçete gerekmez 🆓 Tezgâhtaki en mutlu kelime.", "bonus": "Zıttı: verschreibungspflichtig = sadece reçeteyle"},
+      "BL-08-06": {"pron": "AYN-ne-men", "tip": "ein (içeri) + nehmen (almak) = içeri almak 👄 Türkçedeki gibi ilaç ‘alınır’, yenmez.", "warn": "Ayrılabilen fiil: Nehmen Sie die Tablette nach dem Essen ein."},
+      "BL-08-07": {"pron": "NE-ben-vir-kunk", "tip": "neben (yan) + Wirkung (etki) = yandaki etki, yani yan etki 😵 -ung, yani die.", "bonus": "İyi etki ediyor = Das Medikament wirkt gut."},
+      "B1-1619": {"pron": "PA-kunks-bay-la-ge", "tip": "Packung (kutu) + Beilage (garnitür) = kutunun yanında servis edilen kâğıt 📄"},
+      "BL-08-04": {"pron": "HUS-ten-zaft", "tip": "Husten (öksürük) + Saft (meyve suyu) = öksürük suyu 🍯 Tadından daha hoş geliyor kulağa.", "warn": "Çoğulu umlautlu: die Hustensäfte"},
+      "BL-08-08": {"pron": "ZAL-be", "tip": "İngilizce salve ile aynı kökten 🧴 Günde iki kez sürün.", "bonus": "merhem sürmek = die Salbe auftragen"}
+    },
+    "culture": [
+      "Alman eczaneleri dışarıdaki kırmızı A tabelası sayesinde kolayca fark edilir. İbuprofen gibi basit ilaçlar bile genellikle sadece orada satılır; süpermarketlerde ya da drogerie'lerde bulamazsınız.",
+      "Gece ya da pazar günü bir şeye mi ihtiyacınız var? Nöbetçi eczaneyi (Notdienst-Apotheke) arayın. Bölgedeki eczaneler sırayla nöbet tutar ve nöbetçi olan genellikle yakındaki her eczanenin kapısında yazılıdır.",
+      "Alman eczacıları da genellikle gerçekten danışmanlık yapar. Belirtilerinizi anlatın, size rezeptfrei bir şey önersinler; bu yüzden doktora gerek olup olmadığından emin değilseniz eczane iyi bir ilk duraktır. 🏥"
+    ],
+    "quiz": {"q": "Doktora gitmeden öksürük şurubu almak istiyorsunuz. Ne sorarsınız?", "o": ["Ich brauche ein Rezept für die Salbe.", "Ist dieser Hustensaft rezeptfrei?", "Die Apotheke hat bis 20 Uhr geöffnet."], "a": 1, "why": "rezeptfrei reçetesiz alabileceğiniz anlamına gelir; tam da öğrenmek istediğiniz şey."},
+    "outro": "Bugün „Ist das rezeptfrei?“ ve „Hat das Nebenwirkungen?“ cümlelerini üçer kez yüksek sesle söyleyin. Bir sonraki eczane ziyaretiniz çok daha kolay geçecek! 🍀"
   }
 }

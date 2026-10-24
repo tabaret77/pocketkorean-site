@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちに時間を聞かれました。時計は2時30分です。何と言いますか？", "o": ["Es ist halb zwei.", "Es ist Viertel nach zwei.", "Es ist halb drei."], "a": 2, "why": "halb drei は「3時の30分前」、つまり2時30分です。"},
     "outro": "今日は時計を見るたびに、ドイツ語で時間を言ってみましょう。halb と Viertel に慣れれば、もう待ち合わせで迷いません！⌚"
+  },
+  "tr": {
+    "title": "Bir daha asla geç kalmayın: zamanla ilgili 10 Almanca kelime",
+    "hook": "‘halb drei’ için 3:30'da geldiyseniz, zaten bir saat geç kaldınız.",
+    "intro": [
+      "Alman bir arkadaşınız ‘Treffen wir uns um halb drei?’ diye soruyor. Siz de üç buçukta kafeye keyifle giriyorsunuz — arkadaşınız kahvesini çoktan bitirmiş. Evet: halb drei 2:30 demek.",
+      "Bugünkü on kelime saati söylemenize ve randevuları idare etmenize yardım edecek. Saatin kaç olduğunu sormak, bir buluşma ayarlamak, ertelemek ve iptal etmek — hepsi Almanca. Zamanı ciddiye alan bir ülkede bunları bilmeye değer! ⏰"
+    ],
+    "words": {
+      "A1-029": {"pron": "UR", "tip": "İngilizce hour ile aynı kökten ⌚ drei Uhr = saat üç; bileğinizdeki Uhr da kol saatiniz.", "warn": "‘Bir saat’ (60 dakika) eine Stunde'dir. Uhr sadece saat aleti ve saat söylerken kullanılır."},
+      "A1-646": {"pron": "UR-tsayt", "tip": "Uhr (saat) + Zeit (zaman) = saatin gösterdiği zaman 🕒", "bonus": "Saat kaç? = Wie viel Uhr ist es?"},
+      "A1-631": {"pron": "HALP", "tip": "İngilizce half 🍕 halb drei = üçe yarım kala = 2:30! Türkçedeki ‘iki buçuk’tan bir sonraki sayıyı söylersiniz.", "warn": "Sayıdan bir çıkarın: halb acht = 7:30, 8:30 değil."},
+      "A2-278": {"pron": "FİR-tel", "tip": "İçinde vier (dört) var — dörtte bir, çeyrek 🕞 Saatin çeyreği 15 dakikadır.", "bonus": "Viertel nach drei = 3:15 (üçü çeyrek geçiyor) · Viertel vor vier = 3:45 (dörde çeyrek var)"},
+      "A1-378": {"pron": "FRÜ", "tip": "Frühstück (kahvaltı) ‘erken lokma’dır 🌅 Onu früh yersiniz!", "bonus": "morgen früh = yarın sabah"},
+      "A1-379": {"pron": "ŞPEYT", "tip": "Yavaşça söyleyin, ‘şpeeeyt’ — uyuyakalmış birinin sesi gibi 😴", "bonus": "Wie spät ist es? = Saat kaç? (kelimesi kelimesine ‘Ne kadar geç?’)"},
+      "A2-078": {"pron": "PÜNKT-lih", "tip": "Punkt = nokta: tam noktasında 🎯 Türkçedeki ‘dakik’ kelimesindeki gibi tam zamanında.", "bonus": "İsmi: die Pünktlichkeit = dakiklik"},
+      "BL-02-02": {"pron": "ter-MİN", "tip": "Almanya'da hayat Termin'lerle döner 📅 Doktor, belediye, kuaför — hepsi için Termin lazım.", "warn": "Yanıltıcı kelime: Termin randevudur, Türkçedeki ‘dönem/terim’ değil (okul dönemi das Semester'dir)."},
+      "A2-173": {"pron": "fer-Şİ-ben", "tip": "schieben = itmek (İngilizce shove gibi) — toplantıyı başka bir güne itersiniz 👉", "bonus": "cumaya ertelemek = auf Freitag verschieben"},
+      "A2-172": {"pron": "AP-za-gen", "tip": "ab (iptal) + sagen (söylemek) = iptal olduğunu söylemek 🙅 Bir daveti kabul etmek zusagen'dir.", "warn": "Ayrılabilen fiil: Ich sage ab. · Ich habe abgesagt."}
+    },
+    "culture": [
+      "Almanya'da zamanında, gerçekten zamanında demektir. Arkadaşlarla birkaç dakika gecikmek genelde sorun olmaz, ama iş toplantıları ya da doktor randevuları için biraz erken gitmek kibarlıktır. Geç kalıyorsanız kısa bir mesaj ya da telefon beklenir.",
+      "Üniversitelerde eğlenceli bir kural vardır: Bir dersin saatinde c.t. (cum tempore) yazıyorsa ders on beş dakika geç başlar; s.t. (sine tempore) ise tam saatinde başlar demektir. Bu on beş dakikaya akademisches Viertel denir.",
+      "Bir randevuya gidemeyecekseniz haber vermeden gitmemezlik yapmayın — absagen! Doktor ve resmî daire randevuları çoğu zaman zor bulunur; erken iptal etmek, başka birinin o yeri almasını sağlar. 📅"
+    ],
+    "quiz": {"q": "Bir arkadaşınız saati soruyor. Saatiniz 2:30'u gösteriyor. Ne dersiniz?", "o": ["Es ist halb zwei.", "Es ist Viertel nach zwei.", "Es ist halb drei."], "a": 2, "why": "halb drei ‘üçe yarım saat kala’ demektir, yani 2:30."},
+    "outro": "Bugün saate her baktığınızda saati Almanca söyleyin. halb ve Viertel doğal gelmeye başlayınca, Alman bir arkadaşa bir daha asla geç kalmazsınız! ⌚"
   }
 }

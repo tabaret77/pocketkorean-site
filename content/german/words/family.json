@@ -8,23 +8,71 @@
       "오늘은 가족을 소개할 때 쓰는 기본 단어 10개예요. 이것만 있으면 사진 한 장 보여 주면서 우리 가족 이야기를 술술 할 수 있어요. 👨‍👩‍👧"
     ],
     "words": {
-      "A1-009": {"pron": "파밀리에", "tip": "영어 family랑 거의 같아요 👪 끝의 -ie는 ‘리에’로 두 번 소리 내요!", "bonus": "성(姓)은 der Familienname"},
-      "A1-010": {"pron": "무터", "tip": "영어 mother, 독일어 Mutter 🤱 ‘무터운’ 사랑이라고 외워요!", "bonus": "친근하게는 die Mama · 어머니의 날은 der Muttertag"},
-      "A1-011": {"pron": "파터", "tip": "V는 f 소리라서 ‘파터’, 영어 father와 똑같죠 👨", "bonus": "친근하게는 der Papa"},
-      "A1-103": {"pron": "엘턴", "tip": "alt(나이 든)의 비교급에서 왔어요 👴 ‘더 나이 든 분들’ = 부모님!", "warn": "복수로만 써요: meine Eltern. 부모 중 한 명은 der Elternteil이에요."},
-      "A1-012": {"pron": "브루더", "tip": "영어 brother와 같은 뿌리 👦 ‘브루더~’ 하고 부르면 형제!", "warn": "독일어엔 형·오빠·남동생 구분이 없어요. 필요하면 mein älterer Bruder / mein jüngerer Bruder 라고 해요."},
-      "A1-013": {"pron": "슈베스터", "tip": "영어 sister랑 비슷하죠 👧 sch만 붙이면 Schwester!", "bonus": "die Krankenschwester = 간호사 (요즘은 die Pflegekraft라고도 해요)"},
-      "A1-484": {"pron": "게슈비스터", "tip": "Ge- + Schwester = 형제자매 다 모아서 한 묶음 👫", "warn": "복수로 써요: Ich habe zwei Geschwister. = 형제자매가 두 명 있어요."},
-      "A1-102": {"pron": "존", "tip": "영어 son이랑 거의 같아요 👶 발음은 길게 ‘조-온’!", "warn": "S가 [z] 소리라서 ‘손’이 아니라 ‘존’이에요."},
-      "A1-101": {"pron": "토흐터", "tip": "영어 daughter와 같은 뿌리 👧 ch에서 목 긁는 소리 ‘흐’를 살려요!"},
-      "A1-488": {"pron": "그로스엘턴", "tip": "groß(큰) + Eltern(부모) = 큰 부모님 👵 영어 grandparents와 같은 원리!", "bonus": "할머니는 die Großmutter(Oma), 할아버지는 der Großvater(Opa)"}
+      "A1-009": {
+        "pron": "파밀리에",
+        "tip": "영어 family랑 거의 같아요 👪 끝의 -ie는 ‘리에’로 두 번 소리 내요!",
+        "bonus": "성(姓)은 der Familienname"
+      },
+      "A1-010": {
+        "pron": "무터",
+        "tip": "영어 mother, 독일어 Mutter 🤱 ‘무터운’ 사랑이라고 외워요!",
+        "bonus": "친근하게는 die Mama · 어머니의 날은 der Muttertag"
+      },
+      "A1-011": {
+        "pron": "파터",
+        "tip": "V는 f 소리라서 ‘파터’, 영어 father와 똑같죠 👨",
+        "bonus": "친근하게는 der Papa"
+      },
+      "A1-103": {
+        "pron": "엘턴",
+        "tip": "alt(나이 든)의 비교급에서 왔어요 👴 ‘더 나이 든 분들’ = 부모님!",
+        "warn": "복수로만 써요: meine Eltern. 부모 중 한 명은 der Elternteil이에요."
+      },
+      "A1-012": {
+        "pron": "브루더",
+        "tip": "영어 brother와 같은 뿌리 👦 ‘브루더~’ 하고 부르면 형제!",
+        "warn": "독일어엔 형·오빠·남동생 구분이 없어요. 필요하면 mein älterer Bruder / mein jüngerer Bruder 라고 해요."
+      },
+      "A1-013": {
+        "pron": "슈베스터",
+        "tip": "영어 sister랑 비슷하죠 👧 sch만 붙이면 Schwester!",
+        "bonus": "die Krankenschwester = 간호사 (요즘은 die Pflegekraft라고도 해요)"
+      },
+      "A1-484": {
+        "pron": "게슈비스터",
+        "tip": "Ge- + Schwester = 형제자매 다 모아서 한 묶음 👫",
+        "warn": "복수로 써요: Ich habe zwei Geschwister. = 형제자매가 두 명 있어요."
+      },
+      "A1-102": {
+        "pron": "존",
+        "tip": "영어 son이랑 거의 같아요 👶 발음은 길게 ‘조-온’!",
+        "warn": "S가 [z] 소리라서 ‘손’이 아니라 ‘존’이에요."
+      },
+      "A1-101": {
+        "pron": "토흐터",
+        "tip": "영어 daughter와 같은 뿌리 👧 ch에서 목 긁는 소리 ‘흐’를 살려요!"
+      },
+      "A1-488": {
+        "pron": "그로스엘턴",
+        "tip": "groß(큰) + Eltern(부모) = 큰 부모님 👵 영어 grandparents와 같은 원리!",
+        "bonus": "할머니는 die Großmutter(Oma), 할아버지는 der Großvater(Opa)"
+      }
     },
     "culture": [
       "독일에서는 가족끼리 서로 du라고 불러요. 배우자의 부모님(Schwiegereltern)도 처음엔 Sie로 부르다가, 보통 상대가 du로 하자고 하면 바꿔요.",
       "어머니의 날(Muttertag)은 5월 둘째 일요일이에요. 그리고 Christi Himmelfahrt(예수 승천일) 휴일은 흔히 Vatertag라고도 불러요. 이날 남자들끼리 수레를 끌고 소풍 가는 모습도 볼 수 있어요.",
       "일요일 오후에 조부모님 댁에 모여 Kaffee und Kuchen(커피와 케이크)을 먹는 집도 많아요. 가족 모임에 초대받으면 작은 꽃다발이나 디저트를 들고 가면 좋아요. 🎂"
     ],
-    "quiz": {"q": "새 동료가 “Hast du Geschwister?”라고 물어요. 언니가 한 명 있을 때 알맞은 대답은?", "o": ["Ja, eine ältere Schwester.", "Ja, meine Eltern wohnen in Seoul.", "Nein, ich bin der Vater."], "a": 0, "why": "Geschwister는 형제자매예요. 언니는 eine ältere Schwester라고 하면 돼요."},
+    "quiz": {
+      "q": "새 동료가 “Hast du Geschwister?”라고 물어요. 언니가 한 명 있을 때 알맞은 대답은?",
+      "o": [
+        "Ja, eine ältere Schwester.",
+        "Ja, meine Eltern wohnen in Seoul.",
+        "Nein, ich bin der Vater."
+      ],
+      "a": 0,
+      "why": "Geschwister는 형제자매예요. 언니는 eine ältere Schwester라고 하면 돼요."
+    },
     "outro": "오늘은 휴대폰 속 가족사진 한 장을 골라서 “Das ist meine Mutter.”처럼 한 사람씩 소리 내 소개해 봐요. 💕"
   },
   "en": {
@@ -35,23 +83,71 @@
       "Today's ten words are the basics for talking about your family. With them, you can show one photo and tell the whole story. 👨‍👩‍👧"
     ],
     "words": {
-      "A1-009": {"pron": "fa-MEE-lee-uh", "tip": "Almost English family 👪 The -ie at the end is two sounds: ‘lee-uh’.", "bonus": "surname = der Familienname"},
-      "A1-010": {"pron": "MOOT-er", "tip": "mother → Mutter: just swap the th for tt 🤱", "bonus": "Informal: die Mama · Mother's Day = der Muttertag"},
-      "A1-011": {"pron": "FAH-ter", "tip": "V sounds like f, so it's basically father 👨", "bonus": "Informal: der Papa"},
-      "A1-103": {"pron": "EL-tern", "tip": "From alt (old) — literally ‘the elders’ 👴", "warn": "Plural only: meine Eltern. One parent = der Elternteil."},
-      "A1-012": {"pron": "BROO-der", "tip": "Same root as brother 👦 Drop the th, add a d!", "bonus": "older brother = mein älterer Bruder · younger = mein jüngerer Bruder"},
-      "A1-013": {"pron": "SHVES-ter", "tip": "sister with a German ‘sch’ in front 👧", "bonus": "die Krankenschwester = nurse (also die Pflegekraft today)"},
-      "A1-484": {"pron": "guh-SHVIS-ter", "tip": "Ge- + Schwester = all the siblings bundled together 👫 Handier than ‘brothers and sisters’!", "warn": "It's plural: Ich habe zwei Geschwister. = I have two siblings."},
-      "A1-102": {"pron": "ZOHN", "tip": "Like son, but with a long ‘oh’ 👶", "warn": "The S sounds like z: ZOHN, not ‘son’."},
-      "A1-101": {"pron": "TOKH-ter", "tip": "Same root as daughter 👧 Give the ch a little throat-clearing scrape!"},
-      "A1-488": {"pron": "GROHSS-el-tern", "tip": "groß (great, big) + Eltern = grandparents 👵 Same idea as English!", "bonus": "grandma = die Großmutter (Oma), grandpa = der Großvater (Opa)"}
+      "A1-009": {
+        "pron": "fa-MEE-lee-uh",
+        "tip": "Almost English family 👪 The -ie at the end is two sounds: ‘lee-uh’.",
+        "bonus": "surname = der Familienname"
+      },
+      "A1-010": {
+        "pron": "MOOT-er",
+        "tip": "mother → Mutter: just swap the th for tt 🤱",
+        "bonus": "Informal: die Mama · Mother's Day = der Muttertag"
+      },
+      "A1-011": {
+        "pron": "FAH-ter",
+        "tip": "V sounds like f, so it's basically father 👨",
+        "bonus": "Informal: der Papa"
+      },
+      "A1-103": {
+        "pron": "EL-tern",
+        "tip": "From alt (old) — literally ‘the elders’ 👴",
+        "warn": "Plural only: meine Eltern. One parent = der Elternteil."
+      },
+      "A1-012": {
+        "pron": "BROO-der",
+        "tip": "Same root as brother 👦 Drop the th, add a d!",
+        "bonus": "older brother = mein älterer Bruder · younger = mein jüngerer Bruder"
+      },
+      "A1-013": {
+        "pron": "SHVES-ter",
+        "tip": "sister with a German ‘sch’ in front 👧",
+        "bonus": "die Krankenschwester = nurse (also die Pflegekraft today)"
+      },
+      "A1-484": {
+        "pron": "guh-SHVIS-ter",
+        "tip": "Ge- + Schwester = all the siblings bundled together 👫 Handier than ‘brothers and sisters’!",
+        "warn": "It's plural: Ich habe zwei Geschwister. = I have two siblings."
+      },
+      "A1-102": {
+        "pron": "ZOHN",
+        "tip": "Like son, but with a long ‘oh’ 👶",
+        "warn": "The S sounds like z: ZOHN, not ‘son’."
+      },
+      "A1-101": {
+        "pron": "TOKH-ter",
+        "tip": "Same root as daughter 👧 Give the ch a little throat-clearing scrape!"
+      },
+      "A1-488": {
+        "pron": "GROHSS-el-tern",
+        "tip": "groß (great, big) + Eltern = grandparents 👵 Same idea as English!",
+        "bonus": "grandma = die Großmutter (Oma), grandpa = der Großvater (Opa)"
+      }
     },
     "culture": [
       "In German families everyone says du to each other. With your partner's parents (Schwiegereltern) you usually start with Sie and switch when they offer du.",
       "Mother's Day (Muttertag) is the second Sunday in May. The public holiday Christi Himmelfahrt (Ascension Day) is often called Vatertag, and you may see groups of men out walking with a handcart.",
       "Plenty of families meet at the grandparents' on Sunday afternoons for Kaffee und Kuchen. If you're invited, bring small flowers or something sweet. 🎂"
     ],
-    "quiz": {"q": "A new colleague asks “Hast du Geschwister?” You have one older sister. What do you say?", "o": ["Ja, eine ältere Schwester.", "Ja, meine Eltern wohnen in Seoul.", "Nein, ich bin der Vater."], "a": 0, "why": "Geschwister means siblings, and an older sister is eine ältere Schwester."},
+    "quiz": {
+      "q": "A new colleague asks “Hast du Geschwister?” You have one older sister. What do you say?",
+      "o": [
+        "Ja, eine ältere Schwester.",
+        "Ja, meine Eltern wohnen in Seoul.",
+        "Nein, ich bin der Vater."
+      ],
+      "a": 0,
+      "why": "Geschwister means siblings, and an older sister is eine ältere Schwester."
+    },
     "outro": "Pick a family photo on your phone and introduce each person out loud: “Das ist meine Mutter.” 💕"
   },
   "ja": {
@@ -62,23 +158,146 @@
       "今日は家族を紹介するための基本単語10個です。これがあれば、写真1枚で家族の話がすらすらできますよ。👨‍👩‍👧"
     ],
     "words": {
-      "A1-009": {"pron": "ファミーリエ", "tip": "英語の family とほぼ同じ 👪 語末の -ie は「リエ」と2音で読みます！", "bonus": "名字は der Familienname"},
-      "A1-010": {"pron": "ムッター", "tip": "英語 mother の th を tt に替えれば Mutter 🤱", "bonus": "くだけた言い方は die Mama · 母の日は der Muttertag"},
-      "A1-011": {"pron": "ファーター", "tip": "V は f の音なので「ファーター」、英語の father そっくり 👨", "bonus": "くだけた言い方は der Papa"},
-      "A1-103": {"pron": "エルターン", "tip": "alt（年老いた）の比較級から 👴「年上の人たち」= 両親！", "warn": "複数形だけで使います：meine Eltern。親の一方は der Elternteil です。"},
-      "A1-012": {"pron": "ブルーダー", "tip": "英語の brother と同じ語源 👦 th が d になっただけ！", "warn": "ドイツ語には兄・弟の区別がありません。必要なら mein älterer Bruder / mein jüngerer Bruder と言います。"},
-      "A1-013": {"pron": "シュヴェスター", "tip": "英語の sister に sch を付けた感じ 👧", "bonus": "die Krankenschwester = 看護師（今は die Pflegekraft とも言います）"},
-      "A1-484": {"pron": "ゲシュヴィスター", "tip": "Ge- + Schwester = 兄弟姉妹をひとまとめに 👫", "warn": "複数形で使います：Ich habe zwei Geschwister. = 兄弟が2人います。"},
-      "A1-102": {"pron": "ゾーン", "tip": "英語の son に似ていますが、長く「ゾーン」👶", "warn": "S は［z］の音なので「ソン」ではなく「ゾーン」です。"},
-      "A1-101": {"pron": "トホター", "tip": "英語の daughter と同じ語源 👧 ch はのどの奥で「ホ」！"},
-      "A1-488": {"pron": "グロースエルターン", "tip": "groß（大きい）+ Eltern（両親）= 祖父母 👵 英語の grandparents と同じ発想！", "bonus": "おばあちゃんは die Großmutter（Oma）、おじいちゃんは der Großvater（Opa）"}
+      "A1-009": {
+        "pron": "ファミーリエ",
+        "tip": "英語の family とほぼ同じ 👪 語末の -ie は「リエ」と2音で読みます！",
+        "bonus": "名字は der Familienname"
+      },
+      "A1-010": {
+        "pron": "ムッター",
+        "tip": "英語 mother の th を tt に替えれば Mutter 🤱",
+        "bonus": "くだけた言い方は die Mama · 母の日は der Muttertag"
+      },
+      "A1-011": {
+        "pron": "ファーター",
+        "tip": "V は f の音なので「ファーター」、英語の father そっくり 👨",
+        "bonus": "くだけた言い方は der Papa"
+      },
+      "A1-103": {
+        "pron": "エルターン",
+        "tip": "alt（年老いた）の比較級から 👴「年上の人たち」= 両親！",
+        "warn": "複数形だけで使います：meine Eltern。親の一方は der Elternteil です。"
+      },
+      "A1-012": {
+        "pron": "ブルーダー",
+        "tip": "英語の brother と同じ語源 👦 th が d になっただけ！",
+        "warn": "ドイツ語には兄・弟の区別がありません。必要なら mein älterer Bruder / mein jüngerer Bruder と言います。"
+      },
+      "A1-013": {
+        "pron": "シュヴェスター",
+        "tip": "英語の sister に sch を付けた感じ 👧",
+        "bonus": "die Krankenschwester = 看護師（今は die Pflegekraft とも言います）"
+      },
+      "A1-484": {
+        "pron": "ゲシュヴィスター",
+        "tip": "Ge- + Schwester = 兄弟姉妹をひとまとめに 👫",
+        "warn": "複数形で使います：Ich habe zwei Geschwister. = 兄弟が2人います。"
+      },
+      "A1-102": {
+        "pron": "ゾーン",
+        "tip": "英語の son に似ていますが、長く「ゾーン」👶",
+        "warn": "S は［z］の音なので「ソン」ではなく「ゾーン」です。"
+      },
+      "A1-101": {
+        "pron": "トホター",
+        "tip": "英語の daughter と同じ語源 👧 ch はのどの奥で「ホ」！"
+      },
+      "A1-488": {
+        "pron": "グロースエルターン",
+        "tip": "groß（大きい）+ Eltern（両親）= 祖父母 👵 英語の grandparents と同じ発想！",
+        "bonus": "おばあちゃんは die Großmutter（Oma）、おじいちゃんは der Großvater（Opa）"
+      }
     },
     "culture": [
       "ドイツの家族の中では、みんな du で呼び合います。パートナーの両親（Schwiegereltern）には最初は Sie を使い、相手から du にしようと言われたら切り替えるのがふつうです。",
       "母の日（Muttertag）は5月の第2日曜日です。そして祝日の Christi Himmelfahrt（キリスト昇天祭）はよく Vatertag とも呼ばれ、男性グループが手押し車を引いて出かける姿も見られます。",
       "日曜の午後に祖父母の家に集まって Kaffee und Kuchen（コーヒーとケーキ）を楽しむ家庭も多いです。招かれたら、小さな花束やお菓子を持って行くと喜ばれます。🎂"
     ],
-    "quiz": {"q": "新しい同僚に「Hast du Geschwister?」と聞かれました。姉が1人いるとき、正しい答えは？", "o": ["Ja, eine ältere Schwester.", "Ja, meine Eltern wohnen in Seoul.", "Nein, ich bin der Vater."], "a": 0, "why": "Geschwister は兄弟姉妹のこと。姉は eine ältere Schwester と言えばOKです。"},
+    "quiz": {
+      "q": "新しい同僚に「Hast du Geschwister?」と聞かれました。姉が1人いるとき、正しい答えは？",
+      "o": [
+        "Ja, eine ältere Schwester.",
+        "Ja, meine Eltern wohnen in Seoul.",
+        "Nein, ich bin der Vater."
+      ],
+      "a": 0,
+      "why": "Geschwister は兄弟姉妹のこと。姉は eine ältere Schwester と言えばOKです。"
+    },
     "outro": "スマホの家族写真を1枚選んで、「Das ist meine Mutter.」のように一人ずつ声に出して紹介してみましょう。💕"
+  },
+  "tr": {
+    "title": "Ailenizi Almanca anlatın: Mutlaka bilmeniz gereken 10 kelime",
+    "hook": "Alman bir arkadaşınız “Hast du Geschwister?” diye sorduğunda hemen cevap verebilir misiniz?",
+    "intro": [
+      "Almanya'da arkadaş edinmeye başladığınızda hep aynı sorular gelir: “Wo wohnt deine Familie?” “Hast du Geschwister?” Telefonunuzdan bir aile fotoğrafı açıyorsunuz ve birden anne baba ya da kız kardeş nasıl deniyordu, hatırlayamıyorsunuz.",
+      "Bugünkü on kelime ailenizden söz etmenin temelleri. Bunlarla tek bir fotoğraf gösterip bütün hikâyeyi anlatabilirsiniz. 👨‍👩‍👧"
+    ],
+    "words": {
+      "A1-009": {
+        "pron": "fa-Mİ-li-e",
+        "tip": "Türkçedeki “familya” ile neredeyse aynı 👪 Sondaki -ie iki ses: ‘li-e’.",
+        "bonus": "soyadı = der Familienname"
+      },
+      "A1-010": {
+        "pron": "MUT-tır",
+        "tip": "İngilizce mother → Mutter: th yerine tt koyun 🤱",
+        "bonus": "Samimi: die Mama · Anneler Günü = der Muttertag"
+      },
+      "A1-011": {
+        "pron": "FA-tır",
+        "tip": "V “f” diye okunur, yani aslında İngilizce father 👨",
+        "bonus": "Samimi: der Papa"
+      },
+      "A1-103": {
+        "pron": "EL-tırn",
+        "tip": "alt (yaşlı) kelimesinden; kelimesi kelimesine ‘büyükler’ 👴",
+        "warn": "Yalnızca çoğul: meine Eltern. Ebeveynlerden biri = der Elternteil."
+      },
+      "A1-012": {
+        "pron": "BRU-dır",
+        "tip": "İngilizce brother ile aynı kökten 👦 th'yi atın, d ekleyin!",
+        "bonus": "ağabey = mein älterer Bruder · küçük erkek kardeş = mein jüngerer Bruder"
+      },
+      "A1-013": {
+        "pron": "ŞVES-tır",
+        "tip": "Başına Alman ‘ş’si eklenmiş İngilizce sister 👧",
+        "bonus": "die Krankenschwester = hemşire (bugün die Pflegekraft da denir)"
+      },
+      "A1-484": {
+        "pron": "ge-ŞVİS-tır",
+        "tip": "Ge- + Schwester = bütün kardeşler bir arada 👫 Türkçedeki “kardeşler” gibi, kız erkek ayırmadan!",
+        "warn": "Çoğuldur: Ich habe zwei Geschwister. = İki kardeşim var."
+      },
+      "A1-102": {
+        "pron": "ZON",
+        "tip": "İngilizce son gibi, ama uzun bir ‘o’ ile 👶",
+        "warn": "S “z” diye okunur: ZON, ‘son’ değil."
+      },
+      "A1-101": {
+        "pron": "TOH-tır",
+        "tip": "İngilizce daughter ile aynı kökten 👧 ch'yi hafifçe boğazdan hırıldatın!"
+      },
+      "A1-488": {
+        "pron": "GROS-el-tırn",
+        "tip": "groß (büyük) + Eltern = büyükanne ve büyükbaba 👵 Türkçedeki “büyük-” ile aynı mantık!",
+        "bonus": "büyükanne = die Großmutter (Oma), büyükbaba = der Großvater (Opa)"
+      }
+    },
+    "culture": [
+      "Alman ailelerinde herkes birbirine du der. Partnerinizin anne babasıyla (Schwiegereltern) genellikle Sie ile başlanır ve onlar du önerdiğinde geçilir.",
+      "Anneler Günü (Muttertag) mayısın ikinci pazarıdır. Resmî tatil olan Christi Himmelfahrt'a (İsa'nın Göğe Yükselişi) çoğu zaman Vatertag denir; el arabasıyla yürüyüşe çıkmış erkek gruplarını görebilirsiniz.",
+      "Pek çok aile pazar öğleden sonraları Kaffee und Kuchen için büyükanne ile büyükbabada toplanır. Davet edilirseniz küçük bir demet çiçek ya da tatlı bir şey götürün. 🎂"
+    ],
+    "quiz": {
+      "q": "Yeni bir iş arkadaşınız “Hast du Geschwister?” diye soruyor. Bir ablanız var. Ne dersiniz?",
+      "o": [
+        "Ja, eine ältere Schwester.",
+        "Ja, meine Eltern wohnen in Seoul.",
+        "Nein, ich bin der Vater."
+      ],
+      "a": 0,
+      "why": "Geschwister kardeşler demektir; abla da eine ältere Schwester."
+    },
+    "outro": "Telefonunuzdan bir aile fotoğrafı seçin ve herkesi yüksek sesle tanıtın: “Das ist meine Mutter.” 💕"
   }
 }

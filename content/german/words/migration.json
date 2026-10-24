@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちが両親の話をしています。空欄に入るのは？「Meine Eltern ___ 1990 nach Deutschland eingewandert.」", "o": ["sind", "haben", "werden"], "a": 0, "why": "einwandern は場所の移動を表すので、完了形は sein を使います：sind eingewandert."},
     "outro": "今夜のドイツのニュースの見出しで、今日の単語をひとつでも探してみましょう。そして「Ich bin 20__ nach Deutschland gekommen.」のように、自分の話もひとこと言ってみてくださいね！🌍"
+  },
+  "tr": {
+    "title": "Haberleri anlamak için göç ve uyum üzerine 10 Almanca kelime",
+    "hook": "Almanya'da bir süre yaşarsanız bu kelimelerle her yerde karşılaşırsınız: haberlerde, resmî dairelerde, hatta kendi evraklarınızda.",
+    "intro": [
+      "Almanca akşam haberlerini açın; Migration ve Integration gibi kelimeler tekrar tekrar karşınıza çıkar. Vizenizi uzatırken ya da dil okulunuzdan gelen bir duyuruyu okurken de durum aynı. Almanya'da yaşayan bir yabancıysanız bu, sadece başkalarının hikâyesi değildir.",
+      "Bugünkü 10 kelime göç ve uyum üzerine. Bunlarla haber başlıklarını takip edebilir ve uyum kursu ya da vatandaşlığa geçiş gibi kendi hayatınıza dokunabilecek konuları Almanca konuşabilirsiniz. 🌏"
+    ],
+    "words": {
+      "B1-951": {"pron": "mi-gra-TSYON", "tip": "-tion ile biten isimler her zaman die 🌍 Türkçedeki migrasyon ile aynı.", "bonus": "göçmen = der Migrant / die Migrantin"},
+      "B2-622": {"pron": "AYN-van-de-rer", "tip": "ein (içeri) + wandern (gezmek) + -er (kişi) = içeri doğru yol alan kişi 🧳", "bonus": "Ülkeden ayrılan kişi der Auswanderer · kadın: die Einwanderin"},
+      "B2-621": {"pron": "AYN-van-dern", "tip": "İçeri (ein) doğru yürümek (wandern) 🚶 Doğa yürüyüşü anlamındaki wandern ile aynı fiil.", "warn": "Ayrılabilen fiil ve Perfekt'i sein ile yapılır: Sie ist 2015 eingewandert.", "bonus": "Zıttı: auswandern = (başka ülkeye) göç etmek"},
+      "B2-227": {"pron": "FLÜHT-link", "tip": "die Flucht (kaçış) + -ling (kişi) 🕊️ -ling ile biten isimler der alır.", "bonus": "Medyada sık sık die Geflüchteten (kaçmak zorunda kalan insanlar) da denir."},
+      "B1-454": {"pron": "a-ZÜL", "tip": "Yunanca asylon, ‘yağmalanamayan yer’ kelimesinden 🛡️ İngilizce asylum ile aynı kök.", "bonus": "sığınma başvurusu yapmak = Asyl beantragen"},
+      "B2-118": {"pron": "in-te-gra-TSYON", "tip": "Latince integrare, ‘bütün yapmak’ kökünden 🧩 -tion, yine die!", "bonus": "Fiili: sich integrieren = uyum sağlamak, alışmak"},
+      "B2-636": {"pron": "in-te-gra-TSYONS-kurs", "tip": "Integration + s + Kurs 📚 Sonu der Kurs olduğu için der.", "bonus": "Dil bölümünden sonra gündelik hayat, tarih ve toplum üzerine der Orientierungskurs gelir."},
+      "B2-632": {"pron": "ŞTATS-bür-ger-şaft", "tip": "Staat (devlet) + Bürger (vatandaş) + -schaft 🏛️ -schaft ile biten kelimeler her zaman die.", "bonus": "Resmî formlarda daha çok die Staatsangehörigkeit görürsünüz."},
+      "B2-633": {"pron": "AYN-bür-ge-runk", "tip": "Bürger'lerden biri olmak 🏰 Bürger aslında Burg'un (kale) içinde yaşayan kişiydi.", "bonus": "vatandaşlık testi = der Einbürgerungstest"},
+      "B2-637": {"pron": "mi-gra-TSYONS-hin-ter-grunt", "tip": "hinter (arka) + Grund (zemin) = arka plan 🌏 Türkçedeki ‘arka plan’ gibi, parça parça.", "bonus": "Menschen mit Migrationshintergrund = göçmen kökenli insanlar"}
+    },
+    "culture": [
+      "Almanya uzun zamandır bir göç ülkesidir. 1950'lerden 1970'lere kadar İtalya, Yunanistan ve Türkiye gibi ülkelerden pek çok ‘Gastarbeiter’ (misafir işçi) geldi; onların çocukları ve torunları bugün Alman toplumunun önemli bir parçasıdır.",
+      "Uyum kursları (Integrationskurs) Almancanın yanı sıra Almanya'daki gündelik hayatı, tarihi ve siyaseti de öğretir. Kimlerin katılabileceği ve hangi desteklerin olduğu oturum durumunuza bağlıdır; en iyisi bölgenizdeki yabancılar dairesine (Ausländerbehörde) sormaktır.",
+      "Bazı insanlar bugün Migrationshintergrund yerine ‘Einwanderungsgeschichte’ (göç hikâyesi) gibi ifadeleri tercih ediyor. Kelime seçiminin önemli olduğu bir konu bu. 🤝"
+    ],
+    "quiz": {"q": "Bir arkadaşınız ailesinden bahsediyor. Boşluğu doldurun: ‘Meine Eltern ___ 1990 nach Deutschland eingewandert.’", "o": ["sind", "haben", "werden"], "a": 0, "why": "einwandern bir yerden başka bir yere hareketi anlatır, bu yüzden Perfekt'i sein ile kurulur: sind eingewandert."},
+    "outro": "Bu akşam bir Almanca haber başlığında bugünün kelimelerinden en az birini arayın. Sonra kendi hikâyenizi tek cümleyle anlatın: ‘Ich bin 20__ nach Deutschland gekommen.’ 🌍"
   }
 }

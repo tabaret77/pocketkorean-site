@@ -8,23 +8,72 @@
       "그래서 오늘은 미용실에서 꼭 필요한 단어 10개를 준비했어요. 이 10개면 예약하고, 얼마나 자를지 말하고, 염색이나 드라이까지 부탁할 수 있어요. 이제 손짓 대신 말로 해 봐요! 💇"
     ],
     "words": {
-      "BL-16-01": {"pron": "프리죄어", "tip": "프랑스어 friser(곱슬하게 하다)에서 왔어요 ✂️ 머리를 말아 주던 사람이 Friseur!", "bonus": "‘미용실에서’는 beim Friseur, ‘미용실에 가다’는 zum Friseur gehen"},
-      "BL-16-04": {"pron": "하르", "tip": "영어 hair랑 뿌리가 같아요 💁 h만 빼면 소리도 비슷!", "warn": "내 머리카락 전체를 말할 땐 보통 복수 die Haare를 써요: Meine Haare sind lang."},
-      "BL-11-07": {"pron": "슈나이덴", "tip": "‘슈나이~’ 하고 가위가 지나가는 소리 ✂️ 빵도 머리도 schneiden!", "bonus": "미용실에서는 lassen을 붙여요: Ich lasse mir die Haare schneiden.", "warn": "과거분사가 불규칙이에요: hat geschnitten"},
-      "BL-16-03": {"pron": "하르슈니트", "tip": "Haar(머리) + Schnitt(자른 것) = 커트 💈 schneiden에서 나온 Schnitt!"},
-      "BL-16-02": {"pron": "프리주어", "tip": "Friseur가 만들어 주는 작품이 Frisur 💇‍♀️ 사람은 -eur, 결과물은 -ur!", "bonus": "칭찬 한마디: Die Frisur steht dir gut! = 그 머리 잘 어울려!"},
-      "BL-16-08": {"pron": "쿠어츠", "tip": "영어 curt(퉁명스러운, 짧은)와 친척이에요 📏 짧게, 짧게!", "bonus": "‘조금만 더 짧게’는 Ein bisschen kürzer, bitte."},
-      "BL-16-07": {"pron": "푀넨", "tip": "알프스의 따뜻한 바람 Föhn이 그대로 드라이어 이름이 됐어요 🌬️", "bonus": "명사 der Föhn = 헤어드라이어"},
-      "BL-16-06": {"pron": "패어벤", "tip": "die Farbe(색) → färben(색을 입히다) 🎨 a에 점 두 개 찍으면 동사!", "bonus": "Ich möchte meine Haare blond färben lassen. = 금발로 염색하고 싶어요."},
-      "BL-16-09": {"pron": "포니", "tip": "조랑말 앞머리처럼 이마를 덮는 머리 🐴 그래서 Pony!", "warn": "der Pony = 앞머리, das Pony = 조랑말. 관사 하나로 뜻이 바뀌어요."},
-      "BL-16-10": {"pron": "로키히", "tip": "die Locke(곱슬 한 가닥) + -ig 🌀 영어 lock of hair의 lock이에요!", "bonus": "반대말: glatt = 생머리, 직모"}
+      "BL-16-01": {
+        "pron": "프리죄어",
+        "tip": "프랑스어 friser(곱슬하게 하다)에서 왔어요 ✂️ 머리를 말아 주던 사람이 Friseur!",
+        "bonus": "‘미용실에서’는 beim Friseur, ‘미용실에 가다’는 zum Friseur gehen"
+      },
+      "BL-16-04": {
+        "pron": "하르",
+        "tip": "영어 hair랑 뿌리가 같아요 💁 h만 빼면 소리도 비슷!",
+        "warn": "내 머리카락 전체를 말할 땐 보통 복수 die Haare를 써요: Meine Haare sind lang."
+      },
+      "BL-11-07": {
+        "pron": "슈나이덴",
+        "tip": "‘슈나이~’ 하고 가위가 지나가는 소리 ✂️ 빵도 머리도 schneiden!",
+        "bonus": "미용실에서는 lassen을 붙여요: Ich lasse mir die Haare schneiden.",
+        "warn": "과거분사가 불규칙이에요: hat geschnitten"
+      },
+      "BL-16-03": {
+        "pron": "하르슈니트",
+        "tip": "Haar(머리) + Schnitt(자른 것) = 커트 💈 schneiden에서 나온 Schnitt!"
+      },
+      "BL-16-02": {
+        "pron": "프리주어",
+        "tip": "Friseur가 만들어 주는 작품이 Frisur 💇‍♀️ 사람은 -eur, 결과물은 -ur!",
+        "bonus": "칭찬 한마디: Die Frisur steht dir gut! = 그 머리 잘 어울려!"
+      },
+      "BL-16-08": {
+        "pron": "쿠어츠",
+        "tip": "영어 curt(퉁명스러운, 짧은)와 친척이에요 📏 짧게, 짧게!",
+        "bonus": "‘조금만 더 짧게’는 Ein bisschen kürzer, bitte."
+      },
+      "BL-16-07": {
+        "pron": "푀넨",
+        "tip": "알프스의 따뜻한 바람 Föhn이 그대로 드라이어 이름이 됐어요 🌬️",
+        "bonus": "명사 der Föhn = 헤어드라이어"
+      },
+      "BL-16-06": {
+        "pron": "패어벤",
+        "tip": "die Farbe(색) → färben(색을 입히다) 🎨 a에 점 두 개 찍으면 동사!",
+        "bonus": "Ich möchte meine Haare blond färben lassen. = 금발로 염색하고 싶어요."
+      },
+      "BL-16-09": {
+        "pron": "포니",
+        "tip": "조랑말 앞머리처럼 이마를 덮는 머리 🐴 그래서 Pony!",
+        "warn": "der Pony = 앞머리, das Pony = 조랑말. 관사 하나로 뜻이 바뀌어요."
+      },
+      "BL-16-10": {
+        "pron": "로키히",
+        "tip": "die Locke(곱슬 한 가닥) + -ig 🌀 영어 lock of hair의 lock이에요!",
+        "bonus": "반대말: glatt = 생머리, 직모"
+      }
     },
     "culture": [
       "독일 미용실은 예약(Termin)하고 가는 게 기본이에요. 요즘은 온라인 예약도 많지만, 동네 미용실은 여전히 전화로 잡는 곳이 많아요. 예약 없이 가도 되는 체인점도 있어요.",
       "메뉴판에서 자주 보는 말이 Waschen, Schneiden, Föhnen이에요. 감고, 자르고, 말리기 세트라는 뜻이에요. 가격은 머리 길이에 따라 달라지는 경우가 많아서 kurz인지 lang인지 먼저 물어보기도 해요.",
       "팁은 의무는 아니지만, 마음에 들면 금액을 조금 올려서 내는 사람이 많아요. 그리고 전통적으로 월요일에 쉬는 미용실이 많으니 가기 전에 꼭 확인해요! 💈"
     ],
-    "quiz": {"q": "앞머리만 살짝 자르고 싶어요. 미용사에게 뭐라고 할까요?", "o": ["Bitte die Haare blond färben.", "Können Sie mir den Pony schneiden?", "Soll ich Ihre Haare föhnen?"], "a": 1, "why": "der Pony는 앞머리, schneiden은 자르다라서 ‘앞머리 좀 잘라 주실래요?’라는 뜻이에요."},
+    "quiz": {
+      "q": "앞머리만 살짝 자르고 싶어요. 미용사에게 뭐라고 할까요?",
+      "o": [
+        "Bitte die Haare blond färben.",
+        "Können Sie mir den Pony schneiden?",
+        "Soll ich Ihre Haare föhnen?"
+      ],
+      "a": 1,
+      "why": "der Pony는 앞머리, schneiden은 자르다라서 ‘앞머리 좀 잘라 주실래요?’라는 뜻이에요."
+    },
     "outro": "거울 앞에서 „Bitte nur ein bisschen kürzer“를 세 번 말해 봐요. 다음 미용실은 손짓 없이 성공하기로 해요! ✂️"
   },
   "en": {
@@ -35,23 +84,72 @@
       "So today we've got ten words you really need at the hairdresser's. With them you can book, say how much to cut, and ask for colour or a blow-dry. Time to swap the hand signals for words! 💇"
     ],
     "words": {
-      "BL-16-01": {"pron": "free-ZUR", "tip": "From French friser, to curl ✂️ The person who curled your hair was the Friseur.", "bonus": "at the hairdresser's = beim Friseur · to go to the hairdresser's = zum Friseur gehen"},
-      "BL-16-04": {"pron": "HAAR", "tip": "Same root as English hair 💁 Drop the i and you're nearly there.", "warn": "For the hair on your head, Germans usually use the plural die Haare: Meine Haare sind lang."},
-      "BL-11-07": {"pron": "SHNY-den", "tip": "Hear the scissors going ‘shny-shny’ ✂️ Bread or hair, you schneiden it.", "bonus": "At the salon, add lassen: Ich lasse mir die Haare schneiden. = I'm having my hair cut.", "warn": "Irregular past participle: hat geschnitten"},
-      "BL-16-03": {"pron": "HAAR-shnit", "tip": "Haar (hair) + Schnitt (cut) = haircut 💈 Schnitt comes straight from schneiden."},
-      "BL-16-02": {"pron": "free-ZOOR", "tip": "The Friseur makes it, the Frisur is the result 💇‍♀️ Person -eur, product -ur!", "bonus": "A nice compliment: Die Frisur steht dir gut! = That hairstyle suits you!"},
-      "BL-16-08": {"pron": "KOORTS", "tip": "A cousin of English curt — short and to the point 📏", "bonus": "‘Just a little shorter’ = Ein bisschen kürzer, bitte."},
-      "BL-16-07": {"pron": "FUR-nen", "tip": "The Föhn is a warm Alpine wind — and Germans named the hairdryer after it 🌬️", "bonus": "The noun der Föhn = hairdryer"},
-      "BL-16-06": {"pron": "FAIR-ben", "tip": "die Farbe (colour) → färben (to colour) 🎨 Add two dots and it becomes a verb.", "bonus": "Ich möchte meine Haare blond färben lassen. = I'd like to have my hair dyed blonde."},
-      "BL-16-09": {"pron": "PON-ee", "tip": "Like a pony's forelock flopping over its forehead 🐴", "warn": "der Pony = fringe, das Pony = pony. One article changes everything."},
-      "BL-16-10": {"pron": "LOCK-ish", "tip": "die Locke (curl) + -ig 🌀 It's the lock in ‘a lock of hair’.", "bonus": "Opposite: glatt = straight"}
+      "BL-16-01": {
+        "pron": "free-ZUR",
+        "tip": "From French friser, to curl ✂️ The person who curled your hair was the Friseur.",
+        "bonus": "at the hairdresser's = beim Friseur · to go to the hairdresser's = zum Friseur gehen"
+      },
+      "BL-16-04": {
+        "pron": "HAAR",
+        "tip": "Same root as English hair 💁 Drop the i and you're nearly there.",
+        "warn": "For the hair on your head, Germans usually use the plural die Haare: Meine Haare sind lang."
+      },
+      "BL-11-07": {
+        "pron": "SHNY-den",
+        "tip": "Hear the scissors going ‘shny-shny’ ✂️ Bread or hair, you schneiden it.",
+        "bonus": "At the salon, add lassen: Ich lasse mir die Haare schneiden. = I'm having my hair cut.",
+        "warn": "Irregular past participle: hat geschnitten"
+      },
+      "BL-16-03": {
+        "pron": "HAAR-shnit",
+        "tip": "Haar (hair) + Schnitt (cut) = haircut 💈 Schnitt comes straight from schneiden."
+      },
+      "BL-16-02": {
+        "pron": "free-ZOOR",
+        "tip": "The Friseur makes it, the Frisur is the result 💇‍♀️ Person -eur, product -ur!",
+        "bonus": "A nice compliment: Die Frisur steht dir gut! = That hairstyle suits you!"
+      },
+      "BL-16-08": {
+        "pron": "KOORTS",
+        "tip": "A cousin of English curt — short and to the point 📏",
+        "bonus": "‘Just a little shorter’ = Ein bisschen kürzer, bitte."
+      },
+      "BL-16-07": {
+        "pron": "FUR-nen",
+        "tip": "The Föhn is a warm Alpine wind — and Germans named the hairdryer after it 🌬️",
+        "bonus": "The noun der Föhn = hairdryer"
+      },
+      "BL-16-06": {
+        "pron": "FAIR-ben",
+        "tip": "die Farbe (colour) → färben (to colour) 🎨 Add two dots and it becomes a verb.",
+        "bonus": "Ich möchte meine Haare blond färben lassen. = I'd like to have my hair dyed blonde."
+      },
+      "BL-16-09": {
+        "pron": "PON-ee",
+        "tip": "Like a pony's forelock flopping over its forehead 🐴",
+        "warn": "der Pony = fringe, das Pony = pony. One article changes everything."
+      },
+      "BL-16-10": {
+        "pron": "LOCK-ish",
+        "tip": "die Locke (curl) + -ig 🌀 It's the lock in ‘a lock of hair’.",
+        "bonus": "Opposite: glatt = straight"
+      }
     },
     "culture": [
       "In Germany you normally book an appointment (Termin) at the hairdresser's. Online booking is common now, but many small local salons still prefer a phone call. Some chains also take walk-ins.",
       "On price lists you'll often see Waschen, Schneiden, Föhnen — wash, cut and blow-dry as a package. Prices often depend on hair length, so they may ask whether it's kurz or lang first.",
       "Tipping isn't required, but if you're happy, rounding up a little is common. And traditionally many salons are closed on Mondays, so check before you go! 💈"
     ],
-    "quiz": {"q": "You only want your fringe trimmed. What do you say?", "o": ["Bitte die Haare blond färben.", "Können Sie mir den Pony schneiden?", "Soll ich Ihre Haare föhnen?"], "a": 1, "why": "der Pony is the fringe and schneiden means to cut, so this asks ‘Could you cut my fringe?’"},
+    "quiz": {
+      "q": "You only want your fringe trimmed. What do you say?",
+      "o": [
+        "Bitte die Haare blond färben.",
+        "Können Sie mir den Pony schneiden?",
+        "Soll ich Ihre Haare föhnen?"
+      ],
+      "a": 1,
+      "why": "der Pony is the fringe and schneiden means to cut, so this asks ‘Could you cut my fringe?’"
+    },
     "outro": "Say „Bitte nur ein bisschen kürzer“ three times to the mirror. Next salon visit: no miming allowed! ✂️"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "そこで今日は、美容院で必ず役に立つ単語を10個用意しました。この10個があれば、予約も、どれくらい切るかも、カラーやブローのお願いもできます。ジェスチャーは卒業しましょう！💇"
     ],
     "words": {
-      "BL-16-01": {"pron": "フリゼーア", "tip": "フランス語 friser（髪をカールさせる）から ✂️ 髪を巻いてくれる人が Friseur！", "bonus": "「美容院で」は beim Friseur、「美容院に行く」は zum Friseur gehen"},
-      "BL-16-04": {"pron": "ハール", "tip": "英語の hair と同じ語源 💁 i を取ればほぼ同じです。", "warn": "自分の髪全体を言うときはふつう複数形 die Haare：Meine Haare sind lang."},
-      "BL-11-07": {"pron": "シュナイデン", "tip": "「シュナイ〜」とハサミが通る音 ✂️ パンも髪も schneiden！", "bonus": "美容院では lassen を使います：Ich lasse mir die Haare schneiden.", "warn": "過去分詞は不規則：hat geschnitten"},
-      "BL-16-03": {"pron": "ハールシュニット", "tip": "Haar（髪）+ Schnitt（切ったもの）= カット 💈 Schnitt は schneiden から！"},
-      "BL-16-02": {"pron": "フリズーア", "tip": "Friseur が作る作品が Frisur 💇‍♀️ 人は -eur、仕上がりは -ur！", "bonus": "ほめ言葉：Die Frisur steht dir gut! = その髪型、似合ってるね！"},
-      "BL-16-08": {"pron": "クルツ", "tip": "英語の curt（そっけない、短い）の親戚 📏 短く、手短に！", "bonus": "「もう少しだけ短く」は Ein bisschen kürzer, bitte."},
-      "BL-16-07": {"pron": "フェーネン", "tip": "アルプスの暖かい風 Föhn が、そのままドライヤーの名前に 🌬️", "bonus": "名詞 der Föhn = ヘアドライヤー"},
-      "BL-16-06": {"pron": "フェルベン", "tip": "die Farbe（色）→ färben（色をつける）🎨 点を2つ足すと動詞に！", "bonus": "Ich möchte meine Haare blond färben lassen. = 金髪に染めてもらいたいです。"},
-      "BL-16-09": {"pron": "ポニー", "tip": "ポニーのたてがみのように額にかかる髪 🐴 だから Pony！", "warn": "der Pony = 前髪、das Pony = ポニー。冠詞ひとつで意味が変わります。"},
-      "BL-16-10": {"pron": "ロッキヒ", "tip": "die Locke（巻き毛）+ -ig 🌀 英語の a lock of hair の lock です！", "bonus": "反対語：glatt = ストレートの"}
+      "BL-16-01": {
+        "pron": "フリゼーア",
+        "tip": "フランス語 friser（髪をカールさせる）から ✂️ 髪を巻いてくれる人が Friseur！",
+        "bonus": "「美容院で」は beim Friseur、「美容院に行く」は zum Friseur gehen"
+      },
+      "BL-16-04": {
+        "pron": "ハール",
+        "tip": "英語の hair と同じ語源 💁 i を取ればほぼ同じです。",
+        "warn": "自分の髪全体を言うときはふつう複数形 die Haare：Meine Haare sind lang."
+      },
+      "BL-11-07": {
+        "pron": "シュナイデン",
+        "tip": "「シュナイ〜」とハサミが通る音 ✂️ パンも髪も schneiden！",
+        "bonus": "美容院では lassen を使います：Ich lasse mir die Haare schneiden.",
+        "warn": "過去分詞は不規則：hat geschnitten"
+      },
+      "BL-16-03": {
+        "pron": "ハールシュニット",
+        "tip": "Haar（髪）+ Schnitt（切ったもの）= カット 💈 Schnitt は schneiden から！"
+      },
+      "BL-16-02": {
+        "pron": "フリズーア",
+        "tip": "Friseur が作る作品が Frisur 💇‍♀️ 人は -eur、仕上がりは -ur！",
+        "bonus": "ほめ言葉：Die Frisur steht dir gut! = その髪型、似合ってるね！"
+      },
+      "BL-16-08": {
+        "pron": "クルツ",
+        "tip": "英語の curt（そっけない、短い）の親戚 📏 短く、手短に！",
+        "bonus": "「もう少しだけ短く」は Ein bisschen kürzer, bitte."
+      },
+      "BL-16-07": {
+        "pron": "フェーネン",
+        "tip": "アルプスの暖かい風 Föhn が、そのままドライヤーの名前に 🌬️",
+        "bonus": "名詞 der Föhn = ヘアドライヤー"
+      },
+      "BL-16-06": {
+        "pron": "フェルベン",
+        "tip": "die Farbe（色）→ färben（色をつける）🎨 点を2つ足すと動詞に！",
+        "bonus": "Ich möchte meine Haare blond färben lassen. = 金髪に染めてもらいたいです。"
+      },
+      "BL-16-09": {
+        "pron": "ポニー",
+        "tip": "ポニーのたてがみのように額にかかる髪 🐴 だから Pony！",
+        "warn": "der Pony = 前髪、das Pony = ポニー。冠詞ひとつで意味が変わります。"
+      },
+      "BL-16-10": {
+        "pron": "ロッキヒ",
+        "tip": "die Locke（巻き毛）+ -ig 🌀 英語の a lock of hair の lock です！",
+        "bonus": "反対語：glatt = ストレートの"
+      }
     },
     "culture": [
       "ドイツの美容院は予約（Termin）してから行くのが基本です。今はオンライン予約も多いですが、小さな町の美容院は電話予約のところもまだたくさんあります。予約なしで入れるチェーン店もあります。",
       "メニューでよく見るのが Waschen, Schneiden, Föhnen。シャンプー・カット・ブローのセットという意味です。料金は髪の長さで変わることが多いので、kurz か lang かを最初に聞かれることもあります。",
       "チップは義務ではありませんが、満足したら少し上乗せして払う人が多いです。それから、昔から月曜定休の美容院が多いので、行く前に確認しましょう！💈"
     ],
-    "quiz": {"q": "前髪だけ少し切ってほしいです。美容師さんに何と言いますか？", "o": ["Bitte die Haare blond färben.", "Können Sie mir den Pony schneiden?", "Soll ich Ihre Haare föhnen?"], "a": 1, "why": "der Pony は前髪、schneiden は切るなので「前髪を切ってもらえますか？」という意味です。"},
+    "quiz": {
+      "q": "前髪だけ少し切ってほしいです。美容師さんに何と言いますか？",
+      "o": [
+        "Bitte die Haare blond färben.",
+        "Können Sie mir den Pony schneiden?",
+        "Soll ich Ihre Haare föhnen?"
+      ],
+      "a": 1,
+      "why": "der Pony は前髪、schneiden は切るなので「前髪を切ってもらえますか？」という意味です。"
+    },
     "outro": "鏡の前で「Bitte nur ein bisschen kürzer」を3回言ってみましょう。次の美容院はジェスチャーなしで乗り切りましょうね！✂️"
+  },
+  "tr": {
+    "title": "Makas devreye girmeden önce söylemeniz gereken 10 Almanca kelime",
+    "hook": "Almanya'daki kötü saç kesimlerinin çoğu makasın değil, kelime bilgisinin suçu.",
+    "intro": [
+      "Almanya'da üç ay geçti ve kâkülünüz gözünüze giriyor. Mahalledeki kuaföre giriyorsunuz, kuaför gülümsüyor: „Was darf's denn sein?“ Aklınız duruyor ve sonunda parmaklarınızla makas taklidi yapıyorsunuz.",
+      "Bugün kuaförde gerçekten ihtiyacınız olan on kelime var. Bunlarla randevu alabilir, ne kadar kesileceğini söyleyebilir, boya ya da fön isteyebilirsiniz. El kol hareketlerini kelimelerle değiştirme zamanı! 💇"
+    ],
+    "words": {
+      "BL-16-01": {
+        "pron": "fri-ZÖR",
+        "tip": "Fransızca friser (kıvırmak) kökünden ✂️ Saçınızı kıvıran kişi Friseur'dü. Türkçedeki “kuaför” de Fransızcadan!",
+        "bonus": "kuaförde = beim Friseur · kuaföre gitmek = zum Friseur gehen"
+      },
+      "BL-16-04": {
+        "pron": "HAAR",
+        "tip": "İngilizce hair ile aynı kökten 💁 i'yi atın, neredeyse tamam.",
+        "warn": "Baştaki saçlar için Almanlar genellikle çoğul die Haare kullanır: Meine Haare sind lang."
+      },
+      "BL-11-07": {
+        "pron": "ŞNAY-den",
+        "tip": "Makasın ‘şnay-şnay’ sesini duyun ✂️ Ekmek de saç da schneiden edilir.",
+        "bonus": "Kuaförde lassen ekleyin: Ich lasse mir die Haare schneiden. = Saçımı kestiriyorum.",
+        "warn": "Düzensiz geçmiş ortacı: hat geschnitten"
+      },
+      "BL-16-03": {
+        "pron": "HAAR-şnit",
+        "tip": "Haar (saç) + Schnitt (kesim) = saç kesimi 💈 Schnitt doğrudan schneiden'den gelir."
+      },
+      "BL-16-02": {
+        "pron": "fri-ZUR",
+        "tip": "Friseur yapar, Frisur sonuçtur 💇‍♀️ Kişi -eur, ürün -ur!",
+        "bonus": "Güzel bir iltifat: Die Frisur steht dir gut! = Bu saç modeli sana çok yakışmış!"
+      },
+      "BL-16-08": {
+        "pron": "KURTS",
+        "tip": "Kısa ve öz, tıpkı İngilizce curt gibi; ikisi akraba 📏",
+        "bonus": "‘Sadece biraz daha kısa’ = Ein bisschen kürzer, bitte."
+      },
+      "BL-16-07": {
+        "pron": "FÖ-nen",
+        "tip": "Föhn sıcak bir Alp rüzgârıdır; Almanlar saç kurutma makinesine onun adını vermiş 🌬️ Türkçedeki “fön” de buradan!",
+        "bonus": "İsmi der Föhn = saç kurutma makinesi"
+      },
+      "BL-16-06": {
+        "pron": "FER-ben",
+        "tip": "die Farbe (renk) → färben (boyamak) 🎨 İki nokta ekleyin, fiil olsun.",
+        "bonus": "Ich möchte meine Haare blond färben lassen. = Saçlarımı sarıya boyatmak istiyorum."
+      },
+      "BL-16-09": {
+        "pron": "PO-ni",
+        "tip": "Bir midillinin alnına düşen perçemi gibi 🐴",
+        "warn": "der Pony = kâkül, das Pony = midilli. Tek bir artikel her şeyi değiştirir."
+      },
+      "BL-16-10": {
+        "pron": "LOK-kih",
+        "tip": "die Locke (bukle) + -ig 🌀 Türkçedeki “lüle lüle” saçları düşünün.",
+        "bonus": "Zıttı: glatt = düz"
+      }
+    },
+    "culture": [
+      "Almanya'da kuaföre genellikle randevuyla (Termin) gidilir. Online randevu artık yaygın, ama pek çok küçük mahalle kuaförü hâlâ telefonla aranmayı tercih eder. Bazı zincir salonlar randevusuz müşteri de kabul eder.",
+      "Fiyat listelerinde sık sık Waschen, Schneiden, Föhnen görürsünüz: yıkama, kesim ve fön bir paket olarak. Fiyatlar çoğu zaman saç uzunluğuna bağlıdır, bu yüzden önce kurz mu lang mı diye sorabilirler.",
+      "Bahşiş zorunlu değildir, ama memnun kaldıysanız biraz yukarı yuvarlamak yaygındır. Ayrıca geleneksel olarak pek çok kuaför pazartesi günleri kapalıdır; gitmeden önce kontrol edin! 💈"
+    ],
+    "quiz": {
+      "q": "Sadece kâkülünüzün kısaltılmasını istiyorsunuz. Ne dersiniz?",
+      "o": [
+        "Bitte die Haare blond färben.",
+        "Können Sie mir den Pony schneiden?",
+        "Soll ich Ihre Haare föhnen?"
+      ],
+      "a": 1,
+      "why": "der Pony kâkül, schneiden ise kesmek demektir; cümle ‘Kâkülümü keser misiniz?’ diye soruyor."
+    },
+    "outro": "Aynaya üç kez „Bitte nur ein bisschen kürzer“ deyin. Bir sonraki kuaför ziyaretinde pandomim yasak! ✂️"
   }
 }

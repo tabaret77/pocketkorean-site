@@ -8,23 +8,72 @@
       "오늘은 운동과 헬스장에서 쓰는 단어 10개예요. 등록 상담부터 운동 이야기, 운동 후 근육통까지 독일어로 말할 수 있어요. 영어랑 비슷한 단어가 많아서 금방 외워질 거예요! 🏋️"
     ],
     "words": {
-      "A2-759": {"pron": "피트니스슈투디오", "tip": "fitness + Studio = 헬스장 💪 s가 세 개 연속인 신기한 철자!", "bonus": "‘헬스장 가다’는 ins Fitnessstudio gehen. 줄여서 ins Fitti라고도 해요."},
-      "A1-158": {"pron": "슈포르트", "tip": "영어 sport인데 발음은 ‘슈’포르트 ⚽ st, sp로 시작하면 ‘슈’ 소리!", "bonus": "운동하다 = Sport machen: Ich mache viel Sport."},
-      "A2-605": {"pron": "트레니렌", "tip": "영어 train + -ieren 🏃 -ieren 동사는 과거분사에 ge-가 없어요: hat trainiert", "bonus": "어디를 단련하는지도 말할 수 있어요: die Beine trainieren"},
-      "A2-606": {"pron": "트레이닝", "tip": "영어 training 그대로 🏋️ -ing로 끝나는 영어 명사는 보통 das!", "warn": "‘트레이닝복’은 das Training이 아니라 der Trainingsanzug예요."},
-      "A2-464": {"pron": "피트", "tip": "영어 fit과 똑같아요 🍏 컨디션 좋은 아침엔 Ich bin fit!", "bonus": "건강을 유지하다 = fit bleiben"},
-      "B1-965": {"pron": "무스켈", "tip": "라틴어로 ‘작은 쥐’ 🐭 팔뚝 근육이 꿈틀대는 게 쥐 같았대요.", "warn": "-el로 끝나도 복수는 -n을 붙여요: die Muskeln"},
-      "B1-1131": {"pron": "슈비첸", "tip": "영어 sweat와 친척 💦 땀은 der Schweiß!", "bonus": "반대말은 frieren(추워서 떨다)"},
-      "B2-2744": {"pron": "한텔", "tip": "Hand(손)에 쥐는 Hantel이라고 외워요 🏋️‍♀️", "bonus": "근력 운동 = das Krafttraining"},
-      "B2-1231": {"pron": "데넨", "tip": "‘데~넨’ 하고 길게 늘이며 발음하면 스트레칭 완성 🧘", "bonus": "몸을 풀다 = sich aufwärmen"},
-      "B2-1233": {"pron": "무스켈카터", "tip": "Muskel(근육) + Kater(수고양이·숙취) = 근육의 숙취 🐈", "warn": "Kater만 쓰면 숙취예요: Ich habe einen Kater. 헷갈리지 마세요!"}
+      "A2-759": {
+        "pron": "피트니스슈투디오",
+        "tip": "fitness + Studio = 헬스장 💪 s가 세 개 연속인 신기한 철자!",
+        "bonus": "‘헬스장 가다’는 ins Fitnessstudio gehen. 줄여서 ins Fitti라고도 해요."
+      },
+      "A1-158": {
+        "pron": "슈포르트",
+        "tip": "영어 sport인데 발음은 ‘슈’포르트 ⚽ st, sp로 시작하면 ‘슈’ 소리!",
+        "bonus": "운동하다 = Sport machen: Ich mache viel Sport."
+      },
+      "A2-605": {
+        "pron": "트레니렌",
+        "tip": "영어 train + -ieren 🏃 -ieren 동사는 과거분사에 ge-가 없어요: hat trainiert",
+        "bonus": "어디를 단련하는지도 말할 수 있어요: die Beine trainieren"
+      },
+      "A2-606": {
+        "pron": "트레이닝",
+        "tip": "영어 training 그대로 🏋️ -ing로 끝나는 영어 명사는 보통 das!",
+        "warn": "‘트레이닝복’은 das Training이 아니라 der Trainingsanzug예요."
+      },
+      "A2-464": {
+        "pron": "피트",
+        "tip": "영어 fit과 똑같아요 🍏 컨디션 좋은 아침엔 Ich bin fit!",
+        "bonus": "건강을 유지하다 = fit bleiben"
+      },
+      "B1-965": {
+        "pron": "무스켈",
+        "tip": "라틴어로 ‘작은 쥐’ 🐭 팔뚝 근육이 꿈틀대는 게 쥐 같았대요.",
+        "warn": "-el로 끝나도 복수는 -n을 붙여요: die Muskeln"
+      },
+      "B1-1131": {
+        "pron": "슈비첸",
+        "tip": "영어 sweat와 친척 💦 땀은 der Schweiß!",
+        "bonus": "반대말은 frieren(추워서 떨다)"
+      },
+      "B2-2744": {
+        "pron": "한텔",
+        "tip": "Hand(손)에 쥐는 Hantel이라고 외워요 🏋️‍♀️",
+        "bonus": "근력 운동 = das Krafttraining"
+      },
+      "B2-1231": {
+        "pron": "데넨",
+        "tip": "‘데~넨’ 하고 길게 늘이며 발음하면 스트레칭 완성 🧘",
+        "bonus": "몸을 풀다 = sich aufwärmen"
+      },
+      "B2-1233": {
+        "pron": "무스켈카터",
+        "tip": "Muskel(근육) + Kater(수고양이·숙취) = 근육의 숙취 🐈",
+        "warn": "Kater만 쓰면 숙취예요: Ich habe einen Kater. 헷갈리지 마세요!"
+      }
     },
     "culture": [
       "독일에서는 헬스장만큼 동네 스포츠 클럽(Sportverein)이 인기 있어요. 축구, 수영, 배드민턴 등 종목이 다양하고, 회비가 부담스럽지 않은 곳이 많아서 어른이 돼서 새로 가입하는 사람도 흔해요.",
       "헬스장에 등록할 때는 계약서(Vertrag)를 꼼꼼히 봐야 해요. 몇 달이나 1년 단위로 묶이는 계약이 많고, 해지(Kündigung)하려면 미리 알려야 하는 기간이 정해져 있는 경우가 많아요.",
       "그리고 운동할 때는 수건이 필수예요. 기구에 수건을 깔고 쓰는 게 매너인 곳이 많거든요. 🧺"
     ],
-    "quiz": {"q": "운동 다음 날 다리가 너무 아파요. 친구에게 뭐라고 할까요?", "o": ["Ich habe einen Kater.", "Ich habe Muskelkater.", "Ich bin fit."], "a": 1, "why": "Muskelkater = 운동 후 근육통이에요. Kater만 쓰면 숙취가 돼요."},
+    "quiz": {
+      "q": "운동 다음 날 다리가 너무 아파요. 친구에게 뭐라고 할까요?",
+      "o": [
+        "Ich habe einen Kater.",
+        "Ich habe Muskelkater.",
+        "Ich bin fit."
+      ],
+      "a": 1,
+      "why": "Muskelkater = 운동 후 근육통이에요. Kater만 쓰면 숙취가 돼요."
+    },
     "outro": "오늘 스트레칭하면서 움직이는 부위마다 독일어로 말해 봐요. ‘Ich dehne die Beine!’ 화이팅! 💪"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words are for sport and the gym. You'll be able to handle the sign-up chat, talk about your workouts and complain about the aches afterwards. Lots of them look like English, so they'll stick fast! 🏋️"
     ],
     "words": {
-      "A2-759": {"pron": "FIT-ness-shtoo-dee-oh", "tip": "fitness + Studio = gym 💪 Yes, that's three s's in a row!", "bonus": "to go to the gym = ins Fitnessstudio gehen; casually also ins Fitti"},
-      "A1-158": {"pron": "SHPORT", "tip": "English sport, but say it with a ‘sh’ ⚽ Words starting sp- and st- sound like shp- and sht-.", "bonus": "to exercise = Sport machen: Ich mache viel Sport."},
-      "A2-605": {"pron": "tray-NEE-ren", "tip": "English train + -ieren 🏃 -ieren verbs drop ge-: hat trainiert", "bonus": "Say what you work on: die Beine trainieren"},
-      "A2-606": {"pron": "TRAY-ning", "tip": "Straight from English 🏋️ English nouns in -ing are usually das.", "warn": "A tracksuit is der Trainingsanzug, not das Training."},
-      "A2-464": {"pron": "FIT", "tip": "Exactly like English 🍏 Feeling good? Ich bin fit!", "bonus": "to stay in shape = fit bleiben"},
-      "B1-965": {"pron": "MOOS-kel", "tip": "Latin for ‘little mouse’ 🐭 A flexing muscle looked like a mouse under the skin.", "warn": "The plural adds -n: die Muskeln"},
-      "B1-1131": {"pron": "SHVIT-sen", "tip": "A cousin of English sweat 💦 The sweat itself is der Schweiß.", "bonus": "The opposite feeling: frieren (to be freezing)"},
-      "B2-2744": {"pron": "HAN-tel", "tip": "Think Hand: the weight you hold in your hand 🏋️‍♀️", "bonus": "strength training = das Krafttraining"},
-      "B2-1231": {"pron": "DAY-nen", "tip": "Stretch the vowel as you say it — ‘daaay-nen’ 🧘", "bonus": "to warm up = sich aufwärmen"},
-      "B2-1233": {"pron": "MOOS-kel-kah-ter", "tip": "Muskel + Kater (tomcat, or hangover) = a muscle hangover 🐈", "warn": "Kater on its own means a hangover: Ich habe einen Kater."}
+      "A2-759": {
+        "pron": "FIT-ness-shtoo-dee-oh",
+        "tip": "fitness + Studio = gym 💪 Yes, that's three s's in a row!",
+        "bonus": "to go to the gym = ins Fitnessstudio gehen; casually also ins Fitti"
+      },
+      "A1-158": {
+        "pron": "SHPORT",
+        "tip": "English sport, but say it with a ‘sh’ ⚽ Words starting sp- and st- sound like shp- and sht-.",
+        "bonus": "to exercise = Sport machen: Ich mache viel Sport."
+      },
+      "A2-605": {
+        "pron": "tray-NEE-ren",
+        "tip": "English train + -ieren 🏃 -ieren verbs drop ge-: hat trainiert",
+        "bonus": "Say what you work on: die Beine trainieren"
+      },
+      "A2-606": {
+        "pron": "TRAY-ning",
+        "tip": "Straight from English 🏋️ English nouns in -ing are usually das.",
+        "warn": "A tracksuit is der Trainingsanzug, not das Training."
+      },
+      "A2-464": {
+        "pron": "FIT",
+        "tip": "Exactly like English 🍏 Feeling good? Ich bin fit!",
+        "bonus": "to stay in shape = fit bleiben"
+      },
+      "B1-965": {
+        "pron": "MOOS-kel",
+        "tip": "Latin for ‘little mouse’ 🐭 A flexing muscle looked like a mouse under the skin.",
+        "warn": "The plural adds -n: die Muskeln"
+      },
+      "B1-1131": {
+        "pron": "SHVIT-sen",
+        "tip": "A cousin of English sweat 💦 The sweat itself is der Schweiß.",
+        "bonus": "The opposite feeling: frieren (to be freezing)"
+      },
+      "B2-2744": {
+        "pron": "HAN-tel",
+        "tip": "Think Hand: the weight you hold in your hand 🏋️‍♀️",
+        "bonus": "strength training = das Krafttraining"
+      },
+      "B2-1231": {
+        "pron": "DAY-nen",
+        "tip": "Stretch the vowel as you say it — ‘daaay-nen’ 🧘",
+        "bonus": "to warm up = sich aufwärmen"
+      },
+      "B2-1233": {
+        "pron": "MOOS-kel-kah-ter",
+        "tip": "Muskel + Kater (tomcat, or hangover) = a muscle hangover 🐈",
+        "warn": "Kater on its own means a hangover: Ich habe einen Kater."
+      }
     },
     "culture": [
       "In Germany, local sports clubs (Sportverein) are just as popular as gyms. They offer everything from football to swimming to badminton, membership is often affordable, and plenty of adults join one for the first time.",
       "Before you sign up at a gym, read the contract (Vertrag) carefully. Many tie you in for several months or a year, and there's often a fixed notice period if you want to cancel (Kündigung).",
       "And bring a towel: in many gyms it's expected that you lay it on the machines and benches while you train. 🧺"
     ],
-    "quiz": {"q": "Your legs ache badly the day after training. What do you tell a friend?", "o": ["Ich habe einen Kater.", "Ich habe Muskelkater.", "Ich bin fit."], "a": 1, "why": "Muskelkater means sore muscles after exercise; Kater alone means a hangover."},
+    "quiz": {
+      "q": "Your legs ache badly the day after training. What do you tell a friend?",
+      "o": [
+        "Ich habe einen Kater.",
+        "Ich habe Muskelkater.",
+        "Ich bin fit."
+      ],
+      "a": 1,
+      "why": "Muskelkater means sore muscles after exercise; Kater alone means a hangover."
+    },
     "outro": "As you stretch today, name each body part in German: ‘Ich dehne die Beine!’ Viel Spaß beim Training! 💪"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日は運動とジムで使う単語を10個集めました。入会の相談からトレーニングの話、運動後の筋肉痛までドイツ語で言えるようになります。英語に似た単語が多いので、すぐ覚えられますよ！🏋️"
     ],
     "words": {
-      "A2-759": {"pron": "フィットネスシュトゥーディオ", "tip": "fitness + Studio = ジム 💪 s が3つ並ぶ珍しいつづり！", "bonus": "ジムに行く = ins Fitnessstudio gehen。くだけて ins Fitti とも。"},
-      "A1-158": {"pron": "シュポルト", "tip": "英語の sport ですが「シュ」ポルト ⚽ sp-、st- で始まると「シュ」の音！", "bonus": "運動する = Sport machen：Ich mache viel Sport."},
-      "A2-605": {"pron": "トレニーレン", "tip": "英語 train + -ieren 🏃 -ieren 動詞の過去分詞には ge- がつきません：hat trainiert", "bonus": "鍛える部分も言えます：die Beine trainieren"},
-      "A2-606": {"pron": "トレーニング", "tip": "英語の training そのまま 🏋️ -ing で終わる英語由来の名詞はたいてい das！", "warn": "ジャージは das Training ではなく der Trainingsanzug です。"},
-      "A2-464": {"pron": "フィット", "tip": "英語の fit と同じ 🍏 調子のいい朝は Ich bin fit!", "bonus": "体調を保つ = fit bleiben"},
-      "B1-965": {"pron": "ムスケル", "tip": "ラテン語で「小さなネズミ」🐭 動く筋肉がネズミみたいに見えたそうです。", "warn": "複数形は -n をつけて die Muskeln"},
-      "B1-1131": {"pron": "シュヴィッツェン", "tip": "英語の sweat の親戚 💦 汗そのものは der Schweiß！", "bonus": "反対は frieren（寒くて凍える）"},
-      "B2-2744": {"pron": "ハンテル", "tip": "Hand（手）で握る Hantel と覚えましょう 🏋️‍♀️", "bonus": "筋トレ = das Krafttraining"},
-      "B2-1231": {"pron": "デーネン", "tip": "「デ〜ネン」と伸ばして言えばストレッチ完了 🧘", "bonus": "ウォーミングアップする = sich aufwärmen"},
-      "B2-1233": {"pron": "ムスケルカーター", "tip": "Muskel（筋肉）+ Kater（雄猫・二日酔い）= 筋肉の二日酔い 🐈", "warn": "Kater だけだと二日酔い：Ich habe einen Kater. 混同に注意！"}
+      "A2-759": {
+        "pron": "フィットネスシュトゥーディオ",
+        "tip": "fitness + Studio = ジム 💪 s が3つ並ぶ珍しいつづり！",
+        "bonus": "ジムに行く = ins Fitnessstudio gehen。くだけて ins Fitti とも。"
+      },
+      "A1-158": {
+        "pron": "シュポルト",
+        "tip": "英語の sport ですが「シュ」ポルト ⚽ sp-、st- で始まると「シュ」の音！",
+        "bonus": "運動する = Sport machen：Ich mache viel Sport."
+      },
+      "A2-605": {
+        "pron": "トレニーレン",
+        "tip": "英語 train + -ieren 🏃 -ieren 動詞の過去分詞には ge- がつきません：hat trainiert",
+        "bonus": "鍛える部分も言えます：die Beine trainieren"
+      },
+      "A2-606": {
+        "pron": "トレーニング",
+        "tip": "英語の training そのまま 🏋️ -ing で終わる英語由来の名詞はたいてい das！",
+        "warn": "ジャージは das Training ではなく der Trainingsanzug です。"
+      },
+      "A2-464": {
+        "pron": "フィット",
+        "tip": "英語の fit と同じ 🍏 調子のいい朝は Ich bin fit!",
+        "bonus": "体調を保つ = fit bleiben"
+      },
+      "B1-965": {
+        "pron": "ムスケル",
+        "tip": "ラテン語で「小さなネズミ」🐭 動く筋肉がネズミみたいに見えたそうです。",
+        "warn": "複数形は -n をつけて die Muskeln"
+      },
+      "B1-1131": {
+        "pron": "シュヴィッツェン",
+        "tip": "英語の sweat の親戚 💦 汗そのものは der Schweiß！",
+        "bonus": "反対は frieren（寒くて凍える）"
+      },
+      "B2-2744": {
+        "pron": "ハンテル",
+        "tip": "Hand（手）で握る Hantel と覚えましょう 🏋️‍♀️",
+        "bonus": "筋トレ = das Krafttraining"
+      },
+      "B2-1231": {
+        "pron": "デーネン",
+        "tip": "「デ〜ネン」と伸ばして言えばストレッチ完了 🧘",
+        "bonus": "ウォーミングアップする = sich aufwärmen"
+      },
+      "B2-1233": {
+        "pron": "ムスケルカーター",
+        "tip": "Muskel（筋肉）+ Kater（雄猫・二日酔い）= 筋肉の二日酔い 🐈",
+        "warn": "Kater だけだと二日酔い：Ich habe einen Kater. 混同に注意！"
+      }
     },
     "culture": [
       "ドイツではジムと同じくらい、地域のスポーツクラブ（Sportverein）が人気です。サッカー、水泳、バドミントンなど種目が豊富で、会費も手ごろなところが多く、大人になってから入る人も珍しくありません。",
       "ジムに入会するときは契約書（Vertrag）をよく読みましょう。数か月や1年単位の契約が多く、解約（Kündigung）には決まった予告期間が必要なこともよくあります。",
       "そしてタオルは必須。マシンやベンチにタオルを敷いて使うのがマナーになっているジムが多いです。🧺"
     ],
-    "quiz": {"q": "運動の翌日、脚がすごく痛いです。友だちに何と言いますか？", "o": ["Ich habe einen Kater.", "Ich habe Muskelkater.", "Ich bin fit."], "a": 1, "why": "Muskelkater は運動後の筋肉痛。Kater だけだと二日酔いになります。"},
+    "quiz": {
+      "q": "運動の翌日、脚がすごく痛いです。友だちに何と言いますか？",
+      "o": [
+        "Ich habe einen Kater.",
+        "Ich habe Muskelkater.",
+        "Ich bin fit."
+      ],
+      "a": 1,
+      "why": "Muskelkater は運動後の筋肉痛。Kater だけだと二日酔いになります。"
+    },
     "outro": "今日ストレッチをしながら、伸ばす部分をドイツ語で言ってみましょう。「Ich dehne die Beine!」がんばって！💪"
+  },
+  "tr": {
+    "title": "Bu 10 kelimeyle spor salonuna Almanca hazır olun",
+    "hook": "Antrenmandan sonraki gün bacaklarınız tutmadığında Almanlar ziyaretinize bir ‘kas erkek kedisi’ geldiğini söyler.",
+    "intro": [
+      "Yeni yıl, yeni siz: mahallenizdeki spor salonuna yazıldınız. Antrenör ‘Wie oft trainieren Sie?’ diye soruyor ve aklınız duruyor. Ertesi gün her yeriniz ağrıyor, merdivenlerden zar zor iniyorsunuz.",
+      "Bugünkü on kelime spor ve spor salonu için. Kayıt sohbetini halledebilecek, antrenmanlarınızdan söz edebilecek ve sonrasındaki ağrılardan yakınabileceksiniz. Çoğu Türkçeye ve İngilizceye benziyor, o yüzden hemen akılda kalacak! 🏋️"
+    ],
+    "words": {
+      "A2-759": {
+        "pron": "FİT-nes-ştu-di-o",
+        "tip": "fitness + Studio = spor salonu 💪 Evet, art arda üç tane s var!",
+        "bonus": "spor salonuna gitmek = ins Fitnessstudio gehen; günlük dilde ins Fitti de denir"
+      },
+      "A1-158": {
+        "pron": "ŞPORT",
+        "tip": "Türkçedeki “spor”, ama ‘ş’ ile söyleyin ⚽ sp- ve st- ile başlayan kelimeler şp- ve şt- diye okunur.",
+        "bonus": "spor yapmak = Sport machen: Ich mache viel Sport."
+      },
+      "A2-605": {
+        "pron": "tre-Nİ-ren",
+        "tip": "İngilizce train + -ieren; Türkçedeki “antrenman” ile akraba 🏃 -ieren fiilleri ge- almaz: hat trainiert",
+        "bonus": "Neyi çalıştırdığınızı söyleyin: die Beine trainieren"
+      },
+      "A2-606": {
+        "pron": "TREY-ning",
+        "tip": "Doğrudan İngilizceden 🏋️ -ing ile biten İngilizce isimler genelde das.",
+        "warn": "Eşofman der Trainingsanzug'dur, das Training değil."
+      },
+      "A2-464": {
+        "pron": "FİT",
+        "tip": "Türkçedeki “fit” ile aynı 🍏 Kendinizi iyi mi hissediyorsunuz? Ich bin fit!",
+        "bonus": "formda kalmak = fit bleiben"
+      },
+      "B1-965": {
+        "pron": "MUS-kel",
+        "tip": "Latince ‘küçük fare’ 🐭 Kasılan bir kas, derinin altında bir fare gibi görünürdü.",
+        "warn": "Çoğulda -n eklenir: die Muskeln"
+      },
+      "B1-1131": {
+        "pron": "ŞVİT-sen",
+        "tip": "İngilizce sweat'in kuzeni 💦 Terin kendisi der Schweiß.",
+        "bonus": "Tam tersi his: frieren (üşümek)"
+      },
+      "B2-2744": {
+        "pron": "HAN-tel",
+        "tip": "Hand'i (el) düşünün: elinizde tuttuğunuz ağırlık 🏋️‍♀️",
+        "bonus": "ağırlık antrenmanı = das Krafttraining"
+      },
+      "B2-1231": {
+        "pron": "DEE-nen",
+        "tip": "Söylerken ünlüyü uzatın: ‘deeee-nen’ 🧘",
+        "bonus": "ısınmak = sich aufwärmen"
+      },
+      "B2-1233": {
+        "pron": "MUS-kel-ka-tır",
+        "tip": "Muskel + Kater (erkek kedi ya da akşamdan kalmalık) = kasların akşamdan kalmalığı 🐈",
+        "warn": "Tek başına Kater akşamdan kalmalık demektir: Ich habe einen Kater."
+      }
+    },
+    "culture": [
+      "Almanya'da mahalle spor kulüpleri (Sportverein) spor salonları kadar popülerdir. Futboldan yüzmeye, badmintona kadar her şey sunarlar, üyelik çoğu zaman uygun fiyatlıdır ve pek çok yetişkin ilk kez bir kulübe katılır.",
+      "Bir spor salonuna yazılmadan önce sözleşmeyi (Vertrag) dikkatle okuyun. Pek çoğu sizi birkaç aylığına ya da bir yıllığına bağlar ve iptal etmek (Kündigung) istediğinizde genellikle sabit bir fesih süresi vardır.",
+      "Bir de havlu getirin: pek çok spor salonunda antrenman yaparken havlunuzu aletlerin ve sehpaların üzerine sermeniz beklenir. 🧺"
+    ],
+    "quiz": {
+      "q": "Antrenmandan sonraki gün bacaklarınız çok ağrıyor. Bir arkadaşınıza ne dersiniz?",
+      "o": [
+        "Ich habe einen Kater.",
+        "Ich habe Muskelkater.",
+        "Ich bin fit."
+      ],
+      "a": 1,
+      "why": "Muskelkater spor sonrası kas ağrısı demektir; tek başına Kater ise akşamdan kalmalık."
+    },
+    "outro": "Bugün esneme yaparken her vücut bölümünün adını Almanca söyleyin: ‘Ich dehne die Beine!’ Viel Spaß beim Training! 💪"
   }
 }

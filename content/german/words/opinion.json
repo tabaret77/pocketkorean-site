@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちに「金曜の8時に映画に行かない？」と誘われました。OKと答えます。", "o": ["Hast du etwas dagegen?", "Ja, einverstanden!", "Meiner Meinung nach nicht."], "a": 1, "why": "einverstanden は「賛成、いいよ！」という意味で、提案を受け入れるときに使います。"},
     "outro": "今日は何かひとつ選んで、ドイツ語で意見を言ってみましょう。Ich finde, Pocket German ist super! あたりから始めるのがおすすめです。😉"
+  },
+  "tr": {
+    "title": "Fikrinizi söyleyin: Görüş bildirmek için 10 Almanca kelime",
+    "hook": "Almanya'da size ‘Sen ne düşünüyorsun?’ diye sandığınızdan çok daha sık sorulacak.",
+    "intro": [
+      "Bir iş toplantısında yöneticim birden bana döndü: ‘Was meinst du dazu?’ Bir fikrim vardı ama cümleye nasıl başlayacağımı bilmiyordum; ‘Ee… gut?’ dedim ve o kadar. Bütün akşam o anı kafamda tekrar tekrar oynattım.",
+      "Bugünkü 10 küçük kelime fikrinizi söylemek, katılmak ve karşı çıkmak için. Bunlarla ne düşündüğünüzü net bir şekilde söyleyebilirsiniz; hem toplantılarda hem de arkadaşlarla kahve içerken. 💬"
+    ],
+    "words": {
+      "B1-010": {"pron": "MAY-nunk", "tip": "meinen (düşünmek) + -ung = düşündüğünüz şey 💭 -ung, yani die Meinung!", "bonus": "Ich bin anderer Meinung. = Ben farklı düşünüyorum."},
+      "A2-325": {"pron": "MAY-nen", "tip": "İngilizce mean ile aynı kökten 🤔 Hem ‘düşünmek’ hem ‘kastetmek’ demek.", "bonus": "Was meinst du? = Ne düşünüyorsun? · So habe ich das nicht gemeint. = Onu kastetmemiştim."},
+      "A1-186": {"pron": "FİN-den", "tip": "Tıpkı İngilizce find gibi 🔍 Türkçedeki gibi bir şeyi iyi ya da kötü ‘bulabilirsiniz’.", "bonus": "Wie findest du das? = Bunu nasıl buluyorsun? · Ich finde das super!"},
+      "A1-303": {"pron": "GLAU-ben", "tip": "İngilizce believe'deki ‘lieve’ kısmı glauben'ın kuzeni 🙏", "bonus": "Birine inanmak Dativ ile: Ich glaube dir. · …e inanmak = an + Akkusativ"},
+      "A2-875": {"pron": "MAY-ner MAY-nunk NAH", "tip": "Burada nach sona geliyor 🔚 Türkçedeki ‘bana göre’ deki ‘göre’ gibi!", "warn": "Fiil hemen ardından gelir: Meiner Meinung nach ist das falsch."},
+      "B1-187": {"pron": "AYN-fer-ştan-den", "tip": "ein (bir) + verstanden (anlaşılmış) = tek bir şekilde anlaşılmış 🤝 Almancada ‘tamam, anlaştık!’", "bonus": "bir şeye razı olmak = mit + Dativ: Ich bin damit einverstanden."},
+      "A2-549": {"pron": "REHT ha-ben", "tip": "Almancada ‘hakkınız vardır’, tıpkı Türkçedeki ‘haklısın’daki hak gibi ✅ Du hast recht!", "warn": "sein değil haben! Du bist recht (yanlış) → Du hast recht (doğru)"},
+      "B1-347": {"pron": "ŞTİ-men", "tip": "die Stimme (ses, oy) kelimesinden 🗳️ Tek kelimeyle katılmak: Stimmt!", "bonus": "Ödeme yaparken Stimmt so! = Üstü kalsın."},
+      "B1-180": {"pron": "TSU-ştim-men", "tip": "zu (-e doğru) + stimmen = oyunuzu birine vermek 👍", "warn": "Ayrılabilen fiil ve Dativ ile: Da stimme ich dir zu."},
+      "A2-884": {"pron": "da-GE-gen", "tip": "da (o) + gegen (karşı) = ona karşı 🙅‍♀️ Lehinde ise dafür!", "bonus": "Hast du was dagegen? = Sakıncası var mı?"}
+    },
+    "culture": [
+      "Almanya'da toplantılarda, derslerde ve sohbetlerde kendi fikrinizi paylaşmak değerli görülür. Sessiz kalmak onay olarak algılanabilir; bu yüzden kısa bir Meiner Meinung nach… bile işe yarar.",
+      "Kararsız kaldığınız anlar için eğlenceli bir kelime var: ja ve nein'ın karışımı ‘Jein’. ‘Hem evet hem hayır’ demek ve bunu sürekli duyacaksınız.",
+      "Katılmadığınızda bir gerekçe sunmak, örneğin ‘Das sehe ich anders, aber…’, havayı dostane tutar. Pek çok Alman iyi bir Diskussion'dan gerçekten keyif alır. 🗣️"
+    ],
+    "quiz": {"q": "Bir arkadaşınız soruyor: ‘Cuma saat sekizde sinema?’ Evet diyorsunuz.", "o": ["Hast du etwas dagegen?", "Ja, einverstanden!", "Meiner Meinung nach nicht."], "a": 1, "why": "einverstanden ‘anlaştık’ demek; bir öneriyi böyle kabul edersiniz."},
+    "outro": "Bugün herhangi bir şey seçin ve onun hakkında Almanca fikrinizi söyleyin. Ich finde, Cep Almancası ist super! harika bir başlangıç. 😉"
   }
 }

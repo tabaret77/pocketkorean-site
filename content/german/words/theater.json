@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "「その芝居、金曜日が初日だよ！」と言うには？", "o": ["Am Freitag ist die Probe.", "Am Freitag fällt der Vorhang.", "Am Freitag ist die Premiere."], "a": 2, "why": "die Premiere は初演・初日のこと。die Probe はリハーサル、der Vorhang fällt は幕が下りるという意味です。"},
     "outro": "いちばん好きな演劇やミュージカルを、ドイツ語でひとこと紹介してみましょう。Mein Lieblingsmusical ist …! 🎶"
+  },
+  "tr": {
+    "title": "Perde açılmadan önce: tiyatroyla ilgili 10 Almanca kelime",
+    "hook": "Alman seyircilerin perde kapandıktan sonra on dakika boyunca alkışlayabildiğini biliyor muydunuz?",
+    "intro": [
+      "Bir arkadaşınızın bir oyun için iki fazla bileti var ve sizi de çağırıyor. Fuayede broşürü açıyorsunuz: Premiere, Aufführung, Bühne… ve Almanca dersiniz gösteriden önce başlıyor.",
+      "Bugünkü on kelime, herhangi bir tiyatroda ya da müzikalde karşılaşacağınız kelimeler. Bunlarla programı okuyabilir, gösteriden sonra sohbet edebilir ve kulis hikâyelerini takip edebilirsiniz. 🎭"
+    ],
+    "words": {
+      "A2-134": {"pron": "te-A-ter", "tip": "Yunanca theatron, ‘seyretme yeri’ 👀 Türkçedeki ‘tiyatro’ ile aynı kök, ama Almanca üç heceyi de net söyler.", "bonus": "tiyatroya gitmek = ins Theater gehen"},
+      "B2-1347": {"pron": "te-A-ter-ştük", "tip": "Theater + Stück (parça) = tiyatro için bir parça 🎬", "bonus": "Çoğu zaman sadece das Stück denir."},
+      "B1-546": {"pron": "BÜ-ne", "tip": "Belki eskiden yükseltilmiş bir tahta zemindi 🪵 Oyuncuların üstünde durduğu tahtalar.", "bonus": "sahneye çıkmak = auf die Bühne gehen"},
+      "B2-1346": {"pron": "AUF-fü-runk", "tip": "auf (yukarı) + führen (götürmek) = oyunu sahneye çıkarmak 🎟️ -ung, yani die.", "bonus": "Fiili: aufführen = sahnelemek, oynamak (ayrılabilen)"},
+      "B1-1626": {"pron": "ap-LAUS", "tip": "Sonu kesilmiş İngilizce applause 👏 Türkçedeki ‘aplodisman’ın akrabası. Vurgu ikinci hecede.", "bonus": "Öz Almanca kelime = der Beifall · alkışlamak = klatschen"},
+      "B1-2084": {"pron": "FOR-hang", "tip": "vor (önde) + hängen (asmak) = önde asılı duran şey 🪟 Pencere perdesi de sahne perdesi de.", "bonus": "der Vorhang fällt = perde iner"},
+      "B1-2205": {"pron": "MYU-zi-kıl", "tip": "Doğrudan İngilizceden alınmış 🎶 İngilizce gibi okuyun.", "warn": "Almancada nötr: das Musical."},
+      "B2-1351": {"pron": "pre-MYE-re", "tip": "Fransızca première = ilk 🌟 Türkçedeki ‘prömiyer’: bir gösterinin ilk gecesi.", "bonus": "Dünya prömiyeri die Uraufführung'dur."},
+      "B2-2767": {"pron": "PRO-ben", "tip": "die Probe (deneme) kelimesinden 🎤 Prova, sahnede bir deneme turudur — Türkçedeki ‘prova’ ile aynı kök!", "warn": "proben bir gösteriyi prova etmek içindir; kelime çalışmak gibi sıradan alıştırma üben'dir."},
+      "B2-1359": {"pron": "tra-GÖ-di-e", "tip": "Türkçedeki ‘trajedi’nin kuzeni 😢 Zıttı die Komödie'yi de aynı anda öğrenin.", "bonus": "Sıfatı: tragisch = trajik"}
+    },
+    "culture": [
+      "Almanya'da çok sayıda tiyatro vardır. Sadece büyük şehirlerin değil, birçok orta büyüklükteki şehrin de kendi belediye ya da devlet tiyatrosu (Stadttheater, Staatstheater) vardır. Sabit bir topluluk çoğu zaman birkaç yapımı dönüşümlü oynar; aynı tiyatroda her akşam farklı bir oyun olabilir.",
+      "Gösteriden önce insanlar genellikle paltolarını vestiyere (Garderobe) bırakır. Sonunda oyuncular birkaç kez selama çıkar; seyirci gerçekten etkilendiyse alkış bazen ritmik bir alkışa dönüşür.",
+      "Ve bir sanatçıya asla „Viel Glück!“ demeyin — onun yerine „Toi, toi, toi!“ deyin. Bu, sahne dünyasının uğur sözüdür ve geleneğe göre buna teşekkür edilmez. 🍀"
+    ],
+    "quiz": {"q": "„Oyunun prömiyeri cuma günü“ demek istiyorsunuz. Hangi cümle uygun?", "o": ["Am Freitag ist die Probe.", "Am Freitag fällt der Vorhang.", "Am Freitag ist die Premiere."], "a": 2, "why": "die Premiere ilk gösterimdir; die Probe prova, der Vorhang fällt ise perdenin inmesi demektir."},
+    "outro": "En sevdiğiniz oyunu ya da müzikali tek bir Almanca cümleyle tanıtın. Mein Lieblingsmusical ist …! 🎶"
   }
 }

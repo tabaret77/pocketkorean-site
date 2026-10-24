@@ -8,23 +8,72 @@
       "오늘은 취미를 말할 때 쓰는 단어 10개예요. 읽기, 그리기, 모으기, 만들기, 악기 연주까지, 이 단어들로 자기소개가 훨씬 풍성해지고 대화도 오래 이어져요. 🎨"
     ],
     "words": {
-      "A2-132": {"pron": "호비", "tip": "영어 hobby 그대로 🎯 Mein Hobby ist… 로 시작하면 끝!", "warn": "복수는 Hobbies가 아니라 die Hobbys예요."},
-      "A2-131": {"pron": "프라이차이트", "tip": "frei(자유로운) + Zeit(시간) = 자유 시간 🏖️ 영어 free time 그대로!", "bonus": "in meiner Freizeit = 여가 시간에"},
-      "A1-060": {"pron": "레젠", "tip": "원래 ‘줍다, 모으다’라는 뜻 📚 글자를 하나하나 주워 모으는 게 읽기!", "warn": "불규칙: du liest, er liest / hat gelesen"},
-      "A1-311": {"pron": "말렌", "tip": "물감으로 칠하는 그림은 malen 🖌️ 화가는 der Maler!", "warn": "연필로 선을 긋는 그림은 zeichnen이에요."},
-      "A2-636": {"pron": "차이히넨", "tip": "Zeichen(기호, 표시)에서 왔어요 ✏️ 선으로 표시하듯 그리는 거예요.", "bonus": "그림(선화)은 die Zeichnung"},
-      "A2-564": {"pron": "자멜른", "tip": "‘자, 모을까?’ 하고 하나씩 모아요 🧸 Briefmarken sammeln = 우표 모으기", "bonus": "수집품은 die Sammlung"},
-      "A2-422": {"pron": "바스텔른", "tip": "종이, 가위, 풀로 뚝딱뚝딱 만들기 ✂️ 아이들이 제일 좋아하는 시간!", "bonus": "같이 쓰는 동사: kleben(붙이다), schneiden(자르다)"},
-      "B2-2758": {"pron": "슈트리켄", "tip": "원래 ‘묶다, 매듭짓다’라는 뜻 🧶 실을 묶고 또 묶으면 목도리 완성!", "bonus": "코바늘뜨개는 häkeln"},
-      "A2-488": {"pron": "인스트루멘트", "tip": "영어 instrument와 똑같아요 🎸 끝 강세만 독일식으로 ‘멘트!’", "bonus": "악기는 spielen과 함께: Ich spiele Klavier."},
-      "B2-2765": {"pron": "프라이차이트베셰프티궁", "tip": "Freizeit + Beschäftigung(할 일) = 여가에 하는 일 🧩 길지만 레고처럼 조립!", "bonus": "-ung으로 끝나니까 die예요."}
+      "A2-132": {
+        "pron": "호비",
+        "tip": "영어 hobby 그대로 🎯 Mein Hobby ist… 로 시작하면 끝!",
+        "warn": "복수는 Hobbies가 아니라 die Hobbys예요."
+      },
+      "A2-131": {
+        "pron": "프라이차이트",
+        "tip": "frei(자유로운) + Zeit(시간) = 자유 시간 🏖️ 영어 free time 그대로!",
+        "bonus": "in meiner Freizeit = 여가 시간에"
+      },
+      "A1-060": {
+        "pron": "레젠",
+        "tip": "원래 ‘줍다, 모으다’라는 뜻 📚 글자를 하나하나 주워 모으는 게 읽기!",
+        "warn": "불규칙: du liest, er liest / hat gelesen"
+      },
+      "A1-311": {
+        "pron": "말렌",
+        "tip": "물감으로 칠하는 그림은 malen 🖌️ 화가는 der Maler!",
+        "warn": "연필로 선을 긋는 그림은 zeichnen이에요."
+      },
+      "A2-636": {
+        "pron": "차이히넨",
+        "tip": "Zeichen(기호, 표시)에서 왔어요 ✏️ 선으로 표시하듯 그리는 거예요.",
+        "bonus": "그림(선화)은 die Zeichnung"
+      },
+      "A2-564": {
+        "pron": "자멜른",
+        "tip": "‘자, 모을까?’ 하고 하나씩 모아요 🧸 Briefmarken sammeln = 우표 모으기",
+        "bonus": "수집품은 die Sammlung"
+      },
+      "A2-422": {
+        "pron": "바스텔른",
+        "tip": "종이, 가위, 풀로 뚝딱뚝딱 만들기 ✂️ 아이들이 제일 좋아하는 시간!",
+        "bonus": "같이 쓰는 동사: kleben(붙이다), schneiden(자르다)"
+      },
+      "B2-2758": {
+        "pron": "슈트리켄",
+        "tip": "원래 ‘묶다, 매듭짓다’라는 뜻 🧶 실을 묶고 또 묶으면 목도리 완성!",
+        "bonus": "코바늘뜨개는 häkeln"
+      },
+      "A2-488": {
+        "pron": "인스트루멘트",
+        "tip": "영어 instrument와 똑같아요 🎸 끝 강세만 독일식으로 ‘멘트!’",
+        "bonus": "악기는 spielen과 함께: Ich spiele Klavier."
+      },
+      "B2-2765": {
+        "pron": "프라이차이트베셰프티궁",
+        "tip": "Freizeit + Beschäftigung(할 일) = 여가에 하는 일 🧩 길지만 레고처럼 조립!",
+        "bonus": "-ung으로 끝나니까 die예요."
+      }
     },
     "culture": [
       "독일 취미 생활의 중심에는 Verein(동호회)이 있어요. 축구, 합창, 사진, 정원 가꾸기까지 정말 거의 모든 취미에 Verein이 있어요. ‘독일 사람 셋이 모이면 Verein을 만든다’는 농담이 있을 정도예요.",
       "새로운 취미를 시작하고 싶다면 Volkshochschule(VHS)를 찾아보세요. 동네 시민 교육 기관으로, 도자기, 요리, 외국어 같은 강좌를 저녁이나 주말에 들을 수 있어요.",
       "그리고 독일에서는 계절마다 basteln하는 문화가 있어요. 크리스마스엔 별 장식을, 가을엔 아이들이 성 마르틴 축제용 등불(Laterne)을 직접 만들기도 해요. ⭐"
     ],
-    "quiz": {"q": "새 직장 동료가 ‘Was machst du in deiner Freizeit?’ 하고 물어요. 가장 알맞은 대답은?", "o": ["Ich zeichne gern und spiele Gitarre.", "Ich arbeite bis 18 Uhr.", "Ich bin 30 Jahre alt."], "a": 0, "why": "Freizeit = 여가 시간, 그러니 취미로 대답해야 해요."},
+    "quiz": {
+      "q": "새 직장 동료가 ‘Was machst du in deiner Freizeit?’ 하고 물어요. 가장 알맞은 대답은?",
+      "o": [
+        "Ich zeichne gern und spiele Gitarre.",
+        "Ich arbeite bis 18 Uhr.",
+        "Ich bin 30 Jahre alt."
+      ],
+      "a": 0,
+      "why": "Freizeit = 여가 시간, 그러니 취미로 대답해야 해요."
+    },
     "outro": "오늘은 ‘In meiner Freizeit … ich gern.’에 내 취미를 넣어서 세 문장 말해 봐요! 🎨"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words are for talking about hobbies. Reading, drawing, collecting, crafting, playing an instrument: with these, introducing yourself gets much more interesting and conversations last longer. 🎨"
     ],
     "words": {
-      "A2-132": {"pron": "HOB-ee", "tip": "Straight from English hobby 🎯 Start with Mein Hobby ist… and you're done.", "warn": "The plural is die Hobbys, not ‘Hobbies’."},
-      "A2-131": {"pron": "FRY-tsite", "tip": "frei (free) + Zeit (time) = free time 🏖️ Word for word!", "bonus": "in meiner Freizeit = in my free time"},
-      "A1-060": {"pron": "LAY-zen", "tip": "It originally meant to pick up or gather 📚 Reading is gathering letters.", "warn": "Irregular: du liest, er liest / hat gelesen"},
-      "A1-311": {"pron": "MAH-len", "tip": "Painting with colours is malen 🖌️ A painter is der Maler.", "warn": "Drawing lines with a pencil is zeichnen."},
-      "A2-636": {"pron": "TSYKH-nen", "tip": "From Zeichen (sign, mark), related to English token ✏️ You make marks on paper.", "bonus": "A drawing is die Zeichnung"},
-      "A2-564": {"pron": "ZAM-eln", "tip": "Sounds a bit like ‘sample’ — collect a sample of everything 🧸 Briefmarken sammeln = collecting stamps.", "bonus": "A collection is die Sammlung"},
-      "A2-422": {"pron": "BAST-eln", "tip": "Paper, scissors, glue — let's make something ✂️ Every German child's favourite lesson.", "bonus": "Handy verbs: kleben (to glue), schneiden (to cut)"},
-      "B2-2758": {"pron": "SHTRIK-en", "tip": "From an old word for tying knots 🧶 Tie enough knots and you've got a scarf.", "bonus": "Crochet is häkeln"},
-      "A2-488": {"pron": "in-stroo-MENT", "tip": "Same as English instrument 🎸 Just stress the end: in-stroo-MENT.", "bonus": "Use spielen: Ich spiele Klavier."},
-      "B2-2765": {"pron": "FRY-tsite-buh-shef-tee-goong", "tip": "Freizeit + Beschäftigung (activity) = something to do in your free time 🧩 Long, but it clicks together like Lego.", "bonus": "It ends in -ung, so it's die."}
+      "A2-132": {
+        "pron": "HOB-ee",
+        "tip": "Straight from English hobby 🎯 Start with Mein Hobby ist… and you're done.",
+        "warn": "The plural is die Hobbys, not ‘Hobbies’."
+      },
+      "A2-131": {
+        "pron": "FRY-tsite",
+        "tip": "frei (free) + Zeit (time) = free time 🏖️ Word for word!",
+        "bonus": "in meiner Freizeit = in my free time"
+      },
+      "A1-060": {
+        "pron": "LAY-zen",
+        "tip": "It originally meant to pick up or gather 📚 Reading is gathering letters.",
+        "warn": "Irregular: du liest, er liest / hat gelesen"
+      },
+      "A1-311": {
+        "pron": "MAH-len",
+        "tip": "Painting with colours is malen 🖌️ A painter is der Maler.",
+        "warn": "Drawing lines with a pencil is zeichnen."
+      },
+      "A2-636": {
+        "pron": "TSYKH-nen",
+        "tip": "From Zeichen (sign, mark), related to English token ✏️ You make marks on paper.",
+        "bonus": "A drawing is die Zeichnung"
+      },
+      "A2-564": {
+        "pron": "ZAM-eln",
+        "tip": "Sounds a bit like ‘sample’ — collect a sample of everything 🧸 Briefmarken sammeln = collecting stamps.",
+        "bonus": "A collection is die Sammlung"
+      },
+      "A2-422": {
+        "pron": "BAST-eln",
+        "tip": "Paper, scissors, glue — let's make something ✂️ Every German child's favourite lesson.",
+        "bonus": "Handy verbs: kleben (to glue), schneiden (to cut)"
+      },
+      "B2-2758": {
+        "pron": "SHTRIK-en",
+        "tip": "From an old word for tying knots 🧶 Tie enough knots and you've got a scarf.",
+        "bonus": "Crochet is häkeln"
+      },
+      "A2-488": {
+        "pron": "in-stroo-MENT",
+        "tip": "Same as English instrument 🎸 Just stress the end: in-stroo-MENT.",
+        "bonus": "Use spielen: Ich spiele Klavier."
+      },
+      "B2-2765": {
+        "pron": "FRY-tsite-buh-shef-tee-goong",
+        "tip": "Freizeit + Beschäftigung (activity) = something to do in your free time 🧩 Long, but it clicks together like Lego.",
+        "bonus": "It ends in -ung, so it's die."
+      }
     },
     "culture": [
       "At the heart of German hobby life is the Verein, a club or society. There's one for almost everything: football, choir, photography, gardening. People joke that when three Germans get together, they found a Verein.",
       "Want to try something new? Look up your local Volkshochschule (VHS), a community adult-education centre. It offers evening and weekend courses in things like pottery, cooking and languages.",
       "Crafting (basteln) also follows the seasons in Germany. People make star decorations at Christmas, and in autumn children often make their own lanterns (Laterne) for St Martin's Day. ⭐"
     ],
-    "quiz": {"q": "A new colleague asks: ‘Was machst du in deiner Freizeit?’ What's the best answer?", "o": ["Ich zeichne gern und spiele Gitarre.", "Ich arbeite bis 18 Uhr.", "Ich bin 30 Jahre alt."], "a": 0, "why": "Freizeit means free time, so the answer should be about your hobbies."},
+    "quiz": {
+      "q": "A new colleague asks: ‘Was machst du in deiner Freizeit?’ What's the best answer?",
+      "o": [
+        "Ich zeichne gern und spiele Gitarre.",
+        "Ich arbeite bis 18 Uhr.",
+        "Ich bin 30 Jahre alt."
+      ],
+      "a": 0,
+      "why": "Freizeit means free time, so the answer should be about your hobbies."
+    },
     "outro": "Make three sentences about yourself today with ‘In meiner Freizeit … ich gern.’ and say them out loud! 🎨"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日は趣味を話すときに使う10語です。読む、描く、集める、作る、楽器を弾く。この単語があれば自己紹介がぐっと豊かになって、会話も長く続きます。🎨"
     ],
     "words": {
-      "A2-132": {"pron": "ホビー", "tip": "英語の hobby そのまま 🎯 Mein Hobby ist… で始めればOK！", "warn": "複数形は Hobbies ではなく die Hobbys です。"},
-      "A2-131": {"pron": "フライツァイト", "tip": "frei（自由な）+ Zeit（時間）= 自由時間 🏖️ 英語の free time そのまま！", "bonus": "in meiner Freizeit = 余暇に"},
-      "A1-060": {"pron": "レーゼン", "tip": "もとは「拾う、集める」という意味 📚 文字を一つずつ拾い集めるのが読むこと！", "warn": "不規則：du liest, er liest / hat gelesen"},
-      "A1-311": {"pron": "マーレン", "tip": "絵の具で色を塗って描くのが malen 🖌️ 画家は der Maler！", "warn": "鉛筆で線を描くのは zeichnen です。"},
-      "A2-636": {"pron": "ツァイヒネン", "tip": "Zeichen（しるし、記号）から ✏️ 紙にしるしを付けるように描きます。", "bonus": "線画、デッサンは die Zeichnung"},
-      "A2-564": {"pron": "ザメルン", "tip": "英語の sample（サンプル）みたいに、いろいろ集めるイメージ 🧸 Briefmarken sammeln = 切手集め", "bonus": "コレクションは die Sammlung"},
-      "A2-422": {"pron": "バステルン", "tip": "紙とはさみとのりでちょきちょき工作 ✂️ ドイツの子どもが大好きな時間！", "bonus": "一緒に使う動詞：kleben（貼る）、schneiden（切る）"},
-      "B2-2758": {"pron": "シュトリッケン", "tip": "もとは「結ぶ」という意味 🧶 結んで結んでマフラー完成！", "bonus": "かぎ針編みは häkeln"},
-      "A2-488": {"pron": "インストルメント", "tip": "英語の instrument と同じ 🎸 アクセントは最後の「メント」に！", "bonus": "楽器には spielen を使います：Ich spiele Klavier."},
-      "B2-2765": {"pron": "フライツァイトベシェフティグング", "tip": "Freizeit + Beschäftigung（すること）= 余暇の過ごし方 🧩 長いけどレゴのように組み立てるだけ！", "bonus": "-ung で終わるので die です。"}
+      "A2-132": {
+        "pron": "ホビー",
+        "tip": "英語の hobby そのまま 🎯 Mein Hobby ist… で始めればOK！",
+        "warn": "複数形は Hobbies ではなく die Hobbys です。"
+      },
+      "A2-131": {
+        "pron": "フライツァイト",
+        "tip": "frei（自由な）+ Zeit（時間）= 自由時間 🏖️ 英語の free time そのまま！",
+        "bonus": "in meiner Freizeit = 余暇に"
+      },
+      "A1-060": {
+        "pron": "レーゼン",
+        "tip": "もとは「拾う、集める」という意味 📚 文字を一つずつ拾い集めるのが読むこと！",
+        "warn": "不規則：du liest, er liest / hat gelesen"
+      },
+      "A1-311": {
+        "pron": "マーレン",
+        "tip": "絵の具で色を塗って描くのが malen 🖌️ 画家は der Maler！",
+        "warn": "鉛筆で線を描くのは zeichnen です。"
+      },
+      "A2-636": {
+        "pron": "ツァイヒネン",
+        "tip": "Zeichen（しるし、記号）から ✏️ 紙にしるしを付けるように描きます。",
+        "bonus": "線画、デッサンは die Zeichnung"
+      },
+      "A2-564": {
+        "pron": "ザメルン",
+        "tip": "英語の sample（サンプル）みたいに、いろいろ集めるイメージ 🧸 Briefmarken sammeln = 切手集め",
+        "bonus": "コレクションは die Sammlung"
+      },
+      "A2-422": {
+        "pron": "バステルン",
+        "tip": "紙とはさみとのりでちょきちょき工作 ✂️ ドイツの子どもが大好きな時間！",
+        "bonus": "一緒に使う動詞：kleben（貼る）、schneiden（切る）"
+      },
+      "B2-2758": {
+        "pron": "シュトリッケン",
+        "tip": "もとは「結ぶ」という意味 🧶 結んで結んでマフラー完成！",
+        "bonus": "かぎ針編みは häkeln"
+      },
+      "A2-488": {
+        "pron": "インストルメント",
+        "tip": "英語の instrument と同じ 🎸 アクセントは最後の「メント」に！",
+        "bonus": "楽器には spielen を使います：Ich spiele Klavier."
+      },
+      "B2-2765": {
+        "pron": "フライツァイトベシェフティグング",
+        "tip": "Freizeit + Beschäftigung（すること）= 余暇の過ごし方 🧩 長いけどレゴのように組み立てるだけ！",
+        "bonus": "-ung で終わるので die です。"
+      }
     },
     "culture": [
       "ドイツの趣味生活の中心にあるのが Verein（クラブ、同好会）です。サッカー、合唱、写真、庭いじりまで、ほとんどすべての趣味に Verein があります。「ドイツ人が3人集まると Verein を作る」という冗談があるほどです。",
       "新しい趣味を始めたいなら、Volkshochschule（VHS）を探してみましょう。地域の市民学校で、陶芸、料理、外国語などの講座を夜や週末に受けられます。",
       "ドイツでは季節ごとに basteln する習慣もあります。クリスマスには星の飾りを、秋には子どもたちが聖マルティン祭のちょうちん（Laterne）を手作りすることもあります。⭐"
     ],
-    "quiz": {"q": "新しい同僚に「Was machst du in deiner Freizeit?」と聞かれました。いちばん合う答えは？", "o": ["Ich zeichne gern und spiele Gitarre.", "Ich arbeite bis 18 Uhr.", "Ich bin 30 Jahre alt."], "a": 0, "why": "Freizeit は「余暇」なので、趣味で答えるのが正解です。"},
+    "quiz": {
+      "q": "新しい同僚に「Was machst du in deiner Freizeit?」と聞かれました。いちばん合う答えは？",
+      "o": [
+        "Ich zeichne gern und spiele Gitarre.",
+        "Ich arbeite bis 18 Uhr.",
+        "Ich bin 30 Jahre alt."
+      ],
+      "a": 0,
+      "why": "Freizeit は「余暇」なので、趣味で答えるのが正解です。"
+    },
     "outro": "今日は「In meiner Freizeit … ich gern.」に自分の趣味を入れて、3つ文を言ってみましょう！🎨"
+  },
+  "tr": {
+    "title": "Resim, örgü, koleksiyon: Hobilerinizi 10 Almanca kelimeyle anlatın",
+    "hook": "Alman arkadaş edinmenin en hızlı yolu havadan sudan konuşmak değil; hobilerden konuşmak.",
+    "intro": [
+      "Dil kursunda ilk gün ve öğretmen soruyor: ‘Was machst du in deiner Freizeit?’ Herkes rahatça cevap veriyor, ama sıra size gelince aklınıza gelen tek şey ‘Ich… Netflix?’ Oysa aslında resim çiziyor ve örgü örüyorsunuz!",
+      "Bugünkü on kelime hobilerden söz etmek için. Okumak, çizmek, biriktirmek, el işi, enstrüman çalmak: bunlarla kendinizi tanıtmak çok daha ilginç hâle gelir ve sohbetler daha uzun sürer. 🎨"
+    ],
+    "words": {
+      "A2-132": {
+        "pron": "HO-bi",
+        "tip": "Türkçedeki “hobi” ile aynı 🎯 Mein Hobby ist… ile başlayın, tamam.",
+        "warn": "Çoğulu die Hobbys, ‘Hobbies’ değil."
+      },
+      "A2-131": {
+        "pron": "FRAY-tsayt",
+        "tip": "frei (boş, serbest) + Zeit (zaman) = boş zaman 🏖️ Kelimesi kelimesine!",
+        "bonus": "in meiner Freizeit = boş zamanlarımda"
+      },
+      "A1-060": {
+        "pron": "LEE-zen",
+        "tip": "İlk anlamı toplamak, devşirmekti 📚 Okumak harfleri toplamaktır.",
+        "warn": "Düzensiz: du liest, er liest / hat gelesen"
+      },
+      "A1-311": {
+        "pron": "MA-len",
+        "tip": "Renklerle resim yapmak malen'dir 🖌️ Ressam der Maler.",
+        "warn": "Kurşun kalemle çizgi çizmek zeichnen'dir."
+      },
+      "A2-636": {
+        "pron": "TSAYH-nen",
+        "tip": "Zeichen (işaret) kelimesinden 🔖 Kâğıda işaretler koyarsınız.",
+        "bonus": "Çizim die Zeichnung"
+      },
+      "A2-564": {
+        "pron": "ZAM-meln",
+        "tip": "Her şeyden bir “numune” toplamak gibi düşünün 🧸 Briefmarken sammeln = pul biriktirmek.",
+        "bonus": "Koleksiyon die Sammlung"
+      },
+      "A2-422": {
+        "pron": "BAS-teln",
+        "tip": "Kâğıt, makas, yapıştırıcı; hadi bir şey yapalım ✂️ Her Alman çocuğunun en sevdiği ders.",
+        "bonus": "İşe yarar fiiller: kleben (yapıştırmak), schneiden (kesmek)"
+      },
+      "B2-2758": {
+        "pron": "ŞTRİK-ken",
+        "tip": "Düğüm atmak anlamına gelen eski bir kelimeden 🧶 Yeterince düğüm atarsanız bir atkınız olur.",
+        "bonus": "Tığ işi häkeln'dir"
+      },
+      "A2-488": {
+        "pron": "in-stru-MENT",
+        "tip": "Türkçedeki “enstrüman” ile aynı kökten 🎸 Vurguyu sona verin: in-stru-MENT.",
+        "bonus": "spielen ile kullanılır: Ich spiele Klavier."
+      },
+      "B2-2765": {
+        "pron": "FRAY-tsayt-be-şef-ti-gunk",
+        "tip": "Freizeit + Beschäftigung (uğraş) = boş zamanda yapılacak bir şey 🧩 Uzun, ama Lego gibi birbirine geçiyor.",
+        "bonus": "-ung ile bitiyor, o yüzden die."
+      }
+    },
+    "culture": [
+      "Alman hobi hayatının kalbinde Verein, yani kulüp ya da dernek vardır. Neredeyse her şey için bir tane bulunur: futbol, koro, fotoğrafçılık, bahçecilik. Üç Alman bir araya gelince bir Verein kurar diye şaka yapılır.",
+      "Yeni bir şey denemek mi istiyorsunuz? Bölgenizdeki Volkshochschule'ye (VHS), yani halk eğitim merkezine bakın. Seramikten yemek yapmaya ve dillere kadar akşam ve hafta sonu kursları sunar.",
+      "Almanya'da el işi (basteln) de mevsimlere göre değişir. Noel'de yıldız süsleri yapılır, sonbaharda ise çocuklar Aziz Martin Günü için çoğu zaman kendi fenerlerini (Laterne) yapar. ⭐"
+    ],
+    "quiz": {
+      "q": "Yeni bir iş arkadaşınız soruyor: ‘Was machst du in deiner Freizeit?’ En iyi cevap hangisi?",
+      "o": [
+        "Ich zeichne gern und spiele Gitarre.",
+        "Ich arbeite bis 18 Uhr.",
+        "Ich bin 30 Jahre alt."
+      ],
+      "a": 0,
+      "why": "Freizeit boş zaman demektir; cevap hobilerinizle ilgili olmalı."
+    },
+    "outro": "Bugün ‘In meiner Freizeit … ich gern.’ kalıbıyla kendiniz hakkında üç cümle kurun ve yüksek sesle söyleyin! 🎨"
   }
 }

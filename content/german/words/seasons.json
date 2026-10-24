@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "冬、とても寒いです。「寒いです」を正しく言っているのは？", "o": ["Ich bin kalt.", "Mir ist kalt.", "Ich habe kalt."], "a": 1, "why": "暑さや寒さを感じるときは、Mir ist kalt. のように3格の mir を使います。"},
     "outro": "今日は窓の外を見て „Heute ist es …“ で天気をひとこと言ってみましょう。好きな季節も：„Meine Lieblingsjahreszeit ist …“ 🍂"
+  },
+  "tr": {
+    "title": "10 Almanca kelimeyle bir yıl",
+    "hook": "Almanlarla sohbet etmenin en kolay yolu mu? Hava durumu ve mevsimler.",
+    "intro": [
+      "Berlin'deki ilk kışımda hava öğleden sonra dörtte kararıyordu. Bir iş arkadaşım „Der Winter hier ist lang, oder?“ dedi, ben de başımı salladım — ama meğer ‘üşüyorum’u baştan beri yanlış söylüyormuşum.",
+      "Bugünkü on kelime dört mevsimi ve havayı kapsıyor. Bunlarla hangi mevsimi sevdiğinizi söyleyebilir, sıcakladığınızı ya da üşüdüğünüzü doğru ifade edebilir ve asansördeki her sohbetin altından kalkabilirsiniz. 🍂"
+    ],
+    "words": {
+      "A1-647": {"pron": "YA-res-tsayt", "tip": "Jahr (yıl) + Zeit (zaman) = yılın bir zamanı 🗓️ die Zeit'i takip eder, yani die.", "bonus": "en sevdiğiniz mevsim = die Lieblingsjahreszeit"},
+      "A1-260": {"pron": "FRÜ-ling", "tip": "früh (erken) + -ling = yılın erken kısmı 🌸", "bonus": "Mevsimler im alır: im Frühling"},
+      "A1-136": {"pron": "ZO-mer", "tip": "İngilizce summer ile aynı kökten ☀️ s yumuşak bir z gibi okunur.", "bonus": "yaz tatili = der Sommerurlaub"},
+      "A1-261": {"pron": "HERPST", "tip": "İngilizce harvest (hasat) ile aynı kökten 🍁 Sonbahar ürünlerin toplandığı zamandır.", "warn": "O rbst ünsüz yığını zordur. Yavaş yavaş çalışın!"},
+      "A1-137": {"pron": "VİN-ter", "tip": "İngilizce winter ile aynı yazılış ❄️ Sadece w'yi v gibi okuyun.", "bonus": "Bütün mevsimler der'dir: der Frühling, der Sommer, der Herbst, der Winter"},
+      "A1-200": {"pron": "VARM", "tip": "İngilizce warm, Almanca v sesiyle 🧣 Zieh dich warm an! = Sıkı giyin!", "warn": "Umlautlu karşılaştırma: wärmer, am wärmsten"},
+      "A1-364": {"pron": "HAYS", "tip": "İngilizce hot ile aynı kökten 🔥 Sıcak bir ‘hays’ nefesi verin.", "warn": "Sıcakladım = Mir ist heiß. Ich bin heiß. ise ‘seksiyim’ demektir!"},
+      "A1-199": {"pron": "KALT", "tip": "İngilizce cold → kalt, neredeyse aynı 🥶", "warn": "Üşüyorum = Mir ist kalt. Ich bin kalt. ‘soğuk kalpliyim’ demektir."},
+      "A1-139": {"pron": "ŞNEY", "tip": "İngilizce snow ile aynı kökten ☃️ Kardan adam der Schneemann'dır.", "bonus": "Kar yağıyor = Es schneit."},
+      "B1-1652": {"pron": "LAUP", "tip": "İngilizce leaf ile aynı kökten 🍂 Laub yerdeki yaprak yığınının tamamıdır.", "warn": "Topluluk ismi, sadece tekil. Tek bir yaprak das Blatt'tır."}
+    },
+    "culture": [
+      "Almanya'da gün ışığı yıl boyunca çok değişir. Haziranda saat 22'ye yakın hâlâ aydınlık olabilirken, aralıkta saat dört civarı hava kararabilir. Almanların yaz güneşinin tadını sonuna kadar çıkarmasına şaşmamalı.",
+      "Her mevsimin dört gözle beklenen yiyecekleri vardır. İlkbahar beyaz kuşkonmaz (Spargel) mevsimini getirir; sonbaharda ise birçok bölgede Federweißer denen, hâlâ mayalanan genç şarap soğanlı tartla (Zwiebelkuchen) birlikte keyifle içilir.",
+      "Almanların sık sık şöyle dediğini duyarsınız: „Es gibt kein schlechtes Wetter, nur falsche Kleidung.“ Kötü hava yoktur, sadece yanlış kıyafet vardır. 🧥"
+    ],
+    "quiz": {"q": "Kışın hava buz gibi. ‘Üşüyorum’u doğru nasıl söylersiniz?", "o": ["Ich bin kalt.", "Mir ist kalt.", "Ich habe kalt."], "a": 1, "why": "Sıcaklık ya da soğukluk hissi için Almanca datif kullanır: Mir ist kalt."},
+    "outro": "Pencereden bakın ve bugünkü havayı tek cümleyle anlatın: „Heute ist es …“ Sonra ekleyin: „Meine Lieblingsjahreszeit ist …“ 🍂"
   }
 }

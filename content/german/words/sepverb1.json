@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "「私は7時に起きます」を正しく言っている文はどれ？", "o": ["Ich aufstehe um sieben Uhr.", "Ich stehe um sieben auf Uhr.", "Ich stehe um sieben Uhr auf."], "a": 2, "why": "分離動詞は、前つづり（auf）が文のいちばん最後に来ます。"},
     "outro": "今日一日を分離動詞で言ってみましょう。「Ich stehe um … auf, ich kaufe ein, ich sehe fern.」前つづりを最後にくっつけるのを忘れずに！🔀"
+  },
+  "tr": {
+    "title": "Ayrılabilen fiiller 1. bölüm: ikiye bölünen 10 fiil",
+    "hook": "Almanca bir cümlenin sonunu beklemek gerektiği söylenir — sebebi ayrılabilen fiillerdir.",
+    "intro": [
+      "Alman bir arkadaşınız ‘Ich rufe dich morgen…’ deyip duraksıyor. Sizi arayacak mı, yoksa başka bir şey mi? Ancak cümlenin en sonunda ‘…an’ gelince ‘seni yarın ararım’ olduğunu anlıyorsunuz.",
+      "Bugünkü on ayrılabilen fiili her gün kullanacaksınız. Bunlarla günlük rutininizi anlatabilir, arkadaşlarınızı davet edebilir, trenlerin kalkışından ve varışından söz edebilirsiniz. Ön ekin nereye gittiğine dikkat! 🔀"
+    ],
+    "words": {
+      "A1-074": {"pron": "AN-ru-fen", "tip": "an (-e) + rufen (seslenmek) = birine seslenmek 📞", "warn": "Aranan kişi akuzatif: Ich rufe dich an. (dir değil)", "bonus": "Beni ara! = Ruf mich an!"},
+      "A1-072": {"pron": "AUF-şte-en", "tip": "auf (yukarı) + stehen (ayakta durmak) = ayağa kalkmak ⏰ Tıpkı İngilizce stand up gibi.", "warn": "Perfekt sein ile: Ich bin um sechs aufgestanden."},
+      "A1-073": {"pron": "AYN-kau-fen", "tip": "ein (içeri) + kaufen (satın almak) = sepetinize bir şeyler doldurmak 🛒", "bonus": "alışverişe gitmek = einkaufen gehen · alışveriş arabası = der Einkaufswagen", "warn": "Belirli tek bir şey alırken kaufen kullanılır: Ich kaufe ein Brot."},
+      "A1-338": {"pron": "AN-fan-gen", "tip": "an + fangen (yakalamak) = bir işi yakalayıp tutmak 🏁", "warn": "du/er için umlaut: Der Film fängt um acht an."},
+      "A1-339": {"pron": "AUF-hö-ren", "tip": "İçinde hören (duymak) var ama duymakla hiç ilgisi yok 🛑 Kes şunu! = Hör auf!", "bonus": "bir şeyi bırakmak: mit dem Rauchen aufhören = sigarayı bırakmak"},
+      "A1-326": {"pron": "MİT-ko-men", "tip": "mit (ile) + kommen (gelmek) = birlikte gelmek 🙋 Geliyor musun? = Kommst du mit?", "warn": "Perfekt sein ile: Sie ist mitgekommen."},
+      "A1-331": {"pron": "FERN-ze-en", "tip": "fern (uzak) + sehen (görmek) = tele (uzak) + vizyon (görme) — ‘televizyon’un kelimesi kelimesine kopyası 📺", "bonus": "Televizyon cihazı der Fernseher'dir.", "warn": "Ünlü de değişir: Er sieht abends fern."},
+      "A2-072": {"pron": "AYN-la-den", "tip": "ein (içeri) + laden (çağırmak) = birini evinize çağırmak 💌", "warn": "du/er hali lädt: Sie lädt uns ein.", "bonus": "Hesap gelince: Ich lade dich ein! = Benden!"},
+      "A2-163": {"pron": "AN-ko-men", "tip": "an (-e) + kommen (gelmek) = gelip hedefinize ulaşmak 🚉", "warn": "nach değil in + datif: in Berlin ankommen · perfekt sein ile", "bonus": "Das kommt darauf an. = Duruma göre değişir."},
+      "A2-055": {"pron": "AP-fa-ren", "tip": "ab (uzağa) + fahren (gitmek) = hareket edip gitmek 🚌 İstasyon panolarındaki Abfahrt da aynı aileden.", "warn": "fährt ab · perfekt sein ile: Der Bus ist schon abgefahren."}
+    },
+    "culture": [
+      "Mark Twain, Almancayla dalga geçtiği ünlü denemesinde özellikle ayrılabilen fiilleri hedef alır: fiilin ön parçası koca bir cümle uzağa düşebilir. Yani kafanız karışıyorsa iyi bir şirketteysiniz!",
+      "Alman istasyon panolarında kalkışlar (Abfahrt) ve varışlar (Ankunft) ayrı gösterilir — bugünkü abfahren ve ankommen'in isim hali.",
+      "Ayrıca birçok Alman telefonu ‘alo’ yerine soyadını söyleyerek açar. Biri ‘Müller!’ diye açarsa şaşırmayın — neden aradığınızı söyleyin yeter. ☎️"
+    ],
+    "quiz": {"q": "‘Saat yedide kalkarım’ cümlesini hangisi doğru söylüyor?", "o": ["Ich aufstehe um sieben Uhr.", "Ich stehe um sieben auf Uhr.", "Ich stehe um sieben Uhr auf."], "a": 2, "why": "Ayrılabilen fiilde ön parça (auf) cümlenin en sonuna gider."},
+    "outro": "Gününüzü ayrılabilen fiillerle anlatın: ‘Ich stehe um … auf, ich kaufe ein, ich sehe fern.’ Ön parçayı sona göndermeyi unutmayın! 🔀"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "電車が遅れているというアナウンスが流れました。どの文が聞こえたでしょう？", "o": ["Bitte schnell einsteigen!", "Der Zug hat 15 Minuten Verspätung.", "Ich kaufe eine Monatskarte."], "a": 1, "why": "Verspätung は「遅延」なので、「電車が15分遅れています」という意味です。"},
     "outro": "今度バスや電車に乗るとき、einsteigen、aussteigen、umsteigen を心の中でつぶやいてみましょう。Gute Fahrt！🚏"
+  },
+  "tr": {
+    "title": "Alman şehirlerini otobüs ve trenle dolaşmak için 10 kelime",
+    "hook": "Alman istasyonlarında nadiren turnike olur — yani kelimeleri bilmek size kalmış.",
+    "intro": [
+      "Berlin'deki ilk gününüz: U-Bahn'a iniyorsunuz ve hiç turnike yok. Bileti nereden alacaksınız? Doğru peronda mısınız? Bir de anonslar durmadan ‘umsteigen’ diyor.",
+      "Bugünkü on kelime otobüsleri, tramvayları ve metroyu kapsıyor. Bunlarla bilet alabilir, aktarma yapabilir ve treninizin geciktiğini anlayabilirsiniz. 🚇"
+    ],
+    "words": {
+      "A1-034": {"pron": "BUS", "tip": "Latince omnibus, yani ‘herkes için’ kelimesinin kısası 🚌 Türkçedeki ‘otobüs’ de aynı kökten.", "warn": "Çoğulunda çift s var: die Busse."},
+      "A1-214": {"pron": "U-ban", "tip": "U = Untergrund (yeraltı) + Bahn (demiryolu) 🚇 Mavi tabela üstünde beyaz U'yu arayın.", "bonus": "S-Bahn, şehri banliyöleriyle bağlayan banliyö trenidir."},
+      "A1-215": {"pron": "ŞTRA-sen-ban", "tip": "Straße (cadde) + Bahn (demiryolu) = caddedeki demiryolu 🚋 Yani tramvay.", "bonus": "Güneyde ve İsviçre'de die Tram da duyarsınız."},
+      "BL-07-01": {"pron": "FAR-kar-te", "tip": "fahren (yolculuk etmek) + Karte (kart) = yolculuk kartınız 🎫", "bonus": "Tek yön bileti der Einzelfahrschein; günlük bilet die Tageskarte'dir."},
+      "BL-07-02": {"pron": "HAL-te-şte-le", "tip": "halten (durmak — ‘halt!’ı düşünün) + Stelle (yer) = durduğu yer 🚏", "bonus": "Tren istasyonu der Bahnhof; son durak die Endhaltestelle'dir."},
+      "A2-312": {"pron": "AYN-ştay-gen", "tip": "ein- (içeri) + steigen (tırmanmak) = içeri tırmanmak ⬆️ Otobüse adım attığınızı düşünün.", "warn": "Ayrılabilen ve perfekt sein ile: Ich bin eingestiegen."},
+      "BL-07-07": {"pron": "AUS-ştay-gen", "tip": "aus- (dışarı) + steigen = dışarı inmek 🚪 ein ve aus'u çift olarak öğrenin.", "warn": "Perfekt sein ile: Ich bin ausgestiegen."},
+      "A2-056": {"pron": "UM-ştay-gen", "tip": "um- (değişim) + steigen = araç değiştirmek 🔄 İstasyon anonslarının en sevdiği kelime.", "bonus": "Sie müssen in Frankfurt umsteigen. = Frankfurt'ta aktarma yapmanız gerekiyor."},
+      "A2-008": {"pron": "fer-ŞPEY-tunk", "tip": "İçinde spät (geç) saklı ⏰ -ung ile bittiği için die.", "bonus": "haben ile kullanılır: Der Zug hat 10 Minuten Verspätung."},
+      "BL-07-10": {"pron": "MO-nats-kar-te", "tip": "Monat (ay) + s + Karte = bir aylık bilet 📅 Her gün biniyorsanız değer — tıpkı aylık ‘abonman’ gibi.", "bonus": "Yıllık bilet die Jahreskarte, haftalık bilet die Wochenkarte'dir."}
+    },
+    "culture": [
+      "Alman toplu taşımasının çoğunda turnike yoktur. Bunun yerine sivil kontrolörler biletleri rastgele kontrol eder. Biletsiz yolculuğa Schwarzfahren denir ve yakalanmanın cezası yüklüdür.",
+      "Bazı şehirlerde kâğıt bilet ancak bir makinede damgalandıktan (entwerten) sonra geçerli olur. Üzerinde tarih ve saat yoksa hiç biletiniz yokmuş gibi sayılabilir — o yüzden binmeden kontrol edin.",
+      "Artık birçok kişi bileti uygulamadan alıyor; işe gidip gelenlerin çoğu da ülke genelinde yerel ve bölgesel ulaşım için bir abonelik olan Deutschlandticket'ı kullanıyor. 🎫"
+    ],
+    "quiz": {"q": "Treninizin geciktiğine dair bir anons yapılıyor. Hangi cümleyi duydunuz?", "o": ["Bitte schnell einsteigen!", "Der Zug hat 15 Minuten Verspätung.", "Ich kaufe eine Monatskarte."], "a": 1, "why": "Verspätung gecikme demektir; yani tren 15 dakika gecikmeli."},
+    "outro": "Bir dahaki otobüs ya da tren yolculuğunuzda doğru anlarda kendi kendinize einsteigen, aussteigen ve umsteigen diye fısıldayın. Gute Fahrt! 🚏"
   }
 }

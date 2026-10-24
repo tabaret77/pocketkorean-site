@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "広告で気に入った部屋を見つけました。内見してもいいか聞くのはどれ？", "o": ["Ist das Zimmer möbliert?", "Wann kann ich einziehen?", "Kann ich das Zimmer besichtigen?"], "a": 2, "why": "besichtigen は「（物件を）見に行く」なので、内見をお願いする言い方です。"},
     "outro": "自分の部屋をドイツ語の広告みたいに紹介してみましょう。Das Zimmer hat 15 Quadratmeter und ist möbliert. と声に出して！🔑"
+  },
+  "tr": {
+    "title": "Almanya'da ev arayışı: ihtiyacınız olacak 10 kelime",
+    "hook": "Almanya'da oda bulmak bir iş görüşmesi gibi gelebilir, o yüzden önce kelimelerinizi hazırlayın.",
+    "intro": [
+      "Berlin'de ilk kez oda ararken her ilana onlarca mesaj atmıştım. Sonunda biri cevap verip evi görmeye gittiğimde salon başka adaylarla doluydu ve sorular arka arkaya geliyordu.",
+      "Bugünkü on kelime ev ararken karşılaşacağınız kelimeler. Bunlarla bir ilanı okuyabilir, ev görmeye gidebilir, depozitoyu sorabilir ve taşınma tarihinde anlaşabilirsiniz. 🏘️"
+    ],
+    "words": {
+      "BL-05-01": {"pron": "ve-GE", "tip": "Wohngemeinschaft'ın (ortak yaşam topluluğu) baş harfleri 🏠 die Gemeinschaft → die WG.", "bonus": "Paylaşımlı evde bir oda = das WG-Zimmer"},
+      "BL-05-07": {"pron": "MİT-be-vo-ner", "tip": "mit (ile) + Bewohner (sakin) = birlikte yaşadığınız kişi 👫", "bonus": "Kadın ev arkadaşı die Mitbewohnerin'dir."},
+      "A1-003": {"pron": "TSİ-mer", "tip": "İngilizce timber (kereste) ile aynı kökten 🪵 Odalar eskiden ahşaptan yapılırmış!", "bonus": "Wohnzimmer (oturma odası), Schlafzimmer (yatak odası), Badezimmer (banyo) hepsi Zimmer ile biter."},
+      "A2-202": {"pron": "AN-tsay-ge", "tip": "anzeigen (göstermek) fiilinden 📰 Herkese gösterdiğiniz şey = ilan.", "warn": "Anzeige erstatten polise bir şeyi ihbar etmek demektir. İlan vermek eine Anzeige aufgeben'dir."},
+      "BL-05-06": {"pron": "be-ZİH-ti-gunk", "tip": "be- + Sicht (görüş) + -ung = gidip görmek 👀 -ung, yani die.", "bonus": "Fiili besichtigen: Kann ich das Zimmer besichtigen?"},
+      "BL-05-05": {"pron": "kau-TSYON", "tip": "Depozitonuz konusunda temkinli (caution) olun ve sözleşmeyi okuyun 🔑", "warn": "Yanıltıcı kelime: Kaution depozito (ya da kefalet) demektir, ‘dikkat’ (caution) değil."},
+      "BL-05-08": {"pron": "mö-BLİRT", "tip": "İçinde Möbel (mobilya) var → möbliert 🛋️ Türkçedeki ‘mobilyalı’ gibi.", "bonus": "Zıttı unmöbliert'tir (eşyasız)."},
+      "A1-620": {"pron": "kva-DRAT-me-ter", "tip": "Quadrat (kare) + Meter 📐 İlanlarda genelde qm ya da m² yazar.", "bonus": "Wie viele Quadratmeter hat das Zimmer? = Oda kaç metrekare?"},
+      "BL-05-09": {"pron": "AYN-tsi-en", "tip": "ein (içeri) + ziehen (taşınmak) = eve taşınmak 📦 Çıkmak aus'tur.", "warn": "Ayrılabilen, sein ile: Ich bin gestern eingezogen. ausziehen ise hem ‘evden çıkmak’ hem ‘soyunmak’ demektir."},
+      "A2-053": {"pron": "UM-tsi-en", "tip": "um (değişim) + ziehen (taşınmak) = yaşadığınız yeri değiştirmek 🚚", "warn": "sich umziehen ‘üstünü değiştirmek’ demektir. Ev taşımada sich yoktur ve perfekt sein ile: Wir sind umgezogen."}
+    },
+    "culture": [
+      "Popüler paylaşımlı evler bazen bir ‘WG-Casting’ düzenler: birkaç aday sohbet etmeye gelir. Mesele odadan çok anlaşıp anlaşamayacağınızdır; hobiler, yemek yapma ve temizlik alışkanlıklarıyla ilgili sorular bekleyin.",
+      "İlanlarda sık sık Kaltmiete ve Warmmiete geçer. Kaltmiete çıplak kiradır; Warmmiete ise ısınma gibi ek giderleri (Nebenkosten) içerir. Elmayla elmayı karşılaştırın.",
+      "Taşındıktan sonra genellikle iki hafta içinde adres kaydı (Anmeldung) yaptırmanız gerekir ve bunun için ev sahibinizden ya da ana kiracıdan bir onay formu almanız lazım. Taşınırken isteyin. 📝"
+    ],
+    "quiz": {"q": "İlanda beğendiğiniz bir oda buldunuz. Gelip görüp göremeyeceğinizi nasıl sorarsınız?", "o": ["Ist das Zimmer möbliert?", "Wann kann ich einziehen?", "Kann ich das Zimmer besichtigen?"], "a": 2, "why": "besichtigen bir yeri gezip görmek demektir; yani ev görme randevusu istiyorsunuz."},
+    "outro": "Kendi odanızı bir Alman ilanı gibi anlatmayı deneyin: Das Zimmer hat 15 Quadratmeter und ist möbliert. Yüksek sesle söyleyin! 🔑"
   }
 }

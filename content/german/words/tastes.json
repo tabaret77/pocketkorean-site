@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちのスープがとても薄味です。やんわり伝えるなら？", "o": ["Die Suppe ist sehr scharf.", "Die Suppe schmeckt ein bisschen fade.", "Die Zitrone ist sehr sauer."], "a": 1, "why": "fade は味が薄いという意味なので、「スープがちょっと薄味だね」となります。"},
     "outro": "今日の夕ごはんで、食べるものの味をひとつずつドイツ語で言ってみましょう。süß？ salzig？ それとも köstlich？😋"
+  },
+  "tr": {
+    "title": "„lecker“dan fazlası: tat bildiren 10 Almanca kelime",
+    "hook": "Alman bir garson „Hat's geschmeckt?“ diye sorduğunda, „Ja“dan fazlasını söyleyebilmek güzel olurdu.",
+    "intro": [
+      "Alman bir arkadaşınızın evine davetlisiniz. Ev yapımı çorbasından tadıyorsunuz, o da umutla sizi izliyor. Nazik olmak istiyorsunuz ama açıkçası biraz yavan… Bunların hiçbirini Almanca nasıl söylersiniz?",
+      "Bugünkü on kelime tamamen tatla ilgili. Tatlı, tuzlu, acı, yavan, nefis — bunlarla sofrada söyleyecek çok şeyiniz olacak. Yemek gerçekten de öğrenmenin en lezzetli yolu! 😋"
+    ],
+    "words": {
+      "A2-160": {"pron": "ŞME-ken", "tip": "Dudaklarınızı şapırdattığınızı düşünün 👅 Güzelse: Das schmeckt!", "bonus": "Lass es dir schmecken! = Afiyet olsun!", "warn": "‘Tadını beğendim’ datif ile söylenir: Das schmeckt mir."},
+      "BL-01-09": {"pron": "LE-ker", "tip": "lecken (yalamak) ile aynı kökten — parmak yalatan lezzet 🍦", "bonus": "‘Nefis’ demenin günlük yolu: Mmh, lecker!"},
+      "A1-367": {"pron": "ZÜS", "tip": "İngilizce sweet ile aynı kökten 🍰 ‘Sevimli’ anlamına da gelir; bebekler ve yavru köpekler için kullanabilirsiniz — Türkçedeki ‘tatlı’ gibi!", "bonus": "Die Katze ist so süß! = Kedi çok tatlı!"},
+      "B1-1090": {"pron": "ZAL-tsih", "tip": "das Salz (tuz) + -ig 🧂 Tıpkı tuz + -lu = tuzlu gibi.", "bonus": "‘Çok tuzlu’ = Das ist zu salzig."},
+      "A1-368": {"pron": "ZAU-er", "tip": "İngilizce sour ile aynı kökten 🍋 Limon yemiş suratınız aynı zamanda kızgın suratınızdır!", "warn": "Ich bin sauer. ‘Kızgınım’ demektir, ‘ekşiyim’ değil!"},
+      "A2-566": {"pron": "ŞARF", "tip": "İngilizce sharp gibi — dilinizi bıçak gibi keser 🌶️ Acılı yemek scharf'tır.", "warn": "Acı için heiß demeyin; heiß sadece sıcaklık demektir."},
+      "A1-439": {"pron": "Bİ-ter", "tip": "Türkçedeki ‘bitter çikolata’daki bitter ile aynı ☕ Bedava bir kelime!"},
+      "B1-736": {"pron": "ge-ŞMAK", "tip": "schmecken'in ismi 🍽️ Başına ge- ekleyin, bir e atın: Geschmack.", "bonus": "Über Geschmack lässt sich nicht streiten. = Zevkler ve renkler tartışılmaz.", "warn": "Çoğulu umlautlu: die Geschmäcker"},
+      "A2-786": {"pron": "KÖST-lih", "tip": "die Kost (yiyecek) kelimesinden ✨ lecker'dan bir basamak daha şık.", "bonus": "sich köstlich amüsieren = çok iyi eğlenmek"},
+      "B2-2216": {"pron": "FA-de", "tip": "Fransızca fade, yani tatsız kelimesinden 🥄 Lezzet uçup gitmiş.", "bonus": "Yavansa tuz isteyin: Kannst du mir das Salz geben?"}
+    },
+    "culture": [
+      "Bir Alman restoranında yemeğin sonuna doğru görevliler çoğu zaman „Hat es Ihnen geschmeckt?“ diye sorar. Bu çoğunlukla nezaket rutinidir, yani „Ja, sehr lecker, danke!“ fazlasıyla yeterli.",
+      "Birçok işyerinde öğle saatinde selam olarak „Mahlzeit!“ duyarsınız. Bölgeye ve şirkete göre değişir ama pek çok ofiste insanlar öğle civarı birbirinin yanından geçerken bunu söyler.",
+      "Birçok Alman için scharf, Kore, Tay ya da Hint yemeklerinden bekleyeceğinizden çok daha hafiftir. Menüde acılı yazıyorsa beklentinizi mütevazı tutmak çoğu zaman akıllıca olur! 🌶️"
+    ],
+    "quiz": {"q": "Arkadaşınızın çorbası çok yavan. Bunu kibarca nasıl söylersiniz?", "o": ["Die Suppe ist sehr scharf.", "Die Suppe schmeckt ein bisschen fade.", "Die Zitrone ist sehr sauer."], "a": 1, "why": "fade ‘yavan’ demektir; cümle ‘Çorbanın tadı biraz yavan’ anlamına gelir."},
+    "outro": "Bu akşam yemekte yediğiniz her şeyi Almanca tarif edin. süß mü? salzig mi? Yoksa köstlich mi? 😋"
   }
 }

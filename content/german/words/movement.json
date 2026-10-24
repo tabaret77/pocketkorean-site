@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "月曜日、同僚に「週末に山でハイキングしました」と言うには？", "o": ["Wir haben in den Bergen gewandert.", "Wir sind in den Bergen gewandert.", "Wir wandern in den Bergen gewandert."], "a": 1, "why": "wandern は場所を移動する動詞なので、完了形は sein を使います：Wir sind gewandert."},
     "outro": "今日した動きを完了形で言ってみましょう。「Ich bin heute gelaufen!」のように。sein を忘れずに！🏃‍♀️"
+  },
+  "tr": {
+    "title": "Koş, zıpla, tırman: Sizi harekete geçirecek 10 Almanca fiil",
+    "hook": "Bu fiiller Perfekt'te haben yerine sein'ı tercih eder; bugün nedenini öğreneceksiniz.",
+    "intro": [
+      "Pazartesi sabahı bir meslektaşınız soruyor: ‘Was hast du am Wochenende gemacht?’ Doğa yürüyüşüne gittiniz, gölde yüzdünüz ve otobüse yetişmek için koştunuz… ‘Ich habe gewandert’ diyorsunuz ve meslektaşınız hafifçe gülümsüyor. Neden?",
+      "Bugünkü 10 fiil tamamen vücudunuzu hareket ettirmekle ilgili. Bunlarla hafta sonunuzu canlı bir şekilde anlatabilir, bu arada kuralı da kapabilirsiniz: Bir yerden başka bir yere hareket ettiğinizde Perfekt genellikle sein ile kurulur. 🏃"
+    ],
+    "words": {
+      "A1-179": {"pron": "LAU-fen", "tip": "İngilizce leap ile aynı kökten 🏃 laufen hem koşmayı hem yürümeyi kapsar.", "warn": "Düzensiz ve sein ile: er läuft – ist gelaufen", "bonus": "Wie läuft’s? = İşler nasıl gidiyor?"},
+      "B1-1073": {"pron": "RE-nen", "tip": "İngilizce run ile kuzen 💨 laufen'dan daha hızlı ve daha acil.", "warn": "Düzensiz geçmiş: rannte – ist gerannt"},
+      "B1-1175": {"pron": "ŞPRİN-gen", "tip": "Bir yayı (İngilizce spring) düşünün; boing! 🦘", "bonus": "atlayış = der Sprung · suya atlamak = ins Wasser springen"},
+      "A1-178": {"pron": "ŞVİ-men", "tip": "İngilizce swim'in ikizi 🏊 Sadece sw'yi schw yapın.", "warn": "Perfekt'te genellikle sein: Ich bin im See geschwommen."},
+      "B1-852": {"pron": "KLE-tern", "tip": "Belki kleben (yapışmak) ile bağlantılı; tırmanırken duvara yapışırsınız 🧗", "bonus": "tırmanma salonu = die Kletterhalle"},
+      "A2-157": {"pron": "VAN-dern", "tip": "İngilizce wander gibi; tepeler ve tarlalar üzerinde dolaşmak 🥾", "warn": "Mahallede küçük bir gezinti spazieren gehen'dir; wandern gerçek bir doğa yürüyüşü demek."},
+      "A2-493": {"pron": "CO-gen", "tip": "Doğrudan İngilizceden 👟 Sadece bir g daha ekleyin.", "bonus": "Perfekt sein ya da haben ile olabilir: Ich bin/habe gejoggt."},
+      "B1-294": {"pron": "be-VE-gen", "tip": "wiegen (sallamak) ile akraba 🤸 Vücudunuzu sallayın ve hareket edin!", "bonus": "Daha çok hareket et! = Beweg dich mehr! · hareket = die Bewegung"},
+      "B1-2406": {"pron": "HÜP-fen", "tip": "İngilizce hop ile aynı kökten 🐰 springen'den daha küçük ve hafif; Türkçedeki ‘hop’ gibi!", "bonus": "Çocuklar sevinçten zıplar: vor Freude hüpfen"},
+      "B2-2227": {"pron": "KRİ-hen", "tip": "İngilizce creep ile kuzen 🐛 Yere yakın ve yavaş yavaş.", "warn": "Düzensiz ve sein ile: kroch – ist gekrochen"}
+    },
+    "culture": [
+      "Almanlar wandern'ı çok sever. İyi işaretlenmiş yürüyüş yolları (Wanderweg) sadece dağlarda değil, bütün ülkede uzanır; hafta sonları yürüyüş botlarıyla yola çıkan aileler görürsünüz.",
+      "Yazın pek çok kişi havuz yerine göllerde yüzer; çoğu şehrin güneşli günlerde dolup taşan bir açık havuzu (Freibad) vardır.",
+      "Ayrıca pazar günleri dükkânların çoğu kapalı olduğundan pek çok kişi günü aile ya da arkadaşlarıyla yürüyüşe (Spaziergang) çıkarak geçirir. 🌳"
+    ],
+    "quiz": {"q": "Pazartesi günü bir meslektaşınıza ‘Dağlarda yürüyüş yaptık’ demek istiyorsunuz. Ne dersiniz?", "o": ["Wir haben in den Bergen gewandert.", "Wir sind in den Bergen gewandert.", "Wir wandern in den Bergen gewandert."], "a": 1, "why": "wandern bir yerden başka bir yere hareket fiilidir, bu yüzden Perfekt sein ile kurulur: Wir sind gewandert."},
+    "outro": "Bugün nasıl hareket ettiğinizi Perfekt ile anlatın, örneğin ‘Ich bin heute gelaufen!’ Ve sein'ı unutmayın! 🏃‍♀️"
   }
 }

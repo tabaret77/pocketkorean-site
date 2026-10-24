@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちが「Ich kann leider nicht zu deiner Party kommen.」と言いました。合うリアクションはどれ？", "o": ["Toll!", "Schade!", "Genau!"], "a": 1, "why": "Schade! =「残念！」。友だちが来られないという残念な知らせにぴったりの反応です。"},
     "outro": "今日はあいづちを打つたびに、心の中でドイツ語のリアクションも添えてみましょう。まずは Genau から始めれば、すぐ口ぐせになりますよ！😉"
+  },
+  "tr": {
+    "title": "Sohbeti canlı tutan 10 Almanca tepki kelimesi",
+    "hook": "Sohbetin ortasında Almancanız tükendiğinde tek kelimelik bir tepki durumu kurtarabilir.",
+    "intro": [
+      "Alman arkadaşınız uzun bir hikâye anlatıyor, sizin yapabildiğiniz tek şey başınızı sallamak. ‘Ja… ja… ja…’ — ta ki size ‘Beni dinliyor musun?’ der gibi bakana kadar.",
+      "Bugünkü on kelime, Almanların sürekli kullandığı küçük tepkiler: aynen!, gerçekten mi?, ne yazık!, hiçbir fikrim yok! Henüz uzun cümleler kuramasanız bile bunlarla sohbete hemen dahil olabilirsiniz. 😲"
+    ],
+    "words": {
+      "B1-379": {"pron": "ge-NAV", "tip": "Almanlar bunu günde yüz kere söyler 🎯 Başınızı sallayıp Genau! deyin = Aynen!", "bonus": "Daha güçlüsü: Ganz genau! = Kesinlikle!"},
+      "A2-632": {"pron": "VİRK-lih", "tip": "Sesinizi yükseltin: Wirklich? = Gerçekten mi? 🤨 Cümle içinde: Das ist wirklich gut!", "bonus": "tatsächlich da ‘gerçekten, hakikaten’ demenin yaygın bir yolu."},
+      "B1-368": {"pron": "EHT", "tip": "Echt?! = Ciddi misin?! 🤯 Arkadaşlar arasında wirklich'ten bile yaygın.", "bonus": "Güçlendirici olarak: echt gut = gerçekten iyi · echt schlimm = gerçekten kötü"},
+      "A2-1091": {"pron": "a-HA", "tip": "Kafanızda bir ampul yanınca çıkan ses 💡 Türkçedeki ‘haa!’ gibi!", "bonus": "En yakın arkadaşı: Ach so! = Haa, anladım!"},
+      "A1-375": {"pron": "TOL", "tip": "Eskiden ‘deli’ demekmiş — deli gibi iyi = harika 🤩", "warn": "İğneleyici söylenirse Na toll! ‘Ne güzel ya…’ demektir — tam tersi."},
+      "A2-565": {"pron": "ŞA-de", "tip": "Schaden (zarar) kelimesinden — küçük bir kayıp = ne yazık 😢", "bonus": "Wie schade! = Ne yazık! · Schade, dass… = …olması yazık."},
+      "A2-1043": {"pron": "VAV", "tip": "Doğrudan İngilizceden alınmış 🤩 Almanca versiyonu: Wahnsinn! (Çılgınlık!)", "bonus": "Gençler krass! (müthiş!/inanılmaz!) da der."},
+      "B1-2138": {"pron": "o-YE", "tip": "Kulağa ‘oh yeah!’ gibi gelir ama ‘eyvah!’ demektir 😩 Karıştırmayın!", "bonus": "Daha dramatiği: Ach du meine Güte! = Aman Allahım!"},
+      "A2-921": {"pron": "na-YA", "tip": "na (eh) + ja (evet) = ‘eeh… evet, sayılır’ 🤷 Bütün tereddüt tek kelimede.", "bonus": "naja veya na ja diye yazıldığını görürsünüz."},
+      "B1-1894": {"pron": "KAY-ne A-nunk", "tip": "Hiç Ahnung (sezgi) yok = hiçbir fikrim yok 🤷 Söylerken omuz silkin!", "warn": "Samimi bir ifade. Kibar olmak için: Das weiß ich leider nicht."}
+    },
+    "culture": [
+      "Almanlarla biraz konuşunca her yerde Genau duyarsınız. Bir tepki ama insanlar bir düşünceyi toparlarken dolgu kelimesi olarak da kullanır: ‘Genau, also…’. Başta komik gelir — sonra kendinizi de söylerken yakalarsınız.",
+      "Almanca tepkiler genelde dürüsttür. Biri ‘Naja’ ya da ‘Geht so’ diyorsa gerçekten ‘idare eder’ demek istiyordur. Öte yandan ‘Nicht schlecht!’ çoğu zaman kulağa geldiğinden daha büyük bir övgüdür.",
+      "Ayrıca birçok üniversitede öğrenciler dersin sonunda alkışlamak yerine sıralara vurur. İlk seferinde insan irkilir ama bu, çok Almanca bir teşekkür etme biçimidir. 👏"
+    ],
+    "quiz": {"q": "Arkadaşınız ‘Ich kann leider nicht zu deiner Party kommen.’ diyor. Hangi tepki uygun?", "o": ["Toll!", "Schade!", "Genau!"], "a": 1, "why": "Schade! = Ne yazık! — hayal kırıklığı yaratan bir habere doğru tepki."},
+    "outro": "Bugün bir şeye her tepki verdiğinizde kafanızda Almancasını da ekleyin. Genau ile başlayın, akşama dilinize yapışmış olur! 😉"
   }
 }

@@ -8,23 +8,72 @@
       "오늘은 내 마음을 솔직하게 말할 수 있는 감정 단어 10개를 모았어요. 기쁠 때, 화날 때, 실망했을 때 딱 맞는 말을 고를 수 있게 될 거예요. 😊"
     ],
     "words": {
-      "A2-037": {"pron": "게퓔", "tip": "fühlen(느끼다)에 Ge-를 붙여 명사로 💓 영어 feel이랑 소리도 비슷해요.", "bonus": "Ich habe das Gefühl, dass … = …라는 느낌이 들어요"},
-      "B1-318": {"pron": "지히 퓔렌", "tip": "나 자신(mich)을 느끼는 거예요 🪞 Ich fühle mich gut!", "warn": "재귀동사라 mich가 꼭 필요해요. Ich fühle gut.은 틀려요."},
-      "A1-359": {"pron": "글뤼클리히", "tip": "Glück(행운, 행복) + -lich = 행복한 🍀 영어 luck과 같은 뿌리!", "warn": "‘운이 좋다’는 보통 Glück haben이에요: Ich hatte Glück."},
-      "A1-360": {"pron": "트라우리히", "tip": "‘트라우마’처럼 들리는 슬픔 😢 die Trauer(애도)에서 왔어요.", "bonus": "반대말: fröhlich = 즐거운"},
-      "A1-075": {"pron": "지히 프로이엔", "tip": "die Freude(기쁨)의 동사 버전 🥳 Freude가 넘치면 sich freuen!", "warn": "auf + 4격 = 앞일을 기대하다, über + 4격 = 일어난 일이 기쁘다"},
-      "B1-1422": {"pron": "뷔텐트", "tip": "die Wut(분노)에서 온 형용사 😡 ‘뷔-트!’ 하고 화내는 소리 같지요?", "bonus": "누구에게 화났는지는 auf: Ich bin wütend auf dich."},
-      "A2-147": {"pron": "앙스트", "tip": "원래 ‘좁음’이라는 뜻, 무서우면 가슴이 꽉 조여요 😨 영어 anxiety와 같은 뿌리!", "warn": "vor + 3격과 같이 써요: Ich habe Angst vor Hunden."},
-      "A2-084": {"pron": "네르뵈스", "tip": "영어 nervous와 똑같아요 😬 다만 ö 발음은 입을 동그랗게!", "bonus": "진정해! = Keine Panik! 또는 Ganz ruhig!"},
-      "A2-720": {"pron": "위버라슈트", "tip": "über(위로) + rasch(빠른) = 뭔가 휙 덮쳐 와서 깜짝! 😲", "bonus": "깜짝 파티 = die Überraschungsparty"},
-      "A2-735": {"pron": "엔트토이슈트", "tip": "ent-(벗어나다) + Täuschung(착각) = 착각에서 깨어나서 실망 😞", "bonus": "누구에게 실망했는지는 von: Ich bin enttäuscht von dir."}
+      "A2-037": {
+        "pron": "게퓔",
+        "tip": "fühlen(느끼다)에 Ge-를 붙여 명사로 💓 영어 feel이랑 소리도 비슷해요.",
+        "bonus": "Ich habe das Gefühl, dass … = …라는 느낌이 들어요"
+      },
+      "B1-318": {
+        "pron": "지히 퓔렌",
+        "tip": "나 자신(mich)을 느끼는 거예요 🪞 Ich fühle mich gut!",
+        "warn": "재귀동사라 mich가 꼭 필요해요. Ich fühle gut.은 틀려요."
+      },
+      "A1-359": {
+        "pron": "글뤼클리히",
+        "tip": "Glück(행운, 행복) + -lich = 행복한 🍀 영어 luck과 같은 뿌리!",
+        "warn": "‘운이 좋다’는 보통 Glück haben이에요: Ich hatte Glück."
+      },
+      "A1-360": {
+        "pron": "트라우리히",
+        "tip": "‘트라우마’처럼 들리는 슬픔 😢 die Trauer(애도)에서 왔어요.",
+        "bonus": "반대말: fröhlich = 즐거운"
+      },
+      "A1-075": {
+        "pron": "지히 프로이엔",
+        "tip": "die Freude(기쁨)의 동사 버전 🥳 Freude가 넘치면 sich freuen!",
+        "warn": "auf + 4격 = 앞일을 기대하다, über + 4격 = 일어난 일이 기쁘다"
+      },
+      "B1-1422": {
+        "pron": "뷔텐트",
+        "tip": "die Wut(분노)에서 온 형용사 😡 ‘뷔-트!’ 하고 화내는 소리 같지요?",
+        "bonus": "누구에게 화났는지는 auf: Ich bin wütend auf dich."
+      },
+      "A2-147": {
+        "pron": "앙스트",
+        "tip": "원래 ‘좁음’이라는 뜻, 무서우면 가슴이 꽉 조여요 😨 영어 anxiety와 같은 뿌리!",
+        "warn": "vor + 3격과 같이 써요: Ich habe Angst vor Hunden."
+      },
+      "A2-084": {
+        "pron": "네르뵈스",
+        "tip": "영어 nervous와 똑같아요 😬 다만 ö 발음은 입을 동그랗게!",
+        "bonus": "진정해! = Keine Panik! 또는 Ganz ruhig!"
+      },
+      "A2-720": {
+        "pron": "위버라슈트",
+        "tip": "über(위로) + rasch(빠른) = 뭔가 휙 덮쳐 와서 깜짝! 😲",
+        "bonus": "깜짝 파티 = die Überraschungsparty"
+      },
+      "A2-735": {
+        "pron": "엔트토이슈트",
+        "tip": "ent-(벗어나다) + Täuschung(착각) = 착각에서 깨어나서 실망 😞",
+        "bonus": "누구에게 실망했는지는 von: Ich bin enttäuscht von dir."
+      }
     },
     "culture": [
       "독일에서 ‘Wie geht’s?’는 그냥 인사가 아니라 진짜 질문일 때가 많아요. 그래서 독일 사람들은 ‘Nicht so gut.’처럼 솔직하게 대답하기도 해요. 너무 놀라지 마세요.",
       "반대로 가게 점원이 처음 보는 손님에게 ‘Wie geht’s?’라고 묻는 일은 드물어요. 감정을 나누는 건 어느 정도 친해진 다음이라는 느낌이 있거든요.",
       "그리고 독일어에는 감정을 표현하는 재미있는 합성어가 많아요. 다른 사람의 불행에 몰래 느끼는 기쁨, die Schadenfreude는 영어에도 그대로 들어갔을 정도예요. 😏"
     ],
-    "quiz": {"q": "다음 주에 친구가 한국에서 놀러 와요. ‘정말 기대돼!’를 독일어로 하면?", "o": ["Ich bin enttäuscht.", "Ich habe Angst vor dir.", "Ich freue mich so auf dich!"], "a": 2, "why": "sich freuen auf + 4격 = 앞으로 올 일을 기대하다예요."},
+    "quiz": {
+      "q": "다음 주에 친구가 한국에서 놀러 와요. ‘정말 기대돼!’를 독일어로 하면?",
+      "o": [
+        "Ich bin enttäuscht.",
+        "Ich habe Angst vor dir.",
+        "Ich freue mich so auf dich!"
+      ],
+      "a": 2,
+      "why": "sich freuen auf + 4격 = 앞으로 올 일을 기대하다예요."
+    },
     "outro": "오늘 하루 기분을 단어 하나로 골라서 ‘Heute bin ich …’ 하고 소리 내 말해 봐요. 💬"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Here are ten words to say what you really feel. Happy, angry, disappointed: you'll be able to pick the right word for the moment. 😊"
     ],
     "words": {
-      "A2-037": {"pron": "geh-FUEL", "tip": "Ge- + fühlen (feel) makes a noun 💓 It even sounds a bit like feel.", "bonus": "Ich habe das Gefühl, dass … = I have a feeling that …"},
-      "B1-318": {"pron": "zikh FUE-len", "tip": "You feel yourself (mich) 🪞 Ich fühle mich gut!", "warn": "Reflexive — mich is a must. Ich fühle gut is wrong."},
-      "A1-359": {"pron": "GLUECK-likh", "tip": "Glück (luck, happiness) + -lich = happy 🍀 Same root as English luck.", "warn": "‘Lucky’ is usually Glück haben: Ich hatte Glück."},
-      "A1-360": {"pron": "TROW-rikh", "tip": "Sounds a bit like ‘trauma’ — sad stuff 😢 It comes from die Trauer (grief).", "bonus": "The opposite: fröhlich = cheerful"},
-      "A1-075": {"pron": "zikh FROY-en", "tip": "The verb from die Freude (joy) 🥳 Full of Freude? Then sich freuen!", "warn": "auf + acc. = look forward to; über + acc. = be glad about"},
-      "B1-1422": {"pron": "VUE-tent", "tip": "From die Wut (rage) 😡 Say ‘VOOT!’ like you're stamping your foot.", "bonus": "Angry with someone: Ich bin wütend auf dich."},
-      "A2-147": {"pron": "AHNGST", "tip": "It first meant ‘narrowness’ — fear makes your chest tight 😨 English borrowed it as angst.", "warn": "Use vor + dative: Ich habe Angst vor Hunden."},
-      "A2-084": {"pron": "nair-VERS", "tip": "Just like English nervous 😬 Round your lips for the ö.", "bonus": "Calm down! = Keine Panik! or Ganz ruhig!"},
-      "A2-720": {"pron": "ue-ber-RASHT", "tip": "über (over) + rasch (quick) = something jumps over you fast 😲", "bonus": "surprise party = die Überraschungsparty"},
-      "A2-735": {"pron": "ent-TOYSHT", "tip": "ent- (out of) + Täuschung (illusion) = your illusion is gone 😞", "bonus": "Disappointed in someone: Ich bin enttäuscht von dir."}
+      "A2-037": {
+        "pron": "geh-FUEL",
+        "tip": "Ge- + fühlen (feel) makes a noun 💓 It even sounds a bit like feel.",
+        "bonus": "Ich habe das Gefühl, dass … = I have a feeling that …"
+      },
+      "B1-318": {
+        "pron": "zikh FUE-len",
+        "tip": "You feel yourself (mich) 🪞 Ich fühle mich gut!",
+        "warn": "Reflexive — mich is a must. Ich fühle gut is wrong."
+      },
+      "A1-359": {
+        "pron": "GLUECK-likh",
+        "tip": "Glück (luck, happiness) + -lich = happy 🍀 Same root as English luck.",
+        "warn": "‘Lucky’ is usually Glück haben: Ich hatte Glück."
+      },
+      "A1-360": {
+        "pron": "TROW-rikh",
+        "tip": "Sounds a bit like ‘trauma’ — sad stuff 😢 It comes from die Trauer (grief).",
+        "bonus": "The opposite: fröhlich = cheerful"
+      },
+      "A1-075": {
+        "pron": "zikh FROY-en",
+        "tip": "The verb from die Freude (joy) 🥳 Full of Freude? Then sich freuen!",
+        "warn": "auf + acc. = look forward to; über + acc. = be glad about"
+      },
+      "B1-1422": {
+        "pron": "VUE-tent",
+        "tip": "From die Wut (rage) 😡 Say ‘VOOT!’ like you're stamping your foot.",
+        "bonus": "Angry with someone: Ich bin wütend auf dich."
+      },
+      "A2-147": {
+        "pron": "AHNGST",
+        "tip": "It first meant ‘narrowness’ — fear makes your chest tight 😨 English borrowed it as angst.",
+        "warn": "Use vor + dative: Ich habe Angst vor Hunden."
+      },
+      "A2-084": {
+        "pron": "nair-VERS",
+        "tip": "Just like English nervous 😬 Round your lips for the ö.",
+        "bonus": "Calm down! = Keine Panik! or Ganz ruhig!"
+      },
+      "A2-720": {
+        "pron": "ue-ber-RASHT",
+        "tip": "über (over) + rasch (quick) = something jumps over you fast 😲",
+        "bonus": "surprise party = die Überraschungsparty"
+      },
+      "A2-735": {
+        "pron": "ent-TOYSHT",
+        "tip": "ent- (out of) + Täuschung (illusion) = your illusion is gone 😞",
+        "bonus": "Disappointed in someone: Ich bin enttäuscht von dir."
+      }
     },
     "culture": [
       "In Germany, ‘Wie geht’s?’ is often a real question, not just a greeting. So don't be surprised if someone honestly says ‘Nicht so gut.’",
       "On the other hand, shop staff rarely ask a stranger how they are. Sharing feelings tends to come once people know each other a bit.",
       "German also loves compound words for feelings. Die Schadenfreude — secret joy at someone else's bad luck — even made it into English. 😏"
     ],
-    "quiz": {"q": "A friend from home is visiting next week. How do you say ‘I can't wait to see you!’?", "o": ["Ich bin enttäuscht.", "Ich habe Angst vor dir.", "Ich freue mich so auf dich!"], "a": 2, "why": "sich freuen auf + accusative means to look forward to something or someone."},
+    "quiz": {
+      "q": "A friend from home is visiting next week. How do you say ‘I can't wait to see you!’?",
+      "o": [
+        "Ich bin enttäuscht.",
+        "Ich habe Angst vor dir.",
+        "Ich freue mich so auf dich!"
+      ],
+      "a": 2,
+      "why": "sich freuen auf + accusative means to look forward to something or someone."
+    },
     "outro": "Pick one word for your mood today and say it out loud: ‘Heute bin ich …’ 💬"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日は自分の気持ちを素直に言える感情の単語を10個集めました。うれしいとき、怒ったとき、がっかりしたとき、ぴったりの言葉が選べるようになりますよ。😊"
     ],
     "words": {
-      "A2-037": {"pron": "ゲフュール", "tip": "fühlen（感じる）に Ge- をつけて名詞に 💓 英語の feel と音も似ています。", "bonus": "Ich habe das Gefühl, dass … = …という気がします"},
-      "B1-318": {"pron": "ズィッヒ フューレン", "tip": "自分自身（mich）を感じるんです 🪞 Ich fühle mich gut!", "warn": "再帰動詞なので mich が必要です。Ich fühle gut. は間違いです。"},
-      "A1-359": {"pron": "グリュックリッヒ", "tip": "Glück（幸運、幸せ）+ -lich = 幸せな 🍀 英語の luck と同じ語源！", "warn": "「運がいい」はふつう Glück haben：Ich hatte Glück."},
-      "A1-360": {"pron": "トラウリッヒ", "tip": "「トラウマ」っぽい響きの悲しさ 😢 die Trauer（悲嘆）から来ています。", "bonus": "反対語：fröhlich = 陽気な"},
-      "A1-075": {"pron": "ズィッヒ フロイエン", "tip": "die Freude（喜び）の動詞版 🥳 Freude があふれたら sich freuen！", "warn": "auf + 4格 = これからのことを楽しみにする、über + 4格 = 起きたことを喜ぶ"},
-      "B1-1422": {"pron": "ヴューテント", "tip": "die Wut（怒り）から来た形容詞 😡「ヴーッ！」と怒っている声みたい。", "bonus": "誰に怒っているかは auf：Ich bin wütend auf dich."},
-      "A2-147": {"pron": "アングスト", "tip": "もとは「狭さ」、怖いと胸がぎゅっと締まります 😨 英語の anxiety と同じ語源！", "warn": "vor + 3格と使います：Ich habe Angst vor Hunden."},
-      "A2-084": {"pron": "ネルヴェース", "tip": "英語の nervous とそっくり 😬 ö は唇を丸めて！", "bonus": "落ち着いて！= Keine Panik! / Ganz ruhig!"},
-      "A2-720": {"pron": "ユーバーラッシュト", "tip": "über（上から）+ rasch（素早い）= 何かがさっと覆いかぶさってびっくり 😲", "bonus": "サプライズパーティー = die Überraschungsparty"},
-      "A2-735": {"pron": "エントトイシュト", "tip": "ent-（抜け出す）+ Täuschung（思い違い）= 思い違いから覚めてがっかり 😞", "bonus": "誰にがっかりしたかは von：Ich bin enttäuscht von dir."}
+      "A2-037": {
+        "pron": "ゲフュール",
+        "tip": "fühlen（感じる）に Ge- をつけて名詞に 💓 英語の feel と音も似ています。",
+        "bonus": "Ich habe das Gefühl, dass … = …という気がします"
+      },
+      "B1-318": {
+        "pron": "ズィッヒ フューレン",
+        "tip": "自分自身（mich）を感じるんです 🪞 Ich fühle mich gut!",
+        "warn": "再帰動詞なので mich が必要です。Ich fühle gut. は間違いです。"
+      },
+      "A1-359": {
+        "pron": "グリュックリッヒ",
+        "tip": "Glück（幸運、幸せ）+ -lich = 幸せな 🍀 英語の luck と同じ語源！",
+        "warn": "「運がいい」はふつう Glück haben：Ich hatte Glück."
+      },
+      "A1-360": {
+        "pron": "トラウリッヒ",
+        "tip": "「トラウマ」っぽい響きの悲しさ 😢 die Trauer（悲嘆）から来ています。",
+        "bonus": "反対語：fröhlich = 陽気な"
+      },
+      "A1-075": {
+        "pron": "ズィッヒ フロイエン",
+        "tip": "die Freude（喜び）の動詞版 🥳 Freude があふれたら sich freuen！",
+        "warn": "auf + 4格 = これからのことを楽しみにする、über + 4格 = 起きたことを喜ぶ"
+      },
+      "B1-1422": {
+        "pron": "ヴューテント",
+        "tip": "die Wut（怒り）から来た形容詞 😡「ヴーッ！」と怒っている声みたい。",
+        "bonus": "誰に怒っているかは auf：Ich bin wütend auf dich."
+      },
+      "A2-147": {
+        "pron": "アングスト",
+        "tip": "もとは「狭さ」、怖いと胸がぎゅっと締まります 😨 英語の anxiety と同じ語源！",
+        "warn": "vor + 3格と使います：Ich habe Angst vor Hunden."
+      },
+      "A2-084": {
+        "pron": "ネルヴェース",
+        "tip": "英語の nervous とそっくり 😬 ö は唇を丸めて！",
+        "bonus": "落ち着いて！= Keine Panik! / Ganz ruhig!"
+      },
+      "A2-720": {
+        "pron": "ユーバーラッシュト",
+        "tip": "über（上から）+ rasch（素早い）= 何かがさっと覆いかぶさってびっくり 😲",
+        "bonus": "サプライズパーティー = die Überraschungsparty"
+      },
+      "A2-735": {
+        "pron": "エントトイシュト",
+        "tip": "ent-（抜け出す）+ Täuschung（思い違い）= 思い違いから覚めてがっかり 😞",
+        "bonus": "誰にがっかりしたかは von：Ich bin enttäuscht von dir."
+      }
     },
     "culture": [
       "ドイツでは「Wie geht’s?」がただのあいさつではなく、本当の質問であることが多いです。だから「Nicht so gut.」と正直に答える人もいます。驚かないでくださいね。",
       "逆に、お店の人が初めてのお客さんに「Wie geht’s?」と聞くことはあまりありません。気持ちを話すのは、ある程度親しくなってから、という感覚があるようです。",
       "それからドイツ語には、感情を表すおもしろい合成語がたくさんあります。人の不幸をこっそり喜ぶ気持ち die Schadenfreude は、英語にもそのまま入ったほどです。😏"
     ],
-    "quiz": {"q": "来週、日本から友だちが遊びに来ます。「すごく楽しみ！」をドイツ語で言うと？", "o": ["Ich bin enttäuscht.", "Ich habe Angst vor dir.", "Ich freue mich so auf dich!"], "a": 2, "why": "sich freuen auf + 4格は、これから来ることを楽しみにするという意味です。"},
+    "quiz": {
+      "q": "来週、日本から友だちが遊びに来ます。「すごく楽しみ！」をドイツ語で言うと？",
+      "o": [
+        "Ich bin enttäuscht.",
+        "Ich habe Angst vor dir.",
+        "Ich freue mich so auf dich!"
+      ],
+      "a": 2,
+      "why": "sich freuen auf + 4格は、これから来ることを楽しみにするという意味です。"
+    },
     "outro": "今日の気分を単語ひとつで選んで、「Heute bin ich …」と声に出して言ってみましょう。💬"
+  },
+  "tr": {
+    "title": "Nasılsınız? Duyguları anlatan 10 Almanca kelime",
+    "hook": "‘Wie geht’s?’ sorusuna cevabınız hep ‘Gut!’ ise, bunu değiştirmenin günü bugün.",
+    "intro": [
+      "Bir arkadaşınız ‘Wie geht’s dir?’ diye soruyor. Açıkçası biraz moraliniz bozuk ve bir sınav yüzünden gerginsiniz; ama ağzınızdan çıkan ‘Gut, danke!’ oluyor.",
+      "İşte gerçekten ne hissettiğinizi söylemenizi sağlayacak on kelime. Mutlu, kızgın, hayal kırıklığına uğramış: o ana uygun kelimeyi seçebileceksiniz. 😊"
+    ],
+    "words": {
+      "A2-037": {
+        "pron": "ge-FÜL",
+        "tip": "Ge- + fühlen (hissetmek) bir isim yapar 💓 Kulağa biraz İngilizce feel gibi bile gelir.",
+        "bonus": "Ich habe das Gefühl, dass … = Bana öyle geliyor ki …"
+      },
+      "B1-318": {
+        "pron": "zih FÜ-len",
+        "tip": "Kendinizi (mich) hissedersiniz, tıpkı Türkçedeki “kendimi iyi hissediyorum” gibi 🪞 Ich fühle mich gut!",
+        "warn": "Dönüşlü — mich şart. Ich fühle gut yanlıştır."
+      },
+      "A1-359": {
+        "pron": "GLÜK-lih",
+        "tip": "Glück (şans, mutluluk) + -lich = mutlu 🍀 İngilizce luck ile aynı kökten.",
+        "warn": "‘Şanslı olmak’ genelde Glück haben ile söylenir: Ich hatte Glück."
+      },
+      "A1-360": {
+        "pron": "TRAU-rih",
+        "tip": "Kulağa biraz ‘travma’ gibi geliyor; üzücü şeyler 😢 die Trauer (yas) kelimesinden gelir.",
+        "bonus": "Zıttı: fröhlich = neşeli"
+      },
+      "A1-075": {
+        "pron": "zih FROY-en",
+        "tip": "die Freude (sevinç) kelimesinden gelen fiil 🥳 Freude doluysanız, sich freuen!",
+        "warn": "auf + akuzatif = dört gözle beklemek; über + akuzatif = bir şeye sevinmek"
+      },
+      "B1-1422": {
+        "pron": "VÜ-tent",
+        "tip": "die Wut (öfke) kelimesinden 😡 Ayağınızı yere vurur gibi ‘VÜT!’ deyin.",
+        "bonus": "Birine kızgın olmak: Ich bin wütend auf dich."
+      },
+      "A2-147": {
+        "pron": "ANGST",
+        "tip": "İlk anlamı ‘darlık’tı; korku göğsünüzü daraltır, tıpkı Türkçedeki “içim daraldı” gibi 😨",
+        "warn": "vor + datif ile kullanılır: Ich habe Angst vor Hunden."
+      },
+      "A2-084": {
+        "pron": "ner-VÖS",
+        "tip": "Türkçedeki “nervöz” ile neredeyse aynı 😬 ö'yü bizdeki gibi okuyun.",
+        "bonus": "Sakin ol! = Keine Panik! ya da Ganz ruhig!"
+      },
+      "A2-720": {
+        "pron": "ü-bır-RAŞT",
+        "tip": "über (üzerinden) + rasch (hızlı) = bir şey hızla üzerinize atlar 😲",
+        "bonus": "sürpriz parti = die Überraschungsparty"
+      },
+      "A2-735": {
+        "pron": "ent-TOYŞT",
+        "tip": "ent- (-den çıkmak) + Täuschung (yanılsama) = yanılsamanız gitti 😞",
+        "bonus": "Birinden hayal kırıklığına uğramak: Ich bin enttäuscht von dir."
+      }
+    },
+    "culture": [
+      "Almanya'da ‘Wie geht’s?’ çoğu zaman sadece bir selam değil, gerçek bir sorudur. Bu yüzden biri dürüstçe ‘Nicht so gut.’ derse şaşırmayın.",
+      "Öte yandan mağaza çalışanları bir yabancıya nadiren nasıl olduğunu sorar. Duyguları paylaşmak genellikle insanlar birbirini biraz tanıdıktan sonra gelir.",
+      "Almanca duygular için birleşik kelimelere de bayılır. Başkasının talihsizliğine gizlice sevinmek anlamına gelen die Schadenfreude İngilizceye bile geçmiştir. 😏"
+    ],
+    "quiz": {
+      "q": "Memleketten bir arkadaşınız gelecek hafta ziyarete geliyor. ‘Seni görmek için sabırsızlanıyorum!’ nasıl denir?",
+      "o": [
+        "Ich bin enttäuscht.",
+        "Ich habe Angst vor dir.",
+        "Ich freue mich so auf dich!"
+      ],
+      "a": 2,
+      "why": "sich freuen auf + akuzatif, bir şeyi ya da birini dört gözle beklemek demektir."
+    },
+    "outro": "Bugünkü ruh hâliniz için bir kelime seçin ve yüksek sesle söyleyin: ‘Heute bin ich …’ 💬"
   }
 }

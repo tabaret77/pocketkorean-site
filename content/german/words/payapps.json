@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "カフェで「カードで払えますか？」と聞きたいです。", "o": ["Kann ich mit Karte bezahlen?", "Kann ich meine Karte abbuchen?", "Ist mein Kontostand bargeldlos?"], "a": 0, "why": "mit Karte bezahlen = カードで払う。お店でいちばんよく使う質問です。"},
     "outro": "今日は銀行アプリを開いて、ドイツ語のボタン名を3つだけ声に出して読んでみましょう。💸"
+  },
+  "tr": {
+    "title": "Dokun, öde, gönder: Banka uygulamaları için 10 Almanca kelime",
+    "hook": "Banka uygulamanız sizinle Almanca konuştuğunda ne demek istediğini tam olarak bileceksiniz.",
+    "intro": [
+      "Kirayı ödemek için banka uygulamanızı açıyorsunuz ve ‘TAN eingeben’, ‘Kontostand’, ‘Abbuchung’ görüyorsunuz. Her buton bir muamma ve parayı yanlış yere göndermekten korkuyorsunuz.",
+      "İşte ödeme ve banka uygulamalarında her gün göreceğiniz 10 kelime. Bakiyenize bakmak, kartla ödemek, otomatik ödemelerinizi okumak; hepsini kendi başınıza halledeceksiniz. 📱"
+    ],
+    "words": {
+      "BL-01-04": {"pron": "be-TSA-len", "tip": "be- + zahlen (ödemek); die Zahl (sayı) ile aynı kökten 🔢 Ödemek tamamen sayılarla ilgili.", "bonus": "Restoranda: Zahlen, bitte! = Hesap lütfen!"},
+      "B2-1004": {"pron": "EP", "tip": "Tıpkı İngilizcedeki gibi application'ın kısası 📱 die Applikation dişil olduğu için die App.", "bonus": "uygulama indirmek = eine App herunterladen"},
+      "BL-06-02": {"pron": "KON-to", "tip": "İtalyanca conto (hesap) kelimesinden; Türkçedeki ‘kontör’ ile de akraba 🧮", "warn": "Çoğulu die Konten."},
+      "A2-117": {"pron": "kre-DİT-kar-te", "tip": "Kredit (kredi) + Karte (kart); Türkçedeki ‘kredi kartı’ ile aynı sıra 💳", "warn": "Almanya'da bazı dükkânlar hâlâ kredi kartı kabul etmiyor."},
+      "B1-1424": {"pron": "TSA-lunk", "tip": "zahlen + -ung = ödeme; -ung ile biten kelimeler her zaman die 💶", "bonus": "ödeme yöntemi = die Zahlungsart"},
+      "B2-2572": {"pron": "TAN", "tip": "Transaktionsnummer'in kısası; die Nummer yüzünden dişil 🔐", "warn": "PIN'iniz hep aynı kalır; her işlem için yeni bir TAN alırsınız."},
+      "B2-2571": {"pron": "ON-layn-ben-king", "tip": "Doğrudan İngilizce online banking'den 💻 -ing ile biten isimler genellikle das.", "bonus": "Uygulamada das Mobile Banking da denir."},
+      "B2-2562": {"pron": "AP-bu-hen", "tip": "ab (-den) + buchen (kaydetmek) = hesabınızdan düşülmüş 📉", "warn": "Ayrılabilen fiil: Sie buchen das Geld ab. Edilgen: Die Miete wird abgebucht."},
+      "B1-1571": {"pron": "KON-to-ştant", "tip": "Konto + Stand (durum) = hesabınızın durumu 👀", "bonus": "eksiye düşmek = im Minus sein"},
+      "B2-559": {"pron": "BAR-gelt-los", "tip": "Bargeld (nakit) + -los (-sız) = nakitsiz 📲 Türkçedeki -sız/-siz eki gibi!", "bonus": "-los her yerde karşınıza çıkar: kostenlos = ücretsiz"}
+    },
+    "culture": [
+      "Almanya'da en yaygın kart kredi kartı değil, bankanın banka kartıdır (Girocard). Kartla ya da telefonla temassız ödeme de çok yaygınlaştı.",
+      "Arkadaşlar masrafları çoğu zaman PayPal ya da havale ile bölüşür. Elektrik ve telefon faturaları çoğunlukla otomatik ödeme talimatıyla (Lastschrift) ödenir; bu yüzden uygulamanızda sık sık ‘abgebucht’ görürsünüz.",
+      "Unutmayın: Banka sizden PIN'inizi ya da TAN'ınızı asla telefonla veya e-postayla istemez. Biri isterse neredeyse kesinlikle dolandırıcılıktır. 🚨"
+    ],
+    "quiz": {"q": "Bir kafede ‘Kartla ödeyebilir miyim?’ diye sormak istiyorsunuz.", "o": ["Kann ich mit Karte bezahlen?", "Kann ich meine Karte abbuchen?", "Ist mein Kontostand bargeldlos?"], "a": 0, "why": "mit Karte bezahlen = kartla ödemek; dükkânlarda en çok soracağınız soru bu."},
+    "outro": "Bugün banka uygulamanızı açın ve üç Almanca buton adını yüksek sesle okuyun. 💸"
   }
 }

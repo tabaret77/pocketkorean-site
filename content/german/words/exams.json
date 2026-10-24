@@ -8,23 +8,72 @@
       "오늘은 시험과 자격증에 관한 단어 10개예요. 이 단어들이면 시험 준비부터 합격 소식 전하기, 성적표 이해하기까지 문제없어요. 우리 모두 bestanden! 📝"
     ],
     "words": {
-      "A2-102": {"pron": "프뤼풍", "tip": "prüfen(검사하다) + -ung 📝 영어 prove랑 사촌이에요. -ung은 언제나 die!", "warn": "시험을 ‘보다’는 eine Prüfung machen 또는 ablegen이에요. sehen이 아니에요!"},
-      "A2-156": {"pron": "베슈테엔", "tip": "be- + stehen(서다) = 시험 끝까지 버티고 서 있으면 합격 💪", "bonus": "다른 뜻도 있어요: bestehen aus = ~로 이루어지다"},
-      "B2-1263": {"pron": "두르히팔렌", "tip": "durch(뚫고) + fallen(떨어지다) = 바닥을 뚫고 쿵 떨어지기 🕳️", "warn": "분리동사고 완료형은 sein: Er ist durchgefallen. 그리고 명사 der Durchfall은 ‘설사’예요!"},
-      "A2-527": {"pron": "노테", "tip": "공책(노트)이 아니라 성적 표시예요 🔢 라틴어 nota(표시)에서 왔어요.", "warn": "독일 성적은 1이 최고, 6이 최저! Ich habe eine Eins! = 나 최고점 받았어!"},
-      "B1-041": {"pron": "초이크니스", "tip": "der Zeuge(증인)가 들어 있어요 🧾 내 실력을 증언해 주는 종이! -nis 명사는 보통 das예요.", "bonus": "직장 경력 증명서 = das Arbeitszeugnis"},
-      "B1-1434": {"pron": "체르티피카트", "tip": "영어 certificate랑 거의 똑같아요 🏅 시험 붙으면 받는 종이!", "bonus": "어학 시험 합격증도 보통 Zertifikat이라고 해요: das Goethe-Zertifikat B1"},
-      "B2-1262": {"pron": "클라우주어", "tip": "라틴어 clausura(닫힘) = 문 닫힌 방에서 치르는 시험 🚪", "bonus": "필기시험을 보다 = eine Klausur schreiben · 구술시험 = die mündliche Prüfung"},
-      "A2-177": {"pron": "지히 포어베라이텐", "tip": "vor(미리) + bereit(준비된) = 미리 준비 완료 📚", "warn": "분리동사 + 재귀 + auf 4격: Ich bereite mich auf die Prüfung vor."},
-      "B1-021": {"pron": "에어게프니스", "tip": "sich ergeben(결과로 나오다) + -nis = 결과 📬 -nis라서 das!", "bonus": "같은 뜻: das Resultat · 선거 결과 = das Wahlergebnis"},
-      "B2-1267": {"pron": "프뤼풍스앙스트", "tip": "Prüfung + s + Angst = 시험 공포 😰 중간의 s는 이어 붙이는 접착제예요.", "bonus": "떨리면 이렇게: Ich bin total nervös!"}
+      "A2-102": {
+        "pron": "프뤼풍",
+        "tip": "prüfen(검사하다) + -ung 📝 영어 prove랑 사촌이에요. -ung은 언제나 die!",
+        "warn": "시험을 ‘보다’는 eine Prüfung machen 또는 ablegen이에요. sehen이 아니에요!"
+      },
+      "A2-156": {
+        "pron": "베슈테엔",
+        "tip": "be- + stehen(서다) = 시험 끝까지 버티고 서 있으면 합격 💪",
+        "bonus": "다른 뜻도 있어요: bestehen aus = ~로 이루어지다"
+      },
+      "B2-1263": {
+        "pron": "두르히팔렌",
+        "tip": "durch(뚫고) + fallen(떨어지다) = 바닥을 뚫고 쿵 떨어지기 🕳️",
+        "warn": "분리동사고 완료형은 sein: Er ist durchgefallen. 그리고 명사 der Durchfall은 ‘설사’예요!"
+      },
+      "A2-527": {
+        "pron": "노테",
+        "tip": "공책(노트)이 아니라 성적 표시예요 🔢 라틴어 nota(표시)에서 왔어요.",
+        "warn": "독일 성적은 1이 최고, 6이 최저! Ich habe eine Eins! = 나 최고점 받았어!"
+      },
+      "B1-041": {
+        "pron": "초이크니스",
+        "tip": "der Zeuge(증인)가 들어 있어요 🧾 내 실력을 증언해 주는 종이! -nis 명사는 보통 das예요.",
+        "bonus": "직장 경력 증명서 = das Arbeitszeugnis"
+      },
+      "B1-1434": {
+        "pron": "체르티피카트",
+        "tip": "영어 certificate랑 거의 똑같아요 🏅 시험 붙으면 받는 종이!",
+        "bonus": "어학 시험 합격증도 보통 Zertifikat이라고 해요: das Goethe-Zertifikat B1"
+      },
+      "B2-1262": {
+        "pron": "클라우주어",
+        "tip": "라틴어 clausura(닫힘) = 문 닫힌 방에서 치르는 시험 🚪",
+        "bonus": "필기시험을 보다 = eine Klausur schreiben · 구술시험 = die mündliche Prüfung"
+      },
+      "A2-177": {
+        "pron": "지히 포어베라이텐",
+        "tip": "vor(미리) + bereit(준비된) = 미리 준비 완료 📚",
+        "warn": "분리동사 + 재귀 + auf 4격: Ich bereite mich auf die Prüfung vor."
+      },
+      "B1-021": {
+        "pron": "에어게프니스",
+        "tip": "sich ergeben(결과로 나오다) + -nis = 결과 📬 -nis라서 das!",
+        "bonus": "같은 뜻: das Resultat · 선거 결과 = das Wahlergebnis"
+      },
+      "B2-1267": {
+        "pron": "프뤼풍스앙스트",
+        "tip": "Prüfung + s + Angst = 시험 공포 😰 중간의 s는 이어 붙이는 접착제예요.",
+        "bonus": "떨리면 이렇게: Ich bin total nervös!"
+      }
     },
     "culture": [
       "독일 학교 성적은 숫자로 매기는데, 1(sehr gut)이 제일 좋고 6(ungenügend)이 제일 나빠요. 보통 4까지가 통과예요. 그래서 친구가 ‘Ich hab eine Eins!’라고 하면 축하해 줘야 해요!",
       "독일어 실력을 증명할 때는 Goethe, telc, TestDaF 같은 시험 합격증을 많이 내요. 비자, 대학, 직장 등 어디에 내느냐에 따라 요구하는 시험과 레벨이 달라서, 미리 확인하는 게 좋아요.",
       "회사를 그만두면 받는 Arbeitszeugnis도 독일만의 문화예요. 겉으로는 다 칭찬처럼 보이지만 표현 하나하나에 숨은 등급이 있다고 해서, 독일 사람들도 꼼꼼히 읽어 봐요. 🧐"
     ],
-    "quiz": {"q": "B1 시험 결과가 나왔어요! 친구에게 기쁜 소식을 전해요.", "o": ["Ich habe die Prüfung bestanden!", "Ich bin in der Prüfung durchgefallen.", "Ich bereite mich auf die Prüfung vor."], "a": 0, "why": "bestehen = 합격하다. 완료형 bestanden으로 ‘붙었어!’를 말해요."},
+    "quiz": {
+      "q": "B1 시험 결과가 나왔어요! 친구에게 기쁜 소식을 전해요.",
+      "o": [
+        "Ich habe die Prüfung bestanden!",
+        "Ich bin in der Prüfung durchgefallen.",
+        "Ich bereite mich auf die Prüfung vor."
+      ],
+      "a": 0,
+      "why": "bestehen = 합격하다. 완료형 bestanden으로 ‘붙었어!’를 말해요."
+    },
     "outro": "오늘은 거울 보고 미리 외쳐 봐요: Ich habe die Prüfung bestanden! 말이 씨가 된대요. 🍀"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words are all about exams and certificates. With them you can talk about revising, share good news, and understand a German report card. Here's to bestanden! 📝"
     ],
     "words": {
-      "A2-102": {"pron": "PRÜ-foong", "tip": "prüfen (to test) + -ung 📝 A cousin of English prove. -ung nouns are always die.", "warn": "To take an exam is eine Prüfung machen or ablegen."},
-      "A2-156": {"pron": "buh-SHTAY-en", "tip": "be- + stehen (to stand) = still standing at the end means you passed 💪", "bonus": "Another meaning: bestehen aus = to consist of"},
-      "B2-1263": {"pron": "DOORKH-fal-en", "tip": "durch (through) + fallen (to fall) = falling right through the floor 🕳️", "warn": "Separable, perfect with sein: Er ist durchgefallen. And der Durchfall means diarrhoea!"},
-      "A2-527": {"pron": "NOH-tuh", "tip": "Not a notebook — a mark 🔢 From Latin nota, a sign.", "warn": "German grades run from 1 (best) to 6 (worst). Ich habe eine Eins! = I got top marks!"},
-      "B1-041": {"pron": "TSOYK-nis", "tip": "der Zeuge (witness) is inside 🧾 a paper that witnesses what you can do. -nis nouns are usually das.", "bonus": "a job reference from your employer = das Arbeitszeugnis"},
-      "B1-1434": {"pron": "tsair-tee-fee-KAHT", "tip": "Almost the same as English certificate 🏅 The paper you get when you pass.", "bonus": "Language exam certificates are usually called Zertifikat: das Goethe-Zertifikat B1"},
-      "B2-1262": {"pron": "klow-ZOOR", "tip": "Latin clausura (closure) = an exam behind closed doors 🚪", "bonus": "to sit a written exam = eine Klausur schreiben · oral exam = die mündliche Prüfung"},
-      "A2-177": {"pron": "zikh FOR-buh-rye-ten", "tip": "vor (before) + bereit (ready) = ready in advance 📚", "warn": "Separable, reflexive and with auf + acc.: Ich bereite mich auf die Prüfung vor."},
-      "B1-021": {"pron": "air-GAYP-nis", "tip": "sich ergeben (to result) + -nis = result 📬 -nis, so das!", "bonus": "Same meaning: das Resultat · election result = das Wahlergebnis"},
-      "B2-1267": {"pron": "PRÜ-foongs-ahngst", "tip": "Prüfung + s + Angst = exam fear 😰 The little s is glue between the parts.", "bonus": "When the nerves kick in: Ich bin total nervös!"}
+      "A2-102": {
+        "pron": "PRÜ-foong",
+        "tip": "prüfen (to test) + -ung 📝 A cousin of English prove. -ung nouns are always die.",
+        "warn": "To take an exam is eine Prüfung machen or ablegen."
+      },
+      "A2-156": {
+        "pron": "buh-SHTAY-en",
+        "tip": "be- + stehen (to stand) = still standing at the end means you passed 💪",
+        "bonus": "Another meaning: bestehen aus = to consist of"
+      },
+      "B2-1263": {
+        "pron": "DOORKH-fal-en",
+        "tip": "durch (through) + fallen (to fall) = falling right through the floor 🕳️",
+        "warn": "Separable, perfect with sein: Er ist durchgefallen. And der Durchfall means diarrhoea!"
+      },
+      "A2-527": {
+        "pron": "NOH-tuh",
+        "tip": "Not a notebook — a mark 🔢 From Latin nota, a sign.",
+        "warn": "German grades run from 1 (best) to 6 (worst). Ich habe eine Eins! = I got top marks!"
+      },
+      "B1-041": {
+        "pron": "TSOYK-nis",
+        "tip": "der Zeuge (witness) is inside 🧾 a paper that witnesses what you can do. -nis nouns are usually das.",
+        "bonus": "a job reference from your employer = das Arbeitszeugnis"
+      },
+      "B1-1434": {
+        "pron": "tsair-tee-fee-KAHT",
+        "tip": "Almost the same as English certificate 🏅 The paper you get when you pass.",
+        "bonus": "Language exam certificates are usually called Zertifikat: das Goethe-Zertifikat B1"
+      },
+      "B2-1262": {
+        "pron": "klow-ZOOR",
+        "tip": "Latin clausura (closure) = an exam behind closed doors 🚪",
+        "bonus": "to sit a written exam = eine Klausur schreiben · oral exam = die mündliche Prüfung"
+      },
+      "A2-177": {
+        "pron": "zikh FOR-buh-rye-ten",
+        "tip": "vor (before) + bereit (ready) = ready in advance 📚",
+        "warn": "Separable, reflexive and with auf + acc.: Ich bereite mich auf die Prüfung vor."
+      },
+      "B1-021": {
+        "pron": "air-GAYP-nis",
+        "tip": "sich ergeben (to result) + -nis = result 📬 -nis, so das!",
+        "bonus": "Same meaning: das Resultat · election result = das Wahlergebnis"
+      },
+      "B2-1267": {
+        "pron": "PRÜ-foongs-ahngst",
+        "tip": "Prüfung + s + Angst = exam fear 😰 The little s is glue between the parts.",
+        "bonus": "When the nerves kick in: Ich bin total nervös!"
+      }
     },
     "culture": [
       "German school grades are numbers: 1 (sehr gut) is the best and 6 (ungenügend) the worst, and 4 is usually still a pass. So if a friend says ‘Ich hab eine Eins!’, congratulate them!",
       "To prove your German, people often use certificates from Goethe, telc or TestDaF. Which exam and level you need depends on where it's for — a visa, a university or an employer — so check before you book.",
       "When you leave a job in Germany you usually get an Arbeitszeugnis. It sounds like praise from start to finish, but the exact wording is said to carry hidden grades, so Germans read it very carefully. 🧐"
     ],
-    "quiz": {"q": "Your B1 results are out! You share the good news with a friend.", "o": ["Ich habe die Prüfung bestanden!", "Ich bin in der Prüfung durchgefallen.", "Ich bereite mich auf die Prüfung vor."], "a": 0, "why": "bestehen means to pass, and bestanden is the perfect form: ‘I passed!’"},
+    "quiz": {
+      "q": "Your B1 results are out! You share the good news with a friend.",
+      "o": [
+        "Ich habe die Prüfung bestanden!",
+        "Ich bin in der Prüfung durchgefallen.",
+        "Ich bereite mich auf die Prüfung vor."
+      ],
+      "a": 0,
+      "why": "bestehen means to pass, and bestanden is the perfect form: ‘I passed!’"
+    },
     "outro": "Practise it in the mirror today: Ich habe die Prüfung bestanden! Say it enough and it might come true. 🍀"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日は試験と資格についての単語10個です。これで試験勉強の話から合格の報告、成績表の読み方までバッチリ。みんなで bestanden を目指しましょう！📝"
     ],
     "words": {
-      "A2-102": {"pron": "プリューフング", "tip": "prüfen（検査する）+ -ung 📝 英語の prove の親戚。-ung で終わる名詞はいつも die！", "warn": "「試験を受ける」は eine Prüfung machen または ablegen です。"},
-      "A2-156": {"pron": "ベシュテーエン", "tip": "be- + stehen（立つ）= 最後まで立っていられたら合格 💪", "bonus": "別の意味も：bestehen aus =「〜から成る」"},
-      "B2-1263": {"pron": "ドゥルヒファレン", "tip": "durch（突き抜けて）+ fallen（落ちる）= 床を突き抜けてドスンと落ちる 🕳️", "warn": "分離動詞で完了は sein：Er ist durchgefallen. 名詞 der Durchfall は「下痢」です！"},
-      "A2-527": {"pron": "ノーテ", "tip": "ノート（帳面）ではなく成績です 🔢 ラテン語 nota（しるし）から。", "warn": "ドイツの成績は1が最高、6が最低！ Ich habe eine Eins! = 最高点を取った！"},
-      "B1-041": {"pron": "ツォイクニス", "tip": "der Zeuge（証人）が入っています 🧾 実力を証言してくれる紙！ -nis の名詞はたいてい das。", "bonus": "職場からもらう勤務証明書 = das Arbeitszeugnis"},
-      "B1-1434": {"pron": "ツェルティフィカート", "tip": "英語の certificate とほぼ同じ 🏅 合格したらもらえる紙！", "bonus": "語学試験の合格証もふつう Zertifikat：das Goethe-Zertifikat B1"},
-      "B2-1262": {"pron": "クラウズーア", "tip": "ラテン語 clausura（閉鎖）= 閉じた部屋で受ける試験 🚪", "bonus": "筆記試験を受ける = eine Klausur schreiben · 口頭試験 = die mündliche Prüfung"},
-      "A2-177": {"pron": "ズィッヒ フォーアベライテン", "tip": "vor（前もって）+ bereit（用意のできた）= 前もって準備OK 📚", "warn": "分離動詞＋再帰＋auf 4格：Ich bereite mich auf die Prüfung vor."},
-      "B1-021": {"pron": "エアゲープニス", "tip": "sich ergeben（結果として生じる）+ -nis = 結果 📬 -nis なので das！", "bonus": "同じ意味：das Resultat · 選挙結果 = das Wahlergebnis"},
-      "B2-1267": {"pron": "プリューフングスアングスト", "tip": "Prüfung + s + Angst = 試験の不安 😰 間の s は単語をつなぐ接着剤です。", "bonus": "緊張したらこう言いましょう：Ich bin total nervös!"}
+      "A2-102": {
+        "pron": "プリューフング",
+        "tip": "prüfen（検査する）+ -ung 📝 英語の prove の親戚。-ung で終わる名詞はいつも die！",
+        "warn": "「試験を受ける」は eine Prüfung machen または ablegen です。"
+      },
+      "A2-156": {
+        "pron": "ベシュテーエン",
+        "tip": "be- + stehen（立つ）= 最後まで立っていられたら合格 💪",
+        "bonus": "別の意味も：bestehen aus =「〜から成る」"
+      },
+      "B2-1263": {
+        "pron": "ドゥルヒファレン",
+        "tip": "durch（突き抜けて）+ fallen（落ちる）= 床を突き抜けてドスンと落ちる 🕳️",
+        "warn": "分離動詞で完了は sein：Er ist durchgefallen. 名詞 der Durchfall は「下痢」です！"
+      },
+      "A2-527": {
+        "pron": "ノーテ",
+        "tip": "ノート（帳面）ではなく成績です 🔢 ラテン語 nota（しるし）から。",
+        "warn": "ドイツの成績は1が最高、6が最低！ Ich habe eine Eins! = 最高点を取った！"
+      },
+      "B1-041": {
+        "pron": "ツォイクニス",
+        "tip": "der Zeuge（証人）が入っています 🧾 実力を証言してくれる紙！ -nis の名詞はたいてい das。",
+        "bonus": "職場からもらう勤務証明書 = das Arbeitszeugnis"
+      },
+      "B1-1434": {
+        "pron": "ツェルティフィカート",
+        "tip": "英語の certificate とほぼ同じ 🏅 合格したらもらえる紙！",
+        "bonus": "語学試験の合格証もふつう Zertifikat：das Goethe-Zertifikat B1"
+      },
+      "B2-1262": {
+        "pron": "クラウズーア",
+        "tip": "ラテン語 clausura（閉鎖）= 閉じた部屋で受ける試験 🚪",
+        "bonus": "筆記試験を受ける = eine Klausur schreiben · 口頭試験 = die mündliche Prüfung"
+      },
+      "A2-177": {
+        "pron": "ズィッヒ フォーアベライテン",
+        "tip": "vor（前もって）+ bereit（用意のできた）= 前もって準備OK 📚",
+        "warn": "分離動詞＋再帰＋auf 4格：Ich bereite mich auf die Prüfung vor."
+      },
+      "B1-021": {
+        "pron": "エアゲープニス",
+        "tip": "sich ergeben（結果として生じる）+ -nis = 結果 📬 -nis なので das！",
+        "bonus": "同じ意味：das Resultat · 選挙結果 = das Wahlergebnis"
+      },
+      "B2-1267": {
+        "pron": "プリューフングスアングスト",
+        "tip": "Prüfung + s + Angst = 試験の不安 😰 間の s は単語をつなぐ接着剤です。",
+        "bonus": "緊張したらこう言いましょう：Ich bin total nervös!"
+      }
     },
     "culture": [
       "ドイツの学校の成績は数字で、1（sehr gut）が最高、6（ungenügend）が最低です。たいてい4までが合格。友だちが「Ich hab eine Eins!」と言ったら、お祝いしてあげてくださいね。",
       "ドイツ語力の証明には、Goethe、telc、TestDaF などの試験の合格証がよく使われます。ビザ、大学、職場など提出先によって必要な試験やレベルが違うので、事前に確認しておくと安心です。",
       "仕事を辞めるときにもらう Arbeitszeugnis もドイツ独特の文化。一見ほめ言葉ばかりですが、言い回しに隠れた評価があると言われ、ドイツ人も細かく読み込みます。🧐"
     ],
-    "quiz": {"q": "B1試験の結果が出ました！友だちにうれしい知らせを伝えます。", "o": ["Ich habe die Prüfung bestanden!", "Ich bin in der Prüfung durchgefallen.", "Ich bereite mich auf die Prüfung vor."], "a": 0, "why": "bestehen は「合格する」で、完了形 bestanden で「受かった！」と言えます。"},
+    "quiz": {
+      "q": "B1試験の結果が出ました！友だちにうれしい知らせを伝えます。",
+      "o": [
+        "Ich habe die Prüfung bestanden!",
+        "Ich bin in der Prüfung durchgefallen.",
+        "Ich bereite mich auf die Prüfung vor."
+      ],
+      "a": 0,
+      "why": "bestehen は「合格する」で、完了形 bestanden で「受かった！」と言えます。"
+    },
     "outro": "今日は鏡に向かって先に言ってみましょう。Ich habe die Prüfung bestanden! 口にすると本当になるかもしれません。🍀"
+  },
+  "tr": {
+    "title": "Sınavdan alnınızın akıyla çıkın: 10 Almanca sınav kelimesi",
+    "hook": "Bir Almanca sınavına aylarca çalışıp yine de sınavla ilgili Almanca kelimeleri hiç öğrenmemiş olabilirsiniz.",
+    "intro": [
+      "B1 sınavına kaydolduğum gün formda takılıp kaldım. Prüfung'u biliyordum, ama Klausur neydi? Zertifikat ile Zeugnis arasındaki fark ne? Sonuçları beklerken e-postada tek bir kelimeyi arıyordum: bestanden.",
+      "Bugünkü on kelime tamamen sınavlar ve belgelerle ilgili. Bunlarla sınava hazırlığınızı anlatabilir, güzel haberleri paylaşabilir ve bir Alman karnesini anlayabilirsiniz. bestanden'e kadeh kaldıralım! 📝"
+    ],
+    "words": {
+      "A2-102": {
+        "pron": "PRÜ-funk",
+        "tip": "prüfen (sınamak) + -ung 📝 İngilizce prove'un kuzeni. -ung ile biten isimler hep die.",
+        "warn": "Sınava girmek eine Prüfung machen ya da ablegen ile söylenir."
+      },
+      "A2-156": {
+        "pron": "be-ŞTEE-en",
+        "tip": "be- + stehen (ayakta durmak) = sonunda hâlâ ayaktaysanız geçmişsiniz demektir 💪",
+        "bonus": "Başka bir anlamı: bestehen aus = ...den oluşmak"
+      },
+      "B2-1263": {
+        "pron": "DURH-fal-len",
+        "tip": "durch (içinden) + fallen (düşmek) = yerin dibine düşmek 🕳️",
+        "warn": "Ayrılabilen fiil, Perfekt sein ile: Er ist durchgefallen. Dikkat: der Durchfall ishal demek!"
+      },
+      "A2-527": {
+        "pron": "NO-te",
+        "tip": "Türkçedeki “not” gibi, defter notu değil, sınav notu 🔢 Latince nota (işaret) kökünden.",
+        "warn": "Alman notları 1 (en iyi) ile 6 (en kötü) arasındadır. Ich habe eine Eins! = En yüksek notu aldım!"
+      },
+      "B1-041": {
+        "pron": "TSOYK-nis",
+        "tip": "İçinde der Zeuge (tanık) var 🧾 Neler yapabildiğinize tanıklık eden bir kâğıt. -nis ile bitenler genelde das.",
+        "bonus": "işverenden alınan referans belgesi = das Arbeitszeugnis"
+      },
+      "B1-1434": {
+        "pron": "tser-ti-fi-KAT",
+        "tip": "Türkçedeki “sertifika” ile neredeyse aynı 🏅 Geçince aldığınız kâğıt.",
+        "bonus": "Dil sınavı belgelerine genellikle Zertifikat denir: das Goethe-Zertifikat B1"
+      },
+      "B2-1262": {
+        "pron": "klau-ZUR",
+        "tip": "Latince clausura (kapatma) = kapalı kapılar ardında sınav, Türkçedeki “klozür” gibi 🚪",
+        "bonus": "yazılı sınava girmek = eine Klausur schreiben · sözlü sınav = die mündliche Prüfung"
+      },
+      "A2-177": {
+        "pron": "zih FOR-be-ray-ten",
+        "tip": "vor (önceden) + bereit (hazır) = önceden hazır 📚",
+        "warn": "Ayrılabilen, dönüşlü ve auf + akuzatif ile: Ich bereite mich auf die Prüfung vor."
+      },
+      "B1-021": {
+        "pron": "er-GEEP-nis",
+        "tip": "sich ergeben (sonuçlanmak) + -nis = sonuç 📬 -nis, o yüzden das!",
+        "bonus": "Aynı anlamda: das Resultat · seçim sonucu = das Wahlergebnis"
+      },
+      "B2-1267": {
+        "pron": "PRÜ-funks-angst",
+        "tip": "Prüfung + s + Angst = sınav korkusu 😰 Aradaki küçük s parçaları yapıştıran tutkal.",
+        "bonus": "Sinirler gerilince: Ich bin total nervös!"
+      }
+    },
+    "culture": [
+      "Alman okul notları rakamladır: 1 (sehr gut) en iyi, 6 (ungenügend) en kötüsüdür ve 4 genellikle hâlâ geçer nottur. Yani bir arkadaşınız ‘Ich hab eine Eins!’ derse onu tebrik edin!",
+      "Almancanızı belgelemek için genellikle Goethe, telc ya da TestDaF belgeleri kullanılır. Hangi sınava ve seviyeye ihtiyacınız olduğu nerede kullanacağınıza bağlıdır (vize, üniversite ya da işveren); bu yüzden kaydolmadan önce kontrol edin.",
+      "Almanya'da bir işten ayrıldığınızda genellikle bir Arbeitszeugnis alırsınız. Baştan sona övgü gibi görünür, ama kullanılan ifadelerin gizli notlar taşıdığı söylenir; bu yüzden Almanlar onu çok dikkatle okur. 🧐"
+    ],
+    "quiz": {
+      "q": "B1 sonuçlarınız açıklandı! Güzel haberi bir arkadaşınızla paylaşıyorsunuz.",
+      "o": [
+        "Ich habe die Prüfung bestanden!",
+        "Ich bin in der Prüfung durchgefallen.",
+        "Ich bereite mich auf die Prüfung vor."
+      ],
+      "a": 0,
+      "why": "bestehen geçmek demektir, bestanden de Perfekt hâli: ‘Geçtim!’"
+    },
+    "outro": "Bugün aynanın karşısında çalışın: Ich habe die Prüfung bestanden! Yeterince söylerseniz belki gerçek olur. 🍀"
   }
 }

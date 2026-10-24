@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "「姉が先週婚約したんだ！」と言いたいです。正しい文は？", "o": ["Meine Schwester hat geheiratet.", "Meine Schwester ist geschieden.", "Meine Schwester hat sich verlobt."], "a": 2, "why": "sich verloben = 婚約する。geheiratet は結婚した、geschieden は離婚したという意味です。"},
     "outro": "今日はドイツ語でお祝いカードを一行書いてみましょう。Herzlichen Glückwunsch zur Hochzeit! 💐"
+  },
+  "tr": {
+    "title": "Alman düğününe mi davetlisiniz? Bu 10 kelimeyi öğrenin",
+    "hook": "Davetiyede Standesamt yazıyor — peki tam olarak nerede evleniyorlar?",
+    "intro": [
+      "Alman bir arkadaşınızdan güzel bir kart geliyor: „Wir heiraten!“ Cevap yazmak istiyorsunuz ama kart Standesamt ve Trauzeugin gibi kelimelerle dolu. Bütün düğün yemeği boyunca sadece gülümseyip başınızı sallamak da yazık olur.",
+      "Bugünkü on kelime sizi evlilik teklifinden balayına kadar götürüyor. Bunlarla çifti tebrik edebilir, kendi haberlerinizi paylaşabilir ve düğün dedikodularına katılabilirsiniz. 💍"
+    ],
+    "words": {
+      "A2-038": {"pron": "HOH-tsayt", "tip": "hoch (yüksek) + Zeit (zaman) = hayatınızın en yüksek günü 🎉 Aslında büyük bir bayram demekmiş.", "warn": "Hochzeit düğün günüdür. Evliliğin kendisi die Ehe'dir — ‘tam zamanı’ ise höchste Zeit."},
+      "A1-323": {"pron": "HAY-ra-ten", "tip": "Nikâh masasına giderken ‘Hay!’ diye el sallayın 👰 Eskiden ‘ev kurmak’ demekmiş.", "warn": "mit yok: Er heiratet sie. = Onunla evleniyor."},
+      "A2-191": {"pron": "fer-HAY-ra-tet", "tip": "heiraten'in geçmiş zaman ortacı = evli halde 💑 Burada ge- yerine ver- gelir.", "bonus": "bekâr = ledig · boşanmış = geschieden"},
+      "B1-1715": {"pron": "zih fer-LO-ben", "tip": "ver- + loben (söz vermek) = evlilik sözü vermek 💌 loben ‘övmek’ anlamına da gelir.", "bonus": "nişanlı = verlobt · nişan = die Verlobung"},
+      "B2-3219": {"pron": "HAY-rats-an-trak", "tip": "Heirat (evlilik) + Antrag (başvuru formu) = evlilik başvurusu 📝 Kulağa resmî evrak gibi geliyor, işin komik yanı da bu.", "bonus": "evlenme teklif etmek = jemandem einen Heiratsantrag machen"},
+      "B1-2092": {"pron": "E-e-ring", "tip": "Ehe (evlilik) + Ring (yüzük) 💍 İkinci yarısı tamamen İngilizce.", "bonus": "nişan yüzüğü = der Verlobungsring"},
+      "B2-3550": {"pron": "BROY-ti-gam", "tip": "Braut (gelin) + eski gomo (adam) = gelinin adamı 🤵 İngilizce bridegroom da aynı şekilde kurulmuş.", "bonus": "gelin = die Braut · gelin ve damat = das Brautpaar"},
+      "B2-2495": {"pron": "ŞTAN-des-amt", "tip": "Stand (medeni hal) + Amt (daire) = medeni halinizin değiştiği daire 🏛️ Doğumlar, evlilikler ve ölümler hep burada kaydedilir — Türkiye'deki evlendirme dairesi ve nüfus müdürlüğü gibi.", "bonus": "resmî nikâh = die standesamtliche Trauung"},
+      "B2-3698": {"pron": "TRAU-tsoy-ge", "tip": "Trauung (nikâh) + Zeuge (tanık) = nikâh şahidi 👀 Kadın şahit die Trauzeugin'dir.", "warn": "Zayıf isim: den/dem/des Trauzeugen"},
+      "B1-2393": {"pron": "HOH-tsayts-ray-ze", "tip": "Hochzeit + Reise (yolculuk) = düğün yolculuğu ✈️ Ortadaki -s- sadece yapıştırıcı.", "bonus": "die Flitterwochen (balayı haftaları) da duyarsınız."}
+    },
+    "culture": [
+      "Almanya'da yasal olarak geçerli olan nikâh Standesamt'ta, yani evlendirme dairesinde kıyılandır. Kilise düğünü isteğe bağlıdır; birçok çift ikisini de yapar, bazen farklı günlerde.",
+      "Düğünden önceki akşam bazı çiftler Polterabend düzenler. Arkadaşlar eski tabakları ve porselenleri kırar, çift de hepsini birlikte süpürür. „Scherben bringen Glück!“ — kırık parçalar şans getirir.",
+      "Bir de Almanlar alyanslarını genellikle sol elde değil, sağ elde takar. Alyansı sol ele takılan ülkelerden gelenlerin kafası başta karışır. 💍"
+    ],
+    "quiz": {"q": "„Kız kardeşim geçen hafta nişanlandı“ demek istiyorsunuz. Hangi cümle doğru?", "o": ["Meine Schwester hat geheiratet.", "Meine Schwester ist geschieden.", "Meine Schwester hat sich verlobt."], "a": 2, "why": "sich verloben = nişanlanmak; geheiratet ‘evlendi’, geschieden ise ‘boşanmış’ demektir."},
+    "outro": "Bugün Almanca bir düğün kartının bir satırını yazın. Herzlichen Glückwunsch zur Hochzeit! 💐"
   }
 }

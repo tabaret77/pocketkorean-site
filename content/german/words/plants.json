@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "休暇に出かける前、お隣さんに花の水やりを頼みたいです。何と言いますか？", "o": ["Ich pflanze im Frühling Tomaten.", "Die Rosen blühen schon.", "Kannst du im Urlaub meine Blumen gießen?"], "a": 2, "why": "gießen は「水をやる」なので、「休暇中、私の花に水をやってくれる？」というお願いです。"},
     "outro": "家の植物や窓の外の花を見ながら、「Die … blüht.」「Ich gieße meine Pflanzen.」と声に出してみましょう。単語も植物と同じで、毎日水をやるとぐんぐん育ちます！🌱"
+  },
+  "tr": {
+    "title": "Pencere önünüzde çiçek açan 10 Almanca kelime",
+    "hook": "Bir Alman evine davet edilirseniz elinizde büyük ihtimalle bir demet çiçek olacak.",
+    "intro": [
+      "Bahar gelince Almanya'nın her yerinde pencere önlerinde ve balkonlarda saksılar belirir. Süpermarketten küçük bir saksı yeşillik aldım; sonra ben yokken onu kimin sulayacağını düşündüm. Komşuma sormak istedim ama kelimeler gelmedi.",
+      "Bugünkü 10 kelime tamamen çiçekler ve bitkilerle ilgili. Bunlarla çiçekçiden buket alabilir, saksılarınıza bakabilir ve bir komşunuzdan onları sulamasını isteyebilirsiniz. 🌸"
+    ],
+    "words": {
+      "A1-268": {"pron": "BLU-me", "tip": "İngilizce bloom ile aynı kökten 🌼 bl- sesi bile tutuyor.", "bonus": "Ich schenke dir Blumen. = Sana çiçek hediye ediyorum."},
+      "A2-258": {"pron": "PFLAN-tse", "tip": "İngilizce plant, Türkçedeki ‘plantasyon’ ile aynı kelime 🌱 p'yi pf yapın, Almanca konuşuyorsunuz.", "bonus": "pflanzen (dikmek) fiili de aynı aileden."},
+      "B1-743": {"pron": "Gİ-sen", "tip": "İngilizce gush (fışkırmak) ile kuzen 💦 Bitkilerinizin üstüne fışkıran suyu düşünün.", "warn": "Düzensiz: gießt – goss – hat gegossen."},
+      "B1-530": {"pron": "BLÜ-en", "tip": "Blume ve bloom ile aynı aileden 🌸 Çiçekler açılır ve blühen.", "bonus": "Çiçek (tomurcuk açmış hâli) die Blüte."},
+      "A2-558": {"pron": "RO-ze", "tip": "Latince rosa kelimesinden 🌹 Türkçedeki ‘roze’ gibi; sondaki e'yi okumayı unutmayın!", "bonus": "kırmızı güller = rote Rosen · Keine Rose ohne Dornen. = Dikensiz gül olmaz."},
+      "B1-1026": {"pron": "PFLAN-tsen", "tip": "Pflanze'ye -n ekleyin, fiil hazır 🪴", "bonus": "Im Frühling pflanzen wir Tomaten. = İlkbaharda domates dikeriz."},
+      "B1-1386": {"pron": "VAK-sen", "tip": "Ayın büyümesini anlatan eski İngilizce wax gibi 🌙 Gittikçe büyümek.", "warn": "Perfekt'i sein ile: ist gewachsen. waschen (yıkamak) ile karıştırmayın!"},
+      "B2-2424": {"pron": "BLU-men-topf", "tip": "Blume + Topf (tencere, kap) = çiçek kabı, yani saksı 🏺 Topf der olduğu için bütün kelime der.", "warn": "Çoğulu umlautlu: die Blumentöpfe."},
+      "A2-796": {"pron": "BLU-men-ştraus", "tip": "Blume + Strauß (demet) = buket 💐 Üstelik der Strauß devekuşu da demek!", "warn": "Çoğulu umlautlu: die Blumensträuße."},
+      "B2-2796": {"pron": "TSİ-mer-pflan-tse", "tip": "Zimmer (oda) + Pflanze (bitki) = oda bitkisi 🪴 Adı üstünde.", "bonus": "Balkon bitkisi die Balkonpflanze."}
+    },
+    "culture": [
+      "Almanya'da birinin evine davet edildiğinizde küçük bir demet çiçek yaygın bir hediyedir. Ancak kırmızı güller çok romantik bir anlam taşır; arkadaşlar için başka bir şey seçmek daha güvenlidir.",
+      "Şehirler Kleingarten (ya da Schrebergarten) denen hobi bahçeleriyle doludur; bunlar insanların çiçek ve sebze yetiştirdiği küçük kiralık arsalardır. Bahçesi olmayanlar da çoğu zaman balkonlarını çiçekler ve yeşilliklerle doldurur.",
+      "Tatillerde komşular sık sık birbirlerinin bitkilerini sular ve posta kutularını boşaltır. Sonrasında küçük bir teşekkür hediyesi hoş bir jesttir. 🌷"
+    ],
+    "quiz": {"q": "Tatilden önce bir komşunuzdan bitkilerinizi sulamasını istemek istiyorsunuz. Ne dersiniz?", "o": ["Ich pflanze im Frühling Tomaten.", "Die Rosen blühen schon.", "Kannst du im Urlaub meine Blumen gießen?"], "a": 2, "why": "gießen sulamak demek; yani siz yokken çiçeklerinizi sulamasını istiyorsunuz."},
+    "outro": "Evdeki bir bitkiye ya da dışarıdaki çiçeklere bakın ve yüksek sesle söyleyin: Die … blüht. Ich gieße meine Pflanzen. Kelimeler de bitkiler gibi her gün biraz suyla en iyi büyür! 🌱"
   }
 }

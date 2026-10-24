@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "レジで店員さんに聞かれました。袋が要るかどうかを聞いているのは？", "o": ["Haben Sie Pfand?", "Brauchen Sie eine Tüte?", "Ist das im Sonderangebot?"], "a": 1, "why": "Brauchen Sie eine Tüte? =「袋はご入用ですか？」レジの定番の質問です。"},
     "outro": "次の買い物の前に、Einkaufsliste をドイツ語で書いてみましょう。レジで Nein, danke! と自信をもって言えたら大成功です！🥨"
+  },
+  "tr": {
+    "title": "Almanca alışveriş listeniz: süpermarket için 10 kelime",
+    "hook": "Alman kasaları hızlıdır, o yüzden gitmeden önce bu kelimeleri çantanıza koyun.",
+    "intro": [
+      "Bir Alman süpermarketine ilk gidişinizde alışveriş arabalarının hepsi birbirine zincirlenmiş ve bir türlü çıkmıyor. Sonunda kasaya varıyorsunuz, kasiyer hızlıca bir şey soruyor ve arkanızdakinin alışverişi şimdiden size doğru kayıyor.",
+      "Bugünkü on kelime bütün alışveriş turunu kapsıyor: araba almak, kampanyaları fark etmek, kasiyere cevap vermek ve boş şişelerinizi iade etmek. Bunlarla panik yapmadan alışveriş edebilirsiniz. 🛒"
+    ],
+    "words": {
+      "A1-037": {"pron": "ZU-per-markt", "tip": "super + Markt (pazar) = süpermarket 🏪 Kolay — sadece Z sesiyle başlayın.", "warn": "Çoğulu umlautlu: die Supermärkte."},
+      "A2-245": {"pron": "LEY-bens-mi-tel", "tip": "Leben (hayat) + Mittel (araç) = sizi hayatta tutan şey: gıda 🥖", "warn": "Genelde çoğul: die Lebensmittel."},
+      "BL-03-01": {"pron": "AYN-kaufs-va-gen", "tip": "einkaufen (alışveriş yapmak) + Wagen (araba, vagon gibi) = alışveriş arabası 🛒", "bonus": "Alışveriş sepeti der Korb'dur (Einkaufskorb)."},
+      "B2-2468": {"pron": "AYN-kaufs-lis-te", "tip": "Einkauf (alışveriş) + Liste (liste) 📝 Son parça die Liste, yani bütün kelime die.", "bonus": "einkaufen gehen = alışverişe gitmek"},
+      "B1-1154": {"pron": "ZON-der-an-ge-bot", "tip": "sonder- (özel) + Angebot (teklif) = özel kampanya 🏷️ Rengârenk fiyat etiketlerine bakın.", "bonus": "im Sonderangebot sein = kampanyada olmak"},
+      "A2-030": {"pron": "KA-se", "tip": "Türkçedeki ‘kasa’ ile aynı kökten 💶 Paranın durduğu kutu = kasa.", "bonus": "Bilet gişelerinde ve die Krankenkasse'de (sağlık sigortası) de görürsünüz."},
+      "BL-03-06": {"pron": "TÜ-te", "tip": "Söyleyin ve poşetin hışırtısını duyun 🛍️ Brauchen Sie eine Tüte?", "bonus": "Bez alışveriş çantası der Beutel ya da die Tasche'dir."},
+      "BL-03-10": {"pron": "PFANT", "tip": "İngilizce pawn (rehin) ile akraba ♻️ Şişeyi teslim edersiniz, paranızı geri alırsınız.", "bonus": "Şişe iade makinesi = der Pfandautomat"},
+      "B2-2372": {"pron": "PFANT-fla-şe", "tip": "Pfand + Flasche (şişe, İngilizce flask gibi) = para eden şişe 🍾 Çöpe atmayın!", "bonus": "Makine bir fiş (Pfandbon) basar, onu kasada bozdurursunuz."},
+      "B1-1612": {"pron": "HALT-bar-kayts-da-tum", "tip": "halten (dayanmak) + -bar + -keit + Datum (tarih) = ‘şu tarihe kadar dayanır’ tarihi 📅 das Datum ile bittiği için das.", "warn": "Ambalajlarda genelde MHD (Mindesthaltbarkeitsdatum) yazar. Çoğulu: die Haltbarkeitsdaten."}
+    },
+    "culture": [
+      "Alman alışveriş arabaları genellikle birbirine kilitlidir; birini bir madeni para ya da araba jetonuyla serbest bırakırsınız. Geri taktığınızda para tekrar çıkar. Birçok kişi anahtarlığında bir jeton taşır.",
+      "Kasalar hızlı ilerler. Birçok müşteri her şeyi doğrudan arabaya geri koyar ve ödedikten sonra bir rafın önünde sakin sakin paketler. Poşetler genelde ücretlidir, bu yüzden çoğu kişi kendi çantasını getirir.",
+      "Ayrıca süpermarketlerin çoğu pazar günü kapalıdır. Başlıca istisna büyük tren istasyonlarındaki dükkânlardır; cumartesi akşamlarının hep kalabalık olmasının sebebi budur. 🧺"
+    ],
+    "quiz": {"q": "Kasada poşete ihtiyacınız olup olmadığını soran soru hangisi?", "o": ["Haben Sie Pfand?", "Brauchen Sie eine Tüte?", "Ist das im Sonderangebot?"], "a": 1, "why": "Brauchen Sie eine Tüte? ‘Poşet ister misiniz?’ demektir — neredeyse her kasada duyarsınız."},
+    "outro": "Bir sonraki alışverişinizden önce Einkaufsliste'nizi Almanca yazın. Kasada kendinden emin bir Nein, danke! de cabası. 🥨"
   }
 }

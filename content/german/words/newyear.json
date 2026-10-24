@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "12月30日、帰宅する同僚に年末のあいさつをするなら？", "o": ["Guten Rutsch!", "Frohe Ostern!", "Gute Besserung!"], "a": 0, "why": "Guten Rutsch! = よいお年を！年が明ける前に言うあいさつです。"},
     "outro": "今年の Vorsatz をひとつ決めて、Mein Vorsatz fürs neue Jahr ist … と声に出してみましょう。ひと足早く、Guten Rutsch! 🍀"
+  },
+  "tr": {
+    "title": "Guten Rutsch! Almanya'da yılbaşı için 10 kelime",
+    "hook": "Almanya'da insanlar size yeni yıla ‘güzel bir kayış’ diler. Gerçekten!",
+    "intro": [
+      "Berlin'de 31 Aralık gecesi. Öğleden beri maytaplar patlıyor ve arkadaşınızın evinde Sekt kadehleri hazır. Süpermarketteki kasiyer bile size „Guten Rutsch!“ dedi; ama neden biri kaymanızı istesin ki?",
+      "Bugünkü 10 kelime yılbaşında Almanya'nın her yerinde duyacaklarınız. Bunlarla insanlara mutlu yıllar dileyebilir, gece yarısına geri sayabilir ve yeni yıl kararlarınızı Almanca paylaşabilirsiniz. Eski yılı şık bir şekilde uğurlayalım! 🎆"
+    ],
+    "words": {
+      "A2-686": {"pron": "zil-VES-ter", "tip": "31 Aralık, Aziz Silvester'in günü; adı oradan geliyor 🎇", "warn": "Artikel yok: an Silvester, zu Silvester."},
+      "A2-689": {"pron": "Mİ-ter-naht", "tip": "Mitte (orta) + Nacht (gece) = gece yarısı 🕛 Türkçedeki gibi ‘gecenin ortası’!", "bonus": "gece yarısında = um Mitternacht"},
+      "A2-825": {"pron": "FOY-er-verk", "tip": "Feuer (ateş) + Werk (iş, eser) = havai fişek, yani ateş eseri 🎆", "bonus": "Maytap ya da kestane fişeği der Böller."},
+      "A2-687": {"pron": "NOY-yar", "tip": "neu (yeni) + Jahr (yıl) = Yeni Yıl'ın ilk günü 🌅 Kulağa ‘new year’ gibi de geliyor.", "warn": "Silvester gibi artikelsiz: an Neujahr."},
+      "B1-2326": {"pron": "ZEKT", "tip": "İtalyanca secco (sek, kuru) kelimesinden 🥂 Türkçedeki ‘sek’ ile aynı kök; Almanya'nın kendi köpüklü şarabı.", "warn": "der Sekt'tir. die Sekte ise ‘tarikat’ demek; dikkat!"},
+      "B1-2329": {"pron": "RUÇ", "tip": "rutschen (kaymak) fiilinden 🛷 Yeni yıla kaydıraktan kayar gibi yumuşacık geçin!", "warn": "Guten Rutsch! sadece yılbaşından önce söylenir. 1 Ocak'tan itibaren Frohes neues Jahr!"},
+      "C1-3404": {"pron": "FOR-zats", "tip": "vor (önce) + Satz (konmuş şey) = önceden karar verdiğiniz şey 📝", "bonus": "Yeni yıl kararları = gute Vorsätze fürs neue Jahr"},
+      "A2-350": {"pron": "VÜN-şen", "tip": "İngilizce wish ile aynı kökten 🌠 Yıldız kayarken dilek tutun: wünschen!", "bonus": "Ich wünsche dir ein frohes neues Jahr! = Yeni yılın kutlu olsun!"},
+      "B2-3602": {"pron": "GLÜKS-brin-ger", "tip": "Glück (şans) + Bringer (getiren) = şans getiren, yani uğur 🍀", "bonus": "Klasik Glücksbringer'lar: das Glücksschwein (domuz), der Schornsteinfeger (baca temizleyicisi), das Kleeblatt (yonca)"},
+      "B2-3912": {"pron": "YA-res-vek-sel", "tip": "Jahr (yıl) + Wechsel (değişim) = yılın değişmesi 🔄 Döviz bürosu da bir Wechselstube!", "bonus": "yılbaşı civarında = zum Jahreswechsel"}
+    },
+    "culture": [
+      "Silvester'de pek çok Alman arkadaşlarıyla evde toplanır, çoğu zaman raclette ya da fondü eşliğinde gece yarısını bekler. Pek çok evde köklü bir gelenek, eski İngiliz komedi skeci „Dinner for One“ı televizyonda izlemektir.",
+      "Gece yarısı Sekt ile kadeh kaldırılır ve her yerde havai fişekler patlar. Bir de fal oyunu vardır: eritilmiş mumu soğuk suya damlatıp aldığı şekli yorumlarsınız. Bugünlerde eski kurşunun yerine genellikle mum kullanılıyor; Türkiye'deki kurşun dökmeyi hatırlatıyor, değil mi?",
+      "Bu dönemde insanlar marzipan domuzlar ya da baca temizleyicisi figürleri gibi küçük Glücksbringer'lar hediye etmeyi sever. Evet, Almanya'da domuz şans getirir! 🐷"
+    ],
+    "quiz": {"q": "30 Aralık ve bir meslektaşınız eve gidiyor. Ne dersiniz?", "o": ["Guten Rutsch!", "Frohe Ostern!", "Gute Besserung!"], "a": 0, "why": "Guten Rutsch! = İyi yıllar! Yıl değişmeden önce söylenen dilek budur."},
+    "outro": "Bir karar seçin ve yüksek sesle söyleyin: Mein Vorsatz fürs neue Jahr ist … Ve biraz erkenden: Guten Rutsch! 🍀"
   }
 }

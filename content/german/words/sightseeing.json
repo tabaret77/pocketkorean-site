@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "宮殿の中を見学しています。写真を撮っていいか聞くには？", "o": ["Wo ist die Altstadt?", "Darf man hier fotografieren?", "Ich habe ein Souvenir gekauft."], "a": 1, "why": "fotografieren = 写真を撮る。「ここで写真を撮ってもいいですか？」という質問です。"},
     "outro": "行ってみたいドイツの町をひとつ選んで、Ich möchte die Altstadt besichtigen! と声に出してみましょう。次の旅の写真が今から楽しみですね！🏰"
+  },
+  "tr": {
+    "title": "Almanya'da gezi: gezi gününüz için 10 kelime",
+    "hook": "Şatoya kadar tırmanıp, saati anlamadığınız için turu kaçırdığınızı düşünün.",
+    "intro": [
+      "Heidelberg'e hafta sonu gezisindesiniz. Eski şehirde dolaşıp şatoya tırmanıyorsunuz; gişedeki tabelada „Nächste Führung: 14 Uhr“ yazıyor. Fotoğraf çekip çekemeyeceğinizi ve hediyelik eşya dükkânının nerede olduğunu da bilmek istiyorsunuz.",
+      "Bugünkü on kelime, gezgin olarak her yerde karşınıza çıkacak kelimeler. Bunlarla tabelaları okuyabilir, bir tura katılabilir ve fotoğraf çekmenin serbest olup olmadığını sorabilirsiniz. Kameranızla birlikte kelime dağarcığınızı da şarj edin! 📸"
+    ],
+    "words": {
+      "A2-034": {"pron": "ZE-ens-vür-dih-kayt", "tip": "sehen (görmek) + würdig (layık) + -keit = görülmeye layık şey 👀 -keit, yani die!", "warn": "Uzun ama sadece çoğuluna dikkat: die Sehenswürdigkeiten"},
+      "A1-434": {"pron": "be-ZİH-ti-gen", "tip": "İçinde die Sicht (görüş) var 🔭 Bakışınızı oraya buraya çevirin!", "bonus": "Ev gezmek için de kullanılır: eine Wohnung besichtigen"},
+      "A2-604": {"pron": "tu-RİST", "tip": "Tur + -ist = turdaki kişi 🧳 Türkçedeki ‘turist’ ile aynı! -ist ile biten kişiler der'dir.", "warn": "Zayıf isim: den/dem/des Touristen. Kadın turist die Touristin'dir."},
+      "A1-478": {"pron": "FÜ-runk", "tip": "führen (yönetmek, götürmek) + -ung = gezdirilmek, rehberli tur 🚩", "bonus": "Tur ne zaman başlıyor? = Wann beginnt die Führung?"},
+      "A1-543": {"pron": "RAY-ze-fü-rer", "tip": "Reise (seyahat) + Führer (önder) 📖 Hem insan rehber hem rehber kitap için!", "bonus": "Çoğulu aynı: die Reiseführer"},
+      "A2-1087": {"pron": "ALT-ştat", "tip": "alt (eski) + Stadt (şehir) = eski şehir 🏘️ alt ve İngilizce old akraba.", "warn": "Çoğulu umlautlu: die Altstädte."},
+      "A2-253": {"pron": "mu-ZE-um", "tip": "Yunancada ‘Musaların evi’ 🏛️ Türkçedeki ‘müze’ ile aynı kökten.", "warn": "Çoğulu die Museen'dir, ‘Museums’ değil!"},
+      "A2-570": {"pron": "ŞLOS", "tip": "schließen (kilitlemek) kelimesinden 🏰 Bu yüzden ‘kilit’ anlamına da gelir!", "warn": "Schloss bir saraydır; surlu kale ise die Burg'dur."},
+      "A1-312": {"pron": "fo-to-gra-Fİ-ren", "tip": "Foto + -ieren = fotoğraf çekmek 📷 -ieren fiilleri ge- almaz: hat fotografiert", "bonus": "Bir fotoğrafımızı çekebilir misiniz? = Könnten Sie ein Foto von uns machen?"},
+      "B1-1157": {"pron": "zu-ve-NİR", "tip": "Fransızcada ‘hatıra’ demek 🎁 Türkçede de ‘suvenir’ deriz — elinizde tutabildiğiniz bir anı.", "bonus": "hediyelik eşya dükkânı = der Souvenirladen"}
+    },
+    "culture": [
+      "Almanya'da birçok müze pazartesi kapalıdır; plan yaparken açık olduğu günlere bakın. Buna karşılık bazıları haftanın başka bir akşamı geç saate kadar açık kalır.",
+      "Çoğu şehirde ‘i’ harfiyle işaretlenmiş bir turizm danışma bürosu (Touristeninformation) vardır; harita ve tur bilgisi alabilirsiniz. İngilizce turlar yaygındır ama Almanca bir tur harika bir dinleme pratiğidir.",
+      "Kiliselerde ve saraylarda fotoğraf bazen hiç serbest değildir, bazen de flaşsız serbesttir. Emin değilseniz önce sorun! 📷"
+    ],
+    "quiz": {"q": "Bir sarayı geziyorsunuz. Fotoğraf çekip çekemeyeceğinizi nasıl sorarsınız?", "o": ["Wo ist die Altstadt?", "Darf man hier fotografieren?", "Ich habe ein Souvenir gekauft."], "a": 1, "why": "fotografieren = fotoğraf çekmek; bu soru ‘Burada fotoğraf çekmek serbest mi?’ anlamına gelir."},
+    "outro": "Gitmeyi çok istediğiniz bir Alman şehri seçin ve yüksek sesle Ich möchte die Altstadt besichtigen! deyin. Bir sonraki tatil fotoğraflarınız sizi bekliyor! 🏰"
   }
 }

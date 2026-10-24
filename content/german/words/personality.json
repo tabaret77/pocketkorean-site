@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちが全員の夕食代をまとめて払ってくれました。何と言いますか？", "o": ["Du bist so großzügig!", "Du bist so faul!", "Du bist so schüchtern!"], "a": 0, "why": "großzügig = 気前がいい。惜しまずにごちそうしてくれた人へのひとことです。"},
     "outro": "今日の単語から3つ選んで、「Ich bin … und …, aber manchmal ein bisschen …」と声に出して自己紹介してみましょう。😄"
+  },
+  "tr": {
+    "title": "‘nett’in ötesinde: Kişilik için 10 Almanca kelime",
+    "hook": "İnsanları anlatırken kullandığınız tek kelime ‘nett’ ise bugün seviye atlıyorsunuz.",
+    "intro": [
+      "Dil okulunda yeni bir arkadaş edindiniz. Biri soruyor: ‘Wie ist sie denn so?’ yani nasıl biri? Aklınıza sadece nett geliyor. Oysa o çalışkan, biraz utangaç ve gerçekten komik.",
+      "Bugünkü 10 kelime kişiliği anlatıyor. Bunlarla arkadaşlarınızı tanıtabilir, kendinizden bahsedebilir ya da iş mülakatlarındaki o klasik ‘Nasıl birisiniz?’ sorusunu cevaplayabilirsiniz. 🧠"
+    ],
+    "words": {
+      "B1-1888": {"pron": "ka-RAK-ter", "tip": "Ch, K gibi okunur 🎭 Türkçedeki karakter ile aynı!", "warn": "Çoğulda vurgu kayar: die Charaktere (ka-rak-TE-re)."},
+      "A1-361": {"pron": "NET", "tip": "İngilizce neat ile aynı kökten 😊 Kısa, derli toplu ve nazik.", "bonus": "Das ist nett von Ihnen! = Çok naziksiniz!"},
+      "A2-184": {"pron": "FROYNT-lih", "tip": "Freund (arkadaş) + -lich = arkadaş gibi 🤝 Yardımsever dükkân çalışanları için mükemmel kelime.", "bonus": "Zıttı: unfreundlich = soğuk, kaba"},
+      "A2-370": {"pron": "LUS-tih", "tip": "Lust (keyif, istek) + -ig = keyif dolu 😂", "warn": "Sahte arkadaş: lustig komik demek, İngilizce ‘lusty’ (şehvetli) değil."},
+      "A2-079": {"pron": "ER-lih", "tip": "Ehre (onur) + -lich = onurlu, yani dürüst 🙋", "bonus": "Ehrlich gesagt, … = Açıkçası, …"},
+      "B1-375": {"pron": "FLAY-sih", "tip": "Etrafta uçuşan çalışkan bir arı düşünün: FLAY-sih 🐝", "bonus": "Zıttı sıradaki kelime: faul."},
+      "B1-374": {"pron": "FAUL", "tip": "İngilizce foul'a benziyor; aynı kökten! Kanepede yatan tembel biri 🛋️ Futboldaki faul değil!", "bonus": "Çürük anlamına da gelir: Der Apfel ist faul."},
+      "B1-1645": {"pron": "ŞÜH-tern", "tip": "Şşş… utangaç kişi sessiz kalmak istiyor 🙈", "bonus": "Benzeri: zurückhaltend = çekingen, mesafeli"},
+      "B1-188": {"pron": "ge-DUL-dih", "tip": "Geduld (sabır) + -ig 🐢 Yavaş ama emin adımlarla.", "bonus": "Zıttı: ungeduldig = sabırsız"},
+      "B2-381": {"pron": "GROS-tsü-gih", "tip": "groß (büyük) + Zug (özellik) = gönlü büyük, tıpkı Türkçedeki gibi 🎁", "bonus": "Zıttı: geizig = cimri"}
+    },
+    "culture": [
+      "Almanya'da dürüstlüğe (Ehrlichkeit) çok değer verilir. Pek çok kişi fikrinizin ya da kıyafetinizin olmadığını size açık açık söyler. Bu genellikle kabalık değil, yardım amacıyla yapılır.",
+      "Yine de nett'e dikkat edin. Bir arkadaşınız buluştuğu biri için ‘Er ist ganz nett’ derse, bu çoğu zaman fena değildi ama özel biri de değildi demektir. Kelime kadar ses tonunu da dinleyin.",
+      "Almanlar ilk başta biraz mesafeli görünürse cesaretiniz kırılmasın. Arkadaşlıklar oluşmak için çoğu zaman zaman ister ama insanlar bir kez kurulduğunda uzun sürdüğünü söyler. 🤝"
+    ],
+    "quiz": {"q": "Arkadaşınız az önce herkesin yemeğini ödedi. Ne dersiniz?", "o": ["Du bist so großzügig!", "Du bist so faul!", "Du bist so schüchtern!"], "a": 0, "why": "großzügig = cömert; arkadaşınız tam olarak öyle davrandı."},
+    "outro": "Bugünkü kelimelerden üçünü seçin ve kendinizi yüksek sesle anlatın: ‘Ich bin … und …, aber manchmal ein bisschen …’ 😄"
   }
 }

@@ -8,23 +8,72 @@
       "오늘은 집안일 단어 10개를 모았어요. 청소, 설거지, 쓰레기 버리기까지 이 10개면 룸메이트랑 당번 정하는 대화도 문제없어요. 같이 소매 걷어붙여 볼까요? 🧹"
     ],
     "words": {
-      "A2-165": {"pron": "푸첸", "tip": "‘푸~’ 하고 먼지 불고 싹싹 닦는 게 putzen 🧽 이 닦기도 Zähne putzen이에요!", "bonus": "청소해 주시는 분 = die Putzkraft · 대청소 = der Großputz"},
-      "A2-166": {"pron": "아우프로이멘", "tip": "Raum(공간, 영어 room)을 만드는 것 = 정리하기 📦 치우면 방이 넓어지잖아요!", "warn": "분리동사예요: Ich räume auf. · 현재완료는 hat aufgeräumt."},
-      "B1-1190": {"pron": "슈타우프자우겐", "tip": "Staub(먼지) + saugen(빨아들이다) = 먼지를 쭉 빨아들이기 🌪️", "bonus": "Ich staubsauge. 도 되고, 띄어서 Ich sauge Staub. 도 돼요."},
-      "A2-832": {"pron": "슈타우프자우거", "tip": "동사 staubsaugen + -er(도구) = 청소기 🤖 로봇청소기는 der Saugroboter!", "bonus": "복수도 똑같이 die Staubsauger예요."},
-      "B1-413": {"pron": "압바셴", "tip": "ab(떼어 내서) + waschen(씻다) = 접시에서 때를 씻어 내기 🍽️", "warn": "분리동사 + 불규칙: Er wäscht ab. · Ich habe abgewaschen."},
-      "A2-475": {"pron": "게시어", "tip": "그릇이 ‘게쉬어~’ 하고 달그락거리는 소리 🫖 식기 전체를 묶어서 부르는 말이에요.", "warn": "셀 수 없는 단수 명사예요. 그릇 하나는 der Teller, 컵은 die Tasse."},
-      "A2-779": {"pron": "슈퓔마쉬네", "tip": "spülen(헹구다) + Maschine = 헹궈 주는 기계 🫧 단어가 그대로 설명서예요.", "bonus": "넣다/비우다 = einräumen / ausräumen"},
-      "A2-041": {"pron": "뮐", "tip": "‘뮐~’ 하고 코를 막게 되는 쓰레기 🗑️ 쓰레기통은 der Mülleimer!", "bonus": "분리수거하다 = den Müll trennen"},
-      "A2-182": {"pron": "자우버", "tip": "청소 끝나면 공기도 ‘사우나’처럼 상쾌~ 자우버 ✨ 남부에선 Sauber! = 잘했어!", "bonus": "반대말은 바로 다음 단어 schmutzig!"},
-      "A2-183": {"pron": "슈무치히", "tip": "Schmutz(때) + -ig = 때투성이 🥾 ‘슈무츠’ 소리부터 끈적해요.", "bonus": "명사 der Schmutz = 때, 오물"}
+      "A2-165": {
+        "pron": "푸첸",
+        "tip": "‘푸~’ 하고 먼지 불고 싹싹 닦는 게 putzen 🧽 이 닦기도 Zähne putzen이에요!",
+        "bonus": "청소해 주시는 분 = die Putzkraft · 대청소 = der Großputz"
+      },
+      "A2-166": {
+        "pron": "아우프로이멘",
+        "tip": "Raum(공간, 영어 room)을 만드는 것 = 정리하기 📦 치우면 방이 넓어지잖아요!",
+        "warn": "분리동사예요: Ich räume auf. · 현재완료는 hat aufgeräumt."
+      },
+      "B1-1190": {
+        "pron": "슈타우프자우겐",
+        "tip": "Staub(먼지) + saugen(빨아들이다) = 먼지를 쭉 빨아들이기 🌪️",
+        "bonus": "Ich staubsauge. 도 되고, 띄어서 Ich sauge Staub. 도 돼요."
+      },
+      "A2-832": {
+        "pron": "슈타우프자우거",
+        "tip": "동사 staubsaugen + -er(도구) = 청소기 🤖 로봇청소기는 der Saugroboter!",
+        "bonus": "복수도 똑같이 die Staubsauger예요."
+      },
+      "B1-413": {
+        "pron": "압바셴",
+        "tip": "ab(떼어 내서) + waschen(씻다) = 접시에서 때를 씻어 내기 🍽️",
+        "warn": "분리동사 + 불규칙: Er wäscht ab. · Ich habe abgewaschen."
+      },
+      "A2-475": {
+        "pron": "게시어",
+        "tip": "그릇이 ‘게쉬어~’ 하고 달그락거리는 소리 🫖 식기 전체를 묶어서 부르는 말이에요.",
+        "warn": "셀 수 없는 단수 명사예요. 그릇 하나는 der Teller, 컵은 die Tasse."
+      },
+      "A2-779": {
+        "pron": "슈퓔마쉬네",
+        "tip": "spülen(헹구다) + Maschine = 헹궈 주는 기계 🫧 단어가 그대로 설명서예요.",
+        "bonus": "넣다/비우다 = einräumen / ausräumen"
+      },
+      "A2-041": {
+        "pron": "뮐",
+        "tip": "‘뮐~’ 하고 코를 막게 되는 쓰레기 🗑️ 쓰레기통은 der Mülleimer!",
+        "bonus": "분리수거하다 = den Müll trennen"
+      },
+      "A2-182": {
+        "pron": "자우버",
+        "tip": "청소 끝나면 공기도 ‘사우나’처럼 상쾌~ 자우버 ✨ 남부에선 Sauber! = 잘했어!",
+        "bonus": "반대말은 바로 다음 단어 schmutzig!"
+      },
+      "A2-183": {
+        "pron": "슈무치히",
+        "tip": "Schmutz(때) + -ig = 때투성이 🥾 ‘슈무츠’ 소리부터 끈적해요.",
+        "bonus": "명사 der Schmutz = 때, 오물"
+      }
     },
     "culture": [
       "독일 WG에는 보통 Putzplan(청소 당번표)이 있어요. 부엌, 욕실, 쓰레기를 주마다 돌아가며 맡는 식이고, 이걸 안 지키면 룸메이트 사이가 금방 서먹해져요.",
       "쓰레기는 꼼꼼하게 나눠요. 종이, 음식물(Bio), 포장재(Gelber Sack이나 Gelbe Tonne), 일반 쓰레기(Restmüll)로 나누는 게 보통이고, 색깔과 규칙은 도시마다 조금씩 달라요. 병은 색깔별 수거함에 넣고, 보증금(Pfand)이 붙은 병은 마트에 돌려줘요.",
       "그리고 일요일에는 조용히! 많은 건물의 Hausordnung(입주 규칙)에서 일요일과 밤에는 시끄러운 청소기 사용을 피하라고 해요. 대청소는 토요일에 하는 게 마음 편해요. 🤫"
     ],
-    "quiz": {"q": "WG에서 저녁을 먹고 나니 싱크대에 더러운 접시가 가득해요. 뭐라고 할까요?", "o": ["Ich sauge Staub.", "Ich wasche ab.", "Ich bringe den Müll runter."], "a": 1, "why": "Ich wasche ab. = 내가 설거지할게. 접시를 씻는 건 abwaschen이에요."},
+    "quiz": {
+      "q": "WG에서 저녁을 먹고 나니 싱크대에 더러운 접시가 가득해요. 뭐라고 할까요?",
+      "o": [
+        "Ich sauge Staub.",
+        "Ich wasche ab.",
+        "Ich bringe den Müll runter."
+      ],
+      "a": 1,
+      "why": "Ich wasche ab. = 내가 설거지할게. 접시를 씻는 건 abwaschen이에요."
+    },
     "outro": "오늘 집안일 하나 할 때마다 독일어로 말해 봐요. ‘Ich räume auf!’ 하면서 치우면 정리도 공부도 한 번에 끝! 🧽"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words cover cleaning, tidying, washing up and taking out the rubbish. With them you can sort out the rota with your flatmates and know exactly what you've signed up for. Sleeves up! 🧹"
     ],
     "words": {
-      "A2-165": {"pron": "POOT-sen", "tip": "Blow the dust off — ‘poot!’ — then scrub 🧽 Brushing your teeth is Zähne putzen too!", "bonus": "a cleaner = die Putzkraft · a big spring clean = der Großputz"},
-      "A2-166": {"pron": "OWF-roy-men", "tip": "Raum means room — tidying up literally makes room 📦", "warn": "Separable verb: Ich räume auf. · Perfect: hat aufgeräumt."},
-      "B1-1190": {"pron": "SHTOWP-zow-gen", "tip": "Staub (dust) + saugen (to suck) = suck up the dust 🌪️", "bonus": "You can say Ich staubsauge. or Ich sauge Staub. — both are fine."},
-      "A2-832": {"pron": "SHTOWP-zow-ger", "tip": "Dust-sucker: the -er turns the verb into a machine 🤖 A robot vacuum is der Saugroboter.", "bonus": "Plural stays the same: die Staubsauger."},
-      "B1-413": {"pron": "AP-vash-en", "tip": "ab (off) + waschen (wash) = wash the dirt off the plates 🍽️", "warn": "Separable and irregular: Er wäscht ab. · Ich habe abgewaschen."},
-      "A2-475": {"pron": "geh-SHEER", "tip": "Sounds like plates clinking in the sink — ‘ge-SHIRR’ 🫖 It means all your crockery together.", "warn": "Uncountable singular. One plate is der Teller, a cup is die Tasse."},
-      "A2-779": {"pron": "SHPÜL-ma-shee-nuh", "tip": "spülen (rinse) + Maschine = rinsing machine 🫧 The name is its own manual.", "bonus": "load / unload it = einräumen / ausräumen"},
-      "A2-041": {"pron": "MÜL", "tip": "Make a face and say ‘müll’ — that's how rubbish smells 🗑️ The bin is der Mülleimer.", "bonus": "to sort your rubbish = den Müll trennen"},
-      "A2-182": {"pron": "ZOW-ber", "tip": "Distantly related to English sober — clean and clear-headed ✨ In the south, Sauber! also means Nice one!", "bonus": "Its opposite is the next word: schmutzig."},
-      "A2-183": {"pron": "SHMOOT-sikh", "tip": "Schmutz is related to English smut — grimy stuff + -ig 🥾", "bonus": "The noun der Schmutz = dirt, grime"}
+      "A2-165": {
+        "pron": "POOT-sen",
+        "tip": "Blow the dust off — ‘poot!’ — then scrub 🧽 Brushing your teeth is Zähne putzen too!",
+        "bonus": "a cleaner = die Putzkraft · a big spring clean = der Großputz"
+      },
+      "A2-166": {
+        "pron": "OWF-roy-men",
+        "tip": "Raum means room — tidying up literally makes room 📦",
+        "warn": "Separable verb: Ich räume auf. · Perfect: hat aufgeräumt."
+      },
+      "B1-1190": {
+        "pron": "SHTOWP-zow-gen",
+        "tip": "Staub (dust) + saugen (to suck) = suck up the dust 🌪️",
+        "bonus": "You can say Ich staubsauge. or Ich sauge Staub. — both are fine."
+      },
+      "A2-832": {
+        "pron": "SHTOWP-zow-ger",
+        "tip": "Dust-sucker: the -er turns the verb into a machine 🤖 A robot vacuum is der Saugroboter.",
+        "bonus": "Plural stays the same: die Staubsauger."
+      },
+      "B1-413": {
+        "pron": "AP-vash-en",
+        "tip": "ab (off) + waschen (wash) = wash the dirt off the plates 🍽️",
+        "warn": "Separable and irregular: Er wäscht ab. · Ich habe abgewaschen."
+      },
+      "A2-475": {
+        "pron": "geh-SHEER",
+        "tip": "Sounds like plates clinking in the sink — ‘ge-SHIRR’ 🫖 It means all your crockery together.",
+        "warn": "Uncountable singular. One plate is der Teller, a cup is die Tasse."
+      },
+      "A2-779": {
+        "pron": "SHPÜL-ma-shee-nuh",
+        "tip": "spülen (rinse) + Maschine = rinsing machine 🫧 The name is its own manual.",
+        "bonus": "load / unload it = einräumen / ausräumen"
+      },
+      "A2-041": {
+        "pron": "MÜL",
+        "tip": "Make a face and say ‘müll’ — that's how rubbish smells 🗑️ The bin is der Mülleimer.",
+        "bonus": "to sort your rubbish = den Müll trennen"
+      },
+      "A2-182": {
+        "pron": "ZOW-ber",
+        "tip": "Distantly related to English sober — clean and clear-headed ✨ In the south, Sauber! also means Nice one!",
+        "bonus": "Its opposite is the next word: schmutzig."
+      },
+      "A2-183": {
+        "pron": "SHMOOT-sikh",
+        "tip": "Schmutz is related to English smut — grimy stuff + -ig 🥾",
+        "bonus": "The noun der Schmutz = dirt, grime"
+      }
     },
     "culture": [
       "Most German flatshares have a Putzplan (cleaning rota). Kitchen, bathroom and rubbish rotate week by week, and ignoring it is one of the fastest ways to fall out with your flatmates.",
       "Rubbish is sorted carefully. Usually there's paper, food waste (Bio), packaging (Gelber Sack or Gelbe Tonne) and general waste (Restmüll), though colours and rules vary from city to city. Glass goes into bottle banks by colour, and bottles with a deposit (Pfand) go back to the shop.",
       "And keep Sundays quiet! Many buildings' house rules (Hausordnung) ask you not to make noise on Sundays and late at night, so the big vacuuming session usually happens on Saturday. 🤫"
     ],
-    "quiz": {"q": "After dinner in your flatshare, the sink is full of dirty plates. What do you offer?", "o": ["Ich sauge Staub.", "Ich wasche ab.", "Ich bringe den Müll runter."], "a": 1, "why": "Ich wasche ab. = I'll do the washing-up — abwaschen is for dishes."},
+    "quiz": {
+      "q": "After dinner in your flatshare, the sink is full of dirty plates. What do you offer?",
+      "o": [
+        "Ich sauge Staub.",
+        "Ich wasche ab.",
+        "Ich bringe den Müll runter."
+      ],
+      "a": 1,
+      "why": "Ich wasche ab. = I'll do the washing-up — abwaschen is for dishes."
+    },
     "outro": "Every time you do a chore today, say it in German. Shout ‘Ich räume auf!’ while you tidy, and you've done two jobs at once! 🧽"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日は家事の単語を10個集めました。掃除、片づけ、皿洗い、ごみ出しまで、この10個があればルームメイトと当番を決める会話もばっちりです。さあ、腕まくりしましょう！🧹"
     ],
     "words": {
-      "A2-165": {"pron": "プッツェン", "tip": "ほこりをプッと吹いてゴシゴシ磨くのが putzen 🧽 歯磨きも Zähne putzen！", "bonus": "清掃スタッフ = die Putzkraft · 大掃除 = der Großputz"},
-      "A2-166": {"pron": "アウフロイメン", "tip": "Raum は英語の room。片づけると部屋（Raum）が広くなる 📦", "warn": "分離動詞です：Ich räume auf. · 現在完了は hat aufgeräumt."},
-      "B1-1190": {"pron": "シュタウプザウゲン", "tip": "Staub（ほこり）+ saugen（吸う）= ほこりを吸い込む 🌪️", "bonus": "Ich staubsauge. でも、分けて Ich sauge Staub. でもOK。"},
-      "A2-832": {"pron": "シュタウプザウガー", "tip": "ほこりを吸うもの = -er で道具になります 🤖 ロボット掃除機は der Saugroboter！", "bonus": "複数形も同じ形：die Staubsauger"},
-      "B1-413": {"pron": "アップヴァッシェン", "tip": "ab（落として）+ waschen（洗う）= お皿の汚れを洗い落とす 🍽️", "warn": "分離動詞で不規則：Er wäscht ab. · Ich habe abgewaschen."},
-      "A2-475": {"pron": "ゲシル", "tip": "流しで食器がガシャッと鳴る音みたい「ゲシル」🫖 食器全部をまとめて言う言葉です。", "warn": "数えられない単数名詞です。お皿1枚は der Teller、カップは die Tasse。"},
-      "A2-779": {"pron": "シュピュールマシーネ", "tip": "spülen（すすぐ）+ Maschine = すすいでくれる機械 🫧 名前がそのまま説明書！", "bonus": "入れる / 出す = einräumen / ausräumen"},
-      "A2-041": {"pron": "ミュル", "tip": "鼻をつまんで「ミュル…」、ごみのにおいの声 🗑️ ごみ箱は der Mülleimer！", "bonus": "ごみを分別する = den Müll trennen"},
-      "A2-182": {"pron": "ザウバー", "tip": "掃除のあとは空気もサウナ上がりみたいにさっぱり「ザウバー」✨ 南ドイツでは Sauber! =「いいね！」", "bonus": "反対語は次の単語 schmutzig！"},
-      "A2-183": {"pron": "シュムッツィヒ", "tip": "Schmutz（汚れ）+ -ig = 汚れだらけ 🥾「シュムッツ」という音からしてベタベタ。", "bonus": "名詞 der Schmutz = 汚れ"}
+      "A2-165": {
+        "pron": "プッツェン",
+        "tip": "ほこりをプッと吹いてゴシゴシ磨くのが putzen 🧽 歯磨きも Zähne putzen！",
+        "bonus": "清掃スタッフ = die Putzkraft · 大掃除 = der Großputz"
+      },
+      "A2-166": {
+        "pron": "アウフロイメン",
+        "tip": "Raum は英語の room。片づけると部屋（Raum）が広くなる 📦",
+        "warn": "分離動詞です：Ich räume auf. · 現在完了は hat aufgeräumt."
+      },
+      "B1-1190": {
+        "pron": "シュタウプザウゲン",
+        "tip": "Staub（ほこり）+ saugen（吸う）= ほこりを吸い込む 🌪️",
+        "bonus": "Ich staubsauge. でも、分けて Ich sauge Staub. でもOK。"
+      },
+      "A2-832": {
+        "pron": "シュタウプザウガー",
+        "tip": "ほこりを吸うもの = -er で道具になります 🤖 ロボット掃除機は der Saugroboter！",
+        "bonus": "複数形も同じ形：die Staubsauger"
+      },
+      "B1-413": {
+        "pron": "アップヴァッシェン",
+        "tip": "ab（落として）+ waschen（洗う）= お皿の汚れを洗い落とす 🍽️",
+        "warn": "分離動詞で不規則：Er wäscht ab. · Ich habe abgewaschen."
+      },
+      "A2-475": {
+        "pron": "ゲシル",
+        "tip": "流しで食器がガシャッと鳴る音みたい「ゲシル」🫖 食器全部をまとめて言う言葉です。",
+        "warn": "数えられない単数名詞です。お皿1枚は der Teller、カップは die Tasse。"
+      },
+      "A2-779": {
+        "pron": "シュピュールマシーネ",
+        "tip": "spülen（すすぐ）+ Maschine = すすいでくれる機械 🫧 名前がそのまま説明書！",
+        "bonus": "入れる / 出す = einräumen / ausräumen"
+      },
+      "A2-041": {
+        "pron": "ミュル",
+        "tip": "鼻をつまんで「ミュル…」、ごみのにおいの声 🗑️ ごみ箱は der Mülleimer！",
+        "bonus": "ごみを分別する = den Müll trennen"
+      },
+      "A2-182": {
+        "pron": "ザウバー",
+        "tip": "掃除のあとは空気もサウナ上がりみたいにさっぱり「ザウバー」✨ 南ドイツでは Sauber! =「いいね！」",
+        "bonus": "反対語は次の単語 schmutzig！"
+      },
+      "A2-183": {
+        "pron": "シュムッツィヒ",
+        "tip": "Schmutz（汚れ）+ -ig = 汚れだらけ 🥾「シュムッツ」という音からしてベタベタ。",
+        "bonus": "名詞 der Schmutz = 汚れ"
+      }
     },
     "culture": [
       "ドイツの WG にはたいてい Putzplan（掃除当番表）があります。キッチン、バスルーム、ごみ出しを週ごとに交代するのが一般的で、これをさぼるとルームメイトとの関係がすぐぎくしゃくします。",
       "ごみはしっかり分別します。紙、生ごみ（Bio）、容器包装（Gelber Sack や Gelbe Tonne）、その他のごみ（Restmüll）に分けるのがふつうですが、色やルールは町によって少しずつ違います。びんは色別の回収コンテナへ、デポジット（Pfand）付きのボトルはスーパーに返します。",
       "そして日曜日は静かに！多くの建物のハウスルール（Hausordnung）では、日曜や夜に大きな音を立てないよう求められています。掃除機をかけるなら土曜日が安心です。🤫"
     ],
-    "quiz": {"q": "シェアハウスで夕食のあと、流しが汚れたお皿でいっぱいです。何と申し出ますか？", "o": ["Ich sauge Staub.", "Ich wasche ab.", "Ich bringe den Müll runter."], "a": 1, "why": "Ich wasche ab. = 私が皿洗いするよ。お皿を洗うのは abwaschen です。"},
+    "quiz": {
+      "q": "シェアハウスで夕食のあと、流しが汚れたお皿でいっぱいです。何と申し出ますか？",
+      "o": [
+        "Ich sauge Staub.",
+        "Ich wasche ab.",
+        "Ich bringe den Müll runter."
+      ],
+      "a": 1,
+      "why": "Ich wasche ab. = 私が皿洗いするよ。お皿を洗うのは abwaschen です。"
+    },
     "outro": "今日は家事をするたびにドイツ語で言ってみましょう。「Ich räume auf!」と言いながら片づければ、掃除も勉強も一度に完了です！🧽"
+  },
+  "tr": {
+    "title": "Temizlik günü: Ev işleri için 10 Almanca kelime",
+    "hook": "Ortak evinizin buzdolabındaki o temizlik çizelgesi birazdan anlam kazanacak.",
+    "intro": [
+      "Alman bir WG'deki (ortak evdeki) ilk gününüzde mutfak duvarında bir çizelge var. Putzen, Müll, Bad… ve bu hafta adınız bunlardan birinin yanında. Ama hangi iş?",
+      "Bugünkü on kelime temizlik, toplama, bulaşık yıkama ve çöpü çıkarmayı kapsıyor. Bunlarla ev arkadaşlarınızla çizelgeyi ayarlayabilir ve neyi üstlendiğinizi tam olarak bilirsiniz. Kolları sıvayın! 🧹"
+    ],
+    "words": {
+      "A2-165": {
+        "pron": "PUT-sen",
+        "tip": "Tozu ‘puf!’ diye üfleyin, sonra ovun 🧽 Diş fırçalamak da Zähne putzen!",
+        "bonus": "temizlikçi = die Putzkraft · büyük bahar temizliği = der Großputz"
+      },
+      "A2-166": {
+        "pron": "AUF-roy-men",
+        "tip": "Raum oda demek; toplamak kelimenin tam anlamıyla yer açmaktır 📦",
+        "warn": "Ayrılabilen fiil: Ich räume auf. · Perfekt: hat aufgeräumt."
+      },
+      "B1-1190": {
+        "pron": "ŞTAUP-zau-gen",
+        "tip": "Staub (toz) + saugen (emmek) = tozu emmek 🌪️",
+        "bonus": "Ich staubsauge. de Ich sauge Staub. da denebilir; ikisi de doğru."
+      },
+      "A2-832": {
+        "pron": "ŞTAUP-zau-gır",
+        "tip": "Toz emici: -er fiili makineye dönüştürür 🤖 Robot süpürge der Saugroboter.",
+        "bonus": "Çoğulu aynı kalır: die Staubsauger."
+      },
+      "B1-413": {
+        "pron": "AP-va-şen",
+        "tip": "ab (-den) + waschen (yıkamak) = kiri tabaklardan yıkayıp çıkarmak 🍽️",
+        "warn": "Ayrılabilen ve düzensiz: Er wäscht ab. · Ich habe abgewaschen."
+      },
+      "A2-475": {
+        "pron": "ge-ŞİR",
+        "tip": "Lavaboda şıngırdayan tabaklar gibi: ‘ge-ŞİRR’ 🫖 Bütün tabak çanağınızın toplamı.",
+        "warn": "Sayılamayan tekil. Tek tabak der Teller, fincan die Tasse."
+      },
+      "A2-779": {
+        "pron": "ŞPÜL-ma-şi-ne",
+        "tip": "spülen (durulamak) + Maschine = durulama makinesi 🫧 Adı kendi kullanım kılavuzu.",
+        "bonus": "doldurmak / boşaltmak = einräumen / ausräumen"
+      },
+      "A2-041": {
+        "pron": "MÜL",
+        "tip": "Yüzünüzü buruşturup ‘müll’ deyin; çöp tam da böyle kokar 🗑️ Çöp kovası der Mülleimer.",
+        "bonus": "çöpü ayırmak = den Müll trennen"
+      },
+      "A2-182": {
+        "pron": "ZAU-bır",
+        "tip": "Uzaktan İngilizce sober ile akraba; temiz ve berrak kafalı ✨ Güneyde Sauber! ‘Helal olsun!’ anlamına da gelir.",
+        "bonus": "Zıttı bir sonraki kelime: schmutzig."
+      },
+      "A2-183": {
+        "pron": "ŞMUT-sih",
+        "tip": "Schmutz İngilizce smut ile akraba; is pas + -ig 🥾",
+        "bonus": "İsmi der Schmutz = kir, pislik"
+      }
+    },
+    "culture": [
+      "Alman ortak evlerinin çoğunda bir Putzplan (temizlik çizelgesi) vardır. Mutfak, banyo ve çöp her hafta sırayla değişir; buna uymamak ev arkadaşlarınızla bozuşmanın en hızlı yollarından biridir.",
+      "Çöpler dikkatle ayrılır. Genellikle kâğıt, yemek artıkları (Bio), ambalaj (Gelber Sack ya da Gelbe Tonne) ve genel çöp (Restmüll) vardır; ancak renkler ve kurallar şehirden şehre değişir. Cam şişeler renklerine göre cam kumbaralarına, depozitolu (Pfand) şişeler ise dükkâna geri gider.",
+      "Bir de pazar günleri sessiz olun! Pek çok binanın ev kuralları (Hausordnung) pazar günleri ve gece geç saatlerde gürültü yapmamanızı ister; bu yüzden büyük süpürge seansı genellikle cumartesi yapılır. 🤫"
+    ],
+    "quiz": {
+      "q": "Ortak evinizde akşam yemeğinden sonra lavabo kirli tabaklarla dolu. Ne teklif edersiniz?",
+      "o": [
+        "Ich sauge Staub.",
+        "Ich wasche ab.",
+        "Ich bringe den Müll runter."
+      ],
+      "a": 1,
+      "why": "Ich wasche ab. = Bulaşıkları ben yıkarım. abwaschen tabaklar içindir."
+    },
+    "outro": "Bugün her ev işi yaptığınızda bunu Almanca söyleyin. Toplarken ‘Ich räume auf!’ diye bağırın; bir taşla iki kuş! 🧽"
   }
 }

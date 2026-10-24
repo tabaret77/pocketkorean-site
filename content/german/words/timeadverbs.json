@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちから電話で「いま話せる？」と聞かれました。ご飯を食べているところだと言うには？", "o": ["Ich esse gerade.", "Ich habe gestern gegessen.", "Ich esse bald."], "a": 0, "why": "gerade = ちょうど今、〜しているところ。今していることを言うときに使います。"},
     "outro": "今日の予定を heute, jetzt, später, morgen を使って声に出して言ってみましょう。Bis bald! 👋"
+  },
+  "tr": {
+    "title": "Şimdi, zaten, hâlâ: her gün kullanacağınız 10 zaman kelimesi",
+    "hook": "Almanca bir cümleye küçük bir zaman kelimesi ekleyin, anında daha doğal duyulur.",
+    "intro": [
+      "Bir arkadaşınız arıyor: ‘Hast du Zeit?’ Şu an yemek yiyorsunuz ve sonra geri arayacağınızı söylemek istiyorsunuz — ama ‘şimdi’ ve ‘sonra’ bir türlü ağzınızdan çıkmıyor, siz de ‘Äh… Moment!’ diye bağırıyorsunuz.",
+      "Bugünkü on zaman zarfı, günde onlarca kez kullanacağınız kelimeler. Bunlarla plan yapabilir, geç kaldığınızı söyleyebilir ve ‘Bitirdin mi bile?’ diye sorabilirsiniz. 🕰️"
+    ],
+    "words": {
+      "A1-380": {"pron": "YETST", "tip": "Kısa ve acil, tıpkı anlamı gibi ⏱️ YETST!", "bonus": "Jetzt oder nie! = Ya şimdi ya hiç!"},
+      "A1-084": {"pron": "HOY-te", "tip": "Eski hiu tagu, yani ‘bu günde’ ifadesinden sıkıştırılmış 📅 Hoy, bugün bugün!", "bonus": "heute Abend = bu akşam · heute Morgen = bu sabah"},
+      "A1-086": {"pron": "GES-tern", "tip": "İngilizce yesterday'deki yester- ile aynı kökten ⏪", "bonus": "Evvelsi gün = vorgestern"},
+      "A1-085": {"pron": "MOR-gen", "tip": "der Morgen, yani sabah kelimesinden 🌅 ‘Ertesi sabah’ zamanla ‘yarın’ oldu.", "warn": "Küçük harfli morgen = yarın; der Morgen = sabah. Yarın sabah = morgen früh."},
+      "A1-382": {"pron": "ŞON", "tip": "Daha siz farkına varmadan oradadır ⚡ Bist du schon da? = Geldin mi bile?", "bonus": "Komm schon! = Hadi ama!"},
+      "A1-383": {"pron": "NOH", "tip": "Henüz bitmedi, hâlâ devam ediyor — işte noch ⏳", "bonus": "Noch ein Bier, bitte! = Bir bira daha, lütfen!"},
+      "A1-381": {"pron": "BALT", "tip": "İngilizcedeki ‘kel’ (bald) ile hiç ilgisi yok 👋 Bis bald! = Yakında görüşürüz!", "warn": "Yanıltıcı kelime: bald = yakında. Kel ise kahl'dır."},
+      "A2-397": {"pron": "ge-RA-de", "tip": "Aslında ‘düz, dosdoğru’ demek 📏 Bir şeyin tam ortasında, dosdoğru şimdi.", "bonus": "Ich esse gerade. = Şu an yemek yiyorum."},
+      "A1-557": {"pron": "ŞPEY-ter", "tip": "spät (geç) kelimesinin karşılaştırma hali = daha geç, sonra 🐌", "bonus": "Bis später! = Sonra görüşürüz!"},
+      "A2-193": {"pron": "zo-FORT", "tip": "so + fort (ileri) = hemen oracıkta 🏃 Her garsonun en sevdiği cümle: ‘Komme sofort!’", "bonus": "Benzeri: gleich = birazdan"}
+    },
+    "culture": [
+      "Almanya dakikliğiyle ünlüdür. Bir randevuda (Termin) zamanında gelmeniz beklenir; geç kalıyorsanız haber vermek kibarlıktır: ‘Ich komme zehn Minuten später.’",
+      "Sofort ve gleich eğlenceli bir ikilidir. Bir garson ‘Komme sofort!’ dediğinde yine de birkaç dakika sürebilir. ‘Birazdan’ın ne kadar süreceği kişiye bağlıdır, o yüzden kelimesi kelimesine almayın.",
+      "Üniversitelerde ‘akademik çeyrek’ (akademisches Viertel) denen bir gelenek vardır. Ders programında ‘c.t.’ yazıyorsa ders çoğu zaman saat başından on beş dakika sonra başlar. Değişebilir, o yüzden mutlaka kontrol edin! ⏰"
+    ],
+    "quiz": {"q": "Bir arkadaşınız arayıp konuşabilir misiniz diye soruyor. Tam yemek yemekte olduğunuzu nasıl söylersiniz?", "o": ["Ich esse gerade.", "Ich habe gestern gegessen.", "Ich esse bald."], "a": 0, "why": "gerade = şu an, tam bir şeyi yapmanın ortasında."},
+    "outro": "Gününüzü heute, jetzt, später ve morgen kullanarak yüksek sesle anlatın. Bis bald! 👋"
   }
 }

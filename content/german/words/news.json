@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "ドイツの友だちに「実は今日休みなんだ」と言いたいです。", "o": ["Aktuell habe ich eine Schlagzeile.", "Eigentlich habe ich heute frei.", "Die Medien haben heute frei."], "a": 1, "why": "「実は」は eigentlich。aktuell は「最新の、現在の」という意味なので引っかけです。"},
     "outro": "今日はドイツのニュースサイトで見出しを3つ選んで、声に出して読んでみましょう。知っている単語がいくつあるか数えるのも楽しいですよ！🗞️"
+  },
+  "tr": {
+    "title": "Manşetlerin kilidini açan 10 Almanca kelime",
+    "hook": "Almanca haberler ilk başta zor gelir ama aynı on kelime her gün karşınıza çıkar.",
+    "intro": [
+      "Sabah treninde yanınızdaki kişi bir gazete açıyor. Büyük manşeti görebiliyorsunuz ama ne olduğuna dair hiçbir fikriniz yok. O akşam bir arkadaşınız soruyor: ‘Hast du die Nachrichten gesehen?’",
+      "Bugünkü 10 kelime haberlerde her gün geçiyor. Bunları öğrenin; manşetler birden anlam kazanmaya başlar ve insanlar gündemi konuşurken siz de sohbete katılabilirsiniz. 🗞️"
+    ],
+    "words": {
+      "A2-045": {"pron": "NAH-riht", "tip": "nach (sonra) + richten (yöneltmek) = sonrasında göre davrandığınız bilgi 📩 Telefon mesajı da bir Nachricht'tir.", "warn": "‘Haberler’ için çoğul kullanılır: die Nachrichten."},
+      "A1-588": {"pron": "TSAY-tunk", "tip": "İçinde Zeit (zaman) sesini duyuyor musunuz? Günün haberleri 📰 -ung, yani die.", "bonus": "Dergi die Zeitschrift."},
+      "A2-410": {"pron": "ar-Tİ-kel", "tip": "Gazete makalesi de der/die/das da Artikel ✏️ Her öğrencinin hem dostu hem düşmanı.", "bonus": "Dükkânlarda ürün, mal anlamına da gelir."},
+      "A2-653": {"pron": "jur-na-LİST", "tip": "Fransızca journal (günlük gazete) kelimesinden 🎤 J yumuşak, Türkçedeki gazeteci-jurnalist gibi.", "bonus": "Kadın gazeteci die Journalistin."},
+      "B1-150": {"pron": "be-RİH-ten", "tip": "be- + richten (düzeltmek) = olguları düzgünce ortaya koymak 📡", "bonus": "…hakkında haber vermek = berichten über + Akkusativ"},
+      "B1-502": {"pron": "be-RİHT", "tip": "berichten'den -en'i atın, isim hazır 📋", "bonus": "Hava durumu raporu der Wetterbericht."},
+      "B1-250": {"pron": "ME-di-en", "tip": "Türkçedeki medya ile aynı Latince kökten 📺", "warn": "Genellikle çoğul: die Medien. Tekili das Medium."},
+      "B2-918": {"pron": "ŞLAK-tsay-le", "tip": "schlagen (vurmak) + Zeile (satır) = size çarpan satır 💥", "bonus": "Schlagzeilen machen = manşetlere çıkmak"},
+      "B1-354": {"pron": "ak-tu-EL", "tip": "Matbaadan yeni çıkmış 🔥 Türkçedeki aktüel ile aynı: aktuelle Nachrichten = son haberler", "warn": "Sahte arkadaş: aktuell = güncel. ‘Aslında’ ise eigentlich."},
+      "B2-260": {"pron": "KVE-le", "tip": "Suyun fışkırdığı pınar; bilginin de çıktığı yer 💧", "bonus": "kaynağını belirtmek = die Quelle angeben"}
+    },
+    "culture": [
+      "Klasik Alman akşam haberleri, kamu yayıncısı ARD'deki Tagesschau'dur. Saat 20.00 yayını ünlüdür ve pek çok evde gün hâlâ onunla biter.",
+      "Almanca öğreniyorsanız Deutsche Welle'nin yavaş okunan haberlerini (Langsam gesprochene Nachrichten) deneyin. Gerçek haberler, öğrenci hızında okunuyor.",
+      "Almanya'daki hanelerin çoğu bir kamu yayın ücreti (Rundfunkbeitrag) de öder. Yeni bir adres kaydettirdikten sonra genellikle bununla ilgili bir mektup gelir, şaşırmayın. 📺"
+    ],
+    "quiz": {"q": "Alman bir arkadaşınıza ‘Aslında bugün izinliyim’ demek istiyorsunuz.", "o": ["Aktuell habe ich eine Schlagzeile.", "Eigentlich habe ich heute frei.", "Die Medien haben heute frei."], "a": 1, "why": "‘Aslında’ eigentlich'tir; aktuell ise güncel demek, yani tuzak o."},
+    "outro": "Bugün bir Almanca haber sitesi açın ve üç manşeti yüksek sesle okuyun. Kaç kelimeyi tanıdığınızı sayın! 🗞️"
   }
 }

@@ -8,23 +8,72 @@
       "오늘은 집들이에서 바로 쓰는 단어 10개를 모았어요. 이걸로 초대에 답하고, 뭘 가져갈지 묻고, 집이 정말 아늑하다고 칭찬까지 할 수 있어요. 빈손 말고 단어 들고 가요! 🏡"
     ],
     "words": {
-      "B2-3956": {"pron": "아인바이웅", "tip": "weihen(축성하다)은 Weihnachten(크리스마스)에도 들어 있어요 🎉 새집을 ‘축복하며 여는’ 날!", "bonus": "집들이 파티 = die Einweihungsparty"},
-      "A1-288": {"pron": "파티", "tip": "영어 party 그대로예요 🥳 발음도 거의 같아요.", "warn": "복수는 die Partys예요. 영어처럼 Parties라고 쓰지 않아요!"},
-      "A2-039": {"pron": "아인라둥", "tip": "einladen(초대하다) + -ung = 초대 💌 -ung은 언제나 die!", "bonus": "초대 고마워! = Danke für die Einladung!"},
-      "A1-208": {"pron": "가스트", "tip": "영어 guest와 같은 뿌리 🧑‍🤝‍🧑 g-st 뼈대가 똑같죠?", "warn": "복수는 움라우트: die Gäste."},
-      "B1-2395": {"pron": "가스트게버", "tip": "Gast(손님) + Geber(주는 사람) = 손님에게 베푸는 사람 🎁", "bonus": "여성 호스트는 die Gastgeberin이에요."},
-      "A1-522": {"pron": "미트브링엔", "tip": "mit(함께) + bringen(가져오다) = 챙겨 오다 🍷", "warn": "분리동사예요: Ich bringe einen Kuchen mit. 과거분사는 mitgebracht."},
-      "A1-019": {"pron": "브로트", "tip": "영어 bread와 같은 뿌리예요 🍞 독일은 빵 종류만 수백 가지!", "bonus": "작은 빵은 das Brötchen이에요."},
-      "A1-239": {"pron": "잘츠", "tip": "영어 salt와 형제 🧂 잘츠부르크(Salzburg)는 ‘소금의 성’이에요.", "bonus": "후추는 der Pfeffer · Salz und Pfeffer"},
-      "A2-077": {"pron": "게뮈틀리히", "tip": "Gemüt(마음) + -lich = 마음이 편안한 🛋️ 독일 사람이 제일 좋아하는 칭찬 중 하나예요.", "bonus": "명사 die Gemütlichkeit = 아늑함, 편안한 분위기"},
-      "B1-298": {"pron": "아인리히텐", "tip": "ein(안에) + richten(정리하다) = 집 안을 가구로 꾸미다 🪑", "warn": "분리동사예요: Wir richten die Wohnung ein. → hat eingerichtet"}
+      "B2-3956": {
+        "pron": "아인바이웅",
+        "tip": "weihen(축성하다)은 Weihnachten(크리스마스)에도 들어 있어요 🎉 새집을 ‘축복하며 여는’ 날!",
+        "bonus": "집들이 파티 = die Einweihungsparty"
+      },
+      "A1-288": {
+        "pron": "파티",
+        "tip": "영어 party 그대로예요 🥳 발음도 거의 같아요.",
+        "warn": "복수는 die Partys예요. 영어처럼 Parties라고 쓰지 않아요!"
+      },
+      "A2-039": {
+        "pron": "아인라둥",
+        "tip": "einladen(초대하다) + -ung = 초대 💌 -ung은 언제나 die!",
+        "bonus": "초대 고마워! = Danke für die Einladung!"
+      },
+      "A1-208": {
+        "pron": "가스트",
+        "tip": "영어 guest와 같은 뿌리 🧑‍🤝‍🧑 g-st 뼈대가 똑같죠?",
+        "warn": "복수는 움라우트: die Gäste."
+      },
+      "B1-2395": {
+        "pron": "가스트게버",
+        "tip": "Gast(손님) + Geber(주는 사람) = 손님에게 베푸는 사람 🎁",
+        "bonus": "여성 호스트는 die Gastgeberin이에요."
+      },
+      "A1-522": {
+        "pron": "미트브링엔",
+        "tip": "mit(함께) + bringen(가져오다) = 챙겨 오다 🍷",
+        "warn": "분리동사예요: Ich bringe einen Kuchen mit. 과거분사는 mitgebracht."
+      },
+      "A1-019": {
+        "pron": "브로트",
+        "tip": "영어 bread와 같은 뿌리예요 🍞 독일은 빵 종류만 수백 가지!",
+        "bonus": "작은 빵은 das Brötchen이에요."
+      },
+      "A1-239": {
+        "pron": "잘츠",
+        "tip": "영어 salt와 형제 🧂 잘츠부르크(Salzburg)는 ‘소금의 성’이에요.",
+        "bonus": "후추는 der Pfeffer · Salz und Pfeffer"
+      },
+      "A2-077": {
+        "pron": "게뮈틀리히",
+        "tip": "Gemüt(마음) + -lich = 마음이 편안한 🛋️ 독일 사람이 제일 좋아하는 칭찬 중 하나예요.",
+        "bonus": "명사 die Gemütlichkeit = 아늑함, 편안한 분위기"
+      },
+      "B1-298": {
+        "pron": "아인리히텐",
+        "tip": "ein(안에) + richten(정리하다) = 집 안을 가구로 꾸미다 🪑",
+        "warn": "분리동사예요: Wir richten die Wohnung ein. → hat eingerichtet"
+      }
     },
     "culture": [
       "독일에는 집들이에 빵과 소금(Brot und Salz)을 선물하는 오래된 전통이 있어요. 새집에서 먹을 것이 떨어지지 않기를 바라는 마음이 담겨 있죠. 요즘은 꽃이나 와인, 직접 만든 케이크를 들고 가는 사람도 많아요.",
       "파티를 여는 쪽은 이웃에게 미리 알리는 경우가 많아요. 계단에 ‘토요일에 조금 시끄러울 수 있어요’ 같은 쪽지를 붙여 두는 거죠. 밤에는 조용히 해야 하는 시간이 집마다 정해져 있으니 지켜 주는 게 매너예요.",
       "그리고 집에서 신발을 벗을지는 집마다 달라요. 들어갈 때 \"Soll ich die Schuhe ausziehen?\" 한마디면 충분해요! 🍞"
     ],
-    "quiz": {"q": "친구가 집들이에 초대했어요. 뭘 가져가면 좋을지 물어보려면?", "o": ["Ich habe die Wohnung eingerichtet.", "Der Gastgeber kommt am Samstag.", "Soll ich etwas mitbringen?"], "a": 2, "why": "mitbringen = 가지고 오다. ‘뭐 좀 가져갈까?’라는 뜻이에요."},
+    "quiz": {
+      "q": "친구가 집들이에 초대했어요. 뭘 가져가면 좋을지 물어보려면?",
+      "o": [
+        "Ich habe die Wohnung eingerichtet.",
+        "Der Gastgeber kommt am Samstag.",
+        "Soll ich etwas mitbringen?"
+      ],
+      "a": 2,
+      "why": "mitbringen = 가지고 오다. ‘뭐 좀 가져갈까?’라는 뜻이에요."
+    },
     "outro": "오늘은 내 방을 둘러보며 Mein Zimmer ist gemütlich! 를 소리 내어 말해 봐요. 다음 집들이의 인기 손님은 바로 여러분이에요! 🥂"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words are made for housewarming parties. With them you can reply to the invitation, ask what to bring and tell your hosts how cosy their place is. Don't arrive empty-handed! 🏡"
     ],
     "words": {
-      "B2-3956": {"pron": "INE-vy-oong", "tip": "weihen (to bless) is also in Weihnachten (Christmas) 🎉 You ‘bless’ the new home by opening it.", "bonus": "housewarming party = die Einweihungsparty"},
-      "A1-288": {"pron": "PAR-tee", "tip": "Straight from English 🥳 Sounds almost the same too.", "warn": "The plural is die Partys, not ‘Parties’!"},
-      "A2-039": {"pron": "INE-lah-doong", "tip": "einladen (to invite) + -ung = invitation 💌 -ung is always die!", "bonus": "Thanks for the invitation! = Danke für die Einladung!"},
-      "A1-208": {"pron": "gahst", "tip": "Same root as English guest 🧑‍🤝‍🧑 Look: g-st in both.", "warn": "Plural with umlaut: die Gäste."},
-      "B1-2395": {"pron": "GAHST-gay-ber", "tip": "Gast (guest) + Geber (giver) = the one who gives to the guests 🎁", "bonus": "A female host is die Gastgeberin."},
-      "A1-522": {"pron": "MIT-bring-en", "tip": "mit (with) + bringen (bring) = bring along 🍷", "warn": "Separable: Ich bringe einen Kuchen mit. Past participle: mitgebracht."},
-      "A1-019": {"pron": "broht", "tip": "Same root as English bread 🍞 Germany has hundreds of kinds!", "bonus": "A bread roll is das Brötchen."},
-      "A1-239": {"pron": "zalts", "tip": "Brother of English salt 🧂 Salzburg means ‘salt castle’.", "bonus": "pepper = der Pfeffer · Salz und Pfeffer"},
-      "A2-077": {"pron": "guh-MUET-likh", "tip": "Gemüt (heart, mood) + -lich = easy on the heart 🛋️ One of the nicest compliments in German.", "bonus": "The noun die Gemütlichkeit = cosiness, a relaxed atmosphere"},
-      "B1-298": {"pron": "INE-rikh-ten", "tip": "ein (in) + richten (arrange) = arrange the inside of your flat 🪑", "warn": "Separable: Wir richten die Wohnung ein. → hat eingerichtet"}
+      "B2-3956": {
+        "pron": "INE-vy-oong",
+        "tip": "weihen (to bless) is also in Weihnachten (Christmas) 🎉 You ‘bless’ the new home by opening it.",
+        "bonus": "housewarming party = die Einweihungsparty"
+      },
+      "A1-288": {
+        "pron": "PAR-tee",
+        "tip": "Straight from English 🥳 Sounds almost the same too.",
+        "warn": "The plural is die Partys, not ‘Parties’!"
+      },
+      "A2-039": {
+        "pron": "INE-lah-doong",
+        "tip": "einladen (to invite) + -ung = invitation 💌 -ung is always die!",
+        "bonus": "Thanks for the invitation! = Danke für die Einladung!"
+      },
+      "A1-208": {
+        "pron": "gahst",
+        "tip": "Same root as English guest 🧑‍🤝‍🧑 Look: g-st in both.",
+        "warn": "Plural with umlaut: die Gäste."
+      },
+      "B1-2395": {
+        "pron": "GAHST-gay-ber",
+        "tip": "Gast (guest) + Geber (giver) = the one who gives to the guests 🎁",
+        "bonus": "A female host is die Gastgeberin."
+      },
+      "A1-522": {
+        "pron": "MIT-bring-en",
+        "tip": "mit (with) + bringen (bring) = bring along 🍷",
+        "warn": "Separable: Ich bringe einen Kuchen mit. Past participle: mitgebracht."
+      },
+      "A1-019": {
+        "pron": "broht",
+        "tip": "Same root as English bread 🍞 Germany has hundreds of kinds!",
+        "bonus": "A bread roll is das Brötchen."
+      },
+      "A1-239": {
+        "pron": "zalts",
+        "tip": "Brother of English salt 🧂 Salzburg means ‘salt castle’.",
+        "bonus": "pepper = der Pfeffer · Salz und Pfeffer"
+      },
+      "A2-077": {
+        "pron": "guh-MUET-likh",
+        "tip": "Gemüt (heart, mood) + -lich = easy on the heart 🛋️ One of the nicest compliments in German.",
+        "bonus": "The noun die Gemütlichkeit = cosiness, a relaxed atmosphere"
+      },
+      "B1-298": {
+        "pron": "INE-rikh-ten",
+        "tip": "ein (in) + richten (arrange) = arrange the inside of your flat 🪑",
+        "warn": "Separable: Wir richten die Wohnung ein. → hat eingerichtet"
+      }
     },
     "culture": [
       "There's an old German tradition of giving bread and salt (Brot und Salz) as a housewarming gift. It's a wish that the new home will never run short of the basics. These days flowers, wine or a homemade cake are popular too.",
       "Hosts often warn the neighbours in advance, for example with a note in the stairwell saying it might get a bit loud on Saturday. Many buildings have set quiet hours at night, and respecting them is good manners.",
       "Whether you take your shoes off depends on the household. A simple \"Soll ich die Schuhe ausziehen?\" at the door does the trick! 🍞"
     ],
-    "quiz": {"q": "A friend invites you to their housewarming. How do you ask whether you should bring something?", "o": ["Ich habe die Wohnung eingerichtet.", "Der Gastgeber kommt am Samstag.", "Soll ich etwas mitbringen?"], "a": 2, "why": "mitbringen = to bring along, so this means ‘Shall I bring something?’"},
+    "quiz": {
+      "q": "A friend invites you to their housewarming. How do you ask whether you should bring something?",
+      "o": [
+        "Ich habe die Wohnung eingerichtet.",
+        "Der Gastgeber kommt am Samstag.",
+        "Soll ich etwas mitbringen?"
+      ],
+      "a": 2,
+      "why": "mitbringen = to bring along, so this means ‘Shall I bring something?’"
+    },
     "outro": "Look around your room today and say Mein Zimmer ist gemütlich! out loud. You'll be everyone's favourite guest at the next housewarming! 🥂"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日は新居祝いのパーティーですぐ使える単語を10個集めました。これで招待に返事をして、何を持っていくか聞いて、すてきな部屋だとほめることまでできます。手ぶらではなく、単語を持っていきましょう！🏡"
     ],
     "words": {
-      "B2-3956": {"pron": "アインヴァイウング", "tip": "weihen（清める）は Weihnachten（クリスマス）にも入っています 🎉 新しい家を祝福して開く日！", "bonus": "新居祝いのパーティー = die Einweihungsparty"},
-      "A1-288": {"pron": "パーティ", "tip": "英語の party そのまま 🥳 発音もほぼ同じです。", "warn": "複数形は die Partys。英語のように Parties とは書きません！"},
-      "A2-039": {"pron": "アインラードゥング", "tip": "einladen（招待する）+ -ung = 招待 💌 -ung はいつも die！", "bonus": "招待ありがとう！= Danke für die Einladung!"},
-      "A1-208": {"pron": "ガスト", "tip": "英語の guest と同じルーツ 🧑‍🤝‍🧑 g-st の骨組みがそっくり。", "warn": "複数形はウムラウト：die Gäste."},
-      "B1-2395": {"pron": "ガストゲーバー", "tip": "Gast（客）+ Geber（与える人）= お客さんをもてなす人 🎁", "bonus": "女性のホストは die Gastgeberin です。"},
-      "A1-522": {"pron": "ミットブリンゲン", "tip": "mit（一緒に）+ bringen（持ってくる）= 持参する 🍷", "warn": "分離動詞です：Ich bringe einen Kuchen mit. 過去分詞は mitgebracht."},
-      "A1-019": {"pron": "ブロート", "tip": "英語の bread と同じルーツ 🍞 ドイツにはパンが何百種類も！", "bonus": "小さな丸パンは das Brötchen です。"},
-      "A1-239": {"pron": "ザルツ", "tip": "英語の salt の兄弟 🧂 ザルツブルク（Salzburg）は「塩の城」という意味です。", "bonus": "こしょう = der Pfeffer · Salz und Pfeffer"},
-      "A2-077": {"pron": "ゲミュートリヒ", "tip": "Gemüt（心）+ -lich = 心がほっとする 🛋️ ドイツ人がいちばん喜ぶほめ言葉のひとつ。", "bonus": "名詞 die Gemütlichkeit = 居心地のよさ、くつろいだ雰囲気"},
-      "B1-298": {"pron": "アインリヒテン", "tip": "ein（中に）+ richten（整える）= 部屋の中を家具で整える 🪑", "warn": "分離動詞です：Wir richten die Wohnung ein. → hat eingerichtet"}
+      "B2-3956": {
+        "pron": "アインヴァイウング",
+        "tip": "weihen（清める）は Weihnachten（クリスマス）にも入っています 🎉 新しい家を祝福して開く日！",
+        "bonus": "新居祝いのパーティー = die Einweihungsparty"
+      },
+      "A1-288": {
+        "pron": "パーティ",
+        "tip": "英語の party そのまま 🥳 発音もほぼ同じです。",
+        "warn": "複数形は die Partys。英語のように Parties とは書きません！"
+      },
+      "A2-039": {
+        "pron": "アインラードゥング",
+        "tip": "einladen（招待する）+ -ung = 招待 💌 -ung はいつも die！",
+        "bonus": "招待ありがとう！= Danke für die Einladung!"
+      },
+      "A1-208": {
+        "pron": "ガスト",
+        "tip": "英語の guest と同じルーツ 🧑‍🤝‍🧑 g-st の骨組みがそっくり。",
+        "warn": "複数形はウムラウト：die Gäste."
+      },
+      "B1-2395": {
+        "pron": "ガストゲーバー",
+        "tip": "Gast（客）+ Geber（与える人）= お客さんをもてなす人 🎁",
+        "bonus": "女性のホストは die Gastgeberin です。"
+      },
+      "A1-522": {
+        "pron": "ミットブリンゲン",
+        "tip": "mit（一緒に）+ bringen（持ってくる）= 持参する 🍷",
+        "warn": "分離動詞です：Ich bringe einen Kuchen mit. 過去分詞は mitgebracht."
+      },
+      "A1-019": {
+        "pron": "ブロート",
+        "tip": "英語の bread と同じルーツ 🍞 ドイツにはパンが何百種類も！",
+        "bonus": "小さな丸パンは das Brötchen です。"
+      },
+      "A1-239": {
+        "pron": "ザルツ",
+        "tip": "英語の salt の兄弟 🧂 ザルツブルク（Salzburg）は「塩の城」という意味です。",
+        "bonus": "こしょう = der Pfeffer · Salz und Pfeffer"
+      },
+      "A2-077": {
+        "pron": "ゲミュートリヒ",
+        "tip": "Gemüt（心）+ -lich = 心がほっとする 🛋️ ドイツ人がいちばん喜ぶほめ言葉のひとつ。",
+        "bonus": "名詞 die Gemütlichkeit = 居心地のよさ、くつろいだ雰囲気"
+      },
+      "B1-298": {
+        "pron": "アインリヒテン",
+        "tip": "ein（中に）+ richten（整える）= 部屋の中を家具で整える 🪑",
+        "warn": "分離動詞です：Wir richten die Wohnung ein. → hat eingerichtet"
+      }
     },
     "culture": [
       "ドイツには、新居祝いにパンと塩（Brot und Salz）を贈る古い伝統があります。新しい家で食べるものに困らないように、という願いが込められています。最近は花やワイン、手作りケーキを持っていく人も多いです。",
       "パーティーを開く側は、近所の人に前もって知らせることがよくあります。階段に「土曜日は少しにぎやかになるかもしれません」というメモを貼っておくんです。夜は静かにする時間が建物ごとに決まっているので、守るのがマナーです。",
       "家で靴を脱ぐかどうかは家庭によります。玄関で \"Soll ich die Schuhe ausziehen?\" とひとこと聞けば大丈夫！🍞"
     ],
-    "quiz": {"q": "友だちに新居祝いに招かれました。何か持っていくべきか聞くには？", "o": ["Ich habe die Wohnung eingerichtet.", "Der Gastgeber kommt am Samstag.", "Soll ich etwas mitbringen?"], "a": 2, "why": "mitbringen = 持ってくる。「何か持っていこうか？」という意味です。"},
+    "quiz": {
+      "q": "友だちに新居祝いに招かれました。何か持っていくべきか聞くには？",
+      "o": [
+        "Ich habe die Wohnung eingerichtet.",
+        "Der Gastgeber kommt am Samstag.",
+        "Soll ich etwas mitbringen?"
+      ],
+      "a": 2,
+      "why": "mitbringen = 持ってくる。「何か持っていこうか？」という意味です。"
+    },
     "outro": "今日は自分の部屋を見回して、Mein Zimmer ist gemütlich! と声に出してみましょう。次の新居祝いでは、きっと人気のお客さんです！🥂"
+  },
+  "tr": {
+    "title": "Alman bir ev partisine mi davetlisiniz? Bu 10 kelimeyi de götürün",
+    "hook": "Bugün Almanların yeni ev partisine neden ekmek ve tuzla geldiğini öğreneceksiniz.",
+    "intro": [
+      "Alman bir arkadaşınız mesaj atıyor: \"Wir machen eine Einweihungsparty! Kommst du?\" Gitmeyi çok istiyorsunuz; ama ne götürmeli? Oraya varınca ne demeli?",
+      "Bugünkü on kelime tam da ev partileri için. Bunlarla davete cevap verebilir, ne getirmeniz gerektiğini sorabilir ve ev sahiplerinize evlerinin ne kadar sıcacık olduğunu söyleyebilirsiniz. Eli boş gitmeyin! 🏡"
+    ],
+    "words": {
+      "B2-3956": {
+        "pron": "AYN-vay-unk",
+        "tip": "weihen (kutsamak) Weihnachten'da (Noel) da var 🎉 Yeni evi açarak onu ‘kutsarsınız’.",
+        "bonus": "yeni ev partisi = die Einweihungsparty"
+      },
+      "A1-288": {
+        "pron": "PAR-ti",
+        "tip": "Doğrudan İngilizceden, Türkçedeki “parti” gibi 🥳 Okunuşu da neredeyse aynı.",
+        "warn": "Çoğulu die Partys, ‘Parties’ değil!"
+      },
+      "A2-039": {
+        "pron": "AYN-la-dunk",
+        "tip": "einladen (davet etmek) + -ung = davet 💌 -ung hep die!",
+        "bonus": "Davetiniz için teşekkürler! = Danke für die Einladung!"
+      },
+      "A1-208": {
+        "pron": "GAST",
+        "tip": "İngilizce guest ile aynı kökten 🧑‍🤝‍🧑 Bakın: ikisinde de g-st var.",
+        "warn": "Çoğulda umlaut: die Gäste."
+      },
+      "B1-2395": {
+        "pron": "GAST-gee-bır",
+        "tip": "Gast (misafir) + Geber (veren) = misafirlere veren kişi, yani ev sahibi 🎁",
+        "bonus": "Kadın ev sahibi die Gastgeberin."
+      },
+      "A1-522": {
+        "pron": "MİT-brin-gen",
+        "tip": "mit (ile) + bringen (getirmek) = yanında getirmek 🍷",
+        "warn": "Ayrılabilen fiil: Ich bringe einen Kuchen mit. Geçmiş ortacı: mitgebracht."
+      },
+      "A1-019": {
+        "pron": "BROT",
+        "tip": "İngilizce bread ile aynı kökten 🍞 Almanya'da yüzlerce çeşidi var!",
+        "bonus": "Küçük sandviç ekmeği das Brötchen."
+      },
+      "A1-239": {
+        "pron": "ZALTS",
+        "tip": "İngilizce salt'ın kardeşi 🧂 Salzburg ‘tuz kalesi’ demek.",
+        "bonus": "karabiber = der Pfeffer · Salz und Pfeffer"
+      },
+      "A2-077": {
+        "pron": "ge-MÜT-lih",
+        "tip": "Gemüt (gönül, ruh hâli) + -lich = gönle hoş gelen 🛋️ Almancadaki en güzel iltifatlardan biri.",
+        "bonus": "İsmi die Gemütlichkeit = rahatlık, sıcak ve samimi ortam"
+      },
+      "B1-298": {
+        "pron": "AYN-rih-ten",
+        "tip": "ein (içeri) + richten (düzenlemek) = dairenizin içini düzenlemek 🪑",
+        "warn": "Ayrılabilen fiil: Wir richten die Wohnung ein. → hat eingerichtet"
+      }
+    },
+    "culture": [
+      "Almanya'da yeni ev hediyesi olarak ekmek ve tuz (Brot und Salz) vermek eski bir gelenektir. Bu, yeni evde temel ihtiyaçların hiç eksik olmaması dileğidir. Bugünlerde çiçek, şarap ya da ev yapımı bir pasta da çok sevilir.",
+      "Ev sahipleri komşuları çoğu zaman önceden uyarır; örneğin merdiven boşluğuna cumartesi günü biraz gürültü olabileceğini belirten bir not asarak. Pek çok binada gece sessizlik saatleri vardır ve bunlara uymak görgü gereğidir.",
+      "Ayakkabıları çıkarıp çıkarmamak eve göre değişir. Kapıda basit bir \"Soll ich die Schuhe ausziehen?\" sorusu işi görür! 🍞"
+    ],
+    "quiz": {
+      "q": "Bir arkadaşınız sizi yeni ev partisine davet ediyor. Bir şey getirmeniz gerekip gerekmediğini nasıl sorarsınız?",
+      "o": [
+        "Ich habe die Wohnung eingerichtet.",
+        "Der Gastgeber kommt am Samstag.",
+        "Soll ich etwas mitbringen?"
+      ],
+      "a": 2,
+      "why": "mitbringen = yanında getirmek; cümle ‘Bir şey getireyim mi?’ demektir."
+    },
+    "outro": "Bugün odanıza bakın ve yüksek sesle Mein Zimmer ist gemütlich! deyin. Bir sonraki ev partisinde herkesin en sevdiği misafir olacaksınız! 🥂"
   }
 }

@@ -77,5 +77,31 @@
     ],
     "quiz": {"q": "友だちが新しい服を着てきました。何とほめますか？", "o": ["Du siehst gut aus!", "Du bist aber dick geworden.", "Das Kleid ist hässlich."], "a": 0, "why": "Du siehst gut aus! =「素敵だね！」見た目をほめるいちばん無難な言葉です。"},
     "outro": "好きな俳優を一人選んで、ドイツ語で見た目を説明してみましょう。Er ist groß und hat einen Bart… のように！🎬"
+  },
+  "tr": {
+    "title": "Uzun boylu, sarışın ya da sakallı? Dış görünüş için 10 Almanca kelime",
+    "hook": "Bir arkadaşınız yeni sevgilisinin fotoğrafını gösterdiğinde ‘güzel’den fazlasını söyleyebileceksiniz.",
+    "intro": [
+      "Alman bir arkadaşım soruyor: „Wie sieht er denn aus?“ yani o neye benziyor? „Er ist… groß… ähm…“ diyebiliyorum, sonra elimle sakal işareti yapıyorum. İnsanları tarif etmek göründüğünden zor.",
+      "Bugünkü 10 kelime insanların nasıl göründüğünü anlatmak için. Boyu, vücut yapısını, saçı ve sakalı tarif edebilecek, kulağa doğal gelen bir iltifat edebileceksiniz. 🪞"
+    ],
+    "words": {
+      "A2-303": {"pron": "AUS-ze-en", "tip": "aus (dışarı) + sehen (görmek) = dışarıdan nasıl göründüğünüz 👀", "warn": "Ayrılabilen fiil: Du siehst müde aus. aus sona gider."},
+      "A1-077": {"pron": "GROS", "tip": "İngilizce great ile aynı kökten 🦒 İnsanlar için groß uzun boylu demek.", "bonus": "Boyun kaç? = Wie groß bist du? · zıttı: klein"},
+      "B1-1109": {"pron": "ŞLANK", "tip": "Kulağa söğüt gibi uzun ve ince geliyor 🌿 Zayıf demenin kibar yolu.", "bonus": "Sadece cılız ise dünn; zayıf ve hoş görünümlü ise schlank."},
+      "A1-346": {"pron": "DİK", "tip": "İngilizce thick ile aynı kelime 📚 Kalın bir kitap ein dickes Buch'tur.", "warn": "Bir insana dick demek kaba olabilir. Daha yumuşağı: mollig (tombul)."},
+      "BL-16-04": {"pron": "HAR", "tip": "İngilizce hair ile neredeyse aynı 💇‍♀️", "warn": "Saçınız genellikle çoğuldur: Meine Haare sind lang.", "bonus": "saç kestirmek = sich die Haare schneiden lassen"},
+      "A2-430": {"pron": "BLONT", "tip": "Fransızcadan alınma; Türkçedeki ‘blond’ ile aynı 👱‍♀️ Sondaki d, t gibi okunur.", "bonus": "İsimden önce ek alır: Sie hat blonde Haare."},
+      "B1-2511": {"pron": "GUT AUS-ze-ent", "tip": "gut (iyi) + aussehend (görünen) = iyi görünen, yakışıklı 😎", "bonus": "İltifat olarak: Du siehst gut aus! (Çok iyi görünüyorsun!)"},
+      "B1-484": {"pron": "BART", "tip": "İngilizce beard ile kuzen 🧔 sakal bırakmak/taşımak = einen Bart tragen", "bonus": "bıyık = der Schnurrbart"},
+      "A2-366": {"pron": "HES-lih", "tip": "Hass (nefret) + -lich = bakması nefret uyandıran → çirkin 👹", "bonus": "İnsanlardan çok binalar ve kıyafetler için kullanılır: Das Gebäude ist hässlich."},
+      "A2-368": {"pron": "HÜPŞ", "tip": "höfisch (saraya ait) kelimesinden geliyor 🎀 Saraya yakışacak kadar hoş.", "bonus": "zıttı: hässlich · sevimli: niedlich"}
+    },
+    "culture": [
+      "Almanya'da insanlar birinin dış görünüşü, özellikle de kilosu hakkında yorum yaparken dikkatli olur. ‘Kilo mu verdin?’ ya da ‘Yorgun görünüyorsun’ gibi sözler arkadaşlar arasında bile kaba karşılanabilir.",
+      "Birinin tarzına iltifat etmek daha güvenlidir: „Du siehst gut aus!“ ya da „Die Brille steht dir!“ (Bu gözlük sana yakışmış!). Vücudunu değil, kişinin seçtiği şeyleri övün; yanılmazsınız. 😊"
+    ],
+    "quiz": {"q": "Arkadaşınız yeni bir kıyafetle geldi. İyi bir iltifat hangisi?", "o": ["Du siehst gut aus!", "Du bist aber dick geworden.", "Das Kleid ist hässlich."], "a": 0, "why": "Du siehst gut aus! = Çok iyi görünüyorsun! Dış görünüşle ilgili en güvenli iltifat budur."},
+    "outro": "Sevdiğiniz bir oyuncuyu seçin ve onu Almanca yüksek sesle tarif edin: Er ist groß und hat einen Bart… 🎬"
   }
 }

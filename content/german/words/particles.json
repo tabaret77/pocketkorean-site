@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちに「Du hast heute keine Zeit, oder?」と聞かれましたが、実は時間があります。何と答えますか？", "o": ["Doch, ich habe Zeit!", "Ja, ich habe Zeit!", "Halt, ich habe Zeit!"], "a": 0, "why": "否定の質問を打ち消して「いや、あるよ！」と言うときは、ja ではなく doch を使います。"},
     "outro": "今日はお願いするたびに mal をひとつ入れてみましょう。Hilf mir mal! のひとことで、ぐっとドイツ人らしくなりますよ！😉"
+  },
+  "tr": {
+    "title": "doch, mal, ja: Almancanızı doğal gösteren 10 küçük kelime",
+    "hook": "Bu minicik kelimeler, ders kitabı Almancası ile insanların gerçekten konuştuğu Almanca arasındaki farktır.",
+    "intro": [
+      "Alman arkadaşların sohbetini dinleyin; sürekli doch, mal ve halt duyarsınız. Sözlük pek yardımcı olmaz, onları kullanmadığınızda da bir şekilde kaskatı ya da emredici gelirsiniz.",
+      "Bugünkü 10 kelime cümleye duygu ve incelik katıyor. Türkçedeki ‘bir’, ‘ya’, ‘işte’, ‘hani’ gibi küçük kelimelere benziyorlar. Bunlarla ricalarınız daha yumuşak, cevaplarınız da çok daha doğal duyulur. 💬"
+    ],
+    "words": {
+      "A2-446": {"pron": "DOH", "tip": "Olumsuz bir soruya karşı çıkışınız: ‘Yok öyle değil, gelirim!’ 🙃", "warn": "Olumsuz bir soruya karşı çıkarken ja değil doch denir: Kommst du nicht? – Doch!", "bonus": "Emir cümlelerinde dürter: Komm doch mit! = Hadi gelsene!"},
+      "A2-511": {"pron": "MAL", "tip": "einmal'ın (bir kere) kısası 🤏 Bir emri Türkçedeki ‘bir’ gibi dostça bir ricaya çevirir: ‘bir bakar mısın’.", "bonus": "Moment mal! = Bir saniye!"},
+      "A1-499": {"pron": "YA", "tip": "Türkçedeki ‘ya’ ile neredeyse aynı 👍 Edat olarak ‘gerçekten’ ya da ‘biliyorsun ya’ anlamına gelir.", "bonus": "Das ist ja toll! = Vay, bu gerçekten harika!"},
+      "B1-591": {"pron": "E-ben", "tip": "Eskiden ‘düz’ demekti, İngilizce even gibi 🎯 Cevap olarak ‘Aynen!’ demek.", "bonus": "Eben! = Aynen! Ben de onu diyorum!"},
+      "B1-767": {"pron": "HALT", "tip": "Sözlü bir omuz silkme: ‘Ne yapalım, öyle işte’ 🤷", "warn": "Emir olan Halt! (Dur!) ile karıştırmayın!", "bonus": "Kuzeyde aynı işi eben görür: Das ist eben so."},
+      "A1-452": {"pron": "DEN", "tip": "Meraklı görünmek için soruya ekleyin: ‘peki…?’, ‘acaba…?’ ❓", "warn": "denn ‘çünkü’ anlamına geldiğinde fiil ikinci sırada kalır; weil'den farklı olarak.", "bonus": "Was ist denn los? = Peki neler oluyor?"},
+      "A2-086": {"pron": "AY-gent-lih", "tip": "eigen ‘kendi’ demek; yani ‘kendi gerçek hâliyle’, aslında 🤔", "bonus": "Wie heißt du eigentlich? = Pardon, adın neydi bu arada?"},
+      "B1-1413": {"pron": "VOL", "tip": "İngilizce well ile aynı kökten 🍷 Tahmin için ideal: ‘herhalde’.", "bonus": "Zum Wohl! = Şerefe! · sich wohlfühlen = kendini rahat hissetmek"},
+      "B1-529": {"pron": "BLOS", "tip": "Eskiden ‘çıplak’ demekti; fazlası yok, sadece ‘yalnızca’ 🙅", "bonus": "Mach das bloß nicht! = Sakın bunu yapma!"},
+      "B1-1278": {"pron": "ü-ber-HAUPT", "tip": "über (üstünde) + Haupt (baş) = başın üstünden, her şeyiyle 🤯", "bonus": "überhaupt nicht = hiç de değil · Was willst du überhaupt? = Sen aslında ne istiyorsun ki?"}
+    },
+    "culture": [
+      "Almanca doğrudanlığıyla ünlüdür ama gerçek sohbette bu küçük kelimeler işleri çok yumuşatır. ‘Komm her!’ bir emir gibi duyulur; ‘Komm mal her!’ ise çok daha dostane bir ‘Bir gelsene’dir.",
+      "Farklı bölgelerin favorileri de farklıdır. Güneyde ve Avusturya'da insanlar halt'ı çok kullanır; kuzeyde ise aynı anlamda daha çok eben duyarsınız.",
+      "Almanlar doch ile içten içe gurur duyar. Pek çoğu yabancı arkadaşlarına Almancada üç cevap olduğunu keyifle anlatır: ‘Ja, Nein, Doch’. 😄"
+    ],
+    "quiz": {"q": "Arkadaşınız ‘Du hast heute keine Zeit, oder?’ diye soruyor ama aslında vaktiniz var. Ne dersiniz?", "o": ["Doch, ich habe Zeit!", "Ja, ich habe Zeit!", "Halt, ich habe Zeit!"], "a": 0, "why": "Olumsuz bir soruya karşı çıkmak için ja değil doch kullanılır."},
+    "outro": "Bugün bir şey isterken her seferinde mal ekleyin. Hilf mir mal! Anında daha Alman gibi duyulacaksınız! 😉"
   }
 }

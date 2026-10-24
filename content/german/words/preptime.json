@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "ベルリンに住んで2年になります。正しい文はどれ？", "o": ["Ich wohne seit zwei Jahren in Berlin.", "Ich wohne vor zwei Jahren in Berlin.", "Ich wohne bis zwei Jahren in Berlin."], "a": 0, "why": "過去から今まで続いていることは seit + 3格 + 現在形で言います。"},
     "outro": "今日の予定を「Um 9 Uhr…, ab 12 Uhr…, bis 18 Uhr…」のようにドイツ語で声に出してみましょう。⏰"
+  },
+  "tr": {
+    "title": "Hiçbir randevuyu kaçırmayın: Zaman bildiren 10 edat",
+    "hook": "um, seit, ab, bis; tek bir minik kelimeyi yanlış anlarsanız yanlış zamanda yanlış yerde olursunuz.",
+    "intro": [
+      "Alman bir arkadaşınız mesaj atıyor: „Wir treffen uns gegen acht.“ Bu tam sekiz mi, yoksa sekiz civarı mı? Bir mektupta „Bitte melden Sie sich innerhalb einer Woche.“ yazıyor; bir hafta sonra mı, yoksa bir hafta içinde mi?",
+      "Bugünkü 10 kelime zamandan bahsetmek için ihtiyacınız olan küçük edatlar. Kısalar ama bir kez oturttunuz mu randevular, açılış saatleri ve son tarihler çok daha az kafa karıştırır. ⏳"
+    ],
+    "words": {
+      "A1-564": {"pron": "UM", "tip": "um = tam saatinde ⏰ um 8 Uhr = saat tam sekizde.", "bonus": "‘Civarında’ için gegen: gegen 8 Uhr = sekiz gibi"},
+      "A1-552": {"pron": "ZAYT", "tip": "İngilizce since ile aynı kökten 📅 Geçmişte başladı, hâlâ sürüyor; Türkçedeki ‘-den beri’.", "warn": "Almanca şimdiki zamanı kullanır, Türkçedeki gibi: Ich lerne seit einem Jahr Deutsch. = Bir yıldır Almanca öğreniyorum."},
+      "A1-438": {"pron": "BİS", "tip": "bis = -e kadar; vedalaşmanın da pratik bir yolu 🏁", "bonus": "Bis morgen! / Bis später! / Bis bald! = Yarın görüşürüz / Sonra görüşürüz / Görüşmek üzere!"},
+      "A1-570": {"pron": "FOR", "tip": "before'daki fore gibi 🔙 Zamanla ‘önce’ ya da ‘…önce’ demek.", "warn": "‘…önce’ anlamında başa gelir ve Dativ alır: vor einer Woche = bir hafta önce. Türkçedeki gibi sonda değil."},
+      "A1-525": {"pron": "NAH", "tip": "nach = sonra, ardından 🔜 nach dem Essen = yemekten sonra", "bonus": "Şehirlere ve ülkelere gitmek için de kullanılır: nach Berlin fahren"},
+      "A1-401": {"pron": "AP", "tip": "İngilizce off gibi; bu noktadan itibaren yola çıktık! 🚀 ab Montag = pazartesiden itibaren", "bonus": "ab und zu = arada bir"},
+      "A2-092": {"pron": "VE-rent", "tip": "währen (sürmek) fiilinden ⌛ bir şey sürdüğü müddetçe", "warn": "Standart Almanca Genitiv kullanır: während des Urlaubs. Konuşmada sık sık Dativ de duyarsınız."},
+      "A1-569": {"pron": "FON", "tip": "von A bis B: von başlangıcı gösterir, Türkçedeki ‘-den’ gibi 🟢 von 9 bis 17 Uhr = 9'dan 17'ye"},
+      "BL-08-10": {"pron": "GE-gen", "tip": "gegen = birkaç dakika aşağı yukarı 🕗 gegen acht = sekiz sularında", "bonus": "Eczanede ‘…e karşı, …e iyi gelen’ demek: etwas gegen Kopfschmerzen"},
+      "B1-804": {"pron": "İ-ner-halp", "tip": "inner (iç) + halb (taraf) = bir zaman diliminin içinde 📦 innerhalb einer Woche = bir hafta içinde", "warn": "Genitiv alır: innerhalb eines Monats."}
+    },
+    "culture": [
+      "Almanya'da dakik olmak (pünktlich) çok önemlidir. İnsanlar randevulara ve mülakatlara genellikle birkaç dakika erken gelir; geç kalıyorsanız mesaj atmak kibarlıktır.",
+      "En büyük zaman tuzağı: halb acht sekiz buçuk değil, yedi buçuktur. ‘Sekize yarım kala’ anlamına gelir.",
+      "Pek çok üniversitede ders saatinin yanındaki c.t. dersin on beş dakika sonra başladığı anlamına gelir; buna akademisches Viertel denir. Ancak bu, üniversiteye ve derse göre değişebilir. 🎓"
+    ],
+    "quiz": {"q": "İki yıldır Berlin'de yaşıyorsunuz. Hangi cümle doğru?", "o": ["Ich wohne seit zwei Jahren in Berlin.", "Ich wohne vor zwei Jahren in Berlin.", "Ich wohne bis zwei Jahren in Berlin."], "a": 0, "why": "Geçmişte başlayıp hâlâ devam eden bir şey için seit + Dativ + şimdiki zaman kullanılır."},
+    "outro": "Bugünkü planınızı yüksek sesle söyleyin: „Um 9 Uhr…, ab 12 Uhr…, bis 18 Uhr…“ ⏰"
   }
 }

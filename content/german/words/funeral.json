@@ -8,23 +8,72 @@
       "오늘은 장례와 조문에 쓰는 단어 10개를 모았어요. 이 단어들이 있으면 소식을 이해하고, 조의 카드를 쓰고, 조용히 마음을 전할 수 있어요. 무거운 주제지만 살다 보면 꼭 필요한 말들이에요. 🕯️"
     ],
     "words": {
-      "B1-346": {"pron": "슈테르벤", "tip": "영어 starve(굶주리다)와 같은 뿌리 🥀 원래는 ‘죽다’라는 뜻이었어요.", "warn": "완료형은 sein: Er ist gestorben. / 불규칙: stirbt"},
-      "B1-1254": {"pron": "토트", "tip": "영어 death와 같은 뿌리 ⚰️ 명사는 끝이 d!", "warn": "발음이 같은 형용사 tot(죽은)와 헷갈리지 마세요."},
-      "A2-384": {"pron": "토트", "tip": "영어 dead와 같은 뿌리 🍂 형용사는 끝이 t!", "bonus": "명사 der Tod는 d, 형용사 tot는 t — 소리는 같아요."},
-      "B1-1770": {"pron": "베에르디궁", "tip": "be- + Erde(땅) = 땅에 묻음 🌍 영어 earth가 숨어 있어요.", "bonus": "같이 알아 두면 좋은 말: die Trauerfeier = 추도식"},
-      "A2-872": {"pron": "프리트호프", "tip": "Frieden(평화)처럼 들리는 Hof(마당) 🕊️ 조용하고 평화로운 마당!", "warn": "복수는 움라우트: die Friedhöfe"},
-      "B1-1769": {"pron": "그랍", "tip": "graben(파다)에서 왔어요 ⛏️ 영어 grave와 거의 같아요.", "warn": "복수는 움라우트 + -er: die Gräber"},
-      "B2-1198": {"pron": "트라우언", "tip": "고개를 푹 숙이는 모습을 떠올려 봐요 😔 슬퍼하며 애도하다.", "warn": "전치사는 um + 4격: um jemanden trauern (über 아님!)"},
-      "B2-1197": {"pron": "트라우어", "tip": "trauern의 명사 🖤 장례식의 검은 옷도 Trauerkleidung이에요.", "bonus": "in Trauer sein = 상중이다"},
-      "B2-3598": {"pron": "바이라이트", "tip": "bei(곁에) + Leid(아픔) = 아픔 곁에 함께 있음 🤍", "bonus": "가장 많이 쓰는 표현: Mein herzliches Beileid."},
-      "B2-3554": {"pron": "자르크", "tip": "그리스어 sarkophagos(석관)가 짧아진 말 🪦 영어 sarcophagus를 떠올려요.", "warn": "복수는 움라우트: die Särge"}
+      "B1-346": {
+        "pron": "슈테르벤",
+        "tip": "영어 starve(굶주리다)와 같은 뿌리 🥀 원래는 ‘죽다’라는 뜻이었어요.",
+        "warn": "완료형은 sein: Er ist gestorben. / 불규칙: stirbt"
+      },
+      "B1-1254": {
+        "pron": "토트",
+        "tip": "영어 death와 같은 뿌리 ⚰️ 명사는 끝이 d!",
+        "warn": "발음이 같은 형용사 tot(죽은)와 헷갈리지 마세요."
+      },
+      "A2-384": {
+        "pron": "토트",
+        "tip": "영어 dead와 같은 뿌리 🍂 형용사는 끝이 t!",
+        "bonus": "명사 der Tod는 d, 형용사 tot는 t — 소리는 같아요."
+      },
+      "B1-1770": {
+        "pron": "베에르디궁",
+        "tip": "be- + Erde(땅) = 땅에 묻음 🌍 영어 earth가 숨어 있어요.",
+        "bonus": "같이 알아 두면 좋은 말: die Trauerfeier = 추도식"
+      },
+      "A2-872": {
+        "pron": "프리트호프",
+        "tip": "Frieden(평화)처럼 들리는 Hof(마당) 🕊️ 조용하고 평화로운 마당!",
+        "warn": "복수는 움라우트: die Friedhöfe"
+      },
+      "B1-1769": {
+        "pron": "그랍",
+        "tip": "graben(파다)에서 왔어요 ⛏️ 영어 grave와 거의 같아요.",
+        "warn": "복수는 움라우트 + -er: die Gräber"
+      },
+      "B2-1198": {
+        "pron": "트라우언",
+        "tip": "고개를 푹 숙이는 모습을 떠올려 봐요 😔 슬퍼하며 애도하다.",
+        "warn": "전치사는 um + 4격: um jemanden trauern (über 아님!)"
+      },
+      "B2-1197": {
+        "pron": "트라우어",
+        "tip": "trauern의 명사 🖤 장례식의 검은 옷도 Trauerkleidung이에요.",
+        "bonus": "in Trauer sein = 상중이다"
+      },
+      "B2-3598": {
+        "pron": "바이라이트",
+        "tip": "bei(곁에) + Leid(아픔) = 아픔 곁에 함께 있음 🤍",
+        "bonus": "가장 많이 쓰는 표현: Mein herzliches Beileid."
+      },
+      "B2-3554": {
+        "pron": "자르크",
+        "tip": "그리스어 sarkophagos(석관)가 짧아진 말 🪦 영어 sarcophagus를 떠올려요.",
+        "warn": "복수는 움라우트: die Särge"
+      }
     },
     "culture": [
       "독일에서 조의를 표할 때는 Mein herzliches Beileid. 또는 Es tut mir sehr leid. 라고 짧게 말하는 게 보통이에요. 길게 말하지 않아도 진심은 충분히 전해져요.",
       "장례식에는 검은색이나 어두운 색 옷을 입는 경우가 많아요. 직접 가지 못하면 Trauerkarte(조의 카드)를 보내는 것도 흔해요. 장례 후에는 가족과 지인이 모여 커피와 케이크를 나누는 Trauerkaffee를 하기도 해요.",
       "독일의 Friedhof는 나무가 많고 조용해서 공원처럼 산책하는 사람도 있어요. 무덤을 가꾸는 일도 가족에게 중요한 일이에요. 🕯️"
     ],
-    "quiz": {"q": "동료의 어머니가 돌아가셨어요. 동료에게 뭐라고 말할까요?", "o": ["Gute Besserung!", "Mein herzliches Beileid.", "Sie ist tot."], "a": 1, "why": "Mein herzliches Beileid. = 진심으로 애도를 표합니다, 라는 조문 인사예요."},
+    "quiz": {
+      "q": "동료의 어머니가 돌아가셨어요. 동료에게 뭐라고 말할까요?",
+      "o": [
+        "Gute Besserung!",
+        "Mein herzliches Beileid.",
+        "Sie ist tot."
+      ],
+      "a": 1,
+      "why": "Mein herzliches Beileid. = 진심으로 애도를 표합니다, 라는 조문 인사예요."
+    },
     "outro": "오늘은 Mein herzliches Beileid. 를 조용히 한 번 소리 내어 말해 봐요. 쓸 일이 적기를 바라지만, 필요할 땐 따뜻하게 건넬 수 있도록요. 🤍"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words are about funerals and condolences. With them you can understand the news, write a sympathy card and quietly show you care. It's a heavy topic, but these are words everyone needs one day. 🕯️"
     ],
     "words": {
-      "B1-346": {"pron": "SHTAIR-ben", "tip": "Same root as English starve 🥀 It once simply meant ‘to die’.", "warn": "Perfect with sein: Er ist gestorben. · Irregular: stirbt"},
-      "B1-1254": {"pron": "toht", "tip": "Same root as English death ⚰️ The noun ends in d.", "warn": "Don't mix it up with tot (dead), which sounds the same."},
-      "A2-384": {"pron": "toht", "tip": "Same root as English dead 🍂 The adjective ends in t.", "bonus": "Noun der Tod with d, adjective tot with t — same sound."},
-      "B1-1770": {"pron": "buh-AIR-di-goong", "tip": "be- + Erde (earth) = putting into the earth 🌍 English earth is hiding inside.", "bonus": "Also useful: die Trauerfeier = memorial service"},
-      "A2-872": {"pron": "FREET-hohf", "tip": "Sounds like Frieden (peace) + Hof (yard) 🕊️ A quiet, peaceful yard.", "warn": "Plural with umlaut: die Friedhöfe"},
-      "B1-1769": {"pron": "grahp", "tip": "From graben (to dig) ⛏️ Almost the same as English grave.", "warn": "Plural with umlaut and -er: die Gräber"},
-      "B2-1198": {"pron": "TROW-ern", "tip": "Picture someone lowering their head 😔 to mourn, to grieve.", "warn": "The preposition is um + accusative: um jemanden trauern (not über)."},
-      "B2-1197": {"pron": "TROW-er", "tip": "The noun of trauern 🖤 Black funeral clothes are Trauerkleidung.", "bonus": "in Trauer sein = to be in mourning"},
-      "B2-3598": {"pron": "BY-lite", "tip": "bei (with) + Leid (sorrow) = being with someone in their pain 🤍", "bonus": "The standard phrase: Mein herzliches Beileid."},
-      "B2-3554": {"pron": "zark", "tip": "Shortened from Greek sarkophagos 🪦 Think of English sarcophagus.", "warn": "Plural with umlaut: die Särge"}
+      "B1-346": {
+        "pron": "SHTAIR-ben",
+        "tip": "Same root as English starve 🥀 It once simply meant ‘to die’.",
+        "warn": "Perfect with sein: Er ist gestorben. · Irregular: stirbt"
+      },
+      "B1-1254": {
+        "pron": "toht",
+        "tip": "Same root as English death ⚰️ The noun ends in d.",
+        "warn": "Don't mix it up with tot (dead), which sounds the same."
+      },
+      "A2-384": {
+        "pron": "toht",
+        "tip": "Same root as English dead 🍂 The adjective ends in t.",
+        "bonus": "Noun der Tod with d, adjective tot with t — same sound."
+      },
+      "B1-1770": {
+        "pron": "buh-AIR-di-goong",
+        "tip": "be- + Erde (earth) = putting into the earth 🌍 English earth is hiding inside.",
+        "bonus": "Also useful: die Trauerfeier = memorial service"
+      },
+      "A2-872": {
+        "pron": "FREET-hohf",
+        "tip": "Sounds like Frieden (peace) + Hof (yard) 🕊️ A quiet, peaceful yard.",
+        "warn": "Plural with umlaut: die Friedhöfe"
+      },
+      "B1-1769": {
+        "pron": "grahp",
+        "tip": "From graben (to dig) ⛏️ Almost the same as English grave.",
+        "warn": "Plural with umlaut and -er: die Gräber"
+      },
+      "B2-1198": {
+        "pron": "TROW-ern",
+        "tip": "Picture someone lowering their head 😔 to mourn, to grieve.",
+        "warn": "The preposition is um + accusative: um jemanden trauern (not über)."
+      },
+      "B2-1197": {
+        "pron": "TROW-er",
+        "tip": "The noun of trauern 🖤 Black funeral clothes are Trauerkleidung.",
+        "bonus": "in Trauer sein = to be in mourning"
+      },
+      "B2-3598": {
+        "pron": "BY-lite",
+        "tip": "bei (with) + Leid (sorrow) = being with someone in their pain 🤍",
+        "bonus": "The standard phrase: Mein herzliches Beileid."
+      },
+      "B2-3554": {
+        "pron": "zark",
+        "tip": "Shortened from Greek sarkophagos 🪦 Think of English sarcophagus.",
+        "warn": "Plural with umlaut: die Särge"
+      }
     },
     "culture": [
       "To offer condolences in German, people usually keep it short: Mein herzliches Beileid. or Es tut mir sehr leid. You don't need many words for them to feel sincere.",
       "Mourners often wear black or dark clothes to a funeral. If you can't attend, sending a Trauerkarte (sympathy card) is common. After the funeral, family and friends sometimes gather for coffee and cake, called Trauerkaffee.",
       "German cemeteries are often green and quiet, and some people walk there like in a park. Looking after the grave is an important task for many families. 🕯️"
     ],
-    "quiz": {"q": "Your colleague's mother has died. What do you say to them?", "o": ["Gute Besserung!", "Mein herzliches Beileid.", "Sie ist tot."], "a": 1, "why": "Mein herzliches Beileid. is the standard way to offer your condolences."},
+    "quiz": {
+      "q": "Your colleague's mother has died. What do you say to them?",
+      "o": [
+        "Gute Besserung!",
+        "Mein herzliches Beileid.",
+        "Sie ist tot."
+      ],
+      "a": 1,
+      "why": "Mein herzliches Beileid. is the standard way to offer your condolences."
+    },
     "outro": "Say Mein herzliches Beileid. quietly out loud once today. Hopefully you'll rarely need it — but when you do, you'll be able to say it warmly. 🤍"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日は葬儀とお悔やみに使う単語を10個集めました。これで知らせを理解し、お悔やみのカードを書き、そっと気持ちを伝えられます。重いテーマですが、いつか必ず必要になる言葉です。🕯️"
     ],
     "words": {
-      "B1-346": {"pron": "シュテルベン", "tip": "英語の starve（飢える）と同じ語源 🥀 もとは「死ぬ」という意味でした。", "warn": "完了形は sein：Er ist gestorben. 不規則：stirbt"},
-      "B1-1254": {"pron": "トート", "tip": "英語の death と同じ語源 ⚰️ 名詞は最後が d！", "warn": "同じ発音の形容詞 tot（死んだ）と混同しないように。"},
-      "A2-384": {"pron": "トート", "tip": "英語の dead と同じ語源 🍂 形容詞は最後が t！", "bonus": "名詞 der Tod は d、形容詞 tot は t。音は同じです。"},
-      "B1-1770": {"pron": "ベエーアディグング", "tip": "be- + Erde（大地）= 土に埋めること 🌍 英語の earth が隠れています。", "bonus": "あわせて覚えたい：die Trauerfeier = 告別式"},
-      "A2-872": {"pron": "フリートホーフ", "tip": "Frieden（平和）のように聞こえる Hof（庭）🕊️ 静かで穏やかな庭！", "warn": "複数形はウムラウト：die Friedhöfe"},
-      "B1-1769": {"pron": "グラープ", "tip": "graben（掘る）から ⛏️ 英語の grave とほぼ同じです。", "warn": "複数形はウムラウト + -er：die Gräber"},
-      "B2-1198": {"pron": "トラウアーン", "tip": "うなだれる姿をイメージ 😔 悲しんで悼む。", "warn": "前置詞は um + 4格：um jemanden trauern（über ではありません）"},
-      "B2-1197": {"pron": "トラウアー", "tip": "trauern の名詞 🖤 喪服は Trauerkleidung です。", "bonus": "in Trauer sein = 喪に服している"},
-      "B2-3598": {"pron": "バイライト", "tip": "bei（そばに）+ Leid（苦しみ）= 苦しみのそばにいること 🤍", "bonus": "いちばんよく使う表現：Mein herzliches Beileid."},
-      "B2-3554": {"pron": "ザルク", "tip": "ギリシャ語 sarkophagos（石棺）が短くなった言葉 🪦 英語の sarcophagus を思い出して。", "warn": "複数形はウムラウト：die Särge"}
+      "B1-346": {
+        "pron": "シュテルベン",
+        "tip": "英語の starve（飢える）と同じ語源 🥀 もとは「死ぬ」という意味でした。",
+        "warn": "完了形は sein：Er ist gestorben. 不規則：stirbt"
+      },
+      "B1-1254": {
+        "pron": "トート",
+        "tip": "英語の death と同じ語源 ⚰️ 名詞は最後が d！",
+        "warn": "同じ発音の形容詞 tot（死んだ）と混同しないように。"
+      },
+      "A2-384": {
+        "pron": "トート",
+        "tip": "英語の dead と同じ語源 🍂 形容詞は最後が t！",
+        "bonus": "名詞 der Tod は d、形容詞 tot は t。音は同じです。"
+      },
+      "B1-1770": {
+        "pron": "ベエーアディグング",
+        "tip": "be- + Erde（大地）= 土に埋めること 🌍 英語の earth が隠れています。",
+        "bonus": "あわせて覚えたい：die Trauerfeier = 告別式"
+      },
+      "A2-872": {
+        "pron": "フリートホーフ",
+        "tip": "Frieden（平和）のように聞こえる Hof（庭）🕊️ 静かで穏やかな庭！",
+        "warn": "複数形はウムラウト：die Friedhöfe"
+      },
+      "B1-1769": {
+        "pron": "グラープ",
+        "tip": "graben（掘る）から ⛏️ 英語の grave とほぼ同じです。",
+        "warn": "複数形はウムラウト + -er：die Gräber"
+      },
+      "B2-1198": {
+        "pron": "トラウアーン",
+        "tip": "うなだれる姿をイメージ 😔 悲しんで悼む。",
+        "warn": "前置詞は um + 4格：um jemanden trauern（über ではありません）"
+      },
+      "B2-1197": {
+        "pron": "トラウアー",
+        "tip": "trauern の名詞 🖤 喪服は Trauerkleidung です。",
+        "bonus": "in Trauer sein = 喪に服している"
+      },
+      "B2-3598": {
+        "pron": "バイライト",
+        "tip": "bei（そばに）+ Leid（苦しみ）= 苦しみのそばにいること 🤍",
+        "bonus": "いちばんよく使う表現：Mein herzliches Beileid."
+      },
+      "B2-3554": {
+        "pron": "ザルク",
+        "tip": "ギリシャ語 sarkophagos（石棺）が短くなった言葉 🪦 英語の sarcophagus を思い出して。",
+        "warn": "複数形はウムラウト：die Särge"
+      }
     },
     "culture": [
       "ドイツでお悔やみを伝えるときは、Mein herzliches Beileid. や Es tut mir sehr leid. と短く言うのがふつうです。長く話さなくても気持ちは十分伝わります。",
       "葬儀には黒や暗い色の服で参列することが多いです。参列できない場合は Trauerkarte（お悔やみのカード）を送るのも一般的です。葬儀のあと、家族や知人が集まってコーヒーとケーキを囲む Trauerkaffee をすることもあります。",
       "ドイツの Friedhof は緑が多く静かで、公園のように散歩する人もいます。お墓の手入れは家族にとって大切な務めです。🕯️"
     ],
-    "quiz": {"q": "同僚のお母さんが亡くなりました。同僚に何と言いますか？", "o": ["Gute Besserung!", "Mein herzliches Beileid.", "Sie ist tot."], "a": 1, "why": "Mein herzliches Beileid. は「心からお悔やみ申し上げます」という決まった表現です。"},
+    "quiz": {
+      "q": "同僚のお母さんが亡くなりました。同僚に何と言いますか？",
+      "o": [
+        "Gute Besserung!",
+        "Mein herzliches Beileid.",
+        "Sie ist tot."
+      ],
+      "a": 1,
+      "why": "Mein herzliches Beileid. は「心からお悔やみ申し上げます」という決まった表現です。"
+    },
     "outro": "今日は Mein herzliches Beileid. を一度、静かに声に出してみましょう。使う機会は少ないほうがいいけれど、必要なときに温かく伝えられるように。🤍"
+  },
+  "tr": {
+    "title": "Doğru sözü bulmak: Cenazeler için 10 Almanca kelime",
+    "hook": "Üzücü anlarda, doğru söylenmiş birkaç basit kelime çok şey ifade eder.",
+    "intro": [
+      "Alman bir iş arkadaşınızın babasının vefat ettiğini duyuyorsunuz. Bir şey söylemek istiyorsunuz, ama bu kendi dilinizde bile zorken Almanca nasıl söylenir?",
+      "Bugünkü on kelime cenazeler ve taziyeler hakkında. Bunlarla haberi anlayabilir, bir taziye kartı yazabilir ve sessizce yanında olduğunuzu gösterebilirsiniz. Ağır bir konu, ama herkesin bir gün ihtiyaç duyacağı kelimeler. 🕯️"
+    ],
+    "words": {
+      "B1-346": {
+        "pron": "ŞTER-ben",
+        "tip": "İngilizce starve ile aynı kökten 🥀 Bir zamanlar sadece ‘ölmek’ demekti.",
+        "warn": "Perfekt sein ile: Er ist gestorben. · Düzensiz: stirbt"
+      },
+      "B1-1254": {
+        "pron": "TOT",
+        "tip": "İngilizce death ile aynı kökten ⚰️ İsim d ile biter.",
+        "warn": "Aynı okunan tot (ölü) ile karıştırmayın."
+      },
+      "A2-384": {
+        "pron": "TOT",
+        "tip": "İngilizce dead ile aynı kökten 🍂 Sıfat t ile biter.",
+        "bonus": "İsim der Tod d ile, sıfat tot t ile; okunuşları aynı."
+      },
+      "B1-1770": {
+        "pron": "be-ER-di-gunk",
+        "tip": "be- + Erde (toprak) = toprağa vermek 🌍 Türkçedeki “toprağa vermek” ile aynı mantık.",
+        "bonus": "Bu da işe yarar: die Trauerfeier = anma töreni"
+      },
+      "A2-872": {
+        "pron": "FRİT-hof",
+        "tip": "Kulağa Frieden (huzur) + Hof (avlu) gibi gelir 🕊️ Sessiz, huzurlu bir avlu.",
+        "warn": "Çoğulda umlaut: die Friedhöfe"
+      },
+      "B1-1769": {
+        "pron": "GRAP",
+        "tip": "graben (kazmak) fiilinden ⛏️ İngilizce grave ile neredeyse aynı.",
+        "warn": "Çoğulda umlaut ve -er: die Gräber"
+      },
+      "B2-1198": {
+        "pron": "TRAU-ırn",
+        "tip": "Başını öne eğen birini düşünün 😔 yas tutmak, keder duymak.",
+        "warn": "Edat um + akuzatif: um jemanden trauern (über değil)."
+      },
+      "B2-1197": {
+        "pron": "TRAU-ır",
+        "tip": "trauern'in ismi 🖤 Siyah cenaze kıyafetlerine Trauerkleidung denir.",
+        "bonus": "in Trauer sein = yasta olmak"
+      },
+      "B2-3598": {
+        "pron": "BAY-layt",
+        "tip": "bei (yanında) + Leid (acı) = acısında birinin yanında olmak 🤍",
+        "bonus": "Kalıp ifade: Mein herzliches Beileid. (Başınız sağ olsun.)"
+      },
+      "B2-3554": {
+        "pron": "ZARK",
+        "tip": "Yunanca sarkophagos'tan kısaltılmış 🪦 Türkçedeki “lahit” için kullanılan “sarkofaj”ı düşünün.",
+        "warn": "Çoğulda umlaut: die Särge"
+      }
+    },
+    "culture": [
+      "Almancada taziye dilerken insanlar genellikle kısa tutar: Mein herzliches Beileid. ya da Es tut mir sehr leid. İçten olduğunu hissettirmek için çok söze gerek yoktur.",
+      "Cenazeye gelenler genellikle siyah ya da koyu renk giyer. Katılamıyorsanız bir Trauerkarte (taziye kartı) göndermek yaygındır. Cenazeden sonra aile ve arkadaşlar bazen kahve ve pasta için bir araya gelir; buna Trauerkaffee denir.",
+      "Alman mezarlıkları çoğu zaman yeşil ve sessizdir; bazı insanlar orada park gibi yürüyüş yapar. Mezarın bakımı pek çok aile için önemli bir görevdir. 🕯️"
+    ],
+    "quiz": {
+      "q": "İş arkadaşınızın annesi vefat etti. Ona ne dersiniz?",
+      "o": [
+        "Gute Besserung!",
+        "Mein herzliches Beileid.",
+        "Sie ist tot."
+      ],
+      "a": 1,
+      "why": "Mein herzliches Beileid. taziye dilemenin kalıp ifadesidir, tıpkı “Başınız sağ olsun.” gibi."
+    },
+    "outro": "Bugün Mein herzliches Beileid. cümlesini bir kez sessizce, yüksek sesle söyleyin. Umarız nadiren ihtiyacınız olur; ama olduğunda içtenlikle söyleyebileceksiniz. 🤍"
   }
 }

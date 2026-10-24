@@ -221,5 +221,79 @@
       "why": "軽い散歩は spazieren gehen。wandern はもっと長く本格的に歩くことです。"
     },
     "outro": "今日の散歩で「Was für eine Aussicht!」と声に出してみましょう。近所の公園でも大丈夫です！🌿"
+  },
+  "tr": {
+    "title": "Bir Alman gibi yürüyün: Doğa yürüyüşü için 10 kelime",
+    "hook": "Alman bir arkadaşınız “eine Wanderung” önerdiğinde, bu bir gezinti değil, gerçek bir dağ yürüyüşü olabilir.",
+    "intro": [
+      "Almanlar yürümeye bayılır. Pazar öğle yemeğinden sonra bütün aile gezintiye çıkar, tatilde insanlar sırt çantasıyla tepelerde saatlerce yürür. Spor ayakkabıyla ‘kısa bir yürüyüşe’ katılıp kendinizi dik bir dağ patikasında ter içinde bulduğunuz oldu mu? Yalnız değilsiniz.",
+      "Bugünkü on kelime hafif bir gezintiden zirveye kadar her şeyi kapsıyor. Bir rota seçebilecek, manzaraya hayran kalabilecek ve bir dağ evinde dinlenebileceksiniz; hepsi Almanca. 🥾"
+    ],
+    "words": {
+      "A2-157": {
+        "pron": "VAN-dırn",
+        "tip": "İngilizce wander ile aynı kökten, ama Almanlar amaçla yürür 🥾",
+        "warn": "Perfekt sein ile: Wir sind gewandert. Mahallede bir tur atmak spazieren gehen'dir, wandern değil."
+      },
+      "B1-1387": {
+        "pron": "VAN-de-runk",
+        "tip": "wandern + -ung = bir yürüyüş ⛰️ -ung demek die demek.",
+        "bonus": "yürüyüşe çıkmak = eine Wanderung machen"
+      },
+      "A1-340": {
+        "pron": "şpa-TSİ-ren GEE-en",
+        "tip": "İtalyanca spaziare (dolaşmak) kökünden 🚶 Türkçedeki “piyasa yapmak” gibi keyifli bir gezinti.",
+        "bonus": "İsmi: der Spaziergang = gezinti",
+        "warn": "Perfekt sein ile: Wir sind spazieren gegangen."
+      },
+      "B1-1196": {
+        "pron": "ŞTAYL",
+        "tip": "steil ≈ İngilizce steep 📐 İkisi de nefes nefese bırakır!"
+      },
+      "A2-113": {
+        "pron": "BERK",
+        "tip": "Heidelberg, Nürnberg… yer adlarındaki -berg dağ demektir 🏔️"
+      },
+      "B2-2754": {
+        "pron": "VAN-dır-veek",
+        "tip": "wandern + Weg (yol) = yürüyüş yolu 🪧 Ağaçlara boyanmış işaretleri takip edin yeter!"
+      },
+      "A2-559": {
+        "pron": "RUK-zak",
+        "tip": "Rücken (sırt) + Sack (çuval) = sırt çuvalı 🎒 İngilizce bile bu kelimeyi Almancadan almış!",
+        "warn": "Çoğulda umlaut: die Rucksäcke."
+      },
+      "B1-797": {
+        "pron": "HÜT-te",
+        "tip": "Aslında İngilizce hut, yani kulübe 🛖 Bir dağ Hütte'sinde çorba harika gelir.",
+        "bonus": "kulübede geceyi geçirmek = auf einer Hütte übernachten"
+      },
+      "B1-207": {
+        "pron": "AUS-ziht",
+        "tip": "aus (dışarı) + Sicht (görüş) = dışarı baktığınızda gördüğünüz şey 🌄",
+        "bonus": "Was für eine Aussicht! = Ne manzara ama!"
+      },
+      "C1-822": {
+        "pron": "GİP-fel",
+        "tip": "Bütün gücünüzü verin, Gipfel'e ulaşırsınız 🏁 Haberlerde zirve toplantısı anlamına da gelir.",
+        "bonus": "Das ist ja der Gipfel! = Bu kadarı da fazla! (Bardağı taşıran damla!)"
+      }
+    },
+    "culture": [
+      "Almanya'daki yürüyüş yolları genellikle iyi işaretlenmiştir. Ağaçlara ve kayalara boyanmış renkli şeritleri ya da sembolleri takip edersiniz; sistem bölgeden bölgeye değişir.",
+      "Patikada karşılaştığınız insanları selamlamak normaldir. Kuzeyde “Hallo!” ya da “Moin!”, güneydeki dağlarda ise “Grüß Gott!” ya da “Servus!” duyarsınız.",
+      "Alplerdeki pek çok zirvede büyük bir zirve haçı (Gipfelkreuz) bulunur ve yol üstündeki kulübelerde sıcak yemek ve içecek servis edilir. Bazıları yalnızca nakit kabul eder, o yüzden yanınıza biraz alın. 🏔️"
+    ],
+    "quiz": {
+      "q": "Pazar öğle yemeğinden sonra aileniz parkta hafif bir yürüyüş yapmak istiyor. Ne dersiniz?",
+      "o": [
+        "Wir machen eine Bergtour.",
+        "Wir übernachten in einer Hütte.",
+        "Wir gehen spazieren."
+      ],
+      "a": 2,
+      "why": "Hafif bir gezinti spazieren gehen'dir; wandern daha uzun, gerçek bir doğa yürüyüşüdür."
+    },
+    "outro": "Bir sonraki yürüyüşünüzde yüksek sesle “Was für eine Aussicht!” deyin; mahalle parkı bile olsa! 🌿"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "ドイツに来て1か月、家族のことを思うと涙が出てきます。友だちに何と言いますか？", "o": ["Ich habe Heimweh.", "Ich habe einen Studienplatz.", "Ich bewerbe mich um ein Stipendium."], "a": 0, "why": "Ich habe Heimweh. = ホームシックなんだ。家が恋しいときに使う表現です。"},
     "outro": "今日の単語で「私の留学ストーリー」をドイツ語で3文だけ話してみましょう。いつか本物の Zulassung のメールが届く日を応援しています！🎓"
+  },
+  "tr": {
+    "title": "Almanya'da okumak mı? Bu 10 kelimeyle başlayın",
+    "hook": "Kabul mektubundan ilk sıla hasretinize kadar, yurt dışı eğitimin Almancası şaşırtıcı derecede öngörülebilir.",
+    "intro": [
+      "İşte gelen kutunuzda: ‘Zulassung’. Kalbiniz yerinden fırlıyor — kabul edildiniz! Sonra formlar birikmeye başlayınca sevinç biraz azalıyor: öğrenci yurdu, burs belgeleri, vize… hepsi Almanca.",
+      "Bugünkü on kelime başvurudan Almanya'daki ilk aylarınıza kadar size eşlik edecek. Başvurmaktan, kabul almaktan, oda bulmaktan, hatta memleket hasretinden bahsedebileceksiniz. İster gitmeyi hayal edin ister zaten burada olun, bunlar sizin için! 🌍"
+    ],
+    "words": {
+      "A1-421": {"pron": "AUS-lant", "tip": "aus (dışarı) + Land (ülke) = ülke dışı, yani yurt dışı ✈️ Kelimenin kendisi bir çıkış kapısı.", "bonus": "im Ausland = yurt dışında · ins Ausland = yurt dışına"},
+      "A2-586": {"pron": "şti-PEN-di-um", "tip": "İngilizce stipend gibi — okumak için verilen para 💰", "warn": "Tuhaf çoğul: die Stipendien"},
+      "B2-1279": {"pron": "AUS-lants-ze-mes-ter", "tip": "Ausland + s + Semester = yurt dışında bir dönem 🎒 Aradaki küçük s sadece yapıştırıcı.", "bonus": "yurt dışında bir dönem okumak = ein Auslandssemester machen"},
+      "B2-206": {"pron": "AUS-tauş", "tip": "tauschen = takas etmek — yer, insan ve kültür takas edersiniz 🔄", "bonus": "öğrenci değişimi (okul) = der Schüleraustausch"},
+      "B2-1706": {"pron": "zih be-VER-ben um", "tip": "werben = reklam yapmak — başvururken kendinizin reklamını yaparsınız 📝", "warn": "Pozisyon için um + Akk., kurum için bei + Dat.: Ich bewerbe mich bei der Uni um einen Studienplatz."},
+      "B2-1276": {"pron": "ŞTU-di-en-plats", "tip": "Studium (öğrenim) + Platz (yer, koltuk) = üniversitedeki koltuğunuz 🪑", "bonus": "bir bölüm için kontenjan sınırı = der Numerus clausus (NC)"},
+      "B2-291": {"pron": "TSU-la-sunk", "tip": "zulassen = içeri almak, + -ung = kabul 🎉 -ung ile bitiyor, yani die.", "bonus": "Araç ruhsatına da die Zulassung denir."},
+      "B2-1278": {"pron": "ştu-DEN-ten-von-haym", "tip": "Studenten + wohn (oturmak) + Heim (yuva) = öğrencilerin oturduğu yuva 🏠 Üç Lego parçası!", "bonus": "Genelde sadece das Wohnheim denir."},
+      "B1-777": {"pron": "HAYM-vey", "tip": "Heim (yuva) + Weh (acı) = yuva acısı 🥲 Türkçedeki ‘sıla hasreti’nin tam karşılığı.", "bonus": "Zıttı: das Fernweh = uzaklara gitme özlemi"},
+      "B2-1329": {"pron": "kul-TUR-şok", "tip": "Türkçedeki gibi: Kultur + Schock ⚡ Sadece der olduğunu unutmayın.", "bonus": "uyum sağlamak = sich anpassen"}
+    },
+    "culture": [
+      "Almanya'daki öğrenci yurtlarının çoğunu yerel Studentenwerk, yani bir öğrenci hizmetleri kurumu işletir. Birçok şehirde bekleme listeleri vardır; bu yüzden pek çok öğrenci kabul sonucunu beklerken oda için başvurur.",
+      "Birçok devlet üniversitesi yüksek öğrenim ücreti almaz ama her dönem bir Semesterbeitrag (dönem katkı payı) ister; bazı üniversitelerde buna toplu taşıma bileti de dahildir. Uluslararası öğrenciler için kurallar eyalete göre değişebilir, o yüzden mutlaka kendi üniversitenizin bilgilerine bakın.",
+      "Sıla hasreti neredeyse herkesi yakalar. Birçok üniversitenin bir International Office'i ve buddy programları vardır — ilk haftalarda etkinliklerine katılmak büyük fark yaratabilir. 💛"
+    ],
+    "quiz": {"q": "Almanya'daki birinci ayınızda ailenizi düşündükçe gözleriniz doluyor. Bir arkadaşınıza ne dersiniz?", "o": ["Ich habe Heimweh.", "Ich habe einen Studienplatz.", "Ich bewerbe mich um ein Stipendium."], "a": 0, "why": "Ich habe Heimweh. = Memleketimi özlüyorum — evi özlediğinizde söylenen cümle."},
+    "outro": "Kendi yurt dışı eğitim hikâyenizi bugünkü kelimelerle üç Almanca cümleyle anlatın. Gelen kutunuza gerçek bir Zulassung düşeceği güne! 🎓"
   }
 }

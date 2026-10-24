@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "同僚から Weber さんあての電話。彼女は今、会議中です。何と言いますか？", "o": ["Sie ist gerade in einer Besprechung.", "Sie schreibt gerade das Protokoll für morgen.", "Sie schlägt einen neuen Termin vor."], "a": 0, "why": "Sie ist gerade in einer Besprechung. = 今会議中です。in einer Besprechung sein が「会議中」の決まった言い方です。"},
     "outro": "今日は「Ich schlage vor, dass wir das morgen besprechen.」を3回声に出して言ってみましょう。次の会議ですぐ使えます！💪"
+  },
+  "tr": {
+    "title": "Almanca toplantılarda söz almanızı sağlayacak 10 kelime",
+    "hook": "Bir toplantıdan tek kelime etmeden çıktıysanız, bu kelimeler tam size göre.",
+    "intro": [
+      "Pazartesi, saat 10, herkes toplantı odasında. Gündem ekranda, biri tutanak tutuyor ve yöneticiniz size dönüyor: „Was schlagen Sie vor?“ Ne söylemek istediğinizi biliyorsunuz ama Almancası bir türlü çıkmıyor.",
+      "Bugünkü 10 kelime her toplantıda ve raporda karşınıza çıkıyor. Bunlarla gündemi takip edebilir, öneride bulunabilir, sunum yapabilir ve sonuçları yazıya dökebilirsiniz. 📊"
+    ],
+    "words": {
+      "A2-023": {"pron": "be-ŞPRE-hunk", "tip": "besprechen (görüşmek) + -ung = görüşme 🗣️ -ung, yani die.", "bonus": "Toplantıdayım = Ich bin in einer Besprechung."},
+      "B1-2450": {"pron": "Mİ-ting", "tip": "Doğrudan İngilizceden alınma 💼 Ofislerde Besprechung ile birlikte kullanılır.", "warn": "Almancada nötr: das Meeting."},
+      "B2-464": {"pron": "TA-ges-ort-nunk", "tip": "Tag (gün) + Ordnung (düzen) = günün düzeni 📋 İşte gündeminiz.", "bonus": "an der Tagesordnung sein = gündelik bir şey olmak"},
+      "B1-1038": {"pron": "pre-zen-ta-TSYON", "tip": "Türkçedeki prezentasyon ile neredeyse aynı 🖥️ -tion ile biten isimler her zaman die.", "warn": "Sunum ‘tutulur’: eine Präsentation halten."},
+      "B1-1037": {"pron": "pre-zen-Tİ-ren", "tip": "-ieren ile biten pek çok fiil İngilizce ya da Fransızcadan gelir 🎤 present → präsentieren.", "bonus": "-ieren fiilleri Perfekt'te ge- almaz: hat präsentiert"},
+      "B1-022": {"pron": "ent-ŞAY-dunk", "tip": "ent- (uzağa) + scheiden (ayırmak) = bir yolu diğerlerinden ayırmak 🔀", "warn": "Karar ‘vurulur’: eine Entscheidung treffen (machen değil)."},
+      "B2-465": {"pron": "pro-to-KOL", "tip": "Alman ofisinde genellikle diplomatik protokol değil, toplantı tutanağı demektir 📝", "bonus": "tutanak tutmak = (das) Protokoll führen"},
+      "B1-502": {"pron": "be-RİHT", "tip": "be- + richten (yöneltmek) = olguları birine yöneltmek 📄 İşte rapor.", "bonus": "Fiili: berichten = rapor etmek, haber vermek"},
+      "B1-293": {"pron": "be-ŞPRE-hen", "tip": "be- + sprechen = bir konuyu baştan sona konuşmak 💬 be- zaten ‘hakkında’ demek.", "warn": "über kullanılmaz: Wir besprechen das Projekt."},
+      "B1-062": {"pron": "FOR-şla-gen", "tip": "vor (ileri) + schlagen (ortaya atmak) = bir fikri ortaya koymak 💡", "warn": "Ayrılabilen fiil: Ich schlage vor, … / hat vorgeschlagen"}
+    },
+    "culture": [
+      "Alman toplantıları genellikle tam vaktinde başlar. Beş dakikalık gecikme bile fark edilir, bu yüzden biraz erken gitmekte fayda var. Gündem (Tagesordnung) çoğu zaman önceden gönderilir ve insanlar ona bağlı kalmaya özen gösterir.",
+      "Katılmadığınız bir şey varsa bunu toplantının içinde söylemek normaldir. „Da bin ich anderer Meinung.“ (Ben farklı düşünüyorum) gibi bir cümle kaba değildir; toplantıya katıldığınızı gösterir.",
+      "Toplantıdan sonra pek çok ekip, kimin neyi ne zamana kadar yapacağını herkes bilsin diye tutanağı (Protokoll) dağıtır. Hitap şekli şirkete göre değişir: start-up'lar çoğu zaman ilk günden du kullanırken daha geleneksel firmalar Sie'de kalmayı tercih eder. 🤝"
+    ],
+    "quiz": {"q": "Bir meslektaşınız Bayan Weber'i arıyor ama o şu an toplantıda. Ne dersiniz?", "o": ["Sie ist gerade in einer Besprechung.", "Sie schreibt gerade das Protokoll für morgen.", "Sie schlägt einen neuen Termin vor."], "a": 0, "why": "Sie ist gerade in einer Besprechung. = Şu an toplantıda. in einer Besprechung sein kalıplaşmış bir ifadedir."},
+    "outro": "Bugün „Ich schlage vor, dass wir das morgen besprechen.“ cümlesini üç kez yüksek sesle söyleyin. Bir sonraki toplantınıza hazır olacak! 💪"
   }
 }

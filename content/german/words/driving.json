@@ -8,23 +8,72 @@
       "오늘은 운전하고 주차할 때 꼭 필요한 단어 10개예요. 이 단어들이면 주유소에서 기름 넣기, 길 막힌다고 연락하기, 딱지 받은 얘기하기까지 다 할 수 있어요. 🚗"
     ],
     "words": {
-      "A1-035": {"pron": "아우토", "tip": "Automobil의 줄임말 🚗 auto(스스로) + mobil(움직이는) = 혼자 굴러가는 것!", "bonus": "운전하다 = Auto fahren: Ich fahre Auto."},
-      "A2-042": {"pron": "퓌러샤인", "tip": "führen(이끌다) + Schein(증명서) = 차를 이끌어도 된다는 종이 🪪", "bonus": "면허를 따다 = den Führerschein machen · 운전 학원 = die Fahrschule"},
-      "B1-1230": {"pron": "탕켄", "tip": "der Tank(탱크)에 -en을 붙여 동사로 ⛽ 탱크를 채우는 거예요.", "bonus": "구어: frische Luft tanken = 바람 쐬며 충전하기"},
-      "A2-043": {"pron": "탕크슈텔레", "tip": "Tank + Stelle(장소) = 탱크 채우는 곳 ⛽ Stelle가 die라서 전체도 die!", "bonus": "독일 주유소에는 작은 편의점이 붙어 있어서 밤늦게 간식 사러 가기도 해요."},
-      "A2-211": {"pron": "벤친", "tip": "‘벤츠’가 마시는 기름이라고 외워 볼까요? 🛢️ 사실은 벤조인 수지에서 온 말이에요.", "warn": "복수형 없이 써요. 디젤은 der Diesel이라 넣기 전에 꼭 확인!"},
-      "A2-330": {"pron": "파르켄", "tip": "영어 park에 -en만 붙였어요 🅿️ 공짜로 외우는 단어!", "bonus": "Hier darf man nicht parken. = 여기는 주차 금지예요."},
-      "A2-746": {"pron": "파르크플라츠", "tip": "parken + Platz(자리) = 주차 자리 🅿️ Platz가 der라서 der Parkplatz!", "warn": "복수형은 움라우트: die Parkplätze. 주차 건물은 das Parkhaus예요."},
-      "A2-044": {"pron": "슈타우", "tip": "‘슈타우~’ 하고 차들이 멈춰 서는 소리 같아요 🚙🚙🚙", "bonus": "차가 막혀 있다 = im Stau stehen: Ich stehe im Stau."},
-      "A2-203": {"pron": "암펠", "tip": "옛날 등잔(ampulla)처럼 빛나는 신호등 🚦", "bonus": "빨간불 = bei Rot, 초록불 = bei Grün: Bei Grün darfst du fahren."},
-      "B1-1208": {"pron": "슈트라프체텔", "tip": "Strafe(벌) + Zettel(쪽지) = 벌금 쪽지 😩 와이퍼에서 제일 보기 싫은 종이!", "bonus": "Ich habe einen Strafzettel bekommen. = 딱지 받았어요."}
+      "A1-035": {
+        "pron": "아우토",
+        "tip": "Automobil의 줄임말 🚗 auto(스스로) + mobil(움직이는) = 혼자 굴러가는 것!",
+        "bonus": "운전하다 = Auto fahren: Ich fahre Auto."
+      },
+      "A2-042": {
+        "pron": "퓌러샤인",
+        "tip": "führen(이끌다) + Schein(증명서) = 차를 이끌어도 된다는 종이 🪪",
+        "bonus": "면허를 따다 = den Führerschein machen · 운전 학원 = die Fahrschule"
+      },
+      "B1-1230": {
+        "pron": "탕켄",
+        "tip": "der Tank(탱크)에 -en을 붙여 동사로 ⛽ 탱크를 채우는 거예요.",
+        "bonus": "구어: frische Luft tanken = 바람 쐬며 충전하기"
+      },
+      "A2-043": {
+        "pron": "탕크슈텔레",
+        "tip": "Tank + Stelle(장소) = 탱크 채우는 곳 ⛽ Stelle가 die라서 전체도 die!",
+        "bonus": "독일 주유소에는 작은 편의점이 붙어 있어서 밤늦게 간식 사러 가기도 해요."
+      },
+      "A2-211": {
+        "pron": "벤친",
+        "tip": "‘벤츠’가 마시는 기름이라고 외워 볼까요? 🛢️ 사실은 벤조인 수지에서 온 말이에요.",
+        "warn": "복수형 없이 써요. 디젤은 der Diesel이라 넣기 전에 꼭 확인!"
+      },
+      "A2-330": {
+        "pron": "파르켄",
+        "tip": "영어 park에 -en만 붙였어요 🅿️ 공짜로 외우는 단어!",
+        "bonus": "Hier darf man nicht parken. = 여기는 주차 금지예요."
+      },
+      "A2-746": {
+        "pron": "파르크플라츠",
+        "tip": "parken + Platz(자리) = 주차 자리 🅿️ Platz가 der라서 der Parkplatz!",
+        "warn": "복수형은 움라우트: die Parkplätze. 주차 건물은 das Parkhaus예요."
+      },
+      "A2-044": {
+        "pron": "슈타우",
+        "tip": "‘슈타우~’ 하고 차들이 멈춰 서는 소리 같아요 🚙🚙🚙",
+        "bonus": "차가 막혀 있다 = im Stau stehen: Ich stehe im Stau."
+      },
+      "A2-203": {
+        "pron": "암펠",
+        "tip": "옛날 등잔(ampulla)처럼 빛나는 신호등 🚦",
+        "bonus": "빨간불 = bei Rot, 초록불 = bei Grün: Bei Grün darfst du fahren."
+      },
+      "B1-1208": {
+        "pron": "슈트라프체텔",
+        "tip": "Strafe(벌) + Zettel(쪽지) = 벌금 쪽지 😩 와이퍼에서 제일 보기 싫은 종이!",
+        "bonus": "Ich habe einen Strafzettel bekommen. = 딱지 받았어요."
+      }
     },
     "culture": [
       "독일 운전에서 제일 먼저 익혀야 할 규칙은 ‘rechts vor links’예요. 신호등이나 표지판이 없는 교차로에서는 오른쪽에서 오는 차가 먼저 가요. 주택가에 이런 교차로가 정말 많아요.",
       "시내 주차는 동네마다 방식이 달라요. 주차권 자동 판매기나 앱을 쓰는 곳도 있고, 주차 원판(Parkscheibe)에 도착 시간을 맞춰 차 앞 유리에 올려 두는 곳도 있어요. 표지판을 꼭 읽어 보세요.",
       "그리고 고속도로에서 길이 막히면 차들이 양쪽으로 비켜서 구급차가 지나갈 길(Rettungsgasse)을 만들어요. 독일에서 운전한다면 꼭 기억해 두세요. 🚑"
     ],
-    "quiz": {"q": "약속에 늦을 것 같아요. 고속도로에서 차가 꽉 막혀 있다고 친구에게 문자해요.", "o": ["Ich mache gerade meinen Führerschein.", "Ich suche eine Tankstelle.", "Ich stehe seit einer Stunde im Stau."], "a": 2, "why": "im Stau stehen = 차가 막혀 꼼짝 못 하다, 늦을 때 딱 맞는 변명이에요."},
+    "quiz": {
+      "q": "약속에 늦을 것 같아요. 고속도로에서 차가 꽉 막혀 있다고 친구에게 문자해요.",
+      "o": [
+        "Ich mache gerade meinen Führerschein.",
+        "Ich suche eine Tankstelle.",
+        "Ich stehe seit einer Stunde im Stau."
+      ],
+      "a": 2,
+      "why": "im Stau stehen = 차가 막혀 꼼짝 못 하다, 늦을 때 딱 맞는 변명이에요."
+    },
     "outro": "다음에 차를 타면 보이는 것마다 독일어로 불러 봐요. Ampel, Tankstelle, Parkplatz! 운전은 천천히, 단어는 빠르게! 🚦"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words are for driving and parking. With them you can fill up at the petrol station, text that you're stuck in traffic and complain about a parking ticket like a local. 🚗"
     ],
     "words": {
-      "A1-035": {"pron": "OW-toh", "tip": "Short for Automobil 🚗 auto (self) + mobil (moving) = it moves by itself.", "bonus": "to drive = Auto fahren: Ich fahre Auto."},
-      "A2-042": {"pron": "FÜ-rer-shine", "tip": "führen (to lead) + Schein (certificate) = your paper to lead a car 🪪", "bonus": "to get your licence = den Führerschein machen · driving school = die Fahrschule"},
-      "B1-1230": {"pron": "TAHN-ken", "tip": "der Tank + -en = to fill the tank ⛽ Easy for English speakers.", "bonus": "Colloquial: frische Luft tanken = to get some fresh air"},
-      "A2-043": {"pron": "TAHNK-shtel-uh", "tip": "Tank + Stelle (place) = tank place ⛽ Stelle is die, so the whole word is die.", "bonus": "Many petrol stations have a small shop that stays open late — handy for snacks."},
-      "A2-211": {"pron": "ben-TSEEN", "tip": "Think ‘what a Benz drinks’ 🛢️ Really it comes from benzoin resin.", "warn": "No plural. Diesel is der Diesel — check the pump before you fill up!"},
-      "A2-330": {"pron": "PAR-ken", "tip": "English park + -en 🅿️ A free word!", "bonus": "Hier darf man nicht parken. = No parking here."},
-      "A2-746": {"pron": "PARK-plahts", "tip": "parken + Platz (place) = parking place 🅿️ Platz is der, so der Parkplatz.", "warn": "Plural with umlaut: die Parkplätze. A multi-storey car park is das Parkhaus."},
-      "A2-044": {"pron": "SHTOW", "tip": "Sounds like brakes going ‘shtow’ as everyone stops 🚙🚙🚙", "bonus": "to be stuck in traffic = im Stau stehen: Ich stehe im Stau."},
-      "A2-203": {"pron": "AHM-pel", "tip": "From Latin ampulla, a little lamp — and traffic lights glow like lamps 🚦", "bonus": "at red = bei Rot, at green = bei Grün: Bei Grün darfst du fahren."},
-      "B1-1208": {"pron": "SHTRAHF-tset-el", "tip": "Strafe (penalty) + Zettel (slip) = penalty slip 😩 The worst paper on your windscreen.", "bonus": "Ich habe einen Strafzettel bekommen. = I got a ticket."}
+      "A1-035": {
+        "pron": "OW-toh",
+        "tip": "Short for Automobil 🚗 auto (self) + mobil (moving) = it moves by itself.",
+        "bonus": "to drive = Auto fahren: Ich fahre Auto."
+      },
+      "A2-042": {
+        "pron": "FÜ-rer-shine",
+        "tip": "führen (to lead) + Schein (certificate) = your paper to lead a car 🪪",
+        "bonus": "to get your licence = den Führerschein machen · driving school = die Fahrschule"
+      },
+      "B1-1230": {
+        "pron": "TAHN-ken",
+        "tip": "der Tank + -en = to fill the tank ⛽ Easy for English speakers.",
+        "bonus": "Colloquial: frische Luft tanken = to get some fresh air"
+      },
+      "A2-043": {
+        "pron": "TAHNK-shtel-uh",
+        "tip": "Tank + Stelle (place) = tank place ⛽ Stelle is die, so the whole word is die.",
+        "bonus": "Many petrol stations have a small shop that stays open late — handy for snacks."
+      },
+      "A2-211": {
+        "pron": "ben-TSEEN",
+        "tip": "Think ‘what a Benz drinks’ 🛢️ Really it comes from benzoin resin.",
+        "warn": "No plural. Diesel is der Diesel — check the pump before you fill up!"
+      },
+      "A2-330": {
+        "pron": "PAR-ken",
+        "tip": "English park + -en 🅿️ A free word!",
+        "bonus": "Hier darf man nicht parken. = No parking here."
+      },
+      "A2-746": {
+        "pron": "PARK-plahts",
+        "tip": "parken + Platz (place) = parking place 🅿️ Platz is der, so der Parkplatz.",
+        "warn": "Plural with umlaut: die Parkplätze. A multi-storey car park is das Parkhaus."
+      },
+      "A2-044": {
+        "pron": "SHTOW",
+        "tip": "Sounds like brakes going ‘shtow’ as everyone stops 🚙🚙🚙",
+        "bonus": "to be stuck in traffic = im Stau stehen: Ich stehe im Stau."
+      },
+      "A2-203": {
+        "pron": "AHM-pel",
+        "tip": "From Latin ampulla, a little lamp — and traffic lights glow like lamps 🚦",
+        "bonus": "at red = bei Rot, at green = bei Grün: Bei Grün darfst du fahren."
+      },
+      "B1-1208": {
+        "pron": "SHTRAHF-tset-el",
+        "tip": "Strafe (penalty) + Zettel (slip) = penalty slip 😩 The worst paper on your windscreen.",
+        "bonus": "Ich habe einen Strafzettel bekommen. = I got a ticket."
+      }
     },
     "culture": [
       "The first rule to learn is ‘rechts vor links’: at a junction with no lights or signs, traffic coming from the right goes first. Residential streets are full of these junctions.",
       "Parking works differently from town to town. Some places use ticket machines or apps; others ask you to set a parking disc (Parkscheibe) to your arrival time and leave it behind the windscreen. Always read the signs.",
       "And when traffic stops on the motorway, drivers move to both sides to open an emergency lane (Rettungsgasse) for ambulances and police. Remember it if you drive in Germany. 🚑"
     ],
-    "quiz": {"q": "You're running late. You text a friend that the motorway is completely jammed.", "o": ["Ich mache gerade meinen Führerschein.", "Ich suche eine Tankstelle.", "Ich stehe seit einer Stunde im Stau."], "a": 2, "why": "im Stau stehen means being stuck in traffic — the perfect excuse for being late."},
+    "quiz": {
+      "q": "You're running late. You text a friend that the motorway is completely jammed.",
+      "o": [
+        "Ich mache gerade meinen Führerschein.",
+        "Ich suche eine Tankstelle.",
+        "Ich stehe seit einer Stunde im Stau."
+      ],
+      "a": 2,
+      "why": "im Stau stehen means being stuck in traffic — the perfect excuse for being late."
+    },
     "outro": "Next time you're in a car, name everything you see in German: Ampel, Tankstelle, Parkplatz! Drive slowly, learn fast. 🚦"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日は運転と駐車で必ず使う単語10個です。これでガソリンスタンドでの給油、渋滞で遅れる連絡、違反切符の愚痴まで言えるようになります。🚗"
     ],
     "words": {
-      "A1-035": {"pron": "アウト", "tip": "Automobil の短縮形 🚗 auto（自ら）+ mobil（動く）= 自分で動くもの！", "bonus": "運転する = Auto fahren：Ich fahre Auto."},
-      "A2-042": {"pron": "フューラーシャイン", "tip": "führen（導く）+ Schein（証明書）= 車を導いていいという証明 🪪", "bonus": "免許を取る = den Führerschein machen · 教習所 = die Fahrschule"},
-      "B1-1230": {"pron": "タンケン", "tip": "der Tank（タンク）+ -en = タンクを満たす ⛽ 英語の tank と同じです。", "bonus": "口語：frische Luft tanken = 外の空気を吸ってリフレッシュする"},
-      "A2-043": {"pron": "タンクシュテレ", "tip": "Tank + Stelle（場所）= タンクを満たす場所 ⛽ Stelle が die なので全体も die！", "bonus": "ドイツのガソリンスタンドには小さな売店があり、夜遅くまで開いていることが多いです。"},
-      "A2-211": {"pron": "ベンツィーン", "tip": "「ベンツが飲むもの」と覚えましょう 🛢️ 本当は安息香樹脂から来た言葉です。", "warn": "複数形はありません。軽油は der Diesel なので、入れる前によく確認！"},
-      "A2-330": {"pron": "パルケン", "tip": "英語の park に -en をつけただけ 🅿️ 覚えるのはタダ！", "bonus": "Hier darf man nicht parken. = ここは駐車禁止です。"},
-      "A2-746": {"pron": "パルクプラッツ", "tip": "parken + Platz（場所）= 駐車する場所 🅿️ Platz が der なので der Parkplatz！", "warn": "複数形はウムラウト：die Parkplätze。立体駐車場は das Parkhaus です。"},
-      "A2-044": {"pron": "シュタウ", "tip": "「シュタウ…」と車が止まっていく音みたい 🚙🚙🚙", "bonus": "渋滞にはまっている = im Stau stehen：Ich stehe im Stau."},
-      "A2-203": {"pron": "アンペル", "tip": "ラテン語 ampulla（小さなランプ）から。信号もランプのように光ります 🚦", "bonus": "赤信号で = bei Rot、青信号で = bei Grün：Bei Grün darfst du fahren."},
-      "B1-1208": {"pron": "シュトラーフツェッテル", "tip": "Strafe（罰）+ Zettel（紙切れ）= 罰の紙 😩 フロントガラスでいちばん見たくない紙！", "bonus": "Ich habe einen Strafzettel bekommen. = 違反切符を切られました。"}
+      "A1-035": {
+        "pron": "アウト",
+        "tip": "Automobil の短縮形 🚗 auto（自ら）+ mobil（動く）= 自分で動くもの！",
+        "bonus": "運転する = Auto fahren：Ich fahre Auto."
+      },
+      "A2-042": {
+        "pron": "フューラーシャイン",
+        "tip": "führen（導く）+ Schein（証明書）= 車を導いていいという証明 🪪",
+        "bonus": "免許を取る = den Führerschein machen · 教習所 = die Fahrschule"
+      },
+      "B1-1230": {
+        "pron": "タンケン",
+        "tip": "der Tank（タンク）+ -en = タンクを満たす ⛽ 英語の tank と同じです。",
+        "bonus": "口語：frische Luft tanken = 外の空気を吸ってリフレッシュする"
+      },
+      "A2-043": {
+        "pron": "タンクシュテレ",
+        "tip": "Tank + Stelle（場所）= タンクを満たす場所 ⛽ Stelle が die なので全体も die！",
+        "bonus": "ドイツのガソリンスタンドには小さな売店があり、夜遅くまで開いていることが多いです。"
+      },
+      "A2-211": {
+        "pron": "ベンツィーン",
+        "tip": "「ベンツが飲むもの」と覚えましょう 🛢️ 本当は安息香樹脂から来た言葉です。",
+        "warn": "複数形はありません。軽油は der Diesel なので、入れる前によく確認！"
+      },
+      "A2-330": {
+        "pron": "パルケン",
+        "tip": "英語の park に -en をつけただけ 🅿️ 覚えるのはタダ！",
+        "bonus": "Hier darf man nicht parken. = ここは駐車禁止です。"
+      },
+      "A2-746": {
+        "pron": "パルクプラッツ",
+        "tip": "parken + Platz（場所）= 駐車する場所 🅿️ Platz が der なので der Parkplatz！",
+        "warn": "複数形はウムラウト：die Parkplätze。立体駐車場は das Parkhaus です。"
+      },
+      "A2-044": {
+        "pron": "シュタウ",
+        "tip": "「シュタウ…」と車が止まっていく音みたい 🚙🚙🚙",
+        "bonus": "渋滞にはまっている = im Stau stehen：Ich stehe im Stau."
+      },
+      "A2-203": {
+        "pron": "アンペル",
+        "tip": "ラテン語 ampulla（小さなランプ）から。信号もランプのように光ります 🚦",
+        "bonus": "赤信号で = bei Rot、青信号で = bei Grün：Bei Grün darfst du fahren."
+      },
+      "B1-1208": {
+        "pron": "シュトラーフツェッテル",
+        "tip": "Strafe（罰）+ Zettel（紙切れ）= 罰の紙 😩 フロントガラスでいちばん見たくない紙！",
+        "bonus": "Ich habe einen Strafzettel bekommen. = 違反切符を切られました。"
+      }
     },
     "culture": [
       "ドイツの運転でまず覚えたいのが「rechts vor links」。信号や標識のない交差点では、右から来る車が優先です。住宅街にはこういう交差点がとても多いです。",
       "街中の駐車ルールは場所によって違います。券売機やアプリを使うところもあれば、駐車ディスク（Parkscheibe）を到着時刻に合わせてフロントガラスの内側に置くところもあります。標識をよく読みましょう。",
       "そして高速道路で渋滞すると、車は左右に寄って救急車用の通り道（Rettungsgasse）を作ります。ドイツで運転するなら、ぜひ覚えておいてください。🚑"
     ],
-    "quiz": {"q": "約束に遅れそうです。高速道路がひどく渋滞していると友だちにメッセージを送ります。", "o": ["Ich mache gerade meinen Führerschein.", "Ich suche eine Tankstelle.", "Ich stehe seit einer Stunde im Stau."], "a": 2, "why": "im Stau stehen は「渋滞にはまっている」という意味で、遅刻の連絡にぴったりです。"},
+    "quiz": {
+      "q": "約束に遅れそうです。高速道路がひどく渋滞していると友だちにメッセージを送ります。",
+      "o": [
+        "Ich mache gerade meinen Führerschein.",
+        "Ich suche eine Tankstelle.",
+        "Ich stehe seit einer Stunde im Stau."
+      ],
+      "a": 2,
+      "why": "im Stau stehen は「渋滞にはまっている」という意味で、遅刻の連絡にぴったりです。"
+    },
     "outro": "次に車に乗ったら、見えるものをドイツ語で言ってみましょう。Ampel, Tankstelle, Parkplatz! 運転はゆっくり、単語は速く！🚦"
+  },
+  "tr": {
+    "title": "Direksiyona geçmeden önce: Yol için 10 Almanca kelime",
+    "hook": "Almanya'da araba kullanmanın en korkutucu yanı otoban değil; silecek altındaki o küçük kâğıt parçası.",
+    "intro": [
+      "Ödünç aldığım bir arabayla bir Alman şehrinde ilk kez dolaştığımda trafik lambaları bana tuhaf geldi, yollar tıkalıydı ve hiçbir yerde park yeri yoktu. Sonunda arabaya döndüğümde silecek altında bir ceza makbuzu beni bekliyordu.",
+      "Bugünkü on kelime araba kullanmak ve park etmek için. Bunlarla benzin istasyonunda depoyu doldurabilir, trafikte kaldığınızı mesajla bildirebilir ve park cezasından tam bir yerli gibi yakınabilirsiniz. 🚗"
+    ],
+    "words": {
+      "A1-035": {
+        "pron": "AU-to",
+        "tip": "Automobil'in kısası, tıpkı Türkçedeki “oto” gibi 🚗 auto (kendi) + mobil (hareket eden) = kendi kendine giden.",
+        "bonus": "araba kullanmak = Auto fahren: Ich fahre Auto."
+      },
+      "A2-042": {
+        "pron": "FÜ-rır-şayn",
+        "tip": "führen (yönetmek) + Schein (belge) = arabayı yönetme belgeniz 🪪",
+        "bonus": "ehliyet almak = den Führerschein machen · sürücü kursu = die Fahrschule"
+      },
+      "B1-1230": {
+        "pron": "TAN-ken",
+        "tip": "der Tank + -en = depoyu doldurmak ⛽ Türkçedeki “tank” sayesinde kolay.",
+        "bonus": "Günlük dilde: frische Luft tanken = biraz temiz hava almak"
+      },
+      "A2-043": {
+        "pron": "TANK-ştel-le",
+        "tip": "Tank + Stelle (yer) = depo doldurulan yer ⛽ Stelle die olduğu için kelimenin tamamı die.",
+        "bonus": "Pek çok benzin istasyonunda geç saate kadar açık küçük bir market olur; atıştırmalık için çok pratik."
+      },
+      "A2-211": {
+        "pron": "ben-TSİN",
+        "tip": "Türkçedeki “benzin” ile aynı! Sadece z “ts” diye okunur 🛢️ Kökü benzoin reçinesine dayanır.",
+        "warn": "Çoğulu yoktur. Dizel der Diesel; doldurmadan önce pompaya bakın!"
+      },
+      "A2-330": {
+        "pron": "PAR-ken",
+        "tip": "“park” + -en 🅿️ Bedava bir kelime!",
+        "bonus": "Hier darf man nicht parken. = Buraya park edilmez."
+      },
+      "A2-746": {
+        "pron": "PARK-plats",
+        "tip": "parken + Platz (yer) = park yeri 🅿️ Platz der olduğu için der Parkplatz.",
+        "warn": "Çoğulda umlaut gelir: die Parkplätze. Katlı otopark ise das Parkhaus."
+      },
+      "A2-044": {
+        "pron": "ŞTAU",
+        "tip": "Herkes durunca frenlerin çıkardığı “ştav” sesi gibi 🚙🚙🚙",
+        "bonus": "trafikte kalmak = im Stau stehen: Ich stehe im Stau."
+      },
+      "A2-203": {
+        "pron": "AM-pel",
+        "tip": "Latince ampulla (küçük lamba) kökünden; Türkçedeki “ampul” ile akraba 🚦 Trafik lambaları da ampul gibi yanar.",
+        "bonus": "kırmızıda = bei Rot, yeşilde = bei Grün: Bei Grün darfst du fahren."
+      },
+      "B1-1208": {
+        "pron": "ŞTRAF-tset-tel",
+        "tip": "Strafe (ceza) + Zettel (kâğıt) = ceza kâğıdı 😩 Ön camınızdaki en kötü kâğıt.",
+        "bonus": "Ich habe einen Strafzettel bekommen. = Ceza yedim."
+      }
+    },
+    "culture": [
+      "Öğrenilecek ilk kural ‘rechts vor links’tir: Lambasız ve tabelasız bir kavşakta sağdan gelen araç önce geçer. Yerleşim bölgelerindeki sokaklar bu tür kavşaklarla doludur.",
+      "Park etme kuralları şehirden şehre değişir. Bazı yerlerde bilet makinesi ya da uygulama kullanılır; bazı yerlerde ise park diskini (Parkscheibe) varış saatinize ayarlayıp ön camın arkasına bırakmanız istenir. Tabelaları mutlaka okuyun.",
+      "Otobanda trafik durduğunda sürücüler ambulans ve polis için bir emniyet şeridi (Rettungsgasse) açmak üzere iki yana çekilir. Almanya'da araba kullanacaksanız bunu unutmayın. 🚑"
+    ],
+    "quiz": {
+      "q": "Geç kalıyorsunuz. Bir arkadaşınıza otobanın tamamen tıkalı olduğunu yazıyorsunuz.",
+      "o": [
+        "Ich mache gerade meinen Führerschein.",
+        "Ich suche eine Tankstelle.",
+        "Ich stehe seit einer Stunde im Stau."
+      ],
+      "a": 2,
+      "why": "im Stau stehen trafikte kalmak demektir; geç kalmak için mükemmel bir bahane."
+    },
+    "outro": "Bir dahaki araba yolculuğunuzda gördüğünüz her şeyi Almanca söyleyin: Ampel, Tankstelle, Parkplatz! Yavaş sürün, hızlı öğrenin. 🚦"
   }
 }

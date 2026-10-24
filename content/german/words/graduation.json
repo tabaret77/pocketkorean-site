@@ -8,23 +8,72 @@
       "오늘은 졸업과 관련된 단어 10개예요. 졸업 축하하기, 학위와 성적표 이야기하기, 자랑스럽다고 말하기까지 이 10개면 친구의 큰날을 독일어로 함께 축하할 수 있어요. 💐"
     ],
     "words": {
-      "B1-201": {"pron": "압슐루스", "tip": "ab + schließen(닫다) = 문을 탁 닫고 마무리 🎓", "bonus": "einen Abschluss machen = 학위를 따다 · 복수는 die Abschlüsse"},
-      "B2-2217": {"pron": "파이어리히", "tip": "Feier(축하 행사) + -lich = 행사다운, 엄숙한 🎻", "bonus": "Das ist nicht mehr feierlich! = 이건 더는 못 봐주겠다! (농담조)"},
-      "A2-642": {"pron": "아비투어", "tip": "라틴어 abire(떠나다) = 학교를 떠나는 시험 🏫 줄여서 Abi!", "bonus": "Abi machen = 아비투어를 보다"},
-      "B1-041": {"pron": "초이크니스", "tip": "Zeuge(증인)처럼 내 실력을 증언해 주는 종이 📜", "bonus": "회사가 써 주는 경력 증명서는 das Arbeitszeugnis"},
-      "B1-572": {"pron": "디플롬", "tip": "그리스어로 ‘두 번 접은 문서’ 📄 졸업장을 접어서 주던 데서 왔어요.", "bonus": "영어 diploma와 같은 말이에요."},
-      "B2-1284": {"pron": "압졸벤트", "tip": "absolvieren(끝마치다)한 사람 = 졸업생 👩‍🎓", "warn": "약변화 명사라서 den/dem/des Absolventen처럼 -en이 붙어요."},
-      "B2-3758": {"pron": "체레모니", "tip": "영어 ceremony랑 똑같아요 🎊 끝의 -ie는 ‘이’로 길게!", "bonus": "복수는 die Zeremonien (‘체레모니엔’)"},
-      "A2-294": {"pron": "파이어", "tip": "feiern(축하하다)의 명사 🥂 Feier가 있으면 파티!", "bonus": "졸업 축하 파티 = die Abschlussfeier"},
-      "B1-196": {"pron": "슈톨츠", "tip": "가슴을 쭉 펴고 ‘슈톨츠!’ 😤 당당한 모습 그대로예요.", "warn": "‘~가 자랑스럽다’는 stolz auf + 4격: Ich bin stolz auf dich! (von ✗)"},
-      "B1-753": {"pron": "그라툴라치온", "tip": "영어 congratulation에서 con-만 빠진 모양 🎉", "bonus": "동사는 gratulieren + 3격: Ich gratuliere dir zum Abschluss!"}
+      "B1-201": {
+        "pron": "압슐루스",
+        "tip": "ab + schließen(닫다) = 문을 탁 닫고 마무리 🎓",
+        "bonus": "einen Abschluss machen = 학위를 따다 · 복수는 die Abschlüsse"
+      },
+      "B2-2217": {
+        "pron": "파이어리히",
+        "tip": "Feier(축하 행사) + -lich = 행사다운, 엄숙한 🎻",
+        "bonus": "Das ist nicht mehr feierlich! = 이건 더는 못 봐주겠다! (농담조)"
+      },
+      "A2-642": {
+        "pron": "아비투어",
+        "tip": "라틴어 abire(떠나다) = 학교를 떠나는 시험 🏫 줄여서 Abi!",
+        "bonus": "Abi machen = 아비투어를 보다"
+      },
+      "B1-041": {
+        "pron": "초이크니스",
+        "tip": "Zeuge(증인)처럼 내 실력을 증언해 주는 종이 📜",
+        "bonus": "회사가 써 주는 경력 증명서는 das Arbeitszeugnis"
+      },
+      "B1-572": {
+        "pron": "디플롬",
+        "tip": "그리스어로 ‘두 번 접은 문서’ 📄 졸업장을 접어서 주던 데서 왔어요.",
+        "bonus": "영어 diploma와 같은 말이에요."
+      },
+      "B2-1284": {
+        "pron": "압졸벤트",
+        "tip": "absolvieren(끝마치다)한 사람 = 졸업생 👩‍🎓",
+        "warn": "약변화 명사라서 den/dem/des Absolventen처럼 -en이 붙어요."
+      },
+      "B2-3758": {
+        "pron": "체레모니",
+        "tip": "영어 ceremony랑 똑같아요 🎊 끝의 -ie는 ‘이’로 길게!",
+        "bonus": "복수는 die Zeremonien (‘체레모니엔’)"
+      },
+      "A2-294": {
+        "pron": "파이어",
+        "tip": "feiern(축하하다)의 명사 🥂 Feier가 있으면 파티!",
+        "bonus": "졸업 축하 파티 = die Abschlussfeier"
+      },
+      "B1-196": {
+        "pron": "슈톨츠",
+        "tip": "가슴을 쭉 펴고 ‘슈톨츠!’ 😤 당당한 모습 그대로예요.",
+        "warn": "‘~가 자랑스럽다’는 stolz auf + 4격: Ich bin stolz auf dich! (von ✗)"
+      },
+      "B1-753": {
+        "pron": "그라툴라치온",
+        "tip": "영어 congratulation에서 con-만 빠진 모양 🎉",
+        "bonus": "동사는 gratulieren + 3격: Ich gratuliere dir zum Abschluss!"
+      }
     },
     "culture": [
       "독일 대학은 전통적으로 모두가 모이는 큰 졸업식이 없는 경우가 많았어요. 요즘은 학과별로 작은 행사를 여는 곳도 늘었지만, 서류로 성적표(Zeugnis)를 받고 친구들끼리 파티를 여는 경우도 아직 흔해요.",
       "오히려 크게 축하하는 건 고등학교 졸업 시험인 Abitur예요. 시험이 끝나면 Abiball이라는 무도회를 열어서, 다들 정장과 드레스를 입고 가족과 함께 밤새 춤을 춰요.",
       "축하 인사로는 Herzlichen Glückwunsch zum Abschluss!가 제일 무난해요. 카드 한 장에 이 한 줄이면 충분히 마음이 전해져요. 🎓"
     ],
-    "quiz": {"q": "친구가 졸업했어요. ‘네가 정말 자랑스러워!’는 어떻게 말할까요?", "o": ["Ich bin stolz von dir!", "Ich bin stolz auf dich!", "Ich bin stolz mit dir!"], "a": 1, "why": "stolz는 전치사 auf + 4격과 함께 써요."},
+    "quiz": {
+      "q": "친구가 졸업했어요. ‘네가 정말 자랑스러워!’는 어떻게 말할까요?",
+      "o": [
+        "Ich bin stolz von dir!",
+        "Ich bin stolz auf dich!",
+        "Ich bin stolz mit dir!"
+      ],
+      "a": 1,
+      "why": "stolz는 전치사 auf + 4격과 함께 써요."
+    },
     "outro": "주변에 졸업한 사람이 있다면 독일어로 Ich gratuliere dir!를 보내 봐요. 나 자신에게도 Ich bin stolz auf mich! 한 번 해 주고요. 🌷"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words are all about graduating. With them you can congratulate someone, talk about degrees and certificates, and tell people how proud you are. 💐"
     ],
     "words": {
-      "B1-201": {"pron": "AP-shloos", "tip": "ab + schließen (close) = closing the door on your studies 🎓", "bonus": "einen Abschluss machen = to get a degree · plural die Abschlüsse"},
-      "B2-2217": {"pron": "FY-er-likh", "tip": "Feier (celebration) + -lich = festive, solemn 🎻", "bonus": "Das ist nicht mehr feierlich! = This is getting ridiculous! (joking)"},
-      "A2-642": {"pron": "ah-bee-TOOR", "tip": "Latin abire (to go away) = the exam for leaving school 🏫 Short form: Abi!", "bonus": "Abi machen = to take your Abitur"},
-      "B1-041": {"pron": "TSOYK-nis", "tip": "Like a Zeuge (witness), it testifies to what you can do 📜", "bonus": "A reference from an employer is das Arbeitszeugnis."},
-      "B1-572": {"pron": "dee-PLOHM", "tip": "Greek for a ‘folded document’ 📄 Diplomas used to be handed over folded.", "bonus": "The same word as English diploma."},
-      "B2-1284": {"pron": "ap-zol-VENT", "tip": "Someone who has absolviert (completed) their studies = a graduate 👩‍🎓", "warn": "A weak noun: den/dem/des Absolventen all take -en."},
-      "B2-3758": {"pron": "tseh-reh-moh-NEE", "tip": "Just like English ceremony 🎊 The -ie at the end is a long ‘ee’.", "bonus": "Plural: die Zeremonien (tseh-reh-moh-NEE-en)"},
-      "A2-294": {"pron": "FY-er", "tip": "The noun from feiern (to celebrate) 🥂 A Feier means a party!", "bonus": "A graduation party = die Abschlussfeier"},
-      "B1-196": {"pron": "SHTOLTS", "tip": "Puff out your chest and say ‘SHTOLTS!’ 😤 That's the feeling.", "warn": "Proud of = stolz auf + accusative: Ich bin stolz auf dich! (not von)"},
-      "B1-753": {"pron": "gra-too-la-TSYOHN", "tip": "English congratulation without the con- 🎉", "bonus": "The verb takes the dative: Ich gratuliere dir zum Abschluss!"}
+      "B1-201": {
+        "pron": "AP-shloos",
+        "tip": "ab + schließen (close) = closing the door on your studies 🎓",
+        "bonus": "einen Abschluss machen = to get a degree · plural die Abschlüsse"
+      },
+      "B2-2217": {
+        "pron": "FY-er-likh",
+        "tip": "Feier (celebration) + -lich = festive, solemn 🎻",
+        "bonus": "Das ist nicht mehr feierlich! = This is getting ridiculous! (joking)"
+      },
+      "A2-642": {
+        "pron": "ah-bee-TOOR",
+        "tip": "Latin abire (to go away) = the exam for leaving school 🏫 Short form: Abi!",
+        "bonus": "Abi machen = to take your Abitur"
+      },
+      "B1-041": {
+        "pron": "TSOYK-nis",
+        "tip": "Like a Zeuge (witness), it testifies to what you can do 📜",
+        "bonus": "A reference from an employer is das Arbeitszeugnis."
+      },
+      "B1-572": {
+        "pron": "dee-PLOHM",
+        "tip": "Greek for a ‘folded document’ 📄 Diplomas used to be handed over folded.",
+        "bonus": "The same word as English diploma."
+      },
+      "B2-1284": {
+        "pron": "ap-zol-VENT",
+        "tip": "Someone who has absolviert (completed) their studies = a graduate 👩‍🎓",
+        "warn": "A weak noun: den/dem/des Absolventen all take -en."
+      },
+      "B2-3758": {
+        "pron": "tseh-reh-moh-NEE",
+        "tip": "Just like English ceremony 🎊 The -ie at the end is a long ‘ee’.",
+        "bonus": "Plural: die Zeremonien (tseh-reh-moh-NEE-en)"
+      },
+      "A2-294": {
+        "pron": "FY-er",
+        "tip": "The noun from feiern (to celebrate) 🥂 A Feier means a party!",
+        "bonus": "A graduation party = die Abschlussfeier"
+      },
+      "B1-196": {
+        "pron": "SHTOLTS",
+        "tip": "Puff out your chest and say ‘SHTOLTS!’ 😤 That's the feeling.",
+        "warn": "Proud of = stolz auf + accusative: Ich bin stolz auf dich! (not von)"
+      },
+      "B1-753": {
+        "pron": "gra-too-la-TSYOHN",
+        "tip": "English congratulation without the con- 🎉",
+        "bonus": "The verb takes the dative: Ich gratuliere dir zum Abschluss!"
+      }
     },
     "culture": [
       "German universities traditionally didn't hold one big graduation ceremony for everyone. More departments run small events now, but it's still common to receive your Zeugnis as a document and celebrate with friends instead.",
       "The really big celebration is often for the Abitur, the school-leaving exam. Afterwards there's an Abiball: everyone dresses up in suits and gowns and dances late into the night with their families.",
       "The safest thing to say is Herzlichen Glückwunsch zum Abschluss! One line in a card says it all. 🎓"
     ],
-    "quiz": {"q": "Your friend has graduated. How do you say ‘I'm so proud of you!’?", "o": ["Ich bin stolz von dir!", "Ich bin stolz auf dich!", "Ich bin stolz mit dir!"], "a": 1, "why": "stolz goes with auf plus the accusative."},
+    "quiz": {
+      "q": "Your friend has graduated. How do you say ‘I'm so proud of you!’?",
+      "o": [
+        "Ich bin stolz von dir!",
+        "Ich bin stolz auf dich!",
+        "Ich bin stolz mit dir!"
+      ],
+      "a": 1,
+      "why": "stolz goes with auf plus the accusative."
+    },
     "outro": "If someone you know has just graduated, send them Ich gratuliere dir! And tell yourself Ich bin stolz auf mich! for learning today's words. 🌷"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日は卒業にまつわる単語を10個集めました。お祝いを言う、学位や成績証明書の話をする、誇りに思うと伝える。この10個で友だちの晴れの日をドイツ語で祝えます。💐"
     ],
     "words": {
-      "B1-201": {"pron": "アップシュルス", "tip": "ab + schließen（閉める）= ドアを閉めて締めくくる 🎓", "bonus": "einen Abschluss machen = 学位を取る・複数は die Abschlüsse"},
-      "B2-2217": {"pron": "ファイアーリヒ", "tip": "Feier（祝典）+ -lich = 式典らしい、厳かな 🎻", "bonus": "Das ist nicht mehr feierlich! = もう見ていられない！（冗談っぽく）"},
-      "A2-642": {"pron": "アビトゥーア", "tip": "ラテン語 abire（去る）= 学校を去るための試験 🏫 略して Abi！", "bonus": "Abi machen = アビトゥーアを受ける"},
-      "B1-041": {"pron": "ツォイクニス", "tip": "Zeuge（証人）のように実力を証言してくれる紙 📜", "bonus": "会社が書く勤務証明書は das Arbeitszeugnis"},
-      "B1-572": {"pron": "ディプローム", "tip": "ギリシャ語で「二つ折りの文書」📄 卒業証書を折って渡したことから。", "bonus": "英語の diploma と同じ言葉です。"},
-      "B2-1284": {"pron": "アプゾルヴェント", "tip": "absolvieren（修了する）した人 = 卒業生 👩‍🎓", "warn": "男性弱変化名詞なので den/dem/des Absolventen のように -en がつきます。"},
-      "B2-3758": {"pron": "ツェレモニー", "tip": "英語の ceremony とそっくり 🎊 最後の -ie は「イー」と伸ばします。", "bonus": "複数は die Zeremonien（ツェレモニーエン）"},
-      "A2-294": {"pron": "ファイアー", "tip": "feiern（祝う）の名詞 🥂 Feier があればパーティー！", "bonus": "卒業パーティー = die Abschlussfeier"},
-      "B1-196": {"pron": "シュトルツ", "tip": "胸を張って「シュトルツ！」😤 堂々とした感じそのままです。", "warn": "「〜を誇りに思う」は stolz auf + 4格：Ich bin stolz auf dich!（von ではありません）"},
-      "B1-753": {"pron": "グラトゥラツィオーン", "tip": "英語の congratulation から con- を取った形 🎉", "bonus": "動詞は gratulieren + 3格：Ich gratuliere dir zum Abschluss!"}
+      "B1-201": {
+        "pron": "アップシュルス",
+        "tip": "ab + schließen（閉める）= ドアを閉めて締めくくる 🎓",
+        "bonus": "einen Abschluss machen = 学位を取る・複数は die Abschlüsse"
+      },
+      "B2-2217": {
+        "pron": "ファイアーリヒ",
+        "tip": "Feier（祝典）+ -lich = 式典らしい、厳かな 🎻",
+        "bonus": "Das ist nicht mehr feierlich! = もう見ていられない！（冗談っぽく）"
+      },
+      "A2-642": {
+        "pron": "アビトゥーア",
+        "tip": "ラテン語 abire（去る）= 学校を去るための試験 🏫 略して Abi！",
+        "bonus": "Abi machen = アビトゥーアを受ける"
+      },
+      "B1-041": {
+        "pron": "ツォイクニス",
+        "tip": "Zeuge（証人）のように実力を証言してくれる紙 📜",
+        "bonus": "会社が書く勤務証明書は das Arbeitszeugnis"
+      },
+      "B1-572": {
+        "pron": "ディプローム",
+        "tip": "ギリシャ語で「二つ折りの文書」📄 卒業証書を折って渡したことから。",
+        "bonus": "英語の diploma と同じ言葉です。"
+      },
+      "B2-1284": {
+        "pron": "アプゾルヴェント",
+        "tip": "absolvieren（修了する）した人 = 卒業生 👩‍🎓",
+        "warn": "男性弱変化名詞なので den/dem/des Absolventen のように -en がつきます。"
+      },
+      "B2-3758": {
+        "pron": "ツェレモニー",
+        "tip": "英語の ceremony とそっくり 🎊 最後の -ie は「イー」と伸ばします。",
+        "bonus": "複数は die Zeremonien（ツェレモニーエン）"
+      },
+      "A2-294": {
+        "pron": "ファイアー",
+        "tip": "feiern（祝う）の名詞 🥂 Feier があればパーティー！",
+        "bonus": "卒業パーティー = die Abschlussfeier"
+      },
+      "B1-196": {
+        "pron": "シュトルツ",
+        "tip": "胸を張って「シュトルツ！」😤 堂々とした感じそのままです。",
+        "warn": "「〜を誇りに思う」は stolz auf + 4格：Ich bin stolz auf dich!（von ではありません）"
+      },
+      "B1-753": {
+        "pron": "グラトゥラツィオーン",
+        "tip": "英語の congratulation から con- を取った形 🎉",
+        "bonus": "動詞は gratulieren + 3格：Ich gratuliere dir zum Abschluss!"
+      }
     },
     "culture": [
       "ドイツの大学には、伝統的に全員が集まる大きな卒業式がないことが多いです。最近は学科ごとに小さな式をするところも増えましたが、成績証明書（Zeugnis）を書類で受け取り、友だち同士でパーティーをすることもまだよくあります。",
       "むしろ盛大に祝うのは高校卒業試験の Abitur です。試験のあとには Abiball という舞踏会があり、みんなスーツやドレスで家族と一緒に夜遅くまで踊ります。",
       "お祝いの言葉は Herzlichen Glückwunsch zum Abschluss! がいちばん無難です。カードにこの一行があれば気持ちは十分伝わります。🎓"
     ],
-    "quiz": {"q": "友だちが卒業しました。「あなたを本当に誇りに思う！」はどう言いますか？", "o": ["Ich bin stolz von dir!", "Ich bin stolz auf dich!", "Ich bin stolz mit dir!"], "a": 1, "why": "stolz は前置詞 auf + 4格と一緒に使います。"},
+    "quiz": {
+      "q": "友だちが卒業しました。「あなたを本当に誇りに思う！」はどう言いますか？",
+      "o": [
+        "Ich bin stolz von dir!",
+        "Ich bin stolz auf dich!",
+        "Ich bin stolz mit dir!"
+      ],
+      "a": 1,
+      "why": "stolz は前置詞 auf + 4格と一緒に使います。"
+    },
     "outro": "まわりに卒業した人がいたら、ドイツ語で Ich gratuliere dir! と送ってみましょう。自分にも Ich bin stolz auf mich! とひとこと。🌷"
+  },
+  "tr": {
+    "title": "Tebrikler! Mezuniyet günü için 10 Almanca kelime",
+    "hook": "Alman arkadaşınız mezun oldu. “Aferin”den fazlasını söylemeye hazır mısınız?",
+    "intro": [
+      "Alman bir arkadaşınız sonunda yüksek lisans tezini bitirdi ve sizi bir partiye davet etti. Elinizde çiçekle varıyorsunuz; herkes Abschluss, Zeugnis ve Absolventen'den söz ediyor, siz ise sadece başınızı sallıyorsunuz.",
+      "Bugünkü on kelime tamamen mezuniyetle ilgili. Bunlarla birini tebrik edebilir, diplomalar ve belgeler hakkında konuşabilir ve ne kadar gurur duyduğunuzu söyleyebilirsiniz. 💐"
+    ],
+    "words": {
+      "B1-201": {
+        "pron": "AP-şlus",
+        "tip": "ab + schließen (kapatmak) = öğrenim hayatının kapısını kapatmak 🎓",
+        "bonus": "einen Abschluss machen = diploma almak, mezun olmak · çoğul die Abschlüsse"
+      },
+      "B2-2217": {
+        "pron": "FAY-ır-lih",
+        "tip": "Feier (kutlama) + -lich = törensel, vakur 🎻",
+        "bonus": "Das ist nicht mehr feierlich! = Bu artık çekilmez oldu! (şaka yollu)"
+      },
+      "A2-642": {
+        "pron": "a-bi-TUR",
+        "tip": "Latince abire (ayrılıp gitmek) = okuldan ayrılma sınavı 🏫 Kısası: Abi!",
+        "bonus": "Abi machen = Abitur'a girmek"
+      },
+      "B1-041": {
+        "pron": "TSOYK-nis",
+        "tip": "Bir Zeuge (tanık) gibi, neler yapabildiğinize tanıklık eder 📜",
+        "bonus": "İşverenden alınan referans belgesi das Arbeitszeugnis'tir."
+      },
+      "B1-572": {
+        "pron": "di-PLOM",
+        "tip": "Yunanca ‘katlanmış belge’ 📄 Diplomalar eskiden katlanmış olarak verilirdi.",
+        "bonus": "Türkçedeki “diploma” ile aynı kelime."
+      },
+      "B2-1284": {
+        "pron": "ap-zol-VENT",
+        "tip": "Öğrenimini absolviert etmiş (tamamlamış) kişi = mezun 👩‍🎓",
+        "warn": "Zayıf isim: den/dem/des Absolventen hepsi -en alır."
+      },
+      "B2-3758": {
+        "pron": "tse-re-mo-Nİ",
+        "tip": "Türkçedeki “seremoni” ile aynı 🎊 Sondaki -ie uzun bir ‘i’.",
+        "bonus": "Çoğulu: die Zeremonien (tse-re-mo-Nİ-en)"
+      },
+      "A2-294": {
+        "pron": "FAY-ır",
+        "tip": "feiern (kutlamak) fiilinin ismi 🥂 Feier parti demek!",
+        "bonus": "Mezuniyet partisi = die Abschlussfeier"
+      },
+      "B1-196": {
+        "pron": "ŞTOLTS",
+        "tip": "Göğsünüzü kabartın ve ‘ŞTOLTS!’ deyin 😤 İşte o duygu.",
+        "warn": "...ile gurur duymak = stolz auf + akuzatif: Ich bin stolz auf dich! (von değil)"
+      },
+      "B1-753": {
+        "pron": "gra-tu-la-TSYON",
+        "tip": "Başındaki con- olmadan İngilizce congratulation 🎉",
+        "bonus": "Fiil datif alır: Ich gratuliere dir zum Abschluss!"
+      }
+    },
+    "culture": [
+      "Alman üniversitelerinde geleneksel olarak herkes için tek bir büyük mezuniyet töreni yapılmazdı. Artık daha fazla bölüm küçük etkinlikler düzenliyor, ama Zeugnis'inizi bir belge olarak alıp bunun yerine arkadaşlarla kutlamak hâlâ yaygındır.",
+      "Asıl büyük kutlama çoğu zaman lise bitirme sınavı Abitur içindir. Sonrasında bir Abiball düzenlenir: herkes takım elbise ve gece kıyafetleri giyer ve aileleriyle birlikte gece geç saatlere kadar dans eder.",
+      "En güvenli söz Herzlichen Glückwunsch zum Abschluss! cümlesidir. Bir karta yazılmış tek satır her şeyi anlatır. 🎓"
+    ],
+    "quiz": {
+      "q": "Arkadaşınız mezun oldu. ‘Seninle çok gurur duyuyorum!’ nasıl denir?",
+      "o": [
+        "Ich bin stolz von dir!",
+        "Ich bin stolz auf dich!",
+        "Ich bin stolz mit dir!"
+      ],
+      "a": 1,
+      "why": "stolz, auf ve akuzatif ile kullanılır."
+    },
+    "outro": "Tanıdığınız biri yeni mezun olduysa ona Ich gratuliere dir! yazın. Bugünkü kelimeleri öğrendiğiniz için kendinize de Ich bin stolz auf mich! deyin. 🌷"
   }
 }

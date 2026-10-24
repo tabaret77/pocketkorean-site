@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちが土曜日の誕生日パーティーに招待してくれました。楽しみだと伝えるには？", "o": ["Ich freue mich auf Samstag!", "Ich ärgere mich über Samstag!", "Ich langweile mich am Samstag!"], "a": 0, "why": "sich freuen auf + 4格 = 〜を楽しみにする。これからのことにわくわくする気持ちを表します。"},
     "outro": "今日一日を再帰動詞で言ってみましょう。Ich habe mich beeilt, ich habe mich geärgert, jetzt ruhe ich mich aus! 🪞"
+  },
+  "tr": {
+    "title": "Bu kadar sich neden? Kolayca öğrenilen 10 dönüşlü fiil",
+    "hook": "Almanca fiillerin peşinden ayrılmayan o küçük sich — bugün onunla arkadaş olalım.",
+    "intro": [
+      "Dil kursundaki ilk gününüzde öğretmen gülümseyip ‘Setzen Sie sich!’ diyor. Oturun demek olduğunu biliyorsunuz — ama neden ‘kendinizi oturtun’? Sonra sich her yerden çıkmaya başlıyor: Ich freue mich, Beeil dich…",
+      "Bugünkü on dönüşlü fiili her gün kullanacaksınız. Çoğu duyguları ve günlük hayatı anlatıyor — sevinç, kızgınlık, özür, âşık olmak — yani bunları öğrenmek Almancanızı çok daha doğal gösterir. Türkçedeki ‘sevinmek, yıkanmak’ gibi dönüşlü fiilleri düşünün; Almanca bunu sich ile yapar. 🪞"
+    ],
+    "words": {
+      "A1-075": {"pron": "zih FROY-en", "tip": "Freude (sevinç) ile aynı kökten 😊 Sevinç size (sich) geri döner.", "warn": "auf + Akk. = bir şeyi dört gözle beklemek · über + Akk. = olmuş bir şeye sevinmek"},
+      "A2-153": {"pron": "zih er-İ-nern", "tip": "er- + inner (iç) = bir şeyi yeniden zihninizin içine getirmek 🧠", "bonus": "an + Akk. ile: Ich erinnere mich an dich."},
+      "A1-341": {"pron": "zih ZET-sen", "tip": "Kendinizi (sich) sandalyeye koyarsınız 🪑 İngilizce set ile akraba.", "warn": "Hareket sich setzen; oturuyor olmak sitzen."},
+      "B1-286": {"pron": "zih be-AY-len", "tip": "Eile (acele) kelimesinden 🏃 Beeil dich! = Acele et!", "bonus": "Resmî: Beeilen Sie sich bitte!"},
+      "A2-064": {"pron": "zih ER-gern", "tip": "arg (kötü) kelimesinden 😤 Kendi kendinizi gerersiniz.", "bonus": "Ärger dich nicht! = Kafana takma! · über + Akk.: Ich ärgere mich über den Lärm."},
+      "A2-066": {"pron": "zih AUS-ru-en", "tip": "aus (tamamen) + ruhen (dinlenmek) = adamakıllı dinlenmek 🛋️", "warn": "Hem ayrılabilen hem dönüşlü: Ich ruhe mich aus."},
+      "A2-052": {"pron": "zih er-KEL-ten", "tip": "er- + kalt (soğuk) = üşüyüp soğuk almak 🤧", "bonus": "Ich habe mich erkältet. = Üşüttüm."},
+      "A2-176": {"pron": "zih ent-ŞUL-di-gen", "tip": "ent- (gidermek) + Schuld (suç) = suçunuzun kaldırılmasını istemek 🙇", "warn": "Birine: bei + Dat.; bir şey için: für + Akk. — Ich entschuldige mich bei dir für die Verspätung."},
+      "A2-616": {"pron": "zih fer-Lİ-ben", "tip": "ver- + lieben (sevmek) = aşka düşmek 💘", "bonus": "in + Akk. ile: Sie hat sich in ihn verliebt."},
+      "B1-903": {"pron": "zih LANG-vay-len", "tip": "lang (uzun) + Weile (süre) = zaman çoook uzun geliyor 🥱", "warn": "Mir ist langweilig. = Sıkıldım · Ich bin langweilig. = Ben sıkıcıyım!"}
+    },
+    "culture": [
+      "Almanlar sich freuen'i sürekli kullanır. ‘Ich freue mich auf Ihre Antwort.’ (Yanıtınızı bekliyorum) iş e-postalarını bitirmenin çok yaygın bir yoludur; bir daveti sevinçle kabul etmek için de basitçe ‘Ich freue mich!’ denir.",
+      "En bilinen Alman masa oyunlarından birinin adı ‘Mensch ärgere dich nicht’ — kabaca ‘Hey, sinirlenme’. Taşınız vurulunca başa döner, yani adına rağmen herkes sonunda sinirlenir. 😄",
+      "Sokakta birinin dikkatini çekmek için ‘Entschuldigung!’ diye başlamanız yeterli. Özür dilemek ve yol istemek için de işe yarar."
+    ],
+    "quiz": {"q": "Bir arkadaşınız sizi cumartesi doğum günü partisine davet etti. Dört gözle beklediğinizi nasıl söylersiniz?", "o": ["Ich freue mich auf Samstag!", "Ich ärgere mich über Samstag!", "Ich langweile mich am Samstag!"], "a": 0, "why": "sich freuen auf + Akk. = yaklaşan bir şeyi dört gözle beklemek."},
+    "outro": "Gününüzü dönüşlü fiillerle anlatın: Ich habe mich beeilt, ich habe mich geärgert, jetzt ruhe ich mich aus! 🪞"
   }
 }

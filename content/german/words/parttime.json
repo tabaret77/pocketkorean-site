@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "店長に「Kannst du am Samstag die Nachtschicht übernehmen?」と聞かれました。いつ働くことになりますか？", "o": ["in der Nacht", "am Morgen", "am Nachmittag"], "a": 0, "why": "Nachtschicht は夜（Nacht）に働くシフトのことです。"},
     "outro": "今日は「Ich suche einen Nebenjob.」を面接のつもりで声に出してみましょう。いいバイトに出会えますように！🍀"
+  },
+  "tr": {
+    "title": "Almanya'da ek iş mi arıyorsunuz? Bu 10 kelimeyle başlayın",
+    "hook": "Kafe kapısındaki o ‘Aushilfe gesucht’ tabelası mı? O bir iş ilanı; belki de sizin için.",
+    "intro": [
+      "Almanya'da okuyorsanız ya da working holiday ile buradaysanız er geç yarı zamanlı bir iş ararsınız. Fırının kapısında bir not var; mülakatta da insanlar saatlerden, vardiyalardan ve ücretten bahsetmeye başlıyor. Kelimeleri bilmeyince sadece başınızı sallayıp ‘Ja’ diyorsunuz.",
+      "Bugünkü 10 kelime yarı zamanlı işler ve mini işlerle ilgili. İş ilanlarını okuyabilecek, sözleşme türünü anlayabilecek, vardiyalardan konuşabilecek ve ücreti güvenle sorabileceksiniz. 💼"
+    ],
+    "words": {
+      "B1-1242": {"pron": "TAYL-tsayt", "tip": "Teil (parça) + Zeit (zaman) = zamanın bir parçasında çalışmak ⏰ Zıttı Vollzeit.", "bonus": "in Teilzeit arbeiten = yarı zamanlı çalışmak"},
+      "B2-449": {"pron": "Mİ-ni-cop", "tip": "Kelimesi kelimesine mini iş 🧩 İngilizce görünüyor ama Almanya uydurmuş.", "warn": "İngilizce konuşanlar bilmez. Kazanç sınırı olan bir Alman iş türü demek."},
+      "B2-450": {"pron": "NE-ben-cop", "tip": "neben (yanında) + Job = asıl işinizin yanındaki iş 👜 Okumak gibi.", "bonus": "yan iş olarak, ek olarak = nebenberuflich"},
+      "B1-2039": {"pron": "CO-ben", "tip": "Job'a -en ekleyin, fiil hazır 🛠️ Gündelik ve geçici bir his verir.", "warn": "Gerçek bir kariyer için değil. Onun için arbeiten kullanın."},
+      "B1-475": {"pron": "AUS-hil-fe", "tip": "aus + Hilfe (yardım) = yardıma gelen kişi 🙋 ‘Aushilfe gesucht’ = eleman aranıyor!", "bonus": "Fiili: aushelfen = yardım etmek, el uzatmak"},
+      "C1-3037": {"pron": "ŞİHT", "tip": "Gün, bir pasta gibi katmanlara dilimlenmiş 🍰 Frühschicht, Spätschicht, Nachtschicht.", "warn": "‘Katman’ ve ‘sosyal sınıf’ anlamlarına da gelir. Hangisi olduğunu bağlam söyler."},
+      "B2-438": {"pron": "MİN-dest-lon", "tip": "mindestens (en az) + Lohn (ücret) = size ödenebilecek en düşük ücret 💶", "bonus": "Ücret (saatlik/haftalık) = der Lohn; maaş = das Gehalt"},
+      "A2-067": {"pron": "fer-Dİ-nen", "tip": "dienen (hizmet etmek) fiilinden 💰 Hizmet edersiniz, kazanırsınız.", "bonus": "Das hast du dir verdient! = Bunu hak ettin!"},
+      "A2-655": {"pron": "KEL-ner", "tip": "Aslında Keller'den (mahzen) sorumlu adamdı 🍷 Masalara servis yapmak için yukarı terfi etti!", "bonus": "Kadın garson die Kellnerin. Seslenmek için sadece ‘Entschuldigung!’ deyin."},
+      "B1-1717": {"pron": "NAHT-şiht", "tip": "Nacht (gece) + Schicht (vardiya) = gece vardiyası 🌙 Kahvenizi alın.", "bonus": "Sabah vardiyası = die Frühschicht, akşam vardiyası = die Spätschicht"}
+    },
+    "culture": [
+      "Almanlar öğrenci işlerinden bahsederken Minijob sık sık geçer. Aylık kazanç sınırı olan bir iştir ve vergi ile sigorta tarafı basit tutulur. Sınır değişebilir, bu yüzden imzalamadan önce güncel kurallara bakın.",
+      "Pek çok üniversite öğrencisi okuduğu bölümle ilgili bir şirkette Werkstudent olarak da çalışır. Uluslararası öğrencilerin oturma iznine bağlı olarak ne kadar çalışabilecekleri konusunda sınırları olabilir; önceden kontrol etmekte fayda var.",
+      "Kafe ve restoranlarda bahşiş (Trinkgeld) güzel bir ek gelirdir. Çalışanların bunu nasıl paylaştığı mekâna göre değişir; ilk gününüzde sorun! 💶"
+    ],
+    "quiz": {"q": "Patronunuz soruyor: ‘Kannst du am Samstag die Nachtschicht übernehmen?’ Ne zaman çalışacaksınız?", "o": ["in der Nacht", "am Morgen", "am Nachmittag"], "a": 0, "why": "Nachtschicht gece (Nacht) yapılan vardiyadır."},
+    "outro": "Bugün mülakattaymış gibi yüksek sesle ‘Ich suche einen Nebenjob.’ deyin. İş aramada bol şans! 🍀"
   }
 }

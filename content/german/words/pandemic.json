@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "同僚がひどく咳をしながら出社してきました。何と言いますか？", "o": ["Ich habe mich impfen lassen.", "Bleib lieber zu Hause – das ist bestimmt ansteckend!", "Die Maske ist im Museum."], "a": 1, "why": "ansteckend = うつりやすい。「家にいたほうがいいよ、きっとうつるから！」という意味です。"},
     "outro": "今日は手を洗うたびに Hygiene ist wichtig! と声に出してみましょう。みなさん元気で、Gesundheit! 🧼"
+  },
+  "tr": {
+    "title": "Hijyen ve enfeksiyon: Haberlerden 10 Almanca kelime",
+    "hook": "Bir zamanlar Alman haberlerinde her gün geçen o kelimeleri artık anında anlayın.",
+    "intro": [
+      "Ofiste meslektaşınız durmadan öksürüyor. Biri şaka yapıyor: „Pass auf, das ist bestimmt ansteckend!“ Akşam haberlerinde grip aşılarıyla ilgili bir haber var. Çoğunu anlıyorsunuz ama birkaç kelime sizi hep tökezletiyor.",
+      "Bugünkü 10 kelime tamamen enfeksiyon ve hijyenle ilgili. Bunlarla haberleri takip edebilir, doktorda aşıları sorabilir ve bir meslektaşınızı bir şeyin bulaşıcı olduğu konusunda uyarabilirsiniz. Ellerinizi yıkayın ve başlayalım! 🧼"
+    ],
+    "words": {
+      "B2-1092": {"pron": "pan-de-Mİ", "tip": "Yunanca pan (bütün) + dēmos (halk) = herkese ulaşan hastalık 🌍 -ie ile biten isimlerin çoğu die!", "bonus": "Yerel bir salgın die Epidemie."},
+      "B1-1367": {"pron": "Vİ-rus", "tip": "Latincede ‘zehir’ 🦠 Türkçedeki virüs ile neredeyse aynı.", "warn": "Resmî olarak das Virus, ama konuşmada der Virus da yaygın. Çoğulu: die Viren!"},
+      "B1-800": {"pron": "in-fek-TSYON", "tip": "Türkçedeki enfeksiyon'a çok benziyor 🧫 -tion ile biten isimler her zaman die!", "bonus": "Sıfatı: infiziert (enfekte) · Ich bin infiziert."},
+      "B2-1094": {"pron": "zih AN-ştek-ken", "tip": "an (üstüne) + stecken (takmak) = hastalık üstünüze yapışır 📌", "warn": "Kimden kaptığınız bei ile söylenir: Ich habe mich bei meinem Sohn angesteckt."},
+      "B2-1093": {"pron": "AN-ştek-kent", "tip": "anstecken'in -end hâli = bulaşıcı 🤧 Kahkaha için de geçerli!", "bonus": "Lachen ist ansteckend. = Gülmek bulaşıcıdır."},
+      "A2-863": {"pron": "MAS-ke", "tip": "Türkçedeki maske ile aynı 😷 Karnaval maskesi de bir Maske!", "bonus": "maske takmak = eine Maske tragen"},
+      "B2-1084": {"pron": "İMP-funk", "tip": "impfen + -ung = aşılama 💉 -ung her zaman die!", "bonus": "sarı aşı kartı = der Impfpass"},
+      "B2-1085": {"pron": "İMP-fen", "tip": "Eskiden bir ağaca ‘aşı yapmak’ demekti 🌳 Türkçedeki aşı da öyle! Şimdi vücudunuza koruma aşılıyorsunuz.", "warn": "‘Aşı olmak’ sich impfen lassen'dir: Ich lasse mich impfen."},
+      "B2-1154": {"pron": "ka-ran-TE-ne", "tip": "İtalyanca quaranta giorni (kırk gün) kelimesinden 🏠 Burada Qu, k gibi okunur; Türkçedeki karantina ile aynı!", "bonus": "karantinada olmak = in Quarantäne sein"},
+      "B2-1152": {"pron": "hü-GYE-ne", "tip": "Yunan sağlık tanrıçası Hygieia'dan 🧼 y, Türkçedeki ü gibi okunur.", "bonus": "Sıfatı: hygienisch (hijyenik)"}
+    },
+    "culture": [
+      "Çok Alman bir hijyen alışkanlığı odaları havalandırmaktır (Lüften). Kışın bile pek çok evde pencereler günde birkaç kez birkaç dakikalığına ardına kadar açılır; buna Stoßlüften denir.",
+      "Öksürürken ya da hapşırırken elinize değil, dirseğinizin içine (Armbeuge) yapmak görgü kuralıdır. Biri hapşırdığında da pek çok kişi „Gesundheit!“ der; Türkçedeki ‘Çok yaşa!’ gibi.",
+      "Almanya'da sarı bir aşı kartı (Impfpass) kullanılır ve doktora giderken yanınıza almanız işe yarar. Yurt dışından taşındıysanız eski aşı kayıtlarınızı da getirin. 💉"
+    ],
+    "quiz": {"q": "Bir meslektaşınız işe çok kötü öksürerek geliyor. Ne dersiniz?", "o": ["Ich habe mich impfen lassen.", "Bleib lieber zu Hause – das ist bestimmt ansteckend!", "Die Maske ist im Museum."], "a": 1, "why": "ansteckend = bulaşıcı: ‘En iyisi evde kal, bu kesin bulaşıcı!’"},
+    "outro": "Bugün ellerinizi her yıkadığınızda yüksek sesle Hygiene ist wichtig! deyin. Sağlıcakla kalın, Gesundheit! 🧼"
   }
 }

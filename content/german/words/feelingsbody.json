@@ -8,22 +8,71 @@
       "오늘은 몸 상태를 말하는 단어 10개예요. 피곤하다, 배부르다, 춥다, 속이 안 좋다까지 솔직하게 말할 수 있게 될 거예요. 말할 수 있어야 챙겨 줄 수도 있으니까요. 😴"
     ],
     "words": {
-      "A1-198": {"pron": "뮈데", "tip": "‘뮈~데’ 하고 하품하듯 늘어지는 소리 🥱", "bonus": "피곤해 보여 = Du siehst müde aus."},
-      "A2-386": {"pron": "바흐", "tip": "영어 awake와 같은 뿌리 👀 아직 안 자? = Bist du noch wach?", "bonus": "잠에서 깨다 = aufwachen"},
-      "B1-794": {"pron": "훙리히", "tip": "영어 hungry랑 쌍둥이 🍔 Hunger + -ig = 배고픈", "bonus": "회화에서는 보통 Ich habe Hunger. 라고 해요."},
-      "B1-590": {"pron": "두르스티히", "tip": "영어 thirsty와 친척 🥤 Durst + -ig = 목마른", "bonus": "회화에서는 Ich habe Durst. 가 더 자연스러워요."},
-      "B1-1093": {"pron": "자트", "tip": "영어 satisfied의 sat! 배가 만족했어요 😋", "warn": "Ich bin voll. 이라고 하면 ‘나 취했어’로 들릴 수 있어요. 배부를 땐 Ich bin satt."},
-      "B1-316": {"pron": "프리렌", "tip": "영어 freeze와 같은 뿌리 🥶 Ich friere. = 나 추워!", "bonus": "같은 뜻: Mir ist kalt."},
-      "A2-380": {"pron": "슈바흐", "tip": "‘슈바흐~’ 하고 힘이 빠지는 소리 🫠", "bonus": "반대말은 stark(강한) · 약점은 die Schwäche"},
-      "B1-644": {"pron": "에어쇱프트", "tip": "schöpfen(물을 퍼내다) → 에너지를 다 퍼내 버린 상태 🪫", "bonus": "müde보다 훨씬 센 말이에요: völlig erschöpft = 완전 녹초"},
-      "B1-525": {"pron": "블라스", "tip": "얼굴에서 색이 ‘블라스’ 빠져나간 느낌 😶", "bonus": "아파 보일 때: Du bist so blass, geht es dir nicht gut?"},
-      "B1-1699": {"pron": "위벨", "tip": "영어 evil과 같은 뿌리 🤢 속이 ‘악’하게 뒤집히는 느낌!", "warn": "사람은 3격으로 말해요: Mir ist übel. (Ich bin übel ✗)"}
+      "A1-198": {
+        "pron": "뮈데",
+        "tip": "‘뮈~데’ 하고 하품하듯 늘어지는 소리 🥱",
+        "bonus": "피곤해 보여 = Du siehst müde aus."
+      },
+      "A2-386": {
+        "pron": "바흐",
+        "tip": "영어 awake와 같은 뿌리 👀 아직 안 자? = Bist du noch wach?",
+        "bonus": "잠에서 깨다 = aufwachen"
+      },
+      "B1-794": {
+        "pron": "훙리히",
+        "tip": "영어 hungry랑 쌍둥이 🍔 Hunger + -ig = 배고픈",
+        "bonus": "회화에서는 보통 Ich habe Hunger. 라고 해요."
+      },
+      "B1-590": {
+        "pron": "두르스티히",
+        "tip": "영어 thirsty와 친척 🥤 Durst + -ig = 목마른",
+        "bonus": "회화에서는 Ich habe Durst. 가 더 자연스러워요."
+      },
+      "B1-1093": {
+        "pron": "자트",
+        "tip": "영어 satisfied의 sat! 배가 만족했어요 😋",
+        "warn": "Ich bin voll. 이라고 하면 ‘나 취했어’로 들릴 수 있어요. 배부를 땐 Ich bin satt."
+      },
+      "B1-316": {
+        "pron": "프리렌",
+        "tip": "영어 freeze와 같은 뿌리 🥶 Ich friere. = 나 추워!",
+        "bonus": "같은 뜻: Mir ist kalt."
+      },
+      "A2-380": {
+        "pron": "슈바흐",
+        "tip": "‘슈바흐~’ 하고 힘이 빠지는 소리 🫠",
+        "bonus": "반대말은 stark(강한) · 약점은 die Schwäche"
+      },
+      "B1-644": {
+        "pron": "에어쇱프트",
+        "tip": "schöpfen(물을 퍼내다) → 에너지를 다 퍼내 버린 상태 🪫",
+        "bonus": "müde보다 훨씬 센 말이에요: völlig erschöpft = 완전 녹초"
+      },
+      "B1-525": {
+        "pron": "블라스",
+        "tip": "얼굴에서 색이 ‘블라스’ 빠져나간 느낌 😶",
+        "bonus": "아파 보일 때: Du bist so blass, geht es dir nicht gut?"
+      },
+      "B1-1699": {
+        "pron": "위벨",
+        "tip": "영어 evil과 같은 뿌리 🤢 속이 ‘악’하게 뒤집히는 느낌!",
+        "warn": "사람은 3격으로 말해요: Mir ist übel. (Ich bin übel ✗)"
+      }
     },
     "culture": [
       "독일어로 몸 상태를 말할 때는 ‘나에게(mir)’로 시작하는 표현이 많아요. Mir ist kalt(추워), Mir ist übel(속이 안 좋아), Mir ist schwindelig(어지러워)처럼요. Ich bin kalt라고 하면 ‘나는 차가운 사람이야’처럼 들릴 수 있어요.",
       "그리고 독일 사람들은 어지럽거나 기운이 없을 때 “Ich habe Kreislaufprobleme.”(혈액순환이 안 좋아)라고 자주 말해요. 처음 들으면 큰 병 같지만, 덥거나 피곤해서 살짝 어지러운 정도에도 흔히 쓰는 말이에요. 😴"
     ],
-    "quiz": {"q": "친구 집에서 저녁을 맛있게 먹었는데, 더 먹으라고 권해요. 정중하게 사양하려면?", "o": ["Ich friere.", "Ich bin so müde.", "Danke, ich bin schon satt."], "a": 2, "why": "Danke, ich bin schon satt. = 고마워요, 이미 배불러요. 음식을 사양할 때 딱 맞는 말이에요."},
+    "quiz": {
+      "q": "친구 집에서 저녁을 맛있게 먹었는데, 더 먹으라고 권해요. 정중하게 사양하려면?",
+      "o": [
+        "Ich friere.",
+        "Ich bin so müde.",
+        "Danke, ich bin schon satt."
+      ],
+      "a": 2,
+      "why": "Danke, ich bin schon satt. = 고마워요, 이미 배불러요. 음식을 사양할 때 딱 맞는 말이에요."
+    },
     "outro": "자기 전에 오늘 몸 상태를 독일어 한 문장으로 말해 봐요. Ich bin müde, aber satt! 처럼요. 🌙"
   },
   "en": {
@@ -34,22 +83,71 @@
       "Today's ten words are for saying how your body feels. Tired, full, cold, a bit sick — you'll be able to say it honestly. After all, people can only look after you if you can tell them. 😴"
     ],
     "words": {
-      "A1-198": {"pron": "MUE-duh", "tip": "Say it slowly, like a yawn: ‘MUEEE-duh’ 🥱", "bonus": "You look tired = Du siehst müde aus."},
-      "A2-386": {"pron": "VAHKH", "tip": "Same root as English awake 👀 Still up? = Bist du noch wach?", "bonus": "to wake up = aufwachen"},
-      "B1-794": {"pron": "HOONG-rikh", "tip": "English hungry's twin 🍔 Hunger + -ig = hungry", "bonus": "In speech people usually say Ich habe Hunger."},
-      "B1-590": {"pron": "DOOR-stikh", "tip": "A cousin of English thirsty 🥤 Durst + -ig = thirsty", "bonus": "Ich habe Durst. sounds more natural in conversation."},
-      "B1-1093": {"pron": "ZAHT", "tip": "The sat in satisfied — your stomach is satisfied 😋", "warn": "Don't say Ich bin voll. It can mean ‘I'm drunk’. When you're full, say Ich bin satt."},
-      "B1-316": {"pron": "FREE-ren", "tip": "Same root as English freeze 🥶 Ich friere. = I'm freezing!", "bonus": "Same meaning: Mir ist kalt."},
-      "A2-380": {"pron": "SHVAHKH", "tip": "Sounds like all your energy whooshing out 🫠", "bonus": "opposite: stark (strong) · a weakness: die Schwäche"},
-      "B1-644": {"pron": "air-SHERPFT", "tip": "From schöpfen (to scoop out): all your energy has been scooped out 🪫", "bonus": "Much stronger than müde: völlig erschöpft = completely worn out"},
-      "B1-525": {"pron": "BLAHSS", "tip": "All the colour has drained from your face 😶", "bonus": "When someone looks ill: Du bist so blass, geht es dir nicht gut?"},
-      "B1-1699": {"pron": "UE-bel", "tip": "Same root as English evil — an evil feeling in your stomach 🤢", "warn": "Use the dative for people: Mir ist übel. (not Ich bin übel)"}
+      "A1-198": {
+        "pron": "MUE-duh",
+        "tip": "Say it slowly, like a yawn: ‘MUEEE-duh’ 🥱",
+        "bonus": "You look tired = Du siehst müde aus."
+      },
+      "A2-386": {
+        "pron": "VAHKH",
+        "tip": "Same root as English awake 👀 Still up? = Bist du noch wach?",
+        "bonus": "to wake up = aufwachen"
+      },
+      "B1-794": {
+        "pron": "HOONG-rikh",
+        "tip": "English hungry's twin 🍔 Hunger + -ig = hungry",
+        "bonus": "In speech people usually say Ich habe Hunger."
+      },
+      "B1-590": {
+        "pron": "DOOR-stikh",
+        "tip": "A cousin of English thirsty 🥤 Durst + -ig = thirsty",
+        "bonus": "Ich habe Durst. sounds more natural in conversation."
+      },
+      "B1-1093": {
+        "pron": "ZAHT",
+        "tip": "The sat in satisfied — your stomach is satisfied 😋",
+        "warn": "Don't say Ich bin voll. It can mean ‘I'm drunk’. When you're full, say Ich bin satt."
+      },
+      "B1-316": {
+        "pron": "FREE-ren",
+        "tip": "Same root as English freeze 🥶 Ich friere. = I'm freezing!",
+        "bonus": "Same meaning: Mir ist kalt."
+      },
+      "A2-380": {
+        "pron": "SHVAHKH",
+        "tip": "Sounds like all your energy whooshing out 🫠",
+        "bonus": "opposite: stark (strong) · a weakness: die Schwäche"
+      },
+      "B1-644": {
+        "pron": "air-SHERPFT",
+        "tip": "From schöpfen (to scoop out): all your energy has been scooped out 🪫",
+        "bonus": "Much stronger than müde: völlig erschöpft = completely worn out"
+      },
+      "B1-525": {
+        "pron": "BLAHSS",
+        "tip": "All the colour has drained from your face 😶",
+        "bonus": "When someone looks ill: Du bist so blass, geht es dir nicht gut?"
+      },
+      "B1-1699": {
+        "pron": "UE-bel",
+        "tip": "Same root as English evil — an evil feeling in your stomach 🤢",
+        "warn": "Use the dative for people: Mir ist übel. (not Ich bin übel)"
+      }
     },
     "culture": [
       "Lots of German ‘how I feel’ phrases start with mir (to me): Mir ist kalt (I'm cold), Mir ist übel (I feel sick), Mir ist schwindelig (I feel dizzy). Ich bin kalt can sound like ‘I'm a cold person’.",
       "Germans also often blame their Kreislauf (circulation) when they feel dizzy or weak: “Ich habe Kreislaufprobleme.” It sounds dramatic at first, but people say it for a mild wobbly feeling on a hot day or after too little sleep. 😴"
     ],
-    "quiz": {"q": "You've had a lovely dinner at a friend's and they offer you more. How do you politely say no?", "o": ["Ich friere.", "Ich bin so müde.", "Danke, ich bin schon satt."], "a": 2, "why": "Danke, ich bin schon satt. = Thanks, I'm already full. The perfect way to turn down more food."},
+    "quiz": {
+      "q": "You've had a lovely dinner at a friend's and they offer you more. How do you politely say no?",
+      "o": [
+        "Ich friere.",
+        "Ich bin so müde.",
+        "Danke, ich bin schon satt."
+      ],
+      "a": 2,
+      "why": "Danke, ich bin schon satt. = Thanks, I'm already full. The perfect way to turn down more food."
+    },
     "outro": "Before bed, sum up how you feel today in one German sentence — like Ich bin müde, aber satt! 🌙"
   },
   "ja": {
@@ -60,22 +158,146 @@
       "今日は体調を伝える単語を10個集めました。眠い、おなかいっぱい、寒い、気持ち悪いまで、正直に言えるようになります。言えれば、周りの人も気づかってくれますからね。😴"
     ],
     "words": {
-      "A1-198": {"pron": "ミューデ", "tip": "「ミュ〜デ」とあくびのように伸ばして 🥱", "bonus": "疲れてるみたい = Du siehst müde aus."},
-      "A2-386": {"pron": "ヴァッハ", "tip": "英語の awake と同じ語源 👀 まだ起きてる？= Bist du noch wach?", "bonus": "目が覚める = aufwachen"},
-      "B1-794": {"pron": "フングリヒ", "tip": "英語の hungry と双子 🍔 Hunger + -ig = おなかがすいた", "bonus": "会話ではふつう Ich habe Hunger. と言います。"},
-      "B1-590": {"pron": "ドゥルスティヒ", "tip": "英語の thirsty の親戚 🥤 Durst + -ig = のどが渇いた", "bonus": "会話では Ich habe Durst. のほうが自然です。"},
-      "B1-1093": {"pron": "ザット", "tip": "英語 satisfied の sat！おなかが満足しています 😋", "warn": "Ich bin voll. と言うと「酔っぱらった」に聞こえることがあります。満腹なら Ich bin satt."},
-      "B1-316": {"pron": "フリーレン", "tip": "英語の freeze と同じ語源 🥶 Ich friere. = 寒い！", "bonus": "同じ意味：Mir ist kalt."},
-      "A2-380": {"pron": "シュヴァッハ", "tip": "「シュヴァッ」と力が抜けていく音 🫠", "bonus": "反対は stark（強い）・弱点は die Schwäche"},
-      "B1-644": {"pron": "エアシェプフト", "tip": "schöpfen（くみ出す）→ エネルギーを全部くみ出した状態 🪫", "bonus": "müde よりずっと強い言葉：völlig erschöpft = もうへとへと"},
-      "B1-525": {"pron": "ブラス", "tip": "顔から色がすーっと抜けた感じ 😶", "bonus": "具合が悪そうな人に：Du bist so blass, geht es dir nicht gut?"},
-      "B1-1699": {"pron": "ユーベル", "tip": "英語の evil と同じ語源 🤢 おなかの中で悪者が暴れている感じ！", "warn": "人は3格で言います：Mir ist übel.（Ich bin übel ✗）"}
+      "A1-198": {
+        "pron": "ミューデ",
+        "tip": "「ミュ〜デ」とあくびのように伸ばして 🥱",
+        "bonus": "疲れてるみたい = Du siehst müde aus."
+      },
+      "A2-386": {
+        "pron": "ヴァッハ",
+        "tip": "英語の awake と同じ語源 👀 まだ起きてる？= Bist du noch wach?",
+        "bonus": "目が覚める = aufwachen"
+      },
+      "B1-794": {
+        "pron": "フングリヒ",
+        "tip": "英語の hungry と双子 🍔 Hunger + -ig = おなかがすいた",
+        "bonus": "会話ではふつう Ich habe Hunger. と言います。"
+      },
+      "B1-590": {
+        "pron": "ドゥルスティヒ",
+        "tip": "英語の thirsty の親戚 🥤 Durst + -ig = のどが渇いた",
+        "bonus": "会話では Ich habe Durst. のほうが自然です。"
+      },
+      "B1-1093": {
+        "pron": "ザット",
+        "tip": "英語 satisfied の sat！おなかが満足しています 😋",
+        "warn": "Ich bin voll. と言うと「酔っぱらった」に聞こえることがあります。満腹なら Ich bin satt."
+      },
+      "B1-316": {
+        "pron": "フリーレン",
+        "tip": "英語の freeze と同じ語源 🥶 Ich friere. = 寒い！",
+        "bonus": "同じ意味：Mir ist kalt."
+      },
+      "A2-380": {
+        "pron": "シュヴァッハ",
+        "tip": "「シュヴァッ」と力が抜けていく音 🫠",
+        "bonus": "反対は stark（強い）・弱点は die Schwäche"
+      },
+      "B1-644": {
+        "pron": "エアシェプフト",
+        "tip": "schöpfen（くみ出す）→ エネルギーを全部くみ出した状態 🪫",
+        "bonus": "müde よりずっと強い言葉：völlig erschöpft = もうへとへと"
+      },
+      "B1-525": {
+        "pron": "ブラス",
+        "tip": "顔から色がすーっと抜けた感じ 😶",
+        "bonus": "具合が悪そうな人に：Du bist so blass, geht es dir nicht gut?"
+      },
+      "B1-1699": {
+        "pron": "ユーベル",
+        "tip": "英語の evil と同じ語源 🤢 おなかの中で悪者が暴れている感じ！",
+        "warn": "人は3格で言います：Mir ist übel.（Ich bin übel ✗）"
+      }
     },
     "culture": [
       "ドイツ語で体調を言うときは、「私に（mir）」で始まる表現がたくさんあります。Mir ist kalt（寒い）、Mir ist übel（気持ち悪い）、Mir ist schwindelig（めまいがする）など。Ich bin kalt と言うと「私は冷たい人間です」のように聞こえることがあります。",
       "また、ドイツの人はめまいや力が出ないとき、よく「Ich habe Kreislaufprobleme.（血の巡りが悪い）」と言います。初めて聞くと大げさに聞こえますが、暑い日や寝不足でちょっとふらっとする程度でもよく使う表現です。😴"
     ],
-    "quiz": {"q": "友だちの家でおいしい夕食をいただいたあと、おかわりをすすめられました。丁寧に断るには？", "o": ["Ich friere.", "Ich bin so müde.", "Danke, ich bin schon satt."], "a": 2, "why": "Danke, ich bin schon satt. =「ありがとう、もうおなかいっぱいです」。食べ物を断るときにぴったりの一言です。"},
+    "quiz": {
+      "q": "友だちの家でおいしい夕食をいただいたあと、おかわりをすすめられました。丁寧に断るには？",
+      "o": [
+        "Ich friere.",
+        "Ich bin so müde.",
+        "Danke, ich bin schon satt."
+      ],
+      "a": 2,
+      "why": "Danke, ich bin schon satt. =「ありがとう、もうおなかいっぱいです」。食べ物を断るときにぴったりの一言です。"
+    },
     "outro": "寝る前に、今日の体調をドイツ語ひとことで言ってみましょう。Ich bin müde, aber satt! のように。🌙"
+  },
+  "tr": {
+    "title": "Yorgun, aç, buz gibi: Bedeninizin hâlini anlatan 10 Almanca kelime",
+    "hook": "Biri nasıl olduğunuzu sorduğunda hiç “Gut!”ten fazlasını söylediniz mi?",
+    "intro": [
+      "İşten eve geç geliyorum ve Alman ev arkadaşım soruyor: “Du bist so blass. Alles okay?” Açım, üşüyorum ve tamamen bitkinim… ama ağzımdan çıkan tek şey “Gut, danke.”",
+      "Bugünkü on kelime bedeninizin nasıl hissettiğini söylemek için. Yorgun, tok, üşümüş, biraz rahatsız; hepsini dürüstçe söyleyebileceksiniz. Ne de olsa insanlar ancak söylerseniz sizinle ilgilenebilir. 😴"
+    ],
+    "words": {
+      "A1-198": {
+        "pron": "MÜ-de",
+        "tip": "Esner gibi yavaşça söyleyin: ‘MÜÜÜ-de’ 🥱",
+        "bonus": "Yorgun görünüyorsun = Du siehst müde aus."
+      },
+      "A2-386": {
+        "pron": "VAH",
+        "tip": "İngilizce awake ile aynı kökten 👀 Hâlâ uyanık mısın? = Bist du noch wach?",
+        "bonus": "uyanmak = aufwachen"
+      },
+      "B1-794": {
+        "pron": "HUN-grih",
+        "tip": "İngilizce hungry'nin ikizi 🍔 Hunger + -ig = aç",
+        "bonus": "Konuşmada genellikle Ich habe Hunger. denir."
+      },
+      "B1-590": {
+        "pron": "DURS-tih",
+        "tip": "İngilizce thirsty'nin kuzeni 🥤 Durst + -ig = susamış",
+        "bonus": "Sohbette Ich habe Durst. daha doğal duyulur."
+      },
+      "B1-1093": {
+        "pron": "ZAT",
+        "tip": "İngilizce satisfied'daki sat; mideniz memnun 😋",
+        "warn": "Ich bin voll. demeyin; ‘sarhoşum’ anlamına gelebilir. Doyduğunuzda Ich bin satt. deyin."
+      },
+      "B1-316": {
+        "pron": "FRİ-ren",
+        "tip": "İngilizce freeze ile aynı kökten 🥶 Ich friere. = Donuyorum!",
+        "bonus": "Aynı anlamda: Mir ist kalt."
+      },
+      "A2-380": {
+        "pron": "ŞVAH",
+        "tip": "Bütün enerjinizin “şvahh” diye uçup gittiği bir ses gibi 🫠",
+        "bonus": "zıttı: stark (güçlü) · zayıflık: die Schwäche"
+      },
+      "B1-644": {
+        "pron": "er-ŞÖPFT",
+        "tip": "schöpfen (kepçeyle boşaltmak) fiilinden: bütün enerjiniz kepçeyle boşaltılmış 🪫",
+        "bonus": "müde'den çok daha güçlü: völlig erschöpft = tamamen bitkin"
+      },
+      "B1-525": {
+        "pron": "BLAS",
+        "tip": "Yüzünüzün bütün rengi çekilmiş 😶",
+        "bonus": "Biri hasta görünüyorsa: Du bist so blass, geht es dir nicht gut?"
+      },
+      "B1-1699": {
+        "pron": "Ü-bel",
+        "tip": "İngilizce evil ile aynı kökten; midenizde kötü bir his 🤢",
+        "warn": "Kişi için datif kullanılır: Mir ist übel. (Ich bin übel değil)"
+      }
+    },
+    "culture": [
+      "Almancadaki pek çok ‘nasıl hissediyorum’ ifadesi mir (bana) ile başlar, tıpkı Türkçedeki “midem bulanıyor” gibi kişi özne olmaz: Mir ist kalt (üşüyorum), Mir ist übel (midem bulanıyor), Mir ist schwindelig (başım dönüyor). Ich bin kalt ise ‘ben soğuk bir insanım’ gibi anlaşılabilir.",
+      "Almanlar başları döndüğünde ya da halsiz hissettiklerinde çoğu zaman Kreislauf'u (dolaşımı) suçlar: “Ich habe Kreislaufprobleme.” İlk duyduğunuzda dramatik gelir, ama insanlar bunu sıcak bir günde ya da az uyuduktan sonraki hafif bir halsizlik için de söyler. 😴"
+    ],
+    "quiz": {
+      "q": "Bir arkadaşınızda güzel bir akşam yemeği yediniz ve size daha fazla ikram ediyor. Kibarca nasıl reddedersiniz?",
+      "o": [
+        "Ich friere.",
+        "Ich bin so müde.",
+        "Danke, ich bin schon satt."
+      ],
+      "a": 2,
+      "why": "Danke, ich bin schon satt. = Teşekkürler, doydum bile. İkramı geri çevirmenin en güzel yolu."
+    },
+    "outro": "Yatmadan önce bugün nasıl hissettiğinizi tek bir Almanca cümleyle özetleyin; örneğin Ich bin müde, aber satt! 🌙"
   }
 }

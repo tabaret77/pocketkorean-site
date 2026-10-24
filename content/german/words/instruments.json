@@ -8,23 +8,69 @@
       "오늘은 악기 이름과 연주, 연습에 관한 단어 10개를 모았어요. 내가 어떤 악기를 하는지, 얼마나 연습하는지 독일어로 자연스럽게 말할 수 있게 될 거예요. 🎸"
     ],
     "words": {
-      "A2-488": {"pron": "인스트루멘트", "tip": "영어 instrument와 철자까지 똑같아요 🎻 발음만 독일식으로 ‘인스트루멘트’!", "warn": "독일어에선 das예요. 복수는 die Instrumente."},
-      "A1-067": {"pron": "슈필렌", "tip": "영어 play처럼 놀이도, 운동도, 악기도 전부 spielen 🎮", "bonus": "Fußball spielen, Klavier spielen, Karten spielen 다 같은 동사예요."},
-      "A2-496": {"pron": "클라비어", "tip": "라틴어 clavis(열쇠) → 건반이 열쇠처럼 줄줄이 🎹", "warn": "Klavier spielen처럼 관사 없이 말해요."},
-      "A2-476": {"pron": "기타레", "tip": "영어 guitar에 -e 하나 붙이면 끝 🎸 강세는 ‘타’에!"},
-      "B1-1575": {"pron": "가이게", "tip": "‘가이게~’ 하고 끽끽 우는 바이올린 소리 🎻", "bonus": "die erste Geige spielen = 주도권을 쥐다, 대장 노릇 하다"},
-      "B1-687": {"pron": "플뢰테", "tip": "영어 flute와 친척 🪈 ö 발음은 입술을 동그랗게!", "bonus": "학교에서 부는 리코더는 die Blockflöte"},
-      "B1-2088": {"pron": "슐라크초이크", "tip": "schlagen(치다) + Zeug(도구) = 두드리는 도구 세트 🥁", "bonus": "드러머는 der Schlagzeuger · die Schlagzeugerin"},
-      "B2-3200": {"pron": "트롬페테", "tip": "영어 trumpet과 거의 같아요 🎺 ‘트롬페~테!’ 하고 크게 불어요."},
-      "A2-342": {"pron": "위벤", "tip": "‘위~’로 올라가는 실력, 매일 üben 하면 돼요 📈", "bonus": "Übung macht den Meister. = 연습이 장인을 만든다."},
-      "B2-3368": {"pron": "오르겔", "tip": "그리스어 organon(도구)에서, 영어 organ과 같은 말 ⛪"}
+      "A2-488": {
+        "pron": "인스트루멘트",
+        "tip": "영어 instrument와 철자까지 똑같아요 🎻 발음만 독일식으로 ‘인스트루멘트’!",
+        "warn": "독일어에선 das예요. 복수는 die Instrumente."
+      },
+      "A1-067": {
+        "pron": "슈필렌",
+        "tip": "영어 play처럼 놀이도, 운동도, 악기도 전부 spielen 🎮",
+        "bonus": "Fußball spielen, Klavier spielen, Karten spielen 다 같은 동사예요."
+      },
+      "A2-496": {
+        "pron": "클라비어",
+        "tip": "라틴어 clavis(열쇠) → 건반이 열쇠처럼 줄줄이 🎹",
+        "warn": "Klavier spielen처럼 관사 없이 말해요."
+      },
+      "A2-476": {
+        "pron": "기타레",
+        "tip": "영어 guitar에 -e 하나 붙이면 끝 🎸 강세는 ‘타’에!"
+      },
+      "B1-1575": {
+        "pron": "가이게",
+        "tip": "‘가이게~’ 하고 끽끽 우는 바이올린 소리 🎻",
+        "bonus": "die erste Geige spielen = 주도권을 쥐다, 대장 노릇 하다"
+      },
+      "B1-687": {
+        "pron": "플뢰테",
+        "tip": "영어 flute와 친척 🪈 ö 발음은 입술을 동그랗게!",
+        "bonus": "학교에서 부는 리코더는 die Blockflöte"
+      },
+      "B1-2088": {
+        "pron": "슐라크초이크",
+        "tip": "schlagen(치다) + Zeug(도구) = 두드리는 도구 세트 🥁",
+        "bonus": "드러머는 der Schlagzeuger · die Schlagzeugerin"
+      },
+      "B2-3200": {
+        "pron": "트롬페테",
+        "tip": "영어 trumpet과 거의 같아요 🎺 ‘트롬페~테!’ 하고 크게 불어요."
+      },
+      "A2-342": {
+        "pron": "위벤",
+        "tip": "‘위~’로 올라가는 실력, 매일 üben 하면 돼요 📈",
+        "bonus": "Übung macht den Meister. = 연습이 장인을 만든다."
+      },
+      "B2-3368": {
+        "pron": "오르겔",
+        "tip": "그리스어 organon(도구)에서, 영어 organ과 같은 말 ⛪"
+      }
     },
     "culture": [
       "독일에서는 많은 아이들이 초등학교에서 리코더(Blockflöte)를 배워요. 그리고 지역마다 음악 학교(Musikschule)가 있어서 아이도 어른도 악기를 배우러 다녀요.",
       "아파트에서 악기를 연습할 때는 조심해야 해요. 많은 건물에는 밤이나 점심, 일요일처럼 조용히 해야 하는 시간(Ruhezeit)이 정해져 있어요. 시간은 건물 규칙(Hausordnung)에 따라 다르니 미리 확인해 보세요.",
       "바흐의 나라답게 교회에서 파이프 오르간 연주회가 자주 열려요. 무료이거나 기부금만 받는 경우도 많으니, 교회 앞 안내판을 한번 살펴보세요. 🎶"
     ],
-    "quiz": {"q": "친구가 “Spielst du ein Instrument?”라고 물어요. 피아노를 친다면 뭐라고 대답할까요?", "o": ["Ja, ich spiele Klavier.", "Ja, ich höre ein Klavier.", "Ja, ich gehe Klavier."], "a": 0, "why": "악기 연주는 spielen + 관사 없는 악기 이름: Ich spiele Klavier."},
+    "quiz": {
+      "q": "친구가 “Spielst du ein Instrument?”라고 물어요. 피아노를 친다면 뭐라고 대답할까요?",
+      "o": [
+        "Ja, ich spiele Klavier.",
+        "Ja, ich höre ein Klavier.",
+        "Ja, ich gehe Klavier."
+      ],
+      "a": 0,
+      "why": "악기 연주는 spielen + 관사 없는 악기 이름: Ich spiele Klavier."
+    },
     "outro": "오늘은 “Ich spiele …”로 내가 할 줄 아는 악기, 아니면 배우고 싶은 악기를 말해 봐요. “Ich möchte Geige lernen.”도 좋아요! 🎵"
   },
   "en": {
@@ -35,23 +81,69 @@
       "Today's ten words are about instruments, playing and practising. You'll be able to say what you play and how often you practise, naturally. 🎸"
     ],
     "words": {
-      "A2-488": {"pron": "in-stroo-MENT", "tip": "Spelled exactly like English 🎻 Just put the stress on the end.", "warn": "It's das in German. Plural: die Instrumente."},
-      "A1-067": {"pron": "SHPEE-len", "tip": "Like play: games, sports and instruments are all spielen 🎮", "bonus": "Fußball spielen, Klavier spielen, Karten spielen — one verb for all."},
-      "A2-496": {"pron": "kla-VEER", "tip": "From Latin clavis (key) — a row of keys 🎹 Think of Bach's clavier.", "warn": "No article when you play: Ich spiele Klavier."},
-      "A2-476": {"pron": "gi-TAR-uh", "tip": "guitar plus an -e 🎸 Stress on the ‘TAR’!"},
-      "B1-1575": {"pron": "GUY-guh", "tip": "A guy playing the Geige 🎻 It's the everyday word for violin.", "bonus": "die erste Geige spielen = to call the shots"},
-      "B1-687": {"pron": "FLUR-tuh", "tip": "Related to flute 🪈 Round your lips for the ö.", "bonus": "The school recorder is die Blockflöte."},
-      "B1-2088": {"pron": "SHLAHK-tsoyk", "tip": "schlagen (to hit) + Zeug (gear) = stuff you hit 🥁", "bonus": "drummer = der Schlagzeuger · die Schlagzeugerin"},
-      "B2-3200": {"pron": "trom-PAY-tuh", "tip": "Almost trumpet 🎺 Blow it loud: trom-PAY-tuh!"},
-      "A2-342": {"pron": "Ü-ben", "tip": "Üben every day and your skills go über the top 📈", "bonus": "Übung macht den Meister. = Practice makes perfect."},
-      "B2-3368": {"pron": "OR-gel", "tip": "From Greek organon (tool), like English organ ⛪"}
+      "A2-488": {
+        "pron": "in-stroo-MENT",
+        "tip": "Spelled exactly like English 🎻 Just put the stress on the end.",
+        "warn": "It's das in German. Plural: die Instrumente."
+      },
+      "A1-067": {
+        "pron": "SHPEE-len",
+        "tip": "Like play: games, sports and instruments are all spielen 🎮",
+        "bonus": "Fußball spielen, Klavier spielen, Karten spielen — one verb for all."
+      },
+      "A2-496": {
+        "pron": "kla-VEER",
+        "tip": "From Latin clavis (key) — a row of keys 🎹 Think of Bach's clavier.",
+        "warn": "No article when you play: Ich spiele Klavier."
+      },
+      "A2-476": {
+        "pron": "gi-TAR-uh",
+        "tip": "guitar plus an -e 🎸 Stress on the ‘TAR’!"
+      },
+      "B1-1575": {
+        "pron": "GUY-guh",
+        "tip": "A guy playing the Geige 🎻 It's the everyday word for violin.",
+        "bonus": "die erste Geige spielen = to call the shots"
+      },
+      "B1-687": {
+        "pron": "FLUR-tuh",
+        "tip": "Related to flute 🪈 Round your lips for the ö.",
+        "bonus": "The school recorder is die Blockflöte."
+      },
+      "B1-2088": {
+        "pron": "SHLAHK-tsoyk",
+        "tip": "schlagen (to hit) + Zeug (gear) = stuff you hit 🥁",
+        "bonus": "drummer = der Schlagzeuger · die Schlagzeugerin"
+      },
+      "B2-3200": {
+        "pron": "trom-PAY-tuh",
+        "tip": "Almost trumpet 🎺 Blow it loud: trom-PAY-tuh!"
+      },
+      "A2-342": {
+        "pron": "Ü-ben",
+        "tip": "Üben every day and your skills go über the top 📈",
+        "bonus": "Übung macht den Meister. = Practice makes perfect."
+      },
+      "B2-3368": {
+        "pron": "OR-gel",
+        "tip": "From Greek organon (tool), like English organ ⛪"
+      }
     },
     "culture": [
       "Many children in Germany learn the recorder (Blockflöte) at primary school. Most areas also have a music school (Musikschule) where children and adults take lessons.",
       "Be careful when practising in a flat. Many buildings have quiet times (Ruhezeit), for example at night, around midday or on Sundays. The details depend on your building's house rules (Hausordnung), so check first.",
       "This is Bach's country, and churches often host organ concerts. Many are free or ask only for a donation, so keep an eye on the noticeboard outside. 🎶"
     ],
-    "quiz": {"q": "A friend asks “Spielst du ein Instrument?” You play the piano. What do you say?", "o": ["Ja, ich spiele Klavier.", "Ja, ich höre ein Klavier.", "Ja, ich gehe Klavier."], "a": 0, "why": "To play an instrument is spielen + the instrument with no article: Ich spiele Klavier."},
+    "quiz": {
+      "q": "A friend asks “Spielst du ein Instrument?” You play the piano. What do you say?",
+      "o": [
+        "Ja, ich spiele Klavier.",
+        "Ja, ich höre ein Klavier.",
+        "Ja, ich gehe Klavier."
+      ],
+      "a": 0,
+      "why": "To play an instrument is spielen + the instrument with no article: Ich spiele Klavier."
+    },
     "outro": "Say what you play — or want to learn — with “Ich spiele …” or “Ich möchte Geige lernen.” 🎵"
   },
   "ja": {
@@ -62,23 +154,142 @@
       "今日は楽器の名前と、演奏・練習に関する単語を10個集めました。どんな楽器をどれくらい練習しているか、ドイツ語で自然に話せるようになりますよ。🎸"
     ],
     "words": {
-      "A2-488": {"pron": "インストゥルメント", "tip": "英語の instrument と綴りまで同じ 🎻 発音だけドイツ風に！", "warn": "ドイツ語では das です。複数形は die Instrumente。"},
-      "A1-067": {"pron": "シュピーレン", "tip": "英語の play と同じく、遊びもスポーツも楽器もぜんぶ spielen 🎮", "bonus": "Fußball spielen、Klavier spielen、Karten spielen もみんな同じ動詞です。"},
-      "A2-496": {"pron": "クラヴィーア", "tip": "ラテン語 clavis（鍵）から → 鍵盤がずらり 🎹", "warn": "Klavier spielen のように冠詞なしで言います。"},
-      "A2-476": {"pron": "ギターレ", "tip": "英語の guitar に -e を足すだけ 🎸 アクセントは「ター」に！"},
-      "B1-1575": {"pron": "ガイゲ", "tip": "「ガイゲ〜」とキーキー鳴くバイオリン 🎻", "bonus": "die erste Geige spielen = 主導権を握る"},
-      "B1-687": {"pron": "フレーテ", "tip": "英語の flute の親戚 🪈 ö は唇を丸めて！", "bonus": "学校で習うリコーダーは die Blockflöte"},
-      "B1-2088": {"pron": "シュラークツォイク", "tip": "schlagen（打つ）+ Zeug（道具）= たたく道具セット 🥁", "bonus": "ドラマーは der Schlagzeuger · die Schlagzeugerin"},
-      "B2-3200": {"pron": "トロンペーテ", "tip": "英語の trumpet とほぼ同じ 🎺「トロンペーテ！」と高らかに。"},
-      "A2-342": {"pron": "ユーベン", "tip": "毎日 üben すれば、腕前が「ユー」っと上がる 📈", "bonus": "Übung macht den Meister. = 習うより慣れよ。"},
-      "B2-3368": {"pron": "オルゲル", "tip": "ギリシャ語 organon（道具）から、日本語の「オルガン」と同じ ⛪"}
+      "A2-488": {
+        "pron": "インストゥルメント",
+        "tip": "英語の instrument と綴りまで同じ 🎻 発音だけドイツ風に！",
+        "warn": "ドイツ語では das です。複数形は die Instrumente。"
+      },
+      "A1-067": {
+        "pron": "シュピーレン",
+        "tip": "英語の play と同じく、遊びもスポーツも楽器もぜんぶ spielen 🎮",
+        "bonus": "Fußball spielen、Klavier spielen、Karten spielen もみんな同じ動詞です。"
+      },
+      "A2-496": {
+        "pron": "クラヴィーア",
+        "tip": "ラテン語 clavis（鍵）から → 鍵盤がずらり 🎹",
+        "warn": "Klavier spielen のように冠詞なしで言います。"
+      },
+      "A2-476": {
+        "pron": "ギターレ",
+        "tip": "英語の guitar に -e を足すだけ 🎸 アクセントは「ター」に！"
+      },
+      "B1-1575": {
+        "pron": "ガイゲ",
+        "tip": "「ガイゲ〜」とキーキー鳴くバイオリン 🎻",
+        "bonus": "die erste Geige spielen = 主導権を握る"
+      },
+      "B1-687": {
+        "pron": "フレーテ",
+        "tip": "英語の flute の親戚 🪈 ö は唇を丸めて！",
+        "bonus": "学校で習うリコーダーは die Blockflöte"
+      },
+      "B1-2088": {
+        "pron": "シュラークツォイク",
+        "tip": "schlagen（打つ）+ Zeug（道具）= たたく道具セット 🥁",
+        "bonus": "ドラマーは der Schlagzeuger · die Schlagzeugerin"
+      },
+      "B2-3200": {
+        "pron": "トロンペーテ",
+        "tip": "英語の trumpet とほぼ同じ 🎺「トロンペーテ！」と高らかに。"
+      },
+      "A2-342": {
+        "pron": "ユーベン",
+        "tip": "毎日 üben すれば、腕前が「ユー」っと上がる 📈",
+        "bonus": "Übung macht den Meister. = 習うより慣れよ。"
+      },
+      "B2-3368": {
+        "pron": "オルゲル",
+        "tip": "ギリシャ語 organon（道具）から、日本語の「オルガン」と同じ ⛪"
+      }
     },
     "culture": [
       "ドイツでは多くの子どもが小学校でリコーダー（Blockflöte）を習います。また、地域ごとに音楽学校（Musikschule）があり、子どもも大人も楽器を習いに通います。",
       "アパートで楽器を練習するときは要注意。多くの建物では、夜やお昼、日曜日などに静かにする時間（Ruhezeit）が決まっています。時間は建物のルール（Hausordnung）によって違うので、事前に確認しましょう。",
       "バッハの国らしく、教会ではパイプオルガンのコンサートがよく開かれます。無料や寄付制のことも多いので、教会の前の掲示板をのぞいてみてください。🎶"
     ],
-    "quiz": {"q": "友だちに「Spielst du ein Instrument?」と聞かれました。ピアノを弾くなら何と答えますか？", "o": ["Ja, ich spiele Klavier.", "Ja, ich höre ein Klavier.", "Ja, ich gehe Klavier."], "a": 0, "why": "楽器の演奏は spielen + 冠詞なしの楽器名：Ich spiele Klavier."},
+    "quiz": {
+      "q": "友だちに「Spielst du ein Instrument?」と聞かれました。ピアノを弾くなら何と答えますか？",
+      "o": [
+        "Ja, ich spiele Klavier.",
+        "Ja, ich höre ein Klavier.",
+        "Ja, ich gehe Klavier."
+      ],
+      "a": 0,
+      "why": "楽器の演奏は spielen + 冠詞なしの楽器名：Ich spiele Klavier."
+    },
     "outro": "今日は「Ich spiele …」で自分が弾ける楽器、または「Ich möchte Geige lernen.」で習ってみたい楽器を言ってみましょう。🎵"
+  },
+  "tr": {
+    "title": "Müzikseverler için 10 Almanca kelime",
+    "hook": "Almanya'da enstrümanlar üzerine sohbet etmek arkadaş edinmenin en hızlı yollarından biridir.",
+    "intro": [
+      "Alman bir arkadaşınızı ziyaret ediyorsunuz: salonda bir piyano var, çocuk odasından cırtlak bir blok flüt çalışması geliyor. Arkadaşınız soruyor: “Spielst du ein Instrument?” Çocukken piyano dersi almıştınız; ama bunu Almanca nasıl söylersiniz?",
+      "Bugünkü on kelime enstrümanlar, çalmak ve pratik yapmak hakkında. Ne çaldığınızı ve ne sıklıkla çalıştığınızı doğal bir şekilde söyleyebileceksiniz. 🎸"
+    ],
+    "words": {
+      "A2-488": {
+        "pron": "in-stru-MENT",
+        "tip": "Türkçedeki “enstrüman” ile aynı kökten 🎻 Vurguyu sona verin yeter.",
+        "warn": "Almancada das. Çoğulu: die Instrumente."
+      },
+      "A1-067": {
+        "pron": "ŞPİ-len",
+        "tip": "İngilizce play gibi: oyun, spor ve enstrüman hepsi spielen 🎮 Türkçede oynamak ve çalmak ayrı, Almancada tek fiil!",
+        "bonus": "Fußball spielen, Klavier spielen, Karten spielen; hepsine tek fiil."
+      },
+      "A2-496": {
+        "pron": "kla-VİR",
+        "tip": "Latince clavis (anahtar, tuş) kökünden; bir sıra tuş 🎹 Türkçedeki “klavye”yi düşünün.",
+        "warn": "Çalarken artikel yok: Ich spiele Klavier."
+      },
+      "A2-476": {
+        "pron": "gi-TAR-re",
+        "tip": "Sonuna -e eklenmiş “gitar” 🎸 Vurgu ‘TAR’da!"
+      },
+      "B1-1575": {
+        "pron": "GAY-ge",
+        "tip": "Kemanın günlük dildeki kelimesi 🎻 ‘GAY-ge’ diye tatlı tatlı çalın.",
+        "bonus": "die erste Geige spielen = sözü geçen kişi olmak, birinci kemanı çalmak"
+      },
+      "B1-687": {
+        "pron": "FLÖ-te",
+        "tip": "Türkçedeki “flüt” ile akraba 🪈 ö için dudaklarınızı yuvarlayın.",
+        "bonus": "Okuldaki blok flüt die Blockflöte."
+      },
+      "B1-2088": {
+        "pron": "ŞLAK-tsoyk",
+        "tip": "schlagen (vurmak) + Zeug (takım, malzeme) = vurulan takım 🥁",
+        "bonus": "davulcu = der Schlagzeuger · die Schlagzeugerin"
+      },
+      "B2-3200": {
+        "pron": "trom-PEE-te",
+        "tip": "Neredeyse Türkçedeki “trompet” 🎺 Yüksek sesle üfleyin: trom-PEE-te!"
+      },
+      "A2-342": {
+        "pron": "Ü-ben",
+        "tip": "Her gün üben yaparsanız beceriniz über (üstün) olur 📈",
+        "bonus": "Übung macht den Meister. = İşleyen demir ışıldar."
+      },
+      "B2-3368": {
+        "pron": "OR-gel",
+        "tip": "Yunanca organon (alet) kökünden; Türkçedeki “org” ile aynı ⛪"
+      }
+    },
+    "culture": [
+      "Almanya'da pek çok çocuk ilkokulda blok flüt (Blockflöte) öğrenir. Çoğu bölgede çocukların ve yetişkinlerin ders aldığı bir müzik okulu (Musikschule) da vardır.",
+      "Apartmanda çalışırken dikkatli olun. Pek çok binada sessizlik saatleri (Ruhezeit) vardır; örneğin geceleri, öğle saatlerinde ya da pazar günleri. Ayrıntılar binanızın ev kurallarına (Hausordnung) bağlıdır, önce kontrol edin.",
+      "Burası Bach'ın ülkesi ve kiliselerde sık sık org konserleri verilir. Pek çoğu ücretsizdir ya da sadece bağış ister; dışarıdaki ilan panosuna göz atın. 🎶"
+    ],
+    "quiz": {
+      "q": "Bir arkadaşınız “Spielst du ein Instrument?” diye soruyor. Piyano çalıyorsunuz. Ne dersiniz?",
+      "o": [
+        "Ja, ich spiele Klavier.",
+        "Ja, ich höre ein Klavier.",
+        "Ja, ich gehe Klavier."
+      ],
+      "a": 0,
+      "why": "Enstrüman çalmak spielen + artikelsiz enstrüman adıyla söylenir: Ich spiele Klavier."
+    },
+    "outro": "Ne çaldığınızı ya da ne öğrenmek istediğinizi söyleyin: “Ich spiele …” ya da “Ich möchte Geige lernen.” 🎵"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "夕方5時、帰っていく同僚に何と声をかけますか？", "o": ["Schönen Feierabend!", "Mahlzeit!", "Ich melde mich krank."], "a": 0, "why": "Schönen Feierabend! =「お疲れさま、よい夜を！」仕事が終わって別れるときのあいさつです。"},
     "outro": "今日の仕事や勉強が終わったら、自分に「Ich mache jetzt Feierabend!」と言ってみましょう。お疲れさまでした！🍻"
+  },
+  "tr": {
+    "title": "Almanlar nasıl çalışır, 10 kelimede",
+    "hook": "Saat beşte iş arkadaşlarınız kalkıp aynı şeyi söylemeye başlar — işte bugünün ilk kelimesi.",
+    "intro": [
+      "Alman bir şirketteki ilk gününüz. Müdürünüz ‘du diyelim’ diyor ve öğleden sonra geç saatte herkes ‘Schönen Feierabend!’ deyip tam zamanında çıkıyor. Masasında hâlâ oturan bir tek siz kalıyorsunuz, biraz da mahcup.",
+      "Bugünkü on kelime Almanya'da iş hayatının nasıl işlediğini gösteriyor: günü kapatıp vedalaşmak, izin almak, hastalık bildirmek ve evden çalışmak. İş arkadaşlarınızla sohbeti çok kolaylaştıracaklar. 🕔"
+    ],
+    "words": {
+      "BL-10-04": {"pron": "FAY-er-a-bent", "tip": "Feier (kutlama) + Abend (akşam) = mesai bitimi küçük bir kutlamadır 🎉", "bonus": "günü kapatmak = Feierabend machen: Ich mache jetzt Feierabend!"},
+      "BL-10-06": {"pron": "UR-laup", "tip": "erlauben (izin vermek) ile aynı kökten 🏖️ Urlaub, gitmenize verilen izindir — tıpkı Türkçedeki ‘izin’ gibi.", "warn": "İşten izin Urlaub'dur; okul tatilleri ise die Ferien."},
+      "BL-10-09": {"pron": "Ü-ber-ştun-de", "tip": "über (üstünde) + Stunde (saat) = sınırın üstündeki saatler 🌙", "warn": "Genelde çoğul: Überstunden machen = fazla mesai yapmak"},
+      "BL-10-05": {"pron": "HOM-o-fis", "tip": "İngilizce görünür ama Alman yapımı İngilizcedir 🏠 Bir oda değil, evden çalışmak demektir.", "bonus": "im ile kullanılır: Ich bin heute im Homeoffice."},
+      "B1-1714": {"pron": "zih KRANK-mel-den", "tip": "krank (hasta) + melden (bildirmek) = hasta olduğunu bildirmek 📞", "warn": "Ayrılabilen: Ich melde mich krank. – hat sich krankgemeldet."},
+      "A2-775": {"pron": "Mİ-taks-pau-ze", "tip": "Mittag (öğle) + Pause (mola) 🥪 Ortadaki -s- sadece yapıştırıcı.", "bonus": "Birçok işyerinde öğle saatinde insanlar birbirini Mahlzeit! diye selamlar."},
+      "B2-445": {"pron": "GLAYT-tsayt", "tip": "gleiten = kaymak 🛝 Başlama saatiniz erkene ya da geçe kayar.", "bonus": "Mutlaka orada olmanız gereken saatler: die Kernarbeitszeit (çekirdek mesai)"},
+      "B2-455": {"pron": "hi-e-rar-Hİ", "tip": "-ie ile biten isimlerin çoğu die'dir 🏢 Türkçedeki ‘hiyerarşi’ gibi vurgu en sonda: -Hİ.", "bonus": "düz hiyerarşiler = flache Hierarchien"},
+      "BL-10-10": {"pron": "DU-tsen", "tip": "du demek duzen, Sie demek siezen 🙂 Türkçedeki ‘senli benli’ ve ‘sizli bizli’ gibi!", "warn": "Genelde daha kıdemli ya da yaşlı olan önce du teklif eder: Wollen wir uns duzen?"},
+      "B1-517": {"pron": "be-TRİPS-rat", "tip": "Betrieb (şirket) + Rat (kurul) = çalışanların seçilmiş sesi 🤝 Rat onu der yapar."}
+    },
+    "culture": [
+      "Almanya'da Feierabend ciddiye alınır. Zamanında çıkmak normaldir ve birçok işyerinde kimse akşamları ya da hafta sonları e-postalara cevap vermenizi beklemez — tabii bu işe ve işverene bağlıdır.",
+      "Yasaya göre tam zamanlı çalışanlar yılda en az dört hafta ücretli izin alır, birçok işveren daha fazlasını verir. İzindeyken insanlar bir otomatik yanıt (Abwesenheitsnotiz) ayarlar ve gerçekten kafa dinler.",
+      "Bir de tatlı bir gelenek: Doğum gününüzde iş arkadaşlarınız için ofise pasta ya da atıştırmalık getiren sizsiniz. 🎂"
+    ],
+    "quiz": {"q": "Saat beş ve bir iş arkadaşınız eve gidiyor. Ne dersiniz?", "o": ["Schönen Feierabend!", "Mahlzeit!", "Ich melde mich krank."], "a": 0, "why": "Schönen Feierabend! = İyi akşamlar! İş gününün sonundaki standart vedalaşma."},
+    "outro": "Bugün işi ya da dersi bitirdiğinizde kendinize yüksek sesle söyleyin: ‘Ich mache jetzt Feierabend!’ Hak ettiniz! 🍻"
   }
 }

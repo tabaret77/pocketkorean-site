@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "好きなドラマのシーズン3が秋に始まるそうです。正しいドイツ語は？", "o": ["Die dritte Saison startet im Herbst.", "Die dritte Staffel startet im Herbst.", "Das dritte Abo startet im Herbst."], "a": 1, "why": "ドラマのシーズンは Staffel。Saison は旅行シーズンやスポーツのシーズンに使います。"},
     "outro": "今夜ドラマを見るとき、Folge と Staffel をドイツ語で声に出して数えてみましょう。あと1話だけ、ですよね？😉"
+  },
+  "tr": {
+    "title": "Dizi bağımlısının Almancası: streaming için 10 kelime",
+    "hook": "Dizilerle Almanca mı öğrenmek istiyorsunuz? Önce ‘sezon’un Saison olmadığını bilmeniz lazım.",
+    "intro": [
+      "Cumartesi akşamı, Alman bir arkadaşınız „Hast du die neue Staffel schon geguckt?“ diye soruyor. Bir bölüm daha diye gece ikiye kadar oturduğunuzu ve aboneliklerinizin çok pahalıya patladığını söylemek istiyorsunuz — ama kelimeler gelmiyor.",
+      "Bugünkü on kelime tamamen diziler ve streaming hakkında. Bunlarla en sevdiğiniz diziden bahsedebilir, hatta bir aboneliği Almanca iptal edebilirsiniz. Patlamışlar hazır mı? 🍿"
+    ],
+    "words": {
+      "B1-1142": {"pron": "ZE-ri-e", "tip": "Türkçedeki ‘seri’ ile aynı 📺 Ödünç alınan -ie ile biten kelimeler çoğunlukla die'dir.", "bonus": "bir diziyi aralıksız izlemek = eine Serie am Stück schauen"},
+      "B2-1020": {"pron": "STRİ-men", "tip": "İngilizce stream + -en 🌊 Perfekt'i de kolay: hat gestreamt", "bonus": "İsmi: das Streaming"},
+      "B2-1021": {"pron": "STRİ-ming-di:nst", "tip": "streamen + Dienst (hizmet) 🛎️ Dienst eril, yani der.", "warn": "Çoğulu: die Streamingdienste"},
+      "B1-225": {"pron": "FOL-ge", "tip": "folgen (takip etmek) fiilinden ➡️ Her bölüm bir öncekini takip eder.", "warn": "Sonuç anlamına da gelir: Das hat Folgen."},
+      "B2-3874": {"pron": "ŞTA-fel", "tip": "Aslında ‘basamak’ demek 🪜 1. sezon, 2. sezon — basamak basamak tırmanmak!", "warn": "Dizi sezonu Staffel'dir, Saison değil."},
+      "B1-2533": {"pron": "A-bo", "tip": "das Abonnement'ın kısası 📰 Türkçedeki ‘abone’ gibi, herkes sadece Abo der.", "bonus": "Toplu taşımada sezonluk bilet de Abo'dur."},
+      "B1-408": {"pron": "a-bo-Nİ-ren", "tip": "Abo'nun arkasındaki fiil, Fransızcadan 🔔 Türkçedeki ‘abone olmak’ ile aynı kök; bir kanala abone olmak için de kullanılır.", "warn": "-ieren fiili, yani ge- yok: hat abonniert"},
+      "A2-068": {"pron": "KÜN-di-gen", "tip": "Eskiden ‘duyurmak’ demekmiş ✂️ Ayrıldığınızı duyurursunuz — sözleşme iptal!", "warn": "İşten ayrılmak ya da kovulmak için de: Mir wurde gekündigt. = İşten çıkarıldım."},
+      "B1-761": {"pron": "GU-ken", "tip": "G ile söylenen bir ‘look’ gibi 👀 Kuzeyde ve ortada samimi ‘izlemek’.", "bonus": "Güneyde genelde schauen denir: einen Film schauen"},
+      "B2-1022": {"pron": "BİLT-şirm-tsayt", "tip": "Bildschirm (ekran) + Zeit (zaman) ⏰ Zeit onu die yapar.", "bonus": "azaltmak = die Bildschirmzeit reduzieren"}
+    },
+    "culture": [
+      "Almanya'da yabancı film ve dizilerin çoğu Almancaya dublaj yapılır. Büyük Hollywood yıldızlarının çoğu zaman sabit bir Alman seslendirme sanatçısı vardır; o ses neredeyse yıldızın bir parçası haline gelir.",
+      "Öğrenmek için, zaten bildiğiniz bir diziyi Almanca ses ve Almanca altyazıyla yeniden izlemeyi deneyin. Hikâyeyi bildiğiniz için kulaklarınız kelimelere odaklanabilir.",
+      "Ayrıca Almanya'da birçok sözleşme, siz aktif olarak kündigen etmedikçe otomatik olarak uzar. Bir aboneliğe kaydolurken nasıl ve ne zamana kadar iptal edebileceğinize bakın! 📅"
+    ],
+    "quiz": {"q": "En sevdiğiniz dizinin 3. sezonu sonbaharda başlıyor. Hangi cümle doğru?", "o": ["Die dritte Saison startet im Herbst.", "Die dritte Staffel startet im Herbst.", "Das dritte Abo startet im Herbst."], "a": 1, "why": "Dizi sezonu Staffel'dir; Saison tatil ya da spor için kullanılır."},
+    "outro": "Bu akşam bir şey izlerken Folgen ve Staffeln'i Almanca yüksek sesle sayın. Sadece bir bölüm daha, değil mi? 😉"
   }
 }

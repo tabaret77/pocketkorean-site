@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "博物館で写真を撮ってもいいか聞きたいです。何と言いますか？", "o": ["Darf man hier fotografieren?", "Darf man hier lächeln?", "Ist das ein Motiv?"], "a": 0, "why": "Darf man hier fotografieren? は「ここで写真を撮ってもいいですか？」という意味です。"},
     "outro": "今日写真を撮るときに、Bitte lächeln! と声をかけてみましょう。みんな笑顔になって、ドイツ語も上達です！😄"
+  },
+  "tr": {
+    "title": "Gülümseyin! Fotoğraf çekmek için 10 Almanca kelime",
+    "hook": "Tek bir kibar soruyla bir yabancı tatilinizin en güzel fotoğrafını çekebilir.",
+    "intro": [
+      "Dresden'de nehir kıyısındasınız ve gün batımı büyüleyici. Selfie'nizde çoğunlukla yüzünüz var, manzaradan eser yok. Yanınızdaki kişi yardım edebilir; ama Almanca nasıl sorarsınız?",
+      "Bugünkü 10 kelime tamamen fotoğrafla ilgili: fotoğraf makinesi, flaş, gülümsemek ve daha fazlası. Bunlarla birinden fotoğrafınızı çekmesini isteyebilir ve bir müzede fotoğraf çekmenin serbest olup olmadığını kontrol edebilirsiniz. 📷"
+    ],
+    "words": {
+      "A1-285": {"pron": "FO-to", "tip": "Yunanca phōs (ışık) kelimesinden 💡 Işıkla çizilmiş bir resim; Türkçedeki foto ile aynı.", "bonus": "fotoğraf çekmek = ein Foto machen · Kannst du ein Foto von uns machen?"},
+      "A1-312": {"pron": "fo-to-gra-Fİ-ren", "tip": "Foto + -ieren 📸 -ieren fiillerinde vurgu hep ‘i’ye düşer.", "warn": "-ieren fiilleri ge- almaz: hat fotografiert."},
+      "A2-240": {"pron": "KA-me-ra", "tip": "Latince camera ‘oda’ demekti 🏠 Işığı içeri alan karanlık bir oda düşünün; Türkçedeki kamera ile aynı.", "bonus": "telefon kamerası = die Handykamera"},
+      "A2-466": {"pron": "fo-to-a-pa-RAT", "tip": "Foto + Apparat (alet) = fotoğraf aleti 📷 Türkçedeki ‘fotoğraf makinesi’ gibi; Apparat der olduğu için der.", "bonus": "Bugün die Kamera daha yaygın; Fotoapparat biraz eski moda duyulur."},
+      "A1-156": {"pron": "BİLT", "tip": "Tablo, fotoğraf, ekrandaki görüntü: hepsi Bild 🖼️ Tam bir çok yönlü kelime.", "warn": "Çoğulu: die Bilder."},
+      "B1-695": {"pron": "fo-to-GRAF", "tip": "phōs (ışık) + graphein (yazmak) = ışıkla yazan kişi ✍️", "warn": "Zayıf isim: den/dem/des Fotografen."},
+      "B1-464": {"pron": "AUF-na-me", "tip": "aufnehmen (içeri almak) fiilinden 🎞️ Kamera anı ‘içine alır’.", "bonus": "Ses ya da video kaydı anlamına da gelir."},
+      "B1-528": {"pron": "BLİTS", "tip": "Flaş! Hem yıldırım hem fotoğraf flaşı Blitz ⚡ İngilizce blitz de buradan.", "bonus": "Hız kamerasına konuşma dilinde der Blitzer denir."},
+      "B1-898": {"pron": "LE-heln", "tip": "lachen (gülmek) + küçültücü -eln = küçük bir gülüş 😊", "bonus": "Fotoğrafçının cümlesi: Bitte lächeln!"},
+      "B2-251": {"pron": "mo-TİF", "tip": "Türkçedeki motif gibi: fotoğrafınızın konusu 🌄", "warn": "Bir suçun güdüsü (motivi) anlamına da gelir; hangisi olduğunu bağlam söyler."}
+    },
+    "culture": [
+      "Pek çok Alman, yabancılar tarafından yakından fotoğraflanmak ya da internette görünmek konusunda oldukça hassastır. Herkesin bildiği bir ‘kendi görüntüsü üzerindeki hak’ (Recht am eigenen Bild) kavramı vardır; bu yüzden önce sormak görgü kuralıdır.",
+      "Müzelerin ve kiliselerin her birinin kendi kuralları vardır. Girişte Fotografieren verboten yazısına ya da üstü çizili bir kamera işaretine bakın; pek çok yer fotoğrafa izin verir ama flaşa (ohne Blitz) izin vermez.",
+      "Vize ya da pasaport fotoğrafı için bir fotoğrafçıya ya da genellikle istasyonların ve resmî dairelerin yakınında bulunan bir fotoğraf otomatına (Fotoautomat) gidebilirsiniz. Berlin'de siyah beyaz şerit basan eski usul kabinler de var. 📸"
+    ],
+    "quiz": {"q": "Bir müzede fotoğraf çekip çekemeyeceğinizi öğrenmek istiyorsunuz. Ne sorarsınız?", "o": ["Darf man hier fotografieren?", "Darf man hier lächeln?", "Ist das ein Motiv?"], "a": 0, "why": "Darf man hier fotografieren? ‘Burada fotoğraf çekmek serbest mi?’ demektir."},
+    "outro": "Bugün bir fotoğraf çekin ve Bitte lächeln! diye seslenin. Arkadaşlarınız gülümser, Almancanız da gelişir. 😄"
   }
 }

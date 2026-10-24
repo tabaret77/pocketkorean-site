@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちに歌手のことを聞かれました。あなたはその歌手の声が大好きです。何と言いますか？", "o": ["Sie hat einen tollen Rhythmus.", "Das Lied ist ein Hit.", "Sie hat eine tolle Stimme."], "a": 2, "why": "die Stimme = 声。「声がすてき」は Sie hat eine tolle Stimme. です。"},
     "outro": "今日は好きな曲をひとつ選んで、「Mein Lieblingslied ist …」と紹介してみましょう。ドイツ語の歌なら、歌詞を1行一緒に歌うところまで挑戦！🎤"
+  },
+  "tr": {
+    "title": "En sevdiğiniz şarkıları anlatın: Müzik için 10 Almanca kelime",
+    "hook": "‘Bu aralar ne dinliyorsun?’ Tek bir soru, Alman bir arkadaşınızla bir saat sohbet etmenize yetebilir.",
+    "intro": [
+      "Alman bir arkadaşınızın arabasındasınız ve radyoda hiç duymadığınız bir şarkı çalıyor. Arkadaşınız neşeyle eşlik ediyor ama siz Almanca ‘Bu şarkı ne? Şarkıcı kim?’ bile diyemiyorsunuz.",
+      "Bugünkü 10 kelime müzik hakkında konuşmak için ihtiyacınız olanlar. En sevdiğiniz şarkıcı, sesi, melodi, sözler; bunlarla müzik zevklerinizi paylaşmaya başlayabilirsiniz. Kulaklıklar takılsın! 🎧"
+    ],
+    "words": {
+      "A1-157": {"pron": "mu-ZİK", "tip": "Vurgu sonda: mu-ZİK 🎵 Türkçedeki müzik'e çok yakın, sadece ü yerine u.", "bonus": "Musik hören = müzik dinlemek · Musik machen = müzik yapmak/çalmak"},
+      "A1-287": {"pron": "LİT", "tip": "Klasik müzik severler Lied türünü bilir 🎼 Kısa ve basit: ‘lit’.", "warn": "Çoğulu: die Lieder. Sondaki d, t gibi okunur."},
+      "A1-177": {"pron": "ZİN-gen", "tip": "İngilizce sing'in ikizi 🎤 Ama s yumuşak bir z: ‘zin-gen’.", "warn": "Düzensiz: sang – hat gesungen"},
+      "A2-663": {"pron": "ZEN-ger", "tip": "singen + -er = şarkı söyleyen kişi 🎤 i, ä'ye dönüşüyor.", "bonus": "Kadın şarkıcı die Sängerin."},
+      "A2-271": {"pron": "ŞTİ-me", "tip": "Stimmung (ruh hâli) ile aynı aileden 🗣️ Bir ses havayı belirler!", "bonus": "Oy anlamına da gelir: Jede Stimme zählt. = Her oy önemlidir."},
+      "B1-2300": {"pron": "me-lo-Dİ", "tip": "Vurgu en sonda: -DİE 🎶 Türkçedeki melodi ile aynı; -ie ile biten alıntı kelimeler genellikle die.", "bonus": "Kafanıza takılan şarkı = der Ohrwurm, yani ‘kulak kurdu’!"},
+      "A1-559": {"pron": "TEKST", "tip": "Türkçedeki metin anlamındaki tekst gibi 📝 Şarkılarda sözler demek.", "bonus": "şarkı sözleri = der Songtext · Ich kenne den Text nicht. = Sözleri bilmiyorum."},
+      "B2-3121": {"pron": "RÜT-mus", "tip": "Rh, th, y; korkutucu yazılış, basit okunuş: ‘RÜT-mus’ 🥁 Türkçedeki ritim ile aynı kök.", "warn": "Çoğulu: die Rhythmen · ve iki h'ye dikkat."},
+      "B1-2014": {"pron": "HİT", "tip": "Doğrudan İngilizceden 💥 Listelere giren şarkı, Türkçede de hit.", "bonus": "yaz hiti = der Sommerhit"},
+      "B1-2116": {"pron": "AL-bum", "tip": "Latincede ‘beyaz tablet’ 💿 Fotoğraf albümleri de boş beyaz sayfalar olarak başladı.", "warn": "Tuhaf çoğul: die Alben"}
+    },
+    "culture": [
+      "Almanya'da pek çok kişi bir koroda (Chor) şarkı söyler. Kiliselerin, şirketlerin ve yerel derneklerin (Vereine) çoğu zaman bir korosu vardır ve her yaştan insan sadece keyif için katılır.",
+      "Partilerde ve festivallerde sık sık çok Alman bir pop türü olan Schlager'i duyarsınız. İnsanlar onu ‘yavan’ diye tiye almaya bayılır; sonra çalmaya başladığı an herkes eşlik eder.",
+      "Evde bir enstrüman çalışıyorsanız binanızın Hausordnung'una bakın. Pek çok binada çoğu zaman öğle saatlerinde ve gece sessizlik saatleri (Ruhezeiten) vardır. 🎹"
+    ],
+    "quiz": {"q": "Bir arkadaşınız bir şarkıcıyı soruyor. Onun sesine bayılıyorsunuz. Ne dersiniz?", "o": ["Sie hat einen tollen Rhythmus.", "Das Lied ist ein Hit.", "Sie hat eine tolle Stimme."], "a": 2, "why": "die Stimme = ses; yani Sie hat eine tolle Stimme. onun harika bir sesi olduğu anlamına gelir."},
+    "outro": "Bugün en sevdiğiniz bir şarkıyı seçin ve tanıtın: ‘Mein Lieblingslied ist …’. Almanca bir şarkıysa bir satırına eşlik etmeyi deneyin! 🎤"
   }
 }

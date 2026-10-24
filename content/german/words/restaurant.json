@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "食事が終わってお会計をしたいとき、ウェイターに何と言いますか？", "o": ["Die Speisekarte, bitte.", "Ich möchte reservieren.", "Die Rechnung, bitte!"], "a": 2, "why": "Die Rechnung, bitte! =「お会計お願いします！」支払いを頼む表現です。"},
     "outro": "今夜は想像のレストランで、予約から Stimmt so! までを声に出して演じてみましょう。Guten Appetit! 😋"
+  },
+  "tr": {
+    "title": "Almanca dışarıda yemek: menüden bahşişe 10 kelime",
+    "hook": "Menüyü isteyin, sipariş verin, ödeyin, bahşiş bırakın — bu on kelime bütün yemeği kapsıyor.",
+    "intro": [
+      "Bir arkadaşınızla küçük bir restorana giriyorsunuz ve kimse sizi masaya götürmüyor. Öylece oturabilir misiniz? Menüyü nasıl istersiniz? Yemekten sonra da hesap bir türlü gelmiyor.",
+      "Bugünkü on kelime sizi baştan sona bir restoran yemeğinden geçiriyor: masa ayırtmak, sipariş vermek, tavsiye istemek, ödemek ve bahşiş. Aç karnına öğrenin — açlık yardımcı olur! 🍽️"
+    ],
+    "words": {
+      "A1-146": {"pron": "res-to-RONG", "tip": "Fransızca ‘restore etmek’ten 🍲 Aç olduğunuzda restoran sizi yeniden ayağa kaldırır.", "bonus": "‘dışarıda yemek yemek’ = essen gehen: Gehen wir heute essen?"},
+      "A2-059": {"pron": "re-zer-Vİ-ren", "tip": "Türkçedeki ‘rezerve etmek’ ile aynı 📞 -ieren fiilleri geçmiş zaman ortacında ge- almaz: reserviert.", "warn": "Masalar için reservieren. Uçuş ve seyahatler için genelde buchen."},
+      "A2-136": {"pron": "ŞPAY-ze-kar-te", "tip": "Speise (yemek) + Karte (kart) = üzerinde yemekler yazan kart 📜", "warn": "Yanıltıcı kelime: das Menü fiks menüdür, yemek listesi değil."},
+      "BL-01-02": {"pron": "be-ŞTE-len", "tip": "be- + stellen (koymak) = ‘önüme koydurmak’ ☕", "bonus": "Garson şöyle sorabilir: Was darf’s sein? = Ne alırsınız?"},
+      "BL-01-10": {"pron": "emp-FEY-len", "tip": "Karar veremiyor musunuz? Was empfehlen Sie? deyin, garson seçsin 👍", "warn": "Düzensiz: du empfiehlst, er empfiehlt – hat empfohlen"},
+      "A2-733": {"pron": "FOR-şpay-ze", "tip": "vor (önce) + Speise (yemek) = önce gelen yemek 🥗", "bonus": "Tatlı die Nachspeise'dir (nach = sonra)."},
+      "B2-2453": {"pron": "HAUPT-ge-riht", "tip": "Haupt (ana) + Gericht (yemek) 🐟 Hauptbahnhof'taki (merkez istasyon) Haupt ile aynı.", "warn": "das Gericht aynı zamanda mahkeme demek — bağlam sizi kurtarır."},
+      "A2-655": {"pron": "KEL-ner", "tip": "Aslında şarap mahzenine (Keller) bakan adammış — Türkçedeki ‘kiler’ gibi 🍷", "bonus": "Dikkatini çekmek için elinizi kaldırıp Entschuldigung! deyin."},
+      "BL-01-03": {"pron": "REH-nunk", "tip": "rechnen (hesaplamak) + -ung = hesap 🧾 -ung, yani die.", "bonus": "Ayrı ödemek: Getrennt, bitte. Birlikte: Zusammen, bitte."},
+      "BL-01-05": {"pron": "TRİNK-gelt", "tip": "trinken (içmek) + Geld (para) = ‘benden bir içki iç’ parası — tıpkı Türkçedeki ‘çay parası’ gibi 🍺", "bonus": "Üstü kalsın = Stimmt so!"}
+    },
+    "culture": [
+      "Sıradan Alman restoranlarında ve birahanelerde genellikle boş bir masayı kendiniz seçersiniz. Daha şık yerlerde ya da Reserviert tabelası gördüğünüzde, sizi oturtmalarını bekleyin. Musluk suyu genelde kendiliğinden gelmez, o yüzden oturunca içecek siparişi verin.",
+      "Normalde masada ödersiniz ve garson çoğu zaman Zusammen oder getrennt? (birlikte mi, ayrı mı?) diye sorar. Bahşişi masaya bırakmak yerine öderken eklersiniz: hesap 18 euroysa sadece ‘20’ diyebilirsiniz.",
+      "Ayrıca bazı yerler hâlâ sadece nakit kabul ediyor. Sipariş vermeden önce kart geçip geçmediğini sormakta fayda var. 💶"
+    ],
+    "quiz": {"q": "Yemeğinizi bitirdiniz ve ödemek istiyorsunuz. Garsona ne dersiniz?", "o": ["Die Speisekarte, bitte.", "Ich möchte reservieren.", "Die Rechnung, bitte!"], "a": 2, "why": "Die Rechnung, bitte! = Hesap, lütfen! Ödemek istediğinizi böyle söylersiniz."},
+    "outro": "Bu akşam hayali bir restoran yemeğini yüksek sesle baştan sona canlandırın, masa ayırtmaktan Stimmt so!'ya kadar. Afiyet olsun — Guten Appetit! 😋"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "ネットショップにログインしたいのに、パスワードを思い出せません。どのボタンを押しますか？", "o": ["Jetzt registrieren", "Passwort vergessen?", "Datenschutz"], "a": 1, "why": "Passwort vergessen? は「パスワードをお忘れですか？」で、ここから新しいパスワードを設定できます。"},
     "outro": "今日はスマホの言語を少しだけドイツ語にして、Passwort、Benutzername、Datenschutz を探してみましょう。思ったより早く見つけられますよ！📱"
+  },
+  "tr": {
+    "title": "Giriş yapın, güvende kalın: hesaplar ve güvenlik için 10 Almanca kelime",
+    "hook": "Almanca bir giriş ekranı karşısında donup kaldıysanız, bugünkü kelimeler bunu çözecek.",
+    "intro": [
+      "Yeni telefonunuzda banka uygulamanızı açıyorsunuz ve ekran baştan sona Almanca. Benutzername? Passwort vergessen? Yanlış bir dokunuşla hesabınızın kilitlenmesinden korkup duraksıyorsunuz.",
+      "Bugünkü on kelime tamamen hesaplar ve güvenlikle ilgili. Bunlarla kendi başınıza kaydolabilir, giriş yapabilir, şifrenizi sıfırlayabilir ve gelen kutunuza şüpheli bir e-posta düştüğünde onu fark edebilirsiniz. 🔐"
+    ],
+    "words": {
+      "A2-534": {"pron": "PAS-vort", "tip": "pass + Wort (kelime) = geçmenize izin veren kelime 🔑 Türkçedeki ‘parola’ gibi.", "warn": "Çoğulu die Passwörter'dir.", "bonus": "Ich habe mein Passwort vergessen. = Şifremi unuttum."},
+      "B2-1008": {"pron": "be-NUT-tser-kon-to", "tip": "Benutzer (kullanıcı) + Konto (hesap) 👤 Banka hesabı da Konto'dur", "warn": "Çoğulu die Benutzerkonten'dir.", "bonus": "hesap oluşturmak = ein Konto anlegen"},
+      "B1-1905": {"pron": "be-NUT-tser-na-me", "tip": "Benutzer + Name = kullanıcı adı, hiçbir hile yok 🪪", "bonus": "Daha kısa der Nutzername'i de sık görürsünüz."},
+      "B2-1009": {"pron": "zih AYN-lo-gen", "tip": "İngilizce log in, Almanca kılığa girmiş 🔓", "warn": "Dönüşlü ve ayrılabilen: Ich logge mich ein. · perfekt: hat sich eingeloggt", "bonus": "çıkış yapmak = sich ausloggen · bu da yaygın: sich anmelden"},
+      "B2-1010": {"pron": "zih re-gis-TRİ-ren", "tip": "Tıpkı İngilizce register 📝 Yeni misiniz? Önce registrieren.", "bonus": "ismi: die Registrierung"},
+      "B1-1477": {"pron": "DA-ten", "tip": "Latincede ‘verilen şeyler’ — hep birden fazla 💾", "warn": "Tekil das Datum ‘tarih’ demektir. Veri hep çoğuldur: Daten."},
+      "B2-295": {"pron": "DA-ten-şuts", "tip": "Daten + Schutz (koruma) = verileriniz için bir kalkan 🛡️", "bonus": "AB'nin veri yasası die DSGVO'dur (Türkçede GDPR olarak da bilinir)."},
+      "B2-992": {"pron": "pri-VAT-sfe-re", "tip": "privat (özel) + Sphäre (alan) = size ait özel alan 🏠 Türkçedeki ‘mahremiyet’.", "bonus": "Uygulama menülerinde görürsünüz: Privatsphäre-Einstellungen = gizlilik ayarları"},
+      "B2-993": {"pron": "HE-ker", "tip": "Doğrudan İngilizceden — Almanca a sadece biraz daha ‘a’ya yakın çıkar 💻", "bonus": "siber saldırı = der Hackerangriff"},
+      "B2-1030": {"pron": "Fİ-şing", "tip": "Balık tutar gibi (fishing) bilgilerinizi oltaya takmaya çalışırlar 🎣 Türkçesi de ‘oltalama’!", "bonus": "dolandırıcı = der Betrüger · oltalama e-postası = die Phishing-Mail"}
+    },
+    "culture": [
+      "Almanya veri korumayı (Datenschutz) çok ciddiye almasıyla bilinir. Neredeyse her web sitesinde çerez uyarısı görürsünüz; işyerleri ve okullar da fotoğrafınızı ya da iletişim bilgilerinizi kullanmadan önce genellikle onayınızı ister.",
+      "Çevrim içi haritalarda sokak düzeyindeki fotoğraflar ilk çıktığında Almanya'da pek çok kişi evinin bulanıklaştırılmasını istedi; bu hâlâ tipik bir Alman hikâyesi olarak anlatılır.",
+      "Bankadan ya da kargo şirketinden geliyormuş gibi görünen oltalama mesajları yaygındır. Bankalar genellikle şifrenizi ya da PIN'inizi e-postayla veya SMS'le istemez; bağlantıya dokunmayın, bunun yerine uygulamadan ya da resmî web sitesinden kontrol edin. 🎣"
+    ],
+    "quiz": {"q": "Bir online mağazaya giriş yapmak istiyorsunuz ama şifrenizi hatırlamıyorsunuz. Hangi düğmeye dokunursunuz?", "o": ["Jetzt registrieren", "Passwort vergessen?", "Datenschutz"], "a": 1, "why": "Passwort vergessen? ‘Şifrenizi mi unuttunuz?’ demektir — yeni şifreyi orada belirlersiniz."},
+    "outro": "Bugün telefonunuzu birkaç dakikalığına Almancaya çevirin ve Passwort, Benutzername ve Datenschutz'u bulun. Sandığınızdan çabuk gözünüze çarpacaklar! 📱"
   }
 }

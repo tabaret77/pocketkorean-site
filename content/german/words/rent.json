@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "広告に Kaltmiete 700 €, Nebenkosten 150 € とあります。毎月実際に払う合計額は何と言いますか？", "o": ["die Nebenkostenabrechnung", "die Warmmiete", "der Mietvertrag"], "a": 1, "why": "Kaltmiete に Nebenkosten を足した額が Warmmiete です。"},
     "outro": "今日は物件広告をひとつ探して、Kaltmiete と Warmmiete を声に出して読んでみましょう。いい部屋といい大家さんに出会えますように！🍀"
+  },
+  "tr": {
+    "title": "Almanya'da kiralık ev: imzalamadan önce bilmeniz gereken 10 kelime",
+    "hook": "Alman ev ilanındaki o fiyat mı? Aslında iki tane fiyat var.",
+    "intro": [
+      "Sonunda beğendiğiniz bir ev buldunuz. Ama ilanda „Kaltmiete 750 €, Nebenkosten 200 €“ yazıyor. Kira 750 mi, 950 mi? Peki sözleşme neden bu kadar uzun?",
+      "Bugünkü on kelime, her ev arayışında ve kira sözleşmesi imzalarken karşınıza çıkar. Bunlarla ilanları doğru okur, ev sahibinizle konuşur ve yıllık hesap dökümünü panik yapmadan açarsınız. 🏠"
+    ],
+    "words": {
+      "A2-003": {"pron": "Mİ-te", "tip": "mieten (kiralamak) fiilinin ismi 💶 Her ay hesabınızdan çıkıp giden para.", "bonus": "die Miete zahlen = kirayı ödemek"},
+      "BL-05-10": {"pron": "MİT-fer-trak", "tip": "Miete (kira) + Vertrag (sözleşme) = kira sözleşmesi 📝 İmzalamadan önce okuyun!", "warn": "Çoğulu umlautlu: die Mietverträge"},
+      "A2-002": {"pron": "fer-Mİ-ter", "tip": "Başına ver- ekleyin, kiraya veren taraftasınız 🔑 Anahtarlar onda.", "bonus": "Kadın ev sahibi: die Vermieterin"},
+      "B1-949": {"pron": "Mİ-ter", "tip": "mieten + -er = kiralayan kişi 🙋 Yani siz!", "bonus": "aynı sözleşmedeki ev arkadaşı = der Mitmieter"},
+      "A2-164": {"pron": "Mİ-ten", "tip": "Kullanmak için para mı ödüyorsunuz? O zaman mieten 🚗 Ev, araba, bisiklet.", "warn": "Ücretsiz ödünç almak leihen'dir: Kannst du mir dein Buch leihen?"},
+      "A2-054": {"pron": "fer-Mİ-ten", "tip": "ver- + mieten = kiraya vermek 🏘️ Ev sahibinin fiili.", "bonus": "İlanlarda: Zimmer zu vermieten = kiralık oda"},
+      "A2-006": {"pron": "NEY-ben-kos-ten", "tip": "neben (yanında) + Kosten (masraflar) = kiranın yanındaki masraflar 💧 Su, çöp, temizlik…", "warn": "Neredeyse hep çoğul: die Nebenkosten sind …"},
+      "B2-1423": {"pron": "KALT-mi-te", "tip": "‘Soğuk kira’ — ısınma dahil değil 🥶", "bonus": "Kaltmiete + Nebenkosten = Warmmiete"},
+      "BL-05-03": {"pron": "VARM-mi-te", "tip": "‘Sıcak kira’ — ısınma ve giderler dahil 🔥 Gerçekte ödediğiniz bu.", "bonus": "Ev bakarken mutlaka sorun: Ist das warm oder kalt?"},
+      "B2-2594": {"pron": "NEY-ben-kos-ten-AP-reh-nunk", "tip": "Nebenkosten + Abrechnung (hesap dökümü) 📬 Uzun ama sadece iki Lego parçası.", "warn": "-ung ile bittiği için die."}
+    },
+    "culture": [
+      "Alman ev ilanlarında fiyatın Kaltmiete mi Warmmiete mi olduğuna mutlaka bakın. Genellikle her ay Nebenkosten için sabit bir tutar ödersiniz ve yılda bir kez gerçekte kullandığınızla karşılaştırılıp hesaplaşılır.",
+      "Yani Nebenkostenabrechnung geldiğinde para geri alabilirsiniz — ya da ek ödeme yapmanız (nachzahlen) gerekebilir. Geçen kış çok ısındıysanız hazırlıklı olun.",
+      "Ayrıca Almanya'da eşyasız daireler bazen mutfaksız da gelir. Ev bakarken bir Einbauküche (ankastre mutfak) olup olmadığını kontrol edin. 🔑"
+    ],
+    "quiz": {"q": "Bir ilanda Kaltmiete 700 €, Nebenkosten 150 € yazıyor. Her ay ödediğiniz toplam tutara ne denir?", "o": ["die Nebenkostenabrechnung", "die Warmmiete", "der Mietvertrag"], "a": 1, "why": "Kaltmiete artı Nebenkosten, Warmmiete'yi oluşturur."},
+    "outro": "Bugün gerçek bir ev ilanı bulun ve Kaltmiete ile Warmmiete'yi yüksek sesle okuyun. Güzel bir ev — ve iyi kalpli bir ev sahibi — bulmanızı dilerim! 🍀"
   }
 }

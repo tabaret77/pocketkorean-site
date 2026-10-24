@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "後ろの人のためにドアを押さえていたら「Danke!」と言われました。何と返しますか？", "o": ["Bitteschön!", "Es tut mir leid.", "Verzeihung!"], "a": 0, "why": "Bitteschön! は「どういたしまして」で、Danke へのいちばん自然な返事です。"},
     "outro": "今日は Danke、Bitteschön、Entschuldigung をそれぞれ1回は使ってみましょう。パン屋さんの笑顔が変わるか、ぜひ確かめてみてください！🥨"
+  },
+  "tr": {
+    "title": "Lütfen, teşekkürler, pardon: Nezaket için 10 Almanca kelime",
+    "hook": "Bu kelimelerden birkaçını kullanmaya başlayın; Almanya'da insanların size hemen ısındığını fark edeceksiniz.",
+    "intro": [
+      "Hiç bir hamur işini gösterip sadece ‘Das!’ dediniz ve fırıncının gülümsemesinin biraz solduğunu fark ettiniz mi? Hamur işinizi aldınız ama bir şey eksikti.",
+      "Bugünkü 10 kelime tamamen teşekkür etmek, özür dilemek ve rica etmekle ilgili. Bunlarla yol sorabilir, bir hata için özür dileyebilir ve hatta bir komşunuzdan küçük bir iyilik isteyebilirsiniz; hem de kibarca. 🙏"
+    ],
+    "words": {
+      "A1-098": {"pron": "DAN-ke", "tip": "İngilizce thank'in neredeyse ikizi 🙏", "bonus": "Daha kibarı: Danke schön / Vielen Dank · ‘Size de!’: Danke, gleichfalls!"},
+      "A2-937": {"pron": "Bİ-te-şön", "tip": "Danke filenin üstünden gelir, Bitteschön geri gider 🏓", "bonus": "Bir şey uzatırken de: Bitteschön! = Buyurun · Aynı cevap: Gern geschehen!"},
+      "A1-465": {"pron": "ent-ŞUL-di-gunk", "tip": "ent- (kaldırmak) + Schuld (suç) = lütfen suçumu üzerimden alın 😅", "bonus": "Birinin dikkatini çekmek için: Entschuldigung, wo ist der Bahnhof?"},
+      "A2-176": {"pron": "zih ent-ŞUL-di-gen", "tip": "Suçu (Schuld) süpürüp atan fiil 🧹", "warn": "Dönüşlü fiildir. Kişiye: bei; bir şey için: für. Ich entschuldige mich bei dir für die Verspätung."},
+      "A2-505": {"pron": "LAYT-tun", "tip": "Leid keder demek; bir şey bana ‘keder yapıyor’ 😢", "warn": "Özne es'tir, siz de Dativ mir olursunuz: Es tut mir leid. (Ich tue leid değil.)", "bonus": "Teselli için de: Das tut mir leid. = Buna üzüldüm."},
+      "B1-1364": {"pron": "fer-TSAY-unk", "tip": "Kelimesi kelimesine ‘bağışlama’; özür dilemenin biraz zarif bir yolu 🎩", "bonus": "Fiili verzeihen = affetmek: Verzeihen Sie bitte!"},
+      "A2-307": {"pron": "Bİ-ten", "tip": "bitte'nin arkasındaki fiil 🤲 İngilizce bid ile uzaktan kuzen.", "warn": "bitten (rica etmek), bieten (sunmak) ve beten (dua etmek) karıştırmayın. Bir şeyi um + Akkusativ ile rica edersiniz: um Hilfe bitten"},
+      "B1-147": {"pron": "zih be-DAN-ken", "tip": "be- + Dank (teşekkür) = teşekkürünüzü layıkıyla sunmak 💌", "bonus": "Ich bedanke mich bei Ihnen für die Einladung. = Davetiniz için teşekkür ederim."},
+      "B2-2871": {"pron": "AY-nen ge-FA-len TUN", "tip": "Gefallen küçük bir iyilik hediyesidir 🎁 Kannst du mir einen Gefallen tun? = Bana bir iyilik yapabilir misin?", "warn": "der Gefallen (iyilik) das Gefallen (hoşlanma) değildir. Aynı yazılış, farklı artikel!"},
+      "A2-083": {"pron": "HÖF-lih", "tip": "Hof (saray) + -lich = saraydaki biri gibi davranmak 👑 İngilizce courteous'un court'tan gelmesi gibi.", "bonus": "Zıttı: unhöflich · ismi: die Höflichkeit"}
+    },
+    "culture": [
+      "Almanya'da biri size içecek teklif ettiğinde sadece ‘Danke’ derseniz, bu çoğu zaman ‘Hayır, teşekkürler’ gibi duyulur. İstiyorsanız açıkça ‘Ja, bitte!’ ya da ‘Gerne!’ deyin.",
+      "Pek çok kişi küçük bir dükkâna ya da doktorun bekleme salonuna girerken ‘Hallo’ veya ‘Guten Tag’, çıkarken de ‘Tschüss’ veya ‘Auf Wiedersehen’ der. Kasada selamlaşmak da normaldir.",
+      "Almanlar oldukça doğrudan konuşma eğilimindedir; bu ilk başta soğuk gelebilir. Ama genellikle kabalık değildir: pek çok kişi açık olmayı kibar olan şey olarak görür. 🙂"
+    ],
+    "quiz": {"q": "Birine kapıyı tutuyorsunuz ve o ‘Danke!’ diyor. Ne cevap verirsiniz?", "o": ["Bitteschön!", "Es tut mir leid.", "Verzeihung!"], "a": 0, "why": "Bitteschön! ‘Rica ederim’ demektir; Danke'ye verilen doğal cevap."},
+    "outro": "Bugünün görevi: Danke, Bitteschön ve Entschuldigung kelimelerini en az birer kez kullanın. Bakalım fırıncı biraz daha gülümseyecek mi! 🥨"
   }
 }

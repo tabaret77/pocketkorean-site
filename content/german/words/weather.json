@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちに「今日は何度？」と聞かれました。正しい答えは？", "o": ["Es regnet seit Stunden.", "Es sind 18 Grad.", "Es gibt heute viel Schnee."], "a": 1, "why": "Es sind 18 Grad. = 18度だよ。気温は Grad で言い、数字の後でも形は変わりません。"},
     "outro": "今日は窓の外を見て、天気をドイツ語でひとこと言ってみましょう。Heute ist es bewölkt, aber es regnet nicht! 🌤️"
+  },
+  "tr": {
+    "title": "Hava durumunu bir Alman gibi konuşun: 10 kelime",
+    "hook": "Almanca bir sohbet tıkandığında hava durumu sizi her zaman kurtarır.",
+    "intro": [
+      "Berlin'de bir otobüs durağında bekliyorsunuz; yanınızdaki yaşlı hanım başını kaldırıp iç çekiyor: „Schon wieder Regen!“ Cevap vermeyi çok isterdiniz ama kafanız bomboş. Alman havası günde birkaç kez değişir, yani böyle anlar çok yaşanır.",
+      "Bugünkü on kelime hava sohbeti için ihtiyacınız olan kelimeler. Bunlarla hava tahminini takip edebilir, şemsiye alıp almayacağınıza karar verebilir ve komşularla kısa bir dertleşme yapabilirsiniz. ☔"
+    ],
+    "words": {
+      "A1-043": {"pron": "VE-ter", "tip": "İngilizce weather'ın ikizi 🌦️ Sadece W'yi V gibi okuyun.", "bonus": "Hava güzel = Das Wetter ist schön."},
+      "A1-138": {"pron": "ZO-ne", "tip": "İngilizce sun ile aynı kökten ☀️ Güneş dişil (die), ay eril (der Mond) — birçok dilin tersi.", "bonus": "Sıfatı: sonnig = güneşli"},
+      "A1-044": {"pron": "REY-gen", "tip": "İngilizce rain ile aynı aileden 🌧️ ‘REY’i uzatın, uzun ve gri bir çiselemeyi duyarsınız.", "bonus": "şemsiye = der Regenschirm · gökkuşağı = der Regenbogen"},
+      "A2-337": {"pron": "REYG-nen", "tip": "der Regen + -en = yağmur yağmak ☔ Tıpkı İngilizcedeki gibi hep bir ‘o’ ister: es.", "warn": "Asla es olmadan değil: Es regnet."},
+      "A1-139": {"pron": "ŞNEY", "tip": "Fazladan ‘ş’ eklenmiş snow ❄️ s-n-o → Schn-ee.", "bonus": "kar yağmak = schneien: Es schneit."},
+      "A1-140": {"pron": "VİNT", "tip": "İngilizce wind ile aynı yazılış 🌬️ ama W, V gibi; d de t gibi okunur.", "bonus": "rüzgârlı = windig: Es ist windig."},
+      "A2-427": {"pron": "be-VÖLKT", "tip": "İçinde die Wolke (bulut) saklı ☁️ Bulutlara sarılmış gökyüzü bewölkt'tür.", "bonus": "Zıtları: sonnig (güneşli), wolkenlos (bulutsuz)"},
+      "A2-145": {"pron": "ge-Vİ-ter", "tip": "ge- + Wetter = bütün havalar bir arada ⛈️ Gök gürültüsü ve şimşek dahil.", "bonus": "şimşek = der Blitz · gök gürültüsü = der Donner"},
+      "A1-487": {"pron": "GRAT", "tip": "İngilizce grade ve degree ile akraba 🌡️ Termometredeki her küçük basamak bir Grad'dır — Türkçedeki ‘derece’ gibi.", "warn": "Sayılardan sonra çoğul olmaz: 25 Grad, Grade değil. Fiil ise çoğuldur: Es sind 25 Grad."},
+      "B1-1402": {"pron": "VE-ter-for-her-za-ge", "tip": "Wetter + vorher (önceden) + sagen (söylemek) = havayı önceden söylemek 📺 Kelime kendini açıklıyor."}
+    },
+    "culture": [
+      "Almanlar hava durumu hakkında konuşmaya bayılır. Asansörde ya da kasada basit bir „Schönes Wetter heute!“ sohbeti başlatmaya yeter. Uzun ve gri bir kışın ardından ilk güneşli bahar günü, her park ve kafe terası dakikalar içinde dolar.",
+      "Nisan havası tek bir öğleden sonrada güneş, yağmur ve dolu getirebilir; bu yüzden Almancada bunun için bir kelime var: Aprilwetter. Hatta bir tekerleme bile var: „April, April, der macht, was er will.“ (Nisan ne isterse onu yapar.)",
+      "Bu yüzden sık sık şunu duyarsınız: „Es gibt kein schlechtes Wetter, nur falsche Kleidung.“ Kötü hava yoktur, sadece yanlış kıyafet vardır. Pek çok kişi her ihtimale karşı çantasında hafif bir yağmurluk taşır. 🧥"
+    ],
+    "quiz": {"q": "Bir arkadaşınız bugün havanın ne kadar sıcak olduğunu soruyor. Ne dersiniz?", "o": ["Es regnet seit Stunden.", "Es sind 18 Grad.", "Es gibt heute viel Schnee."], "a": 1, "why": "Es sind 18 Grad. = Hava 18 derece — sıcaklık için çoğul eki almayan Grad kullanılır."},
+    "outro": "Pencereden bakın ve bugünkü havayı tek bir Almanca cümleyle anlatın. Heute ist es bewölkt, aber es regnet nicht! 🌤️"
   }
 }

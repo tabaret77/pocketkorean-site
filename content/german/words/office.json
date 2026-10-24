@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "同僚にファイルを紙に印刷してほしいとき、空欄に入るのは？「Kannst du mir das bitte ___?」", "o": ["ausdrucken", "ausdrücken", "ausmachen"], "a": 0, "why": "ausdrucken は「印刷する」です。ausdrücken は「表現する」、ausmachen は「消す」です。"},
     "outro": "「Ich arbeite in der … Abteilung.」と、自己紹介をひとこと声に出して言ってみましょう。今日もお疲れさまでした、Schönen Feierabend！💼"
+  },
+  "tr": {
+    "title": "Alman ofisinde ilk gün mü? Bu 10 kelimeyi öğrenin",
+    "hook": "Alman ofisindeki ilk gününüzde biri ‘Der Drucker spinnt!’ diye bağırıyor; neler olduğunu anlar mıydınız?",
+    "intro": [
+      "Bir Alman şirketinde ilk gününüz: Bir meslektaşınız sizi öğle yemeği için Kantine'ye davet ediyor, siz de ne olduğundan emin olmadan gülümsüyorsunuz. Öğleden sonra yazıcı bozuluyor ve herkes söyleniyor; siz de anlıyormuş gibi görünmeye çalışıyorsunuz.",
+      "Bugünkü 10 kelime ofiste her gün duyacaklarınız. Bunlarla meslektaşlarınızla öğle yemeği ayarlayabilir, yazıcının başında yardım isteyebilir ve hangi bölümde çalıştığınızı söyleyebilirsiniz. 💼"
+    ],
+    "words": {
+      "A2-142": {"pron": "bü-RO", "tip": "Fransızca bureau kelimesinden 🏢 Türkçedeki büro ile aynı; vurgu sonda: bü-RO.", "bonus": "ofiste = im Büro · ofise = ins Büro"},
+      "BL-10-01": {"pron": "ko-LE-ge", "tip": "Türkçedeki kolej değil, meslektaş 👥 Sondaki e'yi söylemeyi unutmayın.", "warn": "Zayıf isimdir, -n alır: Ich frage meinen Kollegen. Kadın meslektaş die Kollegin."},
+      "BL-10-02": {"pron": "ŞEF", "tip": "Aşçı değil, şirketin ‘başı’ 👔 Latince caput (baş) kelimesinden; Türkçedeki şef gibi.", "warn": "Aşçı der Koch / die Köchin. Kadın patron die Chefin."},
+      "A2-747": {"pron": "ŞRAYP-tiş", "tip": "schreiben (yazmak) + Tisch (masa) = yazı masası ✍️ Yine Lego Almancası.", "bonus": "masasında oturmak = am Schreibtisch sitzen"},
+      "A2-218": {"pron": "DRU-ker", "tip": "drucken (basmak) + -er = basan makine 🖨️ -er ile biten makineler genellikle der.", "bonus": "Çok yaygın: Der Drucker spinnt! = Yazıcı yine saçmalıyor!"},
+      "B1-472": {"pron": "AUS-dru-ken", "tip": "aus (dışarı) + drucken (basmak) = çıktı almak 📄 Türkçedeki ‘çıktı’ ile aynı mantık.", "warn": "Ayrılabilen fiil: Ich drucke das aus. Umlautlu ausdrücken ise ‘ifade etmek’; bambaşka bir fiil!"},
+      "BL-10-07": {"pron": "PAU-ze", "tip": "Türkçedeki pause tuşu gibi, ama sondaki e'yi söyleyin: PAU-ze ☕", "bonus": "Hadi mola verelim = Lass uns eine Pause machen. · öğle arası = die Mittagspause"},
+      "A2-239": {"pron": "kan-Tİ-ne", "tip": "Türkçedeki kantin ile aynı kökten 🍛 Ofisin öğle yemeği yediği yer.", "bonus": "Üniversite yemekhanesi die Mensa."},
+      "B1-202": {"pron": "AP-tay-lunk", "tip": "ab + Teil (parça) + -ung = şirketin bir parçası 🧩 -ung demek die demek!", "bonus": "insan kaynakları bölümü = die Personalabteilung"},
+      "B1-875": {"pron": "ko-Pİ-rer", "tip": "kopieren (kopyalamak) + -er = fotokopi makinesi 📠 Drucker ile aynı kalıp.", "bonus": "Fiili: Kannst du das bitte kopieren?"}
+    },
+    "culture": [
+      "Pek çok Alman ofisinde öğle saatlerinde koridorda insanların birbirini ‘Mahlzeit!’ diye selamladığını duyarsınız; kabaca ‘afiyet olsun’ demek. Ne kadar yaygın olduğu şirkete ve bölgeye göre çok değişir.",
+      "Meslektaşların du mu Sie mi kullandığı da değişir. Start-up'ların çoğu ilk günden du kullanırken daha geleneksel şirketler genellikle Sie ile başlar. Emin değilseniz karşı taraf du teklif edene kadar bekleyin.",
+      "Çıkarken ‘Schönen Feierabend!’ deyin. Feierabend iş sonrası boş zamanınızdır ve Almanya'da insanlar bunu çok ciddiye alır. 🌇"
+    ],
+    "quiz": {"q": "Bir meslektaşınızdan bir dosyanın çıktısını almasını istiyorsunuz. Boşluğu doldurun: ‘Kannst du mir das bitte ___?’", "o": ["ausdrucken", "ausdrücken", "ausmachen"], "a": 0, "why": "ausdrucken çıktı almak demek; ausdrücken ifade etmek, ausmachen ise kapatmak demektir."},
+    "outro": "Kendinizi tek bir cümleyle yüksek sesle tanıtın: ‘Ich arbeite in der … Abteilung.’ Ve bugün de: Schönen Feierabend! 💼"
   }
 }

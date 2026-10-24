@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちに「旅行の写真、すぐアップするね！」と言いたいです。", "o": ["Ich lade die Fotos gleich hoch.", "Ich lade die Fotos gleich herunter.", "Ich like die Fotos gleich."], "a": 0, "why": "hochladen は「アップロードする」。herunterladen は逆に「ダウンロードする」です。"},
     "outro": "今日SNSを見るとき、押すボタンをドイツ語で言ってみましょう。liken、teilen、kommentieren！📱"
+  },
+  "tr": {
+    "title": "Sosyal medyayı Almanca konuşun: bilmeniz gereken 10 kelime",
+    "hook": "posten, liken, teilen — Almanca sosyal medya kelimeleri kolaydır… birkaç küçük tuzak dışında.",
+    "intro": [
+      "Alman arkadaşlarınızla tatil fotoğrafları çektiniz. Biri ‘Lädst du die Fotos hoch?’ diye soruyor, bir diğeri ‘Bitte nicht posten!’ diyor. Bir fotoğrafın bu kadar konuşma başlatacağını kim bilebilirdi?",
+      "Bugünkü on kelime sosyal medya ve videoyla ilgili. Çoğu İngilizceden geldiği için tanıdık gelecek, ama Almanca kelimeler gibi çekimlenirler. Bunlarla Almanca yorum yazabilir, arkadaşlarınızla gönderiler hakkında sohbet edebilirsiniz. 📲"
+    ],
+    "words": {
+      "B2-981": {"pron": "zo-TSYA-len ME-di-en", "tip": "sozial + Medien = sosyal medya 📱 Türkçeyle neredeyse aynı!", "warn": "Hep çoğul ve sıfat değişir: in den sozialen Medien"},
+      "B1-1365": {"pron": "Vİ-de-o", "tip": "Latincede ‘görüyorum’ 👀 İzlediğiniz şey, yani video!", "bonus": "video çekmek = ein Video drehen ya da aufnehmen"},
+      "B2-982": {"pron": "POS-ten", "tip": "İngilizce post + -en 📸 Geçmiş zaman ortacı: gepostet.", "warn": "der Post = gönderi; die Post = postane ya da posta."},
+      "B1-785": {"pron": "HOH-la-den", "tip": "hoch (yukarı) + laden (yüklemek) = parça parça ‘yukarı yüklemek’, yani upload ⬆️", "bonus": "Zıttı = herunterladen (indirmek)"},
+      "A2-339": {"pron": "TAY-len", "tip": "Parçalara (Teile) bölmek 🍕 Pizza da teilen edilir, gönderi de.", "bonus": "Yemeği paylaşırken sich kullanılır: Wir teilen uns eine Pizza."},
+      "B2-983": {"pron": "LAY-ken", "tip": "İngilizce like gibi okunur 👍 Sadece yazımı Almancalaşmış.", "warn": "Tuhaf görünen halleri: er likt, hat gelikt"},
+      "B1-2042": {"pron": "ko-men-TAR", "tip": "Türkçedeki ‘komentatör’ün akrabası: K ile yazılan comment 💬 Vurgu sonda: -TAR.", "bonus": "yorum yapmak = kommentieren"},
+      "B2-984": {"pron": "FO-lo-ver", "tip": "Doğrudan İngilizceden 👣 Almanca fiili folgen'dir.", "bonus": "folgen datif alır: Ich folge ihr auf Instagram."},
+      "B2-985": {"pron": "İN-flu-en-ser", "tip": "Olduğu gibi alınmış; kadın için -in ekleyin: Influencerin ✨", "bonus": "die Werbung = reklam — sponsorlu gönderilerde arayın."},
+      "B2-987": {"pron": "vi-RAL", "tip": "Virüs gibi yayılır 🦠 Vurgu ikinci hecede.", "bonus": "viral olmak = viral gehen"}
+    },
+    "culture": [
+      "Almanlar başkalarının yüzünü internette paylaşma konusunda dikkatli olma eğilimindedir. Arkadaşlarınızın ya da özellikle çocukların fotoğrafını paylaşmadan önce sormak kibarlıktır: ‘Darf ich das posten?’",
+      "Almanca İngilizce sosyal medya kelimelerini seve seve ödünç alır, sonra da Almanca usulü çekimler: gepostet, gelikt, hochgeladen. Bir internet linç dalgasına Almancada bile der Shitstorm denir.",
+      "Mesajlaşma uygulamalarındaki grup sohbetleri Almanya'da da her yerde — bir sınıfın velileri, bir binanın komşuları ve iş ekipleri çoğu zaman her şeyi tek bir grupta organize eder. 💬"
+    ],
+    "quiz": {"q": "Bir arkadaşınıza ‘Tatil fotoğraflarını hemen yüklüyorum!’ demek istiyorsunuz.", "o": ["Ich lade die Fotos gleich hoch.", "Ich lade die Fotos gleich herunter.", "Ich like die Fotos gleich."], "a": 0, "why": "hochladen ‘yüklemek’ demektir; herunterladen ise tam tersi, ‘indirmek’."},
+    "outro": "Bir dahaki kaydırışınızda her düğmeyi Almanca yüksek sesle söyleyin: liken, teilen, kommentieren! 📱"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "初めてスキーに行く友だちに、初心者向けのコースをすすめたいです。何と言いますか？", "o": ["Die blaue Piste ist ideal für Anfänger.", "Wegen Glatteis gab es viele Unfälle.", "Die Kinder fahren mit dem Schlitten."], "a": 0, "why": "青いコース（blaue Piste）が初級なので、「青いコースは初心者にぴったり」という意味です。"},
     "outro": "窓の外を見て、今日の天気をドイツ語で言ってみましょう。Es schneit？それともまだ kein Schnee？⛄"
+  },
+  "tr": {
+    "title": "Pistlere çıkın: kış sporları için 10 Almanca kelime",
+    "hook": "Pek çok Alman için kış sadece soğuk değil — Alplere gitme mevsimi.",
+    "intro": [
+      "Dışarıda iri kar taneleri yağıyor ve Alman bir iş arkadaşınız soruyor: „Fährst du dieses Jahr Ski?“ Birden herkes teleferiklerden ve pistlerden bahsetmeye başlıyor, siz de sadece başınızı sallıyorsunuz.",
+      "Bugünkü on kelime kış sporları için ihtiyacınız olan kelimeler. Kayak, kızak, paten, bir de buzlanma ve çığ uyarıları — bunlarla kışınızı planlayabilir ve keyfini çıkarırken güvende kalabilirsiniz. ⛷️"
+    ],
+    "words": {
+      "A1-139": {"pron": "ŞNEY", "tip": "İngilizce snow ile aynı kökten ❄️ Yavaşça söyleyin ve süzülerek inmesine izin verin: ŞNEY.", "warn": "Çoğulu yok. ‘Çok kar’ sadece viel Schnee'dir."},
+      "A2-336": {"pron": "ŞNAY-en", "tip": "der Schnee'nin fiili 🌨️ Özne hep es'tir: Es schneit!", "bonus": "yağmur yağmak = regnen: Es regnet."},
+      "A2-576": {"pron": "Şİ", "tip": "Norveççede ‘bir parça tahta’ 🎿 Ski diye yazılır, ‘şi’ diye okunur!", "bonus": "kayak yapmak = Ski fahren", "warn": "Çoğulu: die Ski ya da die Skier — ikisi de kullanılır."},
+      "B2-2771": {"pron": "PİS-te", "tip": "Fransızca piste, yani iz kelimesinden 🏔️ Türkçedeki ‘pist’ ile aynı! Zorluk derecesine göre renklidir.", "bonus": "blau = kolay, rot = orta, schwarz = zor"},
+      "B2-2770": {"pron": "Şİ-lift", "tip": "Ski + Lift, basitçe yapıştırılmış 🚡 Türkçedeki ‘teleski’ gibi.", "bonus": "Telesiyej der Sessellift'tir."},
+      "B2-2772": {"pron": "ŞLİ-ten", "tip": "İngilizce sled ve slide ile akraba 🛷 Schlitten ile aşağı kayarsınız.", "bonus": "kızak kaymak = Schlitten fahren ya da rodeln"},
+      "B2-2773": {"pron": "ŞLİT-şu", "tip": "Schlitten (kızak) + Schuh (ayakkabı) gibi görünür = kayan ayakkabı ⛸️", "bonus": "buz pateni yapmak = Schlittschuh laufen"},
+      "B2-2774": {"pron": "AYS-ban", "tip": "Eis (buz) + Bahn (pist) 🧊 Dondurma değil — buz pisti!"},
+      "B2-799": {"pron": "GLAT-ays", "tip": "glatt (kaygan) + Eis (buz) ⚠️ Göremezsiniz, onu tehlikeli yapan da bu.", "bonus": "jemanden aufs Glatteis führen = birini tuzağa düşürmek"},
+      "B2-795": {"pron": "la-Vİ-ne", "tip": "la-Vİ-ne — dağdan aşağı hücum eden karı duyun 🏔️ Belki de Latincede ‘kayma’ anlamına gelen kelimeden.", "bonus": "die Lawinengefahr = çığ tehlikesi"}
+    },
+    "culture": [
+      "Pek çok Alman, Bavyera Alplerine ya da sınırın öbür yanındaki Avusturya ve İsviçre'ye kayağa gider. Okulların kış tatilleri eyaletten eyalete değişir; bu yüzden birkaç eyalet aynı anda tatildeyken kayak merkezleri özellikle kalabalık olur.",
+      "İyi bir kar yağışından sonra mahalledeki her tepe bir kızak pistine dönüşür ve yetişkinler de çocuklar kadar keyifle katılır. Kışın birçok şehir ayrıca Noel pazarının yakınına geçici bir buz pisti kurar.",
+      "Kar yağdığında binanın önündeki kaldırımı temizlemek çoğu zaman ev sahibinin ya da kiracıların işidir. Bu şehre ve kira sözleşmenize bağlıdır, o yüzden bir komşuya ya da bina görevlisine sorun. Sabah erkenden gelen kürek sesleri bir Alman kışının sesidir! ❄️"
+    ],
+    "quiz": {"q": "Bir arkadaşınız ilk kez kayağa gidiyor. Yeni başlayanlar pistini nasıl önerirsiniz?", "o": ["Die blaue Piste ist ideal für Anfänger.", "Wegen Glatteis gab es viele Unfälle.", "Die Kinder fahren mit dem Schlitten."], "a": 0, "why": "Mavi pistler (blaue Piste) kolay olanlardır; cümle ‘Mavi pist yeni başlayanlar için ideal’ anlamına gelir."},
+    "outro": "Pencereden bakın ve bugünkü havayı Almanca anlatın. Es schneit mi? Yoksa hâlâ kein Schnee mi? ⛄"
   }
 }

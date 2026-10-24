@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "気に入ったジャケットを見つけましたが、値札がありません。店員さんに何と聞きますか？", "o": ["Ist das reduziert?", "Was kostet die Jacke?", "Kann ich das umtauschen?"], "a": 1, "why": "Was kostet …? = …はいくらですか？値段を聞く基本の文です。"},
     "outro": "次の買い物で、Was kostet das? と一度聞いてみましょう。レジで Eine Quittung, bitte! まで言えたら完璧です。🛒"
+  },
+  "tr": {
+    "title": "Almanya'da alışveriş: ödemeden önce bilmeniz gereken 10 kelime",
+    "hook": "Almanya'da alışverişin yarısı fiyat etiketini okumaktır — diğer yarısını bu on kelime halleder.",
+    "intro": [
+      "Cumartesi öğleden sonra ve süpermarketteki kuyruk bitmek bilmiyor, çünkü yarın pazar ve her yer kapalı olacak. Sonunda kasaya varıyorsunuz, ödüyorsunuz — ve fişi nasıl isteyeceğinizi hatırlayamıyorsunuz.",
+      "Bugünkü on kelime bütün alışveriş turunu kapsıyor: bir şeyin fiyatını sormak, indirimi fark etmek, fiş almak ve olmayan bir şeyi değiştirmek. 🛍️"
+    ],
+    "words": {
+      "A1-073": {"pron": "AYN-kau-fen", "tip": "ein (içeri) + kaufen (satın almak) = alışveriş sepetinize bir şeyler koymak 🛒", "warn": "Ayrılabilen: Ich kaufe heute ein."},
+      "A2-230": {"pron": "ge-ŞEFT", "tip": "Dükkân, insanların çok çalıştığı (schaffen) yerdir 🏪 yani Geschäft.", "bonus": "İş anlamına da gelir: Wie laufen die Geschäfte? = İşler nasıl?"},
+      "A2-119": {"pron": "PRAYS", "tip": "İngilizce price ve prize tek kelimede 🏷️ İkisi de Preis — Türkçedeki ‘fiyat’ da ‘ödül’ de!", "bonus": "fiyat-performans = das Preis-Leistungs-Verhältnis"},
+      "A1-320": {"pron": "KOS-ten", "tip": "Tıpkı İngilizce cost gibi 💶 Was kostet das? her dükkânda işe yarar.", "bonus": "Birden fazla şey için: Was kosten die Äpfel?"},
+      "A1-082": {"pron": "TOY-er", "tip": "İngilizce dear (değerli) ile akraba 💎 Pahalı şeyler bize değerlidir!", "warn": "Karşılaştırmada bir e düşer: teuer → teurer."},
+      "A1-083": {"pron": "Bİ-lih", "tip": "Faturası (bill) hafif olan şey billig'dir 🪙 yani ucuz!", "warn": "‘Ucuz ve kalitesiz’ gibi durabilir. İyi bir fiyatı övmek için günstig daha doğal."},
+      "B1-258": {"pron": "ra-BAT", "tip": "İtalyancada fiyatı aşağı vurmak demek 🔨 Pazarlıkta ‘indir biraz’ gibi!", "bonus": "Gibt es Rabatt für Studenten? = Öğrenci indirimi var mı?"},
+      "BL-17-08": {"pron": "re-du-TSİRT", "tip": "Düpedüz İngilizce reduced 📉 Kırmızı fiyat etiketlerinin yanında arayın.", "bonus": "kampanyada = im Angebot: Die Butter ist heute im Angebot."},
+      "A2-027": {"pron": "KVİ-tunk", "tip": "quitt = ödeşmiş, hesap kapanmış 🧾 Ödediniz, artık ödeştiniz!", "bonus": "Kasa fişine der Kassenbon ya da sadece der Bon da denir."},
+      "A2-061": {"pron": "UM-tau-şen", "tip": "um (başka türlü) + tauschen (takas etmek) = başka bir şeyle değiştirmek 🔄 Para bozdurmak da: Geld umtauschen.", "warn": "Ayrılabilen: Ich tausche die Schuhe um."}
+    },
+    "culture": [
+      "Almanya'da dükkânların çoğu pazar günü kapalıdır; süpermarketlerin cumartesi bu kadar kalabalık olmasının sebebi bu. İstasyon ve havalimanlarındaki dükkânlar ile benzin istasyonları yaygın istisnalardır; hafta içi açılış saatleri ise eyalete ve dükkâna göre değişir.",
+      "Çantanızı yanınızda getirin. Kasadaki poşetler genelde ücretlidir, bu yüzden birçok kişi bez çanta (Stoffbeutel) taşır. Plastik şişe ve kutularda depozito (Pfand) vardır; süpermarketteki makineye atarak geri alırsınız.",
+      "Bir dükkândan aldığınız şey kusurlu değilse, değiştirmek yasal bir hak değildir. Yine de birçok dükkân fişiniz varsa değiştirir — o yüzden Quittung'unuzu saklayın! 🧾"
+    ],
+    "quiz": {"q": "Beğendiğiniz bir ceket buldunuz ama fiyat etiketi yok. Satış görevlisine ne sorarsınız?", "o": ["Ist das reduziert?", "Was kostet die Jacke?", "Kann ich das umtauschen?"], "a": 1, "why": "Was kostet …? = … ne kadar? Fiyat sormanın temel yolu."},
+    "outro": "Bir dahaki alışverişinizde en az bir kez Was kostet das? diye sorun. Kasada Eine Quittung, bitte! ekleyin, artık profesyonelsiniz. 🛒"
   }
 }

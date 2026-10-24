@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "ホテルに着いたら、スマホの電池が0%。フロントで何と言いますか？", "o": ["Ich habe mein Handtuch vergessen.", "Ich habe meinen Badeanzug vergessen.", "Ich habe mein Ladegerät vergessen."], "a": 2, "why": "Ladegerät = 充電器。電池切れのときに必要なのは充電器ですね。"},
     "outro": "次に荷造りするときは、入れるものをひとつずつドイツ語で言ってみましょう。「Reisepass、チェック！」という感じで。楽しい旅を！✈️"
+  },
+  "tr": {
+    "title": "Bavulun fermuarını çekmeden önce: Valiz hazırlamak için 10 Almanca kelime",
+    "hook": "Yolculuktan önceki gece çoraplarınızın yanına biraz da Almanca koyun.",
+    "intro": [
+      "Yolculuktan önceki gece. Fermuarı kapatmak için bavulun üstüne oturmuşsunuz ve birden aklınıza geliyor: Şarj aletini koydum mu? Pasaportu? Böylece her şeyi yeniden açıp kontrol ediyorsunuz.",
+      "Bugünkü 10 kelime her bavul hazırlayışınızda karşınıza çıkanlar. Bunlarla kendi Almanca bavul listenizi yazabilir ve otel resepsiyonunda ‘Şarj aletimi evde unuttum’ gibi şeyler söyleyebilirsiniz. Hadi bavulu açalım! 🧳"
+    ],
+    "words": {
+      "A2-108": {"pron": "KO-fer", "tip": "İngilizce coffer (sandık) ile aynı kökten; bavulunuz bir hazine sandığı 💼", "warn": "Çoğulu aynı görünür: die Koffer"},
+      "A2-162": {"pron": "PA-ken", "tip": "İngilizce pack, Türkçedeki paket gibi 🎒 Koffer packen = bavul hazırlamak.", "bonus": "bavulu boşaltmak = auspacken"},
+      "A2-452": {"pron": "AYN-pa-ken", "tip": "ein (içeri) + packen = içine koymak 🎁 Dükkânlar hediye paketi için de kullanır.", "warn": "Ayrılabilen fiil: Ich packe das Ladegerät ein."},
+      "A1-228": {"pron": "HANT-tuh", "tip": "Hand (el) + Tuch (bez) = el bezi 🧺 Koca bir banyo havlusu bile çoğu zaman sadece Handtuch'tur.", "warn": "Çoğulu umlautlu: die Handtücher"},
+      "A2-110": {"pron": "RAY-ze-pas", "tip": "Reise (yolculuk) + Pass = yolculuk pası 🛂 İnsanlar çoğu zaman sadece der Pass der; Türkçedeki pasaport gibi.", "bonus": "geçerli = gültig: Ist der Pass noch gültig?"},
+      "A2-559": {"pron": "RUK-zak", "tip": "Rücken (sırt) + Sack (çuval) = sırt çuvalı 🎒 İngilizce rucksack'ı Almancadan almış!", "warn": "Çoğulu: die Rucksäcke"},
+      "A2-743": {"pron": "ŞAM-pu", "tip": "Türkçedeki şampuan ile aynı 🧴 Aslında Hintçede ‘masaj yapmak’ anlamına gelen bir kelimeden geliyor.", "bonus": "saç kremi = die Spülung · sabun = die Seife"},
+      "B1-1425": {"pron": "TSAN-pas-ta", "tip": "Zahn (diş) + Pasta (macun) = diş pastası 🍝 Makarna değil, söz!", "bonus": "die Zahncreme da denir · diş fırçası = die Zahnbürste"},
+      "A2-807": {"pron": "LA-de-ge-ret", "tip": "laden (yüklemek, şarj etmek) + Gerät (alet) = şarj aleti 🔌", "bonus": "powerbank = die Powerbank · kablo = das Kabel"},
+      "A2-1064": {"pron": "BA-de-an-tsuk", "tip": "baden (yıkanmak, denize girmek) + Anzug (takım) = yüzme takımı 👙 Kelimesi kelimesine!", "bonus": "Erkek mayosu = die Badehose"}
+    },
+    "culture": [
+      "Pek çok Alman gençlik hosteli ve ekonomik konaklama yeri havlu vermez ya da ek ücret ister. Saunaya gitmeyi planlıyorsanız büyük bir havlu getirin: Alman saunalarında genellikle kendi havlunuzun üstüne oturur ya da uzanırsınız.",
+      "Alman prizleri yuvarlak iki pimli Avrupa fişine uygundur. İngiltere, ABD ya da kıta Avrupası dışında başka bir yerden geliyorsanız bir adaptör alın.",
+      "Ve dükkânların çoğunun pazar günleri kapalı olduğunu unutmayın. Diş macununuzu ya da şampuanınızı unuttuysanız büyük tren istasyonları ve havalimanlarındaki dükkânlar en iyi dostunuzdur. Bavulu erken hazırlayın! 🧴"
+    ],
+    "quiz": {"q": "Otele vardınız ve telefonunuzun şarjı %0. Resepsiyona ne dersiniz?", "o": ["Ich habe mein Handtuch vergessen.", "Ich habe meinen Badeanzug vergessen.", "Ich habe mein Ladegerät vergessen."], "a": 2, "why": "Ladegerät = şarj aleti; şarjı bitmiş bir telefon için tam ihtiyacınız olan şey."},
+    "outro": "Bir dahaki bavul hazırlayışınızda her eşyayı koyarken Almanca adını söyleyin: ‘Reisepass — tamam!’ İyi yolculuklar! ✈️"
   }
 }

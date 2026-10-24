@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "博物館のチケット売り場で、学割があるか聞くには？", "o": ["Wo ist die Sammlung?", "Das Kunstwerk ist sehr schön.", "Gibt es eine Ermäßigung für Studenten?"], "a": 2, "why": "Ermäßigung = 割引。「学生割引はありますか？」という質問です。"},
     "outro": "近くの博物館の Öffnungszeiten を調べて、Am Samstag ist das Museum von … bis … geöffnet. と声に出してみましょう。週末の予定、決まりですね！🏛️"
+  },
+  "tr": {
+    "title": "Müze günü! Sergiler için 10 Almanca kelime",
+    "hook": "Gri bir Alman gününde müze mükemmel bir kaçış noktasıdır; yeter ki kelimeleri bilin.",
+    "intro": [
+      "Yağmurlu bir pazar günü ve bir arkadaşınızla müzeye gitmek için sözleştiniz. Gişedeki tabelada Öffnungszeiten, Ermäßigung, Sonderausstellung yazıyor… Öğrenci indirimi var mı? Sergi nereden başlıyor?",
+      "Bugünkü 10 kelime müzelerde ve sergilerde her yerde karşınıza çıkıyor. Bunlarla açılış saatlerine bakabilir, indirim sorabilir ve sanat eserleri hakkında Almanca sohbet edebilirsiniz. Şemsiyenizi katlayın ve içeri girin! 🖼️"
+    ],
+    "words": {
+      "A2-253": {"pron": "mu-ZE-um", "tip": "İlham perileri Muse'lerin evi 🏛️ Türkçedeki müze ile aynı kökten.", "warn": "Çoğulu: die Museen! Bir sürü müze = viele Museen"},
+      "A2-032": {"pron": "AUS-ştel-lunk", "tip": "aus (dışarı) + stellen (koymak) + -ung = göstermek için dışarı konmuş şeyler 🖼️ -ung, yani die!", "bonus": "özel sergi = die Sonderausstellung"},
+      "B1-706": {"pron": "ga-le-Rİ", "tip": "İtalyanca galleria (üstü kapalı geçit) kelimesinden 🎨 Türkçedeki galeri ile aynı; vurgu sondaki uzun ‘-Rİ’de!", "bonus": "Küçük sanat satıcıları için de büyük galeriler için de kullanılır."},
+      "A2-1035": {"pron": "ÖF-nunks-tsay-ten", "tip": "Öffnung (açılış) + Zeiten (saatler) = açılış saatleri 🕘", "warn": "Genellikle çoğul: Die Öffnungszeiten sind …"},
+      "A2-562": {"pron": "RUNT-gank", "tip": "rund (yuvarlak) + Gang (yürüyüş) = etrafta bir tur 🔄", "bonus": "einen Rundgang machen = bir tur atmak, etrafa göz atmak"},
+      "B1-480": {"pron": "AUS-ştel-len", "tip": "aus (dışarı) + stellen (koymak) = sergilemek için ortaya koymak 🏺 Resmî dairede ise bir belgeyi ‘düzenlemek’ demek!", "warn": "Ayrılabilen fiil: Das Museum stellt Bilder von Klimt aus."},
+      "A2-795": {"pron": "be-ZU-her", "tip": "besuchen (ziyaret etmek) + -er = ziyaretçi 🚶 -er ile biten kişiler der alır.", "bonus": "Çoğulu aynı: die Besucher · kadın ziyaretçi die Besucherin"},
+      "A2-456": {"pron": "er-ME-si-gunk", "tip": "mäßig (makul) kelimesinden: fiyatı makul bir seviyeye indirmek 🎟️", "bonus": "indirimli bilet = ermäßigt: Einmal ermäßigt, bitte!"},
+      "B2-2764": {"pron": "ZAM-lunk", "tip": "sammeln (toplamak) + -ung = koleksiyon 🗃️ zusammen (birlikte) ile akraba.", "bonus": "kalıcı koleksiyon = die ständige Sammlung"},
+      "B2-1336": {"pron": "KUNST-verk", "tip": "Kunst (sanat) + Werk (eser) = sanat eseri 🖌️ Feuerwerk'teki (havai fişek) Werk ile aynı!", "bonus": "Ne şaheser! = Was für ein Kunstwerk!"}
+    },
+    "culture": [
+      "Berlin'in tam ortasında beş büyük müzenin yan yana durduğu Müze Adası (Museumsinsel) vardır. Bütün ada UNESCO Dünya Mirası listesindedir ve bir gün ancak yeter.",
+      "Pek çok şehirde yılda bir kez ‘Müzelerin Uzun Gecesi’ (Lange Nacht der Museen) düzenlenir. Tek bir biletle gece geç saatlere kadar birçok müzeyi gezebilirsiniz; tam bir festival havası vardır.",
+      "Öğrenciler ve çocuklar çoğu zaman indirim alır, öğrenci kartınızı yanınıza alın. Büyük çantalar genellikle içeri girmeden önce bir dolaba (Schließfach) ya da vestiyere (Garderobe) bırakılır. 🎟️"
+    ],
+    "quiz": {"q": "Müze gişesinde öğrenci indirimini nasıl sorarsınız?", "o": ["Wo ist die Sammlung?", "Das Kunstwerk ist sehr schön.", "Gibt es eine Ermäßigung für Studenten?"], "a": 2, "why": "Ermäßigung = indirim; bu cümle ‘Öğrencilere indirim var mı?’ diye soruyor."},
+    "outro": "Yakınınızdaki bir müzenin Öffnungszeiten'ına bakın ve yüksek sesle Am Samstag ist das Museum von … bis … geöffnet. deyin. Hafta sonu planı hazır! 🏛️"
   }
 }

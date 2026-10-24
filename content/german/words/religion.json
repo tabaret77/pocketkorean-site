@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "南ドイツのパン屋さんに入ったら「Grüß Gott!」と言われました。同じ意味の表現は？", "o": ["Gott sei Dank!", "Guten Tag!", "Gute Besserung!"], "a": 1, "why": "Grüß Gott! は南ドイツやオーストリアのあいさつで、Guten Tag! と同じ意味です。"},
     "outro": "今日は beten、bitten、bieten を3回ずつ早口で言って、違いを体で覚えてみましょう。🙏"
+  },
+  "tr": {
+    "title": "Kilise çanları ve Grüß Gott: dinle ilgili 10 Almanca kelime",
+    "hook": "Almanya'da bir süre yaşayınca ‘din’ kelimesiyle sandığınızdan daha sık karşılaşırsınız.",
+    "intro": [
+      "Adres kaydı yaptırmaya gidiyorsunuz ve formda ‘Religion’ diye bir kutucuk var. Pazar sabahı kilise çanları çalıyor, güneye yaptığınız bir gezide insanlar sizi ‘Grüß Gott!’ diye selamlıyor.",
+      "İşte Alman kültürünün bu yüzünü anlamanıza yardım edecek on kelime. Formlar, kilise ziyaretleri ve Alman tarihi çok daha anlamlı hale gelecek. ⛪"
+    ],
+    "words": {
+      "A2-672": {"pron": "re-li-GYON", "tip": "-ion ile biten isimler hep die'dir ⛪ Yazılışı İngilizcedeki religion ile aynı!", "bonus": "Alman okullarında Religion aynı zamanda bir dersin adıdır."},
+      "A1-148": {"pron": "KİR-he", "tip": "Aslında İngilizce church ile aynı kelime 🔔 ‘KİR’de çanı duyuyor musunuz?", "bonus": "Büyük bir katedral der Dom'dur: der Kölner Dom"},
+      "B1-750": {"pron": "GOT", "tip": "İngilizce god ile neredeyse aynı 🙏 Rahatladınız mı? Gott sei Dank! (Allah'a şükür!)", "warn": "Çoğulu umlautlu: die Götter (mitolojideki tanrılar)"},
+      "B1-2085": {"pron": "GLAU-be", "tip": "glauben (inanmak) fiilinin ismi — İngilizce belief ile akraba ✨", "warn": "Düzensiz genitif: des Glaubens"},
+      "B2-3340": {"pron": "BEY-ten", "tip": "bitten (rica etmek) ile akraba — dua etmek Tanrı'dan bir şey istemektir 🙏", "warn": "Karıştırmayın: beten dua etmek · bitten rica etmek · bieten sunmak"},
+      "B1-1843": {"pron": "GO-tes-di:nst", "tip": "Gott + es + Dienst (hizmet) = Tanrı'ya hizmet 🕯️", "bonus": "Protestan ayinlerini de Katolik ayinini de kapsar; yalnızca Katolik ayini die Messe'dir."},
+      "B1-2350": {"pron": "PFA-rer", "tip": "die Pfarre (cemaat bölgesi) kelimesinden — İngilizce parish gibi ⛪", "bonus": "Hem Protestan papazlar hem Katolik bölge rahipleri için kullanılır."},
+      "B1-2098": {"pron": "ka-TO-liş", "tip": "Yunanca katholikos (evrensel) kelimesinden 🌍 h okunmaz.", "bonus": "Katolik kişi = der Katholik / die Katholikin"},
+      "B1-1844": {"pron": "ey-van-GEY-liş", "tip": "das Evangelium (İncil'in müjdesi) kelimesinden 📖 Almanya'da düpedüz Protestan demek.", "warn": "İngilizcedeki ‘evangelical’ anlamına gelmez."},
+      "B1-2230": {"pron": "Bİ-bel", "tip": "Yunanca biblía (kitaplar) kelimesinden 📚 Kitapların kitabı!", "bonus": "Çoğulu: die Bibeln"}
+    },
+    "culture": [
+      "Almanya'da büyük kiliselerin (Katolik ve Protestan) kayıtlı üyeleri genellikle kilise vergisi (Kirchensteuer) öder; bu vergi gelir vergisiyle birlikte maaştan kesilir. Kayıt formunun dininizi sormasının sebebi budur.",
+      "Bölgeden bölgeye değişir. Bavyera gibi güney bölgeler büyük ölçüde Katoliktir ve orada ‘Grüß Gott!’ denir. Kuzey ve doğuda ise Protestan geleneği daha güçlüdür ya da dinsiz insanların sayısı fazladır.",
+      "Martin Luther'in İncil'i Almancaya çevirmesi, bugünkü standart Almanca üzerinde büyük etki bıraktı. Birçok kilise ziyaretçileri memnuniyetle karşılar, ama ayin sırasında lütfen sessiz olun. 🔔"
+    ],
+    "quiz": {"q": "Güney Almanya'da bir fırına giriyorsunuz ve ‘Grüß Gott!’ duyuyorsunuz. Hangi ifade aynı anlama gelir?", "o": ["Gott sei Dank!", "Guten Tag!", "Gute Besserung!"], "a": 1, "why": "Grüß Gott!, Güney Almanya ve Avusturya'da tıpkı Guten Tag! gibi bir selamlaşmadır."},
+    "outro": "beten, bitten, bieten kelimelerini hızlıca üçer kez söyleyin ve farkı hissedin. 🙏"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "明細に 3.500 Euro brutto と書いてあります。実際に口座に入る金額は何と言いますか？", "o": ["brutto", "die Kirchensteuer", "netto"], "a": 2, "why": "netto は税金と社会保険料を引いた手取り額です。"},
     "outro": "自分のお給料（または夢のお給料）を „Ich verdiene … brutto, netto bleiben …“ で声に出して言ってみましょう。数字の練習にもなりますよ！💶"
+  },
+  "tr": {
+    "title": "Maaş bordrosu paniği mi? Onu çözmek için 10 Almanca kelime",
+    "hook": "Sözleşmenizde 3.500 yazıyor, peki banka hesabınızda neden çok daha az görünüyor?",
+    "intro": [
+      "İlk Alman maaş bordrom (Gehaltsabrechnung) geldiği gün ona öylece bakakaldım. Satır satır kesintiler: Steuer, Sozialabgaben, Kirchensteuer… Bütün bunlar neydi?",
+      "Bugünkü on kelime her bordroda ve her vergi formunda karşınıza çıkar. Bunlarla bordronuzu kendi başınıza okuyabilir ve vergi dairesinden gelen her mektubun ana fikrini kavrayabilirsiniz. 🧾"
+    ],
+    "words": {
+      "B1-105": {"pron": "ŞTOY-er", "tip": "Devlet paranızdan bir dilimi ‘depolar’ (store) 💸 Vergi die Steuer'dir.", "warn": "das Steuer ise direksiyondur. Tek bir artikel her şeyi değiştirir."},
+      "B2-565": {"pron": "ŞTOY-er-er-kle-runk", "tip": "Steuer + Erklärung (açıklama) = paranızı devlete açıklamak 📑 -ung, yani die.", "bonus": "vergi beyannamesi vermek = die Steuererklärung machen"},
+      "B2-566": {"pron": "fi-NANTS-amt", "tip": "Finanz (finans) + Amt (daire) = vergi dairesi 🏛️ Zarfın üstünde mi gördünüz? Açın!", "warn": "Çoğulu umlautlu: die Finanzämter"},
+      "B2-440": {"pron": "BRU-to", "tip": "İtalyancada ‘kaba, işlenmemiş’ 🪨 Türkçedeki ‘brüt’ ile aynı: hiçbir şey kesilmemiş ham tutar.", "bonus": "brüt maaş = das Bruttogehalt"},
+      "B2-441": {"pron": "NE-to", "tip": "Türkçedeki ‘net’ gibi: süzgeçten geçtikten sonra kalan 🥅 Hesabınıza gerçekten yatan para.", "bonus": "Unutmayın: brutto − Abzüge = netto"},
+      "B2-2496": {"pron": "ŞTOY-er-nu-mer", "tip": "Steuer + Nummer = vergi numarası 🔢 Serbest çalışanlar bunu her faturaya yazar.", "warn": "Çalışanların kullandığı Steuer-ID (kişisel vergi kimlik numarası) ile aynı şey değildir."},
+      "B2-2497": {"pron": "ŞTOY-er-be-şayt", "tip": "Bescheid ‘işte sonuç’ mektubudur 📬 Beyanname verdikten sonra beklediğiniz mektup.", "bonus": "Bescheid sagen = birine haber vermek: Sag mir Bescheid!"},
+      "C1-3715": {"pron": "zo-TSYAL-ap-ga-ben", "tip": "sozial + Abgabe (teslim ettiğiniz şey) = sosyal sistem için para 🤝 Emeklilik, sağlık ve işsizlik sigortası.", "warn": "Neredeyse hep çoğul: die Sozialabgaben"},
+      "C1-1469": {"pron": "KİR-hen-ştoy-er", "tip": "Kirche (kilise) + Steuer = kilise vergisi ⛪ Bu satır yeni gelenlerin çoğunu şaşırtır."},
+      "C1-1877": {"pron": "AP-zet-sen", "tip": "ab (-den) + setzen (koymak) = vergiden düşmek ✂️ Bir indirimin tatlı sevinci.", "warn": "Ayrılabilen: Ich setze den Laptop von der Steuer ab."}
+    },
+    "culture": [
+      "Almanya'da çalışıyorsanız işvereniniz gelir vergisini (Lohnsteuer) doğrudan maaşınızdan keser. Birçok çalışan aslında beyanname vermek zorunda değildir ama çoğu yine de verir, çünkü işe gidiş yolu ya da iş ekipmanı gibi şeyler abgesetzt edilebilir ve çoğu zaman para geri gelir.",
+      "Adres kaydınızı (Anmeldung) yaptırdıktan sonra Steuer-ID'niz genellikle birkaç hafta içinde postayla gelir. İşvereniniz bunu isteyecek, o yüzden güvenli bir yerde saklayın.",
+      "Katolik ya da Protestan kilisesi gibi bir kiliseye üye olarak kayıt yaptırırsanız kilise vergisi söz konusu olabilir. Kayıt olmadan önce din kutucuğuna ne yazacağınızı düşünmekte fayda var. 📋"
+    ],
+    "quiz": {"q": "Bordronuzda 3.500 Euro brutto yazıyor. Hesabınıza gerçekten yatan tutara ne denir?", "o": ["brutto", "die Kirchensteuer", "netto"], "a": 2, "why": "netto, vergi ve sosyal kesintilerden sonra elinize geçen maaştır."},
+    "outro": "Maaşınızı (gerçek ya da hayalinizdeki) yüksek sesle söyleyin: „Ich verdiene … brutto, netto bleiben …“ Sayı pratiği de cabası! 💶"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "ビールテントでみんながジョッキを持ち上げました。何と言いますか？", "o": ["Prost!", "Gute Besserung!", "Ich habe einen Kater."], "a": 0, "why": "Prost! = 乾杯！グラスを合わせるときに言う言葉です。"},
     "outro": "今夜の一杯で、Prost! と声に出して乾杯してみましょう。ただし明日の Kater はなしでお願いします！🍻"
+  },
+  "tr": {
+    "title": "10 kelimede Oktoberfest: Prost'tan ertesi sabaha",
+    "hook": "Bir litrelik bira bardağını kaldırmadan önce bu kelimeleri yanınıza alın.",
+    "intro": [
+      "Münih'te kocaman bir bira çadırındasınız. Bando çalmaya başlıyor, herkes banklara çıkıp kadeh tokuşturuyor ve yanınızdaki adam sırıtarak ‘Prost!’ diye bağırıyor. Siz de ne diyeceğinizi bilemeden gülümsüyorsunuz.",
+      "Bugünkü 10 kelime Oktoberfest'te ve diğer Alman şenliklerinde duyacaklarınız. Bunlarla bira sipariş edebilir, kadeh kaldırabilir ve ertesi gün akşamdan kalma olduğunuzu itiraf edebilirsiniz. 🍻"
+    ],
+    "words": {
+      "A1-251": {"pron": "BİR", "tip": "Türkçedeki bira ile neredeyse aynı 🍺", "warn": "Sipariş verirken çoğul yok: Zwei Bier, bitte!"},
+      "B1-1045": {"pron": "PROST", "tip": "Latince prosit, ‘sana iyi gelsin’ kelimesinden 🥂 Kadeh kaldırmak sağlık dilemektir; tıpkı ‘şerefe’ ve ‘sağlığa’ gibi.", "bonus": "Kadeh tokuştururken karşınızdakinin gözüne bakın; bu Alman görgü kuralıdır."},
+      "B2-1333": {"pron": "FOLKS-fest", "tip": "Volk (halk) + Fest (şenlik) = herkesin şenliği 🎡 Türkçedeki ‘halk şenliği’nin birebir karşılığı.", "bonus": "Lunapark ve yemek tezgâhları varsa büyük ihtimalle bir Volksfest'tir."},
+      "A2-224": {"pron": "FEST", "tip": "Festival kelimesiyle aynı kökten 🎉 Türkçedeki fest de oradan.", "bonus": "Noel'de: Frohes Fest!"},
+      "B1-2050": {"pron": "BAY-e-riş", "tip": "Bayern (Bavyera) + -isch = Bavyeralı 🥨 Sıfatlar -isch'i sever.", "bonus": "bayrisch diye de yazılır."},
+      "B1-130": {"pron": "tra-di-TSYON", "tip": "Türkçedeki tradisyon/gelenek ile neredeyse aynı yazılır 📜 sadece Almanca okuyun.", "warn": "-ion ile biten isimler her zaman die."},
+      "B2-3379": {"pron": "KRUK", "tip": "İngilizce crock ile akraba 🍺 kulplu, ağır bir bardak.", "bonus": "Oktoberfest'teki bir litrelik bardak der Maßkrug, bir litre bira da die Maß."},
+      "B2-3103": {"pron": "ka-PE-le", "tip": "Hem küçük bir şapel hem de bando 🎺 Bira çadırında bando demek!", "bonus": "bando, nefesli çalgılar orkestrası = die Blaskapelle"},
+      "B1-519": {"pron": "be-TRUN-ken", "tip": "trinken'in geçmiş zaman ortacına benziyor 🥴 Fazla içmişsiniz!", "bonus": "Sadece biraz çakırkeyif mi? O zaman beschwipst."},
+      "C2-1831": {"pron": "KA-ter", "tip": "Akşamdan kalmalık bir erkek kedidir 🐈 Ertesi sabah kafanızın içinde miyavlar.", "bonus": "Ich habe einen Kater. = Akşamdan kalmayım."}
+    },
+    "culture": [
+      "Adına rağmen Oktoberfest eylülde başlar ve ekim başında biter. Kökeni 1810'daki bir Bavyera kraliyet düğününün kutlamalarına dayanır.",
+      "Çadırlarda bira genellikle bir litrelik bardakta (Maß) gelir. Pek çok kişi Dirndl ve Lederhosen giyer; bando çaldığında da bütün çadır eşlik eder.",
+      "Münih'e gidemiyor musunuz? Sorun değil; Almanya'nın her yerinde Stuttgart'taki Cannstatter Wasen gibi benzer Volksfest'ler vardır. 🎡"
+    ],
+    "quiz": {"q": "Bira çadırındaki herkes kadehini kaldırıyor. Ne dersiniz?", "o": ["Prost!", "Gute Besserung!", "Ich habe einen Kater."], "a": 0, "why": "Prost! = Şerefe! Kadeh tokuştururken söylenen budur."},
+    "outro": "Bu akşam bir sonraki içeceğinizde yüksek sesle Prost! deyin. Yeter ki yarın hiç Kater olmasın! 🍻"
   }
 }

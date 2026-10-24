@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "来月パスポートの期限が切れます。外国人局でどう説明しますか？", "o": ["Mein Pass ist gültig bis 2030.", "Ich arbeite bei der Botschaft.", "Mein Pass läuft nächsten Monat ab."], "a": 2, "why": "ablaufen = 期限が切れる。「私のパスポートは来月期限が切れます」という意味です。"},
     "outro": "今日は自分のパスポートと滞在カードの有効期限を確かめながら、Mein Pass ist gültig bis … と声に出してみましょう。書類の心配のない一日を！📅"
+  },
+  "tr": {
+    "title": "Almanca vize işlemleri: atlayamayacağınız 10 kelime",
+    "hook": "Almanya'daki hayatın en sinir bozucu anı bir sınav ya da mülakat değil, yabancılar dairesinin bekleme salonu olabilir.",
+    "intro": [
+      "Sonunda yabancılar dairesinden randevu aldınız. Elinizde sıra numarasıyla oturuyorsunuz ve her form üstünüze uzun kelimeler fırlatıyor: Aufenthaltserlaubnis, gültig, beantragen … Memur size bir şey sorduğunda anlayabilecek misiniz?",
+      "Bugünkü on kelime her vize ve oturma izni sürecinde karşınıza çıkar. Bunlarla formları okuyabilir, e-posta yazabilir ve gişede durumunuzu anlatabilirsiniz. Heyecan yerine özgüven getirin! 🛂"
+    ],
+    "words": {
+      "B1-1369": {"pron": "Vİ-zum", "tip": "Latincede ‘görülmüş şey’ 👀 Memur görmüş ve damgalamış — Türkçedeki ‘vize’ ile aynı kökten!", "warn": "Çoğulu: die Visa ya da die Visen, asla ‘Visums’ değil."},
+      "A1-535": {"pron": "PAS", "tip": "Sınırdan geçmenizi (pass) sağlayan kâğıt 🛂 Türkçedeki ‘pasaport’un kısası gibi. Tam adı: der Reisepass.", "warn": "Çoğulu umlautlu: die Pässe."},
+      "B2-630": {"pron": "AUF-ent-halts-er-laup-nis", "tip": "Aufenthalt (kalış) + Erlaubnis (izin) = kalma izni 🏠 -nis ile bitiyor, yani die.", "bonus": "der Aufenthaltstitel (oturma hakkı belgesi) ifadesini de görürsünüz."},
+      "B1-1541": {"pron": "AUS-len-der-be-hör-de", "tip": "Ausländer (yabancı) + Behörde (makam) = yabancılar dairesi 🏛️ Adı üstünde.", "bonus": "Çoğu zaman die ABH diye kısaltılır."},
+      "B2-065": {"pron": "be-AN-tra-gen", "tip": "Başvurunuzu (der Antrag) daireye taşırsınız (tragen) 📝 be- ona doğrudan nesne aldırır.", "bonus": "Resmî hali: einen Antrag stellen"},
+      "B1-381": {"pron": "GÜL-tih", "tip": "gelten (geçmek, yürürlükte olmak) fiilinden ✅ Zıttı: ungültig (geçersiz).", "bonus": "… tarihine kadar geçerli = gültig bis …"},
+      "B2-2507": {"pron": "AP-lau-fen", "tip": "ab (sona kadar) + laufen (koşmak) = süre koşup bitti ⏳", "warn": "Ayrılabilen ve perfekt sein ile: Mein Pass ist abgelaufen."},
+      "B1-448": {"pron": "AR-bayts-er-laup-nis", "tip": "Arbeit (iş) + Erlaubnis (izin) = çalışma izni 💼", "warn": "Oturma izni her zaman çalışmayı kapsamaz. Kartınızda ne yazdığına bakın."},
+      "B1-534": {"pron": "BOT-şaft", "tip": "der Bote'nin (haberci) mesaj getirdiği yer 📨 Bu yüzden ‘mesaj’ anlamına da gelir.", "bonus": "Başkonsolosluk das Generalkonsulat'tır."},
+      "B2-1387": {"pron": "AYN-ray-ze", "tip": "ein (içeri) + Reise (yolculuk) = bir ülkeye giriş yolculuğu 🛬", "bonus": "Zıttı: die Ausreise (çıkış, ülkeden ayrılma)"}
+    },
+    "culture": [
+      "Almanya'da oturma izinleriyle genellikle yaşadığınız şehrin ya da kasabanın yabancılar dairesi ilgilenir. Adı yerden yere biraz değişebilir; büyük şehirlerde randevu (Termin) bulmak zor olabilir, o yüzden erken başlayın.",
+      "İnsanlar genellikle pasaportlarını, biyometrik fotoğraflarını (biometrisches Foto), adres kayıt belgelerini (Meldebescheinigung) ve sağlık sigortası belgelerini getirir. Ne gerektiği kalış sebebinize ve şehre bağlıdır, o yüzden mutlaka dairenin kendi listesine bakın.",
+      "Altın kural: İzninizin süresi dolmadan uzatma başvurusu yapın. Her belgenin bir fotokopisini getirmek de sizi ikinci bir ziyaretten kurtarabilir. 📂"
+    ],
+    "quiz": {"q": "Pasaportunuzun süresi gelecek ay doluyor. Bunu yabancılar dairesinde nasıl anlatırsınız?", "o": ["Mein Pass ist gültig bis 2030.", "Ich arbeite bei der Botschaft.", "Mein Pass läuft nächsten Monat ab."], "a": 2, "why": "ablaufen = süresi dolmak; cümle ‘Pasaportumun süresi gelecek ay doluyor’ anlamına gelir."},
+    "outro": "Bugün pasaportunuzun ve izninizin bitiş tarihlerine bakın ve yüksek sesle Mein Pass ist gültig bis … deyin. Evraklarınız hep tamam olsun! 📅"
   }
 }

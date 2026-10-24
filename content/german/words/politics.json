@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "同僚に「Welche Partei wählst du?」と聞かれました。ほぼ同じ意味の質問はどれ？", "o": ["Gehst du heute auf eine Party?", "Wie ist deine Stimme?", "Wen wählst du bei der Wahl?"], "a": 2, "why": "Partei はパーティーではなく政党なので、いちばん近いのは Wen wählst du bei der Wahl? です。"},
     "outro": "今日はドイツのニュースの見出しを一つ探して、今日の単語がいくつ出てくるか数えてみましょう。📰"
+  },
+  "tr": {
+    "title": "Manşetleri okuyun: Siyaset için 10 Almanca kelime",
+    "hook": "Seçim zamanı her direkteki afişleri okuyabildiğinizde haberler birden ilginç hâle gelir.",
+    "intro": [
+      "Seçimden önce Almanya'nın her yerinde lamba direkleri parti afişleriyle dolar. Akşam haberleri Koalition, Bundestag ve Regierung ile doludur; öğle yemeğinde de meslektaşlarınız birbirine gayet ciddi bir şekilde „Wen wählst du?“ diye sorar.",
+      "Bugünkü 10 kelime her Alman siyaset haberinde karşınıza çıkıyor. Bunlarla manşetleri takip edebilir ve meslektaşlarınız siyaset konuşurken sohbete katılmaya başlayabilirsiniz. 🗳️"
+    ],
+    "words": {
+      "B1-104": {"pron": "VAL", "tip": "wählen (seçmek) fiilinin ismi 🗳️ Seçim aslında büyük bir tercihtir.", "bonus": "Başka seçeneğim yok = Ich habe keine Wahl."},
+      "B1-178": {"pron": "VE-len", "tip": "Oy vermek, menüden seçmek, hatta numara çevirmek; hepsi wählen ☎️", "bonus": "Kime oy verdin? = Wen hast du gewählt?"},
+      "B1-256": {"pron": "par-TAY", "tip": "Latince pars (parça) kelimesinden: toplumun bir parçası adına konuşan grup 🏛️", "warn": "Sahte arkadaş! Gittiğiniz parti eğlencesi die Party'dir."},
+      "A2-271": {"pron": "ŞTİ-me", "tip": "Sesiniz ve oyunuz aynı kelime; kullanın onu! 🎤", "bonus": "Fiili stimmen = doğru olmak: Das stimmt! (Doğru!)"},
+      "B1-103": {"pron": "re-Gİ-runk", "tip": "regieren (yönetmek) + -ung = yöneten insanlar 🏢 -ung, yani die."},
+      "B1-257": {"pron": "po-li-TİK", "tip": "Yunanca polis (şehir devleti) kelimesinden 🏛️ Türkçedeki politika ile aynı kök.", "bonus": "Sıfatı: politisch — politische Themen"},
+      "B1-1034": {"pron": "po-Lİ-ti-ker", "tip": "Politik + -er = siyaset yapan kişi 👔 Vurgu ‘Lİ’de.", "bonus": "Kadın politikacı die Politikerin."},
+      "B1-1952": {"pron": "BUN-des-tak", "tip": "Bund (federasyon) + Tag (meclis anlamında eski bir kelime) 🏛️", "warn": "Buradaki Tag ‘gün’ demek değil; eski anlamıyla ‘meclis’."},
+      "B1-1950": {"pron": "BUN-des-kants-ler", "tip": "Bund (federasyon) + Kanzler (şansölye) 🇩🇪 Bundestag'daki Bund ile aynı.", "bonus": "Cumhurbaşkanı: der Bundespräsident · bakan: der Minister"},
+      "B2-668": {"pron": "ko-a-li-TSYON", "tip": "Latincede ‘birlikte büyümek’ 🤝 Türkçedeki koalisyon ile aynı: birkaç parti tek hükümet kurar.", "bonus": "koalisyon kurmak = eine Koalition bilden"}
+    },
+    "culture": [
+      "Alman federal seçimlerinde iki oyunuz vardır. Birincisi (Erststimme) yerel bir adaya, ikincisi (Zweitstimme) bir partiye gider. Bu yüzden seçimden önce „Wem gibst du deine Zweitstimme?“ gibi sorular duyarsınız.",
+      "Tek bir parti nadiren tek başına çoğunluğu kazanır; bu yüzden seçimden sonra partiler genellikle haftalarca bir Koalition için pazarlık yapar. Her partinin bir rengi vardır ve koalisyonlara çoğu zaman renk kombinasyonlarına göre lakap takılır.",
+      "Seçimler genellikle pazar günü yapılır ve pek çok kişi önceden posta yoluyla (Briefwahl) oy verir. Almanya'da yaşayan AB vatandaşları yerel seçimlerde oy kullanabilir, ama Bundestag için sadece Alman vatandaşları oy verebilir. 🗳️"
+    ],
+    "quiz": {"q": "Bir meslektaşınız „Welche Partei wählst du?“ diye soruyor. Hangi soru kabaca aynı anlama gelir?", "o": ["Gehst du heute auf eine Party?", "Wie ist deine Stimme?", "Wen wählst du bei der Wahl?"], "a": 2, "why": "Partei siyasi parti demek, gidilen parti eğlencesi değil; bu yüzden en yakın soru Wen wählst du bei der Wahl?"},
+    "outro": "Bugün bir Almanca haber başlığı bulun ve bugünkü kelimelerden kaçını görebildiğinizi sayın. 📰"
   }
 }

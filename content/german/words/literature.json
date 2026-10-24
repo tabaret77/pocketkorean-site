@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "本屋さんで、休暇に読む「分厚い小説」を探していると言いたいです。", "o": ["Ich suche einen dicken Roman.", "Ich suche ein kurzes Gedicht.", "Ich suche ein neues Kapitel."], "a": 0, "why": "der Roman = 長編小説。分厚い小説は ein dicker Roman です。"},
     "outro": "いま読んでいる本を思い浮かべて、「Ich lese gerade … von …」と声に出して言ってみましょう。作家の名前も入れたら完璧です！📚"
+  },
+  "tr": {
+    "title": "Şairler ülkesinden kitaplar üzerine 10 Almanca kelime",
+    "hook": "Almanya'da biri size ne okuduğunuzu sorduğunda artık doğru dürüst bir cevabınız olacak.",
+    "intro": [
+      "Yağmurlu bir öğleden sonra küçük bir kitapçıya (Buchhandlung) giriyorsunuz. Kitapçı soruyor: ‘Suchen Sie etwas Bestimmtes?’ İyi bir roman istemek ve en sevdiğiniz yazar hakkında sohbet etmek istiyorsunuz; ama roman Roman mı, yoksa Novelle mi?",
+      "Bugünkü 10 kelime kitaplar ve edebiyatla ilgili. Bunlarla kitapçıda kitap bulabilir, okuma kulübünde konuyu tartışabilir ya da Almanca öğretmeninizin ezberlemenizi istediği şiirden sağ çıkabilirsiniz. 📚"
+    ],
+    "words": {
+      "B1-921": {"pron": "li-te-ra-TUR", "tip": "Latince littera (harf) kökünden ✒️ Harfler toplanınca edebiyat olur; Türkçedeki literatür ile aynı.", "bonus": "Akademik yazılarda ‘okuma listesi, kaynakça’ anlamına da gelir."},
+      "A1-049": {"pron": "BUH", "tip": "Eskiden insanlar kayın ağacı (Buche) tabletlere yazarmış 🌳 Buche → Buch → kitap.", "warn": "Çoğulda umlaut: die Bücher"},
+      "B1-1080": {"pron": "ro-MAN", "tip": "Türkçedeki roman ile birebir aynı 📖 Vurgu sonda: ro-MAN.", "warn": "Aşk romanı ise ein Liebesroman."},
+      "B1-722": {"pron": "ge-DİHT", "tip": "dichten (şiir yazmak) fiilinden 🌙 ge- ile başlayan pek çok isim das alır.", "bonus": "ein Gedicht auswendig lernen = bir şiiri ezberlemek"},
+      "A2-645": {"pron": "AU-tor", "tip": "Araba (Auto) değil, yazar ✍️ Vurgu ilk hecede.", "bonus": "Kadın yazar die Autorin."},
+      "B1-1121": {"pron": "ŞRİFT-ştel-ler", "tip": "Schrift (yazı) + stellen (koymak) + -er = yazıyı yerine koyan kişi 🖋️", "bonus": "Kadın yazar die Schriftstellerin."},
+      "B1-832": {"pron": "ka-Pİ-tel", "tip": "Latincede ‘küçük baş’, yani başlık 🔖 İngilizce chapter'ın kardeşi.", "warn": "Cinsiyet tuzağı: das Kapitel."},
+      "B2-1361": {"pron": "DİH-ter", "tip": "dichten (şiir yazmak) + -er = şair 🪶 Goethe ve Schiller meşhur ikili.", "bonus": "Almanya'nın lakabı: das Land der Dichter und Denker"},
+      "B1-648": {"pron": "er-TSE-lunk", "tip": "erzählen (anlatmak) + -ung = hikâye 🗣️ -ung tabii ki die demek.", "bonus": "Erzähl mal! = Hadi anlat!"},
+      "B1-997": {"pron": "fer-ÖF-fent-li-hen", "tip": "İçinde öffentlich (kamusal) saklı 📢 Kamuya açmak = yayımlamak.", "bonus": "İsmi: die Veröffentlichung = yayın"}
+    },
+    "culture": [
+      "Almanya kendine ‘şairler ve düşünürler ülkesi’ (Land der Dichter und Denker) demeyi sever. Goethe, Schiller, Thomas Mann ve Kafka okulda okutulur; neredeyse her Alman öğrenci küçük sarı Reclam cep kitaplarından birini yanında taşımıştır.",
+      "Her ekim ayında Frankfurt Kitap Fuarı (Frankfurter Buchmesse) düzenlenir, Leipzig ise kitap fuarını ilkbaharda yapar. Küçük mahalle kitapçıları hâlâ yaygındır ve kitapçıdan öneri istemek çok normaldir.",
+      "Ayrıca sabit kitap fiyatı sayesinde yeni Almanca kitaplar genellikle her yerde aynı fiyattır; ister internetten ister köşedeki dükkândan alın. Yani mahalle kitapçınızı gönül rahatlığıyla destekleyebilirsiniz. 📖"
+    ],
+    "quiz": {"q": "Bir kitapçıda tatil için kalın bir roman aradığınızı söylemek istiyorsunuz.", "o": ["Ich suche einen dicken Roman.", "Ich suche ein kurzes Gedicht.", "Ich suche ein neues Kapitel."], "a": 0, "why": "der Roman = roman; kalın bir roman da ein dicker Roman olur."},
+    "outro": "Şu an okuduğunuz kitabı düşünün ve yüksek sesle söyleyin: ‘Ich lese gerade … von …’ Yazarın adıyla birlikte! 📚"
   }
 }

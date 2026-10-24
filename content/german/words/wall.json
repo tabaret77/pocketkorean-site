@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "ベルリンの友だちが「Meine Eltern haben sich nach dem Mauerfall kennengelernt.」と言いました。ご両親が出会ったのはいつ？", "o": ["nach 1989", "vor 1961", "1975"], "a": 0, "why": "Mauerfall は1989年の壁の崩壊なので、そのあと（nach）に出会ったということです。"},
     "outro": "今日は「Die Mauer fiel am 9. November 1989.」を声に出して読んでみましょう。日付もドイツ語で言えたら完璧です！🧱"
+  },
+  "tr": {
+    "title": "Duvardan birleşmeye: hikâyeyi anlatan 10 Almanca kelime",
+    "hook": "Berlin kaldırımlarını boydan boya kesen o çift sıra parke taşı mı? Duvarın bir zamanlar durduğu yeri gösterir.",
+    "intro": [
+      "Berlin'de tarih gündelik hayatın bir parçasıdır. Yürürken yere gömülü çift sıra taşın üzerinden geçersiniz; bir arkadaşınızın anne babası bir hikâyeye ‘Eskiden Doğu'da…’ diye başlar. Her ekimde haberler çok uzun bir kelimeyle dolar: Wiedervereinigung.",
+      "Bugünkü on kelime, Almanlar bölünmeyi ve yeniden birleşmeyi konuştuğunda hep karşınıza çıkar. Bunlarla müze tabelaları ve Alman arkadaşlarınızın aile hikâyeleri çok daha anlamlı hale gelecek. 🧱"
+    ],
+    "words": {
+      "B1-935": {"pron": "MAU-er", "tip": "Latince murus kelimesinden 🧱 İngilizce mural ve Türkçedeki ‘mural’ ile akraba.", "warn": "Taştan dış duvar Mauer'dir; oda içindeki duvar ise die Wand."},
+      "A2-109": {"pron": "GREN-tse", "tip": "Slavca granica (sınır) kelimesinden 🛂 ‘Grrr, Grenze'de dur!’ diye düşünün.", "bonus": "über die Grenze fahren = sınırı geçmek"},
+      "A1-644": {"pron": "OS-ten", "tip": "İngilizce east ile aynı kökten 🌅 Ostern (Paskalya) ile de akraba.", "bonus": "Samimi dilde Doğu Almanlara Ossi denir (şakacı, o yüzden dikkatli kullanın)."},
+      "A1-645": {"pron": "VES-ten", "tip": "İngilizce west ile aynı kökten 🌇 Sadece W'yi V gibi okuyun.", "bonus": "Samimi dilde Batı Almanlara Wessi denir."},
+      "B1-2561": {"pron": "de-de-ER", "tip": "Deutsche Demokratische Republik'in baş harfleri 🔤 Almanca usulü harf harf okuyun: D-D-R.", "warn": "Hep artikelle: in der DDR, die DDR."},
+      "B2-4179": {"pron": "TAY-lunk", "tip": "teilen (bölmek) + -ung = bölünme ✂️ -ung, yani die.", "bonus": "Zıttı: die Wiedervereinigung"},
+      "B2-731": {"pron": "MAU-er-fal", "tip": "Mauer (duvar) + Fall (düşüş) = Duvar'ın yıkılışı 🔨 Kolay!", "bonus": "Tarih: der 9. November 1989"},
+      "B2-732": {"pron": "VEN-de", "tip": "wenden (döndürmek) fiilinden 🔄 Tarihin döndüğü an — Türkçedeki ‘dönüm noktası’.", "bonus": "nach der Wende = 1989 değişiminden sonra"},
+      "B2-730": {"pron": "Vİ-der-fer-ay-ni-gunk", "tip": "wieder (yeniden) + ver-ein (bir etmek) + -ung = yeniden bir olmak 🤝", "bonus": "3 Ekim Tag der Deutschen Einheit'tir"},
+      "C1-855": {"pron": "KAL-te KRİK", "tip": "kalt (soğuk) + Krieg (savaş) = Soğuk Savaş 🥶 Kelimesi kelimesine.", "warn": "Sıfat değişir: im Kalten Krieg, während des Kalten Krieges."}
+    },
+    "culture": [
+      "Berlin Duvarı 13 Ağustos 1961'de dikildi ve 9 Kasım 1989 gecesi açıldı. 3 Ekim 1990'da Almanya yeniden birleşti; 3 Ekim'in milli bayram olmasının sebebi budur: Tag der Deutschen Einheit.",
+      "Berlin'e giderseniz Bernauer Straße'deki Berlin Duvarı Anıtı'nı ve rengârenk boyanmış East Side Gallery'yi kaçırmayın. Şehrin dört bir yanında çift sıra parke taşı Duvar'ın geçtiği yeri gösterir; çoğu zaman fark etmeden üzerinden geçersiniz.",
+      "Bazı izler gündelik hayatın parçasıdır. Doğu Berlin yaya ışıklarındaki şapkalı küçük adam, yani Ampelmännchen, birleşmeden sonra da sevilmeye devam etti ve bugün şehrin bir sembolü. 🚦"
+    ],
+    "quiz": {"q": "Berlinli bir arkadaşınız ‘Meine Eltern haben sich nach dem Mauerfall kennengelernt.’ diyor. Anne babası ne zaman tanışmış?", "o": ["nach 1989", "vor 1961", "1975"], "a": 0, "why": "Mauerfall 1989'da oldu; yani ondan sonra (nach) tanışmışlar."},
+    "outro": "Bugün ‘Die Mauer fiel am 9. November 1989.’ cümlesini yüksek sesle okuyun. Tarihi de Almanca söylerseniz ekstra puan! 🧱"
   }
 }

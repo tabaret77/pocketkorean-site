@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "海辺に休暇で来ています。友だちに今どこにいるか伝えるなら？", "o": ["Wir sind im Gebirge.", "Wir sind an der Küste.", "Wir sind im Tal."], "a": 1, "why": "die Küste = 海岸。「海岸で」は an der Küste と言います。"},
     "outro": "お気に入りの旅行先を思い浮かべて、「Dort gibt es einen Fluss, Berge und …」と声に出して説明してみましょう。⛰️"
+  },
+  "tr": {
+    "title": "Dağlar, nehirler, adalar: Doğa manzarası için 10 Almanca kelime",
+    "hook": "Bir dahaki sefere tren penceresinden Almanya akıp giderken her şeyin adını söyleyebileceksiniz.",
+    "intro": [
+      "Berlin'den Münih'e giden trendesiniz. Önce uçsuz bucaksız düz tarlalar, sonra bir nehir, ardından tepeler ve en sonunda uzakta beyaz dağlar. Bir kartpostal yazmak istiyorsunuz ama elinizde sadece ‘dağ’ ve ‘nehir’ var.",
+      "Bugünkü 10 kelime manzaraları anlatıyor. Bu kelimelerle bir gezi planlayabilir, gittiğiniz yerleri anlatabilir ve yürüyüş yollarındaki tabelaları okuyabilirsiniz. 🏞️"
+    ],
+    "words": {
+      "A2-111": {"pron": "LANT-şaft", "tip": "Land + -schaft = toprağın şekli; İngilizce landscape'in ikizi 🖼️", "bonus": "-schaft ile biten isimler her zaman die alır."},
+      "A2-113": {"pron": "BERK", "tip": "Heidelberg, Nürnberg… yer adlarındaki -berg dağ demek ⛰️", "bonus": "auf einen Berg wandern = bir dağa yürüyerek tırmanmak"},
+      "A1-274": {"pron": "FLUS", "tip": "fließen (akmak) fiilinden 🌊 Nehir, akıp giden sudur.", "warn": "Çoğulda umlaut: die Flüsse"},
+      "B1-717": {"pron": "ge-BİR-ge", "tip": "Ge- (topluluk) + Berg = koca bir dağ çetesi 🏔️", "bonus": "ins Gebirge fahren = dağlara gitmek"},
+      "B1-1290": {"pron": "U-fer", "tip": "Suyun ‘uf!’ deyip karaya çarptığı yer 🏖️ Nehir ya da göl kıyısı.", "bonus": "am Ufer = kıyıda, su kenarında"},
+      "B1-1228": {"pron": "TAL", "tip": "İngilizce dale ile aynı kökten 🏡 İki Berg arasında bir Tal vardır.", "warn": "Çoğulda umlaut: die Täler"},
+      "B1-897": {"pron": "KÜS-te", "tip": "İngilizce coast'a benziyor; ikisi de Latince costa (yan) kelimesinden 🌅", "bonus": "an der Küste = kıyıda · Almanya'nın Kuzey Denizi ve Baltık kıyıları var."},
+      "A2-115": {"pron": "İN-zel", "tip": "Latince insula kelimesinden 🏝️ İngilizce peninsula'yı düşünün.", "bonus": "Yarımada die Halbinsel = yarım ada, tıpkı Türkçedeki gibi!"},
+      "B1-792": {"pron": "HÜ-gel", "tip": "Belki hoch (yüksek) ile akraba 🌄 Düzlükten yüksek, Berg'den küçük.", "bonus": "hügelig = tepelik"},
+      "B2-2786": {"pron": "VA-ser-fal", "tip": "Wasser (su) + Fall (düşüş) = suyun düştüğü yer, kelimesi kelimesine 💦", "warn": "Çoğulda umlaut: die Wasserfälle"}
+    },
+    "culture": [
+      "Kuzey ve güney Almanya birbirinden çok farklı görünür. Kuzey düzdür; Kuzey Denizi (Nordsee) ve Baltık Denizi (Ostsee) kıyıları vardır. Güneye indikçe tepeler ve ormanlar artar, sonunda Bavyera'da Alpler belirir. Almanya'nın en yüksek dağı Zugspitze'dir.",
+      "Almanlar doğa yürüyüşüne (Wandern) bayılır. Hafta sonları pek çok kişi botlarını giyip ormana ya da dağlara gider; bir dağ kulübesinde (Hütte) verilen mola da işin yarı keyfidir.",
+      "Nehirler de önemlidir. Ren vadisi boyunca tepelerde şatolar, yamaçlarda bağlar görürsünüz ve pek çok ziyaretçi bu manzarayı bir tekneden izler. 🏰"
+    ],
+    "quiz": {"q": "Deniz kenarında tatildesiniz. Bir arkadaşınıza nerede olduğunuzu nasıl söylersiniz?", "o": ["Wir sind im Gebirge.", "Wir sind an der Küste.", "Wir sind im Tal."], "a": 1, "why": "die Küste = kıyı; ‘kıyıda’ demek için an der Küste denir."},
+    "outro": "En sevdiğiniz yeri düşünün ve yüksek sesle anlatın: ‘Dort gibt es einen Fluss, Berge und …’ ⛰️"
   }
 }

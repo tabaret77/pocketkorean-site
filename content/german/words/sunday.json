@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "日曜の夜、牛乳が切れたのにスーパーは閉まっています。ベルリンならどこへ行きますか？", "o": ["Ich mache einen Ausflug.", "Ich schlafe aus.", "Ich gehe zum Späti."], "a": 2, "why": "Späti は夜遅くまで、日曜日も開いていることが多い街角のお店です。"},
     "outro": "「Am Sonntag schlafe ich aus und mache einen Spaziergang.」を声に出して言ってみて、今週末は本当にそう過ごしてみましょう。🌿"
+  },
+  "tr": {
+    "title": "Sessiz pazarlar: Almanya'da onları atlatmak için 10 kelime",
+    "hook": "Almanya'daki ilk pazarınız bir şok olabilir — bu kelimeleri bilmiyorsanız.",
+    "intro": [
+      "Pazar sabahı alışverişe çıkıyorsunuz. Süpermarket kapalı, giyim mağazası kapalı, her yer kapalı. Sokaklar sessiz ve her kapıda geschlossen yazıyor.",
+      "Bugünkü on kelime Alman pazarlarını ve resmî tatillerini anlamanıza yardım edecek. Açılış tabelalarını okuyabilecek, önceden plan yapabilecek ve geç kalkıp yürüyüşe çıktığınız gerçek bir Alman pazarının keyfini sürebileceksiniz. 😴"
+    ],
+    "words": {
+      "A1-259": {"pron": "ZON-tak", "tip": "Sonne (güneş) + Tag (gün) = güneş günü, tıpkı İngilizce Sunday gibi kurulmuş ☀️", "bonus": "‘Pazarları’ = sonntags. Haftanın bütün günleri der'dir."},
+      "A2-681": {"pron": "FAY-er-tak", "tip": "feiern (kutlamak) + Tag = kutlama günü 🎉", "bonus": "Zıttı, iş günü = der Werktag"},
+      "A2-364": {"pron": "ge-ŞLO-sen", "tip": "schließen (kapatmak) fiilinden 🔒 Kapıda mı gördünüz? Yarın tekrar deneyin.", "bonus": "Konuşmada çoğu zaman sadece zu denir: Der Laden ist zu."},
+      "A2-363": {"pron": "ge-ÖF-net", "tip": "öffnen (açmak) fiilinden 🔓 geschlossen'in mutlu zıttı.", "bonus": "Kapıdaki açılış saatleri = die Öffnungszeiten"},
+      "C1-2503": {"pron": "LA-den-öf-nungs-tsayt", "tip": "Laden (dükkân) + Öffnung (açılış) + Zeit (zaman) — uzun kelimeler sadece Lego 🧱 Zeit ile bittiği için die.", "warn": "Genelde çoğul kullanılır: die Ladenöffnungszeiten."},
+      "A2-560": {"pron": "RU-e", "tip": "Sesi bile rahat: RU-e 🧘 Pazar tamamen Ruhe demektir — huzur ve sükûnet.", "bonus": "Immer mit der Ruhe! = Sakin ol, acele etme!"},
+      "B1-1892": {"pron": "AUS-şla-fen", "tip": "aus (sonuna kadar) + schlafen (uyumak) = doyana kadar uyumak 🛌", "warn": "Ayrılabilen: Ich schlafe aus. Kazara uyuyakalmak ise verschlafen'dir."},
+      "A2-579": {"pron": "şpa-TSİR-gang", "tip": "spazieren (gezinmek) + Gang (yürüyüş) 🚶‍♀️ Pazar öğleden sonralarının milli sporu.", "bonus": "einen Spaziergang machen = yürüyüşe çıkmak"},
+      "B2-2886": {"pron": "ŞPEY-ti", "tip": "Spätkauf'un, yani ‘geç alışveriş’in sevimli kısaltması 🌙 Berlin'in can simidi — mahalle bakkalı gibi.", "bonus": "Başka bölgelerde der Kiosk ya da die Trinkhalle duyarsınız."},
+      "A2-107": {"pron": "AUS-fluk", "tip": "aus (dışarı) + Flug (uçuş) = şehir dışına küçük bir uçuş 🪁", "warn": "Çoğulda umlaut: die Ausflüge."}
+    },
+    "culture": [
+      "Almanya'da pazar günleri ve resmî tatiller korunan dinlenme günleridir, bu yüzden dükkânların çoğu kapalıdır. Büyük tren istasyonlarındaki dükkânlar, benzin istasyonları ve bazı fırınlar çoğu zaman açıktır; insanlar acil durumda oraya gider.",
+      "Pazarların sessiz olması beklenir. İnsanlar genellikle matkapla delik açmak ya da çim biçmek gibi gürültülü işlerden kaçınır; birçok cam kumbarasında da pazar günü kullanılmaması rica eden tabelalar vardır. Kuralların ayrıntısı şehrinize ve binanızın iç yönetmeliğine (Hausordnung) bağlıdır.",
+      "Resmî tatiller de eyalete (Bundesland) göre değişir. Sizin şehriniz tatilken komşu eyalet çalışıyor olabilir; bu yüzden alışverişi önceden yapmak temel bir Almanya hayat becerisidir. 🛒"
+    ],
+    "quiz": {"q": "Berlin'de pazar akşamı, sütünüz bitti ve süpermarket kapalı. Nereye gidersiniz?", "o": ["Ich mache einen Ausflug.", "Ich schlafe aus.", "Ich gehe zum Späti."], "a": 2, "why": "Späti, genellikle geç saate kadar, çoğu zaman pazar günü de açık olan bir mahalle dükkânıdır."},
+    "outro": "‘Am Sonntag schlafe ich aus und mache einen Spaziergang.’ cümlesini yüksek sesle söyleyin — ve bu hafta sonu gerçekten yapın. 🌿"
   }
 }

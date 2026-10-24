@@ -8,23 +8,72 @@
       "오늘은 마트와 시장에서 매일 보는 과일·채소 단어 10개예요. 이 10개면 장보기 목록도 독일어로 쓰고, ‘아직 안 익었어요?’ 같은 질문도 할 수 있어요. 🥕"
     ],
     "words": {
-      "A1-124": {"pron": "옵스트", "tip": "짧고 단단한 소리 ‘옵스트!’ 과일 바구니를 통째로 부르는 말이에요 🍎", "warn": "복수가 없어요. 과일 한 개는 ein Stück Obst."},
-      "A1-123": {"pron": "게뮈제", "tip": "Ge- + Mus(퓌레) = 옛날엔 채소를 푹 끓여 먹었대요 🥬", "warn": "이것도 복수 없이 단수로 써요: Das Gemüse ist frisch."},
-      "A1-022": {"pron": "압펠", "tip": "영어 apple과 사촌이에요 🍏 p 뒤에 f를 살짝 붙여 ‘압f펠’!", "warn": "복수는 움라우트: die Äpfel"},
-      "A1-125": {"pron": "바나네", "tip": "‘바나나’ 끝만 ‘네’로 바꾸면 끝 🍌", "bonus": "-e로 끝나는 과일·채소는 대부분 die예요."},
-      "A1-244": {"pron": "에어트베레", "tip": "Erde(땅) + Beere(베리) = 땅에 붙어 자라는 베리 🍓", "bonus": "Erdbeerkuchen(딸기 케이크)은 독일 여름 디저트의 대표예요."},
-      "A1-126": {"pron": "토마테", "tip": "‘토마토’의 마지막 ‘토’를 ‘테’로 🍅 die Tomate, 복수는 Tomaten.", "bonus": "die Tomatensoße = 토마토소스"},
-      "A1-246": {"pron": "츠비벨", "tip": "썰면 눈물이 ‘츠-빗’ 😭 양파는 Zwiebel!", "bonus": "같이 자주 쓰는 마늘 = der Knoblauch"},
-      "A2-841": {"pron": "뫼레", "tip": "토끼가 ‘뫼~’ 하며 오물오물 🥕", "bonus": "남부에서는 die Karotte, 스위스에서는 das Rüebli라고 해요."},
-      "A2-138": {"pron": "잘라트", "tip": "s가 ‘ㅈ’ 소리! ‘샐러드’가 아니라 ‘잘라트’ 🥗", "bonus": "상추 한 포기도 Salat이라고 해요: ein Kopf Salat"},
-      "B1-1067": {"pron": "라이프", "tip": "영어 ripe와 같은 뿌리 🍑 ‘라이프’ 하고 잘 익었어요!", "bonus": "반대말: unreif = 덜 익은"}
+      "A1-124": {
+        "pron": "옵스트",
+        "tip": "짧고 단단한 소리 ‘옵스트!’ 과일 바구니를 통째로 부르는 말이에요 🍎",
+        "warn": "복수가 없어요. 과일 한 개는 ein Stück Obst."
+      },
+      "A1-123": {
+        "pron": "게뮈제",
+        "tip": "Ge- + Mus(퓌레) = 옛날엔 채소를 푹 끓여 먹었대요 🥬",
+        "warn": "이것도 복수 없이 단수로 써요: Das Gemüse ist frisch."
+      },
+      "A1-022": {
+        "pron": "압펠",
+        "tip": "영어 apple과 사촌이에요 🍏 p 뒤에 f를 살짝 붙여 ‘압f펠’!",
+        "warn": "복수는 움라우트: die Äpfel"
+      },
+      "A1-125": {
+        "pron": "바나네",
+        "tip": "‘바나나’ 끝만 ‘네’로 바꾸면 끝 🍌",
+        "bonus": "-e로 끝나는 과일·채소는 대부분 die예요."
+      },
+      "A1-244": {
+        "pron": "에어트베레",
+        "tip": "Erde(땅) + Beere(베리) = 땅에 붙어 자라는 베리 🍓",
+        "bonus": "Erdbeerkuchen(딸기 케이크)은 독일 여름 디저트의 대표예요."
+      },
+      "A1-126": {
+        "pron": "토마테",
+        "tip": "‘토마토’의 마지막 ‘토’를 ‘테’로 🍅 die Tomate, 복수는 Tomaten.",
+        "bonus": "die Tomatensoße = 토마토소스"
+      },
+      "A1-246": {
+        "pron": "츠비벨",
+        "tip": "썰면 눈물이 ‘츠-빗’ 😭 양파는 Zwiebel!",
+        "bonus": "같이 자주 쓰는 마늘 = der Knoblauch"
+      },
+      "A2-841": {
+        "pron": "뫼레",
+        "tip": "토끼가 ‘뫼~’ 하며 오물오물 🥕",
+        "bonus": "남부에서는 die Karotte, 스위스에서는 das Rüebli라고 해요."
+      },
+      "A2-138": {
+        "pron": "잘라트",
+        "tip": "s가 ‘ㅈ’ 소리! ‘샐러드’가 아니라 ‘잘라트’ 🥗",
+        "bonus": "상추 한 포기도 Salat이라고 해요: ein Kopf Salat"
+      },
+      "B1-1067": {
+        "pron": "라이프",
+        "tip": "영어 ripe와 같은 뿌리 🍑 ‘라이프’ 하고 잘 익었어요!",
+        "bonus": "반대말: unreif = 덜 익은"
+      }
     },
     "culture": [
       "독일 도시에는 일주일에 한두 번 광장에 서는 장터(Wochenmarkt)가 많아요. 제철 채소와 과일을 농가에서 직접 가져와 팔아서, 마트보다 신선하고 이야기 나누는 재미도 있어요.",
       "봄에는 하얀 아스파라거스(Spargel) 철이 와요. 식당마다 Spargel 메뉴가 생기고, 길가에 작은 판매대가 서요. 전통적으로 6월 24일 무렵이면 철이 끝난다고 해요.",
       "여름엔 딸기 모양의 작은 가판대에서 딸기를 파는 풍경도 흔해요. 그리고 마트에서는 장바구니를 직접 챙겨 가는 게 보통이니 가방 하나 꼭 들고 가세요! 🍓"
     ],
-    "quiz": {"q": "마트에서 산 바나나가 아직 초록색이에요. 뭐라고 말할까요?", "o": ["Die Banane ist zu reif.", "Die Banane ist rot.", "Die Banane ist noch nicht reif."], "a": 2, "why": "noch nicht reif = 아직 안 익은. 초록 바나나에 딱 맞는 말이에요."},
+    "quiz": {
+      "q": "마트에서 산 바나나가 아직 초록색이에요. 뭐라고 말할까요?",
+      "o": [
+        "Die Banane ist zu reif.",
+        "Die Banane ist rot.",
+        "Die Banane ist noch nicht reif."
+      ],
+      "a": 2,
+      "why": "noch nicht reif = 아직 안 익은. 초록 바나나에 딱 맞는 말이에요."
+    },
     "outro": "오늘 냉장고를 열고 보이는 과일·채소를 독일어로 하나씩 불러 봐요. 관사까지 같이 말하면 더 좋아요! 🛒"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten words are the fruit and vegetables you see every day in shops and markets. With them you can write your shopping list in German and even ask if something is ripe yet. 🥕"
     ],
     "words": {
-      "A1-124": {"pron": "OHPST", "tip": "One short, punchy word for the whole fruit bowl 🍎", "warn": "No plural. One piece of fruit = ein Stück Obst."},
-      "A1-123": {"pron": "guh-MÜ-zuh", "tip": "Ge- + Mus (purée) — vegetables used to be cooked to a mush 🥬", "warn": "Also singular only: Das Gemüse ist frisch."},
-      "A1-022": {"pron": "AP-fel", "tip": "A cousin of English apple 🍏 Add a little f after the p.", "warn": "Umlaut in the plural: die Äpfel"},
-      "A1-125": {"pron": "ba-NAH-nuh", "tip": "Banana with an -e on the end 🍌", "bonus": "Most fruit and veg ending in -e are die."},
-      "A1-244": {"pron": "AIRT-bair-uh", "tip": "Erde (earth) + Beere (berry) = the berry that grows near the earth 🍓", "bonus": "Erdbeerkuchen (strawberry cake) is the classic German summer cake."},
-      "A1-126": {"pron": "to-MAH-tuh", "tip": "Tomato with -e instead of -o 🍅 die Tomate, die Tomaten.", "bonus": "die Tomatensoße = tomato sauce"},
-      "A1-246": {"pron": "TSVEE-bel", "tip": "Chopping it makes you squeak ‘tsvee!’ through the tears 😭", "bonus": "Its best friend, garlic = der Knoblauch"},
-      "A2-841": {"pron": "MER-uh", "tip": "A rabbit munching happily: ‘mmm-er’ 🥕", "bonus": "In the south: die Karotte. In Switzerland: das Rüebli."},
-      "A2-138": {"pron": "za-LAHT", "tip": "The s sounds like z: za-LAHT 🥗", "bonus": "A head of lettuce = ein Kopf Salat"},
-      "B1-1067": {"pron": "RIFE", "tip": "Same root as English ripe 🍑 Swap the p for an f.", "bonus": "The opposite: unreif = unripe"}
+      "A1-124": {
+        "pron": "OHPST",
+        "tip": "One short, punchy word for the whole fruit bowl 🍎",
+        "warn": "No plural. One piece of fruit = ein Stück Obst."
+      },
+      "A1-123": {
+        "pron": "guh-MÜ-zuh",
+        "tip": "Ge- + Mus (purée) — vegetables used to be cooked to a mush 🥬",
+        "warn": "Also singular only: Das Gemüse ist frisch."
+      },
+      "A1-022": {
+        "pron": "AP-fel",
+        "tip": "A cousin of English apple 🍏 Add a little f after the p.",
+        "warn": "Umlaut in the plural: die Äpfel"
+      },
+      "A1-125": {
+        "pron": "ba-NAH-nuh",
+        "tip": "Banana with an -e on the end 🍌",
+        "bonus": "Most fruit and veg ending in -e are die."
+      },
+      "A1-244": {
+        "pron": "AIRT-bair-uh",
+        "tip": "Erde (earth) + Beere (berry) = the berry that grows near the earth 🍓",
+        "bonus": "Erdbeerkuchen (strawberry cake) is the classic German summer cake."
+      },
+      "A1-126": {
+        "pron": "to-MAH-tuh",
+        "tip": "Tomato with -e instead of -o 🍅 die Tomate, die Tomaten.",
+        "bonus": "die Tomatensoße = tomato sauce"
+      },
+      "A1-246": {
+        "pron": "TSVEE-bel",
+        "tip": "Chopping it makes you squeak ‘tsvee!’ through the tears 😭",
+        "bonus": "Its best friend, garlic = der Knoblauch"
+      },
+      "A2-841": {
+        "pron": "MER-uh",
+        "tip": "A rabbit munching happily: ‘mmm-er’ 🥕",
+        "bonus": "In the south: die Karotte. In Switzerland: das Rüebli."
+      },
+      "A2-138": {
+        "pron": "za-LAHT",
+        "tip": "The s sounds like z: za-LAHT 🥗",
+        "bonus": "A head of lettuce = ein Kopf Salat"
+      },
+      "B1-1067": {
+        "pron": "RIFE",
+        "tip": "Same root as English ripe 🍑 Swap the p for an f.",
+        "bonus": "The opposite: unreif = unripe"
+      }
     },
     "culture": [
       "Many German towns have a weekly market (Wochenmarkt) on the square once or twice a week. Farmers sell seasonal produce directly, so it's fresh, and chatting with the stallholders is good practice.",
       "In spring it's white asparagus season (Spargelzeit). Restaurants add special Spargel menus and little stalls pop up by the roadside. Traditionally, the season ends around 24 June.",
       "In summer you'll often see strawberry-shaped huts selling punnets of Erdbeeren. And remember: people usually bring their own bags to the supermarket. 🍓"
     ],
-    "quiz": {"q": "The bananas you bought are still green. What do you say?", "o": ["Die Banane ist zu reif.", "Die Banane ist rot.", "Die Banane ist noch nicht reif."], "a": 2, "why": "noch nicht reif = not ripe yet, just right for a green banana."},
+    "quiz": {
+      "q": "The bananas you bought are still green. What do you say?",
+      "o": [
+        "Die Banane ist zu reif.",
+        "Die Banane ist rot.",
+        "Die Banane ist noch nicht reif."
+      ],
+      "a": 2,
+      "why": "noch nicht reif = not ripe yet, just right for a green banana."
+    },
     "outro": "Open your fridge today and name every fruit and vegetable you see in German — with the article! 🛒"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日はスーパーや市場で毎日見かける果物と野菜の単語10個です。この10個があれば、買い物リストをドイツ語で書けるし、「まだ熟していませんか？」と聞くこともできます。🥕"
     ],
     "words": {
-      "A1-124": {"pron": "オープスト", "tip": "果物かご全体をまとめて呼ぶ短い言葉 🍎", "warn": "複数形はありません。果物1個は ein Stück Obst です。"},
-      "A1-123": {"pron": "ゲミューゼ", "tip": "Ge- + Mus（ピューレ）= 昔は野菜をくたくたに煮て食べていたそう 🥬", "warn": "これも単数で使います：Das Gemüse ist frisch."},
-      "A1-022": {"pron": "アプフェル", "tip": "英語 apple のいとこ 🍏 p のあとに軽く f をつけて「アプフェル」。", "warn": "複数形はウムラウト：die Äpfel"},
-      "A1-125": {"pron": "バナーネ", "tip": "「バナナ」の最後を「ネ」にするだけ 🍌", "bonus": "-e で終わる果物・野菜はたいてい die です。"},
-      "A1-244": {"pron": "エーアトベーレ", "tip": "Erde（地面）+ Beere（ベリー）= 地面の近くで育つベリー 🍓", "bonus": "Erdbeerkuchen（いちごのケーキ）はドイツの夏の定番です。"},
-      "A1-126": {"pron": "トマーテ", "tip": "「トマト」の最後を「テ」に 🍅 die Tomate、複数は Tomaten。", "bonus": "die Tomatensoße = トマトソース"},
-      "A1-246": {"pron": "ツヴィーベル", "tip": "切ると涙で「ツヴィー」と声が出る 😭 玉ねぎは Zwiebel！", "bonus": "いっしょによく使うにんにく = der Knoblauch"},
-      "A2-841": {"pron": "メーレ", "tip": "うさぎが「メーレ」ともぐもぐ 🥕", "bonus": "南ドイツでは die Karotte、スイスでは das Rüebli と言います。"},
-      "A2-138": {"pron": "ザラート", "tip": "s は「ザ」の音！「サラダ」ではなく「ザラート」🥗", "bonus": "レタス1玉も Salat：ein Kopf Salat"},
-      "B1-1067": {"pron": "ライフ", "tip": "英語の ripe と同じ語源 🍑 p を f に変えるだけ。", "bonus": "反対は unreif = 熟していない"}
+      "A1-124": {
+        "pron": "オープスト",
+        "tip": "果物かご全体をまとめて呼ぶ短い言葉 🍎",
+        "warn": "複数形はありません。果物1個は ein Stück Obst です。"
+      },
+      "A1-123": {
+        "pron": "ゲミューゼ",
+        "tip": "Ge- + Mus（ピューレ）= 昔は野菜をくたくたに煮て食べていたそう 🥬",
+        "warn": "これも単数で使います：Das Gemüse ist frisch."
+      },
+      "A1-022": {
+        "pron": "アプフェル",
+        "tip": "英語 apple のいとこ 🍏 p のあとに軽く f をつけて「アプフェル」。",
+        "warn": "複数形はウムラウト：die Äpfel"
+      },
+      "A1-125": {
+        "pron": "バナーネ",
+        "tip": "「バナナ」の最後を「ネ」にするだけ 🍌",
+        "bonus": "-e で終わる果物・野菜はたいてい die です。"
+      },
+      "A1-244": {
+        "pron": "エーアトベーレ",
+        "tip": "Erde（地面）+ Beere（ベリー）= 地面の近くで育つベリー 🍓",
+        "bonus": "Erdbeerkuchen（いちごのケーキ）はドイツの夏の定番です。"
+      },
+      "A1-126": {
+        "pron": "トマーテ",
+        "tip": "「トマト」の最後を「テ」に 🍅 die Tomate、複数は Tomaten。",
+        "bonus": "die Tomatensoße = トマトソース"
+      },
+      "A1-246": {
+        "pron": "ツヴィーベル",
+        "tip": "切ると涙で「ツヴィー」と声が出る 😭 玉ねぎは Zwiebel！",
+        "bonus": "いっしょによく使うにんにく = der Knoblauch"
+      },
+      "A2-841": {
+        "pron": "メーレ",
+        "tip": "うさぎが「メーレ」ともぐもぐ 🥕",
+        "bonus": "南ドイツでは die Karotte、スイスでは das Rüebli と言います。"
+      },
+      "A2-138": {
+        "pron": "ザラート",
+        "tip": "s は「ザ」の音！「サラダ」ではなく「ザラート」🥗",
+        "bonus": "レタス1玉も Salat：ein Kopf Salat"
+      },
+      "B1-1067": {
+        "pron": "ライフ",
+        "tip": "英語の ripe と同じ語源 🍑 p を f に変えるだけ。",
+        "bonus": "反対は unreif = 熟していない"
+      }
     },
     "culture": [
       "ドイツの町には、週に1〜2回広場に立つ朝市（Wochenmarkt）が多くあります。農家が旬の野菜や果物を直接売るので新鮮で、お店の人とのおしゃべりも楽しみのひとつです。",
       "春になると白アスパラガス（Spargel）の季節。レストランには Spargel の特別メニューが並び、道ばたに小さな売り場ができます。伝統的に6月24日ごろでシーズンが終わると言われています。",
       "夏には、いちごの形をした小さな屋台でいちごを売る風景もよく見かけます。それから、スーパーには自分の買い物袋を持っていくのがふつうなので、バッグを忘れずに！🍓"
     ],
-    "quiz": {"q": "買ったバナナがまだ緑色です。何と言いますか？", "o": ["Die Banane ist zu reif.", "Die Banane ist rot.", "Die Banane ist noch nicht reif."], "a": 2, "why": "noch nicht reif = まだ熟していない。緑のバナナにぴったりの表現です。"},
+    "quiz": {
+      "q": "買ったバナナがまだ緑色です。何と言いますか？",
+      "o": [
+        "Die Banane ist zu reif.",
+        "Die Banane ist rot.",
+        "Die Banane ist noch nicht reif."
+      ],
+      "a": 2,
+      "why": "noch nicht reif = まだ熟していない。緑のバナナにぴったりの表現です。"
+    },
     "outro": "今日は冷蔵庫を開けて、見える果物と野菜をドイツ語で冠詞つきで言ってみましょう！🛒"
+  },
+  "tr": {
+    "title": "Apfel'den Zwiebel'e: 10 Almanca meyve ve sebze kelimesi",
+    "hook": "Pazarda hep parmağınızla gösteriyorsanız, artık adlarıyla söyleme zamanı.",
+    "intro": [
+      "Cumartesi sabahı, semt pazarındasınız (Wochenmarkt). Kıpkırmızı çilekler, topraklı havuçlar, yığın yığın soğan… hepsini istiyorsunuz ama adlarını bilmiyorsunuz, o yüzden durmadan ‘Das da, bitte!’ diyorsunuz.",
+      "Bugünkü on kelime dükkânlarda ve pazarda her gün gördüğünüz meyve ve sebzeler. Bunlarla alışveriş listenizi Almanca yazabilir, hatta bir şeyin olgunlaşıp olgunlaşmadığını sorabilirsiniz. 🥕"
+    ],
+    "words": {
+      "A1-124": {
+        "pron": "OPST",
+        "tip": "Bütün meyve tabağı için kısa ve vurucu tek bir kelime 🍎",
+        "warn": "Çoğulu yoktur. Bir tane meyve = ein Stück Obst."
+      },
+      "A1-123": {
+        "pron": "ge-MÜ-ze",
+        "tip": "Ge- + Mus (püre); sebzeler eskiden lapa olana kadar pişirilirdi 🥬",
+        "warn": "Bu da yalnızca tekil: Das Gemüse ist frisch."
+      },
+      "A1-022": {
+        "pron": "AP-fel",
+        "tip": "İngilizce apple'ın kuzeni 🍏 p'den sonra küçük bir f ekleyin.",
+        "warn": "Çoğulda umlaut: die Äpfel"
+      },
+      "A1-125": {
+        "pron": "ba-NA-ne",
+        "tip": "Sonuna -e eklenmiş “banana” 🍌",
+        "bonus": "-e ile biten meyve ve sebzelerin çoğu die'dir."
+      },
+      "A1-244": {
+        "pron": "ERT-bee-re",
+        "tip": "Erde (toprak) + Beere (dut, böğürtlen gibi meyve) = toprağa yakın yetişen meyve 🍓",
+        "bonus": "Erdbeerkuchen (çilekli pasta) klasik Alman yaz pastasıdır."
+      },
+      "A1-126": {
+        "pron": "to-MA-te",
+        "tip": "Türkçedeki “domates”e çok benziyor 🍅 die Tomate, die Tomaten.",
+        "bonus": "die Tomatensoße = domates sosu"
+      },
+      "A1-246": {
+        "pron": "TSVİ-bel",
+        "tip": "Doğrarken gözyaşları arasında ‘tsvii!’ diye ciyaklatır 😭",
+        "bonus": "En yakın arkadaşı sarımsak = der Knoblauch"
+      },
+      "A2-841": {
+        "pron": "MÖ-re",
+        "tip": "Mutlu mutlu havuç kemiren bir tavşan: ‘mmm-öre’ 🥕",
+        "bonus": "Güneyde: die Karotte. İsviçre'de: das Rüebli."
+      },
+      "A2-138": {
+        "pron": "za-LAT",
+        "tip": "Türkçedeki “salata” gibi; sadece s “z” diye okunur: za-LAT 🥗",
+        "bonus": "Bir baş marul = ein Kopf Salat"
+      },
+      "B1-1067": {
+        "pron": "RAYF",
+        "tip": "İngilizce ripe ile aynı kökten 🍑 p yerine f koyun.",
+        "bonus": "Zıttı: unreif = olmamış, ham"
+      }
+    },
+    "culture": [
+      "Pek çok Alman kasabasında meydanda haftada bir ya da iki kez kurulan bir semt pazarı (Wochenmarkt) vardır. Çiftçiler mevsim ürünlerini doğrudan satar, yani ürünler tazedir; tezgâhtarlarla sohbet etmek de iyi bir pratiktir.",
+      "İlkbahar beyaz kuşkonmaz mevsimidir (Spargelzeit). Restoranlar özel Spargel menüleri ekler ve yol kenarlarında küçük tezgâhlar belirir. Geleneksel olarak mevsim 24 Haziran civarında biter.",
+      "Yazın sık sık sepet sepet Erdbeeren satan çilek biçimli kulübeler görürsünüz. Unutmayın: insanlar süpermarkete genellikle kendi çantalarını getirir. 🍓"
+    ],
+    "quiz": {
+      "q": "Aldığınız muzlar hâlâ yeşil. Ne dersiniz?",
+      "o": [
+        "Die Banane ist zu reif.",
+        "Die Banane ist rot.",
+        "Die Banane ist noch nicht reif."
+      ],
+      "a": 2,
+      "why": "noch nicht reif = henüz olgunlaşmamış; yeşil bir muz için tam yerinde."
+    },
+    "outro": "Bugün buzdolabınızı açın ve gördüğünüz her meyve ve sebzenin adını Almanca söyleyin; artikeliyle birlikte! 🛒"
   }
 }

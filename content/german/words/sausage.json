@@ -221,5 +221,32 @@
       "why": "Hackfleisch がひき肉です。重さ + Hackfleisch, bitte で注文できます。"
     },
     "outro": "次にスーパーへ行ったら、肉売り場のラベルを読んでみましょう。夕飯何がいい？と聞かれたら「Das ist mir Wurst!」と返してみてください。😄"
+  },
+  "tr": {
+    "title": "Sosis diyarı için 10 etli Almanca kelime",
+    "hook": "Kasap tezgâhında sessizce parmakla göstermeye son.",
+    "intro": [
+      "Bir Alman et tezgâhının önünde durun, onlarca çeşit sosis görürsünüz. Arkanızda kuyruk var, görevli „Was darf's sein?“ diye soruyor — ve kıymanın adı ya da jambonu nasıl isteyeceğiniz aklınıza gelmiyor.",
+      "Bugünkü on kelime et ve sosis almanıza, menü okumanıza yardım edecek. Bunlarla kasapta kendinizden emin sipariş verebilirsiniz. 🌭"
+    ],
+    "words": {
+      "A1-236": {"pron": "VURST", "tip": "VURST diye ‘vur’la başlar: ızgaraya vur, cızırdasın 🌭", "bonus": "Das ist mir Wurst. = Benim için hiç fark etmez. (Sürekli söylenir!)", "warn": "Çoğulu umlautlu: die Würste."},
+      "A1-025": {"pron": "FLAYŞ", "tip": "İngilizce flesh ile aynı kökten 🥩 Her et türü ___fleisch olur.", "bonus": "Ich esse kein Fleisch. = Et yemiyorum."},
+      "A1-547": {"pron": "ŞİN-ken", "tip": "Aslında ‘but, uyluk’ demekmiş, İngilizce shin ile akraba 🍖 Jambon bacaktan gelir!"},
+      "A2-1037": {"pron": "VÜRST-hen", "tip": "Wurst + -chen (küçük) = küçük sosis 🌭 -chen her zaman das demek.", "warn": "u, ü olur: die Wurst → das Würstchen."},
+      "A2-839": {"pron": "ŞVAY-ne-flayş", "tip": "Schwein (İngilizce swine'ı düşünün) + Fleisch = domuz eti 🐷", "bonus": "„Ist da Schweinefleisch drin?“ = İçinde domuz eti var mı?"},
+      "A2-838": {"pron": "RİNT-flayş", "tip": "Rind (sığır) + Fleisch = sığır eti 🐄 Biftek tabağında ‘rind’i düşünün."},
+      "A1-238": {"pron": "HEYN-hen", "tip": "Hahn (horoz) + -chen = tavuk 🍗 -chen, yani das.", "bonus": "Canlı tavuk genelde das Huhn'dur."},
+      "A2-1005": {"pron": "METS-ger", "tip": "Siparişinizi hiç unutmayan Mets adında bir kasap hayal edin 🔪", "warn": "Bölgeye göre değişir: güney ve batıda Metzger, kuzeyde Fleischer ya da Schlachter."},
+      "B1-1479": {"pron": "HAK-flayş", "tip": "hacken (doğramak — İngilizce hack) + Fleisch = kıyma 🍝", "bonus": "Çoğu zaman sadece Hack · gemischtes Hack = sığır ve domuz karışık kıyma"},
+      "B2-2475": {"pron": "AUF-şnit", "tip": "auf (üstüne) + schneiden (kesmek) = ekmeğin üstüne koyulan dilimler 🥪"}
+    },
+    "culture": [
+      "Her bölgenin kendi sosisi vardır: Thüringer Rostbratwurst, küçük Nürnberger, beyaz Bavyera Weißwurst'u, Berlin ve Ruhr bölgesinde de Currywurst. Yöresel olanı denemek seyahatin keyfinin yarısıdır.",
+      "Birçok evde akşam yemeği Abendbrot denen soğuk bir öğündür: Aufschnitt ve peynirli ekmek. Basit ve hızlı.",
+      "Et tezgâhında (Fleischtheke) gramla sipariş verirsiniz: „200 Gramm Aufschnitt, bitte.“ Yanınızda çocuk varsa görevli ona çoğu zaman bedava bir dilim sosis uzatır. 🥩"
+    ],
+    "quiz": {"q": "Bolonez sos için kıyma istiyorsunuz. Kasapta ne dersiniz?", "o": ["Eine Bratwurst, bitte.", "500 Gramm Hackfleisch, bitte.", "Das ist mir Wurst."], "a": 1, "why": "Hackfleisch kıyma demektir; sadece gramajı + Hackfleisch, bitte deyin."},
+    "outro": "Bir dahaki süpermarket ziyaretinizde et tezgâhındaki etiketleri okuyun. Biri akşam yemeğinde ne istediğinizi sorduğunda da „Das ist mir Wurst!“ demeyi deneyin! 😄"
   }
 }

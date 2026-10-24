@@ -8,23 +8,71 @@
       "오늘은 배우, 감독, 주연, 장면, 대본처럼 촬영 현장과 영화 이야기에 필요한 단어 10개예요. 이걸로 좋아하는 영화와 배우 얘기를 독일어로 신나게 할 수 있어요. 🎬"
     ],
     "words": {
-      "A2-664": {"pron": "샤우슈필러", "tip": "schauen(보다) + Spiel(놀이) = 보여 주는 놀이를 하는 사람 🎭", "bonus": "여자 배우 = die Schauspielerin"},
-      "B2-1350": {"pron": "레지쇠어", "tip": "프랑스어에서 왔어요 🎬 g는 ‘ㅈ’처럼 부드럽게, 레-지-쇠어!", "warn": "영어 director처럼 Direktor라고 하면 교장이나 회사 사장님이 돼요."},
-      "A2-263": {"pron": "롤레", "tip": "배우들이 대사를 두루마리(roll)에 받던 데서 role이 됐어요 📜", "bonus": "상관없어요 = Das spielt keine Rolle."},
-      "B1-1576": {"pron": "하웁트롤레", "tip": "Haupt(주된) + Rolle = 주연 ⭐ Hauptbahnhof의 그 Haupt예요!", "bonus": "조연 = die Nebenrolle"},
-      "B1-1225": {"pron": "스체네", "tip": "그리스어 skēnē(무대 천막)에서 왔어요 🎞️ sz는 ‘스츠’ 소리!", "bonus": "소란 피우다 = eine Szene machen"},
-      "B1-583": {"pron": "드레엔", "tip": "옛날 카메라는 손잡이를 빙빙 돌려서 찍었어요 🎥 그래서 drehen = 촬영하다!", "bonus": "영화를 찍다 = einen Film drehen"},
-      "B1-2190": {"pron": "필멘", "tip": "Film에 -en만 붙이면 동사 📱 폰으로 콘서트 찍을 때 딱이에요.", "warn": "영화 한 편을 제작하는 건 보통 einen Film drehen이라고 해요."},
-      "A2-240": {"pron": "카메라", "tip": "라틴어 camera는 ‘방’ 🏠 배우는 카메라 앞에(vor der Kamera), 감독은 뒤에(hinter der Kamera)!"},
-      "B2-1356": {"pron": "드레부흐", "tip": "drehen(촬영하다) + Buch(책) = 촬영용 책 📒 대본이죠!", "bonus": "시나리오 작가 = der Drehbuchautor / die Drehbuchautorin"},
-      "B2-1947": {"pron": "베제충", "tip": "화장실 문의 besetzt(사용 중)과 같은 가족 🚻 배역마다 사람을 ‘앉혀’ 놓는 거예요.", "warn": "‘점령’이라는 뜻도 있어서 역사 이야기에서도 자주 나와요."}
+      "A2-664": {
+        "pron": "샤우슈필러",
+        "tip": "schauen(보다) + Spiel(놀이) = 보여 주는 놀이를 하는 사람 🎭",
+        "bonus": "여자 배우 = die Schauspielerin"
+      },
+      "B2-1350": {
+        "pron": "레지쇠어",
+        "tip": "프랑스어에서 왔어요 🎬 g는 ‘ㅈ’처럼 부드럽게, 레-지-쇠어!",
+        "warn": "영어 director처럼 Direktor라고 하면 교장이나 회사 사장님이 돼요."
+      },
+      "A2-263": {
+        "pron": "롤레",
+        "tip": "배우들이 대사를 두루마리(roll)에 받던 데서 role이 됐어요 📜",
+        "bonus": "상관없어요 = Das spielt keine Rolle."
+      },
+      "B1-1576": {
+        "pron": "하웁트롤레",
+        "tip": "Haupt(주된) + Rolle = 주연 ⭐ Hauptbahnhof의 그 Haupt예요!",
+        "bonus": "조연 = die Nebenrolle"
+      },
+      "B1-1225": {
+        "pron": "스체네",
+        "tip": "그리스어 skēnē(무대 천막)에서 왔어요 🎞️ sz는 ‘스츠’ 소리!",
+        "bonus": "소란 피우다 = eine Szene machen"
+      },
+      "B1-583": {
+        "pron": "드레엔",
+        "tip": "옛날 카메라는 손잡이를 빙빙 돌려서 찍었어요 🎥 그래서 drehen = 촬영하다!",
+        "bonus": "영화를 찍다 = einen Film drehen"
+      },
+      "B1-2190": {
+        "pron": "필멘",
+        "tip": "Film에 -en만 붙이면 동사 📱 폰으로 콘서트 찍을 때 딱이에요.",
+        "warn": "영화 한 편을 제작하는 건 보통 einen Film drehen이라고 해요."
+      },
+      "A2-240": {
+        "pron": "카메라",
+        "tip": "라틴어 camera는 ‘방’ 🏠 배우는 카메라 앞에(vor der Kamera), 감독은 뒤에(hinter der Kamera)!"
+      },
+      "B2-1356": {
+        "pron": "드레부흐",
+        "tip": "drehen(촬영하다) + Buch(책) = 촬영용 책 📒 대본이죠!",
+        "bonus": "시나리오 작가 = der Drehbuchautor / die Drehbuchautorin"
+      },
+      "B2-1947": {
+        "pron": "베제충",
+        "tip": "화장실 문의 besetzt(사용 중)과 같은 가족 🚻 배역마다 사람을 ‘앉혀’ 놓는 거예요.",
+        "warn": "‘점령’이라는 뜻도 있어서 역사 이야기에서도 자주 나와요."
+      }
     },
     "culture": [
       "포츠담에 있는 바벨스베르크(Babelsberg) 스튜디오는 세계에서 가장 오래된 대형 영화 스튜디오 중 하나예요. 1910년대부터 영화를 찍어 왔고, 지금도 국제 영화들이 이곳에서 촬영돼요.",
       "매년 2월에는 베를린 국제 영화제(Berlinale)가 열려요. 일반 관객도 표를 사서 볼 수 있어서, 영화 좋아하는 사람이라면 한 번쯤 가 볼 만해요.",
       "그리고 독일에서는 외국 영화나 드라마를 보통 독일어로 더빙해서 보여 줘요. 유명 배우마다 정해진 성우가 있을 정도예요. 원어로 보고 싶으면 극장 시간표에서 OV(원어)나 OmU(원어+독일어 자막)를 찾아보세요. 🍿"
     ],
-    "quiz": {"q": "친구가 영화 포스터의 배우를 가리키며 누구냐고 물어요. 이 배우가 주인공이라고 말하려면?", "o": ["Das Drehbuch ist von ihm.", "Er spielt die Hauptrolle.", "Er dreht den Schlüssel."], "a": 1, "why": "die Hauptrolle spielen = 주연을 맡다라는 뜻이에요."},
+    "quiz": {
+      "q": "친구가 영화 포스터의 배우를 가리키며 누구냐고 물어요. 이 배우가 주인공이라고 말하려면?",
+      "o": [
+        "Das Drehbuch ist von ihm.",
+        "Er spielt die Hauptrolle.",
+        "Er dreht den Schlüssel."
+      ],
+      "a": 1,
+      "why": "die Hauptrolle spielen = 주연을 맡다라는 뜻이에요."
+    },
     "outro": "좋아하는 영화 한 편을 떠올리고 Der Regisseur ist … , Die Hauptrolle spielt … 를 소리 내서 채워 봐요. 다음 영화 수다는 독일어로! 🎬"
   },
   "en": {
@@ -35,23 +83,71 @@
       "Today's ten words take you onto the film set: actors, directors, lead roles, scenes, scripts and more. With them you can chat about your favourite films and actors in German. 🎬"
     ],
     "words": {
-      "A2-664": {"pron": "SHOW-shpee-ler", "tip": "schauen (watch) + Spiel (play) = someone in a play you watch 🎭", "bonus": "a female actor = die Schauspielerin"},
-      "B2-1350": {"pron": "reh-zhee-SER", "tip": "Borrowed from French 🎬 Say the g softly, like the s in ‘measure’.", "warn": "Don't say Direktor — that's a head teacher or company director."},
-      "A2-263": {"pron": "ROLL-uh", "tip": "Actors once got their lines on a roll of paper — hence role 📜", "bonus": "It doesn't matter = Das spielt keine Rolle."},
-      "B1-1576": {"pron": "HOWPT-roll-uh", "tip": "Haupt (main) + Rolle = lead role ⭐ Same Haupt as in Hauptbahnhof!", "bonus": "a supporting role = die Nebenrolle"},
-      "B1-1225": {"pron": "STSAY-nuh", "tip": "From Greek skēnē (tent, stage) 🎞️ The sz sounds like ‘sts’.", "bonus": "to make a scene = eine Szene machen"},
-      "B1-583": {"pron": "DRAY-en", "tip": "Old film cameras were cranked by hand 🎥 Turning the handle = shooting the film.", "bonus": "to shoot a film = einen Film drehen"},
-      "B1-2190": {"pron": "FIL-men", "tip": "Film + -en = to film 📱 Perfect for recording a gig on your phone.", "warn": "For making a feature film, Germans usually say einen Film drehen."},
-      "A2-240": {"pron": "KAH-meh-rah", "tip": "Latin camera = ‘room’ 🏠 Actors stand vor der Kamera, directors hinter der Kamera."},
-      "B2-1356": {"pron": "DRAY-bookh", "tip": "drehen (shoot) + Buch (book) = the shooting book 📒 The script!", "bonus": "screenwriter = der Drehbuchautor / die Drehbuchautorin"},
-      "B2-1947": {"pron": "buh-ZET-soong", "tip": "Same family as besetzt (occupied) on toilet doors 🚻 Each role gets someone ‘seated’ in it.", "warn": "It can also mean military occupation, so you'll see it in history texts."}
+      "A2-664": {
+        "pron": "SHOW-shpee-ler",
+        "tip": "schauen (watch) + Spiel (play) = someone in a play you watch 🎭",
+        "bonus": "a female actor = die Schauspielerin"
+      },
+      "B2-1350": {
+        "pron": "reh-zhee-SER",
+        "tip": "Borrowed from French 🎬 Say the g softly, like the s in ‘measure’.",
+        "warn": "Don't say Direktor — that's a head teacher or company director."
+      },
+      "A2-263": {
+        "pron": "ROLL-uh",
+        "tip": "Actors once got their lines on a roll of paper — hence role 📜",
+        "bonus": "It doesn't matter = Das spielt keine Rolle."
+      },
+      "B1-1576": {
+        "pron": "HOWPT-roll-uh",
+        "tip": "Haupt (main) + Rolle = lead role ⭐ Same Haupt as in Hauptbahnhof!",
+        "bonus": "a supporting role = die Nebenrolle"
+      },
+      "B1-1225": {
+        "pron": "STSAY-nuh",
+        "tip": "From Greek skēnē (tent, stage) 🎞️ The sz sounds like ‘sts’.",
+        "bonus": "to make a scene = eine Szene machen"
+      },
+      "B1-583": {
+        "pron": "DRAY-en",
+        "tip": "Old film cameras were cranked by hand 🎥 Turning the handle = shooting the film.",
+        "bonus": "to shoot a film = einen Film drehen"
+      },
+      "B1-2190": {
+        "pron": "FIL-men",
+        "tip": "Film + -en = to film 📱 Perfect for recording a gig on your phone.",
+        "warn": "For making a feature film, Germans usually say einen Film drehen."
+      },
+      "A2-240": {
+        "pron": "KAH-meh-rah",
+        "tip": "Latin camera = ‘room’ 🏠 Actors stand vor der Kamera, directors hinter der Kamera."
+      },
+      "B2-1356": {
+        "pron": "DRAY-bookh",
+        "tip": "drehen (shoot) + Buch (book) = the shooting book 📒 The script!",
+        "bonus": "screenwriter = der Drehbuchautor / die Drehbuchautorin"
+      },
+      "B2-1947": {
+        "pron": "buh-ZET-soong",
+        "tip": "Same family as besetzt (occupied) on toilet doors 🚻 Each role gets someone ‘seated’ in it.",
+        "warn": "It can also mean military occupation, so you'll see it in history texts."
+      }
     },
     "culture": [
       "Babelsberg studios in Potsdam are among the oldest large film studios in the world. Films have been made there since the 1910s, and international productions still shoot there today.",
       "Every February Berlin hosts its international film festival, the Berlinale. Members of the public can buy tickets too, so it's worth a visit if you love cinema.",
       "Foreign films and series are usually dubbed into German, and well-known actors often have their own regular German voice. To see the original, look for OV (original version) or OmU (original with German subtitles) in cinema listings. 🍿"
     ],
-    "quiz": {"q": "Your friend points at an actor on a film poster. How do you say he's the star of the film?", "o": ["Das Drehbuch ist von ihm.", "Er spielt die Hauptrolle.", "Er dreht den Schlüssel."], "a": 1, "why": "die Hauptrolle spielen means to play the lead role."},
+    "quiz": {
+      "q": "Your friend points at an actor on a film poster. How do you say he's the star of the film?",
+      "o": [
+        "Das Drehbuch ist von ihm.",
+        "Er spielt die Hauptrolle.",
+        "Er dreht den Schlüssel."
+      ],
+      "a": 1,
+      "why": "die Hauptrolle spielen means to play the lead role."
+    },
     "outro": "Think of a film you love and fill in out loud: Der Regisseur ist … and Die Hauptrolle spielt … Next movie chat, try it in German! 🎬"
   },
   "ja": {
@@ -62,23 +158,146 @@
       "今日は俳優、監督、主役、シーン、脚本など、撮影現場や映画の話に必要な単語10個です。これで好きな映画や俳優の話をドイツ語で楽しめます。🎬"
     ],
     "words": {
-      "A2-664": {"pron": "シャウシュピーラー", "tip": "schauen（見る）+ Spiel（劇）= 見せる劇をする人 🎭", "bonus": "女優 = die Schauspielerin"},
-      "B2-1350": {"pron": "レジセーア", "tip": "フランス語から来た言葉 🎬 g はやわらかく「ジ」と発音します。", "warn": "英語の director のつもりで Direktor と言うと、校長や社長になってしまいます。"},
-      "A2-263": {"pron": "ロレ", "tip": "昔の俳優はセリフを巻物（roll）でもらっていたので role に 📜", "bonus": "関係ない、どうでもいい = Das spielt keine Rolle."},
-      "B1-1576": {"pron": "ハウプトロレ", "tip": "Haupt（主な）+ Rolle = 主役 ⭐ Hauptbahnhof の Haupt です！", "bonus": "脇役 = die Nebenrolle"},
-      "B1-1225": {"pron": "スツェーネ", "tip": "ギリシャ語の skēnē（舞台のテント）から 🎞️ sz は「スツ」と発音！", "bonus": "騒ぎを起こす = eine Szene machen"},
-      "B1-583": {"pron": "ドレーエン", "tip": "昔のカメラはハンドルを回して撮影していました 🎥 だから drehen = 撮影する！", "bonus": "映画を撮る = einen Film drehen"},
-      "B1-2190": {"pron": "フィルメン", "tip": "Film に -en を付けるだけ 📱 スマホでライブを撮るときにぴったり。", "warn": "映画作品を撮るときは、ふつう einen Film drehen と言います。"},
-      "A2-240": {"pron": "カメラ", "tip": "ラテン語の camera は「部屋」🏠 俳優はカメラの前（vor der Kamera）、監督は後ろ（hinter der Kamera）！"},
-      "B2-1356": {"pron": "ドレーブーフ", "tip": "drehen（撮影する）+ Buch（本）= 撮影用の本 📒 つまり脚本！", "bonus": "脚本家 = der Drehbuchautor / die Drehbuchautorin"},
-      "B2-1947": {"pron": "ベゼッツング", "tip": "トイレのドアの besetzt（使用中）と同じ仲間 🚻 役ごとに人を「座らせる」イメージ。", "warn": "「占領」という意味もあるので、歴史の話でもよく出てきます。"}
+      "A2-664": {
+        "pron": "シャウシュピーラー",
+        "tip": "schauen（見る）+ Spiel（劇）= 見せる劇をする人 🎭",
+        "bonus": "女優 = die Schauspielerin"
+      },
+      "B2-1350": {
+        "pron": "レジセーア",
+        "tip": "フランス語から来た言葉 🎬 g はやわらかく「ジ」と発音します。",
+        "warn": "英語の director のつもりで Direktor と言うと、校長や社長になってしまいます。"
+      },
+      "A2-263": {
+        "pron": "ロレ",
+        "tip": "昔の俳優はセリフを巻物（roll）でもらっていたので role に 📜",
+        "bonus": "関係ない、どうでもいい = Das spielt keine Rolle."
+      },
+      "B1-1576": {
+        "pron": "ハウプトロレ",
+        "tip": "Haupt（主な）+ Rolle = 主役 ⭐ Hauptbahnhof の Haupt です！",
+        "bonus": "脇役 = die Nebenrolle"
+      },
+      "B1-1225": {
+        "pron": "スツェーネ",
+        "tip": "ギリシャ語の skēnē（舞台のテント）から 🎞️ sz は「スツ」と発音！",
+        "bonus": "騒ぎを起こす = eine Szene machen"
+      },
+      "B1-583": {
+        "pron": "ドレーエン",
+        "tip": "昔のカメラはハンドルを回して撮影していました 🎥 だから drehen = 撮影する！",
+        "bonus": "映画を撮る = einen Film drehen"
+      },
+      "B1-2190": {
+        "pron": "フィルメン",
+        "tip": "Film に -en を付けるだけ 📱 スマホでライブを撮るときにぴったり。",
+        "warn": "映画作品を撮るときは、ふつう einen Film drehen と言います。"
+      },
+      "A2-240": {
+        "pron": "カメラ",
+        "tip": "ラテン語の camera は「部屋」🏠 俳優はカメラの前（vor der Kamera）、監督は後ろ（hinter der Kamera）！"
+      },
+      "B2-1356": {
+        "pron": "ドレーブーフ",
+        "tip": "drehen（撮影する）+ Buch（本）= 撮影用の本 📒 つまり脚本！",
+        "bonus": "脚本家 = der Drehbuchautor / die Drehbuchautorin"
+      },
+      "B2-1947": {
+        "pron": "ベゼッツング",
+        "tip": "トイレのドアの besetzt（使用中）と同じ仲間 🚻 役ごとに人を「座らせる」イメージ。",
+        "warn": "「占領」という意味もあるので、歴史の話でもよく出てきます。"
+      }
     },
     "culture": [
       "ポツダムにあるバーベルスベルク（Babelsberg）スタジオは、世界で最も古い大規模映画スタジオのひとつです。1910年代から映画が撮られていて、今も国際的な作品がここで撮影されています。",
       "毎年2月にはベルリン国際映画祭（Berlinale）が開かれます。一般の人もチケットを買って観られるので、映画好きならぜひ一度。",
       "ドイツでは外国の映画やドラマはふつうドイツ語に吹き替えられていて、有名俳優には決まった声優がいるほどです。原語で観たいときは、映画館の上映表で OV（原語版）や OmU（原語・ドイツ語字幕）を探しましょう。🍿"
     ],
-    "quiz": {"q": "友だちが映画ポスターの俳優を指さしています。この人が主役だと言うには？", "o": ["Das Drehbuch ist von ihm.", "Er spielt die Hauptrolle.", "Er dreht den Schlüssel."], "a": 1, "why": "die Hauptrolle spielen は「主役を演じる」という意味です。"},
+    "quiz": {
+      "q": "友だちが映画ポスターの俳優を指さしています。この人が主役だと言うには？",
+      "o": [
+        "Das Drehbuch ist von ihm.",
+        "Er spielt die Hauptrolle.",
+        "Er dreht den Schlüssel."
+      ],
+      "a": 1,
+      "why": "die Hauptrolle spielen は「主役を演じる」という意味です。"
+    },
     "outro": "好きな映画をひとつ思い浮かべて、Der Regisseur ist … と Die Hauptrolle spielt … を声に出して埋めてみましょう。次の映画トークはドイツ語で！🎬"
+  },
+  "tr": {
+    "title": "Işık, kamera, Deutsch: Film setinden 10 kelime",
+    "hook": "Bugünden sonra o jenerik yazıları anlam kazanmaya başlayacak.",
+    "intro": [
+      "Berlin'de yürürken dev ışıklar ve bir kamera ekibiyle kapatılmış bir sokağa rastlıyorsunuz. Biri Hier wird ein Film gedreht! diyor; ama drehen ‘döndürmek’ demek değil miydi?",
+      "Bugünkü on kelime sizi film setine götürüyor: oyuncular, yönetmenler, başroller, sahneler, senaryolar ve daha fazlası. Bunlarla en sevdiğiniz filmler ve oyuncular hakkında Almanca sohbet edebilirsiniz. 🎬"
+    ],
+    "words": {
+      "A2-664": {
+        "pron": "ŞAU-şpi-lır",
+        "tip": "schauen (izlemek) + Spiel (oyun) = izlediğiniz bir oyunda oynayan kişi 🎭",
+        "bonus": "kadın oyuncu = die Schauspielerin"
+      },
+      "B2-1350": {
+        "pron": "re-ji-SÖR",
+        "tip": "Fransızcadan alınmış; Türkçedeki “rejisör” ile aynı 🎬 g'yi Türkçedeki j gibi yumuşak okuyun.",
+        "warn": "Direktor demeyin; o okul müdürü ya da şirket müdürü demektir."
+      },
+      "A2-263": {
+        "pron": "ROL-le",
+        "tip": "Oyunculara eskiden replikleri bir kâğıt rulosunda verilirdi; “rol” ve “rulo” buradan 📜",
+        "bonus": "Fark etmez = Das spielt keine Rolle."
+      },
+      "B1-1576": {
+        "pron": "HAUPT-rol-le",
+        "tip": "Haupt (ana) + Rolle = başrol ⭐ Hauptbahnhof'taki Haupt ile aynı!",
+        "bonus": "yardımcı rol = die Nebenrolle"
+      },
+      "B1-1225": {
+        "pron": "STSE-ne",
+        "tip": "Yunanca skēnē (çadır, sahne) kökünden 🎞️ sz “sts” diye okunur.",
+        "bonus": "olay çıkarmak = eine Szene machen"
+      },
+      "B1-583": {
+        "pron": "DREE-en",
+        "tip": "Eski film kameraları elle kolu çevrilerek çalışırdı 🎥 Kolu döndürmek = film çekmek.",
+        "bonus": "film çekmek = einen Film drehen"
+      },
+      "B1-2190": {
+        "pron": "FİL-men",
+        "tip": "Film + -en = filme almak 📱 Bir konseri telefonla kaydetmek için birebir.",
+        "warn": "Uzun metrajlı bir film yapmak için Almanlar genellikle einen Film drehen der."
+      },
+      "A2-240": {
+        "pron": "KA-me-ra",
+        "tip": "Latince camera = ‘oda’ 🏠 Oyuncular vor der Kamera, yönetmenler hinter der Kamera durur."
+      },
+      "B2-1356": {
+        "pron": "DREE-buh",
+        "tip": "drehen (çekmek) + Buch (kitap) = çekim kitabı 📒 Yani senaryo!",
+        "bonus": "senarist = der Drehbuchautor / die Drehbuchautorin"
+      },
+      "B2-1947": {
+        "pron": "be-ZET-sunk",
+        "tip": "Tuvalet kapılarındaki besetzt (dolu) ile aynı aileden 🚻 Her role birisi ‘oturtulur’.",
+        "warn": "Askerî işgal anlamına da gelebilir, bu yüzden tarih metinlerinde de görürsünüz."
+      }
+    },
+    "culture": [
+      "Potsdam'daki Babelsberg stüdyoları dünyanın en eski büyük film stüdyoları arasındadır. Orada 1910'lardan beri film çekiliyor ve uluslararası yapımlar bugün hâlâ orada çekim yapıyor.",
+      "Berlin her şubat uluslararası film festivali Berlinale'ye ev sahipliği yapar. Halk da bilet alabilir; sinemayı seviyorsanız gitmeye değer.",
+      "Yabancı filmler ve diziler genellikle Almancaya dublaj edilir ve tanınmış oyuncuların çoğu zaman kendilerine ait sabit bir Almanca sesi vardır. Orijinalini izlemek için sinema programlarında OV (orijinal versiyon) ya da OmU (Almanca altyazılı orijinal) ibaresine bakın. 🍿"
+    ],
+    "quiz": {
+      "q": "Arkadaşınız bir film afişindeki oyuncuyu gösteriyor. Filmin yıldızının o olduğunu nasıl söylersiniz?",
+      "o": [
+        "Das Drehbuch ist von ihm.",
+        "Er spielt die Hauptrolle.",
+        "Er dreht den Schlüssel."
+      ],
+      "a": 1,
+      "why": "die Hauptrolle spielen başrolü oynamak demektir."
+    },
+    "outro": "Sevdiğiniz bir filmi düşünün ve yüksek sesle tamamlayın: Der Regisseur ist … ve Die Hauptrolle spielt … Bir sonraki film sohbetinde Almanca deneyin! 🎬"
   }
 }

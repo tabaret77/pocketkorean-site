@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "月末に友だちが高いレストランに誘ってくれました。気軽に断るなら？", "o": ["Krass, ich komme mit!", "Ich penne schon seit Montag.", "Sorry, ich bin total pleite."], "a": 2, "why": "pleite は「お金がない」なので、行けないという意味になります。"},
     "outro": "今日は友だちへのメッセージに、今日の単語を一つこっそり入れてみましょう。「Lass uns am Wochenende chillen!」なんてどうですか？😎"
+  },
+  "tr": {
+    "title": "Gerçek hayatın Almancası: ders kitabının atladığı 10 günlük konuşma kelimesi",
+    "hook": "Alman arkadaşlarınızın söylediklerinin ancak yarısını anlıyorsanız, sebebi muhtemelen bu on kelime.",
+    "intro": [
+      "Ders kitabınız size ‘Ich habe kein Geld.’ diye öğretti, ama Alman arkadaşınız ‘Ich bin pleite, keine Kohle mehr!’ diyor. Herkes gülüp ‘krass!’ diyor, siz de hiçbir şey anlamadan onlarla gülüyorsunuz.",
+      "Bugünkü on kelime, arkadaşların sürekli kullandığı günlük konuşma Almancası. Bunları bilmek dizileri, YouTube'u ve arkadaş sohbetlerini takip etmeyi çok kolaylaştırır. Yalnız bunları rahat anlara saklayın, ofise ya da belediyeye değil! 😎"
+    ],
+    "words": {
+      "A2-881": {"pron": "KVAÇ", "tip": "Belki de ayak altındaki çamurun ‘şlap’ sesinden 💬 Lapa gibi laf = Quatsch!", "bonus": "Quatsch mit Soße! = Tam bir saçmalık!"},
+      "A2-824": {"pron": "DOF", "tip": "İngilizce deaf (sağır) ile aynı kökten 🙄 Bir türlü anlamayan biri.", "warn": "Bir kişiye doof demek kaba olabilir. Durumlar için kullanmak daha güvenli: Das ist doof."},
+      "B2-2151": {"pron": "KVA-çen", "tip": "Quatsch'ın fiili 🗣️ Bütün gece sohbet etmek de saçmalamak da quatschen — tıpkı Türkçedeki ‘laklak’ gibi.", "bonus": "Lass uns mal quatschen! = Hadi biraz laflayalım!"},
+      "C2-1800": {"pron": "KUM-pel", "tip": "Aslında madencilerin birbirine hitabıymış ⛏️ Ocaktaki kankanız.", "warn": "Çoğulu die Kumpel, ama konuşmada die Kumpels de yaygın."},
+      "C2-1803": {"pron": "kla-MO-ten", "tip": "Gardıroptan yuvarlanan bir yığın kıyafetin sesi gibi 👕", "warn": "Genelde çoğul: meine Klamotten"},
+      "C2-1694": {"pron": "KO-le", "tip": "Kelimenin tam anlamıyla kömür 🪨 Kömür gibi para da çarkı döndürür — Türkçedeki ‘mangır’ gibi.", "bonus": "Para için başka bir argo kelime: die Knete"},
+      "B2-563": {"pron": "PLAY-te", "tip": "Yidişçede kaçış anlamına gelen bir kelimeden 💸 Bütün paranız kaçıp gitti.", "bonus": "İsim olarak die Pleite = iflas, fiyasko"},
+      "C2-1683": {"pron": "PE-nen", "tip": "Derste kaleminizin (pen) üstüne uyuklarken kendinizi düşünün 😴", "bonus": "verpennen = uyuyakalıp bir şeyi kaçırmak: Ich hab verpennt."},
+      "C2-1719": {"pron": "Çİ-len", "tip": "İngilizce chill + -en 🛋️ Artık bir Almanca fiil.", "bonus": "Chill mal! = Sakin ol!"},
+      "C2-1864": {"pron": "KRAS", "tip": "İngilizce crass ile aynı kökten 🤯 Hem müthiş hem berbat şeyler için kullanılır.", "bonus": "Resmî yazıda ‘aşırı’ demektir: ein krasser Unterschied"}
+    },
+    "culture": [
+      "Almancanın da üslup katmanları var. Bugünkü kelimeler arkadaşlar, aile ve iyi tanıdığınız iş arkadaşlarıyla rahat sohbet içindir. İş görüşmesinde, belediyede ya da yeni tanıştığınız yaşlı insanlarla Geld, Kleidung ve schlafen'dan şaşmayın.",
+      "Günlük konuşma Almancası bölgeden bölgeye de değişir. Kuzeyde insanlar sizi ‘Moin!’, güneyde ‘Servus!’ diye selamlar. Alman bir arkadaşa ‘Sizin oralarda ne denir?’ diye sormak harika bir sohbet başlatıcıdır.",
+      "Gençlik argosu hızla değişir. Almanya'da her yıl bir ‘yılın gençlik kelimesi’ (Jugendwort des Jahres) seçilir ve birçok yetişkinin bunun ne anlama geldiği hakkında hiçbir fikri yoktur. 😄"
+    ],
+    "quiz": {"q": "Ay sonu ve bir arkadaşınız pahalı bir restoran öneriyor. Samimi bir şekilde nasıl hayır dersiniz?", "o": ["Krass, ich komme mit!", "Ich penne schon seit Montag.", "Sorry, ich bin total pleite."], "a": 2, "why": "pleite ‘meteliksiz’ demek, yani gidemezsiniz."},
+    "outro": "Bugünkü kelimelerden birini bir arkadaşınıza atacağınız mesaja sıkıştırın. ‘Lass uns am Wochenende chillen!’ nasıl olur? 😎"
   }
 }

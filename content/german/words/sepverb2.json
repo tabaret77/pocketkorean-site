@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "「6時に駅まで迎えに行くね」を正しく言っている文は？", "o": ["Ich hole dich um sechs am Bahnhof ab.", "Ich abhole dich um sechs am Bahnhof.", "Ich habe dich um sechs am Bahnhof abgeholen."], "a": 0, "why": "分離動詞は現在形で前つづり ab が文末に行きます。過去分詞は abgeholt です。"},
     "outro": "今日は家で電気をつけたり消したりするたびに声に出してみましょう。Ich mache das Licht an… und wieder aus! 💡"
+  },
+  "tr": {
+    "title": "Ayrılabilen fiiller ikinci tur: ortadan ikiye bölünen 10 fiil",
+    "hook": "Ancak cümle bitince anlaşılan fiiller bunlar — bugün onları evcilleştirelim.",
+    "intro": [
+      "Tramvayda bir anons „Bitte hier umsteigen…“ diyor, bir arkadaşınız da „Mach mal das Fenster auf!“ diyor — ve en sondaki auf'u duyunca ‘pencereyi aç’ demek istediğini ancak anlıyorsunuz. Almanca, kilit parçayı cümlenin sonuna saklamayı sever.",
+      "Bugünkü on ayrılabilen fiili evde ve toplu taşımada her gün kullanacaksınız. Bunlarla açıp kapatabilir, yakıp söndürebilir, binip inebilir ve aktarma yapabilirsiniz. 🔀"
+    ],
+    "words": {
+      "A1-329": {"pron": "AUF-ma-hen", "tip": "auf (açık) + machen (yapmak) = bir şeyi açık hale getirmek 🚪", "bonus": "Biraz daha resmî karşılığı = öffnen"},
+      "A1-330": {"pron": "TSU-ma-hen", "tip": "zu (kapalı) + machen = bir şeyi kapalı hale getirmek 🔒 aufmachen'in eşi.", "bonus": "Dükkânlar için de kullanılır: Der Laden macht um 20 Uhr zu."},
+      "A1-409": {"pron": "AN-ma-hen", "tip": "an (açık) + machen = açmak, yakmak 💡 İngilizce on = Almanca an.", "warn": "Bir kişi için kullanılırsa konuşma dilinde ‘asılmak, flört etmek’ demektir: Er macht sie an. Dikkat!"},
+      "A1-423": {"pron": "AUS-ma-hen", "tip": "aus (kapalı) + machen = kapatmak, söndürmek 📴 İngilizce off = Almanca aus.", "bonus": "Kararlaştırmak anlamı da var: einen Termin ausmachen · Sakıncası var mı? = Macht es dir etwas aus?"},
+      "A2-312": {"pron": "AYN-ştay-gen", "tip": "ein (içeri) + steigen (tırmanmak) = basamaklardan otobüse tırmanmak 🚌", "warn": "Perfekt sein ile: Ich bin eingestiegen. · in + akuzatif: in den Bus einsteigen"},
+      "BL-07-07": {"pron": "AUS-ştay-gen", "tip": "aus (dışarı) + steigen = dışarı adım atmak 🚏 ein ve aus'u çift olarak öğrenin.", "warn": "Perfekt sein ile: Ich bin ausgestiegen."},
+      "A2-056": {"pron": "UM-ştay-gen", "tip": "um (değişim) + steigen = tren değiştirmek 🔄 umziehen'deki (taşınmak) um da değişim demek.", "warn": "Perfekt sein ile: Wir sind in Köln umgestiegen."},
+      "BL-12-08": {"pron": "AP-ho-len", "tip": "ab + holen (getirmek) = gidip almak 📦 Hem kargolar hem insanlar abgeholt edilir.", "bonus": "Seni alırım = Ich hole dich ab."},
+      "BL-11-09": {"pron": "MİT-ne-men", "tip": "mit (ile) + nehmen (almak) = yanınıza almak 🥡 Her kafede duyarsınız.", "bonus": "Paket mi? = Zum Mitnehmen? · Burada yemek için = Zum Hieressen."},
+      "A1-337": {"pron": "tsu-RÜK-ko-men", "tip": "zurück (geri) + kommen (gelmek) = geri gelmek 🏃 Vurgu RÜK'te.", "warn": "Perfekt sein ile: Er ist gestern zurückgekommen."}
+    },
+    "culture": [
+      "Alman toplu taşımasında bütün gün ayrılabilen fiiller duyarsınız. „Nächster Halt …“ dan sonra „Ausstieg in Fahrtrichtung links“ (gidiş yönüne göre soldan iniş) duyabilirsiniz; istasyonlar da nerede umsteigen yapılacağına dair anonslarla doludur.",
+      "Birçok şehirde tramvay ve tren kapıları kendiliğinden açılmaz. Çoğu zaman kapıdaki düğmeye basmanız gerekir; durağınız geldiğinde öylece bekleyip durmayın!",
+      "Kargolar da ayrılabilen fiil getirir. Evde değilseniz posta kutunuzda, kargoyu bir komşudan ya da yakındaki bir teslim noktasından abholen etmenizi söyleyen bir kart bulursunuz. Komşuların birbirinin kargosunu teslim alması Almanya'da gayet normaldir. 📦"
+    ],
+    "quiz": {"q": "„Seni saat altıda istasyondan alırım“ cümlesini hangisi doğru söylüyor?", "o": ["Ich hole dich um sechs am Bahnhof ab.", "Ich abhole dich um sechs am Bahnhof.", "Ich habe dich um sechs am Bahnhof abgeholen."], "a": 0, "why": "Şimdiki zamanda ön ek ab cümlenin sonuna atlar; geçmiş zaman ortacı ise abgeholt'tur."},
+    "outro": "Bugün bir ışığı her yakıp söndürdüğünüzde bunu yüksek sesle söyleyin. Ich mache das Licht an… und wieder aus! 💡"
   }
 }

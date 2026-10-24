@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "語学学校の人を好きになってしまいました。ドイツ人の友だちにどう打ち明けますか？", "o": ["Ich habe mich verliebt.", "Ich habe heute einen Termin.", "Er küsst seine Frau zum Abschied."], "a": 0, "why": "sich verlieben は恋に落ちるという意味なので、Ich habe mich verliebt. = 恋に落ちちゃった、です。"},
     "outro": "好きな恋愛映画のワンシーンを思い浮かべて、今日の単語で1文ずつ声に出して作ってみましょう。ときめきは勉強のいい燃料です！💌"
+  },
+  "tr": {
+    "title": "Almancaya âşık olmak: Aşk üzerine 10 kelime",
+    "hook": "„Ich liebe dich“ demeden önce, ondan önce gelen her şeyin kelimelerine ihtiyacınız olacak.",
+    "intro": [
+      "Dil okulunda hep yanınıza oturan biri var. Bugün size dersten sonra kahve içmek isteyip istemediğinizi sordu. Bu sadece arkadaşça bir sohbet mi, yoksa bir randevu mu? Alman bir arkadaşınıza sormak istiyorsunuz ama kelimeler gelmiyor.",
+      "Bugünkü 10 kelime tamamen flört ve aşk üzerine. Bunlarla birine tutulmaktan, buluşmalara gitmekten ve bir ilişkide olmaktan bahsedebilirsiniz. Romantik filmler de birden çok daha anlaşılır olacak! 💕"
+    ],
+    "words": {
+      "A2-247": {"pron": "Lİ-be", "tip": "İngilizce love ile aynı kökten 💘 Yumuşacık söyleyin: Lİ-be.", "bonus": "Liebe auf den ersten Blick = ilk görüşte aşk"},
+      "A1-321": {"pron": "Lİ-ben", "tip": "die Liebe'ye -n ekleyince fiil olur ❤️ Ich liebe dich. Üç küçük kelime.", "warn": "Ich liebe dich ağır bir sözdür. Aile ve arkadaşlara genellikle Ich hab dich lieb denir."},
+      "A2-616": {"pron": "zih fer-Lİ-ben", "tip": "ver- + lieben, ‘aşka yuvarlanmak’ 😍 Almancada âşık olmak dönüşlü bir fiil!", "warn": "Birine âşık olmak = in + Akkusativ: Ich habe mich in ihn verliebt."},
+      "B1-1335": {"pron": "fer-LİPT", "tip": "sich verlieben'in geçmiş zaman ortacı; yani çoktan tutuldunuz 🥰", "bonus": "verliebt sein = âşık olmak (hâl); sich verlieben = aşkın başladığı an."},
+      "B2-2144": {"pron": "FLÖR-ten", "tip": "İngilizce flirt'ten alınma, Türkçedeki flört ile de aynı 😉 Sadece Almanca bir son ek almış.", "bonus": "mit jemandem flirten = biriyle flört etmek"},
+      "B1-1319": {"pron": "fer-AP-re-dunk", "tip": "ver + ab + reden (konuşmak) = üzerinde anlaşılmış bir şey ☕ -ung, yani die!", "warn": "Doktor ya da iş randevusu = der Termin. Bir arkadaşla buluşma ya da romantik buluşma = Verabredung."},
+      "B1-895": {"pron": "KÜ-sen", "tip": "İngilizce kiss, ama dudak büzen bir ü ile 💋 İsmi der Kuss.", "bonus": "Küsschen = küçük bir öpücük (-chen, yani das)"},
+      "A2-257": {"pron": "PART-ner", "tip": "Türkçedeki partner ile aynı 💑 Pratik ve tarafsız bir kelime.", "bonus": "Kadın hâli: die Partnerin"},
+      "B1-011": {"pron": "be-TSİ-unk", "tip": "be- + ziehen (çekmek) 🧲 İlişki, birbirine çekilen iki insandır.", "bonus": "in einer Beziehung sein = bir ilişkide olmak"},
+      "B1-398": {"pron": "ro-MAN-tiş", "tip": "Türkçedeki romantik'in ikizi 🌹 Sadece sonu -isch olmuş.", "bonus": "Havayı ne bozar? unromantisch!"}
+    },
+    "culture": [
+      "Almanya'da ilk buluşmada hesabı bölüşmek oldukça yaygındır. Ödeme yaparken garson çoğu zaman „Zusammen oder getrennt?“ diye sorar: birlikte mi, ayrı ayrı mı? Her çift farklıdır, ortamı iyi okuyun.",
+      "„Ich liebe dich“ ciddi bir aşk ilanıdır ve pek çok kişi bunu söylemeden önce ilişkide uzun süre bekler. O zamana kadar „Ich mag dich“ ya da „Ich hab dich lieb“ iş görür.",
+      "Çiftler Schatz (hazine) ya da Maus (fare) gibi sevgi sözcüklerine bayılır. Evet, fare; tatlı olsun diye söyleniyor! 🐭"
+    ],
+    "quiz": {"q": "Dil okulunda birine tutuldunuz. Alman arkadaşınıza bunu nasıl söylersiniz?", "o": ["Ich habe mich verliebt.", "Ich habe heute einen Termin.", "Er küsst seine Frau zum Abschied."], "a": 0, "why": "sich verlieben âşık olmak demektir; yani Ich habe mich verliebt. = Âşık oldum."},
+    "outro": "En sevdiğiniz romantik filmden bir sahne düşünün ve bugünün her kelimesiyle o sahne için yüksek sesle bir cümle kurun. Biraz romantizm öğrenmek için harika bir yakıttır! 💌"
   }
 }

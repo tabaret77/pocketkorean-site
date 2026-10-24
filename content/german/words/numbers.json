@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "市場でリンゴを1キロ買いたいです。何と言いますか？", "o": ["Ein Liter Äpfel, bitte.", "Ein Kilo Äpfel, bitte.", "Ein Meter Äpfel, bitte."], "a": 1, "why": "重さは Kilo で言います。Liter は液体、Meter は長さです。"},
     "outro": "家にあるものを3つ選んで、ein Liter Milch、ein Kilo Reis のように量をドイツ語で言ってみましょう！🛒"
+  },
+  "tr": {
+    "title": "Almanca saymak: Günlük hayat için 10 sayı ve birim",
+    "hook": "Alman pazarında ‘bir kilo elma lütfen’ dilinizden kendiliğinden döküldüğünde günlük hayat kolaylaşır.",
+    "intro": [
+      "Cumartesi sabahı semt pazarı (Wochenmarkt). Elmaları gösteriyorsunuz ve satıcı soruyor: Wie viel? Adet mi söyleyeceksiniz, ağırlık mı? Fiyat etiketinde de nokta beklediğiniz yerde virgül var.",
+      "Bugünkü 10 kelime sayılar ve birimlerle ilgili: saymak, yarım, yüzde, metre, kilo ve litre. Bunlarla alışveriş yapmak, indirim tabelalarını okumak ve bir yerin ne kadar uzak olduğunu sormak çok daha kolay olacak. 🔢"
+    ],
+    "words": {
+      "A1-155": {"pron": "TSAL", "tip": "zählen (saymak) ile aynı aileden 🔢 Almanca Z her zaman ‘ts’ diye okunur.", "warn": "Telefon ya da oda numarası die Nummer'dir. Zahl rakamın kendisidir."},
+      "A1-310": {"pron": "TSE-len", "tip": "Zahl + iki nokta + -en = sayıları saymak 🧮", "warn": "Noktasız zahlen ödemek demek! Zahlen, bitte! = Hesap lütfen."},
+      "A1-627": {"pron": "HUN-dert", "tip": "İngilizce hundred ile aynı kökten 💯 Yan yana söyleyin, duyacaksınız.", "bonus": "Türkçedeki gibi ‘bir’ gerekmez: hundert = einhundert"},
+      "A1-628": {"pron": "TAU-zent", "tip": "İngilizce thousand'ın kardeşi 🎉 th sadece t olmuş.", "warn": "Almanlar 1.000'i Türkiye'deki gibi noktayla yazar, ondalık için virgül kullanır: 2,50 €"},
+      "A2-235": {"pron": "HELF-te", "tip": "halb (yarım) kelimesinden 🍕 İngilizce half ile de akraba.", "warn": "İsim die Hälfte, sıfat halb: ein halbes Brot."},
+      "A1-621": {"pron": "pro-TSENT", "tip": "İtalyanca per cento (yüzde) kelimesinden 🏷️ Türkçedeki ‘yüzde’ ile aynı mantık.", "bonus": "İndirim tabelalarında: 30 Prozent Rabatt = %30 indirim"},
+      "A1-617": {"pron": "ME-ter", "tip": "Yunanca metron (ölçü) kelimesinden 📏 Türkçedeki metre ile aynı; başta uzun bir ‘e’.", "warn": "Çoğulu aynı: zwei Meter (-s yok!)"},
+      "A1-619": {"pron": "ki-lo-ME-ter", "tip": "kilo (bin) + Meter 🚲 Meter der olduğu için der Kilometer.", "bonus": "Hız çoğu zaman Stundenkilometer ile verilir: hundert Stundenkilometer = saatte 100 km"},
+      "A1-624": {"pron": "Kİ-lo", "tip": "Kilogramm'ın kısası 🍎 Pazarda her zaman Kilo; Türkçedeki gibi!", "warn": "Sayıdan sonra genellikle çoğul yok: zwei Kilo Äpfel."},
+      "A1-622": {"pron": "Lİ-ter", "tip": "Yunanca litra kelimesinden 🥛 Süt, meyve suyu, bira; hepsi Liter ile.", "bonus": "yarım litre = ein halber Liter"}
+    },
+    "culture": [
+      "Almanya'da fiyatlar 2,50 € gibi virgülle yazılır, binler ise nokta alır. Yani 1.500 bin beş yüz demek. Alışana kadar fiyat etiketlerini iki kez kontrol edin!",
+      "21 gibi sayılar ‘bir ve yirmi’ diye söylenir: einundzwanzig. Biri telefon numarası okurken özellikle dikkat edin.",
+      "Parmakla saymak da farklı işler. Almanlar ‘bir’ için genellikle başparmakla başlar; yani iki bira sipariş ederken başparmağınızı ve işaret parmağınızı gösterirsiniz. 👍"
+    ],
+    "quiz": {"q": "Pazarda bir kilo elma istiyorsunuz. Ne dersiniz?", "o": ["Ein Liter Äpfel, bitte.", "Ein Kilo Äpfel, bitte.", "Ein Meter Äpfel, bitte."], "a": 1, "why": "Ağırlık Kilo ile ölçülür; Liter sıvılar, Meter uzunluk içindir."},
+    "outro": "Evde üç şey seçin ve miktarlarını Almanca söyleyin: ein Liter Milch, ein Kilo Reis gibi! 🛒"
   }
 }

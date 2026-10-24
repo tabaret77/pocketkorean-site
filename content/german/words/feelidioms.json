@@ -8,23 +8,72 @@
       "오늘은 기쁨, 사랑, 짜증, 분노, 안도, 공포까지 감정을 그림처럼 보여 주는 관용구 10개예요. 이걸 알면 독일 친구의 속마음이 훨씬 잘 들리고, 내 기분도 생생하게 말할 수 있어요. 💓"
     ],
     "words": {
-      "B2-2255": {"pron": "아우프 디 네르펜 게엔", "tip": "누가 내 신경(Nerven) 위를 쿵쿵 걸어 다니는 그림 😤 생각만 해도 짜증!", "warn": "사람은 3격이에요: Du gehst mir auf die Nerven! · 완료형은 sein: Das ist mir auf die Nerven gegangen."},
-      "C1-3570": {"pron": "아우스 뎀 호이스헨 자인", "tip": "너무 신나서 작은 집(Häuschen) 밖으로 뛰쳐나간 모습 🏠 기뻐서 어쩔 줄 모르는 상태!", "bonus": "보통 völlig나 ganz와 같이 써요: Sie war völlig aus dem Häuschen."},
-      "C2-3069": {"pron": "아우프 볼케 지벤 슈베벤", "tip": "일곱 번째 구름 위를 둥둥 떠다니기 ☁️ 사랑에 빠지면 몸이 가벼워지죠!", "warn": "영어는 cloud nine, 독일어는 Wolke sieben이에요. 숫자를 헷갈리지 마세요!"},
-      "C2-4084": {"pron": "비스 위버 바이데 오렌 페어리프트 자인", "tip": "사랑에 귀(Ohren) 위까지 풍덩 잠긴 모습 😍 머리끝까지 빠졌다는 얘기!", "bonus": "가볍게 말할 땐 verknallt sein = 반했다"},
-      "C2-510": {"pron": "아우스 데어 하우트 파렌", "tip": "화가 나서 피부(Haut)를 벗고 튀어 나가는 모습 💥 펄쩍 뛰는 분노!", "bonus": "Es ist zum Aus-der-Haut-Fahren! = 미치고 팔짝 뛰겠네!"},
-      "C2-4017": {"pron": "예만뎀 플라츠트 데어 크라겐", "tip": "화가 나서 목이 부풀다가 셔츠 깃(Kragen)이 펑 터지는 장면 👔 인내심 폭발!", "warn": "주어는 der Kragen이고 사람은 3격이에요: Mir platzt der Kragen."},
-      "C2-1883": {"pron": "아우프 디 팔메 브링엔", "tip": "화난 원숭이가 야자수(Palme) 꼭대기로 휙 🌴 누군가 나를 거기까지 몰아붙인 거예요.", "bonus": "이미 화가 난 상태는 auf der Palme sein · 사람은 4격: Er bringt mich auf die Palme."},
-      "C2-4019": {"pron": "예만뎀 펠트 아인 슈타인 폼 헤르첸", "tip": "가슴(Herz)을 누르던 돌(Stein)이 쿵 떨어지는 순간 😮‍💨 휴, 살았다!", "bonus": "Mir fällt ein Stein vom Herzen. = 이제야 한시름 놨어."},
-      "C2-2970": {"pron": "예만뎀 루치트 다스 헤르츠 인 디 호제", "tip": "심장(Herz)이 바지(Hose) 속으로 쭉 미끄러지는 그림 😱 한국어 '간 떨어지다'랑 비슷해요!", "bonus": "Mir rutschte das Herz in die Hose. = 심장이 쿵 내려앉았어."},
-      "C2-538": {"pron": "예만뎀 이스트 아이네 라우스 위버 디 레버 겔라우펜", "tip": "이(Laus) 한 마리가 간(Leber) 위를 지나가기만 해도 기분이 상한대요 🐜 옛날엔 간이 감정의 자리였거든요.", "warn": "완료형 sein과 3격: Ist dir eine Laus über die Leber gelaufen?"}
+      "B2-2255": {
+        "pron": "아우프 디 네르펜 게엔",
+        "tip": "누가 내 신경(Nerven) 위를 쿵쿵 걸어 다니는 그림 😤 생각만 해도 짜증!",
+        "warn": "사람은 3격이에요: Du gehst mir auf die Nerven! · 완료형은 sein: Das ist mir auf die Nerven gegangen."
+      },
+      "C1-3570": {
+        "pron": "아우스 뎀 호이스헨 자인",
+        "tip": "너무 신나서 작은 집(Häuschen) 밖으로 뛰쳐나간 모습 🏠 기뻐서 어쩔 줄 모르는 상태!",
+        "bonus": "보통 völlig나 ganz와 같이 써요: Sie war völlig aus dem Häuschen."
+      },
+      "C2-3069": {
+        "pron": "아우프 볼케 지벤 슈베벤",
+        "tip": "일곱 번째 구름 위를 둥둥 떠다니기 ☁️ 사랑에 빠지면 몸이 가벼워지죠!",
+        "warn": "영어는 cloud nine, 독일어는 Wolke sieben이에요. 숫자를 헷갈리지 마세요!"
+      },
+      "C2-4084": {
+        "pron": "비스 위버 바이데 오렌 페어리프트 자인",
+        "tip": "사랑에 귀(Ohren) 위까지 풍덩 잠긴 모습 😍 머리끝까지 빠졌다는 얘기!",
+        "bonus": "가볍게 말할 땐 verknallt sein = 반했다"
+      },
+      "C2-510": {
+        "pron": "아우스 데어 하우트 파렌",
+        "tip": "화가 나서 피부(Haut)를 벗고 튀어 나가는 모습 💥 펄쩍 뛰는 분노!",
+        "bonus": "Es ist zum Aus-der-Haut-Fahren! = 미치고 팔짝 뛰겠네!"
+      },
+      "C2-4017": {
+        "pron": "예만뎀 플라츠트 데어 크라겐",
+        "tip": "화가 나서 목이 부풀다가 셔츠 깃(Kragen)이 펑 터지는 장면 👔 인내심 폭발!",
+        "warn": "주어는 der Kragen이고 사람은 3격이에요: Mir platzt der Kragen."
+      },
+      "C2-1883": {
+        "pron": "아우프 디 팔메 브링엔",
+        "tip": "화난 원숭이가 야자수(Palme) 꼭대기로 휙 🌴 누군가 나를 거기까지 몰아붙인 거예요.",
+        "bonus": "이미 화가 난 상태는 auf der Palme sein · 사람은 4격: Er bringt mich auf die Palme."
+      },
+      "C2-4019": {
+        "pron": "예만뎀 펠트 아인 슈타인 폼 헤르첸",
+        "tip": "가슴(Herz)을 누르던 돌(Stein)이 쿵 떨어지는 순간 😮‍💨 휴, 살았다!",
+        "bonus": "Mir fällt ein Stein vom Herzen. = 이제야 한시름 놨어."
+      },
+      "C2-2970": {
+        "pron": "예만뎀 루치트 다스 헤르츠 인 디 호제",
+        "tip": "심장(Herz)이 바지(Hose) 속으로 쭉 미끄러지는 그림 😱 한국어 '간 떨어지다'랑 비슷해요!",
+        "bonus": "Mir rutschte das Herz in die Hose. = 심장이 쿵 내려앉았어."
+      },
+      "C2-538": {
+        "pron": "예만뎀 이스트 아이네 라우스 위버 디 레버 겔라우펜",
+        "tip": "이(Laus) 한 마리가 간(Leber) 위를 지나가기만 해도 기분이 상한대요 🐜 옛날엔 간이 감정의 자리였거든요.",
+        "warn": "완료형 sein과 3격: Ist dir eine Laus über die Leber gelaufen?"
+      }
     },
     "culture": [
       "독일에서 \"Wie geht's?\"는 그냥 인사가 아니라 진짜 질문인 경우가 많아요. 친한 사이라면 \"Nicht so gut, mein Chef geht mir auf die Nerven\"처럼 솔직하게 대답하는 것도 자연스러워요.",
       "오늘 배운 관용구는 대부분 친구, 가족, 동료와의 편한 대화에서 써요. 업무 메일이나 공식적인 자리에서는 \"Ich bin verärgert\"(화가 났어요)나 \"Ich bin erleichtert\"(안심했어요)처럼 담백하게 말하는 게 좋아요.",
       "그리고 기분이 안 좋아 보이는 동료에게 \"Ist dir eine Laus über die Leber gelaufen?\" 하고 웃으며 물어보면, 분위기가 조금 풀리기도 해요. 단, 진짜 화가 많이 난 사람에게는 조심! 😅"
     ],
-    "quiz": {"q": "시험에 합격했다는 연락을 받고 크게 안심했어요. 뭐라고 할까요?", "o": ["Du gehst mir auf die Nerven!", "Mir platzt gleich der Kragen!", "Mir fällt ein Stein vom Herzen!"], "a": 2, "why": "Mir fällt ein Stein vom Herzen! = 휴, 한시름 놨어! 큰 걱정이 사라졌을 때 쓰는 말이에요."},
+    "quiz": {
+      "q": "시험에 합격했다는 연락을 받고 크게 안심했어요. 뭐라고 할까요?",
+      "o": [
+        "Du gehst mir auf die Nerven!",
+        "Mir platzt gleich der Kragen!",
+        "Mir fällt ein Stein vom Herzen!"
+      ],
+      "a": 2,
+      "why": "Mir fällt ein Stein vom Herzen! = 휴, 한시름 놨어! 큰 걱정이 사라졌을 때 쓰는 말이에요."
+    },
     "outro": "오늘 하루 내 기분을 관용구 하나로 표현해 봐요. 오늘의 저는… Ich schwebe auf Wolke sieben! ☁️"
   },
   "en": {
@@ -35,23 +84,72 @@
       "Today's ten idioms paint feelings as pictures: joy, love, annoyance, anger, relief and fear. Know them and you'll hear what your German friends really mean, and describe your own mood vividly. 💓"
     ],
     "words": {
-      "B2-2255": {"pron": "owf dee NAIR-fen GAY-en", "tip": "Picture someone stomping up and down on your nerves 😤 Annoying just thinking about it.", "warn": "The person is in the dative: Du gehst mir auf die Nerven! · Perfect with sein: Das ist mir auf die Nerven gegangen."},
-      "C1-3570": {"pron": "ows daym HOYS-khen zine", "tip": "So excited you burst out of your little house (Häuschen) 🏠 Over the moon.", "bonus": "Usually with völlig or ganz: Sie war völlig aus dem Häuschen."},
-      "C2-3069": {"pron": "owf VOL-kuh ZEE-ben SHVAY-ben", "tip": "Floating on the seventh cloud ☁️ Love makes you feel light.", "warn": "English says cloud nine, German says Wolke sieben. Don't mix up the numbers!"},
-      "C2-4084": {"pron": "bis UE-ber BY-duh OH-ren fair-LEEPT zine", "tip": "In love right up over both ears (Ohren) 😍 English uses heels, German uses ears.", "bonus": "A lighter version: verknallt sein = to have a crush"},
-      "C2-510": {"pron": "ows dair HOWT FAH-ren", "tip": "So angry you jump right out of your skin (Haut) 💥", "bonus": "Es ist zum Aus-der-Haut-Fahren! = It's enough to drive you mad!"},
-      "C2-4017": {"pron": "YAY-man-dem PLATST dair KRAH-gen", "tip": "Your neck swells with rage until your collar (Kragen) bursts 👔 Patience gone.", "warn": "The subject is der Kragen and the person is dative: Mir platzt der Kragen."},
-      "C2-1883": {"pron": "owf dee PAL-muh BRING-en", "tip": "An angry monkey shooting up a palm tree (Palme) 🌴 Someone drove you up there.", "bonus": "Already angry = auf der Palme sein · person in the accusative: Er bringt mich auf die Palme."},
-      "C2-4019": {"pron": "YAY-man-dem FELT ine SHTINE fom HAIR-tsen", "tip": "The stone (Stein) pressing on your heart (Herz) finally drops 😮‍💨 Phew!", "bonus": "Mir fällt ein Stein vom Herzen. = What a relief."},
-      "C2-2970": {"pron": "YAY-man-dem ROOTCHT das HAIRTS in dee HOH-zuh", "tip": "Your heart (Herz) slides down into your trousers (Hose) 😱 English puts it in your mouth instead.", "bonus": "Mir rutschte das Herz in die Hose. = My heart sank."},
-      "C2-538": {"pron": "YAY-man-dem ist INE-uh LOWS UE-ber dee LAY-ber guh-LOW-fen", "tip": "Even a louse (Laus) walking over your liver (Leber) can spoil your mood 🐜 The liver was once thought to be the seat of feelings.", "warn": "Perfect with sein and a dative: Ist dir eine Laus über die Leber gelaufen?"}
+      "B2-2255": {
+        "pron": "owf dee NAIR-fen GAY-en",
+        "tip": "Picture someone stomping up and down on your nerves 😤 Annoying just thinking about it.",
+        "warn": "The person is in the dative: Du gehst mir auf die Nerven! · Perfect with sein: Das ist mir auf die Nerven gegangen."
+      },
+      "C1-3570": {
+        "pron": "ows daym HOYS-khen zine",
+        "tip": "So excited you burst out of your little house (Häuschen) 🏠 Over the moon.",
+        "bonus": "Usually with völlig or ganz: Sie war völlig aus dem Häuschen."
+      },
+      "C2-3069": {
+        "pron": "owf VOL-kuh ZEE-ben SHVAY-ben",
+        "tip": "Floating on the seventh cloud ☁️ Love makes you feel light.",
+        "warn": "English says cloud nine, German says Wolke sieben. Don't mix up the numbers!"
+      },
+      "C2-4084": {
+        "pron": "bis UE-ber BY-duh OH-ren fair-LEEPT zine",
+        "tip": "In love right up over both ears (Ohren) 😍 English uses heels, German uses ears.",
+        "bonus": "A lighter version: verknallt sein = to have a crush"
+      },
+      "C2-510": {
+        "pron": "ows dair HOWT FAH-ren",
+        "tip": "So angry you jump right out of your skin (Haut) 💥",
+        "bonus": "Es ist zum Aus-der-Haut-Fahren! = It's enough to drive you mad!"
+      },
+      "C2-4017": {
+        "pron": "YAY-man-dem PLATST dair KRAH-gen",
+        "tip": "Your neck swells with rage until your collar (Kragen) bursts 👔 Patience gone.",
+        "warn": "The subject is der Kragen and the person is dative: Mir platzt der Kragen."
+      },
+      "C2-1883": {
+        "pron": "owf dee PAL-muh BRING-en",
+        "tip": "An angry monkey shooting up a palm tree (Palme) 🌴 Someone drove you up there.",
+        "bonus": "Already angry = auf der Palme sein · person in the accusative: Er bringt mich auf die Palme."
+      },
+      "C2-4019": {
+        "pron": "YAY-man-dem FELT ine SHTINE fom HAIR-tsen",
+        "tip": "The stone (Stein) pressing on your heart (Herz) finally drops 😮‍💨 Phew!",
+        "bonus": "Mir fällt ein Stein vom Herzen. = What a relief."
+      },
+      "C2-2970": {
+        "pron": "YAY-man-dem ROOTCHT das HAIRTS in dee HOH-zuh",
+        "tip": "Your heart (Herz) slides down into your trousers (Hose) 😱 English puts it in your mouth instead.",
+        "bonus": "Mir rutschte das Herz in die Hose. = My heart sank."
+      },
+      "C2-538": {
+        "pron": "YAY-man-dem ist INE-uh LOWS UE-ber dee LAY-ber guh-LOW-fen",
+        "tip": "Even a louse (Laus) walking over your liver (Leber) can spoil your mood 🐜 The liver was once thought to be the seat of feelings.",
+        "warn": "Perfect with sein and a dative: Ist dir eine Laus über die Leber gelaufen?"
+      }
     },
     "culture": [
       "In Germany, \"Wie geht's?\" is often a real question rather than just a greeting. Among friends it's perfectly normal to answer honestly: \"Nicht so gut, mein Chef geht mir auf die Nerven.\"",
       "Most of today's idioms belong in relaxed chats with friends, family and colleagues. In work emails or formal settings, plainer phrases like \"Ich bin verärgert\" (I'm annoyed) or \"Ich bin erleichtert\" (I'm relieved) work better.",
       "And if a colleague looks grumpy, asking with a smile \"Ist dir eine Laus über die Leber gelaufen?\" can lighten the mood. Just don't try it on someone who's truly furious! 😅"
     ],
-    "quiz": {"q": "You've just heard you passed your exam and you're hugely relieved. What do you say?", "o": ["Du gehst mir auf die Nerven!", "Mir platzt gleich der Kragen!", "Mir fällt ein Stein vom Herzen!"], "a": 2, "why": "Mir fällt ein Stein vom Herzen! = What a relief! — it's what you say when a big worry disappears."},
+    "quiz": {
+      "q": "You've just heard you passed your exam and you're hugely relieved. What do you say?",
+      "o": [
+        "Du gehst mir auf die Nerven!",
+        "Mir platzt gleich der Kragen!",
+        "Mir fällt ein Stein vom Herzen!"
+      ],
+      "a": 2,
+      "why": "Mir fällt ein Stein vom Herzen! = What a relief! — it's what you say when a big worry disappears."
+    },
     "outro": "Sum up your mood today with one of these idioms. Today I'm… Ich schwebe auf Wolke sieben! ☁️"
   },
   "ja": {
@@ -62,23 +160,148 @@
       "今日は喜び、恋、いらいら、怒り、安心、恐怖まで、気持ちを絵のように見せる慣用句を10個集めました。これがわかると友だちの本音がよく聞こえて、自分の気分も生き生きと伝えられます。💓"
     ],
     "words": {
-      "B2-2255": {"pron": "アウフ ディー ネルフェン ゲーエン", "tip": "誰かが自分の神経（Nerven）の上をどしどし歩き回るイメージ 😤 想像するだけでいらいら！", "warn": "人は3格です：Du gehst mir auf die Nerven! 完了形は sein：Das ist mir auf die Nerven gegangen."},
-      "C1-3570": {"pron": "アウス デム ホイスヒェン ザイン", "tip": "うれしすぎて小さな家（Häuschen）から飛び出した姿 🏠 有頂天です！", "bonus": "völlig や ganz と一緒によく使います：Sie war völlig aus dem Häuschen."},
-      "C2-3069": {"pron": "アウフ ヴォルケ ズィーベン シュヴェーベン", "tip": "7番目の雲の上をふわふわ ☁️ 恋をすると体が軽くなりますよね！", "warn": "英語は cloud nine、ドイツ語は Wolke sieben。数字を間違えないで！"},
-      "C2-4084": {"pron": "ビス ユーバー バイデ オーレン フェアリープト ザイン", "tip": "恋に両耳（Ohren）の上までどっぷり 😍 頭のてっぺんまで夢中という意味！", "bonus": "軽く言うなら verknallt sein = ほれている"},
-      "C2-510": {"pron": "アウス デア ハウト ファーレン", "tip": "怒りのあまり皮膚（Haut）から飛び出す姿 💥 地団駄を踏むほどの怒り！", "bonus": "Es ist zum Aus-der-Haut-Fahren! = まったく頭にくる！"},
-      "C2-4017": {"pron": "イェーマンデム プラッツト デア クラーゲン", "tip": "怒りで首がふくらみ、シャツの襟（Kragen）がぱーんとはじける 👔 日本語の「堪忍袋の緒が切れる」！", "warn": "主語は der Kragen、人は3格です：Mir platzt der Kragen."},
-      "C2-1883": {"pron": "アウフ ディー パルメ ブリンゲン", "tip": "怒った猿がヤシの木（Palme）のてっぺんへ 🌴 誰かにそこまで追い込まれたんです。", "bonus": "すでに怒っている状態は auf der Palme sein。人は4格：Er bringt mich auf die Palme."},
-      "C2-4019": {"pron": "イェーマンデム フェルト アイン シュタイン フォム ヘルツェン", "tip": "胸（Herz）を押さえていた石（Stein）がごとんと落ちる瞬間 😮‍💨 ああ、助かった！", "bonus": "Mir fällt ein Stein vom Herzen. = やっとほっとした。"},
-      "C2-2970": {"pron": "イェーマンデム ルッチュト ダス ヘルツ イン ディー ホーゼ", "tip": "心臓（Herz）がズボン（Hose）の中へするっと滑り落ちる 😱 日本語の「肝が冷える」に近い感覚です！", "bonus": "Mir rutschte das Herz in die Hose. = 心臓が縮み上がった。"},
-      "C2-538": {"pron": "イェーマンデム イスト アイネ ラウス ユーバー ディー レーバー ゲラウフェン", "tip": "シラミ（Laus）が一匹肝臓（Leber）の上を通っただけで機嫌が悪くなる 🐜 昔は肝臓が感情の座とされていました。", "warn": "完了形は sein、人は3格：Ist dir eine Laus über die Leber gelaufen?"}
+      "B2-2255": {
+        "pron": "アウフ ディー ネルフェン ゲーエン",
+        "tip": "誰かが自分の神経（Nerven）の上をどしどし歩き回るイメージ 😤 想像するだけでいらいら！",
+        "warn": "人は3格です：Du gehst mir auf die Nerven! 完了形は sein：Das ist mir auf die Nerven gegangen."
+      },
+      "C1-3570": {
+        "pron": "アウス デム ホイスヒェン ザイン",
+        "tip": "うれしすぎて小さな家（Häuschen）から飛び出した姿 🏠 有頂天です！",
+        "bonus": "völlig や ganz と一緒によく使います：Sie war völlig aus dem Häuschen."
+      },
+      "C2-3069": {
+        "pron": "アウフ ヴォルケ ズィーベン シュヴェーベン",
+        "tip": "7番目の雲の上をふわふわ ☁️ 恋をすると体が軽くなりますよね！",
+        "warn": "英語は cloud nine、ドイツ語は Wolke sieben。数字を間違えないで！"
+      },
+      "C2-4084": {
+        "pron": "ビス ユーバー バイデ オーレン フェアリープト ザイン",
+        "tip": "恋に両耳（Ohren）の上までどっぷり 😍 頭のてっぺんまで夢中という意味！",
+        "bonus": "軽く言うなら verknallt sein = ほれている"
+      },
+      "C2-510": {
+        "pron": "アウス デア ハウト ファーレン",
+        "tip": "怒りのあまり皮膚（Haut）から飛び出す姿 💥 地団駄を踏むほどの怒り！",
+        "bonus": "Es ist zum Aus-der-Haut-Fahren! = まったく頭にくる！"
+      },
+      "C2-4017": {
+        "pron": "イェーマンデム プラッツト デア クラーゲン",
+        "tip": "怒りで首がふくらみ、シャツの襟（Kragen）がぱーんとはじける 👔 日本語の「堪忍袋の緒が切れる」！",
+        "warn": "主語は der Kragen、人は3格です：Mir platzt der Kragen."
+      },
+      "C2-1883": {
+        "pron": "アウフ ディー パルメ ブリンゲン",
+        "tip": "怒った猿がヤシの木（Palme）のてっぺんへ 🌴 誰かにそこまで追い込まれたんです。",
+        "bonus": "すでに怒っている状態は auf der Palme sein。人は4格：Er bringt mich auf die Palme."
+      },
+      "C2-4019": {
+        "pron": "イェーマンデム フェルト アイン シュタイン フォム ヘルツェン",
+        "tip": "胸（Herz）を押さえていた石（Stein）がごとんと落ちる瞬間 😮‍💨 ああ、助かった！",
+        "bonus": "Mir fällt ein Stein vom Herzen. = やっとほっとした。"
+      },
+      "C2-2970": {
+        "pron": "イェーマンデム ルッチュト ダス ヘルツ イン ディー ホーゼ",
+        "tip": "心臓（Herz）がズボン（Hose）の中へするっと滑り落ちる 😱 日本語の「肝が冷える」に近い感覚です！",
+        "bonus": "Mir rutschte das Herz in die Hose. = 心臓が縮み上がった。"
+      },
+      "C2-538": {
+        "pron": "イェーマンデム イスト アイネ ラウス ユーバー ディー レーバー ゲラウフェン",
+        "tip": "シラミ（Laus）が一匹肝臓（Leber）の上を通っただけで機嫌が悪くなる 🐜 昔は肝臓が感情の座とされていました。",
+        "warn": "完了形は sein、人は3格：Ist dir eine Laus über die Leber gelaufen?"
+      }
     },
     "culture": [
       "ドイツでは「Wie geht's?」がただのあいさつではなく、本当の質問であることが多いです。親しい間柄なら「Nicht so gut, mein Chef geht mir auf die Nerven.」のように正直に答えるのも自然です。",
       "今日の慣用句は、ほとんどが友だちや家族、同僚とのくだけた会話で使うものです。仕事のメールや改まった場では「Ich bin verärgert」（腹が立っています）や「Ich bin erleichtert」（ほっとしました）のように、シンプルに言うほうが無難です。",
       "そして機嫌の悪そうな同僚に、笑顔で「Ist dir eine Laus über die Leber gelaufen?」と聞くと、場がふっと和むこともあります。ただし本気で怒っている人には要注意！😅"
     ],
-    "quiz": {"q": "試験に合格したと連絡があり、心からほっとしました。何と言いますか？", "o": ["Du gehst mir auf die Nerven!", "Mir platzt gleich der Kragen!", "Mir fällt ein Stein vom Herzen!"], "a": 2, "why": "Mir fällt ein Stein vom Herzen! = ああ、ほっとした！大きな心配がなくなったときに使う表現です。"},
+    "quiz": {
+      "q": "試験に合格したと連絡があり、心からほっとしました。何と言いますか？",
+      "o": [
+        "Du gehst mir auf die Nerven!",
+        "Mir platzt gleich der Kragen!",
+        "Mir fällt ein Stein vom Herzen!"
+      ],
+      "a": 2,
+      "why": "Mir fällt ein Stein vom Herzen! = ああ、ほっとした！大きな心配がなくなったときに使う表現です。"
+    },
     "outro": "今日の気分を慣用句ひとつで表してみましょう。今日の私は…Ich schwebe auf Wolke sieben! ☁️"
+  },
+  "tr": {
+    "title": "Palmiyeye tırmanmak, yedinci bulutta süzülmek: Duygulara dair 10 Almanca deyim",
+    "hook": "Almanlar sinirlenince palmiyeye tırmanır, rahatlayınca da yüreklerinden bir taş düşer.",
+    "intro": [
+      "Alman bir arkadaşınız iç çekiyor: \"Mein Chef bringt mich auf die Palme!\" Patronu onu palmiyeye mi götürüyor? Tatilden söz ettiğini sanıyorsunuz, oysa aslında öfkeden deliye dönmüş. Kelimesi kelimesine çeviri en çok duygularda çuvallar.",
+      "Bugünkü on deyim duyguları resimlerle anlatıyor: sevinç, aşk, sinir, öfke, rahatlama ve korku. Bunları bilirseniz Alman arkadaşlarınızın gerçekte ne demek istediğini anlar, kendi ruh hâlinizi de canlı bir şekilde anlatırsınız. Türkçede de “küplere binmek”, “yüreği ağzına gelmek” gibi benzerlerini bulacaksınız! 💓"
+    ],
+    "words": {
+      "B2-2255": {
+        "pron": "auf di NER-fen GEE-en",
+        "tip": "Birinin sinirlerinizin üstünde bir aşağı bir yukarı tepindiğini hayal edin 😤 Düşünmesi bile sinir bozucu.",
+        "warn": "Kişi datif hâlindedir: Du gehst mir auf die Nerven! · Perfekt sein ile: Das ist mir auf die Nerven gegangen."
+      },
+      "C1-3570": {
+        "pron": "aus dem HOYS-hen zayn",
+        "tip": "Öyle heyecanlısınız ki küçük evinizden (Häuschen) fırlıyorsunuz 🏠 Havalara uçmak.",
+        "bonus": "Genellikle völlig ya da ganz ile: Sie war völlig aus dem Häuschen."
+      },
+      "C2-3069": {
+        "pron": "auf VOL-ke Zİ-ben ŞVEE-ben",
+        "tip": "Yedinci bulutta süzülmek ☁️ Aşk insanı hafifletir.",
+        "warn": "İngilizcede cloud nine, Almancada Wolke sieben. Sayıları karıştırmayın!"
+      },
+      "C2-4084": {
+        "pron": "bis Ü-bır BAY-de O-ren fer-LİPT zayn",
+        "tip": "İki kulağınızı (Ohren) da aşacak kadar âşık 😍 Türkçede sırılsıklam, Almancada kulaklara kadar.",
+        "bonus": "Daha hafifi: verknallt sein = birine abayı yakmak"
+      },
+      "C2-510": {
+        "pron": "aus der HAUT FA-ren",
+        "tip": "Öyle sinirlisiniz ki derinizden (Haut) fırlıyorsunuz 💥 Türkçedeki “küplere binmek” gibi.",
+        "bonus": "Es ist zum Aus-der-Haut-Fahren! = İnsanı çileden çıkaracak cinsten!"
+      },
+      "C2-4017": {
+        "pron": "YEE-man-dem PLATST der KRA-gen",
+        "tip": "Öfkeden boynunuz şişer, sonunda yakanız (Kragen) patlar 👔 Sabır bitti.",
+        "warn": "Özne der Kragen, kişi datif: Mir platzt der Kragen."
+      },
+      "C2-1883": {
+        "pron": "auf di PAL-me BRİN-gen",
+        "tip": "Palmiyeye (Palme) fırlayan öfkeli bir maymun 🌴 Sizi oraya biri çıkardı.",
+        "bonus": "Zaten sinirli olmak = auf der Palme sein · kişi akuzatif: Er bringt mich auf die Palme."
+      },
+      "C2-4019": {
+        "pron": "YEE-man-dem FELT ayn ŞTAYN fom HER-tsen",
+        "tip": "Yüreğinize (Herz) baskı yapan taş (Stein) sonunda düşer 😮‍💨 Türkçedeki “yüreğimden bir yük kalktı” gibi. Oh be!",
+        "bonus": "Mir fällt ein Stein vom Herzen. = İçim rahatladı."
+      },
+      "C2-2970": {
+        "pron": "YEE-man-dem RUÇT das HERTS in di HO-ze",
+        "tip": "Yüreğiniz (Herz) pantolonunuza (Hose) kayar 😱 Türkçede ise yürek ağza gelir.",
+        "bonus": "Mir rutschte das Herz in die Hose. = Ödüm koptu."
+      },
+      "C2-538": {
+        "pron": "YEE-man-dem ist AY-ne LAUS Ü-bır di LEE-bır ge-LAU-fen",
+        "tip": "Ciğerinizin (Leber) üstünden yürüyen bir bit (Laus) bile keyfinizi kaçırabilir 🐜 Eskiden ciğerin duyguların merkezi olduğu düşünülürdü; Türkçedeki “ciğerim yandı” gibi.",
+        "warn": "Perfekt sein ve datif ile: Ist dir eine Laus über die Leber gelaufen?"
+      }
+    },
+    "culture": [
+      "Almanya'da \"Wie geht's?\" çoğu zaman sadece bir selam değil, gerçek bir sorudur. Arkadaşlar arasında dürüstçe cevap vermek tamamen normaldir: \"Nicht so gut, mein Chef geht mir auf die Nerven.\"",
+      "Bugünkü deyimlerin çoğu arkadaşlarla, aileyle ve iş arkadaşlarıyla rahat sohbetlere uygundur. İş e-postalarında ya da resmî ortamlarda \"Ich bin verärgert\" (canım sıkıldı) ya da \"Ich bin erleichtert\" (rahatladım) gibi daha sade ifadeler daha iyi olur.",
+      "Bir iş arkadaşınız somurtkan görünüyorsa gülümseyerek \"Ist dir eine Laus über die Leber gelaufen?\" diye sormak havayı yumuşatabilir. Yalnız gerçekten öfkeden deliye dönmüş birine denemeyin! 😅"
+    ],
+    "quiz": {
+      "q": "Sınavı geçtiğinizi yeni öğrendiniz ve çok rahatladınız. Ne dersiniz?",
+      "o": [
+        "Du gehst mir auf die Nerven!",
+        "Mir platzt gleich der Kragen!",
+        "Mir fällt ein Stein vom Herzen!"
+      ],
+      "a": 2,
+      "why": "Mir fällt ein Stein vom Herzen! = İçim rahatladı! Büyük bir endişe ortadan kalktığında söylenir."
+    },
+    "outro": "Bugünkü ruh hâlinizi bu deyimlerden biriyle özetleyin. Bugün ben… Ich schwebe auf Wolke sieben! ☁️"
   }
 }
