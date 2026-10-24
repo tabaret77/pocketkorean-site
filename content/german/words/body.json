@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "お医者さんに「Wo tut es weh?」と聞かれました。おなかが痛いときは何と言いますか？", "o": ["Ich habe blaue Augen.", "Mir tut der Bauch weh.", "Ich gehe zu Fuß."], "a": 1, "why": "Mir tut der Bauch weh. = おなかが痛いです。「Mir tut … weh」で痛い場所を言います。"},
     "outro": "今日は鏡の前で Kopf, Augen, Mund, Hand… とひとつずつ指さしながら声に出してみましょう。次は、この体が具合の悪いときに使う単語へ続きます！🙌"
+  },
+  "tr": {
+    "title": "Tepeden tırnağa: Vücutla ilgili 10 Almanca kelime",
+    "hook": "Bir dahaki sefere biri nerenizin ağrıdığını sorduğunda parmakla göstermek yerine kelimelerle cevap verin.",
+    "intro": [
+      "İlk yoga dersinizde hoca hızlı hızlı sesleniyor: „Hebt die Arme! Beugt das Bein!“ Yanınızdakini taklit ederek ancak yetişebiliyorsunuz.",
+      "Bugünün on kelimesi vücudun temel bölümleri. Bunlarla bir spor dersini takip edebilir, doktora nerenizin ağrıdığını anlatabilir, hatta çocuklarla şarkılı oyunlar oynayabilirsiniz. Tepeden tırnağa, haydi başlayalım! 🦵"
+    ],
+    "words": {
+      "A2-499": {"pron": "KÖR-pır", "tip": "Latince corpus’tan (beden) 💪 İngilizce corporal ve corpse ile akraba.", "bonus": "beden ve zihin = Körper und Geist"},
+      "A1-039": {"pron": "KOPF", "tip": "Aslında „kap, kâse“ demekmiş 🥣 Kafanız, düşüncelerinizin kâsesi!", "bonus": "Moralini bozma! = Kopf hoch!"},
+      "A2-232": {"pron": "ge-ZİHT", "tip": "sehen (görmek) fiilinden 👀 Gördüğünüz şey = yüz. İngilizce sight ile akraba.", "warn": "Çoğulu -er ile: die Gesichter"},
+      "A1-041": {"pron": "AU-gı", "tip": "İngilizce eye ile aynı kökten 👁️ İki tane olduğu için çoğulu Augen’i sık kullanırsınız.", "bonus": "unter vier Augen = baş başa, ikimiz arasında („dört göz altında“)"},
+      "A1-172": {"pron": "MUNT", "tip": "İngilizce mouth ile aynı kökten 👄 Sondaki d, t gibi okunur.", "warn": "Çoğulu umlaut ve -er ile: die Münder"},
+      "A1-040": {"pron": "HANT", "tip": "Tıpkı İngilizce hand gibi ✋ Ama dişil: die Hand.", "warn": "Çoğulu umlautlu: die Hände"},
+      "A1-171": {"pron": "ARM", "tip": "İngilizce arm ile birebir aynı 💪 Size bedava bir kelime!", "warn": "Küçük harfle arm, „fakir“ anlamındaki sıfattır: Er ist arm."},
+      "A1-170": {"pron": "BAYN", "tip": "Aslında „kemik“ demekmiş 🦴 Bacak = uzun bir kemik!", "bonus": "Şans dilemek için: Hals- und Beinbruch! („boynunu ve bacağını kır“ = bol şans)"},
+      "A1-169": {"pron": "FUS", "tip": "İngilizce foot ile aynı kökten 🦶 Bir yere yürüyerek mi gidiyorsunuz? zu Fuß!", "warn": "Çoğulu umlautlu: die Füße"},
+      "A1-263": {"pron": "BAUH", "tip": "Karnınızı pışpışlayın, „bauh“ diye ses çıkarmıyor mu? 🫃", "bonus": "Karnım ağrıyor = Ich habe Bauchschmerzen."}
+    },
+    "culture": [
+      "Almanlar şans dilerken parmaklarını çaprazlamaz; başparmaklarını yumruğun içine alıp sıkarlar. Buna Daumen drücken denir: „Ich drücke dir die Daumen!“ = Bol şans, yolun açık olsun!",
+      "Kadeh tokuştururken (Prost!) karşınızdakinin gözlerine (Augen) bakmak nezaket gereğidir. Başka yöne bakarsanız pek çok kişi bunu biraz tuhaf bulur.",
+      "Sınavınızdan ya da gösterinizden önce biri size „Hals- und Beinbruch!“ derse bu bir beddua değil, cesaret vermektir. Almanca vücut organlı deyimlerle dolu! 🤞"
+    ],
+    "quiz": {"q": "Doktor soruyor: „Wo tut es weh?“ Karnınız ağrıyor. Ne dersiniz?", "o": ["Ich habe blaue Augen.", "Mir tut der Bauch weh.", "Ich gehe zu Fuß."], "a": 1, "why": "Mir tut der Bauch weh. = Karnım ağrıyor. Nerenizin ağrıdığını söylemek için ‘Mir tut … weh’ kalıbını kullanın."},
+    "outro": "Bugün aynanın karşısına geçin ve her bölümü söylerken gösterin: Kopf, Augen, Mund, Hand… Bir dahaki sefere bunlarla hastalığı anlatacağız! 🙌"
   }
 }

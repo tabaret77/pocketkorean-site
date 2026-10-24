@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "パン屋さんでブレーツェル1つとコーヒーを注文したいです。何と言いますか？", "o": ["Ich backe gern Brot.", "Eine Brezel und einen Kaffee, bitte.", "Der Teig muss eine Stunde gehen."], "a": 1, "why": "Eine Brezel und einen Kaffee, bitte. =「ブレーツェル1つとコーヒーをください」で、注文にぴったりの文です。"},
     "outro": "次にパン屋さんへ行ったら、指さしではなく今日の単語で注文してみましょう。「Eine Scheibe … bitte!」まで言えたら完璧です！🥐"
+  },
+  "tr": {
+    "title": "Ekmek, Brezel ve dahası: Alman fırınından 10 kelime",
+    "hook": "Almanya’da yaşarken fırın kısa sürede günlük rutininizin parçası olur; o hâlde siparişinizi hazırlayalım.",
+    "intro": [
+      "Cumartesi sabahı, mahalle fırınının (Bäckerei) önünde kuyruk var. Camın arkasında adını bilmediğiniz onlarca ekmek ve çörek duruyor. Sıra size gelince sadece parmağınızla gösteriyorsunuz: “Das da, bitte!”",
+      "Bugünün on kelimesi fırından ve mutfaktan geliyor. Bunlarla sipariş verebilir, bir dilim daha isteyebilir, hatta evde kendi hamurunuzu yapmayı deneyebilirsiniz. 🥨"
+    ],
+    "words": {
+      "A1-019": {"pron": "BROT", "tip": "İngilizce bread ile aynı Germen kökünden 🍞 İkisi de br- ile başlıyor.", "bonus": "Tek bir küçük ekmek das Brötchen’dir. -chen ile biten her şey das!"},
+      "BL-11-04": {"pron": "BREY-tsıl", "tip": "Kavuşturulmuş kollara benzer; Latince bracchium (kol) kelimesinden gelebilir 🥨 Bizim simidin Alman kuzeni!", "bonus": "Tereyağlı Brezel’e Butterbrezel denir; güney fırınlarının gözdesi."},
+      "C2-1895": {"pron": "ZE-mıl", "tip": "Latince simila’dan (ince un); bizdeki „simit“ ve İngilizce semolina ile kuzen 🌾", "bonus": "weggehen wie warme Semmeln = kapış kapış satılmak, sıcak simit gibi gitmek"},
+      "B1-1100": {"pron": "ŞAY-bı", "tip": "Aslında „yuvarlak, düz bir şey“ demek 💿 Ekmek dilimi de pencere camı da Scheibe.", "bonus": "eine Scheibe Brot = bir dilim ekmek · eine Scheibe Käse = bir dilim peynir"},
+      "B1-938": {"pron": "MEL", "tip": "mahlen (öğütmek) ve İngilizce meal (oatmeal’deki) ile aynı kökten 🌾 Tahılı öğütün, Mehl elde edin.", "warn": "Sayılamaz, çoğulu yok: 500 Gramm Mehl."},
+      "B2-2445": {"pron": "TAYK", "tip": "İngilizce dough’un uzak bir kuzeni 🫓 Elinizle yoğurduğunuz şey.", "bonus": "Der Teig geht. = Hamur kabarıyor. (Kelimesi kelimesine „hamur yürüyor“ 😄)"},
+      "B2-2446": {"pron": "HEY-fı", "tip": "heben (kaldırmak) ile akraba olabilir ⬆️ Maya hamuru kaldırır.", "bonus": "Süpermarketteki küp yaş maya ein Würfel Hefe’dir."},
+      "B2-2919": {"pron": "KORN", "tip": "İngilizce corn ile aynı kökten ama „tahıl tanesi“ demek 🌰 Vollkornbrot = tam tahıllı ekmek.", "warn": "Mısır der Mais’tir; der Korn ise tahıldan yapılan bir sert içki."},
+      "B2-2790": {"pron": "RİN-dı", "tip": "İngilizce rind’in ikizi 🌳 Ağaç kabuğu da ekmek kabuğu da Rinde.", "bonus": "Ekmeğin uç kısmı der Kanten ya da das Endstück’tür; bizim „ekmeğin topuğu“."},
+      "A2-967": {"pron": "A-bınt-brot", "tip": "Abend (akşam) + Brot (ekmek) = ekmekli akşam yemeği 🌙 Menü adında yazıyor!", "bonus": "Güneyde benzer bir öğüne çoğu zaman die Brotzeit denir."}
+    },
+    "culture": [
+      "Almanya ekmek çeşitliliğiyle ünlüdür: çavdar, tam tahıl, çekirdeklerle dolu somunlar… Her fırın tezgâhı ağzına kadar doludur. Alman ekmek kültürü, ülkenin somut olmayan kültürel miras listesinde bile yer alır.",
+      "Küçük ekmeğin adı bölgeye göre değişir. Genel kelime Brötchen’dir ama Bavyera ve Avusturya’da Semmel, Berlin’de Schrippe, güneybatıda ise Weck ya da Weckle denir.",
+      "Pek çok evde akşam yemeği sade bir Abendbrot’tur: sıcak yemek yerine peynir, soğuk et ürünleri ve sebzeyle ekmek. Birçok aile sıcak yemeğini öğlen yer. 🧀"
+    ],
+    "quiz": {"q": "Fırında bir Brezel ve bir kahve istiyorsunuz. Ne dersiniz?", "o": ["Ich backe gern Brot.", "Eine Brezel und einen Kaffee, bitte.", "Der Teig muss eine Stunde gehen."], "a": 1, "why": "Eine Brezel und einen Kaffee, bitte. = Bir Brezel ve bir kahve, lütfen; mükemmel bir sipariş cümlesi."},
+    "outro": "Bir dahaki sefere fırında parmakla göstermeyi bırakın ve bugünkü kelimelerle sipariş verin. Bir de “Eine Scheibe … bitte!” eklerseniz tam yerli olursunuz! 🥐"
   }
 }

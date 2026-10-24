@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "カフェで、黄身がまんまるの目玉焼きを頼みたいです。何と言いますか？", "o": ["Ein Rührei, bitte.", "Ein Spiegelei, bitte.", "Ein Müsli, bitte."], "a": 1, "why": "das Spiegelei が目玉焼きで、Rührei はスクランブルエッグです。"},
     "outro": "明日の朝は、食卓の食べ物をひとつずつドイツ語で呼んでみましょう。Ei、Butter、Käse が言えたらもう半分成功です！🥨"
+  },
+  "tr": {
+    "title": "Guten Morgen! Kahvaltı sofrası için 10 Almanca kelime",
+    "hook": "Alman kahvaltısı ekmekten çok daha fazlasıdır; kelimeleri bilince tadı daha da güzelleşir.",
+    "intro": [
+      "Pazar sabahı, Alman bir arkadaşınızın evine davetlisiniz. Sofra dolu: taze küçük ekmekler, minik kaplarda haşlanmış yumurtalar, reçel ve peynir. Tereyağını uzatmasını istemek istiyorsunuz ama kelimeler bir türlü gelmiyor.",
+      "Bugünün on kelimesi neredeyse her Alman kahvaltı sofrasında bulacağınız şeyler. Bunlarla bir kafede kahvaltı sipariş edebilir, bir arkadaşınızın sofrasında rahatça sohbet edebilirsiniz. 🍳"
+    ],
+    "words": {
+      "A1-129": {"pron": "FRÜ-ştük", "tip": "früh (erken) + Stück (parça) = erkenden yenen bir parça ekmek 🥐 Bizim „kahvaltı“ da „kahve altı“ndan gelir!", "bonus": "Fiili frühstücken = kahvaltı yapmak: Wir frühstücken um acht."},
+      "A1-681": {"pron": "o-RAN-jın-zaft", "tip": "Orange (portakal) + Saft (meyve suyu); sürpriz yok 🍊", "bonus": "Çoğu kişi kısaca O-Saft der · elma suyu = Apfelsaft"},
+      "A1-023": {"pron": "AY", "tip": "Tabaktan size bakan tek bir yumurta, tek bir „ay“ gibi parlıyor 🥚", "bonus": "çırpılmış yumurta = das Rührei", "warn": "Çoğulu die Eier’dir."},
+      "A1-120": {"pron": "BU-tır", "tip": "İngilizce butter gibi yazılır ama „u“ ile okunur 🧈", "warn": "Cinsiyetine dikkat: der değil, die Butter."},
+      "A1-241": {"pron": "mar-me-LA-dı", "tip": "Adını Portekiz’in ayva reçelinden alır ama Almancada her reçel Marmelade’dir 🍓 Bizdeki „marmelat“ gibi!", "warn": "Sadece portakal marmelatı değil; çilek reçeli Erdbeermarmelade’dir."},
+      "A1-242": {"pron": "HO-nih", "tip": "İngilizce honey ile neredeyse aynı 🍯", "bonus": "arı = die Biene"},
+      "A1-119": {"pron": "KE-zı", "tip": "Bir dahaki fotoğrafta „peynir“ yerine „KE-zı“ deyin 🧀", "bonus": "Konuşma dilinde: Das ist Käse! = Saçmalık bu!"},
+      "A1-021": {"pron": "MİLH", "tip": "İngilizce milk, k harfi yumuşayıp ch olmuş 🥛", "bonus": "sütlü kahve = der Milchkaffee"},
+      "A2-909": {"pron": "MÜS-li", "tip": "Mus (püre) + İsviçre’nin -li küçültme eki = küçük bir kâse lapa 🥣", "bonus": "yulaf ezmesi = die Haferflocken"},
+      "A2-837": {"pron": "ŞPİ-gıl-ay", "tip": "Spiegel (ayna) + Ei = sarısı ayna gibi parlayan yumurta 🍳", "bonus": "rafadan yumurta = ein weich gekochtes Ei"}
+    },
+    "culture": [
+      "Klasik Alman kahvaltısı fırından alınan taze küçük ekmeklerdir (Brötchen). Hafta sonu sabahları çoğu zaman kuyruk olur ve pek çok fırın pazar sabahı da birkaç saatliğine açıktır.",
+      "Hafta sonu kahvaltısında haşlanmış yumurtalar çoğu zaman küçük bir yumurtalığın (Eierbecher) içinde dik durarak gelir. Kaşığınızla tepesine vurur, doğrudan kabuğundan yersiniz.",
+      "Pek çok kafe öğleden sonraya kadar kahvaltı servis eder; bu yüzden arkadaşlarla uzun, ağır ağır bir hafta sonu brunch’ı sevilen bir alışkanlıktır. ☕"
+    ],
+    "quiz": {"q": "Bir kafede sarısı yuvarlak, güzel bir sahanda yumurta istiyorsunuz. Ne sipariş edersiniz?", "o": ["Ein Rührei, bitte.", "Ein Spiegelei, bitte.", "Ein Müsli, bitte."], "a": 1, "why": "das Spiegelei sahanda yumurtadır; Rührei ise çırpılmış yumurta."},
+    "outro": "Yarın sabah kahvaltı sofranızdaki her şeyin Almancasını söyleyin. Ei, Butter ve Käse ile yolun yarısı zaten tamam! 🥨"
   }
 }

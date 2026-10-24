@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "映画館で、隣の席が空いているか聞きたいです。何と言いますか？", "o": ["Ist der Platz noch frei?", "Der Film war super.", "Ich bin an der Reihe."], "a": 0, "why": "Ist der Platz noch frei? =「この席は空いていますか？」映画館でも電車でもカフェでも使えます。"},
     "outro": "最近観た映画を一文で言ってみましょう。Der Film war sehr spannend! のように。🎬"
+  },
+  "tr": {
+    "title": "Patlamış mısır hazır mı? Sinema için 10 Almanca kelime",
+    "hook": "Bilet aldığınızı ve bütün filmin Almancaya dublajlı olduğunu fark ettiğinizi düşünün. Bugünün kelimeleri bunu önlemenize yardım eder.",
+    "intro": [
+      "Cuma akşamı bir arkadaşım mesaj atıyor: “Gehen wir ins Kino?” Bilet sitesini açıyorum, her yer Vorstellung, Reihe, OmU… Aceleyle bir koltuk seçiyorum ve kendimi en ön sırada, iki saat boyunca boynumu uzatırken buluyorum.",
+      "İşte sinemaya gitmek için on kelime. Bunlarla seans saatlerine bakabilir, iyi bir koltuk seçebilir, hatta sonrasında arkadaşlarınıza filmi nasıl bulduğunuzu anlatabilirsiniz. 🎬"
+    ],
+    "words": {
+      "A1-149": {"pron": "Kİ-no", "tip": "İlk projektörlerden Kinematograph’ın kısaltması; bizdeki „sinema“ da aynı kökten 🎞️ sinemaya gitmek = ins Kino gehen", "warn": "Kino mekânın kendisidir. Filmin kendisi der Film’dir."},
+      "A1-286": {"pron": "FİLM", "tip": "Türkçedeki gibi; bedavaya gelen bir kelime 🎥", "bonus": "Film nasıldı? = Wie war der Film?"},
+      "A2-773": {"pron": "Kİ-no-kar-tı", "tip": "Kino + Karte (bilet) = sinema bileti 🎟️ Almanca kelimeleri Lego gibi birbirine takar.", "bonus": "Aynı kalıp: konser bileti die Konzertkarte’dir."},
+      "B1-269": {"pron": "FOR-şte-lunk", "tip": "vor (önüne) + stellen (koymak) = bir şeyi insanların önüne koymak 🎭 Gösteri, tanıştırma ya da bir fikir.", "bonus": "iş görüşmesi = das Vorstellungsgespräch"},
+      "A2-551": {"pron": "RAY-ı", "tip": "Yan yana dizilmiş koltuklar 💺 Belki İngilizce row ile kuzen.", "bonus": "Sıra bende = Ich bin an der Reihe."},
+      "BL-14-05": {"pron": "ZİTS-plats", "tip": "sitzen (oturmak) + Platz (yer) = oturacak yer 🪑", "bonus": "Bu koltuk boş mu? = Ist der Platz noch frei?"},
+      "B2-1345": {"pron": "LAYN-vant", "tip": "Leinen (keten) + kumaş anlamına gelen eski bir kelime 🖼️ Ressamın tuvali de sinema perdesi de.", "bonus": "auf der großen Leinwand = beyaz perdede"},
+      "A2-960": {"pron": "POP-korn", "tip": "Doğrudan İngilizceden, sadece Almanca okunuyor 🍿", "bonus": "Sık sık size sorulur: süß (tatlı) oder salzig (tuzlu)?"},
+      "B2-3910": {"pron": "FOR-fü-runk", "tip": "vor (öne) + führen (götürmek) = göstermek için bir şeyi öne çıkarmak 📽️ -ung, yani die.", "bonus": "Fiili vorführen = göstermek, sergilemek"},
+      "A2-186": {"pron": "ŞPA-nınt", "tip": "spannen (germek) fiilinden: sizi gergin tutan bir film 😱 Bizdeki „gerilim filmi“ gibi.", "bonus": "Tersi: langweilig (sıkıcı)"}
+    },
+    "culture": [
+      "Alman sinemalarındaki yabancı filmlerin çoğu Almancaya dublajlıdır. Orijinalini izlemek için OV (orijinal versiyon) ya da OmU (Almanca altyazılı orijinal) işaretli seanslara bakın. Büyük şehirlerde genellikle bunları gösteren birkaç sinema bulunur.",
+      "Film nadiren yazılan saatte başlar: önce çoğu zaman uzun bir reklam ve fragman bloğu olur, bu yüzden birkaç dakika geç gelmek yaygındır. Koltuklar genelde numaralıdır; Reihe ve Platz’ınızı bilet alırken seçersiniz.",
+      "Pek çok sinemanın bir de Kinotag’ı vardır: haftada bir gün biletler daha ucuzdur. Mahallenizdeki sinemanın sitesine bakın. 🍿"
+    ],
+    "quiz": {"q": "Sinemada birinin yanındaki koltuğun boş olup olmadığını sormak istiyorsunuz. Ne dersiniz?", "o": ["Ist der Platz noch frei?", "Der Film war super.", "Ich bin an der Reihe."], "a": 0, "why": "Ist der Platz noch frei? = Bu koltuk boş mu? Sinemada, trende ve kafede işe yarar."},
+    "outro": "İzlediğiniz son filmi tek cümleyle özetleyin; örneğin Der Film war sehr spannend! 🎬"
   }
 }

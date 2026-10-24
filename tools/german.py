@@ -464,7 +464,7 @@ def post_body(g, key, P, d=None, tomorrow=None, posts=None):
         pic = pic_svg(w['id'])
         tip = x.get('tip') or w.get('tip') or ''
         extra = ''
-        if x.get('bonus'): extra += f'<p class="pbonus"><b>{E(ps["bonus"])}</b> {E(x["bonus"])}</p>'
+        if x.get('bonus'): extra += f'<p class="pbonus"><b class="nosay">{E(ps["bonus"])}</b> {E(x["bonus"])}</p>'
         if x.get('warn'): extra += f'<p class="pwarn">⚠ {E(x["warn"])}</p>'
         pron = f'<span class="ppr">[{E(x["pron"])}]</span>' if x.get('pron') else ''
         forms = f'<p class="pforms" lang="de">({E(w["forms"])})</p>' if w.get('forms') else ''

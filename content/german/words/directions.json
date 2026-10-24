@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "旧市街で道に迷いました。通りかかった人に話しかけるのにいちばん合う言葉は？", "o": ["Ich kenne den Stadtplan.", "Die Bank ist rechts.", "Entschuldigung, ich habe mich verlaufen."], "a": 2, "why": "sich verlaufen = （歩いていて）道に迷う。「すみません、道に迷いました」という意味です。"},
     "outro": "今日は、家からいちばん近いお店までの道をドイツ語で説明してみましょう。geradeaus、links、rechts だけでもけっこう言えますよ！🧭"
+  },
+  "tr": {
+    "title": "Bir Alman kasabasında kayboldunuz mu? Yolunuzu bulmak için 10 kelime",
+    "hook": "Telefonunuzun şarjı %0’a indiği anda asıl ihtiyacınız olacak kelimeler bunlar.",
+    "intro": [
+      "Eski şehrin dar sokaklarında dolaşıyorsunuz ve harita uygulamanız kapanıyor. Nazik, yaşlı bir hanım size yol tarif etmeye başlıyor (links, rechts, Ampel…) ama kelimeler çok hızlı uçup gidiyor.",
+      "Bugünün on kelimesi yol sormanıza ve cevabı anlamanıza yardım eder: sol, sağ, trafik ışıkları, köşeler ve kaybolduğunuzu nasıl söyleyeceğiniz. 🧭"
+    ],
+    "words": {
+      "A1-388": {"pron": "LİNKS", "tip": "Sol elinizin başparmağı ve işaret parmağıyla bir L yapın; links için L 👈", "bonus": "sola dönmek = links abbiegen"},
+      "A1-389": {"pron": "REHTS", "tip": "İngilizce right ile aynı kökten 👉", "warn": "rechts (sağ taraf) ile recht’i (haklı, doğru) karıştırmayın: Du hast recht. = Haklısın."},
+      "A1-390": {"pron": "ge-RA-dı-AUS", "tip": "gerade (düz) + aus (dışarı) = dümdüz ileri ⬆️", "bonus": "immer geradeaus = hep dümdüz devam"},
+      "A1-213": {"pron": "E-kı", "tip": "„Ek!“: köşeye çarpınca çıkan ses 📐", "bonus": "gleich um die Ecke = hemen köşede, çok yakın"},
+      "A2-244": {"pron": "KROY-tsunk", "tip": "Kreuz (haç, çarpı) + -ung = yolların çaprazlandığı yer ✝️ -ung, yani die."},
+      "A2-203": {"pron": "AM-pıl", "tip": "Aslında küçük bir lamba demek; bizdeki „ampul“ ile aynı kökten 🚦 Üç lamba: kırmızı, sarı, yeşil.", "bonus": "Bei Rot stehen, bei Grün gehen! = Kırmızıda dur, yeşilde geç!"},
+      "A2-298": {"pron": "AP-bi-gın", "tip": "ab (-den ayrılarak) + biegen (bükmek) = yoldan sapmak ↪️", "warn": "Ayrılabilen fiil, geçmiş zamanı sein ile: Ich bin links abgebogen."},
+      "A2-268": {"pron": "ŞTAT-plan", "tip": "Stadt (şehir) + Plan (harita) = şehir haritası, bizdeki „şehir planı“ 🗺️ Turizm bürolarında çoğu zaman bulunur.", "warn": "Çoğulu umlaut alır: die Stadtpläne."},
+      "A1-212": {"pron": "VEYK", "tip": "İngilizce way ile aynı kökten 🛤️ Wie ist der Weg zum Bahnhof?", "warn": "der Weg (yol, uzun e) ile weg (uzağa, kısa e) farklı kelimelerdir."},
+      "B1-1334": {"pron": "zih fer-LAU-fın", "tip": "ver- (yanlış) + laufen (yürümek) = yanlış yöne yürüyüp kaybolmak 🌀", "bonus": "Araba kullanırken mi kayboldunuz? O zaman sich verfahren."}
+    },
+    "culture": [
+      "Pek çok Alman, ortada hiç araba yokken bile kırmızı ışıkta bekler; özellikle çocukların önünde. Kırmızıda karşıya geçerseniz birkaç ayıplayan bakışla karşılaşabilirsiniz.",
+      "Berlin’de ve eski Doğu’daki diğer şehirlerde yaya ışıklarındaki şapkalı küçük adama, Ampelmännchen’e dikkat edin. Popüler bir hediyelik eşyadır da.",
+      "Kaldırımın yanında kırmızıya ya da başka bir renge boyanmış şerit çoğu zaman bisiklet yoludur (Radweg). Üzerinde yürürseniz kısa sürede bir zil sesi duyarsınız; dikkat edin! 🚲"
+    ],
+    "quiz": {"q": "Eski şehirde kayboldunuz. Yoldan geçen birine söylenecek en iyi şey hangisi?", "o": ["Ich kenne den Stadtplan.", "Die Bank ist rechts.", "Entschuldigung, ich habe mich verlaufen."], "a": 2, "why": "sich verlaufen = yürürken kaybolmak; yani „Affedersiniz, kayboldum“ demek."},
+    "outro": "Bugün evinizden en yakın dükkâna giden yolu Almanca anlatın. geradeaus, links ve rechts ile şaşırtıcı derecede uzağa gidebilirsiniz! 🧭"
   }
 }

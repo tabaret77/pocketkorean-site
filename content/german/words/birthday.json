@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちに誕生日のメッセージを送ります。空欄に入るのは？「Ich gratuliere ___ zum Geburtstag!」", "o": ["dich", "dir", "du"], "a": 1, "why": "gratulieren は人を3格で取るので dir が正解です。"},
     "outro": "次にドイツ人の友だちの誕生日が来たら、当日に「Alles Gute zum Geburtstag!」と声に出して言ってあげてください。今日は鏡の前で練習してみましょう！🎉"
+  },
+  "tr": {
+    "title": "Alles Gute! Doğum günü partileri için 10 Almanca kelime",
+    "hook": "Almanya’da birinin doğum gününü erken kutlamak uğursuzluk getirebilir; yani zamanlama önemli.",
+    "intro": [
+      "Alman bir arkadaşınız mesaj atıyor: ‘Ich lade dich zu meiner Geburtstagsparty ein!’ Çok sevindiniz ama nasıl cevap vereceksiniz? Hediyeyi verirken ne denir? Ve o gün ne diye şarkı söylenir?",
+      "Bugünün on kelimesi bir doğum günü partisinde ihtiyacınız olacak kelimeler. Bunlarla davete cevap verebilir, hediyenizi verebilir ve pastanın önünde birinin doğum gününü gönülden kutlayabilirsiniz. 🎂"
+    ],
+    "words": {
+      "A1-160": {"pron": "ge-BURTS-tak", "tip": "Geburt (doğum) + Tag (gün) = doğum günü 🎂 Sonu der Tag olduğu için der.", "bonus": "Klasik dilek: Alles Gute zum Geburtstag!"},
+      "A1-716": {"pron": "ge-BURTS-taks-par-ti", "tip": "Ortadaki -s- sadece yapıştırıcı 🎈 Sonu die Party olduğu için die.", "warn": "Çoğulu die Geburtstagspartys’tir; İngilizcedeki gibi -ies olmaz."},
+      "A2-158": {"pron": "FAY-ırn", "tip": "Latince feriae’den (tatil günleri) 🥳 İş çıkışı vaktiniz Feierabend de aynı aileden.", "bonus": "İsmi: die Feier = parti, kutlama"},
+      "A2-072": {"pron": "AYN-la-dın", "tip": "ein (içeri) + laden (çağırmak) = birini içeri çağırmak 💌", "bonus": "Restoranda: Ich lade dich ein! = Benden!", "warn": "Ayrılabilen fiil ve du/er ile ünlü değişir: Er lädt mich ein."},
+      "A1-159": {"pron": "ge-ŞENK", "tip": "schenken (hediye etmek) fiilinden gelen isim 🎁 Ge- ile başlayan pek çok isim das’dır.", "warn": "Almancada das Gift zehir demektir! Hediyeye asla Gift demeyin."},
+      "A2-335": {"pron": "ŞEN-kın", "tip": "Aslında „birine içki doldurmak“ demekmiş 🍷 Hediye, dökülüp saçılan bir incelik.", "bonus": "Kime (-e hâli, Dativ) + neyi (-i hâli, Akkusativ): Ich schenke dir ein Buch."},
+      "A2-159": {"pron": "gra-tu-Lİ-rın", "tip": "İngilizce congratulate ile aynı kökten 🎉 -ieren fiili, yani geçmiş zamanı ge- almadan: hat gratuliert.", "warn": "Kişi Dativ’de olur: Ich gratuliere dir, dich değil! Türkçedeki „sana“ gibi düşünün."},
+      "A1-486": {"pron": "GLÜK-vunş", "tip": "Glück (şans, mutluluk) + Wunsch (dilek) = mutluluk dileği 🍀", "bonus": "Herzlichen Glückwunsch! sınavlar, düğünler ve yeni doğan bebekler için de kullanılır."},
+      "A2-601": {"pron": "TOR-tı", "tip": "İtalyanca torta ve bizdeki turta ile kuzen 🎂 Kat kat krema ve meyve!", "warn": "Sade bir kek ya da pandispanya der Kuchen’dir, Torte değil."},
+      "B1-844": {"pron": "KER-tsı", "tip": "-e ile bitiyor, yani die 🕯️ Dileğinizi tutun ve üfleyin!", "bonus": "mumları üflemek = die Kerzen auspusten"}
+    },
+    "culture": [
+      "Pek çok Alman, birinin doğum gününü gününden önce kutlamanın uğursuzluk getirdiğine inanır; bu yüzden ya o günü ya da sonrasını bekleyin. Geç kaldıysanız ‘Alles Gute nachträglich!’ (geçmiş doğum günün kutlu olsun) demeniz yeterli.",
+      "Bir sürpriz daha: Almanya’da doğum günü olan kişi çoğu zaman partiyi kendisi verir ve arkadaşlarını davet eder. İş yerinde de doğum günü olan kişinin iş arkadaşlarına pasta ya da atıştırmalık getirmesi yaygındır; tabii bu ekibe göre değişir.",
+      "Çocuk partilerinde Topfschlagen gibi geleneksel oyunlar görebilirsiniz: gözleriniz bağlıyken tahta bir kaşıkla yere vurarak bir tencere ararsınız. 🥄"
+    ],
+    "quiz": {"q": "Doğum günü olan bir arkadaşınıza mesaj yazıyorsunuz. Boşluğu doldurun: ‘Ich gratuliere ___ zum Geburtstag!’", "o": ["dich", "dir", "du"], "a": 1, "why": "gratulieren kişiyi Dativ’de ister, bu yüzden doğrusu dir."},
+    "outro": "Alman bir arkadaşınızın bir dahaki doğum gününde, tam o gün ‘Alles Gute zum Geburtstag!’ deyin. Neden bugün aynanın karşısında prova etmeyesiniz? 🎉"
   }
 }

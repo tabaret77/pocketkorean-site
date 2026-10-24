@@ -80,7 +80,7 @@ def mark(html_, g):
         if not isinstance(node, NavigableString) or not node.strip(): continue
         par = node.parent; bad = False
         while par is not None and par.name != '[document]':
-            if par.name in SKIP or 'src' in (par.get('class') or []) or 'say' in (par.get('class') or []) or par.get('lang') == 'de':
+            if par.name in SKIP or 'src' in (par.get('class') or []) or 'nosay' in (par.get('class') or []) or 'say' in (par.get('class') or []) or par.get('lang') == 'de':
                 bad = True; break
             par = par.parent
         if bad: continue

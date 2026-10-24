@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "同僚が明日から別の会社で働きます。転職を何と表現しますか？", "o": ["Er ist arbeitslos.", "Er hat ihn rausgeworfen.", "Er wechselt die Stelle."], "a": 2, "why": "die Stelle wechseln =「職場を替える」、つまり転職です。"},
     "outro": "今日は「Ich wechsle die Stelle.」と「Ich habe gekündigt.」を声に出して言ってみましょう。いつか来るみなさんの Neuanfang を応援しています！🚀"
+  },
+  "tr": {
+    "title": "İstifa mektubu elinizde: Yeni bir başlangıç için 10 Almanca kelime",
+    "hook": "Almanca „istifa ediyorum“ deme gününüz sandığınızdan erken gelebilir.",
+    "intro": [
+      "Öğle yemeğinde bir iş arkadaşınız alçak sesle „Ich habe gekündigt.“ diyor. Tebrik mi etmelisiniz, teselli mi? Meğer daha iyi bir işe geçiyormuş.",
+      "Bugünün on kelimesi istifa etmek, işten çıkarılmak ve iş değiştirmekle ilgili. Bunlarla sözleşmenizdeki fesih maddesini okuyabilir, iş yerindeki haberleri takip edebilir ve kendi yeni başlangıcınızı Almanca anlatabilirsiniz. 🚪"
+    ],
+    "words": {
+      "A2-068": {"pron": "KÜN-di-gın", "tip": "İstifa etmek de kovulmak da kündigen 📮 Telefon sözleşmesini iptal etmek de!", "warn": "İşten çıkarılan sizseniz: Mir wurde gekündigt. (edilgen)"},
+      "B1-035": {"pron": "KÜN-di-gunk", "tip": "kündigen + -ung = istifa ya da işten çıkarma mektubu ✉️ -ung, die demek.", "bonus": "die Kündigung einreichen = istifa dilekçesi vermek"},
+      "B2-038": {"pron": "KÜN-di-gunks-frist", "tip": "Kündigung + s + Frist (süre) = ayrılmadan önce beklediğiniz süre, yani ihbar süresi ⏳", "bonus": "Frist her yerde karşınıza çıkar: die Frist verpassen = süreyi kaçırmak"},
+      "A2-348": {"pron": "VEK-sıln", "tip": "Her işe yarayan „değiştirmek“ fiili 🔄 Para, iş, bebek bezi!", "bonus": "iş değiştirmek = die Stelle wechseln / den Job wechseln"},
+      "B1-305": {"pron": "ent-LA-sın", "tip": "ent- (uzağa) + lassen (bırakmak) = birini salıvermek 👋 Hastaneden taburcu olmak için de kullanılır.", "warn": "Düzensiz: entlässt – hat entlassen (ortaçta ge- yok)"},
+      "B1-2364": {"pron": "RAUS-ver-fın", "tip": "raus (dışarı) + werfen (atmak) = kapı dışarı edilmek 🫠 „Kovmak“ın çok gündelik hâli.", "warn": "Ayrılabilen ve düzensiz: Er wirft ihn raus. · hat rausgeworfen"},
+      "B2-410": {"pron": "AR-bayts-tsoyk-nis", "tip": "Arbeit (iş) + Zeugnis (karne) = iş karneniz 📄", "bonus": "En yüksek not ifadesi: stets zu unserer vollsten Zufriedenheit"},
+      "B2-434": {"pron": "AP-fin-dunk", "tip": "abfinden = birinin hakkını ödeyip hesabı kapatmak 💰 -ung, yani die.", "bonus": "eine Abfindung bekommen = tazminat almak"},
+      "B1-358": {"pron": "AR-bayts-los", "tip": "Arbeit + -los = işsiz 😶 Almanca -los, Türkçedeki -sız/-siz eki gibi!", "bonus": "İsmi: die Arbeitslosigkeit = işsizlik"},
+      "B2-2196": {"pron": "NOY-an-fang", "tip": "neu (yeni) + Anfang (başlangıç) = yeni başlangıç 🌱 Ayrılmak son değil, bir Neuanfang!", "warn": "Çoğulu umlautlu: die Neuanfänge"}
+    },
+    "culture": [
+      "Almanya’da istifa genellikle imzalı olarak kâğıt üzerinde verilir. E-posta ya da kısa mesaj çoğu zaman hukuken geçerli değildir, dikkatli olun. Kündigungsfrist sözleşmenize ve orada ne kadar süredir çalıştığınıza bağlıdır.",
+      "Ayrılırken bir Arbeitszeugnis isteyebilirsiniz. Bu referans belgelerinin kendine özgü bir „şifresi“ vardır: her şey olumlu görünür ama ifadelerdeki küçük farklar çok farklı notlara işaret eder.",
+      "Ayrılacağınızı ya da çıkarılacağınızı öğrendiğiniz anda mümkün olduğunca erken Agentur für Arbeit’e (iş ajansı) başvurmanız en iyisidir. Yeni başlangıcınıza giden ilk adım budur. 🌱"
+    ],
+    "quiz": {"q": "İş arkadaşınız yarın başka bir şirkette başlıyor. Bunu nasıl anlatırsınız?", "o": ["Er ist arbeitslos.", "Er hat ihn rausgeworfen.", "Er wechselt die Stelle."], "a": 2, "why": "die Stelle wechseln iş değiştirmek demektir."},
+    "outro": "Bugün yüksek sesle \"Ich wechsle die Stelle.\" ve \"Ich habe gekündigt.\" deyin. Ne zaman gelirse gelsin, Neuanfang’ınız şimdiden hayırlı olsun! 🚀"
   }
 }

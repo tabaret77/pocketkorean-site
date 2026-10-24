@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "正しい文はどれでしょう？", "o": ["München ist die Landeshauptstadt von Bayern.", "München ist die Hauptstadt von Deutschland.", "Bayern ist eine Großstadt."], "a": 0, "why": "ミュンヘンはバイエルン州の州都（Landeshauptstadt）で、ドイツの首都はベルリンです。"},
     "outro": "今日は „Ich wohne in …, das liegt in …“ で、自分の住む場所（または行ってみたい場所）を声に出して紹介してみましょう。🗺️"
+  },
+  "tr": {
+    "title": "10 kelimede Almanya haritası",
+    "hook": "Biri „Wo wohnst du?“ diye sorduğunda, sadece şehir adı hikâyenin yarısıdır.",
+    "intro": [
+      "Alman bir arkadaşıma „Ich wohne in Berlin.“ dedim, yüzü aydınlandı: „Und woher kommst du ursprünglich? Ich bin aus Bayern!“ Sonra memleketini anlata anlata bitiremedi; bense Bayern’in şehir mi bölge mi olduğundan bile emin değildim.",
+      "Bugünün on kelimesi Alman şehirleri ve bölgeleri hakkında konuşmanıza yardım eder. Bunlarla nerede yaşadığınızı anlatabilir, arkadaşlarınız memleketlerinden bahsederken konuşmayı takip edebilirsiniz. 🗺️"
+    ],
+    "words": {
+      "B1-1949": {"pron": "BUN-dıs-lant", "tip": "Bund (federasyon) + Land (ülke, toprak) = federasyonun bir parçası 🧩 Almanya 16 parçalık bir yapboz.", "warn": "Çoğulu umlautlu: die Bundesländer"},
+      "A2-480": {"pron": "HAUPT-ştat", "tip": "Haupt (baş) + Stadt (şehir) = baş şehir, tıpkı Türkçedeki başkent gibi 👑", "warn": "Çoğulu umlautlu: die Hauptstädte"},
+      "B2-3413": {"pron": "LAN-dıs-haupt-ştat", "tip": "Land + Hauptstadt = eyaletin başkenti 🏛️ Uzun kelimeler sadece Lego parçaları.", "bonus": "München ist die Landeshauptstadt von Bayern."},
+      "B1-1064": {"pron": "re-GYON", "tip": "İngilizce region gibi 🌄 Ama g, „gol“deki gibi sert okunur.", "bonus": "Sıfatı regional · yöresel ürünler = regionale Produkte"},
+      "A2-772": {"pron": "GROS-ştat", "tip": "groß (büyük) + Stadt (şehir) = büyük şehir 🏙️ Küçük kasaba die Kleinstadt’tır.", "bonus": "taşrada, köyde yaşamak = auf dem Land wohnen"},
+      "B1-615": {"pron": "AYN-vo-nır", "tip": "ein (içinde) + wohnen (oturmak) + -er (kişi) = bir yerde oturan kişi 🏘️", "bonus": "Kadın hâli: die Einwohnerin · Wie viele Einwohner hat die Stadt?"},
+      "B1-218": {"pron": "di-a-LEKT", "tip": "Türkçedeki diyalekt ile aynı 🗣️ Bazı Alman lehçeleri bambaşka bir dil gibi duyulur.", "bonus": "Dialekt sprechen = şive ile konuşmak"},
+      "B1-2142": {"pron": "NORT-doyç", "tip": "Nord (kuzey) + deutsch = Kuzey Alman 🌊 Deniz, rüzgâr ve Moin!", "bonus": "İsmi: Norddeutschland"},
+      "B2-3519": {"pron": "ZÜT-doyç", "tip": "Süd (güney) + deutsch = Güney Alman ⛰️ Alpler, bira ve Grüß Gott!", "bonus": "İsmi: Süddeutschland"},
+      "A2-1136": {"pron": "BAY-ırn", "tip": "Adını eski bir kabile olan Bavarii’den alır 🥨 Türkçede: Bavyera.", "warn": "Artikelsiz: in Bayern, aus Bayern"}
+    },
+    "culture": [
+      "Almanya 16 Bundesland’dan oluşur. Bunlardan üçü, Berlin, Hamburg ve Bremen, şehir devletidir. Okul tatilleri her eyalet tarafından belirlenir; bu yüzden yaz tatilleri her yerde aynı anda başlamaz.",
+      "Eğlenceli bir bilgi: bir eyaletin en büyük şehri her zaman başkenti değildir. Kuzey Ren-Vestfalya’nın başkenti Köln değil Düsseldorf, Hessen’in başkenti de Frankfurt değil Wiesbaden’dir.",
+      "Almanlar çoğu zaman memleketlerine çok bağlıdır. Birine „Woher kommst du?“ diye sorduğunuzda şehirden önce bölgeyi duyabilirsiniz. 😊"
+    ],
+    "quiz": {"q": "Hangi cümle doğru?", "o": ["München ist die Landeshauptstadt von Bayern.", "München ist die Hauptstadt von Deutschland.", "Bayern ist eine Großstadt."], "a": 0, "why": "Münih, Bavyera eyaletinin başkentidir; Almanya’nın başkenti ise Berlin."},
+    "outro": "Nerede yaşadığınızı (ya da yaşamayı hayal ettiğiniz yeri) yüksek sesle söyleyin: „Ich wohne in …, das liegt in …“ 🗺️"
   }
 }

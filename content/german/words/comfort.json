@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちが失恋して泣いています。いちばんふさわしい言葉は？", "o": ["Ich habe den Bus vermisst.", "Geteiltes Leid ist halbes Leid – erzähl mal.", "Mach doch Schluss mit der Arbeit!"], "a": 1, "why": "悲しみは分ければ半分になるから話してみて、とやさしく促す言葉です。"},
     "outro": "今日は会いたい人を思い浮かべて、Ich vermisse dich. と声に出してみましょう。本人に送れたらもっといいですね！💌"
+  },
+  "tr": {
+    "title": "Kırık kalpler ve sarılmalar: Zor günler için 10 Almanca kelime",
+    "hook": "Ayrılık her dilde acıtır; ama teselli edecek kelimeleri bilmek, yalnızlığı biraz hafifletir.",
+    "intro": [
+      "Alman bir arkadaşınız gece geç saatte mesaj atıyor: “Er hat Schluss gemacht.” Hemen anlar mıydınız? Peki Almanca güzel bir şeyle cevap verebilir miydiniz?",
+      "Bugünün on kelimesi ayrılık ve teselli üzerine. Hem nasıl hissettiğinizi anlatmak hem de bir arkadaşınızın yanında olmak için bunlara ihtiyacınız olacak. Bugün Almancanın daha yumuşak bir yüzü var. 💔"
+    ],
+    "words": {
+      "B2-1625": {"pron": "ŞLUS MA-hın", "tip": "Schluss (son) + machen (yapmak) = son vermek 🔚 Sevgiliye söylenirse bu bir ayrılıktır!", "bonus": "biriyle ayrılmak = mit jemandem Schluss machen"},
+      "B1-1267": {"pron": "TRE-nunk", "tip": "trennen (ayırmak) + -ung 💔 -ung, die demek.", "bonus": "Aynı kökten: die Mülltrennung = geri dönüşüm için çöp ayrıştırma"},
+      "B2-2847": {"pron": "Lİ-bıs-ku-mır", "tip": "Liebe (aşk) + Kummer (keder) = aşk kederi 🥀 Son kısım onu der yapar.", "warn": "Çoğulu yok: Sie hat Liebeskummer."},
+      "A1-334": {"pron": "VAY-nın", "tip": "„Bay bay“ demek insanı weinen yaptırabilir 😢", "bonus": "sevinçten ağlamak = vor Freude weinen"},
+      "A2-345": {"pron": "fer-Mİ-sın", "tip": "İngilizce miss ile aynı kökten 🫶 Ich vermisse dich. = Seni özlüyorum.", "warn": "Otobüsü kaçırmak vermissen değil, verpassen’dir!"},
+      "B1-372": {"pron": "AYN-zam", "tip": "ein (bir) + -sam, İngilizce lonesome gibi 🌧️", "warn": "allein = tek başına, einsam = yalnız hisseden. Yalnız hissetmeden de tek başına olabilirsiniz!"},
+      "B1-1817": {"pron": "TRÖS-tın", "tip": "der Trost’un fiili 🤲 İngilizce trust ile kuzen; teselli size yaslanacak bir şey verir.", "bonus": "Akkusativ alır: Ich tröste dich."},
+      "B1-1819": {"pron": "TROST", "tip": "İngilizce trust ile aynı kökten 🫂 Trost, yaslanabileceğiniz sağlam zemindir.", "bonus": "Yarı şaka: Bist du noch bei Trost? = Aklını mı kaçırdın?"},
+      "B1-1291": {"pron": "um-AR-mın", "tip": "um (etrafına) + Arm (kol) = kollarınızı dolamak 🤗 Kelimenin içinde kolu görebilirsiniz!", "warn": "Ayrılmaz: Ich umarme dich."},
+      "C2-655": {"pron": "ge-TAYL-tıs LAYT ist HAL-bıs LAYT", "tip": "Paylaşılan (geteilt) dert (Leid) yarıya (halb) iner 💞 Kalbin matematiği! Bizdeki „derdini söylemeyen derman bulamaz“ gibi.", "bonus": "Eşi: Geteilte Freude ist doppelte Freude. = Paylaşılan sevinç iki katına çıkar."}
+    },
+    "culture": [
+      "Almanlar arkadaşlar arasında selamlaşırken sık sık sarılır. Biri üzgün olduğunda sessiz bir sarılma (umarmen) kelimelerden çok şey anlatabilir.",
+      "Birini neşelendirmek için Kopf hoch! (Başını dik tut!) denir. Eski bir pop şarkısının adı olan “Liebeskummer lohnt sich nicht” (aşk acısına değmez) hâlâ yarı şaka alıntılanır.",
+      "Her şey tek başına taşınamayacak kadar ağır geliyorsa TelefonSeelsorge adında bir telefon yardım hattı vardır. Ücretsiz ve anonimdir; gece gündüz sizi dinleyecek biri bulunur. 🕯️"
+    ],
+    "quiz": {"q": "Arkadaşınız az önce ayrıldı ve ağlıyor. Söylenebilecek en iyi şey hangisi?", "o": ["Ich habe den Bus vermisst.", "Geteiltes Leid ist halbes Leid – erzähl mal.", "Mach doch Schluss mit der Arbeit!"], "a": 1, "why": "Arkadaşınızı nazikçe konuşmaya davet eder; çünkü paylaşılan dert yarıya iner."},
+    "outro": "Bugün özlediğiniz biri için yüksek sesle Ich vermisse dich. deyin. Ona gönderirseniz daha da güzel! 💌"
   }
 }

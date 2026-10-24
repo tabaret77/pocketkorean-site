@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちが明日、運転免許の試験を受けます。応援の言葉としてふさわしいのは？", "o": ["Ich habe die Nase voll!", "Ich drücke dir die Daumen!", "Du willst mich auf den Arm nehmen."], "a": 1, "why": "Ich drücke dir die Daumen! =「うまくいくよう祈ってるね！」試験前にぴったりの応援です。"},
     "outro": "今日どこかで一度、親指をぎゅっと握って Ich drücke dir die Daumen! と声に出してみましょう。本当に誰かに言ってあげられたらもっといいですね！👍"
+  },
+  "tr": {
+    "title": "Başparmaklar, burunlar ve kırık bacaklar: Vücutla ilgili 10 Almanca deyim",
+    "hook": "Almanlar size şans dilerken parmaklarını çaprazlamaz; başparmaklarını sıkarlar.",
+    "intro": [
+      "Sınavdan önceki akşam Alman bir arkadaşınız mesaj atıyor: “Ich drücke dir die Daumen!” Başparmak sıkmak mı? Ertesi gün bir başka arkadaşınız “Hals- und Beinbruch!” diyor; boyun ve bacak kırılması. Bu gerçekten cesaret vermek mi?",
+      "Bugünün on ifadesi, vücut organları üzerine kurulu Almanca deyimler. Kelimesi kelimesine çevirince tuhaf gelirler ama öğrendiğinizde Almancanız çok daha canlı duyulur. Alman arkadaşlarınız etkilenecek! 🖐️"
+    ],
+    "words": {
+      "A2-877": {"pron": "di DAU-mın DRÜ-kın", "tip": "Başparmağınızı (Daumen) yumruğunuzun içine alın ve sıkın (drücken) 👍 Şans yükleniyor!", "warn": "Şans dilenen kişi Dativ’de: Ich drücke dir die Daumen."},
+      "C2-391": {"pron": "di NA-zı FOL HA-bın", "tip": "Burnunuz (Nase) dolmuş (voll), artık kaldıramıyorsunuz 😤 Bizdeki „gına geldi“ gibi.", "bonus": "Bir şeyden bıkmak = von + Dativ: Ich habe die Nase voll vom Regen."},
+      "C2-492": {"pron": "GANTS OR zayn", "tip": "Bütün (ganz) varlığınız kulak (Ohr) oluyor 👂 Tıpkı bizdeki „kulak kesilmek“ gibi.", "warn": "Ohr’dan önce artikel yok: Ich bin ganz Ohr."},
+      "C2-395": {"pron": "HALS unt BAYN-bruh", "tip": "Boynunu (Hals) ve bacağını (Bein) kır mı?! 🦴 Tersini dilemek kötü şansı uzak tutar; bizdeki „nazar değmesin“ mantığı gibi.", "bonus": "Bir başkası: Toi, toi, toi!"},
+      "C2-446": {"pron": "auf der HANT Lİ-gın", "tip": "Açık avucunuzda (Hand) duruyor (liegen), herkes görüyor ✋ = apaçık!", "bonus": "Die Antwort liegt auf der Hand. = Cevap ortada."},
+      "C2-481": {"pron": "ayn AU-gı TSU-drü-kın", "tip": "Bir gözünüzü (Auge) kapatıyorsunuz (zudrücken) 😉 Tıpkı Türkçedeki „göz yummak“ gibi.", "warn": "Ayrılabilen fiil: Sie drückt ein Auge zu."},
+      "C2-466": {"pron": "zih den KOPF tser-BRE-hın", "tip": "O kadar çok düşünüyorsunuz ki kafanız (Kopf) kırılacak (zerbrechen) 🤯 Bizdeki „kafa patlatmak“!", "bonus": "Birini rahatlatmak için: Zerbrich dir nicht den Kopf! = Hiç kafana takma!"},
+      "C2-438": {"pron": "YE-man-dın auf den ARM NEY-mın", "tip": "Birini çocuk gibi kucağınıza (Arm) alıp takıldığınızı düşünün 👶", "bonus": "Willst du mich auf den Arm nehmen? = Beni mi işletiyorsun?"},
+      "C2-390": {"pron": "mit dem FAL-şın FUS AUF-ştey-ın", "tip": "Yataktan yanlış (falsch) ayakla (Fuß) kalkarsanız bütün gün ters gider 🦶 Bizdeki „ters tarafından kalkmak“.", "warn": "aufstehen ayrılabilir ve sein alır: Bist du mit dem falschen Fuß aufgestanden?"},
+      "C2-443": {"pron": "HANT unt FUS HA-bın", "tip": "Elleri ve ayakları olan bir plan eksiksiz bir bedendir, ayakta durur 🧩", "bonus": "Tersi: Das hat weder Hand noch Fuß. = Bunun ne başı var ne sonu."}
+    },
+    "culture": [
+      "Almanya’da birine şans dilerken parmaklarınızı çaprazlamazsınız: başparmağınızı diğer parmaklarınızın içine alıp yumruğunuzu sıkarsınız. Bir sınav ya da mülakat öncesinde arkadaşınıza bu hareketi gösterirseniz, onu desteklediğinizi anlar.",
+      "Sahneye çıkmadan önce insanlar sık sık Toi, toi, toi! der ve tahtaya vuruyormuş gibi yapar. Sanatçılar arasında buna Danke diye karşılık vermeme geleneği bile vardır.",
+      "Deyimler gündelik sohbette ve televizyonda sürekli karşınıza çıkar. Ancak die Nase voll haben gibi bazıları konuşma diline aittir; resmi ortamlarda biraz dikkatli olun. 🍀"
+    ],
+    "quiz": {"q": "Arkadaşınızın yarın ehliyet sınavı var. Ona cesaret vermek için ne dersiniz?", "o": ["Ich habe die Nase voll!", "Ich drücke dir die Daumen!", "Du willst mich auf den Arm nehmen."], "a": 1, "why": "Ich drücke dir die Daumen! = Sana bol şans, senin için başparmaklarımı sıkıyorum; bir sınav öncesi için birebir."},
+    "outro": "Bugün bir ara başparmaklarınızı sıkın ve yüksek sesle Ich drücke dir die Daumen! deyin. Buna ihtiyacı olan birine söylerseniz daha da güzel! 👍"
   }
 }

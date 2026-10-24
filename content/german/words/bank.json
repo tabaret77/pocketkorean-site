@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "ATMの前で、友だちが「お金をおろさなきゃ」と言いたいようです。正しい文は？", "o": ["Ich muss Geld überweisen.", "Ich muss Geld abheben.", "Ich muss ein Konto eröffnen."], "a": 1, "why": "Geld abheben = お金を引き出す。ATMでお金をおろすときの表現です。"},
     "outro": "今日は「Ich möchte ein Konto eröffnen.」を、窓口に立ったつもりで3回声に出して言ってみましょう。💳"
+  },
+  "tr": {
+    "title": "Bankada Almanca: İlk gün lazım olacak 10 kelime",
+    "hook": "Almanya’da evden sonra ihtiyacınız olan ilk şey bir banka hesabıdır.",
+    "intro": [
+      "Kira, maaş, telefon sözleşmesi… Hepsi bir Alman hesabı istiyor. Sonra banka görevlisi hızlı hızlı IBAN’dan, PIN’den bahsetmeye başlıyor.",
+      "İşte bankada mutlaka duyacağınız on kelime. Bunlarla kendi başınıza hesap açabilir, bankamatikten para çekebilir ve bir arkadaşınıza para gönderebilirsiniz. 🏦"
+    ],
+    "words": {
+      "BL-06-01": {"pron": "BANK", "tip": "Eskiden „sıra, oturak“ demekti; sarraflar paraları saymak için banklara otururdu 🪑 Türkçede de hem banka hem bank var!", "warn": "İki çoğulu var: Banken = bankalar, Bänke = banklar (oturak)."},
+      "BL-06-02": {"pron": "KON-to", "tip": "İngilizce ac-COUNT’u düşünün: paranızın sayıldığı yer 🧮", "warn": "Çoğulu die Konten’dir, Kontos değil."},
+      "BL-06-03": {"pron": "er-ÖF-nın", "tip": "öffnen (açmak) + er- = yeni bir şey açmak 🎉 Hesap, dükkân, sergi: hepsi eröffnen.", "bonus": "Tersi: ein Konto kündigen = hesap kapatmak"},
+      "A2-118": {"pron": "BAR-gelt", "tip": "bar (çıplak, saf) + Geld (para) = elinizdeki çıplak para 💶", "bonus": "Zahlen Sie bar oder mit Karte? = Nakit mi, kartla mı?"},
+      "A2-029": {"pron": "GELT-au-to-mat", "tip": "Geld (para) + Automat (makine) = para makinesi 🏧 Sadece birleştirin.", "bonus": "Çoğu kişi kısaca der Automat der."},
+      "BL-06-06": {"pron": "AP-hey-bın", "tip": "ab (-den) + heben (kaldırmak) = parayı hesaptan kaldırmak ✈️ Uçaklar da abheben yapar, yani havalanır!", "warn": "Ayrılabilen fiil: Ich hebe Geld ab. Geçmiş zaman: hat abgehoben."},
+      "B1-2542": {"pron": "E-tse-kar-tı", "tip": "Harfleri Almanca okuyun: „e-tse“ 💳 Süpermarkette herkesin çıkardığı kart.", "bonus": "Girocard ya da Debitkarte da denir."},
+      "BL-06-08": {"pron": "PİN", "tip": "İngilizcedeki gibi, ama die Nummer dişil olduğu için o da dişil 🔢", "bonus": "şifreyi girmek = die PIN eingeben"},
+      "A2-062": {"pron": "ü-bır-VAY-zın", "tip": "über (karşıya) + weisen (göstermek, yönlendirmek) = paranızı karşı tarafa yönlendirmek 💸", "warn": "Ayrılmayan fiil, ge- almaz: Ich habe das Geld überwiesen."},
+      "BL-06-04": {"pron": "İ-ban", "tip": "Türkiye’deki IBAN ile aynı, sadece „i-ban“ diye okunur 🙋 die Nummer yüzünden dişil.", "bonus": "Alman IBAN’ı DE ile başlar."}
+    },
+    "culture": [
+      "Almanya’nın nakit paraya hâlâ özel bir düşkünlüğü var. Kartla ödeme eskisinden çok daha yaygın ama küçük fırınlarda ya da mahalle Kneipe’sinde hâlâ ‘Nur Bargeld’ (yalnızca nakit) tabelası görebilirsiniz.",
+      "Kira ve faturalar genellikle havale (Überweisung) ya da otomatik ödeme talimatıyla (Lastschrift) ödenir. Bu yüzden neredeyse her kira ya da iş formunda IBAN’ınız için bir kutu bulunur.",
+      "Nakit lazım olduğunda kendi bankanızın ya da anlaşmalı bir bankanın bankamatiklerini kullanmaya çalışın. Diğer makineler çoğu zaman ücret alır. 💶"
+    ],
+    "quiz": {"q": "Bankamatikte arkadaşınız „Biraz para çekmem lazım“ demek istiyor. Hangi cümle uygun?", "o": ["Ich muss Geld überweisen.", "Ich muss Geld abheben.", "Ich muss ein Konto eröffnen."], "a": 1, "why": "Geld abheben para çekmek demektir; tam da bankamatikte yaptığınız şey."},
+    "outro": "Gişede duruyormuş gibi ‘Ich möchte ein Konto eröffnen.’ cümlesini üç kez yüksek sesle söyleyin. 💳"
   }
 }

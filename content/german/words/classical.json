@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "演奏中、友だちが「Wer ist der Mann mit dem Taktstock?」とささやきました。何と答えますか？", "o": ["Das ist der Dirigent.", "Das ist der Komponist.", "Das ist eine Sinfonie."], "a": 0, "why": "指揮棒（Taktstock）を持っている人は指揮者、der Dirigent です。"},
     "outro": "好きなクラシックの曲をかけながら、「Der Komponist ist …」「Das Werk heißt …」と声に出してみましょう。もちろん Takt に合わせて！🎶"
+  },
+  "tr": {
+    "title": "Konser salonunda bir gece: 10 Almanca kelime",
+    "hook": "Bach’ın, Beethoven’ın ve Brahms’ın ülkesindesiniz; bir konser mutlaka listenizde olmalı.",
+    "intro": [
+      "Bir Alman konser salonuna ilk gittiğimde programı açtım ve Sinfonie, Dirigent, Werk gibi kelimelerle karşılaştım… Kelimeler yabancıydı ama müzik çok güzeldi. Arada yanımdaki kişi sohbet etmeye başladı, ben ise cevap veremedim.",
+      "Bugünün on kelimesi klasik müzik konuşulurken hep karşınıza çıkar. Bunlarla bir konser programını okuyabilir, en sevdiğiniz besteciler ve eserler hakkında Almanca sohbet edebilirsiniz. 🎻"
+    ],
+    "words": {
+      "B1-2497": {"pron": "KLA-sik", "tip": "Latince classicus’tan, yani birinci sınıf 🎼 Birinci sınıf müzik = Klassik!", "bonus": "Ich höre gern Klassik. = Klasik müzik dinlemeyi severim."},
+      "B1-1838": {"pron": "KLA-siş", "tip": "Klassik’in sıfatı 🎹 Türkçedeki klasik gibi, hem „klasik müzik“ hem de „tipik“ anlamında.", "bonus": "Das ist ein klassischer Fehler! = Bu klasik bir hata!"},
+      "B2-1355": {"pron": "kom-po-NİST", "tip": "Latince componere, bir araya koymak ✍️ Besteci notaları bir araya koyar; bizdeki kompozitör gibi.", "warn": "Zayıf isim: den/dem/des Komponisten."},
+      "B1-1688": {"pron": "kom-po-Nİ-rın", "tip": "Kompozisyon ile aynı kökten 🎶 -ieren fiilleri ortaçta ge- almaz.", "bonus": "Geçmiş zaman: Er hat neun Sinfonien komponiert."},
+      "B1-1005": {"pron": "or-KES-tır", "tip": "ch’yi k okuyun, tıpkı orkestra gibi 🎺 Yunan tiyatrolarında sahnenin önündeki dans alanıymış.", "bonus": "Tekili ve çoğulu aynı: das/die Orchester."},
+      "B2-3235": {"pron": "zin-fo-Nİ", "tip": "Yunanca symphonia, „birlikte ses çıkarmak“ 🎻 Pek çok çalgının tek ses olması; bizdeki senfoni.", "bonus": "Symphonie yazımı da doğrudur."},
+      "B2-1354": {"pron": "di-ri-GENT", "tip": "Latince dirigere, yönetmek 🪄 İngilizce direct ve bizdeki „direktif“ ile kuzen.", "warn": "Zayıf isim: den/dem/des Dirigenten."},
+      "B2-3018": {"pron": "di-ri-Gİ-rın", "tip": "Bir Dirigent’in yaptığı iş 🙌 Trafiği yöneten polis de dirigieren yapar!", "bonus": "Geçmiş zaman: Wer hat gestern dirigiert?"},
+      "B1-1396": {"pron": "VERK", "tip": "İngilizce work ile aynı kökten 🖼️ Sanat eseri de fabrika da Werk.", "bonus": "Beethoven’ın bütün eserleri = Beethovens Gesamtwerk"},
+      "B2-3926": {"pron": "TAKT", "tip": "Tık tık, baget tempoyu tutuyor 🥁 İngilizce tact ile aynı kökten.", "bonus": "im Takt = tempoya uygun · Taktgefühl = incelik, nezaket"}
+    },
+    "culture": [
+      "Almanya’da dikkat çekici sayıda orkestra ve opera binası vardır. Küçük şehirlerin bile çoğu zaman kendi tiyatrosu bulunur ve pek çok mekân öğrencilere ve gençlere indirimli bilet sunar.",
+      "Konserlerde insanlar genellikle bölümler (Sätze) arasında alkışlamaz; eserin tamamen bitmesini beklerler. Emin değilseniz çevrenizdekileri takip edin.",
+      "Kıyafet kuralları sandığınızdan daha rahattır. Bazıları şık giyinir ama pek çok kişi düzgün gündelik kıyafetlerle gelir. Sonunda alkış çoğu zaman uzun sürer ve birkaç “Bravo!” duyabilirsiniz. 👏"
+    ],
+    "quiz": {"q": "Konser sırasında arkadaşınız fısıldıyor: “Wer ist der Mann mit dem Taktstock?” Ne cevap verirsiniz?", "o": ["Das ist der Dirigent.", "Das ist der Komponist.", "Das ist eine Sinfonie."], "a": 0, "why": "Bageti (Taktstock) tutan kişi orkestra şefidir, yani der Dirigent."},
+    "outro": "Sevdiğiniz bir klasik eseri açın ve yüksek sesle söyleyin: Der Komponist ist … Das Werk heißt … Tabii Takt’a uyarak! 🎶"
   }
 }

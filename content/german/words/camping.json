@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "夜、テントの中が真っ暗で寝袋が見つかりません。友だちに何と聞きますか？", "o": ["Hast du Feuer?", "Hast du eine Taschenlampe?", "Ich habe ein Wohnmobil."], "a": 1, "why": "Taschenlampe = 懐中電灯で、Hast du Feuer? はライターを借りるときの言葉です。"},
     "outro": "次の旅行の持ち物リストをドイツ語で書いてみましょう：Zelt, Schlafsack, Taschenlampe…虫よけも忘れずに！🦟"
+  },
+  "tr": {
+    "title": "Çadır, fener, sivrisinek: Kamp için 10 Almanca kelime",
+    "hook": "Alman yazının asıl büyüsü otelde değil, çadırda yaşanır.",
+    "intro": [
+      "Arkadaşlarınız sizi hafta sonu göl kenarında kampa davet ediyor ve siz eşya listesi sohbetinde takılıp kalıyorsunuz: „Hast du einen Schlafsack? Wer bringt die Taschenlampe mit?“ Eşyaları biliyorsunuz, sadece adlarını bilmiyorsunuz.",
+      "Bugünün on kelimesi her kamp alanında kullanacağınız kelimeler. Bunlarla yer ayırtabilir, eşya listenizi yazabilir ve sivrisinek ısırıklarından yakınabilirsiniz; hepsi Almanca. 🏕️"
+    ],
+    "words": {
+      "A2-766": {"pron": "KEM-ping-plats", "tip": "İngilizce camping + Platz (yer) = kamp yeri ⛺ Yarısı İngilizce, yarısı Almanca.", "warn": "Çoğulu umlautlu: die Campingplätze"},
+      "A2-637": {"pron": "TSELT", "tip": "Çadırın fermuarı kapanırken çıkan ses gibi: tselt! ⛺ Aslında „örtü“ demekmiş.", "bonus": "çadır kurmak = das Zelt aufbauen"},
+      "B1-2035": {"pron": "KEM-pın", "tip": "İngilizce camp + -en 🏕️ Almanlar „kamp“ değil „kem“ der.", "bonus": "Geçmiş zaman: Wir haben am See gecampt."},
+      "B1-1431": {"pron": "TSEL-tın", "tip": "Zelt (çadır), zelten (çadırda uyumak) 🌙 -en ekleyin, isim fiil olsun.", "bonus": "campen’e göre çadırda uyumayı daha çok vurgular."},
+      "B2-2755": {"pron": "ŞLAF-zak", "tip": "schlafen (uyumak) + Sack (çuval) = uyku çuvalı 😴 Adı üstünde.", "warn": "Çoğulu umlautlu: die Schlafsäcke"},
+      "B1-2433": {"pron": "VON-mo-bil", "tip": "wohnen (oturmak, yaşamak) + mobil = hareket eden bir ev 🚐", "bonus": "Arkaya takılan karavan der Wohnwagen’dir."},
+      "A2-225": {"pron": "FOY-ır", "tip": "İngilizce fire ile aynı kökten 🔥 Kamp ateşi das Lagerfeuer’dir.", "warn": "Haben Sie Feuer? „Ateşiniz var mı?“ yani çakmak istemektir; bir yerin yandığı anlamına gelmez!"},
+      "B1-2492": {"pron": "TA-şın-lam-pı", "tip": "Tasche (cep) + Lampe (lamba) = cep lambası 🔦 Yani el feneri."},
+      "B1-1977": {"pron": "MÜ-kı", "tip": "İngilizce midge ile kuzen 🦟 Her gölün davetsiz misafiri.", "bonus": "aus einer Mücke einen Elefanten machen = pireyi deve yapmak"},
+      "B1-698": {"pron": "im FRAY-ın", "tip": "frei (açık) isim olmuş = açıkta 🌳 Gökyüzünün altında herhangi bir yer.", "bonus": "Benzeri: draußen = dışarıda"}
+    },
+    "culture": [
+      "Almanlar kamp yapmaya bayılır. Yaz tatilinde pek çok aile bir Wohnmobil ile güneye yola çıkar; göl kenarındaki popüler kamp alanları erkenden dolabilir.",
+      "Çadırınızı rastgele bir yere kurmak (Wildcampen) Almanya’nın büyük bölümünde genellikle yasaktır ve kurallar eyaletten eyalete değişir. Güvende olmak için kamp alanlarını ya da resmi trekking alanlarını (Trekkingplatz) tercih edin.",
+      "Pek çok kamp alanında geceleri belirli sessizlik saatleri (Nachtruhe) de vardır. Gitarlı şarkılar hava kararmadan önce makbul! 🌙"
+    ],
+    "quiz": {"q": "Çadırın içi zifiri karanlık ve uyku tulumunuzu bulamıyorsunuz. Arkadaşınıza ne sorarsınız?", "o": ["Hast du Feuer?", "Hast du eine Taschenlampe?", "Ich habe ein Wohnmobil."], "a": 1, "why": "Taschenlampe el feneridir; Hast du Feuer? ise çakmak istemektir."},
+    "outro": "Bir sonraki eşya listenizi Almanca yazın: Zelt, Schlafsack, Taschenlampe… Sivrisinek spreyini de unutmayın! 🦟"
   }
 }

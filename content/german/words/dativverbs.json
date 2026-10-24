@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちが作ったスープを食べています。おいしいか聞かれたら何と答えますか？", "o": ["Die Suppe schmeckt mir sehr gut!", "Die Suppe gehört mir.", "Ich folge der Suppe."], "a": 0, "why": "schmecken は食べる人を3格にとるので schmeckt mir です。"},
     "outro": "今日は「Kannst du mir helfen?」「Das gefällt mir!」「Hör mir zu!」の3文を、それぞれ3回ずつ声に出してみましょう。mich ではなく mir が自然に出てくるまで！💪"
+  },
+  "tr": {
+    "title": "mich değil mir: Dativ alan 10 Almanca fiil",
+    "hook": "Hiç \"Kannst du mich helfen?\" dediyseniz, bu yazı tam size göre.",
+    "intro": [
+      "Alman bir arkadaşınıza \"Kannst du mich helfen?\" diye soruyorsunuz. Gülümseyip düzeltiyor: \"mir!\" Peki neden mir?",
+      "Bazı Almanca fiiller Akkusativ yerine Dativ nesne alır. Bugünkü on fiil her gün kullanacağınız fiiller. İşin güzel yanı: Türkçede de bunların çoğu -e hâli ister! Öğrenin, mir/dir, ihm/ihr kendiliğinden ağzınızdan çıkmaya başlasın. 🎯"
+    ],
+    "words": {
+      "A1-189": {"pron": "HEL-fın", "tip": "Yardım birine verilen bir şeydir 🤝 Türkçede de „beni“ değil „bana yardım et“ deriz; yani mir, dir!", "warn": "Kannst du mir helfen? (mich değil) · Düzensiz: hilft – hat geholfen"},
+      "A1-324": {"pron": "ge-FA-lın", "tip": "Sevdiğiniz şey özne, siz Dativ’desiniz 🔄 Tıpkı Türkçedeki „hoşuma gidiyor“ gibi!", "bonus": "Das Kleid gefällt mir. = Elbise hoşuma gidiyor."},
+      "B1-161": {"pron": "ge-HÖ-rın", "tip": "İçinde hören (duymak) var 🔑 Eskiden „itaat etmek“ demekti, sonra ait olmak. Türkçede de „bana ait“ deriz.", "bonus": "Wem gehört das? – Das gehört mir. = Bu kimin? – Benim."},
+      "A2-308": {"pron": "DAN-kın", "tip": "İngilizce thank ve think ile aynı kökten 🙏 Teşekkür birine gider: Türkçedeki gibi „sana teşekkür ederim“, Dativ!", "bonus": "Sebep für + Akkusativ ile: Ich danke dir für die Blumen."},
+      "A1-182": {"pron": "ANT-vor-tın", "tip": "Bir kişiye mi cevap veriyorsunuz? Dativ 💬 Antworte mir! = Bana cevap ver!", "warn": "Bir soruya cevap vermek auf + Akkusativ ister: auf die Frage antworten"},
+      "A2-159": {"pron": "gra-tu-Lİ-rın", "tip": "Tebrikleriniz birine gider 🎉 Latince gratulari’den. Dikkat: Türkçede „seni tebrik ederim“ ama Almancada dir!", "bonus": "Vesile zu + Dativ ile: Ich gratuliere dir zum Geburtstag!"},
+      "A2-160": {"pron": "ŞME-kın", "tip": "Yemek özne, yiyen Dativ 😋 Schmeckt's dir? = Damak tadına uydu mu?", "bonus": "Yemekten önce: Lass es dir schmecken! = Afiyet olsun!"},
+      "A2-351": {"pron": "TSU-hö-rın", "tip": "zu (-e doğru) + hören = kulaklarınızı birine çevirmek 👂 Türkçede „beni dinle“ ama Almancada mir!", "warn": "Ayrılabilen ve Dativ’li: Hör mir zu! · hat zugehört"},
+      "B1-177": {"pron": "fer-TRAU-ın", "tip": "İngilizce trust ile aynı kökten 🫶 Güven birine verilir; Türkçedeki gibi „sana güveniyorum“.", "bonus": "İsmi: das Vertrauen = güven"},
+      "B1-314": {"pron": "FOL-gın", "tip": "İngilizce follow ile aynı kökten 👣 Birinin arkasından gidersiniz, Dativ! Türkçedeki „beni takip et“ sizi yanıltmasın.", "warn": "Geçmiş zamanı sein ile: Ich bin ihm gefolgt."}
+    },
+    "culture": [
+      "Almanya’ya yeni geldiyseniz \"Wie gefällt dir Deutschland?\" sorusunu tekrar tekrar duyacaksınız. \"Es gefällt mir gut!\" cevabını hazır tutun.",
+      "Pek çok Alman, doğum gününü gününden önce kutlamanın uğursuzluk getirdiğine inanır. Bu yüzden Ich gratuliere dir! genelde o gün ya da sonrasında söylenir. Bir önceki akşam toplanıp gece yarısı kutlamak da popülerdir.",
+      "Sofrada Guten Appetit!’in yanında sık sık Lass es dir schmecken! denir. Bazı iş yerlerinde iş arkadaşları öğle vakti birbirini basit bir Mahlzeit! ile selamlar. 🍽️"
+    ],
+    "quiz": {"q": "Arkadaşınızın yaptığı çorbayı içiyorsunuz. Beğenip beğenmediğinizi soruyor. Ne dersiniz?", "o": ["Die Suppe schmeckt mir sehr gut!", "Die Suppe gehört mir.", "Ich folge der Suppe."], "a": 0, "why": "schmecken yiyen kişiyi Dativ’de ister, bu yüzden schmeckt mir."},
+    "outro": "Bugün \"Kannst du mir helfen?\", \"Das gefällt mir!\" ve \"Hör mir zu!\" cümlelerini üçer kez yüksek sesle söyleyin; ta ki mich yerine mir otomatik olarak çıkana kadar! 💪"
   }
 }

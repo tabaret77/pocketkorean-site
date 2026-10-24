@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちの誕生日にみんなでグラスを持ちました。「誕生日に乾杯しよう！」は？", "o": ["Lasst uns auf deinen Geburtstag anstoßen!", "Lasst uns deinen Geburtstag abheben!", "Lasst uns zu deinem Geburtstag bremsen!"], "a": 0, "why": "auf + 4格 + anstoßen で「〜に乾杯する」という意味です。"},
     "outro": "今夜飲み物を飲むときは、水でもビールでも、目を合わせて「Prost!」と言ってみましょう。🥂"
+  },
+  "tr": {
+    "title": "Prost! Birahane ve şarap barı için 10 Almanca kelime",
+    "hook": "Alman sofrasında öğrendiğiniz ilk kelime ‘Prost!’tur; sonraki on kelime de burada.",
+    "intro": [
+      "İş çıkışı bir iş arkadaşınız soruyor: ‘Gehen wir noch in die Kneipe?’ Menüde sayamayacağınız kadar çok bira var, herkes kadehini kaldırıp göz göze geliyor; siz biraz kaybolmuş hissediyorsunuz.",
+      "İşte bira ve şarap akşamları için on kelime. Sipariş verebilecek, kadeh kaldırabilecek, hatta bir bira fabrikasını gezerken sohbet edebileceksiniz. 🍺"
+    ],
+    "words": {
+      "A1-251": {"pron": "BİR", "tip": "Türkçedeki bira’nın neredeyse aynısı, sadece sonundaki a yok 🍺 Basitçe sipariş verin: Ein Bier, bitte!", "warn": "Sipariş verirken çoğul yapılmaz: Zwei Bier, bitte!"},
+      "A1-250": {"pron": "VAYN", "tip": "W, v gibi okunur: „vayn“ 🍷 Üzüm asmada (vine) yetişir; kolay!", "bonus": "beyaz şarap = der Weißwein"},
+      "A2-140": {"pron": "FLA-şı", "tip": "İngilizce flask (matara) ile aynı kökten 🍾 -e ile biten isimlerin çoğu die’dir.", "bonus": "şişe depozitosu = das Pfand: şişeyi geri getirin, paranızı geri alın."},
+      "A1-114": {"pron": "GLAS", "tip": "İngilizce glass gibi 🥛 ama arada „of“ yok: ein Glas Wasser.", "warn": "Çoğulu umlaut alır: zwei Gläser"},
+      "A2-1041": {"pron": "ROT-vayn", "tip": "rot (kırmızı) + Wein = kırmızı şarap 🍷 Renk + Wein, bu kadar.", "bonus": "Roze der Roséwein’dır, menüde genelde sadece Rosé yazar."},
+      "A2-242": {"pron": "KNAY-pı", "tip": "K’yi okuyun! „k-NAY-pı“, samimi bir köşe meyhanesi gibi tınlar 🍻 Eski öğrenci argosundan gelir.", "bonus": "Daha şık bir mekân die Bar’dır."},
+      "B1-2326": {"pron": "ZEKT", "tip": "İtalyanca secco’dan (sek, kuru) 🥂 Yılbaşı gecesi saat on ikide sıra Sekt’tedir.", "warn": "die Sekte „tarikat“ demektir! İçecek der Sekt’tir."},
+      "C1-313": {"pron": "AN-ştosın", "tip": "an (-e karşı) + stoßen (çarpmak) = kadehleri birbirine çarpmak 🥂", "warn": "Ayrılabilen fiil: Wir stoßen an! Bir şeyin şerefine: auf + -i hâli."},
+      "B2-3882": {"pron": "brau-ı-RAY", "tip": "brauen (bira yapmak) + -erei (iş yeri) = bira fabrikası 🏭 -ei ile biten isimler hep die.", "bonus": "Fırın, yani die Bäckerei de aynı -erei ailesinden."},
+      "B1-420": {"pron": "AL-ko-hol", "tip": "Arapça al-kuḥl’den, tıpkı Türkçedeki alkol gibi 🧪 Baştaki al-, Arapçada belirlilik takısıdır.", "bonus": "alkolsüz bira = alkoholfreies Bier"}
+    },
+    "culture": [
+      "Almanlar kadeh tokuştururken birbirlerinin gözlerine bakar. Bakmazsanız yedi yıl boyunca şanssızlık yaşayacağınıza dair bir şaka vardır. Birayla genelde ‘Prost!’, şarapla çoğu zaman ‘Zum Wohl!’ denir.",
+      "Alman birası tek tip değildir. Bölgeler kendi türleriyle gurur duyar: Köln’de küçük bardaklarda Kölsch, Düsseldorf’ta Altbier, Bavyera’da Weißbier. Frankonya’daki Bamberg de çok sayıdaki küçük bira fabrikasıyla ünlüdür.",
+      "Şarap denince akla Fransa gelir ama Almanya’nın da özellikle Ren ve Mosel boyunca, Riesling ile ünlü bilinen şarap bölgeleri vardır. 🍇"
+    ],
+    "quiz": {"q": "Arkadaşınızın doğum gününde herkes kadehini kaldırıyor. „Doğum gününün şerefine içelim!“ nasıl denir?", "o": ["Lasst uns auf deinen Geburtstag anstoßen!", "Lasst uns deinen Geburtstag abheben!", "Lasst uns zu deinem Geburtstag bremsen!"], "a": 0, "why": "auf + -i hâli + anstoßen, bir şeyin şerefine kadeh kaldırmak demektir."},
+    "outro": "Bir dahaki sefere bir şey içerken (su da sayılır) birinin gözüne bakın ve ‘Prost!’ deyin. 🥂"
   }
 }

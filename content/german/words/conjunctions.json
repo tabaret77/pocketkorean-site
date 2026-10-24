@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "カフェで「コーヒーではなく紅茶を飲みます」と言いたいです。空欄に入るのは？ „Ich trinke keinen Kaffee, ___ Tee.“", "o": ["aber", "sondern", "oder"], "a": 1, "why": "前に keinen という否定があるので、「AではなくB」の sondern を使います。"},
     "outro": "今日したことを weil と obwohl を使って2文で言ってみましょう。動詞を最後までぐっとがまんするのがポイントです！🔗"
+  },
+  "tr": {
+    "title": "Cümleleri bağlayın: 10 Almanca bağlaç",
+    "hook": "Bugün kesik kesik Almanca cümleleriniz nihayet birbirine bağlanmaya başlıyor.",
+    "intro": [
+      "Bir yazma dersinde „Ich bin müde. Ich habe schlecht geschlafen. Ich trinke Kaffee.“ yazıp teslim ettim. Öğretmenim gülümseyip „Verbinde die Sätze!“ yazdı. Cümleleri bağlamak mı? Peki ama o zaman fiil nereye gidecek?",
+      "Bugünün on bağlacı bir fikri diğerine bağlar. Bunlarla sebep gösterebilir, şart koyabilir ve kibarca itiraz edebilirsiniz. Yol boyunca kelime sırası kurallarını da çözeceğiz. 🔗"
+    ],
+    "words": {
+      "A1-094": {"pron": "UNT", "tip": "İngilizce and ile aynı kökten ➕ En dost canlısı bağlaç: şeyleri yan yana yapıştırın, o kadar.", "bonus": "ADUSO ile kelime sırası değişmez: aber, denn, und, sondern, oder"},
+      "A1-095": {"pron": "A-bır", "tip": "„Ah, ama…“ = aber 🤔", "bonus": "Kelime sırası değişmez: …, aber ich habe keine Zeit."},
+      "A1-096": {"pron": "O-dır", "tip": "Kahve mi çay mı? „Order“ verin, yani sipariş ☕", "bonus": "Cümle sonunda: …, oder? = …, değil mi?"},
+      "A2-091": {"pron": "VAYL", "tip": "Sebep söyleyince fiil el sallayıp sona gider 👋 Tıpkı Türkçedeki gibi: hasta olduğum için!", "warn": "Fiil sonda: …, weil ich krank bin."},
+      "A2-442": {"pron": "DAS", "tip": "Bağlaçta iki s, artikelde bir s ✌️ Zincirde iki halka. Bizdeki „ki“ gibi düşünün.", "warn": "Fiil sona gider: Ich hoffe, dass du kommst."},
+      "A2-629": {"pron": "VEN", "tip": "„Eğer“ de „her ne zaman“ da: şartlar wenn ile gelir 🎯 Türkçedeki -se/-sa eki gibi.", "warn": "„Ne zaman?“ sorusu wenn değil, wann’dır."},
+      "A2-090": {"pron": "OP", "tip": "İngilizce if ile aynı kökten 🤷 „… mı diye“ anlamında kullanın.", "warn": "Şart bildiren „eğer“ wenn’dir; „… mı diye“ ise ob."},
+      "B1-090": {"pron": "op-VOL", "tip": "ob + wohl = -e rağmen ☔ Yağmur yağıyor ama yine de yürüyüşe çıkıyoruz.", "bonus": "trotzdem ile fiil hemen arkasından gelir: Es regnet. Trotzdem gehen wir spazieren."},
+      "A2-405": {"pron": "ALS", "tip": "Geçmişte tek bir an = als 📸 Tek bir enstantane fotoğraf.", "warn": "Geçmişte bir kez olan olay: als. Tekrarlanan ya da şimdiki: wenn. Als ich Kind war…"},
+      "B1-1155": {"pron": "ZON-dırn", "tip": "A değil, B 🔀 Sadece olumsuzdan sonra.", "warn": "Sadece nicht/kein’dan sonra. Diğer bütün „ama“lar aber’dir."}
+    },
+    "culture": [
+      "Mark Twain „The Awful German Language“ (Korkunç Alman Dili) adlı denemesinde, Almanca cümlelerin fiili en sona sakladığından, neler olduğunu öğrenmek için beklemek zorunda kaldığından yakınmıştır. weil, dass ve obwohl’dan sonra ne demek istediğini görürsünüz; Türkçe konuşanlar için ise bu tanıdık bir his!",
+      "Gündelik konuşmada ise pek çok Alman fiili weil’den hemen sonra koyarak „…, weil ich bin müde“ der. Rahat sohbette yaygındır ama sınavlarda ve yazıda fiili sona koyun.",
+      "Almanlar cümlenin sonuna „…, oder?“ eklemeye de bayılır. „Değil mi?“ demektir ve karşıdakini onaylamaya davet eder; kullanırsanız anında daha doğal duyulursunuz. 😉"
+    ],
+    "quiz": {"q": "Kafede „Kahve değil, çay içiyorum“ demek istiyorsunuz. Boşluğu doldurun: „Ich trinke keinen Kaffee, ___ Tee.“", "o": ["aber", "sondern", "oder"], "a": 1, "why": "keinen gibi bir olumsuzluktan sonra „A değil, B“ için sondern gerekir."},
+    "outro": "Gününüzü weil ve obwohl kullanarak iki cümleyle, yüksek sesle anlatın. İşin püf noktası fiili en sona kadar tutmak; bu konuda Türkçe size zaten yardım ediyor! 🔗"
   }
 }

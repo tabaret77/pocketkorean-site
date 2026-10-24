@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "自転車に乗っていて文字が打てません。友だちに何を送りますか？「Ich schicke dir ___.」", "o": ["eine Briefmarke", "eine Sprachnachricht", "einen Chatroom"], "a": 1, "why": "文字の代わりに声で送るのは eine Sprachnachricht（音声メッセージ）です。"},
     "outro": "今日はグループチャットにドイツ語で一言書いてみませんか？最後に LG を付ければ完璧です！📱"
+  },
+  "tr": {
+    "title": "Alman grup sohbetlerinde hayatta kalmak: 10 kelime",
+    "hook": "Grup sohbetinde yüz okunmamış mesajınız var ve neler olduğunu anlamıyorsanız, buradan başlayın.",
+    "intro": [
+      "Almanya’da yaşamaya başlayınca grup sohbetleri hızla çoğalır: dil kursunuz, komşularınız, çocuğunuzun okulundaki veliler. Bildirimler hiç durmaz, biri iki dakikalık sesli mesaj atar, sonra da herkes “Wer antwortet?” diye sorar.",
+      "Bugünün on kelimesi mesajlaşma uygulamalarında her gün kullandığınız kelimeler. Rahatça okuyabilecek, cevap verebilecek, hatta sesli mesajlaşabileceksiniz. 💬"
+    ],
+    "words": {
+      "BL-13-01": {"pron": "HEN-di", "tip": "Kullanışlı (handy) ve elinize sığıyor 📱 Ama telefona böyle diyen sadece Almanlar!", "warn": "İngilizce konuşanlar handy’yi telefon olarak anlamaz; İngilizcede mobile denir."},
+      "A2-436": {"pron": "ÇE-tın", "tip": "İngilizce chat + -en = bir Almanca fiil ⌨️ Bizdeki „çetleşmek“ gibi.", "bonus": "mit jemandem chatten = biriyle yazışmak"},
+      "B1-2007": {"pron": "ÇET", "tip": "Doğrudan İngilizceden, der ile 💭 Almanlar daha çok „çet“ diye söyler."},
+      "B1-1908": {"pron": "GRU-pın-çet", "tip": "Gruppe + Chat = grup sohbeti 👥 Aradaki bağlayıcı -n’ye dikkat: Gruppen-.", "bonus": "birini eklemek = jemanden in den Gruppenchat hinzufügen"},
+      "A2-712": {"pron": "es-em-ES", "tip": "Harfleri Almanca kodlayın, tıpkı Türkçedeki gibi ✉️", "warn": "die SMS’tir ve çoğulu da aynıdır: die SMS."},
+      "B2-977": {"pron": "ŞPRAH-nah-riht", "tip": "Sprache (konuşma) + Nachricht (mesaj) = konuşarak gönderilen mesaj 🎙️", "bonus": "Pek çok kişi kısaca Sprachi der."},
+      "A2-821": {"pron": "fer-Şİ-kın", "tip": "ver- + schicken (göndermek) = birçok kişiye göndermek 📤 Davetiyeler için birebir.", "warn": "Geçmiş zamanda ge- yok: hat verschickt."},
+      "A1-182": {"pron": "ANT-vor-tın", "tip": "die Antwort (cevap) + -en = cevap vermek ↩️", "warn": "Kişi Dativ’de: Antworte mir! Bir mesaja: auf + Akkusativ, auf eine Nachricht antworten."},
+      "B1-1253": {"pron": "Tİ-pın", "tip": "Ekranda tık tık, tıp tıp 👆", "bonus": "Ich tippe auf Freitag. = Bence cuma."},
+      "B1-2535": {"pron": "ÇET-rum", "tip": "İngilizce chat room, tek kelime olarak yazılmış 🚪 der Raum gibi der."}
+    },
+    "culture": [
+      "Almanlar çok sesli mesaj (Sprachnachrichten) gönderir. Bazıları ne kadar pratik olduğuna bayılır, bazıları uzun olanlara katlanamaz; yani şaşırtıcı derecede tartışmalı bir konudur.",
+      "Mesajlar sık sık LG (Liebe Grüße) ya da VG (Viele Grüße) ile biter. Yakın arkadaşlar hdl (hab dich lieb) yazabilir. Kuzeyde basit bir “Moin!” selam yerine geçer.",
+      "Apartman ya da çocuğunuzun sınıfı için kurulan gruplar çoğunlukla duyurular içindir. İnsanlar genelde gevezeliği dışarıda tutar; önemli bir mesajı okuduğunuzu göstermek için çoğu zaman hızlı bir 👍 yeterlidir."
+    ],
+    "quiz": {"q": "Bisiklet sürüyorsunuz ve yazamıyorsunuz. Arkadaşınıza ne gönderirsiniz? “Ich schicke dir ___.”", "o": ["eine Briefmarke", "eine Sprachnachricht", "einen Chatroom"], "a": 1, "why": "Yazmak yerine eine Sprachnachricht, yani sesli mesaj gönderirsiniz."},
+    "outro": "Neden bugün bir grup sohbetine tek satır Almanca yazmayasınız? Sonuna LG ekleyin, yerli gibi duyulursunuz! 📱"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "おじいちゃんが来年退職すると言いたいです。正しい文は？", "o": ["Mein Opa geht nächstes Jahr in Rente.", "Mein Opa geht nächstes Jahr ins Pflegeheim.", "Mein Opa hat nächstes Jahr Geburtstag."], "a": 0, "why": "in Rente gehen =「退職して年金生活に入る」という意味です。"},
     "outro": "今日はドイツのニュースの見出しをひとつ探して、今日の単語がいくつ出てくるか数えてみましょう。ひとつでも見つかれば大成功です！📰"
+  },
+  "tr": {
+    "title": "Haberleri anlamak için: Doğum oranı ve yaşlanmaya dair 10 Almanca kelime",
+    "hook": "Düşen doğum oranı ve yaşlanan nüfus, Alman haberlerinin de değişmeyen konusu.",
+    "intro": [
+      "Akşam haberlerinde „Die Geburtenrate ist wieder gesunken“ cümlesini duyarsınız, ardından emeklilik ve bakımevleri üzerine uzun bir haber gelir. Birkaç anahtar kelimeyi bilmek, takip etmeyi çok kolaylaştırırdı.",
+      "Bugünün on kelimesi doğum oranı ve yaşlanmayla ilgili. Biraz zorlar ama haberleri ve makaleleri çok daha anlaşılır kılar, Alman arkadaşlarınız toplum üzerine konuşurken siz de söze katılabilirsiniz. 📊"
+    ],
+    "words": {
+      "B1-031": {"pron": "REN-tı", "tip": "Fransızca rente’den (düzenli gelir) geliyor; bizdeki „rant“ da aynı kökten 👴 Her ay gelen para!", "warn": "Kira değil! Kira die Miete’dir."},
+      "A2-555": {"pron": "RENT-nır", "tip": "Rente + -er = emekli maaşı alan kişi 🧓 Kadın emekliye Rentnerin denir.", "bonus": "emekli olmak = in Rente gehen"},
+      "B1-102": {"pron": "be-FÖL-ke-runk", "tip": "İçinde Volk (halk, İngilizce folk) var 👥 -ung ise die demek.", "bonus": "Nüfus artıyor / azalıyor = Die Bevölkerung wächst / schrumpft."},
+      "B2-608": {"pron": "ge-BUR-tın-ra-tı", "tip": "Geburt (doğum) + Rate (oran) = doğum oranı 👶 Kelimesi kelimesine aynı.", "bonus": "Geburtstag (doğum günü) da aynı Geburt’tan geliyor!"},
+      "C1-2934": {"pron": "ge-BUR-tın-rük-gang", "tip": "Geburten + Rück (geri) + Gang (yürüyüş) = doğumların geri geri yürümesi 📉", "warn": "Gang yüzünden der; çoğulu die Geburtenrückgänge"},
+      "B2-609": {"pron": "Ü-ber-al-te-runk", "tip": "über (aşırı) + altern (yaşlanmak) + -ung = „fazla yaşlanmış“ bir toplum ⏳", "warn": "Çoğulu yok: die Überalterung der Gesellschaft"},
+      "B2-246": {"pron": "LEY-bıns-er-var-tunk", "tip": "Leben (hayat) + Erwartung (beklenti) = yaşam beklentisi 🎂 -ung = die!", "bonus": "Yaşam süresi uzuyor = Die Lebenserwartung steigt."},
+      "B2-256": {"pron": "PFLEY-gı", "tip": "pflegen (bakmak) fiilinin ismi 🤲 İnsanlara, bitkilere, hatta cildinize pflegen yapabilirsiniz.", "bonus": "bakım elemanı = die Pflegekraft"},
+      "B2-1135": {"pron": "PFLEY-gı-haym", "tip": "Pflege (bakım) + Heim (yuva) = bakımevi 🏡 Heim nötr, yani das.", "bonus": "Benzer kelimeler: das Altenheim, das Seniorenheim"},
+      "B2-588": {"pron": "AL-tırs-ar-mut", "tip": "Alter (yaşlılık) + Armut (yoksulluk) 💸 arm (yoksul) + -ut = yoksulluk.", "warn": "Armut dişil, bu yüzden bütün kelime die."}
+    },
+    "culture": [
+      "Almanya’da devlet emeklilik sistemi temelde şöyle işler: bugün çalışanlar prim öder ve bu para bugünün emeklilerine gider. Almanlar buna „kuşaklar arası sözleşme“ (Generationenvertrag) der.",
+      "Sağlık sigortasının yanında bir de bakım sigortası (Pflegeversicherung) vardır. Yine de birçok aile yaşlı anne babasına hâlâ evde bakar; bakım personeli eksikliği de haberlerde sık sık yer alır.",
+      "Birçok şehirde bir Mehrgenerationenhaus, yani yaşlıların, anne babaların ve çocukların buluşup birlikte yemek yediği, vakit geçirdiği bir „çok kuşaklı ev“ bulunur; mahallenin oturma odası gibi. 👵"
+    ],
+    "quiz": {"q": "Dedenizin seneye emekli olacağını söylemek istiyorsunuz. Hangi cümle doğru?", "o": ["Mein Opa geht nächstes Jahr in Rente.", "Mein Opa geht nächstes Jahr ins Pflegeheim.", "Mein Opa hat nächstes Jahr Geburtstag."], "a": 0, "why": "in Rente gehen = emekli olmak; kelimesi kelimesine „emekliliğe gitmek“."},
+    "outro": "Bugün bir Almanca haber başlığı bulun ve bugünkü kelimelerden kaçının geçtiğini sayın. Bir tane bile olsa kazançtır! 📰"
   }
 }

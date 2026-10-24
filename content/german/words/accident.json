@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "軽い接触事故が起きました。警察に「Ist jemand verletzt?」と聞かれます。けが人はいません。", "o": ["Nein, zum Glück nur Blechschaden.", "Ja, ich habe eine Versicherung.", "Ich habe das Kennzeichen nicht gesehen."], "a": 0, "why": "Blechschaden は車が傷ついただけで、人は無事な事故という意味です。"},
     "outro": "今日の単語で「事故のときに言うこと」を一度声に出してまとめてみましょう。もちろん、使う日が来ないのがいちばんです！🍀"
+  },
+  "tr": {
+    "title": "Panik yok: Kaza anında işinize yarayacak 10 Almanca kelime",
+    "hook": "Kazalar haber vererek gelmez; bu yüzden kelimeleri önceden çantaya koymakta fayda var.",
+    "intro": [
+      "Kırmızı ışıkta bekliyordum ki — güm! — arkadaki araba bana çarptı. Neyse ki kimse yaralanmadı ama karşı taraftaki sürücü hızlı hızlı Versicherung, Personalien, Kennzeichen demeye başlayınca kafam bomboş kaldı.",
+      "Bugünün on kelimesi, işler ters gittiğinde lazım olacak kelimeler. Bunlarla ne olduğunu anlatabilir, bilgilerinizi değiş tokuş edebilir ve sigorta işlerini sakin sakin halledebilirsiniz. 🚨"
+    ],
+    "words": {
+      "A2-035": {"pron": "UN-fal", "tip": "un- (kötü) + Fall (olay, vaka) = başınıza gelen kötü olay 💥", "bonus": "kaza yapmak = einen Unfall haben · trafik kazası = der Verkehrsunfall"},
+      "A2-122": {"pron": "fer-LET-sunk", "tip": "verletzen (yaralamak) + -ung 🩹 Sonu -ung ise hep die!", "bonus": "yaralanmak = sich verletzen: Ist jemand verletzt? = Yaralanan var mı?"},
+      "B1-504": {"pron": "be-ŞE-di-gın", "tip": "be- + Schaden (hasar) = hasar vermek 🚗 İnsanlar için değil, eşyalar için.", "bonus": "Genelde edilgen kullanılır: Das Auto wurde beschädigt."},
+      "A2-019": {"pron": "fer-Zİ-hı-runk", "tip": "İçinde sicher (güvenli) saklı 🛡️ Sigorta sizi güvende tutar.", "bonus": "Trafik kazasından sonra karşı sürücünün sigorta şirketini ve poliçe numarasını mutlaka alın."},
+      "B1-262": {"pron": "ŞULT", "tip": "sollen (-meli, -malı) ve İngilizce shall ile aynı kökten 🫣 Yapmanız gerekeni yapmadınız mı? Suç sizde!", "warn": "Çoğulu die Schulden ise „borçlar“ demektir. „Benim suçum değil!“ = Das ist nicht meine Schuld!"},
+      "B2-1465": {"pron": "tsu-ZA-men-ştos", "tip": "zusammen (birlikte) + Stoß (darbe) = iki şeyin birbirine güm diye vurması 💢", "bonus": "Fiil hâli: zusammenstoßen (geçmiş zaman: ist zusammengestoßen)"},
+      "B2-2626": {"pron": "AUF-far-un-fal", "tip": "auffahren (arkadan çarpmak) + Unfall = arkadan çarpma kazası 🚗", "bonus": "Klasik trafik sıkışıklığı kazası: Im Stau gab es einen Auffahrunfall."},
+      "B1-1022": {"pron": "per-zo-NA-li-ın", "tip": "İçinde Person’u gördünüz mü? 👤 Adınız, adresiniz ve doğum tarihiniz tek kelimede.", "warn": "Sadece çoğul: die Personalien. Polis „Ihre Personalien, bitte“ derse kimliğinizi gösterin."},
+      "B1-843": {"pron": "KEN-tsay-hın", "tip": "kennen (tanımak) + Zeichen (işaret) = tanıtan işaret 🔢 yani plaka!", "bonus": "İlk harfler şehri gösterir: B = Berlin, M = München"},
+      "B2-2627": {"pron": "BLEH-şa-dın", "tip": "Blech (sac) + Schaden (hasar) = sadece sac göçtü 🥫 Şanslı bir kelime: kimse yaralanmadı.", "bonus": "İnsanlar yaralandıysa buna der Personenschaden denir."}
+    },
+    "culture": [
+      "Almanya’da kazadan sonra insanlar dörtlüleri yakar, reflektörlü yeleği (Warnweste) giyer ve reflektör üçgenini (Warndreieck) kurar; bunların arabada bulunması beklenir. Yaralı varsa 112’yi arayın; polis 110.",
+      "Küçük bir kazada sürücüler genelde isim, adres, plaka ve sigorta bilgilerini değiş tokuş eder ve fotoğraf çeker. Pek çok kişi torpidoda Avrupa kaza tespit tutanağı (Europäischer Unfallbericht) bulundurur.",
+      "Olay yerinde kusuru kabul etmemeniz tavsiyesini sık sık duyarsınız. Ne olduğunu sakince anlatın, kimin kusurlu olduğuna sigortalar karar versin. 🦺"
+    ],
+    "quiz": {"q": "Ufak bir kaza geçirdiniz. Polis soruyor: ‘Ist jemand verletzt?’ Kimse yaralanmadı.", "o": ["Nein, zum Glück nur Blechschaden.", "Ja, ich habe eine Versicherung.", "Ich habe das Kennzeichen nicht gesehen."], "a": 0, "why": "Blechschaden, yalnızca arabaların hasar gördüğü, kimsenin yaralanmadığı anlamına gelir."},
+    "outro": "Kazadan sonra söyleyeceklerinizi bugünkü kelimelerle bir kez yüksek sesle prova edin. Umarız hiç lazım olmaz! 🍀"
   }
 }

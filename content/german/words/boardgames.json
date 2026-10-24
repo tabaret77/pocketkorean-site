@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちがリビングでカードゲームをしています。自分も入りたい！", "o": ["Darf ich mitspielen?", "Wer hat gewonnen?", "Wer ist dran?"], "a": 0, "why": "mitspielen は「一緒に遊ぶ」で、「私も入っていい？」と聞く言い方です。"},
     "outro": "次のゲームでは「Du bist dran!」とドイツ語で言ってみましょう。ただし schummeln は禁止です！🎲"
+  },
+  "tr": {
+    "title": "Oyun gecesi Almancası: Zar atmaya hazır 10 kelime",
+    "hook": "Alman bir arkadaşınız sizi yemeğe davet ederse, tatlıdan sonra masaya bir kutu oyunu gelmesi kuvvetle muhtemel.",
+    "intro": [
+      "İlk Alman Spieleabend’imde (oyun gecesi) masa zarlar ve kartlarla doluydu. Herkes gülüyor, ‘Wer ist dran?’ ve ‘Du schummelst!’ diye bağırıyordu; bense ne kuralları ne de kelimeleri bildiğim için sadece gülümsüyordum.",
+      "Bugünün on kelimesi masa ve kâğıt oyunları için. Bunlarla oyuna katılmak isteyebilir, zar atabilir, kazanırken ve kaybederken centilmenliği bozmazsınız; hem de Almanca. 🎲"
+    ],
+    "words": {
+      "A2-580": {"pron": "ŞPİL", "tip": "spielen (oynamak) eksi -en 🎮 Oyun da futbol maçı da: hepsi Spiel!", "bonus": "Das ist nur ein Spiel! = Alt tarafı bir oyun!"},
+      "B2-1374": {"pron": "BRET-şpil", "tip": "Brett (tahta) + Spiel = tahta oyunu 🟫 Bizdeki tavla ve satranç gibi.", "bonus": "masa oyunu oynamak = Brettspiele spielen"},
+      "A2-846": {"pron": "KAR-tın-şpil", "tip": "Karte (kart) + Spiel = kâğıt oyunu 🃏 Spiel das olduğu için bütün kelime das.", "bonus": "İskambil destesi anlamına da gelir. kartları karıştırmak = die Karten mischen"},
+      "A2-888": {"pron": "MİT-şpi-lın", "tip": "mit (birlikte) + spielen = birlikte oynamak 🙋 Her oyuna giriş biletiniz!", "warn": "Ayrılabilen fiil: Ich spiele mit. · Sormak için: Darf ich mitspielen?"},
+      "A2-862": {"pron": "VÜR-fıln", "tip": "Würfel (zar) + -n = zar atmak 🎲 Mutfakta ise würfeln küp küp doğramak demek!", "bonus": "Du musst würfeln! = Zar atman lazım!"},
+      "B2-2762": {"pron": "VÜR-fıl", "tip": "werfen (atmak) fiilinin eski bir akrabası 🎲 Fırlattığınız şey.", "bonus": "Sezar’ın sözü Almanca: Die Würfel sind gefallen. = Zar atıldı."},
+      "A2-902": {"pron": "DRAN", "tip": "daran’ın kısaltması 👉 Oyun gecesinde muhtemelen en çok duyacağınız kelime.", "bonus": "Wer ist dran? = Sıra kimde? · Du bist dran! = Sıra sende!"},
+      "A2-171": {"pron": "ge-Vİ-nın", "tip": "İngilizce win ile aynı kökten 🏆 ge-WIN-nen içinde win’i görebiliyor musunuz?", "warn": "Düzensiz geçmiş zaman: Ich habe gewonnen!"},
+      "A2-170": {"pron": "fer-Lİ-rın", "tip": "İngilizce lose ve forlorn ile kuzen 😭", "warn": "Geçmiş zamanı verloren: Ich habe schon wieder verloren."},
+      "B2-1264": {"pron": "ŞU-mıln", "tip": "Kartı sinsice değiştirirken çıkan „şum“ sesi gibi 🤫 Şakacı, zararsız bir hile.", "bonus": "Ciddi dolandırıcılık betrügen’dir; schummeln onun hafif versiyonu."}
+    },
+    "culture": [
+      "Almanya gerçek bir masa oyunu ülkesidir. Her yıl ‘Spiel des Jahres’ (Yılın Oyunu) ödülü açıklanır ve her sonbahar Essen, dünyanın en bilinen masa oyunu fuarlarından birine ev sahipliği yapar.",
+      "Ailelerin de kendi klasikleri vardır. En ünlüsü ‘Mensch ärgere dich nicht’ (Kızma birader); adına rağmen oynarken herkes çok kızar.",
+      "Kâğıt oyunlarında Skat ve Doppelkopf popülerdir; mahalle birahanesinde müdavimlerin oynadığını görebilirsiniz. Kurallar çoğu zaman bölgeye göre değişir, başlamadan önce sormakta fayda var. 🃏"
+    ],
+    "quiz": {"q": "Arkadaşlarınız oturma odasında kâğıt oynuyor. Siz de katılmak istiyorsunuz!", "o": ["Darf ich mitspielen?", "Wer hat gewonnen?", "Wer ist dran?"], "a": 0, "why": "mitspielen oyuna katılmak demektir; yani „Ben de oynayabilir miyim?“ diye soruyorsunuz."},
+    "outro": "Bir sonraki oyununuzda „sıra sende“ yerine Du bist dran! diye bağırın. Yalnız schummeln yok! 🎲"
   }
 }

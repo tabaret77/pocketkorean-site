@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "12月23日、帰り道でご近所さんに会いました。何とあいさつしますか？", "o": ["Alles Gute zum Geburtstag!", "Gute Besserung!", "Frohe Weihnachten!"], "a": 2, "why": "Frohe Weihnachten! =「メリークリスマス！」年末にいちばんよく聞くあいさつです。"},
     "outro": "今年はカードに Frohe Weihnachten! と自分で書いてみませんか？声に出して読むのもお忘れなく！🎁"
+  },
+  "tr": {
+    "title": "Alman usulü Noel: Bayram havasında 10 kelime",
+    "hook": "Almanya’da Noel aslında 25’inin sabahı değil, 24’ünün akşamı başlar.",
+    "intro": [
+      "Aralıkta pencerelerde mum ışıkları belirir, bütün apartman tereyağlı kurabiye kokar. İş arkadaşlarınız sorar: “Hast du schon alle Geschenke?” Almanya’da Noel bütün ay süren bir kutlamadır.",
+      "Bugünün on kelimesi bu mevsim boyunca duyacağınız kelimeler. Bunlarla Alman arkadaşlarınızla ağaçtan hediyelere kadar her şey hakkında sohbet edebilirsiniz. 🎄"
+    ],
+    "words": {
+      "A2-684": {"pron": "VAY-nah-tın", "tip": "weih (kutsal) + Nacht (gece) = kutsal geceler 🌟 „Sessiz Gece“ şarkısını düşünün.", "warn": "Genelde artikelsiz: an Weihnachten, zu Weihnachten"},
+      "A2-1042": {"pron": "HAY-lih-a-bınt", "tip": "heilig (kutsal) + Abend (akşam) = Noel arifesi 🕯️ Abend eril olduğu için der.", "bonus": "Hediyelerin açıldığı ana die Bescherung denir."},
+      "A2-1083": {"pron": "VAY-nahts-baum", "tip": "Weihnacht + s + Baum (ağaç) 🎄 Ortadaki -s- sadece parçaları yapıştırır.", "bonus": "Güneyde ve Avusturya’da: der Christbaum"},
+      "A2-1016": {"pron": "VAY-nahts-ge-şenk", "tip": "Geschenk, schenken (hediye etmek) fiilinden gelir 🎁 Son kısım onu das yapar.", "warn": "Asla Gift demeyin; Almancada das Gift zehir demektir!"},
+      "B1-2243": {"pron": "at-VENT", "tip": "Latince adventus’tan (geliş) ⏳ Noel’i beklerken geçen dört hafta.", "bonus": "Dört mumlu çelenk der Adventskranz, takvim ise der Adventskalender’dir."},
+      "A2-917": {"pron": "VAY-nahts-man", "tip": "Weihnacht + Mann = Noel adamı 🎅 Bizdeki Noel Baba gibi, çok dürüst bir isim!", "warn": "Çoğulu: die Weihnachtsmänner"},
+      "B1-844": {"pron": "KER-tsı", "tip": "-e ile bitiyor, yani die 🕯️ Yakın onu!", "bonus": "mum yakmak = eine Kerze anzünden"},
+      "A2-1009": {"pron": "PLETS-hın", "tip": "Platz + -chen (küçük) = küçük, yassı bir kurabiye 🍪 -chen ile biten kelimeler hep das!", "warn": "Küçük bir köşe anlamına da gelebilir: ein ruhiges Plätzchen"},
+      "B1-560": {"pron": "de-ko-Rİ-rın", "tip": "Türkçedeki dekore etmek gibi ✨ -ieren fiili, yani geçmiş zamanı hat dekoriert.", "bonus": "Ağaç için Almanlar schmücken de der: den Baum schmücken"},
+      "B1-2343": {"pron": "VAY-naht-lih", "tip": "Weihnacht + -lich = Noel havasında 🔔 Sokakları anlatmak için birebir.", "bonus": "Es ist schon richtig weihnachtlich! = Şimdiden tam bir Noel havası var!"}
+    },
+    "culture": [
+      "Almanlar hediyelerini 25’inin sabahı değil, Noel arifesinde (Heiligabend) açar. Sakin bir aile akşamıdır; bu yüzden öğleden sonra sokaklar çabucak boşalır.",
+      "25 ve 26 Aralık ikisi de resmî tatildir. Pek çok aile akrabalarını ziyaret eder ve kaz rosto gibi büyük bir yemek sofrasına oturur.",
+      "Hediyeleri kimin getirdiği nerede olduğunuza bağlıdır. Kuzeyde genellikle Weihnachtsmann; güneyde ve Avusturya’da ise çoğu zaman melek benzeri Christkind getirir. 👼"
+    ],
+    "quiz": {"q": "23 Aralık, eve dönerken bir komşunuzla karşılaşıyorsunuz. Ne dersiniz?", "o": ["Alles Gute zum Geburtstag!", "Gute Besserung!", "Frohe Weihnachten!"], "a": 2, "why": "Frohe Weihnachten! = Mutlu Noeller! Yıl sonunda en çok duyacağınız tebrik."},
+    "outro": "Bu yıl neden bir karta kendiniz Frohe Weihnachten! yazmayasınız? Yüksek sesle de okuyun! 🎁"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "同僚にうれしい知らせがあるそうです。「妊娠しました」という意味の文はどれでしょう？", "o": ["Ich nehme Elternzeit.", "Ich bin schwanger.", "Das Baby schläft."], "a": 1, "why": "schwanger = 妊娠している。Ich bin schwanger. は「妊娠しました」という意味です。"},
     "outro": "まわりで赤ちゃんの話を聞いたら、まず Herzlichen Glückwunsch! と言ってみましょう。今日は Wann bist du geboren? でお互いの誕生日も聞いてみてくださいね。👶"
+  },
+  "tr": {
+    "title": "Aileye yeni biri katılıyor: Hamilelik ve bebeklerle ilgili 10 Almanca kelime",
+    "hook": "Tebriklerden ebeyle sohbete kadar, yeni gelen birini karşılamanın Almancası burada.",
+    "intro": [
+      "Öğle yemeğinde bir iş arkadaşınız utangaç bir şekilde ‘Ich bin schwanger!’ diyor. Herkes alkışlıyor, siz ise bir saniye sonra anlıyorsunuz. Tebriklerden sonra peki neler konuşulur?",
+      "Bugünün on kelimesi, hamilelik ve doğumla ilgili her sohbette karşınıza çıkar. Bunlarla tebrik edebilir, ebeler ve ebeveyn izni hakkındaki konuşmaları takip edebilirsiniz; bu sizin başınıza geliyorsa daha da güzel. 👶"
+    ],
+    "words": {
+      "A2-572": {"pron": "ŞVAN-gır", "tip": "Aslında „ağır“ demekmiş 🤰 Karnınızdaki bebek sizi ağırlaştırır; bizdeki „ağırlaşmak“ gibi!", "bonus": "Sie ist im fünften Monat schwanger. = Beş aylık hamile."},
+      "B1-1129": {"pron": "ŞVAN-gır-şaft", "tip": "schwanger + -schaft (-lık) = hamile olma hâli, yani hamilelik 🤰 -schaft ile biten isimler hep die’dir."},
+      "A1-201": {"pron": "BEY-bi", "tip": "Doğrudan İngilizceden 🍼 Bedava bir kelime!", "warn": "Çoğulu die Babys’dir, -ies değil."},
+      "B1-721": {"pron": "ge-BURT", "tip": "İngilizce birth ile aynı kökten 🎂 Geburtstag = doğum günü!", "bonus": "Herzlichen Glückwunsch zur Geburt! = Doğumunuz kutlu olsun! / Gözünüz aydın!"},
+      "B1-718": {"pron": "ge-BO-rın VER-dın", "tip": "geboren, İngilizce born’un ikizi 👶 Doğmak başınıza gelen bir şeydir, bu yüzden werden ile edilgen; Türkçedeki „dünyaya gelmek“ gibi.", "warn": "Yaşayan insanlar için: Ich bin 1995 geboren. Tarihî kişiler için: Goethe wurde 1749 geboren."},
+      "B2-3099": {"pron": "HEYP-a-mı", "tip": "Çoğu zaman bebeği kaldıran (heben) kişi diye açıklanır 🙌 Alman doğumlarının kilit ismi."},
+      "B1-1924": {"pron": "VİN-dıl", "tip": "winden (sarmak) ile akraba 🌀 Bebeği bir Windel’e sararsınız; tıpkı kundak gibi.", "bonus": "bez değiştirmek = die Windel wechseln"},
+      "A2-798": {"pron": "KİN-dır-va-gın", "tip": "Kind (çocuk) + Wagen (araba) = çocuk arabası 🚼", "warn": "Çoğulu aynıdır: die Kinderwagen."},
+      "B2-2893": {"pron": "ŞTİ-lın", "tip": "still (sessiz) kelimesinden 🤫 Bebeği emzirince sessizleşir!", "bonus": "Aynı fiil susuzluğu da giderir: den Durst stillen"},
+      "B2-475": {"pron": "EL-tırn-tsayt", "tip": "Eltern (ebeveyn) + Zeit (zaman) = ebeveynlik zamanı ⏳", "bonus": "ebeveyn izni almak = Elternzeit nehmen"}
+    },
+    "culture": [
+      "Almanya’da ebeler (Hebammen) doğumdan önce ve sonra büyük rol oynar. Bebek doğduktan sonra ebe genellikle anne ve bebeği kontrol etmek için evinize gelir; masrafı da normalde sağlık sigortası karşılar. Büyük şehirlerde ebe bulmak zor olabilir, bu yüzden insanlar hamileliğin başında bir ebeyle iletişime geçer.",
+      "Hamile kadınlara tüm kontrol sonuçlarının yazıldığı bir anne kartı (Mutterpass) verilir. Her randevuya yanınızda götürün.",
+      "Babaların da Elternzeit alması yaygındır. Hafta içi bir öğleden sonra parkta Kinderwagen iten babaları sık sık görürsünüz. 🍼"
+    ],
+    "quiz": {"q": "Bir iş arkadaşınızın güzel bir haberi var. Hangi cümle „Hamileyim“ demek?", "o": ["Ich nehme Elternzeit.", "Ich bin schwanger.", "Das Baby schläft."], "a": 1, "why": "schwanger = hamile; yani Ich bin schwanger. „Hamileyim“ demek."},
+    "outro": "Bir bebek haberi duyduğunuzda Herzlichen Glückwunsch! diyen ilk kişi siz olun. Bugün de pratik için birine Wann bist du geboren? diye sorun. 👶"
   }
 }

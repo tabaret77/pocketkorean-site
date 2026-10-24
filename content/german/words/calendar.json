@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちに「Wann hast du Zeit?」と聞かれました。月曜日が空いているなら？", "o": ["Im Montag.", "Um Montag.", "Am Montag."], "a": 2, "why": "曜日の前には am を使います：am Montag = 月曜日に。"},
     "outro": "今日の曜日と日付を「Heute ist Freitag, der 5. Mai.」のようにドイツ語で声に出して言ってみましょう。次の週末の予定もひとつ言ってみてくださいね！🗓️"
+  },
+  "tr": {
+    "title": "Günler, aylar, tarihler: Plan yapmak için 10 Almanca kelime",
+    "hook": "‘Gelecek pazartesi boş musun?’ Bunu henüz Almanca söyleyemiyorsanız, bugün hallediyoruz.",
+    "intro": [
+      "Alman bir arkadaşınız ‘Hast du am Wochenende Zeit?’ diye soruyor ve siz donup kalıyorsunuz, çünkü Wochenende’nin ne olduğundan emin değilsiniz. Ya da telefonla doktor randevusu alıyor, tarihi yanlış duyup yanlış gün gidiyorsunuz.",
+      "Bugünün on kelimesi günler, aylar ve tarihlerle ilgili. Bunlarla plan yapabilir, takvim okuyabilir ve yaşınızı söyleyebilirsiniz. Küçük am ve im edatlarına da dikkat! 📅"
+    ],
+    "words": {
+      "A1-026": {"pron": "TAK", "tip": "İngilizce day ile aynı kökten ☀️ Guten Tag! derken zaten söylüyorsunuz.", "bonus": "günlük = täglich · doğum günü = der Geburtstag („doğum günü“)"},
+      "A1-027": {"pron": "VO-hı", "tip": "İngilizce week ile Woche kardeştir 📆 w, v gibi okunur.", "bonus": "haftada iki kez = zweimal pro Woche · gelecek hafta = nächste Woche"},
+      "A1-134": {"pron": "MO-nat", "tip": "der Mond (ay, gökteki) kelimesinden gelir 🌙 Türkçede de gökteki ay ile takvimdeki ay aynı kelime!", "bonus": "aylık = monatlich"},
+      "A2-216": {"pron": "DA-tum", "tip": "İngilizce data ile aynı Latince kelime 📝 Kâğıttaki tarih de bir veridir.", "bonus": "Bugün ayın kaçı? = Der Wievielte ist heute?", "warn": "Romantik buluşma ein Date’tir. Çoğulu die Daten ise „veriler“ anlamına da gelir."},
+      "A2-238": {"pron": "ka-LEN-dır", "tip": "İngilizce calendar ile neredeyse aynı 🗓️ Vurgu ortada: ka-LEN-dır.", "bonus": "Aralıkta her gün der Adventskalender’in bir kapağını açarsınız."},
+      "A1-257": {"pron": "MON-tak", "tip": "Mond (ay) + Tag (gün) 🌙 İngilizce Monday da aynı şekilde kurulmuş.", "warn": "Günler am ile kullanılır: am Montag = pazartesi günü. Bütün günler der’dir."},
+      "A1-259": {"pron": "ZON-tak", "tip": "Sonne (güneş) + Tag = güneş günü 🌞 İngilizce Sunday’in Alman ikizi.", "bonus": "her pazar = sonntags (küçük s, sonda fazladan -s)"},
+      "A1-135": {"pron": "VO-hın-en-dı", "tip": "Woche (hafta) + Ende (son) = hafta sonu 🎉 Son kısım das Ende olduğu için das.", "warn": "‘Hafta sonunda’ am Wochenende’dir; in değil, am!"},
+      "A1-595": {"pron": "YA-nu-ar", "tip": "Almanca J, y gibi okunur 🚪 Kapıların tanrısı Janus yeni yılın kapısını açar.", "bonus": "Aylar im ile kullanılır: im Januar · Avusturya’da der Jänner denir."},
+      "A1-028": {"pron": "YAR", "tip": "İngilizce year, Almanca J (= y) ile 🎂 Yılbaşı gecesi neşeli bir korsan gibi „yar!“ deyin.", "bonus": "Mutlu yıllar = Frohes neues Jahr!"}
+    },
+    "culture": [
+      "Alman takvimlerinde hafta pazar değil pazartesi başlar. İş yerinde insanlar sık sık hafta numaralarıyla konuşur, örneğin ‘KW 43’ (Kalenderwoche, takvimin 43. haftası). Başta kafa karıştırır ama çabuk alışırsınız.",
+      "Tarihler gün.ay.yıl şeklinde yazılır, örneğin 22.10.2026. Sayıdan sonraki nokta onu sıra sayısı yapar: ‘der 3. Oktober’ „der dritte Oktober“ diye okunur.",
+      "Pazar, dükkânların çoğunun kapalı olduğu sakin bir gündür. Yiyecek alışverişini cumartesiye kadar halletmek Almanya’da hayatın temel kurallarından biridir. 🛒"
+    ],
+    "quiz": {"q": "Arkadaşınız soruyor: ‘Wann hast du Zeit?’ Pazartesi boşsunuz. Ne dersiniz?", "o": ["Im Montag.", "Um Montag.", "Am Montag."], "a": 2, "why": "Haftanın günleri am ile kullanılır: am Montag = pazartesi günü."},
+    "outro": "Bugünün gününü ve tarihini Almanca yüksek sesle söyleyin, örneğin ‘Heute ist Freitag, der 5. Mai.’ Sonra kendinize gelecek hafta sonu için bir plan söyleyin! 🗓️"
   }
 }

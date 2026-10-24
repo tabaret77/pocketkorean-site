@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "週末に湖で泳いできました。友だちに何と言いますか？", "o": ["Ich war am Meer.", "Ich war an der See.", "Ich war am See."], "a": 2, "why": "der See が湖です。das Meer と die See は海なので、別の場所になってしまいます。"},
     "outro": "今日は「der See, die See, das Meer」を3回声に出して言ってみましょう。この夏の水遊びの約束は、ぜひドイツ語で！🌞"
+  },
+  "tr": {
+    "title": "Güneş, kum ve göller: Yaz için 10 Almanca kelime",
+    "hook": "Alman yazının asıl yıldızı deniz değil, göl olabilir.",
+    "intro": [
+      "Berlin’e yaz gelince arkadaşlar her hafta sonu soruyor: ‘See’ye gidelim mi?’ Deniz mi demek istiyorlar, göl mü? Havlunuzu ve mayonuzu çantaya koyuyorsunuz ama hâlâ emin değilsiniz.",
+      "Bugünün on kelimesi plaj ve göl için. Bunlarla hafta sonu yüzme planı yapabilir, dalgaları sorabilir, eczanede güneş yanığınızı anlatabilirsiniz. 🏖️"
+    ],
+    "words": {
+      "A2-112": {"pron": "MER", "tip": "Yavaşça „MER“ deyin ve sonsuza uzanan bir deniz düşünün 🌊", "bonus": "ans Meer fahren = deniz kenarına gitmek · am Meer = deniz kenarında"},
+      "A2-114": {"pron": "ZE", "tip": "Küçücük bir artikel suyun boyunu değiştiriyor 🏞️ der See göl demek.", "warn": "der See = göl, die See = deniz. Çoğulu: die Seen"},
+      "A2-116": {"pron": "ŞTRANT", "tip": "Bir gemi Strand’a takılıp kalırsa karaya oturmuş (stranded) olur 🏖️", "bonus": "am Strand liegen = kumsalda uzanmak", "warn": "Çoğulu umlautlu: die Strände"},
+      "A1-178": {"pron": "ŞVİ-mın", "tip": "İngilizce swim’in kardeşi 🏊 w’yi v gibi okuyun, yeter.", "warn": "Geçmiş zamanı sein ile kurulur: Ich bin geschwommen."},
+      "A1-427": {"pron": "BA-dın", "tip": "das Bad (banyo) kelimesinin fiili 🛁 Küvette de olsa gölde de olsa baden.", "bonus": "baden gehen = yüzmeye gitmek · yüzmeye uygun göl = der Badesee"},
+      "B1-2004": {"pron": "bi-Kİ-ni", "tip": "Adını Pasifik’teki Bikini Atolü’nden alır 👙", "bonus": "mayo = der Badeanzug · erkek mayosu = die Badehose"},
+      "B1-2234": {"pron": "VE-lı", "tip": "Denizin kabarıp yükseldiğini düşünün: Welle, dalga 🌊", "bonus": "die Hitzewelle = sıcak hava dalgası · moda „dalgaları“ için de kullanılır."},
+      "B1-1092": {"pron": "ZANT", "tip": "İngilizce sand gibi, ama s harfi z gibi vızıldar ⏳", "bonus": "kumdan kale = die Sandburg"},
+      "A2-286": {"pron": "ZO-nın-bri-lı", "tip": "Sonne (güneş) + Brille (gözlük) = kelimesi kelimesine güneş gözlüğü 😎", "warn": "Tek bir gözlük tekil: eine Sonnenbrille"},
+      "B2-2684": {"pron": "ZO-nın-brant", "tip": "Sonne + Brand (yangın) = güneşin tutuşturduğu cilt 🔥", "bonus": "güneş kremi = die Sonnencreme · Ich habe einen Sonnenbrand. = Güneşte yandım."}
+    },
+    "culture": [
+      "Almanlar yazın yakınlardaki bir yüzme gölüne (Badesee) gitmeye bayılır. Pek çok bölge kıyıdan uzaktır; bu yüzden bütün gün bir gölün kenarına havlu sermek klasik bir hafta sonu etkinliğidir.",
+      "Kuzey Denizi (Nordsee) ve Baltık (Ostsee) plajlarında sizi rüzgârdan koruyan, üstü kapalı hasır plaj koltukları (Strandkorb) sıra sıra dizilidir. Genelde günlük ya da haftalık kiralanabilirler.",
+      "Şaşırmayın: bazı plaj ve göllerde insanların çıplak yüzüp güneşlendiği FKK (Freikörperkultur) alanları vardır. Tabelalara göz atmanız yeterli. 😎"
+    ],
+    "quiz": {"q": "Hafta sonu bir gölde yüzdünüz. Arkadaşınıza ne dersiniz?", "o": ["Ich war am Meer.", "Ich war an der See.", "Ich war am See."], "a": 2, "why": "der See göldür; das Meer ve die See ise ikisi de deniz demektir."},
+    "outro": "Bugün üç kez yüksek sesle ‘der See, die See, das Meer’ deyin. Sonra bu yazın yüzme planlarını Almanca yapmayı deneyin! 🌞"
   }
 }

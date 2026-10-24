@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "1年後に終わる契約を結びました。自分の契約を正しく説明しているのは？", "o": ["Ich habe einen befristeten Vertrag.", "Ich habe einen unbefristeten Vertrag.", "Ich arbeite in Vollzeit."], "a": 0, "why": "終わる日が決まっている契約は befristet、つまり有期契約です。"},
     "outro": "自分の仕事や憧れの職場を思い浮かべて、「Ich arbeite in Vollzeit/Teilzeit.」「Mein Vertrag ist …」と声に出してみましょう。いつか unbefristet になりますように！🍀"
+  },
+  "tr": {
+    "title": "İmzalamadan önce: Sözleşme ve maaşla ilgili 10 Almanca kelime",
+    "hook": "Sözleşmeniz ilk maaş bordronuzdan önce gelir; o yüzden içindeki kelimelerle başlayın.",
+    "intro": [
+      "Bir Alman şirketinde işi aldınız! E-postayı açıyorsunuz ve bir ek var: Arbeitsvertrag. Probezeit, befristet, Gehalt… İmzalamadan önce ne anlama geldiklerini bilmek isteyeceksiniz.",
+      "Bugünün on kelimesi her iş sözleşmesinde ve maaşla ilgili her konuşmada karşınıza çıkar. Bunlarla sözleşmenizin önemli kısımlarını okuyabilir, maaş görüşmesinde daha sakin olabilirsiniz. 📑"
+    ],
+    "words": {
+      "B2-424": {"pron": "AR-bayts-fer-trak", "tip": "Arbeit (iş) + s + Vertrag (sözleşme) ✍️ Son kısım der olduğu için bütün kelime der.", "warn": "Çoğulu umlautlu: die Arbeitsverträge."},
+      "A2-022": {"pron": "ge-HALT", "tip": "halten (tutmak) fiilinden 💰 Maaşınız, her ay elinizde tuttuğunuz şeydir.", "warn": "das Gehalt = maaş, der Gehalt = içerik (örneğin yağ oranı). Artikele dikkat!"},
+      "B2-423": {"pron": "PRO-bı-tsayt", "tip": "Probe (deneme, bizdeki „prova“) + Zeit (zaman) = deneme süresi 🧪 Siz ve şirket birbirinizi test edersiniz.", "bonus": "die Probezeit bestehen = deneme süresini başarıyla tamamlamak"},
+      "B2-439": {"pron": "ge-HALTS-er-hö-unk", "tip": "Gehalt + erhöhen (yükseltmek) = zam 📈 İçinde hoch (yüksek) saklı.", "bonus": "um eine Gehaltserhöhung bitten = zam istemek"},
+      "B1-248": {"pron": "LON", "tip": "Kısa ve tatlı, hak ettiğiniz bir ödeme 💵 Çalıştığınız saatlerin karşılığı.", "bonus": "Asgari ücret der Mindestlohn’dur."},
+      "B1-003": {"pron": "AR-bayt-gey-bır", "tip": "Arbeit (iş) + Geber (veren) = iş veren 🎁 Türkçedeki „işveren“ ile birebir aynı!", "bonus": "Tekili ve çoğulu aynı görünür: der/die Arbeitgeber."},
+      "B2-037": {"pron": "AR-bayt-ney-mır", "tip": "Arbeit + nehmen (almak) + -er = işi alan 🙌 Geber ve Nehmer bir çift.", "bonus": "Kadın çalışan die Arbeitnehmerin’dir."},
+      "BL-09-10": {"pron": "FOL-tsayt", "tip": "voll (tam) + Zeit (zaman) = tam zaman ⏳ Türkçedeki „tam zamanlı“ ile aynı kuruluş!", "bonus": "Tersi die Teilzeit (yarı zamanlı): in Teilzeit arbeiten."},
+      "B2-364": {"pron": "be-FRİS-tıt", "tip": "İçinde die Frist (süre) var ⏰ Süresi olan bir sözleşme belirli sürelidir.", "warn": "İsimden önce ek alır: ein befristeter Vertrag."},
+      "B2-365": {"pron": "UN-be-fris-tıt", "tip": "un- (değil) + befristet = bitiş tarihi yok 🎉 Her sözleşmedeki en mutlu kelime.", "bonus": "eine unbefristete Stelle = kadrolu, süresiz bir iş"}
+    },
+    "culture": [
+      "Alman sözleşmelerinde ve maaş bordrolarında (Gehaltsabrechnung) bir rakamın Brutto (vergiden önce) mu Netto (vergiden sonra) mu olduğuna mutlaka bakın. Vergi ve sosyal sigorta kesilir; bu yüzden Netto’nuz çoğu zaman beklediğinizden çok daha düşüktür.",
+      "Maaşlar genellikle ayda bir, ay sonuna doğru ödenir. Bazı işverenler ayrıca Noel ikramiyesi (Weihnachtsgeld) ya da on üçüncü maaş öder; sözleşmenizi dikkatle okuyun.",
+      "Ayrıca Almanya’da maaş sormak oldukça kişisel bir konudur. Çok yakın değilseniz insanlar genelde iş arkadaşlarına ne kadar kazandıklarını sormaz. 🤫"
+    ],
+    "quiz": {"q": "Sözleşmeniz bir yıl sonra bitiyor. Hangi cümle bunu anlatır?", "o": ["Ich habe einen befristeten Vertrag.", "Ich habe einen unbefristeten Vertrag.", "Ich arbeite in Vollzeit."], "a": 0, "why": "Belirli bir bitiş tarihi olan sözleşme befristet, yani belirli sürelidir."},
+    "outro": "İşinizi ya da hayalinizdeki işi düşünün ve yüksek sesle söyleyin: Ich arbeite in Vollzeit/Teilzeit. Mein Vertrag ist … Umarız unbefristet’tir! 🍀"
   }
 }

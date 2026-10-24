@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "店員さんに「Zum Hieressen?」と聞かれました。持ち帰りたいときは何と言いますか？", "o": ["Nein, zum Mitnehmen, bitte.", "Der Platz ist belegt.", "Das Brot ist frisch."], "a": 0, "why": "zum Mitnehmen は「持ち帰りで」という意味です。"},
     "outro": "次にパン屋に行ったら「Zwei Brötchen, bitte!」と声に出して注文してみましょう。焼きたてのパンが最高のごほうびです！🥨"
+  },
+  "tr": {
+    "title": "Yerli gibi sipariş verin: Fırında lazım olacak 10 Almanca kelime",
+    "hook": "Vitrine sessizce parmakla göstermeye son.",
+    "intro": [
+      "Pazar sabahı, mahallenizdeki fırındasınız. Camın arkasında onlarca çeşit ekmek, arkanızda bir kuyruk var ve görevli soruyor: „Was darf's sein?“ Kafanız bomboş, parmağınızla gösterip „Das… bitte“ diyorsunuz.",
+      "Bugünün on kelimesi fırında ihtiyacınız olan kelimeler. Bunlarla ekmeğinizin adını söyleyebilir, arası dolu bir sandviç ekmeği seçebilir ve paket yapılmasını isteyebilirsiniz. Yarın sabah parmakla değil, kelimelerle sipariş verin! 🥐"
+    ],
+    "words": {
+      "BL-11-01": {"pron": "be-kı-RAY", "tip": "Bäcker (fırıncı) + -ei (dükkân) = fırın 🏠 -ei ile biten isimler her zaman die’dir.", "bonus": "Aynı kalıp: die Metzgerei (kasap), die Konditorei (pastane)"},
+      "A2-646": {"pron": "BE-kır", "tip": "backen (pişirmek) + -er = pişiren kişi; Türkçedeki -cı eki gibi 🍞 İngilizce baker’ın ikizi.", "bonus": "Çoğu kişi Ich gehe zum Bäcker. der = Fırına gidiyorum."},
+      "A1-019": {"pron": "BROT", "tip": "İngilizce bread ile aynı kökten 🍞 Her Alman kahvaltı sofrasının kalbi.", "bonus": "tam buğday ekmeği = das Vollkornbrot · çavdar ekmeği = das Roggenbrot"},
+      "BL-11-02": {"pron": "BRÖT-hien", "tip": "Brot + küçültme eki -chen = küçük ekmek, bizdeki -cik gibi 🥯 -chen ile biten her isim das’dır.", "warn": "Adı bölgeye göre değişir: güneyde Semmel, Berlin’de Schrippe."},
+      "B1-2607": {"pron": "ber-Lİ-nır", "tip": "Hem Berlinli bir kişi hem de reçelli bir pişi 🍩 Fırında söz konusu olan pişi!", "bonus": "Bazı bölgelerde Pfannkuchen ya da Krapfen denir."},
+      "BL-03-04": {"pron": "FRİŞ", "tip": "İngilizce fresh gibi okunur ✨ Sıcak ekmeğin kokusu neredeyse burnunuza geliyor.", "bonus": "frisch gebacken = taze pişmiş, fırından yeni çıkmış"},
+      "BL-11-06": {"pron": "be-LEYKT", "tip": "Peynir ve jambon ekmeğin üstüne „konur“ 🧀 belegt = arası dolu.", "warn": "Koltuklar için de kullanılır: Der Platz ist belegt. = Burası dolu."},
+      "B1-2023": {"pron": "SEND-viç", "tip": "Doğrudan İngilizceden alınmış 🥪 Bizdeki sandviç ile aynı, İngilizce gibi okuyun.", "bonus": "Hem das hem der kullanılır ama das Sandwich daha yaygın."},
+      "A2-932": {"pron": "MA-fin", "tip": "Doğrudan İngilizceden 🧁 Eril: der Muffin.", "bonus": "Çoğulu İngilizcedeki gibi -s ile: zwei Muffins"},
+      "BL-11-09": {"pron": "MİT-ney-mın", "tip": "mit (birlikte) + nehmen (almak) = yanına almak 🛍️ Paket servis zum Mitnehmen’dir.", "warn": "Ayrılabilen fiil: Ich nehme das mit. · Geçmiş zaman: hat mitgenommen."}
+    },
+    "culture": [
+      "Birçok Alman için fırın neredeyse her gün uğranan bir yerdir. Klasik bir hafta sonu sahnesi: biri sabah aile kahvaltısı için sıcak Brötchen almaya gider.",
+      "Çoğu eyalette süpermarketler pazar günü kapalıdır ama birçok fırın pazar sabahları açıktır. Çalışma saatleri eyalete ve dükkâna göre değişir, kontrol etmekte fayda var.",
+      "Küçük mahalle fırınları bazen hâlâ yalnızca nakit kabul eder; yanınızda biraz bozuk para bulundurun. 🪙"
+    ],
+    "quiz": {"q": "Görevli soruyor: „Zum Hieressen?“ Siz yanınıza almak istiyorsunuz. Ne dersiniz?", "o": ["Nein, zum Mitnehmen, bitte.", "Der Platz ist belegt.", "Das Brot ist frisch."], "a": 0, "why": "zum Mitnehmen „götürmek üzere, paket“ demektir."},
+    "outro": "Bir dahaki sefere fırında yüksek sesle „Zwei Brötchen, bitte!“ deyin. En güzel ödül sıcacık bir ekmek! 🥨"
   }
 }

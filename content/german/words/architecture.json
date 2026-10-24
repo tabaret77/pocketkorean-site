@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "ケルンで友だちが大聖堂を指さして名前を聞いてきました。何と答えますか？", "o": ["Das ist ein Hochhaus.", "Das ist eine Brücke.", "Das ist der Kölner Dom."], "a": 2, "why": "der Dom は大聖堂のことで、ケルン大聖堂は der Kölner Dom です。"},
     "outro": "今日歩きながら見かけた建物に「Das Gebäude hat einen schönen Stil!」と言ってみましょう。街が急に美術館のように感じられますよ！🌇"
+  },
+  "tr": {
+    "title": "Başınızı kaldırın! Binalara dair 10 Almanca kelime",
+    "hook": "Başınızı kaldırıp binalara baktığınız anda bir Alman şehri bambaşka görünmeye başlar.",
+    "intro": [
+      "Köln Ana İstasyonu’ndan çıkıyorsunuz ve dev bir katedral gökyüzünü kaplıyor. Yanınızdaki yaşlı bir hanım gururla „An dem Dom hat man über 600 Jahre gebaut!“ diyor; sizin ağzınızdan ise sadece „Schön!“ çıkıyor.",
+      "Bugünün on kelimesi mimari ve binalarla ilgili. Bunlarla bir şehir turunu takip edebilir, beğendiğiniz bir bina hakkında bir iki cümle kurabilirsiniz. 🏛️"
+    ],
+    "words": {
+      "A2-228": {"pron": "ge-BOY-dı", "tip": "bauen (inşa etmek) fiilinden gelen bir isim 🏢 İnşa edilen şey = bina.", "bonus": "Çoğulu aynıdır: ein Gebäude, zwei Gebäude"},
+      "B2-3366": {"pron": "ar-hi-tek-TUR", "tip": "-ur ile biten ödünç bir isim, yani die 📐 İngilizce architecture ile neredeyse aynı.", "bonus": "Sıfatı: architektonisch = mimari"},
+      "B1-450": {"pron": "ar-hi-TEKT", "tip": "Yunanca „usta inşaatçı“ demek 👷 İngilizce architect gibi.", "warn": "Zayıf isim: den/dem/des Architekten"},
+      "A2-423": {"pron": "BAU-ın", "tip": "Lego gibi üst üste dizin 🧱 Ev, köprü, kardan adam: hepsini bauen yaparsınız.", "bonus": "inşaat alanı = die Baustelle (her yerde görürsünüz)"},
+      "B1-1274": {"pron": "TURM", "tip": "Latince turris’ten 🗼 İngilizce turret ile kuzen.", "warn": "Çoğulu umlautlu: die Türme"},
+      "A2-215": {"pron": "BRÜ-kı", "tip": "İngilizce bridge ile aynı kökten 🌉 g harfi ck’ye dönüşmüş.", "bonus": "Bayram ile hafta sonu arasındaki „köprü gün“ = der Brückentag"},
+      "B1-1200": {"pron": "ŞTİL", "tip": "Latince stilus’tan (kalem) 🖋️ Bir yazış biçimi, yani üslup. Türkçedeki stil ile aynı!", "warn": "der Stiel (sap, kulp) ile tamamen aynı okunur."},
+      "A2-742": {"pron": "HOH-haus", "tip": "hoch (yüksek) + Haus (ev) = yüksek ev 🏙️ Frankfurt bunlarla dolu.", "warn": "Çoğulu umlaut ve -er ile: die Hochhäuser"},
+      "B1-2169": {"pron": "DOM", "tip": "Latince domus’tan (ev) = kilisenin evi ⛪ der Kölner Dom!", "warn": "Kubbe değil! Kubbe die Kuppel’dir."},
+      "B2-3520": {"pron": "ZOY-lı", "tip": "Säule „zoylı“ diye okunur; tavanı taşıyan soylu bir sütun düşünün 🏛️", "bonus": "Mecazi anlamda da: eine Säule der Gesellschaft = toplumun temel direği"}
+    },
+    "culture": [
+      "Eski şehir merkezlerinde sık sık ahşap iskeleti dışarıdan görünen Fachwerkhaus’lar görürsünüz. Masaldan çıkmış gibi dururlar.",
+      "Dünya çapında modern tasarımı şekillendiren Bauhaus da Almanya’da doğdu. 1919’da Weimar’da kurulan ve sade, kullanışlı tarzıyla ünlenen bir okuldu.",
+      "Mimari kelimeleri ev ararken de karşınıza çıkar. İlanlarda Altbau genellikle tavanları yüksek eski bir binayı, Neubau ise daha yakın zamanda yapılmış bir binayı anlatır. 🏠"
+    ],
+    "quiz": {"q": "Köln’de bir arkadaşınız katedrali gösterip ne olduğunu soruyor. Ne dersiniz?", "o": ["Das ist ein Hochhaus.", "Das ist eine Brücke.", "Das ist der Kölner Dom."], "a": 2, "why": "der Dom katedral demektir; Köln’ünki de der Kölner Dom."},
+    "outro": "Bir sonraki yürüyüşünüzde bir bina seçin ve „Das Gebäude hat einen schönen Stil!“ deyin. Şehriniz birden müzeye dönüşecek! 🌇"
   }
 }

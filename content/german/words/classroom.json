@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "先生が早口で聞き取れませんでした。何と言いますか？", "o": ["Können Sie das bitte wiederholen?", "Ich habe einen Fehler gemacht.", "Melde dich, wenn du angekommen bist!"], "a": 0, "why": "wiederholen =「くり返す」。授業でいちばんよく使うお願いです。"},
     "outro": "次の授業で、今日の表現をひとつは必ず使ってみてください。最初の質問がいちばん難しくて、あとはどんどん楽になります！🙋"
+  },
+  "tr": {
+    "title": "Almanca kursunda ayakta kalın: Mutlaka bilmeniz gereken 10 kelime",
+    "hook": "Dil kursunun en korkutucu yanı dilbilgisi değil; anlamamak ve bunu nasıl söyleyeceğini bilmemek.",
+    "intro": [
+      "Dil okulunda ilk gün. Öğretmen bir şeyi hızlıca anlatıyor ve herkes başını sallıyor. Kaybolan bir tek siz gibisiniz… Peki Almanca „bir kez daha, lütfen“ nasıl denir?",
+      "Bugünün on kelimesi her derste kullanacağınız kelimeler. Bunlarla öğretmenden bir şeyi tekrarlamasını, açıklamasını ya da harf harf söylemesini çekinmeden isteyebilirsiniz. En hızlı öğrenenler soru soranlardır! ✏️"
+    ],
+    "words": {
+      "A2-154": {"pron": "vi-dır-HO-lın", "tip": "wieder (yeniden) + holen (getirmek) = kelimeleri yeniden getirmek 🔁", "warn": "Bu anlamda ayrılmaz: Ich wiederhole. (geçmiş zaman: hat wiederholt)"},
+      "A2-150": {"pron": "er-KLE-rın", "tip": "İçinde klar (açık, net) saklı 💡 Açıklamak, bir şeyi klar yapmaktır.", "bonus": "Dinleyen Dativ’de olur: Kannst du mir das erklären?"},
+      "A1-153": {"pron": "FRA-gı", "tip": "fragen (sormak) fiilinin ismi ❓ -e ile biten isimler çok sık die’dir.", "bonus": "soru sormak = eine Frage stellen (machen değil!)"},
+      "A1-183": {"pron": "fer-ŞTEY-ın", "tip": "İngilizce under-stand gibi, içinde stehen (durmak) var 🧍", "bonus": "Kaybolduğunuzda: Das habe ich nicht verstanden."},
+      "B1-1276": {"pron": "Ü-bunk", "tip": "üben (pratik yapmak) + -ung 🏋️ -ung ile biten kelimeler hep die.", "bonus": "Übung macht den Meister. = İşleyen demir ışıldar."},
+      "A1-154": {"pron": "ANT-vort", "tip": "ant- (geri) + Wort (kelime) = geri gönderilen kelime 🗨️ İngilizce answer da aynı şekilde kurulmuş.", "bonus": "-e verilen cevap = eine Antwort auf + Akkusativ"},
+      "B1-148": {"pron": "be-DOY-tın", "tip": "deuten (işaret etmek) fiilinden 👉 Bu kelime neye işaret ediyor?", "bonus": "Sınıfın olmazsa olmazı: Was bedeutet das?"},
+      "A1-309": {"pron": "buh-şta-Bİ-rın", "tip": "Her Buchstabe’yi (harf) tek tek söylemek 🔤 Adınız için lazım olacak.", "bonus": "Bu nasıl yazılıyor? = Wie schreibt man das?"},
+      "A1-474": {"pron": "FEY-lır", "tip": "fehlen (eksik olmak) fiilinden ❌ Bir şey eksikse, hata vardır.", "bonus": "hata yapmak = einen Fehler machen"},
+      "A2-327": {"pron": "zih MEL-dın", "tip": "Sınıfta parmak kaldırmak demek 🙋 Başka yerlerde haber vermek, ulaşmak demek.", "bonus": "Vedalaşırken: Ich melde mich! = Ben sana haber veririm!"}
+    },
+    "culture": [
+      "Alman okullarında öğrenciler cevap vermek istediklerinde çoğu zaman bütün eli değil, sadece işaret parmağını kaldırır. İşte bu sich melden’dir.",
+      "Üniversitede bir dersin sonunda öğrenciler alkışlamak yerine çoğu zaman sıralarına vurur. İlk seferinde ürkütebilir ama sadece „teşekkürler, güzel dersti“ demektir.",
+      "Telefonda insanlar bazen isimleri her harf için bir kelimeyle kodlar: Anton, Berta, Cäsar… Kendi adınızı bu şekilde kodlamayı deneyin! 📞"
+    ],
+    "quiz": {"q": "Öğretmen çok hızlı konuştu ve kaçırdınız. Ne dersiniz?", "o": ["Können Sie das bitte wiederholen?", "Ich habe einen Fehler gemacht.", "Melde dich, wenn du angekommen bist!"], "a": 0, "why": "wiederholen = tekrarlamak; derste en sık yapacağınız rica."},
+    "outro": "Bir sonraki dersinizde bugünkü ifadelerden en az birini kullanın. İlk soru en zorudur; sonrası kolaylaşır! 🙋"
   }
 }

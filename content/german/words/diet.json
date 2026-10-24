@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "レストランでナッツアレルギーがあると伝えたいです。正しい文は？", "o": ["Ich bin allergisch zu Nüssen.", "Ich esse gern Nüsse.", "Ich bin allergisch gegen Nüsse."], "a": 2, "why": "ドイツ語では allergisch のあとに gegen + 4格を使います。"},
     "outro": "食べられない・食べないものをひとつ選んで、Ich bin allergisch gegen … や Ich vertrage kein … と声に出してみましょう。次の外食ですぐ使えます！🍽️"
+  },
+  "tr": {
+    "title": "Ne yiyemediğinizi anlatmak: Beslenmeyle ilgili 10 Almanca kelime",
+    "hook": "Alman menüsünü okumak bir şey, ne yiyemediğinizi anlatmak başka bir şey.",
+    "intro": [
+      "Bir arkadaşınızın doğum günü yemeğindesiniz. Süt midenizi bozuyor, arkadaşınızın kocası da fındık fıstığa alerjik. Şimdi birinin bütün bunları garsona anlatması lazım; hem de Almanca.",
+      "Bugünün on kelimesi vejetaryen ve vegan yemekleri, alerjileri, intoleransları ve glütensiz ya da laktozsuz ürünleri kapsıyor. Bunlarla restoranlarda güvenle sipariş verebilir, gönül rahatlığıyla alışveriş yapabilirsiniz. 🥗"
+    ],
+    "words": {
+      "B1-1317": {"pron": "ve-ge-TA-riş", "tip": "Vejetaryen + -isch 🥦 Sıfat olduğu için küçük harfle yazılır.", "bonus": "Şöyle sorun: Haben Sie etwas Vegetarisches?"},
+      "A2-974": {"pron": "ve-ge-TA-ri-ır", "tip": "-er „… yapan kişi“ demek 🙋 Vejetaryen beslenen kişi = Vegetarier.", "warn": "Artikelsiz: Ich bin Vegetarier. Kadınlar Vegetarierin der."},
+      "B2-1216": {"pron": "ve-GAN", "tip": "Vurgu ikinci hecede: ve-GAN 🌱 Türkçedeki gibi okuyun; İngilizce „Vİ-gın“ anlaşılmayabilir.", "bonus": "vegan (kişi) = der Veganer / die Veganerin"},
+      "B2-1103": {"pron": "a-ler-Gİ", "tip": "Türkçedeki alerji gibi, vurgu sonda 🤧 a-ler-Gİ.", "bonus": "bir şeye karşı alerji = eine Allergie gegen + Akkusativ"},
+      "B2-1104": {"pron": "a-LER-giş", "tip": "Allergie + -isch = alerjik 🥜 gegen (karşı) ile takım olur.", "warn": "Türkçedeki „-e alerjik“ mantığıyla zu demeyin: allergisch gegen Nüsse."},
+      "B2-2464": {"pron": "glu-TEN-fray", "tip": "Gluten + frei 🍞 Burada frei „bedava“ değil, „-siz“ demek.", "bonus": "Aynı kalıp: zuckerfrei (şekersiz), alkoholfrei (alkolsüz)"},
+      "B2-2463": {"pron": "lak-TO-zı-fray", "tip": "Laktose + frei 🥛 Süpermarketin süt reyonunun her yerinde görürsünüz.", "bonus": "laktoz intoleransı = die Laktoseintoleranz"},
+      "B2-1215": {"pron": "UN-fer-treyk-lih-kayt", "tip": "un (değil) + vertragen (kaldırabilmek) + -keit 😣 -keit ile biten isimler hep die.", "bonus": "Sohbette daha yaygın: Ich vertrage keine Milch. (Süt bana dokunuyor.)"},
+      "B1-017": {"pron": "er-NE-runk", "tip": "nähren (beslemek) + -ung 🍎 Nahrung (besin) ile aynı aileden.", "warn": "Kilo vermek için yapılan diyet die Diät’tir. Ernährung genel olarak ne yediğinizdir."},
+      "B2-1212": {"pron": "ka-lo-Rİ", "tip": "Latince calor’dan (ısı); bizdeki kalori ile aynı 🔥 Vücudunuzun yaktığı enerji.", "warn": "Çoğulu: die Kalorien, „ka-lo-Rİ-ın“ diye okunur."}
+    },
+    "culture": [
+      "Alman menülerinde yemeklerin yanında sık sık küçük sayılar ya da harfler görürsünüz. Bunlar genellikle alerjenleri ve katkı maddelerini (Zusatzstoffe) gösterir; açıklaması menünün en altındadır.",
+      "Özellikle büyük şehirlerde pek çok restoran vejetaryen ve vegan yemekler sunar; bunlar bazen küçük bir yaprakla işaretlenir. Emin değilseniz doğrudan personele sormak her zaman en iyisidir.",
+      "Süpermarketlerde genellikle laktosefrei ve glutenfrei ürünler için bir raf bulunur; drogeriler ve organik dükkânlar (Bioladen) çoğu zaman daha da fazlasını satar. 🛒"
+    ],
+    "quiz": {"q": "Garsona fındık fıstığa alerjiniz olduğunu söylemek istiyorsunuz. Hangi cümle doğru?", "o": ["Ich bin allergisch zu Nüssen.", "Ich esse gern Nüsse.", "Ich bin allergisch gegen Nüsse."], "a": 2, "why": "Almancada allergisch’ten sonra gegen + Akkusativ gelir."},
+    "outro": "Yiyemediğiniz ya da yemediğiniz bir yiyecek seçin ve yüksek sesle söyleyin: Ich bin allergisch gegen … ya da Ich vertrage kein … Bir sonraki dışarıda yemeğe hazırsınız! 🍽️"
   }
 }

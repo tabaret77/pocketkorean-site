@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "鉛筆で線を引いて家を描いています。合う動詞はどれ？", "o": ["malen", "zeichnen", "streichen"], "a": 1, "why": "鉛筆で線を描くのは zeichnen、絵の具で塗って描くのは malen です。"},
     "outro": "好きな絵をひとつ思い浮かべて、ドイツ語で言ってみましょう。Das ist mein Lieblingsgemälde! 🎨"
+  },
+  "tr": {
+    "title": "Sanat galerisinde bir gün için 10 Almanca kelime",
+    "hook": "Almanya’da bir dahaki sefere bir tablonun önünde durduğunuzda, „güzel“den fazlasını söyleyebileceksiniz.",
+    "intro": [
+      "Yağmurlu bir pazar günü Berlin’deki Müzeler Adası’nı geziyorsunuz. Etiketler Gemälde, Porträt, Malerei gibi kelimelerle dolu; Alman arkadaşınız ressamlardan heyecanla bahsediyor, siz ise sadece tablolara bakıyorsunuz.",
+      "Bugünün on kelimesi sanat ve resimle ilgili. Bunlarla etiketleri okuyabilir, beğendiğiniz eserler hakkında konuşabilir, hatta resim kursunda birinden fırça ödünç isteyebilirsiniz. 🎨"
+    ],
+    "words": {
+      "A2-243": {"pron": "KUNST", "tip": "können (-ebilmek) fiilinden 🎨 Sanat, yapabildiğiniz bir beceridir; İngilizce cunning gibi!", "warn": "Çoğulu umlautlu: die Künste."},
+      "A1-311": {"pron": "MA-lın", "tip": "malen boyayla resim yapmaktır 🖌️ „Renkli bir iz bırakmak“ diye düşünün.", "warn": "Kurşun kalemle çizgi çizmek zeichnen’dir. Geçmiş zaman: hat gemalt."},
+      "B2-3190": {"pron": "ma-lı-RAY", "tip": "malen + -erei = resim yapma uğraşı 🖼️ -ei ile biten kelimeler die’dir.", "bonus": "Yağlı boya resim = die Ölmalerei"},
+      "A2-658": {"pron": "KÜNST-lır", "tip": "Kunst + -ler = sanat yapan kişi; Türkçedeki -cı/-ci eki gibi 🎭 u’nun ü’ye dönüştüğüne dikkat!", "bonus": "Kadın sanatçı: die Künstlerin"},
+      "B1-929": {"pron": "MA-lır", "tip": "malen + -er = boyayan kişi 🖌️ Ressam da olabilir, badanacı da!", "warn": "Der Maler kommt morgen. cümlesindeki büyük ihtimalle sanatçı değil, boyacı ustasıdır."},
+      "B2-1341": {"pron": "ge-MEL-dı", "tip": "ge- + malen = boyanmış şey, bir sanat eseri 🖼️ a harfi ä olur.", "bonus": "Günlük konuşmada çoğu kişi sadece das Bild der."},
+      "B1-1429": {"pron": "TSAYH-nunk", "tip": "Zeichen (işaret) + -ung = çizim ✏️ İngilizce token ile akraba.", "bonus": "Fiili zeichnen: Ich zeichne gern."},
+      "B2-1343": {"pron": "skulp-TUR", "tip": "Latince sculpere (oymak) 🗿 Türkçedeki „skülptür“ gibi, vurgu sonda.", "bonus": "Heykeltıraş der Bildhauer’dir (Bild + hauen: figürü yontarak çıkaran kişi)."},
+      "B2-1342": {"pron": "por-TRE", "tip": "Fransızcadan geldi, sondaki t’yi yutun; tıpkı Türkçedeki „portre“ gibi 🙂", "bonus": "Otoportre = das Selbstporträt"},
+      "B2-2388": {"pron": "PİN-zıl", "tip": "Latince „küçük kuyruk“ demek 🐾 Fırçanın ucu kuyruğa benzer; İngilizce pencil de aynı kökten!", "bonus": "Duvar boyama rulosu die Farbrolle’dir."}
+    },
+    "culture": [
+      "Almanya’da küçük şehirlerde bile çoğu zaman bir sanat müzesi (Kunstmuseum) ya da sergi salonu (Kunsthalle) bulunur. Birçok müze pazartesi kapalıdır; gitmeden önce açık olduğu günlere bakın.",
+      "Pek çok şehirde „Müzelerin Uzun Gecesi“ (Lange Nacht der Museen) düzenlenir. Tek biletle gece geç saatlere kadar birçok müzeyi gezebilirsiniz ve çok rağbet görür.",
+      "Birkaç yılda bir de Kassel şehri dev bir çağdaş sanat sergisi olan documenta’ya ev sahipliği yapar. O aylar boyunca bütün şehir bir galeriyi andırır. 🖼️"
+    ],
+    "quiz": {"q": "Kurşun kalemle çizgiler kullanarak bir ev çiziyorsunuz. Hangi fiil uygun?", "o": ["malen", "zeichnen", "streichen"], "a": 1, "why": "Kurşun kalemle çizgi çizmek zeichnen’dir; boyayla resim yapmak ise malen."},
+    "outro": "Sevdiğiniz bir tabloyu düşünün ve Almanca söyleyin: Das ist mein Lieblingsgemälde! 🎨"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "ニュースで、何か月も雨が降らず畑がすっかり乾いたと言っています。出てきた単語はどれでしょう？", "o": ["die Überschwemmung", "die Dürre", "die Hitzewelle"], "a": 1, "why": "die Dürre = 干ばつ。長いあいだ雨が降らず、土地が乾くことです。"},
     "outro": "今日、ドイツのニュースの見出しをひとつ探して、今日の単語がいくつ出てくるか数えてみましょう。意外とたくさん見つかりますよ！🌍"
+  },
+  "tr": {
+    "title": "Alman haberlerini anlayın: İklimle ilgili 10 kelime",
+    "hook": "Bu kelimeler Alman haberlerinde neredeyse her gün geçiyor; hepsini tek seferde çözelim.",
+    "intro": [
+      "Akşam haberlerini açıyorsunuz, spiker art arda Hitzewelle, Dürre, Klimawandel diyor. Ekranda önce kurumuş tarlalar, sonra sular altında kalmış köyler görünüyor; ama kelimeler olmadan sadece görüntüleri izliyorsunuz.",
+      "Bugünün on kelimesi her iklim haberinde karşınıza çıkar. Bunlarla manşetleri takip edebilir, hava durumu sohbetlerinizi bir adım öteye taşıyabilirsiniz. 🌍"
+    ],
+    "words": {
+      "B1-241": {"pron": "KLİ-ma", "tip": "Türkçedeki klima ile aynı kökten; ama Almancada asıl anlamı iklim 🌡️", "bonus": "klima cihazı = die Klimaanlage · iş yerindeki hava = das Betriebsklima"},
+      "B1-007": {"pron": "KLİ-ma-van-dıl", "tip": "Klima + Wandel (değişim) = iklimin değişmesi 🔄", "warn": "Çoğulu yok, her zaman der Klimawandel."},
+      "B2-749": {"pron": "ERT-er-ver-munk", "tip": "Erde (dünya) + Erwärmung (ısınma) = küresel ısınma 🌍 İçinde warm’ı görebilirsiniz."},
+      "B2-752": {"pron": "KO-lın-di-ok-sit", "tip": "Kohle (kömür, karbon) + Dioxid = karbondioksit 🏭", "bonus": "İnsanlar genelde sadece CO2 der: „tse-o-TSVAY“."},
+      "B2-755": {"pron": "e-mi-SYON", "tip": "Latince emittere, „dışarı göndermek“ 💨 Fabrikaların havaya saldığı şey; bizdeki emisyon.", "warn": "-ion ile bittiği için die, genelde de çoğul: die Emissionen."},
+      "B2-751": {"pron": "TRAYP-haus-gas", "tip": "Treibhaus (sera) + Gas = sera gazı 🌿 Saf Lego.", "bonus": "sera etkisi = der Treibhauseffekt"},
+      "B2-778": {"pron": "Hİ-tsı-ve-lı", "tip": "Hitze (sıcaklık) + Welle (dalga) = dalga gibi gelen sıcak 🥵", "bonus": "Es ist total heiß heute! = Bugün cehennem gibi sıcak!"},
+      "B2-776": {"pron": "DÜ-rı", "tip": "dürr (kuru, solmuş) kelimesinden 🏜️ Çatlamış toprağı duyun: DÜR-re."},
+      "B2-782": {"pron": "Ü-bır-şve-munk", "tip": "über (üstünden) + schwemmen (sürüklemek) = taşan ve her şeyi sürükleyen su 🌊", "bonus": "das Hochwasser (yüksek su, taşkın) da haberlerde sık geçer."},
+      "B2-757": {"pron": "KLİ-ma-noy-tral", "tip": "Klima + neutral (nötr) = iklim için ne artı ne eksi ⚖️"}
+    },
+    "culture": [
+      "Pek çok Alman evinde klima yoktur. Hitzewelle sırasında insanlar gündüz pencereleri ve panjurları (Rollladen) kapalı tutar, gece ya da sabah erkenden ardına kadar açar.",
+      "Çöp ayrıştırma (Mülltrennung) gündelik hayatın parçasıdır: kâğıt, ambalaj, yemek artıkları ve genel atıklar ayrı kutulara gider. Kutu renkleri ve kurallar şehirden şehre biraz değişir; taşındığınızda yerel rehbere bakın.",
+      "Pek çok kişi işe bisikletle gider; arkadaşlar da sık sık trenle mi gitmeli, uçakla mı diye tartışır. İklim, Almanlarla sohbet başlatmak için iyi bir konudur. 🚲"
+    ],
+    "quiz": {"q": "Haberlerde aylardır yağmur yağmadığı ve tarlaların kuruduğu söyleniyor. Hangi kelimeyi duydunuz?", "o": ["die Überschwemmung", "die Dürre", "die Hitzewelle"], "a": 1, "why": "die Dürre = kuraklık: toprağı kurutan uzun bir yağmursuz dönem."},
+    "outro": "Bugün bir Almanca haber manşetine bakın ve bugünkü kelimelerden kaçını bulabildiğinizi sayın. Şaşıracaksınız! 🌍"
   }
 }

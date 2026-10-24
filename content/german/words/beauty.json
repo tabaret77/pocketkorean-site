@@ -218,5 +218,32 @@
       "why": "日用品と化粧品をまとめて買うなら die Drogerie（ドラッグストア）がぴったりです。"
     },
     "outro": "今夜は鏡の前で「Ich schminke mich ab.」「Ich creme mein Gesicht ein.」と声に出してみましょう。💆"
+  },
+  "tr": {
+    "title": "Kozmetik reyonu Almancası: 10 kelime",
+    "hook": "Etiketleri okuyabildiğinizde Alman drogerisinde alışveriş iki kat keyifli olur.",
+    "intro": [
+      "Bir Alman drogerisinde gezinmek buradaki hayatın küçük zevklerinden biri. Raf raf krem, ruj, parfüm… Peki etiketteki trockene Haut ne demek, sivilce için bir şeyi nasıl sorarsınız?",
+      "Bugünün on kelimesi tamamen makyaj ve cilt bakımıyla ilgili. Etiketleri okuyabilecek ve tam olarak istediğiniz şeyi sorabileceksiniz. 💄"
+    ],
+    "words": {
+      "A2-500": {"pron": "kos-ME-tik", "tip": "Yunanca kosmos’tan (düzen, süs) ✨ Bizdeki kozmetik ile neredeyse aynı!", "bonus": "doğal kozmetik = die Naturkosmetik"},
+      "A2-973": {"pron": "meyk-AP", "tip": "Doğrudan İngilizceden alınmış 💋 Almancada das.", "bonus": "makyajı temizlemek = sich abschminken"},
+      "B1-1112": {"pron": "ŞMİN-kın", "tip": "Makyaj fırçasının yüzde çıkardığı „şşş“ sesi 🖌️", "warn": "Genelde dönüşlü kullanılır: Ich schminke mich."},
+      "A2-439": {"pron": "KREM", "tip": "Fransızca crème’den 🧴 Türkçedeki krem ile aynı; yüzünüze sürdüğünüz krem.", "warn": "Yemekte ya da pastada kullanılan krema genelde die Sahne’dir."},
+      "B1-773": {"pron": "HAUT", "tip": "İngilizce hide (post, deri) ile aynı kökten 🧖 Sizi saran şey!", "bonus": "kuru cilt = trockene Haut · yağlı = fettige Haut · hassas = empfindliche Haut"},
+      "A2-533": {"pron": "par-FÜM", "tip": "Fransızca parfum, Almanca ü ile 🌸 Tıpkı Türkçedeki parfüm gibi!"},
+      "B1-2341": {"pron": "Lİ-pın-ştift", "tip": "Lippe (dudak) + Stift (kalem) = dudak kalemi 💄"},
+      "A2-267": {"pron": "ŞPİ-gıl", "tip": "Latince speculum’dan (ayna) 🪞 Ünlü bir Alman haber dergisinin de adı."},
+      "B1-586": {"pron": "dro-ge-Rİ", "tip": "Droge (bitki, ilaç) + -erie (dükkân) 🛍️ Makyaj, şampuan ve temizlik ürünleri bir arada; bizdeki aktar ile kozmetikçinin karışımı gibi.", "warn": "Eczane değildir! Reçeteli ilaçlar die Apotheke’den alınır."},
+      "B2-2700": {"pron": "Pİ-kıl", "tip": "Pickel sivilcedir, İngilizce pickle (turşu) değil 😖", "bonus": "sivilceli, sorunlu cilt = unreine Haut"}
+    },
+    "culture": [
+      "Alman Drogerie’leri makyaj malzemesi, şampuan, temizlik ürünleri, hatta organik atıştırmalıklar satar. Mağazaların kendi markalı ürünleri ucuz ve fena değildir, bu yüzden pek çok kişi onlara yemin eder.",
+      "Cilt sorunları için bir eczaneye (Apotheke) uğramak da faydalıdır. Eczaneler cilt bakım ürünleri de satar ve eczacıdan tavsiye isteyebilirsiniz.",
+      "Almanya’da birçok kişi hafif makyajlı, doğal bir görünümü tercih eder. Pek çoğu içerikleri de dikkatle kontrol eder; bu yüzden Naturkosmetik rafları çoğu zaman geniştir. 🌿"
+    ],
+    "quiz": {"q": "Diş macunu, şampuan ve ucuz bir el kremini tek seferde almak istiyorsunuz. Nereye gidersiniz? “Ich gehe ___.”", "o": ["in die Apotheke", "in die Drogerie", "zum Metzger"], "a": 1, "why": "Kişisel bakım ve kozmetik ürünlerini bir arada almak için doğru yer die Drogerie."},
+    "outro": "Bu akşam aynanın karşısında yüksek sesle “Ich schminke mich ab.” ve “Ich creme mein Gesicht ein.” deyin. 💆"
   }
 }

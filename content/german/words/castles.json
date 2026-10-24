@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "丘の上にある、中世に防御のために建てられた城はふつう何と言いますか？", "o": ["die Burg", "das Kloster", "das Denkmal"], "a": 0, "why": "防御用の城は die Burg、宮殿風の城は das Schloss です。"},
     "outro": "次にお城の写真を見たら、Das ist eine Burg! か Das ist ein Schloss! か、声に出して当ててみましょう。🏰"
+  },
+  "tr": {
+    "title": "Burg mu, Schloss mu? Alman şatoları için 10 kelime",
+    "hook": "Almanya’daki her şato aynı türden değildir. Burg ile Schloss’u ayırt edebiliyor musunuz?",
+    "intro": [
+      "Ren boyunca trenle gidiyorsunuz ve neredeyse her tepede bir şato beliriyor. Yanınızdaki kadın gösterip “Das ist eine Burg, kein Schloss!” diyor. İkisi de şato değil mi?",
+      "Bugünün on kelimesi şatolar ve tarihî yerler için. Bunlarla şato türlerini birbirinden ayırabilir, bilgi panolarını okuyabilir ve rehberli bir turu takip edebilirsiniz. 🏰"
+    ],
+    "words": {
+      "A2-570": {"pron": "ŞLOS", "tip": "schließen (kilitlemek) fiilinden 🔒 Bu yüzden „kilit“ anlamına da gelir!", "warn": "Schloss genellikle soyluların yaşadığı saray tarzı bir şatodur. Çoğulu: die Schlösser."},
+      "B1-547": {"pron": "BURK", "tip": "İngilizce borough ve -burg ile biten şehir adlarıyla aynı kökten ⚔️ Tepeyi koruyan kale.", "bonus": "Şövalye der Ritter’dir. Hamburg’daki burg da aynı kelime."},
+      "B2-3608": {"pron": "ru-İ-nı", "tip": "İngilizce ruin gibi 🏚️ Sondaki -e’yi unutmayın.", "bonus": "Harabe hâlindeki kale = die Burgruine"},
+      "B1-561": {"pron": "DENK-mal", "tip": "denken (düşünmek) + Mal (iz, işaret) = insanı düşündüren işaret 🗿", "warn": "Çoğulu umlaut ve -er ile: die Denkmäler."},
+      "B2-2989": {"pron": "pa-LAST", "tip": "Roma’daki Palatinus Tepesi’nden 👑 İngilizce palace ve bizdeki „Pera Palas“taki palas ile kuzen.", "warn": "Çoğulu: die Paläste. Alman şato adlarında Palast’tan çok daha sık Schloss kullanılır."},
+      "B2-3231": {"pron": "FES-tunk", "tip": "fest (sağlam) + -ung = sağlamlaştırılmış yer: kale 🛡️ -ung, die demek.", "bonus": "festhalten’daki (sıkıca tutmak) fest ile aynı."},
+      "B1-782": {"pron": "his-TO-riş", "tip": "İngilizce historic + -isch, bu kadar 📜", "bonus": "„Tarih“ için gündelik isim die Geschichte’dir."},
+      "B2-3136": {"pron": "GRA-bın", "tip": "graben (kazmak) yapınca elde ettiğiniz şey: hendek 🕳️ İngilizce grave ile akraba.", "bonus": "Kale hendeği der Burggraben ya da der Wassergraben’dir."},
+      "C1-841": {"pron": "Mİ-tıl-al-tır-lih", "tip": "Mittel (orta) + Alter (çağ) = Orta Çağ 🛡️ Türkçedeki „Orta Çağ“ ile birebir aynı kuruluş!", "bonus": "İsmi das Mittelalter’dir."},
+      "B1-2162": {"pron": "KLOS-tır", "tip": "Latince claustrum (kapalı yer) ⛪ Duvarlarla çevrili bir manastır; İngilizce cloister gibi.", "warn": "Çoğulu: die Klöster."}
+    },
+    "culture": [
+      "Almanlar Burg ile Schloss’u epey ayrı tutar. Burg genellikle savunma için tepeye kurulmuş Orta Çağ kalesidir. Schloss ise soyluların rahat yaşaması için yapılmış, daha geç döneme ait saray benzeri bir konuttur.",
+      "Hepsinin en ünlüsü Schloss Neuschwanstein hiç de Orta Çağ’dan kalma değildir. 19. yüzyılda, Orta Çağ şövalye hikâyelerine hayran Bavyera Kralı II. Ludwig tarafından yaptırılmıştır; kral hayalini taşa dökmüştür.",
+      "Ren ve Mosel boyunca birbiri ardına şatolar ve harabeler görürsünüz. Pek çoğunun iç kısmı yalnızca rehberli turla (Führung) gezilebilir; gitmeden önce tur saatlerine bakın. 🗺️"
+    ],
+    "quiz": {"q": "Savunma için tepeye kurulmuş bir Orta Çağ kalesine genellikle ne denir?", "o": ["die Burg", "das Kloster", "das Denkmal"], "a": 0, "why": "Savunma amaçlı kale die Burg’dur; saray tarzı olanı ise das Schloss."},
+    "outro": "Bir dahaki sefere bir şato fotoğrafı gördüğünüzde yüksek sesle karar verin: Das ist eine Burg! mu, Das ist ein Schloss! mu? 🏰"
   }
 }

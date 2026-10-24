@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "空港でアナウンスが聞こえます。「Der Flug nach Seoul hat 40 Minuten ___.」空欄に入る言葉は？", "o": ["Abflug", "Gepäck", "Verspätung"], "a": 2, "why": "Verspätung haben は「遅れている」という意味で、飛行機が40分遅れるということです。"},
     "outro": "次の旅行を想像しながら「Wo ist die Sicherheitskontrolle?」と声に出してみましょう。長い単語も3回言えば口になじみます！🛫"
+  },
+  "tr": {
+    "title": "Kaybolmayın: Havalimanında lazım olacak 10 Almanca kelime",
+    "hook": "Hoparlörden ‘Verspätung’ duyduysanız, bir kahve daha içecek vaktiniz var demektir.",
+    "intro": [
+      "Frankfurt’a iniyorsunuz: bütün tabelalar Almanca, anonslar da çok hızlı. Bavullarınızı nereden alacaksınız? Aktarma uçuşunuz zamanında mı? İnsan kolayca kaybolmuş hissedebiliyor.",
+      "Bugünün on kelimesi, Almanya’da hangi havalimanına giderseniz gidin karşınıza çıkacak kelimeler. Bunlarla tabelaları okuyabilir, güvenlikten geçebilir ve uçuşunuz rötar yaptığında anlayabilirsiniz. ✈️"
+    ],
+    "words": {
+      "A1-143": {"pron": "FLUK-ha-fın", "tip": "Flug (uçuş) + Hafen (liman) = uçakların limanı ✈️ Havalimanı kelimesinin birebir aynısı!", "bonus": "Wie komme ich zum Flughafen? = Havalimanına nasıl giderim?", "warn": "Çoğulunda umlaut var: die Flughäfen"},
+      "A1-142": {"pron": "FLUK-tsoyk", "tip": "Flug (uçuş) + Zeug (şey) = uçan şey 🛩️ Sonu das Zeug olduğu için das."},
+      "A2-226": {"pron": "FLUK", "tip": "fliegen (uçmak) fiilinden; İngilizce flight’a çok yakın 🛫", "bonus": "İyi uçuşlar = Guten Flug!"},
+      "A1-476": {"pron": "AP-fluk", "tip": "ab (uzağa) + Flug = uçup gitmek 🛫 Gidiş için Abflug tabelalarını takip edin.", "bonus": "Tersi: die Ankunft = varış"},
+      "A2-321": {"pron": "LAN-dın", "tip": "das Land’a, yani yere inmek 🛬 Tıpkı İngilizce land gibi.", "warn": "Geçmiş zamanı sein ile kurulur: Wir sind gelandet."},
+      "A2-011": {"pron": "ge-PEK", "tip": "Ge- (hepsi bir arada) + pack (paket) = topladığınız her şey 🧳", "warn": "Çoğulu yok! Tek bir bavul ein Gepäckstück’tür."},
+      "B2-2651": {"pron": "HANT-ge-pek", "tip": "Hand (el) + Gepäck (bagaj) = elde taşınan bagaj 👜 Türkçesiyle birebir!", "bonus": "Teslim edilen bagaj das Aufgabegepäck’tir."},
+      "B2-2648": {"pron": "BORT-kar-tı", "tip": "an Bord (gemide/uçakta) + Karte (kart) = biniş kartı 🎫 Sonu die Karte, yani die.", "bonus": "uçağa binmek = an Bord gehen"},
+      "B2-2649": {"pron": "Zİ-hır-hayts-kon-tro-lı", "tip": "Sicherheit (güvenlik) + Kontrolle (kontrol) 🔍 Uzun ama bölünce çok kolay.", "bonus": "Çoğu kişi kısaca die Kontrolle der."},
+      "A2-008": {"pron": "fer-ŞPE-tunk", "tip": "İçinde spät (geç) saklı 🐢 -ung da die demek.", "bonus": "Zamanında = pünktlich", "warn": "haben ile kullanılır: Der Flug hat eine Stunde Verspätung."}
+    },
+    "culture": [
+      "Almanya’daki büyük havalimanlarının çoğunun kendi tren istasyonu vardır; bu yüzden pek çok kişi oraya taksiyle değil S-Bahn ya da trenle gider. Bağlantılar havalimanına göre değişir, yola çıkmadan kontrol etmekte fayda var.",
+      "Anonslar ve tabelalar genelde Almanca ve İngilizcedir. Ama çoğu zaman önce Almancası gelir; Verspätung ve Abflug gibi kelimeleri biliyorsanız herkesten önce harekete geçebilirsiniz.",
+      "Almanlar havalimanına genellikle erkenden gider. Özellikle tatil döneminde güvenlik kuyrukları uzun olabilir, kendinize bol zaman bırakın. 🧳"
+    ],
+    "quiz": {"q": "Bir anons duyuyorsunuz: ‘Der Flug nach Seoul hat 40 Minuten ___.’ Boşluğa hangi kelime gelir?", "o": ["Abflug", "Gepäck", "Verspätung"], "a": 2, "why": "Verspätung haben, rötarlı olmak demektir: uçuş 40 dakika gecikiyor."},
+    "outro": "Bir sonraki seyahatinizi hayal edin ve ‘Wo ist die Sicherheitskontrolle?’ cümlesini yüksek sesle söyleyin. Uzun bir kelimeyi üç kez söyleyin, aklınızda kalır! 🛫"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "役所の人が書類のいちばん下の空欄を指して言います。「Hier fehlt noch Ihre …」空欄に入るのは？", "o": ["Anmeldung", "Gebühr", "Unterschrift"], "a": 2, "why": "書類のいちばん下に足りないのはサイン（Unterschrift）です。unter（下）+ Schrift（文字）！"},
     "outro": "今日は Ich möchte mich anmelden. を声に出して3回言ってみましょう。窓口での第一声がすっと出てきますよ。🏛️"
+  },
+  "tr": {
+    "title": "Anmeldung hayatta kalma kiti: Alman resmi dairelerinde lazım olacak 10 kelime",
+    "hook": "Almanya’da hayat bavulları açınca değil, belediyedeki randevuyla başlar.",
+    "intro": [
+      "Yeni evinizin anahtarlarını daha yeni almışsınız ki bir arkadaşınız soruyor: ‘Anmeldung’unu yaptın mı?’ Banka hesabı, internet sözleşmesi, vergi numarası… Hepsi bu adres kaydını istiyor gibi; randevu sitesi de baştan sona Almanca.",
+      "Bugünün on kelimesi dairede duyacağınız kelimeler: randevu almak, evraklarınızı getirmek, imza atmak ve ikamet belgenizi almak. Bunlarla gişede soğukkanlılığınızı korursunuz. 🏛️"
+    ],
+    "words": {
+      "A1-410": {"pron": "AN-mel-dunk", "tip": "an (-e) + melden (bildirmek) + -ung = „Artık burada oturuyorum!“ diye bildirmek 📮", "bonus": "Doktordaki kayıt masasına da Anmeldung denir: Bitte melden Sie sich an der Anmeldung."},
+      "BL-02-03": {"pron": "zih AN-mel-dın", "tip": "Kendinizi (sich) daireye bildiriyorsunuz 🙋", "warn": "Ayrılabilen ve dönüşlü: Ich melde mich an. · Ich habe mich angemeldet."},
+      "B2-2480": {"pron": "BÜR-gır-amt", "tip": "Bürger (vatandaş) + Amt (daire) = vatandaşlık dairesi 🏢", "bonus": "Adı şehre göre değişir: Bürgerbüro, Einwohnermeldeamt ve diğerleri."},
+      "BL-02-02": {"pron": "ter-MİN", "tip": "Türkçedeki „termin“ (teslim tarihi) gibi, zamanda sabit bir nokta 📅 Almanya’da hayat Termin’lerle döner!", "warn": "Yanıltıcı olabilir: Almancada en çok „randevu“ anlamında kullanılır."},
+      "BL-02-04": {"pron": "for-mu-LAR", "tip": "Türkçedeki form ve formül ile aynı kökten 📝 Belli bir kalıbı olan kâğıt.", "bonus": "çevrimiçi form = das Online-Formular"},
+      "BL-02-05": {"pron": "AUS-fü-lın", "tip": "aus (tamamen) + füllen (doldurmak) = son kutucuğa kadar doldurmak ✍️", "warn": "Ayrılabilen fiil: Ich fülle das Formular aus."},
+      "BL-02-08": {"pron": "UN-tır-şrift", "tip": "unter (alt) + Schrift (yazı) = en alttaki yazı 🖊️", "bonus": "imzalamak = unterschreiben: Bitte unterschreiben Sie hier."},
+      "BL-02-07": {"pron": "UN-tır-la-gın", "tip": "unter (alt) + legen (koymak) = her şeyin altında duran kâğıtlar 📂", "warn": "Neredeyse her zaman çoğul: die Unterlagen."},
+      "BL-02-09": {"pron": "ge-BÜR", "tip": "gebühren, yani „hak edilmek, ödenmesi gerekmek“ fiilinden 💶 Ödenmesi gereken para = Gebühr.", "bonus": "ücretsiz = gebührenfrei / kostenlos"},
+      "B2-2482": {"pron": "MEL-dı-be-şay-ni-gunk", "tip": "melden (bildirmek) + Bescheinigung (belge) = kaydınızı yaptırdığınızın kanıtı 📄 Uzun ama Lego gibi birleşiyor."}
+    },
+    "culture": [
+      "Almanya’da taşındığınızda yeni adresinizi genellikle iki hafta içinde kaydettirmeniz gerekir. Bunun için ev sahibinizden bir onay belgesi (Wohnungsgeberbestätigung) lazım; erkenden isteyin.",
+      "Büyük şehirlerde resmi dairelerden randevu almak zor olabilir; taşınma tarihinizi öğrenir öğrenmez internetten Termin aramakta fayda var. Adres kaydı genelde ücretsizdir ama yeni kimlik kartı gibi başka işlemlerin bir Gebühr’ü vardır.",
+      "Meldebescheinigung’unuzu güvenli bir yerde saklayın. Bankalar, yabancılar daireleri ve telefon şirketleri bunu sandığınızdan çok daha sık ister. 📄"
+    ],
+    "quiz": {"q": "Memur formunuzun en altındaki boş kutuyu gösteriyor: ‘Hier fehlt noch Ihre …’ Eksik olan ne?", "o": ["Anmeldung", "Gebühr", "Unterschrift"], "a": 2, "why": "Formun en altına imzanız gelir: unter (alt) + Schrift (yazı)."},
+    "outro": "Bugün Ich möchte mich anmelden. cümlesini üç kez yüksek sesle söyleyin. Gişedeki ilk cümleniz kendiliğinden dökülecek. 🏛️"
   }
 }

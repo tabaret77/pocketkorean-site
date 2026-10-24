@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "横断歩道で友だちが「もう渡っていいよ！」と言いました。信号はどうなっていますか？", "o": ["Die Ampel ist rot.", "Die Ampel ist gelb.", "Die Ampel ist grün."], "a": 2, "why": "grün は緑で、日本語の「青信号」にあたります。このときに渡ります。"},
     "outro": "今日は身の回りの物を5つ選んで、「Das ist rot!」のように色をドイツ語で言ってみましょう。散歩しながらでも楽しいですよ！🌈"
+  },
+  "tr": {
+    "title": "Şehri boyayın: Renkler ve şekillerle ilgili 10 Almanca kelime",
+    "hook": "Renk kelimelerini öğrendiğiniz anda Alman sokakları birden çok daha net görünür.",
+    "intro": [
+      "Herhangi bir Alman sokağında yürüyün: sarı posta kutuları, trafik ışığında küçük yeşil bir adam ve her evin önünde sıra sıra renkli çöp kutuları görürsünüz. Peki bir arkadaşınız ‘maviye at’ dediğinde, blau mu demişti gelb mi?",
+      "Bugünün on kelimesi temel renkler ve şekiller. Bunlarla eşyaları tarif edebilir, giyim mağazasında başka bir renk isteyebilir ve çöplerinizi hiç düşünmeden ayırabilirsiniz. 🎨"
+    ],
+    "words": {
+      "A1-648": {"pron": "FAR-bı", "tip": "Rengin sayfa boyunca uzaklara (far) yayıldığını düşünün: Farbe 🎨", "bonus": "Duvar boyası da Farbe’dir · rengârenk = bunt"},
+      "A1-369": {"pron": "ROT", "tip": "Kırmızı şarap Rotwein’dır; kadehi düşünerek hatırlayın 🍷", "bonus": "rot werden = kızarmak (utançtan)"},
+      "A1-370": {"pron": "BLAU", "tip": "Aslında İngilizce blue, Almanca „au“ ile söylenmiş 💙", "bonus": "Konuşma dilinde: blau sein = sarhoş olmak, „kafası iyi olmak“"},
+      "A1-372": {"pron": "GELP", "tip": "İngilizce yellow ile gelb akrabadır; Alman posta kutuları da gelb 📯", "bonus": "hell- (açık) ya da dunkel- (koyu) ekleyin: hellgelb, dunkelblau"},
+      "A1-371": {"pron": "GRÜN", "tip": "İngilizce green’in üstüne serpilmiş bir umlaut 🌿", "bonus": "noch grün hinter den Ohren sein = ağzı süt kokmak"},
+      "A1-373": {"pron": "ŞVARTS", "tip": "Kaffee schwarz = sütsüz, sade kahve ☕", "bonus": "schwarzfahren = biletsiz yolculuk yapmak, kaçak binmek"},
+      "A1-374": {"pron": "VAYS", "tip": "Karlı bir kış bembeyaz, yani tamamen weiß ❄️", "bonus": "beyaz şarap = der Weißwein", "warn": "ich weiß (biliyorum) ile aynı yazılır!"},
+      "B1-691": {"pron": "FORM", "tip": "Türkçedeki form gibi 🔷 Şekil, biçim ya da kondisyon: hepsi Form.", "bonus": "in Form sein = formda olmak"},
+      "B1-886": {"pron": "KRAYS", "tip": "„KRAYS“ derken havada bir daire çizin ⭕", "bonus": "der Freundeskreis = arkadaş çevresi · kırsaldaki bir ilçe de Kreis’tir."},
+      "A2-561": {"pron": "RUNT", "tip": "İngilizce round ile aynı kökten 🟠 Yuvarlacık, tam rund!", "bonus": "rund um die Uhr = gece gündüz, 24 saat · „yaklaşık“ anlamında da: rund 100 Leute"}
+    },
+    "culture": [
+      "Almanya’da çöp atarken renkler gerçekten önemlidir. Yerden yere biraz değişir ama genellikle sarı kutu ya da sarı torba (Gelber Sack) ambalajlar, mavi kâğıt, kahverengi yemek artıkları, siyah ya da gri ise geri kalan her şey içindir.",
+      "Alman postaneleri ve posta kutuları sarıdır; bu yüzden uzaktan kolayca fark edilir. Sık sık dolaşan sarı posta arabaları da görürsünüz.",
+      "Berlin’de ve eski Doğu’daki diğer şehirlerde şapkalı küçük trafik ışığı adamına (Ampelmännchen) dikkat edin. Popüler bir hediyelik eşya da olmuştur. 🚦"
+    ],
+    "quiz": {"q": "Yaya geçidinde arkadaşınız ‘Artık geçebiliriz!’ diyor. Işık ne gösteriyor?", "o": ["Die Ampel ist rot.", "Die Ampel ist gelb.", "Die Ampel ist grün."], "a": 2, "why": "grün yeşil demektir; karşıya geçebileceğiniz an."},
+    "outro": "Bugün çevrenizden beş şey seçin ve renklerini Almanca söyleyin, örneğin ‘Das ist rot!’. Yürüyüşte de çok eğlenceli! 🌈"
   }
 }

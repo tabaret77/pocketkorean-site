@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "同僚が持っている資料が必要です。何と頼みますか？", "o": ["Kannst du die Datei herunterladen?", "Kannst du auf den Bildschirm klicken?", "Kannst du mir die Datei schicken?"], "a": 2, "why": "mir … schicken は「私に送る」なので、ファイルを送ってほしいというお願いです。"},
     "outro": "今日パソコンをつけたら、見えるものの名前を言ってみましょう。der Bildschirm、die Tastatur、die Maus！そして忘れずに speichern！💾"
+  },
+  "tr": {
+    "title": "Tıkla, kaydet, indir: Alman ofisi için 10 bilgisayar kelimesi",
+    "hook": "Bir Alman dizüstü bilgisayarını ilk kez açtığınızda Z ile Y’nin yer değiştirdiğini göreceksiniz.",
+    "intro": [
+      "Bir Alman şirketinde ilk gününüz. Bilgi işlemden biri size bir dizüstü bilgisayar uzatıp diyor ki: ‘Programm installieren, Datei speichern, dann…’ Yarısını yakalayarak başınızı sallıyorsunuz, sonra şifrenizi yazmaya çalışıyorsunuz ve Y’nin yerinde Z’yi buluyorsunuz!",
+      "Bugünün on kelimesi bilgisayar başına her geçtiğinizde karşınıza çıkanlar. Ekran, klavye ve fare, ardından tıklamak, kaydetmek, indirmek ve yüklemek: bunlarla Almanca ayar menüleri de iş arkadaşlarınızın ricaları da sizi korkutmaz. 💻"
+    ],
+    "words": {
+      "A1-167": {"pron": "kom-PYU-tır", "tip": "Doğrudan İngilizceden 🖥️ Sadece der olduğunu unutmayın.", "warn": "Çoğulu da die Computer’dır, -s almaz."},
+      "A2-503": {"pron": "LEP-top", "tip": "Kucakta (lap) taşınan bilgisayar 💻 İngilizcedeki kelimenin aynısı.", "bonus": "Hem der Laptop hem das Laptop kullanılır."},
+      "B1-523": {"pron": "BİLT-şirm", "tip": "Bild (resim) + Schirm (perde, siper) = resim perdesi 📺 Şemsiye de Regenschirm’dir!", "bonus": "vor dem Bildschirm sitzen = ekran başında oturmak"},
+      "B1-1233": {"pron": "tas-ta-TUR", "tip": "Bir sürü Taste (tuş) bir araya gelince Tastatur olur ⌨️ Tek bir tuş die Taste’dir.", "warn": "Alman klavyeleri QWERTZ’dir: Y ile Z yer değiştirmiştir."},
+      "B1-1976": {"pron": "MAUS", "tip": "İngilizce mouse ile aynı kelime 🐭 Hem hayvan hem cihaz için.", "warn": "Çoğulda ünlü değişir: die Mäuse"},
+      "B1-853": {"pron": "KLİ-kın", "tip": "Tık sesi fiil olmuş; tıpkı bizdeki „tıklamak“ gibi 🖱️ Klicken Sie hier!", "bonus": "Çift tıklama der Doppelklick’tir."},
+      "A2-443": {"pron": "da-TAY", "tip": "Daten (veri) + Kartei (kartoteks) karışımı 📁 İçi veri dolu tek bir dosya.", "warn": "die Daten (veriler) ile karıştırmayın. Tek bir bilgisayar dosyası die Datei’dir."},
+      "A2-338": {"pron": "ŞPAY-hırn", "tip": "der Speicher aslında bir tahıl ambarıydı 🌾 Kaydetmek, verilerinizi ambara koymaktır.", "bonus": "Tersi, silmek: löschen"},
+      "A2-315": {"pron": "he-RUN-tır-la-dın", "tip": "herunter (aşağı) + laden (yüklemek) = download’ın parça parça çevirisi ⬇️ Türkçedeki „indirmek“ ile aynı mantık.", "warn": "Ayrılabilen fiil: Ich lade die App herunter. Konuşmada çoğu zaman runterladen."},
+      "B1-807": {"pron": "in-sta-Lİ-rın", "tip": "İngilizce install + -ieren ⚙️ -ieren ile biten fiiller geçmiş zamanda ge- almaz.", "bonus": "Geçmiş zaman: hat installiert"}
+    },
+    "culture": [
+      "Alman klavyeleri QWERTZ düzenini kullanır. Y ile Z yer değiştirmiştir ve ä, ö, ü ile ß için ayrı tuşlar vardır. Başta bol bol yazım hatası yaparsınız ama alıştıktan sonra Almanca yazmak çok kolaylaşır.",
+      "Bilgisayar terimlerinin pek çoğu doğrudan İngilizcedir. Bazıları herunterladen yerine downloaden der; bu kişiye ve iş yerine göre değişir. Yine de ayar menüleri ve resmi talimatlar çoğu zaman Almanca kelimeleri kullanır, bu yüzden ikisini de bilmek işe yarar.",
+      "Almanya’da pek çok kişi Datenschutz’u (veri koruma ve mahremiyet) da ciddiye alır. Birinin fotoğrafını internette paylaşmadan önce sormak nezaket gereğidir. 🔒"
+    ],
+    "quiz": {"q": "İş arkadaşınızdaki bir belgeye ihtiyacınız var. Ne sorarsınız?", "o": ["Kannst du die Datei herunterladen?", "Kannst du auf den Bildschirm klicken?", "Kannst du mir die Datei schicken?"], "a": 2, "why": "mir … schicken bana göndermek demektir; yani dosyayı size göndermesini istiyorsunuz."},
+    "outro": "Bugün bilgisayarınızı açtığınızda gördüklerinizin adını söyleyin: der Bildschirm, die Tastatur, die Maus. speichern’ı da unutmayın! 💾"
   }
 }

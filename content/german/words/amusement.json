@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "チケット売り場に人がたくさん。友だちに「列が長いね！」と言うには？", "o": ["Der Eintritt ist frei.", "Die Schlange ist so lang!", "Der Vogel sitzt im Käfig."], "a": 1, "why": "Die Schlange ist so lang! =「列がすごく長い！」行列はヘビのように長いので Schlange です。"},
     "outro": "次に列に並んだら、心の中で「Ich stehe Schlange.」と言ってみましょう。待ち時間も勉強になります！🐍"
+  },
+  "tr": {
+    "title": "Hayvanat bahçesinde bir gün: Gezmeye çıkınca lazım olacak 10 Almanca kelime",
+    "hook": "Almanya’da bir gezinin yarısı kuyrukta geçer; o yüzden „kuyruk“ kelimesini bilseniz iyi olur.",
+    "intro": [
+      "Güneşli bir pazar günü, arkadaşlarımız ve çocuklarıyla hayvanat bahçesine gidiyoruz. Bilet gişesinde şimdiden uzun bir kuyruk var, kapıda da bir tabela: „Bitte nicht füttern!“ Maymunların önünde küçük olan bağırıyor: „Das ist so aufregend!“",
+      "Bugünün on kelimesi hayvanat bahçeleri, akvaryumlar, eğlence parkları ve lunaparklar için. Bilet almak, kuyruğa girmek, tabelaları okumak: hepsi bu kelimelerle hallolur. 🎢"
+    ],
+    "words": {
+      "A2-639": {"pron": "TSO", "tip": "Zoologischer Garten’ın kısaltması 🦁 Almancada Z „ts“ okunur; yani „zo“ değil „tso“.", "bonus": "hayvanat bahçesine gitmek = in den Zoo gehen"},
+      "B1-1252": {"pron": "TİR-park", "tip": "Tier (hayvan) + Park = hayvan parkı 🦌 Adı üstünde.", "bonus": "Küçük bir yaban hayatı parkına çoğu zaman der Wildpark denir."},
+      "B1-2194": {"pron": "YAR-markt", "tip": "Jahr (yıl) + Markt (pazar) = yılda bir kurulan pazar 🎡 Bugün atlı karınca ve pamuk şeker demek.", "bonus": "Bölgeye göre die Kirmes ya da der Rummel de denir."},
+      "A2-033": {"pron": "AYN-trits-kar-tı", "tip": "Eintritt (giriş) + s + Karte (bilet) 🎟️ Ortadaki s, iki kelimeyi yapıştıran tutkal.", "bonus": "İki yetişkin lütfen: Zwei Eintrittskarten für Erwachsene, bitte."},
+      "B1-219": {"pron": "AYN-trit", "tip": "ein (içeri) + treten (adım atmak) = içeri adım atmak 🚪", "bonus": "Eintritt frei = giriş ücretsiz · çıkış ise der Ausgang"},
+      "BL-03-08": {"pron": "ŞLAN-gı", "tip": "Uzun, kıvrım kıvrım bir kuyruk tıpkı bir yılana benzer 🐍", "bonus": "kuyrukta beklemek = Schlange stehen"},
+      "A2-412": {"pron": "AUF-rey-gınt", "tip": "Kalbiniz yukarı çıkıyor (auf) ve hareketleniyor (regen); tıpkı hız trenindeki gibi 🎢", "warn": "aufregend = heyecan verici (bir şey); aufgeregt = heyecanlı ya da gergin (bir kişi)."},
+      "B1-2339": {"pron": "KE-fih", "tip": "Latince cavea’dan, İngilizce cage gibi 🦜 Sondaki -ig „ih“ diye okunur."},
+      "B1-2193": {"pron": "a-KVA-ri-um", "tip": "İçinde aqua (su) var 🐠 Evdeki balık fanusu da olur, büyük akvaryum da. Türkçesiyle neredeyse aynı!", "warn": "Çoğulu die Aquarien’dir."},
+      "B1-705": {"pron": "FÜ-tırn", "tip": "Futter (yem) veriyorsanız füttern yapıyorsunuz 🥕 İngilizce food ve fodder ile akraba.", "bonus": "Hayvanat bahçesinde göreceğiniz tabela: Bitte nicht füttern!"}
+    },
+    "culture": [
+      "Almanya’da irili ufaklı çok sayıda hayvanat bahçesi vardır. Bazılarının adı Zoo, bazılarınınki Tierpark ya da Wildpark. Berlin’de hem bir Zoo hem de bir Tierpark bulunur; bu da pek çok ziyaretçinin kafasını karıştırır.",
+      "İlkbahardan sonbahara kadar şehirler kendi Jahrmarkt’ını kurar: dönme dolap, atlı karınca ve şekerli badem (gebrannte Mandeln) kokusu. Bu Volksfest’lerin en ünlüsü Münih’teki Oktoberfest’tir.",
+      "Hayvanat bahçesinde „Bitte nicht füttern!“ tabelalarını ciddiye alın. İnsanlar bu tür kurallarda katıdır; keçilere gizlice bir şey verirseniz biri sizi uyarabilir. 🐒"
+    ],
+    "quiz": {"q": "Bilet gişesinde büyük bir kalabalık var. Arkadaşınıza ‘Kuyruk ne kadar uzun!’ demek için ne dersiniz?", "o": ["Der Eintritt ist frei.", "Die Schlange ist so lang!", "Der Vogel sitzt im Käfig."], "a": 1, "why": "Die Schlange ist so lang! = Kuyruk ne kadar uzun! Kuyruğa uzun bir yılan gibi Schlange denir."},
+    "outro": "Bir dahaki sefere sırada beklerken kendi kendinize sessizce söyleyin: Ich stehe Schlange. Kuyrukta beklemek bile pratik olabilir! 🐍"
   }
 }

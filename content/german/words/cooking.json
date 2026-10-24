@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちが目玉焼きを作ろうとしています。「フライパン取って！」は何と言いますか？", "o": ["Das Wasser kocht im Topf.", "Ich backe einen Kuchen.", "Gib mir mal die Pfanne!"], "a": 2, "why": "Gib mir mal die Pfanne! =「フライパン取って！」卵は Pfanne で braten します。"},
     "outro": "今夜料理をしながら、手に取った道具をドイツ語で言ってみましょう。der Topf, die Pfanne, das Messer! 🍳"
+  },
+  "tr": {
+    "title": "Tencere, tava ve tarifler: Mutfakta lazım olacak 10 Almanca kelime",
+    "hook": "Alman bir arkadaşınız birlikte yemek yapmayı önerirse, gitmeden önce bu kelimeleri yanınıza alın.",
+    "intro": [
+      "Bir arkadaşım beni davet ediyor: “Wir kochen zusammen!” Mutfağa girer girmez “Gib mir mal die Pfanne!” ve “Ist der Backofen schon an?” diye sesler geliyor; elim de tencereyle tava arasında çaresizce havada kalıyor.",
+      "Bugünün on kelimesi mutfakta en çok kullanacağınız kelimeler. Bunlarla Almanca bir tarifi okuyabilir ve arkadaşlarınızla yemek yaparken gerçekten yardım edebilirsiniz. 🍳"
+    ],
+    "words": {
+      "A1-175": {"pron": "KO-hın", "tip": "İngilizce cook ile aynı kökten 🍲 Hem yemek pişirir hem su kaynatır.", "bonus": "su kaynatmak = Wasser kochen · aşçı = der Koch"},
+      "A1-004": {"pron": "KÜ-hı", "tip": "İngilizce kitchen ile kuzen 🏠 ü’nün üstündeki iki nokta, ocağın iki gözü.", "warn": "Küche (mutfak) ile Kuchen’i (pasta) karıştırmayın."},
+      "A2-018": {"pron": "re-TSEPT", "tip": "Türkçedeki reçete ile aynı kökten 📖 Tıpkı Türkçedeki gibi doktorun yazdığı reçete de demek.", "warn": "Alışveriş fişi değil! O die Quittung ya da der Kassenbon’dur."},
+      "B1-1452": {"pron": "TSU-tat", "tip": "zu (ek olarak) + tun (koymak) = içine eklediğiniz şeyler 🥕", "warn": "Tariflerde genelde çoğulunu görürsünüz: die Zutaten."},
+      "A2-249": {"pron": "ME-sır", "tip": "Aslında „yemek bıçağı“ demekmiş 🔪 Messer ile ortalığı mess (dağınık) yapmayın!", "bonus": "Bıçak keskin = Das Messer ist scharf."},
+      "A2-433": {"pron": "BRA-tın", "tip": "Tavada cızırdayan bir bratwurst düşünün 🥓", "bonus": "İsmi der Braten = rosto", "warn": "Ünlü değişir: du brätst, er brät."},
+      "A2-304": {"pron": "BA-kın", "tip": "İngilizce bake’in ikizi 🥖 Fırın die Bäckerei, fırıncı der Bäcker."},
+      "A2-600": {"pron": "TOPF", "tip": "Kaynayan bir tencerede kapağın „topf“ diye zıplaması gibi 🫕", "warn": "Çoğulu umlautlu: die Töpfe"},
+      "B1-1024": {"pron": "PFA-nı", "tip": "İngilizce pan, fazladan bir P ve -e ile 🍳 -e ile bittiği için die.", "bonus": "sahanda yumurta = das Spiegelei (kelimesi kelimesine „ayna yumurta“)"},
+      "A2-794": {"pron": "BAK-o-fın", "tip": "backen (fırında pişirmek) + Ofen (fırın, soba) = pişirme fırını 🔥", "bonus": "Çoğu kişi kısaca der Ofen der."}
+    },
+    "culture": [
+      "Alman tarifleri EL ve TL ile doludur: Esslöffel (yemek kaşığı) ve Teelöffel (çay kaşığı). Malzemeler bardakla ölçülmek yerine genellikle gramla tartılır.",
+      "Fırın sıcaklığının yanında sık sık Ober-/Unterhitze (alt-üst ısıtma) ya da Umluft (fanlı) görürsünüz. Umluft’ta sıcaklığı genelde biraz daha düşük ayarlarsınız; dikkatle okuyun.",
+      "Pek çok Alman evi Abendbrot geleneğini de sürdürür: ekmek, peynir ve soğuk et ürünlerinden oluşan sade bir akşam yemeği. Bu evlerde sıcak yemek çoğu zaman öğlen yenir. 🥨"
+    ],
+    "quiz": {"q": "Arkadaşınız yumurta kızartmak istiyor. „Tavayı uzatır mısın!“ nasıl denir?", "o": ["Das Wasser kocht im Topf.", "Ich backe einen Kuchen.", "Gib mir mal die Pfanne!"], "a": 2, "why": "Gib mir mal die Pfanne! = Tavayı uzatır mısın! Yumurtayı Pfanne’de braten yaparsınız."},
+    "outro": "Bu akşam yemek yaparken elinize aldığınız her şeyin adını Almanca söyleyin: der Topf, die Pfanne, das Messer! 🍳"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちが道で50ユーロ拾ったそうです。どう反応しますか？", "o": ["Du hast einen Vogel!", "Da hast du aber Schwein gehabt!", "Da liegt der Hund begraben."], "a": 1, "why": "Schwein haben = 運がいい。「本当にラッキーだったね！」という意味です。"},
     "outro": "今日ひとつでもラッキーなことがあったら、「Ich habe Schwein gehabt!」と言ってみましょう。動物の慣用句ひとつで、ドイツ語が生き生きしてきます！🍀"
+  },
+  "tr": {
+    "title": "Şanslı domuzlar, kafadaki kuşlar: Hayvanlı 10 Almanca deyim",
+    "hook": "Almancada şanslı biri „domuza sahip olur“, biraz kaçık biri de „kafasında kuş taşır“.",
+    "intro": [
+      "Alman bir arkadaşınıza sokakta elli avro bulduğunuzu anlatıyorsunuz, o da diyor ki: ‘Da hast du aber Schwein gehabt!’ Domuz mu? Ne domuzu? Meğer „Vay, ne şanslıymışsın!“ demekmiş.",
+      "Bugünün on deyimi, Almanların gündelik hayatta gerçekten kullandığı deyimler. Kediler, sinekler, sivrisinekler, tavşanlar… Hayvanları gözünüzün önüne getirin, anlamlar aklınızda kalsın. Bunları kullanınca Almancanız bir anda renklenir! 🐷"
+    ],
+    "words": {
+      "C2-384": {"pron": "ŞVAYN HA-bın", "tip": "Almanya’da domuz şans demek 🐷 Bir rivayete göre eski yarışmalarda sonuncuya teselli ödülü olarak domuz verilirmiş.", "warn": "Artikel yok: ein Schwein haben değil, Schwein haben."},
+      "C2-410": {"pron": "di KAT-sı aus dem ZAK LA-sın", "tip": "Kediyi çuvaldan çıkarmak = sırrı ağzından kaçırmak 🐱 Bizim „baklayı ağzından çıkarmak“ gibi.", "bonus": "Benzeri: ein Geheimnis verraten = bir sırrı ele vermek"},
+      "C2-145": {"pron": "di KAT-sı im ZAK KAU-fın", "tip": "Tavşan aldığınızı sandınız ama çuvaldan kedi çıktı 🐈 Yani malı görmeden almak.", "warn": "aus dem Sack lassen (sır açığa vurmak) ile karıştırmayın!"},
+      "C2-537": {"pron": "tsvay FLİ-gın mit AY-nır KLA-pı ŞLA-gın", "tip": "Tek sineklikle iki sinek 🪰 Türkçede bir taşla iki kuş vurulur.", "bonus": "Sinekliğe bugün daha çok die Fliegenklatsche denir."},
+      "C2-529": {"pron": "aus AY-nır MÜ-kı AY-nın e-le-FAN-tın MA-hın", "tip": "Sivrisinekten fil yapmak 🐘 Bizde pire deve olur!", "bonus": "Genelde emir olarak kullanılır: Mach aus einer Mücke keinen Elefanten!"},
+      "C2-535": {"pron": "das ŞVAR-tsı ŞAF", "tip": "Türkçedeki gibi: kara koyun 🐑", "bonus": "Genelde „ailenin“ diye eklenir: das schwarze Schaf der Familie"},
+      "C2-539": {"pron": "ayn AL-tır HA-zı zayn", "tip": "Bütün avcılardan kaçmayı başarmış yaşlı bir tavşan 🐇 = bizim „eski kurt“.", "bonus": "Tersi: der Neuling = acemi, yeni gelen"},
+      "C2-754": {"pron": "vi HUNT unt KAT-sı", "tip": "Türkçede „kedi köpek gibi“ deriz; Almanca köpeği öne koyar 🐶", "warn": "Almanca sırayı koruyun: wie Katze und Hund değil, wie Hund und Katze."},
+      "C2-1783": {"pron": "AY-nın FO-gıl HA-bın", "tip": "Kafanızda bir kuş yaşıyor = bir tahtanız eksik 🐦 Du hast doch einen Vogel!", "warn": "Kaba bir ifade. Buna eşlik eden hareket, yani başka bir sürücüye parmakla alnınıza vurmak, hakaret sayılıp para cezasına bile yol açabilir."},
+      "C2-542": {"pron": "da likt der HUNT be-GRA-bın", "tip": "„Köpek orada gömülü“ = asıl mesele bu 🐕 Bizim „işte bütün mesele bu“.", "bonus": "Benzeri: der Knackpunkt = can alıcı nokta"}
+    },
+    "culture": [
+      "Almanya’da domuz şansın sembolüdür. Yılbaşında insanlar baca temizleyicisi, dört yapraklı yonca ve kırmızı-beyaz benekli mantar gibi diğer uğurlu şeylerin (Glücksbringer) yanında sık sık küçük marzipan domuzlar (Glücksschwein) hediye eder.",
+      "Aynı fikir her dilde çoğu zaman başka bir hayvanla anlatılır. Türkçede kedi köpek gibiyiz; Almanca wie Hund und Katze der. Türkçede taşla kuş vurulur; Almancada sinek ezilir. Karşılaştırınca akılda tutmak çok daha kolay.",
+      "einen Vogel haben deyiminin bir de hareketi var: parmakla alnınıza vurmak. Gerçekten hakaret sayılır ve bunu başka bir sürücüye yaparsanız başınız derde girebilir. Bilin ama kullanmayın! 🐦"
+    ],
+    "quiz": {"q": "Arkadaşınız sokakta elli avro buldu. Nasıl tepki verirsiniz?", "o": ["Du hast einen Vogel!", "Da hast du aber Schwein gehabt!", "Da liegt der Hund begraben."], "a": 1, "why": "Schwein haben = şanslı olmak; yani bu cümle „Gerçekten şanslıymışsın!“ demek."},
+    "outro": "Bugün başınıza şanslı bir şey gelirse yüksek sesle ‘Ich habe Schwein gehabt!’ deyin. Tek bir hayvanlı deyim, Almancanıza can katar! 🍀"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちと大げんかした翌日、自分から仲直りしたいです。何と言いますか？", "o": ["Ich bin total sauer auf dich!", "Das ist dein Problem.", "Es tut mir leid. Kannst du mir verzeihen?"], "a": 2, "why": "verzeihen は「許す」。「ごめんね、許してくれる？」で仲直りを始めます。"},
     "outro": "今日は仲直りのひとことを声に出して練習してみましょう。Es tut mir leid. Schwamm drüber? 使う機会がなければもっといいですね！🕊️"
+  },
+  "tr": {
+    "title": "Küsmek ve barışmak: 10 Almanca kelime",
+    "hook": "Derler ki bir dilde tartışabiliyorsanız, o dili gerçekten iyi konuşmaya başlamışsınızdır.",
+    "intro": [
+      "Bir keresinde Alman bir arkadaşımla akşam yemeğinin saatini karıştırmıştık. ‘Ich bin sauer!’ dedi ve bir an limonlardan bahsettiğini sandım. Kızgın olduğu anlamına geldiğini bilseydim hemen özür dilerdim.",
+      "Bugünün on kelimesi tartışmak, surat asmak ve yeniden barışmak için. Bunlarla nasıl hissettiğinizi söyleyebilir, bir yanlış anlaşılmayı düzeltebilir ve kavgayı güzelce bitirebilirsiniz. 🤝"
+    ],
+    "words": {
+      "B1-072": {"pron": "zih ŞTRAY-tın", "tip": "İngilizce strife (çekişme) ile aynı kökten 😤 Birbiriyle (sich) kavga eden iki kişi.", "bonus": "biriyle = mit + Dativ, bir şey hakkında = über + Akkusativ: Wir streiten uns über Geld."},
+      "B1-029": {"pron": "ŞTRAYT", "tip": "streiten’den -en’i atın, isim elinizde 💥 Kavga gibi kısa ve keskin.", "warn": "Grev der Streik’tır; arada sadece bir harf var!"},
+      "A1-368": {"pron": "ZAU-ır", "tip": "İngilizce sour, yani ekşi 🍋 Keyfiniz ekşiyince kızgınsınızdır; bizdeki „surat ekşitmek“ gibi!", "bonus": "birine kızgın olmak = sauer auf + Akkusativ: Ich bin sauer auf dich."},
+      "A2-064": {"pron": "zih ER-gırn", "tip": "arg (kötü) kelimesinden 😠 İçinizde işlerin kötüye gittiği o his.", "bonus": "Ärger dich nicht! = Kafana takma!"},
+      "B2-974": {"pron": "MİS-fer-ştent-nis", "tip": "miss- (yanlış) + Verständnis (anlayış) = yanlış anlama 🤷 İngilizcedeki mis- gibi.", "bonus": "Ortalığı düzeltmek için: Das war ein Missverständnis!"},
+      "B2-012": {"pron": "FOR-vurf", "tip": "vor (önüne) + werfen (atmak) = suçu birinin yüzüne atmak 🫵", "bonus": "birine sitem etmek = jemandem Vorwürfe machen"},
+      "B1-1620": {"pron": "be-LAY-diht", "tip": "Almancada küskün birine „alınmış ciğer sucuğu“ denir 🌭 die beleidigte Leberwurst!", "bonus": "Warum bist du beleidigt? = Neden küstün?"},
+      "B1-1363": {"pron": "fer-TSAY-ın", "tip": "ver- + zeihen (eskiden: suçlamak) = suçlamayı bırakmak 🕊️", "warn": "Dativ alır: Verzeih mir! (mich değil)"},
+      "B2-1480": {"pron": "zih fer-ZÖ-nın", "tip": "Sohn (oğul) ile alakası yok 😄 Sühne (kefaret) ile bağlantılı; yeniden dost olmak.", "bonus": "Daha gündelik: sich wieder vertragen"},
+      "B2-119": {"pron": "kom-pro-MİS", "tip": "İngilizce compromise ile neredeyse aynı ⚖️ Vurgu sonda: -MİS.", "bonus": "orta yol bulmak = einen Kompromiss finden"}
+    },
+    "culture": [
+      "Almanlar anlaşamadıklarında oldukça doğrudan olabilir. Gündelik sohbetlerde ‘Das sehe ich anders.’ (Ben farklı düşünüyorum) cümlesini duyarsınız. Genelde mesele konudur, siz değilsiniz; üstünüze alınmamaya çalışın.",
+      "Barışırken sık duyacağınız bir ifade ‘Schwamm drüber!’dır; kelimesi kelimesine „üstünden sünger geçsin“, tıpkı bir karatahtayı silmek gibi. Anlamı: unutalım gitsin.",
+      "Komşularla da ilk adım genellikle doğrudan konuşmak ya da kibar bir not bırakmaktır. Konuşmak en hızlı Kompromiss’tir. 🧽"
+    ],
+    "quiz": {"q": "Büyük bir tartışmanın ertesi günü arkadaşınızla barışmak istiyorsunuz. Ne dersiniz?", "o": ["Ich bin total sauer auf dich!", "Das ist dein Problem.", "Es tut mir leid. Kannst du mir verzeihen?"], "a": 2, "why": "verzeihen affetmek demektir; „Özür dilerim, beni affedebilir misin?“ barışmanın başlangıcıdır."},
+    "outro": "Bugün bir barışma cümlesini yüksek sesle prova edin: Es tut mir leid. Schwamm drüber? Hiç ihtiyacınız olmazsa daha da iyi! 🕊️"
   }
 }

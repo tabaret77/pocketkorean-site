@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "カーニバルで「海賊に仮装したよ！」と言うには？", "o": ["Ich habe mich als Pirat verkleidet.", "Ich habe einen Piraten verkleidet.", "Ich bin als Pirat umgezogen."], "a": 0, "why": "sich als … verkleiden = 〜に仮装する。再帰代名詞の mich が必要です。"},
     "outro": "今年のカーニバルで何に仮装するか、ドイツ語で言ってみましょう。Ich verkleide mich als …! 🎉"
+  },
+  "tr": {
+    "title": "Köln’de karnaval: Eğlenceye katılmak için 10 Almanca kelime",
+    "hook": "Şubatta bir perşembe günü iş arkadaşınız işe korsan kılığında geliyor; neler oluyor?",
+    "intro": [
+      "Almanya’daki ilk şubatınız ve Köln sokakları palyaçolar, korsanlar ve bal arılarıyla dolu. Tramvayda yanınızdaki adam aslan kılığında, tanımadığı insanlar birbirine „Alaaf!“ diye bağırıyor. Neler oluyor böyle?",
+      "Bugünün on kelimesi Alman karnavalının tadını gerçekten çıkarmanız için. Bunlarla kostümler hakkında konuşabilir, geçit törenlerini takip edebilir ve yerliler gibi eğlenebilirsiniz. 🎭"
+    ],
+    "words": {
+      "A2-688": {"pron": "KAR-ne-val", "tip": "İtalyanca carne (et) + vale (elveda) = elveda et 🍖 Büyük perhizden önceki son büyük eğlence.", "bonus": "Güney Almanya ve Avusturya’da buna der Fasching denir."},
+      "B1-879": {"pron": "kos-TÜM", "tip": "Türkçedeki kostüm ile aynı kelime 🦸 ü için dudaklarınızı yuvarlayın.", "warn": "Türkçedeki gibi kadın döpiyesi anlamına da gelebilir."},
+      "B2-3749": {"pron": "zih fer-KLAY-dın", "tip": "ver- (değişim) + Kleid (giysi) = kıyafetinizi değiştirip başka biri olmak 🧙", "bonus": "… kılığına girmek = sich als … verkleiden: Ich verkleide mich als Hexe."},
+      "A2-863": {"pron": "MAS-kı", "tip": "Türkçedeki maske ile aynı 🎭 Sondaki e’yi söylemeyi unutmayın.", "bonus": "maske takmak = eine Maske tragen"},
+      "A2-612": {"pron": "UM-tsuk", "tip": "um (etrafında) + Zug (alay, kortej) = şehri dolaşan bir kortej 🎺 Ev taşımak da bir koli korteji, o yüzden o da Umzug!", "warn": "Gündelik hayatta genelde taşınma demektir. Karnaval geçidi der Karnevalsumzug’dur."},
+      "B2-3643": {"pron": "pa-RA-dı", "tip": "İngilizce parade ile aynı 🥁 Vurgu ortadaki hecede.", "bonus": "Futbolda kalecinin kurtarışına da Parade denir."},
+      "B1-2369": {"pron": "KLAUN", "tip": "Doğrudan İngilizce clown’dan 🤡 Okunuşu bile aynı.", "bonus": "Karnaval soytarısına der Narr da denir."},
+      "A1-290": {"pron": "ŞPAS", "tip": "Başta s+p „şp“ diye okunur 🥳 ŞPAS, şıp diye gelen bir eğlence.", "bonus": "Çok eğlenceli! = Das macht Spaß! · İyi eğlenceler! = Viel Spaß!"},
+      "A2-592": {"pron": "ZÜ-sih-kayt", "tip": "süß (tatlı) + -igkeit 🍬 -keit ile biten isimler her zaman die’dir.", "warn": "Genelde çoğul: Süßigkeiten = şekerlemeler, tatlılar"},
+      "C2-3426": {"pron": "YEK", "tip": "Geck (soytarı) kelimesinin Köln ağzındaki hâli 🃏 Karnavalda herkes gururlu bir Jeck’tir.", "bonus": "Köln deyişi: Jeder Jeck ist anders. = Herkes farklıdır."}
+    },
+    "culture": [
+      "Karnaval sezonunun 11 Kasım’da saat 11.11’de başladığı söylenir. Ama asıl doruk noktası birkaç ay sonra, Kül Çarşambası’ndan (Aschermittwoch) hemen önceki günlerde yaşanır. Tarihler Paskalya’ya bağlı olduğu için her yıl değişir.",
+      "Perşembe günü, yani Weiberfastnacht’ta kadınlar geleneksel olarak erkeklerin kravatlarını makasla keser. O gün Ren bölgesinde çalışıyorsanız en sevdiğiniz kravatı evde bırakın! Pazartesi, yani Rosenmontag’da Köln, Düsseldorf ve Mainz’da büyük geçit törenleri düzenlenir.",
+      "Geçit araçlarından şekerler ve çikolatalar (Köln’de Kamelle) yağar. Köln’de „Alaaf!“, Düsseldorf ve Mainz’da „Helau!“ diye bağırılır. Karıştırırsanız herkes güler! 🍬"
+    ],
+    "quiz": {"q": "Karnavalda „Korsan kılığına girdim“ nasıl denir?", "o": ["Ich habe mich als Pirat verkleidet.", "Ich habe einen Piraten verkleidet.", "Ich bin als Pirat umgezogen."], "a": 0, "why": "sich als … verkleiden = … kılığına girmek; dönüşlü mich zamiri şart."},
+    "outro": "Bu karnavalda ne kılığına gireceğinizi Almanca söyleyin. Ich verkleide mich als …! 🎉"
   }
 }

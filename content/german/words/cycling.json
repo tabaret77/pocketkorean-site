@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "自転車屋さんで「ブレーキがちゃんと効きません」と言いたいです。", "o": ["Mein Helm ist zu groß.", "Die Bremsen funktionieren nicht richtig.", "Ich fahre gern E-Bike."], "a": 1, "why": "die Bremsen = ブレーキ、funktionieren nicht richtig = ちゃんと動かない、という意味です。"},
     "outro": "今日自転車やバスに乗るとき、「Ich fahre Rad.」「Ich bin Rad gefahren.」と小さくつぶやいてみましょう。🚴"
+  },
+  "tr": {
+    "title": "Bisiklete atlayın! Bisikletle ilgili 10 Almanca kelime",
+    "hook": "Alman şehirlerinde bisiklet neredeyse otobüs kadar önemlidir.",
+    "intro": [
+      "İkinci el bir bisiklet aldınız. İşe ilk gidişinizde frenler gıcırdıyor, arkadan biri ‘Radweg!’ diye bağırıyor ve bisiklet dükkânında neyin bozuk olduğunu anlatacak tek bir kelime bulamıyorsunuz.",
+      "İşte her bisikletlinin ihtiyaç duyduğu on kelime. Bunlarla bisiklet yolu kurallarını anlayacak ve tamirciye neyin bozulduğunu anlatabileceksiniz. 🚲"
+    ],
+    "words": {
+      "A1-141": {"pron": "FAR-rat", "tip": "fahren (sürmek) + Rad (tekerlek) = sürdüğünüz tekerlek 🚲", "warn": "Sonu das Rad olduğu için das Fahrrad. Çoğulu: Fahrräder."},
+      "A1-540": {"pron": "RAT fa-rın", "tip": "Rad (bisiklet) + fahren (sürmek), yan yana 🚴 Ich fahre Rad!", "warn": "Geçmiş zamanı sein ile: Ich bin Rad gefahren."},
+      "B1-1051": {"pron": "RAT-fa-rır", "tip": "Rad fahren + -er = bisiklet süren kişi 🚴 -er, „bu işi yapan kişi“ demek; bizdeki -cı/-ci gibi.", "bonus": "kadın: die Radfahrerin · yaya: der Fußgänger"},
+      "A2-727": {"pron": "RAT-veyk", "tip": "Rad (bisiklet) + Weg (yol) = bisiklet yolu 🛣️ Weg ile İngilizce way kuzendir.", "warn": "Radweg’de yürümeyin; bisikletler hızlı gelir!"},
+      "A2-768": {"pron": "HELM", "tip": "İngilizce helmet’ten -et’i çıkarın ⛑️", "bonus": "kask takmak = einen Helm tragen"},
+      "A2-550": {"pron": "RAY-fın", "tip": "İlk anlamı „çember“di; tekerleğin etrafındaki yuvarlak çember ⭕", "bonus": "Lastiğim patladı! = Ich habe einen Platten."},
+      "B1-538": {"pron": "BREM-zı", "tip": "„BREM!“ ani bir duruş gibi duyuluyor 🛑 -e ile bittiği için die. Bizdeki „fren“e de benziyor!", "bonus": "Genelde çoğul: Die Bremsen quietschen. = Frenler gıcırdıyor."},
+      "B1-537": {"pron": "BREM-zın", "tip": "die Bremse’yi alın, -n ekleyin, fiil hazır 🚦 İkisini çift olarak öğrenin.", "bonus": "sert fren yapmak = scharf bremsen"},
+      "B2-3962": {"pron": "ZA-tıl", "tip": "Neredeyse İngilizce saddle 🐎 sitzen (oturmak) ile bile akraba olabilir.", "warn": "Çoğulu umlautlu: die Sättel"},
+      "B1-2012": {"pron": "İ-bayk", "tip": "E (elektrikli) + İngilizce bike 🔋 İngilizce gibi okuyun.", "bonus": "Pedal destekli bisikletler için Pedelec de duyarsınız."}
+    },
+    "culture": [
+      "Almanya’da bisiklet yolları (Radweg) genellikle iyidir. Üzerinde bisiklet olan yuvarlak mavi bir tabela, bisikletlilerin o yolu kullanmak zorunda olduğunu gösterir. Yayaların da bu yoldan uzak durması beklenir.",
+      "Bisikletlerde zil ile ön ve arka lamba bulunmalıdır; karanlıkta ışıksız sürerseniz durdurulabilirsiniz. Kask zorunlu değildir ama giderek daha fazla kişi takıyor.",
+      "Bisiklet hırsızlığı çok yaygındır, bu yüzden iyi bir kilit (das Schloss) alın. Bisikletinizi trene alırsanız genellikle ayrı bir bisiklet bileti gerekir. 🔒"
+    ],
+    "quiz": {"q": "Bisiklet dükkânında „Frenler düzgün çalışmıyor“ demek istiyorsunuz.", "o": ["Mein Helm ist zu groß.", "Die Bremsen funktionieren nicht richtig.", "Ich fahre gern E-Bike."], "a": 1, "why": "die Bremsen = frenler, funktionieren nicht richtig = düzgün çalışmıyor."},
+    "outro": "Bir sonraki bisiklet ya da otobüs yolculuğunuzda sessizce ‘Ich fahre Rad.’ ve ‘Ich bin Rad gefahren.’ deyin. 🚴"
   }
 }

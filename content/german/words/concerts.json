@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちがチケットを買おうとしたら、もう1枚も残っていませんでした。何と言いますか？「Das Konzert ist ___.」", "o": ["im Vorverkauf", "ausverkauft", "auf Tournee"], "a": 1, "why": "ausverkauft は「売り切れ」で、チケットが全部売れたという意味です。"},
     "outro": "好きな曲を流して、終わったら「Zugabe!」と叫んでみましょう。次のコンサートでドイツの観客と一緒に叫べるように！🎶"
+  },
+  "tr": {
+    "title": "Biletten bise kadar: Konserler için 10 Almanca kelime",
+    "hook": "Alman konserlerinde seyirci ‘Encore!’ diye bağırmaz; bunun yerine Almanca bir kelime haykırır.",
+    "intro": [
+      "En sevdiğiniz grup Berlin’e geliyor! Bilet sitesini açıyorsunuz ve Vorverkauf, ausverkauft, Abendkasse… görüyorsunuz; neler olduğunu hiç anlamıyorsunuz. İçeri girmeyi başarıyorsunuz ve sonunda herkes anlamadığınız bir şey diye tempo tutmaya başlıyor.",
+      "Bugünün on kelimesi bir konser gecesi için ihtiyacınız olanlar. Bunlarla bilet alabilir, bir gösterinin tükendiğini anlayabilir ve sonrasında konseri Almanca anlatabilirsiniz. 🎤"
+    ],
+    "words": {
+      "A2-133": {"pron": "kon-TSERT", "tip": "İtalyanca concerto’dan, bizdeki konser ile kardeş 🎻 Almanca z, ts diye okunur: kon-TSERT.", "bonus": "konsere gitmek = ins Konzert gehen"},
+      "A2-420": {"pron": "BENT", "tip": "İngilizce band’den alınmış ama sonu daha çok t gibi duyulur 🎸", "warn": "Artikele dikkat! das Band = kurdele ya da bant, der Band = (kitap) cilt. Sadece müzik grubu die’dir."},
+      "A2-033": {"pron": "AYN-trits-kar-tı", "tip": "ein (içeri) + Tritt (adım) + Karte (bilet) = içeri adım atmanızı sağlayan bilet 🎟️", "bonus": "der Eintritt = giriş · Eintritt frei = giriş ücretsiz"},
+      "B1-1047": {"pron": "PU-bli-kum", "tip": "İngilizce public ile aynı kökten 👏 İzlemeye gelen herkes; bizdeki „publik“ gibi.", "warn": "Bir sürü insan ama tekil: Das Publikum klatscht."},
+      "A2-861": {"pron": "KLAT-şın", "tip": "Tam alkışlayan eller gibi duyuluyor 👏 Şak, şak, Klatsch!", "bonus": "Dedikodu yapmak anlamına da gelir: der Klatsch = dedikodu"},
+      "B1-467": {"pron": "AUF-trit", "tip": "auf (yukarı) + Tritt (adım) = sahneye adım atmak 🎤", "bonus": "Sahne korkusu das Lampenfieber’dir, yani „lamba ateşi“."},
+      "B2-3440": {"pron": "FOR-fer-kauf", "tip": "vor (önce) + Verkauf (satış) = önceden satış 🗓️", "bonus": "O akşamki gişe die Abendkasse’dir."},
+      "B1-1883": {"pron": "AUS-fer-kauft", "tip": "aus (tamamen bitmiş) + verkauft (satılmış) = tamamen tükenmiş 😭", "bonus": "Das Konzert ist leider ausverkauft. = Maalesef konserin biletleri tükendi."},
+      "B2-2211": {"pron": "tur-NE", "tip": "Fransızca tournée’den, yani dolaşmak 🚌 Türkçedeki turne ile aynı, vurgu sonda.", "bonus": "turneye çıkmak = auf Tournee gehen"},
+      "A2-462": {"pron": "FES-ti-val", "tip": "Türkçedeki festival gibi ⛺ Alman yazları festival mevsimidir.", "bonus": "çoğulu: die Festivals · müzik festivali = das Musikfestival"}
+    },
+    "culture": [
+      "Alman konserinde bis istiyorsanız ‘Zugabe! Zugabe!’ diye bağırın; Zugabe „ekstra“ demektir. Klasik müzik konserlerinde insanlar genelde bölümler arasında değil, sadece eserin tamamı bittiğinde alkışlar.",
+      "Popüler konserlerin biletleri satışa çıktığı an tükenebilir; bu yüzden pek çok kişi Vorverkauf tarihlerini takip eder. Şanslıysanız o akşam Abendkasse’de kalan biletler olabilir.",
+      "Yazın ülkenin her yerinde açık hava müzik festivalleri düzenlenir. Pek çoğu kamp eşliğinde birkaç gün sürer; bu yüzden lastik çizme ve yağmurluk şarttır. ⛺"
+    ],
+    "quiz": {"q": "Arkadaşınız bilet almaya çalıştı ama hiç kalmamış. Ne dersiniz? ‘Das Konzert ist ___.’", "o": ["im Vorverkauf", "ausverkauft", "auf Tournee"], "a": 1, "why": "ausverkauft tükenmiş demektir; bütün biletler satılmış."},
+    "outro": "En sevdiğiniz şarkıyı açın ve bittiğinde ‘Zugabe!’ diye bağırın. Böylece bir sonraki konserinizde Alman seyircilere katılmaya hazır olursunuz! 🎶"
   }
 }

@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちが道で50ユーロを拾ったそうです。何と言いますか？", "o": ["Du hast einen Vogel!", "Du hast Schwein gehabt!", "Du bist ein schwarzes Schaf!"], "a": 1, "why": "Schwein haben は「運がいい」なので、お金を拾った友だちにぴったりです。"},
     "outro": "今日は10匹の動物を冠詞付きで声に出して呼んでみましょう。そして明日、誰かに「Schwein gehabt!」と言ってみて！🍀"
+  },
+  "tr": {
+    "title": "Domuzlar, ayılar ve uğurlu hayvanlar: 10 temel Almanca hayvan adı",
+    "hook": "Almanya’da şanslı olduğunuzda „domuzunuz oldu“ dersiniz. Gerçekten!",
+    "intro": [
+      "Hafta sonu Alman kırsalında bisiklet turundasınız. Tarlalarda inekler ve koyunlar, avluda tavuklar var; bir çocuk bağırıyor: ‘Guck mal, ein Pferd!’ Siz ise atın Almancasını bir türlü hatırlayamıyorsunuz.",
+      "Bugünün on kelimesi, çiftlik hayvanlarından hayvanat bahçesinin yıldızlarına kadar temel hayvan adları. Bu arada Almanların sürekli kullandığı eğlenceli hayvanlı ifadeleri de öğreneceksiniz. 🐄"
+    ],
+    "words": {
+      "A1-269": {"pron": "TİR", "tip": "Eskiden her hayvan anlamına gelen İngilizce deer ile aynı kökten 🦌", "bonus": "Evcil hayvan das Haustier’dir (ev + hayvan)."},
+      "A1-270": {"pron": "FO-gıl", "tip": "İngilizce fowl ile aynı kökten 🐦 V harfi F gibi okunur.", "bonus": "Du hast einen Vogel! = Sen kafayı yemişsin! (şakayla)"},
+      "A2-536": {"pron": "PFERT", "tip": "Bir üfleme ile başlayın: pf! 🐴 Tıpkı burnundan solu veren bir at gibi.", "bonus": "Çok şaşırdığınızda: Ich glaub, mich tritt ein Pferd!"},
+      "B1-1974": {"pron": "KU", "tip": "İngilizce cow ile aynı kökten 🐄 İnek „mö“ der, Almanca „ku“.", "warn": "Çoğulda ünlü değişir: die Kühe"},
+      "A2-573": {"pron": "ŞVAYN", "tip": "İngilizce swine ile aynı kökten 🐷 Meşhur domuz incikli Schweinshaxe’deki gibi.", "bonus": "Schwein haben = şanslı olmak"},
+      "B1-1979": {"pron": "ŞAF", "tip": "İngilizce sheep ile aynı kökten 🐑 Arada sadece Alman aksanı var.", "bonus": "das schwarze Schaf = (ailenin) kara koyunu"},
+      "A2-762": {"pron": "HUN", "tip": "İngilizce hen ile akraba 🐔 „Hun“, kalabalık bir kümesin sesi gibi.", "warn": "Yemek olarak tavuk das Hähnchen’dir: ein halbes Hähnchen"},
+      "B1-1975": {"pron": "LÖ-vı", "tip": "Latince leo’dan 🦁 Aslan burcu Leo ile akraba.", "warn": "Diğer hâllerde -n alır: den/dem Löwen"},
+      "B1-1967": {"pron": "e-le-FANT", "tip": "Yunanca elephas’tan 🐘 Türkçede fil ama Almanca İngilizceye çok yakın: ph yerine f.", "warn": "Diğer hâllerde -en alır: den/dem Elefanten"},
+      "B1-1965": {"pron": "BER", "tip": "İngilizce bear gibi okunur 🐻 Üstelik Berlin’in maskotu.", "warn": "Diğer hâllerde -en alır: den/dem Bären"}
+    },
+    "culture": [
+      "Berlin’in sembolü ayıdır. Şehrin armasında yer alır ve şehrin dört bir yanında rengârenk boyanmış ayı heykelleri görürsünüz. Bir Berlin hediyelik eşya dükkânı ayısız olmaz.",
+      "Almanya’da domuz şanslı hayvandır. Bu yüzden ‘Schwein haben’ şanslı olmak demektir ve yılbaşında insanlar bazen küçük marzipan domuzlar (Glücksschwein) hediye eder.",
+      "Alp bölgelerinde sonbaharda Almabtrieb yaşanabilir: inekler yayladan köye iner. İnekler çoğu zaman çiçeklerle süslenir ve görülmeye değer bir manzara olur. 🐄"
+    ],
+    "quiz": {"q": "Arkadaşınız sokakta 50 avroluk banknot buldu. Ne dersiniz?", "o": ["Du hast einen Vogel!", "Du hast Schwein gehabt!", "Du bist ein schwarzes Schaf!"], "a": 1, "why": "Schwein haben şanslı olmak demektir; para bulan biri için birebir."},
+    "outro": "Bugün on hayvanın hepsini artikelleriyle birlikte yüksek sesle sayın. Yarın da birine ‘Schwein gehabt!’ demeyi deneyin! 🍀"
   }
 }

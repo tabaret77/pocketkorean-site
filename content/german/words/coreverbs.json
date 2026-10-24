@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "博物館で写真を撮ろうとしたら、係員に止められました。何と言われたでしょう？", "o": ["Sie dürfen hier nicht fotografieren.", "Sie müssen hier nicht fotografieren.", "Sie möchten hier fotografieren."], "a": 0, "why": "nicht dürfen は「してはいけない（禁止）」、nicht müssen は「しなくてもいい」という意味です。"},
     "outro": "今日は話法の助動詞を一つずつ使って、文を声に出してみましょう。Ich kann…、Ich muss…、Ich möchte…！💪"
+  },
+  "tr": {
+    "title": "Her Almanca cümlenin dayandığı 10 fiil",
+    "hook": "Almanca cümlelerin yarısı bugünkü on fiilden biriyle başlar.",
+    "intro": [
+      "Almanca söylemek istediğiniz çok şey var ama daha ilk kelimede takılıyorsunuz. ‘Öğrenciyim.’ ‘Vaktin var mı?’ ‘Burada fotoğraf çekebilir miyim?’ Bunların hepsi en temel fiillere ihtiyaç duyar.",
+      "Bugünün on fiili Almancanın omurgası: sein, haben, werden ve kip fiilleri. Bunları rahatça kullanabildiğinizde söyleyebileceğiniz şeylerin sayısı katlanarak artar. 💪"
+    ],
+    "words": {
+      "A1-051": {"pron": "ZAYN", "tip": "İngilizce be gibi, şekilden şekle girer 🌀 ich bin, du bist, er ist… bir tekerleme gibi ezberleyin.", "warn": "Geçmiş zamanı da sein ile kurulur: Ich bin in Berlin gewesen. ihr seid ise sadece seit (-den beri) gibi okunur."},
+      "A1-052": {"pron": "HA-bın", "tip": "İngilizce have ile aynı kökten 🎒 du hast, er hat’ta b kaybolur.", "bonus": "Hunger haben = acıkmış olmak; Zeit haben = vakti olmak"},
+      "A1-580": {"pron": "VER-dın", "tip": "Şekil değiştiren fiil: bir şey olmak 🦋 Ich werde Ärztin. = Doktor olacağım.", "warn": "du wirst, er wird diye değişir; geçmiş zamanı ist geworden."},
+      "A1-066": {"pron": "MA-hın", "tip": "İngilizce make ile aynı kökten 🛠️ Yapmak da etmek de machen.", "bonus": "Vedalaşırken: Mach's gut! = Kendine iyi bak!"},
+      "A1-298": {"pron": "KÖ-nın", "tip": "İngilizce can ile aynı kökten 🏊 Yapabiliyorsanız können; Türkçedeki -ebilmek eki gibi.", "bonus": "Diller için de: Ich kann Deutsch."},
+      "A1-299": {"pron": "MÜ-sın", "tip": "İngilizce must ile aynı kökten ⏰ Yapmak zorunda olduğunuz şeyler müssen; bizdeki -meli.", "warn": "nicht müssen = zorunda değilsin. „Yapmamalısın“ anlamına gelmez!"},
+      "A1-300": {"pron": "VO-lın", "tip": "İngilizce willpower’daki will ile akraba 🔥 ich will = gerçekten istiyorum!", "warn": "İngilizcedeki gelecek zaman will değildir. Ayrıca: ich will, er will; -t yok."},
+      "A1-524": {"pron": "MÖH-tın", "tip": "mögen (sevmek) fiilinin kibar hâli 🙏 Sipariş verirken hep Ich möchte…", "bonus": "Ich möchte einen Kaffee. cümlesi Ich will einen Kaffee.’den çok daha kibar duyulur."},
+      "A1-301": {"pron": "DÜR-fın", "tip": "İzniniz varsa dürfen 🚦 Darf ich…? = … yapabilir miyim? (izin isterken)", "warn": "nicht dürfen = yasak, yapmamalısın"},
+      "A1-556": {"pron": "ZO-lın", "tip": "İngilizce shall ile aynı kökten 📋 Birinin size yapmanızı söylediği şey sollen.", "bonus": "Was soll das? = Bu da ne demek oluyor?"}
+    },
+    "culture": [
+      "Alman kafe ve fırınlarında ‘Ich möchte…’ ya da ‘Ich hätte gern…’ demek ‘Ich will…’den çok daha doğal duyulur. Yanlış değildir ama ‘Ich will’ bir şey isteyip tutturan bir çocuk gibi duyulabilir.",
+      "Alman tabelaları dürfen ve müssen’e bayılır. ‘Hier dürfen Sie nicht parken.’ yasak olduğu anlamına gelir. Ama ‘Sie müssen nicht…’ dostça bir „gerek yok“tur; karıştırmayın.",
+      "Almanlar vedalaşırken sık sık ‘Mach's gut!’ dediğini duyarsınız. Kelimesi kelimesine „iyi yap“ ama asıl anlamı „kendine iyi bak“. 👋"
+    ],
+    "quiz": {"q": "Müzede fotoğraf çekmek üzeresiniz ve bir görevli sizi durduruyor. Ne demiştir?", "o": ["Sie dürfen hier nicht fotografieren.", "Sie müssen hier nicht fotografieren.", "Sie möchten hier fotografieren."], "a": 0, "why": "nicht dürfen yasak demektir; nicht müssen ise sadece zorunda olmadığınız anlamına gelir."},
+    "outro": "Bugün her kip fiiliyle bir cümle kurun ve yüksek sesle söyleyin: Ich kann…, Ich muss…, Ich möchte…! 💪"
   }
 }

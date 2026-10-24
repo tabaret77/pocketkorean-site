@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちと別々に払いたいです。店員さんに「Zusammen oder getrennt?」と聞かれたら？", "o": ["Zusammen, bitte.", "Getrennt, bitte.", "Mit Sahne, bitte."], "a": 1, "why": "getrennt は「別々に」なので、各自で払いたいときに使います。"},
     "outro": "今日はカフェでの注文を声に出して練習してみましょう。「Einen Cappuccino und ein Stück Kuchen mit Sahne, bitte!」を3回どうぞ！🍰"
+  },
+  "tr": {
+    "title": "Kahve, pasta ve hesap: Alman kafesi için 10 kelime",
+    "hook": "Kapuçino sipariş etmek kolay; peki garson ‘Zusammen oder getrennt?’ diye sorduğunda hiç donup kaldınız mı?",
+    "intro": [
+      "Pazar öğleden sonrası, bir arkadaşınızla mahalledeki bir kafedesiniz. Pasta tezgâhının önünde uzun uzun düşünüp sonunda sipariş veriyorsunuz; derken garson bir şey daha soruyor. Krema ister misiniz? Tek hesap mı, ayrı mı? Kafanız bomboş.",
+      "Bugünün on kelimesi bir Alman kafesinde baştan sona işinizi görür: kahve seçmek, bir dilim pasta sipariş etmek, krema eklemek ve hesabı ödemek. ☕"
+    ],
+    "words": {
+      "A1-444": {"pron": "ka-FE", "tip": "Fransa’dan geldiği için Fransızca é’sini korumuş ☕ Mekânın kendisi das Café; bizdeki kafe.", "warn": "Kahve der Kaffee, kafe das Café. Cinsiyeti de yazılışı da farklı."},
+      "A1-020": {"pron": "KA-fe", "tip": "Çift f, çift e: duble bir kahve ☕ Kaffee böyle yazılır.", "bonus": "Kaffee und Kuchen = Almanların kahve ve pasta saati"},
+      "A1-680": {"pron": "ka-pu-Çİ-no", "tip": "Adını Kapuçin keşişlerinin kahverengi cübbelerinden alır 🟤 Köpüklü kukuletalı bir keşiş düşünün.", "bonus": "Almanya’da kafelerin gözdesi: der Milchkaffee (sütlü kahve)"},
+      "A2-1023": {"pron": "es-PRE-so", "tip": "Basınçla preslenerek çıkarılan kahve 💪 Almancada da aynı kelime.", "warn": "İçinde x yok: „expresso“ değil, Espresso."},
+      "A1-115": {"pron": "TA-sı", "tip": "Bizdeki „tas“ ile akraba, ama bu bir fincan 🍵 eine Tasse Kaffee = bir fincan kahve.", "bonus": "Su ve meyve suyu Glas ile gelir: ein Glas Wasser"},
+      "BL-01-08": {"pron": "KU-hın", "tip": "İngilizce cake ile aynı Germen kökünden 🍰 Kuchen ≈ kek.", "warn": "Çoğulu değişmez: die Kuchen."},
+      "BL-01-07": {"pron": "tsu-ZA-mın", "tip": "sammeln (toplamak) gibi: hepsini bir araya toplayın 🤝 Herkes için tek hesap.", "bonus": "Das macht zusammen 8 Euro. = Hepsi 8 avro ediyor."},
+      "BL-01-06": {"pron": "ge-TRENT", "tip": "trennen (ayırmak) fiilinden ✂️ Hesabı ikiye kestiğinizi düşünün.", "bonus": "Çöp ayrıştırmak için de aynı fiil: Müll trennen"},
+      "BL-11-05": {"pron": "ŞTÜK", "tip": "Çatalınıza takılıp kalan (İngilizce stuck) bir parça düşünün 🍴 ein Stück Kuchen!", "warn": "Sayarken tekil kalır: zwei Stück Kuchen."},
+      "A2-778": {"pron": "ZA-nı", "tip": "Türkçede sahne tiyatroda olur, Almancada ise pastanın üstünde 🍦 mit Sahne = kremalı.", "bonus": "Çırpılmış krema = die Schlagsahne"}
+    },
+    "culture": [
+      "Almanya’da Kaffee und Kuchen adında bütün bir öğleden sonra ritüeli vardır. Özellikle hafta sonları aileler ve arkadaşlar kahve ve pasta için buluşur. Çoğu zaman dilimlerinizi tezgâhta seçersiniz, görevliler de masanıza getirir.",
+      "Kafe ve restoranlarda genelde masada ödenir. ‘Zahlen, bitte!’ deyin, garson gelip ‘Zusammen oder getrennt?’ diye sorar. Bahşiş çoğu zaman tutarı yuvarlayarak verilir; ödemek istediğiniz tutarı söylemeniz yeterli, örneğin ‘10 Euro, bitte.’",
+      "Sadece ‘einen Kaffee’ sipariş ederseniz bazı yerler size filtre kahve getirir. Daha sert bir şey istiyorsanız menüye bakın! 🍰"
+    ],
+    "quiz": {"q": "Arkadaşınızdan ayrı ödemek istiyorsunuz. Garson soruyor: ‘Zusammen oder getrennt?’ Ne dersiniz?", "o": ["Zusammen, bitte.", "Getrennt, bitte.", "Mit Sahne, bitte."], "a": 1, "why": "getrennt „ayrı ayrı“ demektir; herkes kendi hesabını öderken bunu söylersiniz."},
+    "outro": "Eksiksiz bir kafe siparişini yüksek sesle prova edin: ‘Einen Cappuccino und ein Stück Kuchen mit Sahne, bitte!’ Üç kez söyleyin, sonra kendinizi ödüllendirin! 🍰"
   }
 }

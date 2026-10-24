@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "カフェでケーキ1切れを生クリーム添えで食べたいです。何と注文しますか？", "o": ["Ein Stück Kuchen mit Keks, bitte.", "Einen Nachtisch mit Zucker, bitte.", "Ein Stück Kuchen mit Schlagsahne, bitte."], "a": 2, "why": "Schlagsahne = ホイップクリームなので、ケーキに生クリームを添えてもらう注文です。"},
     "outro": "今日のおやつの時間に „Ein Stück Kuchen mit Schlagsahne, bitte!“ と声に出して注文してみましょう。ダイエットは明日から！🍰"
+  },
+  "tr": {
+    "title": "Tatlı sevenlere 10 şekerli Almanca kelime",
+    "hook": "Pasta tezgâhında parmakla gösterip şansınıza güvenmeye son.",
+    "intro": [
+      "Pazar günü saat üç, kafenin tezgâhı pastalarla dolu. Ne istediğinizi çok iyi biliyorsunuz ama adını bilmiyorsunuz; durmadan „Das da, bitte“ diyorsunuz, sonra da krema sorusunu kaçırıyorsunuz.",
+      "Bugünün on kelimesi tamamen pastalar ve tatlılarla ilgili. Bunlarla kafede sipariş verebilir, dondurma çeşidinizi seçebilir ve bir arkadaşınızın Kaffee und Kuchen davetinde güzel bir iltifat edebilirsiniz. 🍰"
+    ],
+    "words": {
+      "BL-01-08": {"pron": "KU-hın", "tip": "İngilizce cake ile aynı Germen kökünden 🎂 Mutlu, gırtlaktan bir ch ile söyleyin.", "warn": "Çoğulu aynıdır: die Kuchen."},
+      "B1-2301": {"pron": "va-Nİ-lyı", "tip": "İspanyolca „küçük kabuk“ demek 🌼 Vanilya zaten kabukta yetişir; Türkçesiyle neredeyse aynı.", "bonus": "Dondurmacıda: Eine Kugel Vanille, bitte."},
+      "A1-240": {"pron": "TSU-kır", "tip": "Arapça sukkar’dan gelir; bizim „şeker“in uzak kuzeni 🍬", "bonus": "şekersiz = ohne Zucker · pudra şekeri = der Puderzucker"},
+      "A1-249": {"pron": "AYS", "tip": "Buz gibi görünür ama kafede dondurma demektir 🍦 Yazın en güzel kelimesi.", "warn": "Buz küpleri de Eis’tir, hangisi olduğunu bağlam belirler."},
+      "A2-200": {"pron": "NAH-tiş", "tip": "nach (sonra) + Tisch (masa) = yemekten sonra gelen 🍮 Tatlı!", "bonus": "Aynı anlamda: das Dessert · zum Nachtisch = tatlı olarak"},
+      "A1-248": {"pron": "şo-ko-LA-dı", "tip": "Limonata (Limonade) gibi -ade ile biter; tatlı bir şey 🍫 Bizdeki çikolata ile kardeş.", "bonus": "Sıcak çikolata eine heiße Schokolade’dir."},
+      "A2-805": {"pron": "KEYKS", "tip": "İngilizce cakes Almanya’ya gidip Keks olmuş; bizde ise kek 🍪 Ama Almancada bu bir bisküvi!", "bonus": "Du gehst mir auf den Keks! = Sinirimi bozuyorsun!"},
+      "A2-1038": {"pron": "PU-ding", "tip": "Titrek ve doğrudan İngilizceden alınmış 🍮 Bizdeki puding ile aynı.", "warn": "Alman Pudding’i muhallebi tarzı, katılaşan bir tatlıdır; İngiliz buharda pişen pudingi değil."},
+      "B1-2544": {"pron": "ŞLAK-za-nı", "tip": "schlagen (çırpmak) + Sahne (krema) = çırpılan krema 🥄 Kol egzersizi dahil.", "bonus": "Avusturya’da: das Schlagobers"},
+      "B1-715": {"pron": "ge-BEK", "tip": "backen (fırında pişirmek) fiilinden: fırında pişen her şey tek kelimede 🥐", "warn": "Genelde sadece tekil: das Gebäck"}
+    },
+    "culture": [
+      "Almanya’da Kaffee und Kuchen adında güzel bir öğleden sonra ritüeli vardır. Özellikle hafta sonları aileler ve arkadaşlar çoğu zaman saat üç dört civarında kahve ve ev yapımı pasta için bir araya gelir.",
+      "Kuchen genelde elmalı kek gibi daha sade bir pastadır; yüksek, katlı kremalı pastalara ise Torte denir. Bunları yapan, çoğu zaman kafesi de olan dükkâna Konditorei denir.",
+      "İş yerinde doğum gününüzse, iş arkadaşlarınıza pastayı çoğu zaman siz getirirsiniz. Bu, yeni gelen pek çok kişiyi şaşırtır! 🎂"
+    ],
+    "quiz": {"q": "Kafede krem şantili bir dilim pasta istiyorsunuz. Ne dersiniz?", "o": ["Ein Stück Kuchen mit Keks, bitte.", "Einen Nachtisch mit Zucker, bitte.", "Ein Stück Kuchen mit Schlagsahne, bitte."], "a": 2, "why": "Schlagsahne krem şantidir; yani bu cümleyle üstü kremalı pasta sipariş edersiniz."},
+    "outro": "Bugün atıştırma saatinde yüksek sesle sipariş verin: „Ein Stück Kuchen mit Schlagsahne, bitte!“ Diyete yarın başlarsınız! 🍰"
   }
 }

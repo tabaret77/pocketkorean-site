@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "歯医者さんがドリルを持つ前に「痛くないようにしましょうか？」と聞いてきました。お願いしたいのは？", "o": ["die Füllung", "die Betäubung", "die Zahnspange"], "a": 1, "why": "die Betäubung は麻酔のことで、痛みを感じないようにしてくれます。"},
     "outro": "今日は鏡の前で Zahn、Auge、Brille を一つずつ指さしながら声に出してみましょう。次の歯医者の予約は、ぜひドイツ語で！🪥"
+  },
+  "tr": {
+    "title": "Ağzınızı açın: Diş hekimi ve gözlükçü için 10 Almanca kelime",
+    "hook": "Bunları koltuğa oturmadan önce öğrenin; çünkü ağzınız sonuna kadar açıkken soru sormak zor.",
+    "intro": [
+      "Bir azı dişiniz zonkluyor, ekrandaki yazılar da bulanıklaşmaya başladı. Randevunuzu aldınız ama ya diş hekiminin sorularını anlamazsanız? Ağzınız açıkken tekrar etmesini de isteyemezsiniz.",
+      "Bugünün on kelimesi diş hekiminde ve göz doktorunda tekrar tekrar karşınıza çıkar. Bunlarla nerenizin ağrıdığını söyleyebilir, uyuşturma isteyebilir ve yeni gözlük hakkında konuşabilirsiniz. 🦷"
+    ],
+    "words": {
+      "A2-748": {"pron": "TSAN-artst", "tip": "Zahn (diş) + Arzt (doktor) = diş doktoru 🦷 Kelimeleri birbirine yapıştırın, o kadar.", "bonus": "diş hekimine gitmek = zum Zahnarzt gehen · kadın diş hekimi = die Zahnärztin"},
+      "A1-265": {"pron": "TSAN", "tip": "Zahn ile İngilizce tooth, uzun zaman önce kaybolmuş kuzenler 😁 Kocaman sırıtarak söyleyin.", "bonus": "diş fırçalamak = Zähne putzen · diş fırçası = die Zahnbürste", "warn": "Çoğulu umlaut alır: die Zähne"},
+      "B2-2449": {"pron": "FÜ-lunk", "tip": "füllen (doldurmak) + -ung = doldurduğunuz şey 🥟 Mantının içi de diş dolgusu da Füllung.", "warn": "-ung ile biten kelimeler her zaman die’dir."},
+      "B2-2381": {"pron": "BO-rın", "tip": "İngilizce bore (delmek) ile aynı kökten 🔩 Diş hekiminde kimsenin duymak istemediği ses.", "bonus": "matkap = die Bohrmaschine · geçmiş zaman: hat gebohrt"},
+      "B2-2198": {"pron": "be-TOY-bunk", "tip": "taub sağır ya da uyuşuk demek; Betäubung sizi uyuşturur 💉", "bonus": "lokal anestezi = örtliche Betäubung · genel anestezi = die Narkose"},
+      "B2-2724": {"pron": "TSAN-şpan-gı", "tip": "Zahn + Spange (toka, klips) = dişler için klips 😬", "bonus": "Aynı Spange’den die Haarspange = saç tokası."},
+      "A1-041": {"pron": "AU-gı", "tip": "İngilizce eye’ın uzak kuzeni 👀 Gözlerinizi kocaman açıp „AU-gı!“ deyin.", "bonus": "unter vier Augen = baş başa (kelimesi kelimesine „dört göz altında“)"},
+      "A1-235": {"pron": "BRİ-lı", "tip": "Brille dünyayı pırıl pırıl, briyant gibi gösterir 👓", "warn": "Almancada tekildir: eine Brille = bir gözlük. Tıpkı Türkçedeki gibi!"},
+      "B2-2722": {"pron": "kon-TAKT-lin-zı", "tip": "Kontakt + Linse = gözünüze doğrudan temas eden lens 👁️", "bonus": "die Linse mercimek anlamına da gelir; yani Linsensuppe mercimek çorbasıdır!"},
+      "B2-2045": {"pron": "KURTS-zih-tih", "tip": "kurz (kısa) + Sicht (görüş) = kısa görüş 🔍 Neredeyse kelimesi kelimesine.", "bonus": "Tersi: weitsichtig = hipermetrop. İkisi de mecazi anlamda kullanılır."}
+    },
+    "culture": [
+      "Almanya’da çoğu kişi yılda bir ya da iki kez kontrol (Kontrolle) için diş hekimine gider. Pek çoğu ziyaretlerini kaydetmek için Bonusheft adında küçük bir defter tutar; çünkü düzenli kontroller, ileride kaplama ya da köprü gerekirse sigortadan daha fazla destek almak anlamına gelebilir.",
+      "Profesyonel diş temizliği (professionelle Zahnreinigung) genellikle temel kamu sigortasına dahil değildir; bu yüzden pek çok kişi parasını kendisi öder. Bazı sigortalar bir kısmını karşılar, sormakta fayda var.",
+      "Yeni gözlük için her zaman göz doktoruna (Augenarzt) gitmeniz gerekmez. Pek çok gözlükçü (Optiker) mağazada göz testi (Sehtest) yapar. 👓"
+    ],
+    "quiz": {"q": "Diş hekimi matkabı alıyor ve acımaması için bir şey isteyip istemediğinizi soruyor. Ne istersiniz?", "o": ["die Füllung", "die Betäubung", "die Zahnspange"], "a": 1, "why": "die Betäubung uyuşturmadır: bölgeyi uyuşturur, acı hissetmezsiniz."},
+    "outro": "Aynanın karşısına geçin; Zahn’ınızı, Auge’nizi ve Brille’nizi gösterip her kelimeyi yüksek sesle söyleyin. Bir dahaki sefere diş hekimi randevunuzu Almanca almayı deneyin! 🪥"
   }
 }

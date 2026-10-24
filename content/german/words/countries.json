@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "新しいクラスメートに母語を聞かれました。合う答えは？", "o": ["Ich komme aus Deutschland.", "Ich spreche gern Englisch.", "Meine Muttersprache ist Koreanisch."], "a": 2, "why": "die Muttersprache = 母語。最初に覚えた言葉をたずねるときに使います。"},
     "outro": "今日は「Ich komme aus …, ich spreche …」で30秒の自己紹介を声に出してやってみましょう。🎤"
+  },
+  "tr": {
+    "title": "Nerelisiniz? Ülkeler ve dillerle ilgili 10 Almanca kelime",
+    "hook": "Almanya’da en çok duyacağınız soru muhtemelen ‘Woher kommst du?’dur.",
+    "intro": [
+      "Bir partide yeni tanıştığınız biri soruyor: ‘Aus welchem Land kommst du?’ Cevap veriyorsunuz ve hemen ardından bir sonraki soru geliyor: ‘Welche Sprachen sprichst du?’",
+      "İşte ülkeler ve dillerle ilgili on kelime. Bunlarla kendinizi tanıtabilir, uyruk kutusunu doldurabilir ve konuştuğunuz diller hakkında sohbet edebilirsiniz. 🌐"
+    ],
+    "words": {
+      "A1-209": {"pron": "LANT", "tip": "İngilizce land ile aynı kökten 🗺️ Ülke, kara, kırsal: hepsi Land.", "bonus": "auf dem Land = kırsalda, taşrada · çoğulu: die Länder"},
+      "A1-151": {"pron": "ŞPRA-hı", "tip": "sprechen (konuşmak) fiilinin ismi 🗣️ Konuştuğunuz şey bir dildir.", "bonus": "Wie viele Sprachen sprichst du? = Kaç dil konuşuyorsun?"},
+      "A1-651": {"pron": "na-tsyo-na-li-TET", "tip": "-tät ile biten isimler her zaman die’dir 🛂 İngilizce nationality ile neredeyse aynı.", "bonus": "Resmi formlarda die Staatsangehörigkeit de görürsünüz."},
+      "A1-634": {"pron": "DOYÇ-lant", "tip": "deutsch + Land = Almanların ülkesi 🇩🇪", "warn": "Ülke adlarının çoğu artikel almaz: in Deutschland, aus Deutschland."},
+      "A1-672": {"pron": "ZÜT-ko-RE-a", "tip": "Süd (güney) + Korea 🇰🇷 Ich komme aus Südkorea!", "bonus": "Koreli = der Koreaner / die Koreanerin · Korece = Koreanisch"},
+      "A2-704": {"pron": "Ö-stır-rayh", "tip": "Ost (doğu) + Reich (krallık) = doğu krallığı 🏔️ Eski adı Ostarrichi’den gelir.", "bonus": "Avusturyalı = der Österreicher / die Österreicherin"},
+      "A2-674": {"pron": "ENG-liş", "tip": "England + -isch = İngilizce 🇬🇧 Dil adları büyük harfle başlar.", "warn": "Konuşulan dil olarak artikelsiz: Ich spreche Englisch."},
+      "B1-1173": {"pron": "MU-tır-şpra-hı", "tip": "Mutter (anne) + Sprache = anneden öğrenilen dil 👩 Tıpkı Türkçedeki „ana dili“ gibi!", "bonus": "Meine Muttersprache ist Koreanisch."},
+      "B1-227": {"pron": "FREMT-şpra-hı", "tip": "fremd (yabancı, tuhaf) + Sprache = yabancı dil 🧳", "bonus": "yabancı (başka ülkeden) = der Ausländer · tanımadığınız kişi = der Fremde"},
+      "A1-059": {"pron": "ŞPRE-hın", "tip": "İngilizce speak ile kuzen 💬 du sprechst değil, du sprichst!", "warn": "Düzensiz: du sprichst, er spricht · hat gesprochen"}
+    },
+    "culture": [
+      "Almanca sadece Almanya’da konuşulmaz. Avusturya’da, İsviçre’nin bazı bölgelerinde, Lihtenştayn’da ve başka yerlerde de kullanılır. Kelimeler ve aksanlar değişir: Avusturya’da patatese Erdapfel denebilir.",
+      "Almancada Land, federal eyalet anlamına da gelebilir. Almanya 16 Bundesland’dan oluşur; okul tatilleri ve bazı resmi tatiller çoğu zaman eyaletten eyalete farklıdır.",
+      "Ülke adlarının çoğu artikel almaz ama die Schweiz, die Türkei ve die USA gibi istisnalar vardır. Yani „İsviçreliyim“ Ich komme aus der Schweiz. olur. 🇨🇭"
+    ],
+    "quiz": {"q": "Sınıfa yeni gelen biri ana dilinizi soruyor. Hangi cevap uygun?", "o": ["Ich komme aus Deutschland.", "Ich spreche gern Englisch.", "Meine Muttersprache ist Koreanisch."], "a": 2, "why": "die Muttersprache ana dil, yani ilk öğrendiğiniz dil demektir."},
+    "outro": "‘Ich komme aus …, ich spreche …’ kalıbıyla 30 saniyelik bir tanıtımı yüksek sesle yapın. Ich komme aus der Türkei da harika bir başlangıç! 🎤"
   }
 }

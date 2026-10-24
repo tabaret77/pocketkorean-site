@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "気に入ったズボンを見つけました。試着したいとき、店員さんに何と言いますか？", "o": ["Die Hose ist zu lang.", "Kann ich die Hose anprobieren?", "Zieh bitte die Schuhe aus."], "a": 1, "why": "anprobieren = 試着する。「このズボンを試着してもいいですか？」という意味です。"},
     "outro": "今日はクローゼットの前で、服を一つずつドイツ語で呼んでみましょう。Die Hose passt! と言えたら大成功です！👖"
+  },
+  "tr": {
+    "title": "Almanca kıyafet alışverişi: Bilmeniz gereken 10 kelime",
+    "hook": "Hiç tam aradığınız pantolonu bulup, deneme kabinini soramadığınız için rafa geri koydunuz mu?",
+    "intro": [
+      "Bir Alman giyim mağazasında indirim sezonu. Elinizde bir pantolon var ve bir görevli soruyor: \"Kann ich Ihnen helfen?\" Bedenleri ve deneyip deneyemeyeceğinizi sormak istiyorsunuz ama kelimeler gelmiyor.",
+      "Bugünün on kelimesi tam da giyim mağazası için. Bunlarla beden sorabilir, kıyafet deneyebilir, hatta \"biraz dar oldu\" bile diyebilirsiniz. Alışveriş artık çok daha keyifli! 🛍️"
+    ],
+    "words": {
+      "A1-506": {"pron": "KLAY-dunk", "tip": "das Kleid (elbise) + -ung = bütün kıyafetleriniz 👗 -ung, die demek!", "warn": "Çoğulu yok: „kıyafetler“ basitçe die Kleidung’dur."},
+      "A1-161": {"pron": "HO-zı", "tip": "Bahçe hortumu (İngilizce hose) gibi, ama her bacak için bir tane 👖", "warn": "Tekildir: eine Hose = bir pantolon. Tıpkı Türkçedeki gibi, İngilizce trousers gibi çoğul değil!"},
+      "A1-162": {"pron": "HEMT", "tip": "Boğazınızı temizleyin, „hem!“, ve gömleğinizi ilikleyin 👔", "bonus": "Tişört das T-Shirt, bluz die Bluse’dir."},
+      "A1-163": {"pron": "YA-kı", "tip": "Sonu kesilmiş bir ceket (jacket) 🧥 Unutmayın: Almanca j, y gibi okunur.", "bonus": "Almanlar neredeyse her dış giysiye ya da yağmurluğa Jacke der."},
+      "A1-164": {"pron": "ŞU", "tip": "İngilizce shoe gibi okunur 👟 Kolay!", "bonus": "ayakkabıları çıkarmak = die Schuhe ausziehen · giymek = anziehen"},
+      "BL-17-03": {"pron": "GRÖ-sı", "tip": "groß (büyük) + -e = büyüklük, beden 📏 Sıfat + -e çoğu zaman die bir isim verir.", "bonus": "bir beden büyük = eine Nummer größer · bir beden küçük = eine Nummer kleiner"},
+      "BL-17-01": {"pron": "AN-pro-bi-rın", "tip": "an (üstüne) + probieren (denemek) = üstünde denemek 🪞 Bizdeki „prova“ ile akraba!", "warn": "Ayrılabilen fiil: Ich probiere die Hose an. Ortacı: anprobiert (ge- yok)."},
+      "BL-17-02": {"pron": "UM-klay-dı-ka-bi-nı", "tip": "um (değiştirmek) + Kleid (giysi) + Kabine (kabin) = üstünü değiştirme kabini 🚪 Uzun ama sadece Lego.", "bonus": "Sohbette sadece die Kabine demeniz yeterli."},
+      "BL-17-04": {"pron": "PA-sın", "tip": "Pantolon testi geçti (İngilizce pass), oldu! 🧩 Passt! = Tam oldu!", "warn": "passen = (beden olarak) uymak, stehen = yakışmak: Die Farbe steht dir."},
+      "BL-17-05": {"pron": "ENG", "tip": "Çok mu dar? Nefes almaya çalışırken „eng!“ diye inlersiniz 😣", "bonus": "Tersi: weit (bol) · Bu bana çok dar = Das ist mir zu eng."}
+    },
+    "culture": [
+      "Alman beden ölçüleri İngiltere ya da ABD bedenleriyle aynı değildir. Kadın giyiminde genellikle 36, 38, 40 gibi, erkek giyiminde 48, 50, 52 gibi numaralar kullanılır; ama pek çok mağaza S, M ve L de kullanır. Ayakkabılar AB numaralarıyla (39, 40 …) satılır; bu yüzden başlarda denemek iyi bir fikirdir.",
+      "Mağazadan alınan kıyafetlerin değiştirilmesi ya da iadesi (Umtausch) mağazanın kendi politikasına bağlıdır. Pek çok zincir mağaza fişle (Kassenbon) ürünü geri alır; fişinizi mutlaka saklayın.",
+      "Unutmayın: Almanya’da dükkânların çoğu pazar günü kapalıdır. Bu yüzden cumartesi öğleden sonraları alışveriş caddeleri bu kadar kalabalıktır! 🛍️"
+    ],
+    "quiz": {"q": "Beğendiğiniz bir pantolon buldunuz. Denemek için görevliye ne sorarsınız?", "o": ["Die Hose ist zu lang.", "Kann ich die Hose anprobieren?", "Zieh bitte die Schuhe aus."], "a": 1, "why": "anprobieren = denemek; yani „Bu pantolonu deneyebilir miyim?“ demek."},
+    "outro": "Gardırobunuzu açın ve her parçanın adını yüksek sesle Almanca söyleyin. Die Hose passt! diyebiliyorsanız, tamamdır! 👖"
   }
 }
