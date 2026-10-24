@@ -33,6 +33,7 @@ POS = {'명사': ('noun', '名詞'), '동사': ('verb', '動詞'), '형용사': 
        '접속사': ('conjunction', '接続詞'), '수사': ('numeral', '数詞'), '관사': ('article', '冠詞')}
 def pos_label(p, g):
     if g == 'ko': return p
+    if g in POSX: return '/'.join(POSX[g].get(x, x) for x in p.split('/'))
     return '/'.join(POS.get(x, (x, x))[0 if g == 'en' else 1] for x in p.split('/'))
 
 S = {
@@ -103,8 +104,24 @@ S = {
 HL = {'ko': 'ko', 'en': 'en', 'ja': 'ja'}
 FONTS = {'ko': 'Noto+Sans+KR:wght@400;500;700', 'en': 'Atkinson+Hyperlegible:wght@400;700', 'ja': 'Noto+Sans+JP:wght@400;500;700'}
 MON = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+MONTHS = {'en': MON}
+NATIVE = {'ko': '한국어', 'en': 'English', 'ja': '日本語'}
+POSX = {}
+# ---- extra languages: one file each in tools/german_langs/ (see tr.py). A language is built only when its app data exists.
+import importlib.util, glob as _glob
+LANGS = {}
+for _f in sorted(_glob.glob(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'german_langs', '*.py'))):
+    _sp = importlib.util.spec_from_file_location('pglang_' + os.path.basename(_f)[:-3], _f); _m = importlib.util.module_from_spec(_sp); _sp.loader.exec_module(_m)
+    LANGS[_m.CODE] = _m.L
+for _g, _L in LANGS.items():
+    if not (os.path.isdir(f'{SRC}/{_L["data"]}') or os.path.isdir(f'{G}/data/{_g}')): continue
+    GL.append(_g)
+    DP[_g] = _L['data']; HELP[_g] = _L['help']; APPFILE[_g] = _L['appfile']; WEBAPP[_g] = f'/german/web/{_L["appfile"]}'
+    LVNAME[_g] = _L['lvname']; S[_g] = _L['S']; HL[_g] = _L['hl']; FONTS[_g] = _L['font']; MONTHS[_g] = _L['months']
+    NATIVE[_g] = _L['native']; POSX[_g] = _L['pos']
+    PG_NAME[_g] = _L['name']; PG_MARK[_g] = _L['mark']; PG_BASE[_g] = f'/german/{_g}/'; PG_MENU[_g] = _L['menu']
 def fdate(g, d):
-    return S[g]['date_fmt'].format(y=d.year, m=d.month, d=d.day, mon=MON[d.month - 1])
+    return S[g]['date_fmt'].format(y=d.year, m=d.month, d=d.day, mon=MONTHS.get(g, MON)[d.month - 1])
 
 def write(path, s):
     p = f'{G}/{path}'
@@ -126,7 +143,7 @@ def shard(i):
 FROM_BUILT = not os.path.isdir(f'{SRC}/data')
 W = {g: {} for g in GL}
 PICS, PMAP = {}, {}
-WEBDP = {'ko': 'data', 'en': 'data_en', 'ja': 'data_ja'}
+WEBDP = DP
 if not FROM_BUILT:
     for g in GL:
         for lv in LVS:
@@ -198,8 +215,7 @@ def page(g, rel, title, desc, body, cur=None, alts=True):
         f'<link rel="alternate" hreflang="x-default" href="{BASE}{url("en", rel)}">' if alts else ''
     first = next((p for p, t in PG_MENU[g] if cur and p.split('#')[0] == cur), None)
     nav = ''.join(f'<a href="{url(g, p)}"{" aria-current=\"page\"" if p == first else ""}>{E(t)}</a>' for p, t in PG_MENU[g])
-    lsw = ''.join(f'<a href="{url(x, rel if alts else "")}" lang="{x}"{" aria-current=\"true\"" if x == g else ""}>{n}</a>'
-                  for x, n in (('ko', '한국어'), ('en', 'English'), ('ja', '日本語')))
+    lsw = ''.join(f'<a href="{url(x, rel if alts else "")}" lang="{x}"{" aria-current=\"true\"" if x == g else ""}>{NATIVE[x]}</a>' for x in GL)
     pk = '/ja/' if g == 'ja' else '/en/'
     return f'''<!doctype html><html lang="{HL[g]}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><meta name="description" content="{E(desc)}"><link rel="canonical" href="{canon}">{links}
@@ -209,7 +225,7 @@ def page(g, rel, title, desc, body, cur=None, alts=True):
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&amp;family={FONTS[g]}&amp;display=swap">
 <link rel="stylesheet" href="/german/assets/pg-{CSSV}.css"></head>
-<body class="pg" data-g="{g}" data-base="{url(g)}">
+<body class="pg" data-g="{g}" data-base="{url(g)}"{f' data-df="{E(S[g]["date_fmt"])}" data-mon="{E("|".join(MONTHS[g]))}"' if g in LANGS else ""}>
 <header class="pgtop"><div class="pgw pgbar">
 <a class="pgbrand" href="{url(g)}">{PG_LOGO}<span>{PG_MARK[g]}</span></a>
 <nav class="pgnav" aria-label="{E(PG_NAME[g])}">{nav}</nav>
@@ -281,7 +297,7 @@ CATN = {'news': {'ko': '뉴스 브리핑', 'en': 'News briefing', 'ja': 'ニュ�
 NEWS_H = {'ko': '오늘의 독일 뉴스', 'en': 'Germany today', 'ja': '今日のドイツニュース'}
 def news_heads(g, title):
     """split a briefing title into its headlines: ko/ja 'X (date)｜A + B + C', en 'Germany today (…): A, B, C'"""
-    if g == 'en':
+    if g not in ('ko', 'ja'):
         body = title.split(':', 1)[1] if ':' in title else title
         return [x.strip()[0].upper() + x.strip()[1:] for x in body.split(',') if x.strip()]
     body = re.split(r'[｜|]', title, maxsplit=1)[-1]
@@ -499,6 +515,7 @@ def word_posts(g, posts, d):
         body = post_body(g, key, P, None, tom, posts) + more
         write(f'{g + "/" if g != "ko" else ""}words/{key}/index.html',
               page(g, f'words/{key}/', f'{P[g]["title"]} | {PG_NAME[g]}', P[g].get('hook', ''), body, cur='today/'))
+    if not any(g in P for P in posts.values()): return
     grid = '<div class="agrid">' + ''.join(post_card(g, k, posts[k]) for k in order if g in posts[k]) + '</div>' if posts else ''
     body = phead(g, ps['all'], ps['all_p']) + f'<section class="pgw life">{grid}</section>'
     write(f'{g + "/" if g != "ko" else ""}words/index.html', page(g, 'words/', f'{ps["all"]} | {PG_NAME[g]}', ps['all_p'], body, cur='today/'))
@@ -528,7 +545,8 @@ def sitemap():
     for g in GL:
         for p in ['', 'dictionary/', 'today/', 'life/', 'privacy/', 'support/']:
             urls.append(f'{BASE}{url(g, p)}')
-        urls += [f'{BASE}{url(g, "words/")}'] + [f'{BASE}{url(g, "words/" + k + "/")}' for k in load_posts()]
+        wp = [k for k, P in load_posts().items() if g in P]
+        if wp: urls += [f'{BASE}{url(g, "words/")}'] + [f'{BASE}{url(g, "words/" + k + "/")}' for k in wp]
         urls += [f'{BASE}{url(g, "life/" + a["slug"] + "/")}' for a in load_articles(g)]
     open(f'{OUT}/sitemap-german.xml', 'w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
                                                    + ''.join(f'<url><loc>{u}</loc></url>' for u in urls) + '</urlset>')
@@ -537,6 +555,13 @@ def sitemap():
     if 'sitemap-german.xml' not in s:
         s = s.replace('</sitemapindex>', f'<sitemap><loc>{BASE}/sitemap-german.xml</loc></sitemap></sitemapindex>')
         open(si, 'w').write(s)
+
+for _g in GL:
+    if _g in LANGS:
+        _L = LANGS[_g]; PS[_g] = _L['PS']; CATN['news'][_g] = _L['catn']['news']; CATN['life'][_g] = _L['catn']['life']
+        NEWS_H[_g] = _L['news_h']; SUP_T[_g] = _L['sup_t']; PRIV_T[_g] = _L['priv_t']
+        import privacy_text, support_text
+        privacy_text.add_pg(_g, _L); support_text.add_pg(_g, _L)
 
 def main():
     import zoneinfo

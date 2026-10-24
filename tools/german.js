@@ -63,6 +63,7 @@
   function dayIndex(d, n) { var doy = Math.floor((d - new Date(d.getFullYear(), 0, 0)) / 864e5); return (doy + d.getFullYear() * 7) % n; }
   function iso(d) { return d.getFullYear() + "-" + ("0" + (d.getMonth() + 1)).slice(-2) + "-" + ("0" + d.getDate()).slice(-2); }
   function fdate(d) {
+    if (B.dataset.df) { var M = (B.dataset.mon || "").split("|"); return B.dataset.df.replace("{d}", d.getDate()).replace("{m}", d.getMonth() + 1).replace("{y}", d.getFullYear()).replace("{mon}", M[d.getMonth()] || ""); }
     if (G === "en") return ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"][d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
     return G === "ja" ? d.getFullYear() + "年" + (d.getMonth() + 1) + "月" + d.getDate() + "日" : d.getFullYear() + "년 " + (d.getMonth() + 1) + "월 " + d.getDate() + "일";
   }

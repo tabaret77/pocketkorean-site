@@ -1209,7 +1209,7 @@ body:not([data-tab="home"]) .brand .pkic{width:28px;height:28px;border-radius:7p
 
 <script>
 const LANG="en",MON=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],POSEN={"\uba85\uc0ac": "noun", "\ub3d9\uc0ac": "verb", "\ud615\uc6a9\uc0ac": "adjective", "\ubd80\uc0ac": "adverb", "\ud45c\ud604": "phrase", "\uc18d\ub2f4": "proverb", "\uc804\uce58\uc0ac": "preposition", "\ub300\uba85\uc0ac": "pronoun", "\uac10\ud0c4\uc0ac": "interjection", "\uc811\uc18d\uc0ac": "conjunction", "\uc218\uc0ac": "numeral", "\uad00\uc0ac": "article"},posEN=p=>String(p||"").split("/").map(x=>POSEN[x]||x).join(" / "),DP=LANG==="ko"?"data/":"data_"+LANG+"/",BLOGK=LANG==="ko"?"wk_blog":"wk_blog_"+LANG,INBK=LANG==="ko"?"wk_inbox":"wk_inbox_"+LANG;
-const WEB=location.protocol==="https:"&&!/appassets\./.test(location.hostname),WEBURL={ko:"/german/web/",en:"/german/web/index_en.html",ja:"/german/web/index_ja.html"};
+const WEB=location.protocol==="https:"&&!/appassets\./.test(location.hostname),WEBURL={ko:"/german/web/",en:"/german/web/index_en.html",ja:"/german/web/index_ja.html",tr:"/german/web/index_tr.html"};
 function setLang(L){try{localStorage.setItem("wk_lang",L)}catch(e){}if(L===LANG)return;if(WEB){location.href=WEBURL[L];return}location.replace(L==="ko"?"index.html":"index_"+L+".html")}
 const LEVELS=[["A1","Beginner"],["A2","Elementary"],["B1","Intermediate"],["B2","Upper intermediate"],["C1","Advanced"],["C2","Proficient"]];
 /* ---------- 설정 (기기에 저장 + 계정에도 함께 저장) ---------- */

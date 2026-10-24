@@ -54,3 +54,6 @@ def pg(g, h='h1'):
     s = PG[g]; h2 = 'h3' if h == 'h2' else 'h2'
     return (f'<{h}>{s["t"]}</{h}><p class="lead">{s["lead"]}</p><{h2}>{s["faqh"]}</{h2}>{_faq(s["faq"])}'
             f'<{h2}>{s["ch"]}</{h2}><p>{s["cp"]}</p>')
+
+def add_pg(g, L):
+    PG[g] = L['support']

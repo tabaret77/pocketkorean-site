@@ -108,3 +108,20 @@ PG_PAY = {
 'ko': ('구매', '포켓독일어는 App Store에서 구매하는 유료 앱이에요. 결제는 Apple이 처리하고, 저희는 결제 정보를 받지 않아요. 앱 안에는 추가 결제, 구독, 광고가 없어요.'),
 'ja': ('購入', 'ポケットドイツ語は App Store で購入する有料アプリです。決済は Apple が処理し、私たちが支払い情報を受け取ることはありません。アプリ内課金、サブスクリプション、広告はありません。'),
 }
+
+# extra Pocket German languages (tools/german_langs/*.py): the whole policy comes from the language file
+PG_FULL = {}
+def add_pg(g, L):
+    out = []
+    for h, x in L['privacy']:
+        if h: out.append(f'<h2>{h}</h2>')
+        out.append('<ul>' + ''.join(f'<li>{i}</li>' for i in x) + '</ul>' if isinstance(x, list) else f'<p>{x}</p>')
+    PG_TITLE[g] = L['privacy_title']; UPDATED[g] = L['updated']
+    PG_FULL[g] = '\n'.join(out)
+_pg_body_main = pg_body
+def pg_body(g, h='h1'):
+    if g not in PG_FULL: return _pg_body_main(g, h)
+    b = f'<{h}>{PG_TITLE[g]}</{h}><p class="lead">{UPDATED[g]}</p>\n' + PG_FULL[g]
+    if h == 'h2':
+        b = b.replace('<h2>', '<h3>').replace('</h2>', '</h3>').replace(f'<h3>{PG_TITLE[g]}</h3>', f'<h2>{PG_TITLE[g]}</h2>')
+    return b

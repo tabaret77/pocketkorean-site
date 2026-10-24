@@ -1209,7 +1209,7 @@ body:not([data-tab="home"]) .brand .pkic{width:28px;height:28px;border-radius:7p
 
 <script>
 const LANG="ko",DP=LANG==="ko"?"data/":"data_"+LANG+"/",BLOGK=LANG==="ko"?"wk_blog":"wk_blog_"+LANG,INBK=LANG==="ko"?"wk_inbox":"wk_inbox_"+LANG;
-const WEB=location.protocol==="https:"&&!/appassets\./.test(location.hostname),WEBURL={ko:"/german/web/",en:"/german/web/index_en.html",ja:"/german/web/index_ja.html"};
+const WEB=location.protocol==="https:"&&!/appassets\./.test(location.hostname),WEBURL={ko:"/german/web/",en:"/german/web/index_en.html",ja:"/german/web/index_ja.html",tr:"/german/web/index_tr.html"};
 function setLang(L){try{localStorage.setItem("wk_lang",L)}catch(e){}if(L===LANG)return;if(WEB){location.href=WEBURL[L];return}location.replace(L==="ko"?"index.html":"index_"+L+".html")}
 const LEVELS=[["A1","입문"],["A2","초급"],["B1","중급"],["B2","중상급"],["C1","고급"],["C2","최상급"]];
 /* ---------- 설정 (기기에 저장 + 계정에도 함께 저장) ---------- */

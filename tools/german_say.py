@@ -35,6 +35,7 @@ def lexicon(words):
         else:
             for t in tok(de): VERBISH.add(t.lower())
 
+def STRICT(g): return g not in ('ko', 'ja', 'zh')   # Latin-script page languages: only clear German gets a button
 def is_german(run, g):
     s = run.strip(' ,')
     toks = re.findall(rf"[{LAT}]+", s)
@@ -48,11 +49,11 @@ def is_german(run, g):
     # German nouns are capitalised: a lower-case token that is only known as a noun is English (star, plan, parade …)
     if any(t[0].islower() and t.lower() in NOUN and t.lower() not in VERBISH for t in toks): return False
     if len(toks) == 1:
-        if g == 'en': return signal and known == 1
+        if STRICT(g): return signal and known == 1
         # on Korean/Japanese pages Latin text is nearly always German: accept capitalised words (nouns) too
         return len(toks[0]) >= 4 and (low[0] in LEX or toks[0][0].isupper() or signal)
-    if g == 'en' and not signal: return known == 1 and len(toks) >= 3 and re.search(r'[.!?]$', s) is not None
-    return known >= (0.8 if g == 'en' else 0.5) or (g != 'en' and signal)
+    if STRICT(g) and not signal: return known == 1 and len(toks) >= 3 and re.search(r'[.!?]$', s) is not None
+    return known >= (0.8 if STRICT(g) else 0.5) or (not STRICT(g) and signal)
 
 def button(t):
     TEXTS.add(t)

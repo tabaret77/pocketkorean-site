@@ -88,7 +88,7 @@ def pg_links(g, to=None):
     """menu labels in language g; links go to the pages in language `to` (default: same language)"""
     to = to or g
     return ''.join(f'<a href="{p2 if p2.startswith("/") else PG_BASE[to] + p2}">{E(t)}</a>' for (p, t), (p2, _) in zip(PG_MENU[g], PG_MENU[to]))
-PG_LANGS = '<span class="pglangs">' + ''.join(f'<a href="{PG_BASE[x]}" lang="{x}">{n}</a>' for x, n in (('ko', '한국어'), ('en', 'English'), ('ja', '日本語'))) + '</span>'
+PG_LANGS = '<span class="pglangs">' + ''.join(f'<a href="{PG_BASE[x]}" lang="{x}">{n}</a>' for x, n in (('ko', '한국어'), ('en', 'English'), ('ja', '日本語'), ('tr', 'Türkçe'))) + '</span>'
 
 
 ICON = {

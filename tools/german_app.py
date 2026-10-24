@@ -34,6 +34,14 @@ T = {
             store='App Storeで入手', soon='App Store 近日公開', keep='A1で続ける', home='ポケットドイツ語ホーム'),
 }
 
+# extra languages (tools/german_langs/*.py) whose app files are in SRC
+import glob as _glob, importlib.util as _ilu
+for _f in sorted(_glob.glob(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'german_langs', '*.py'))):
+    _sp = _ilu.spec_from_file_location('pgl_' + os.path.basename(_f)[:-3], _f); _m = _ilu.module_from_spec(_sp); _sp.loader.exec_module(_m)
+    if os.path.isdir(f'{SRC}/{_m.L["data"]}') and os.path.exists(f'{SRC}/{_m.L["appfile"]}'):
+        FILES[_m.CODE] = (_m.L['appfile'], _m.L['data']); HOME[_m.CODE] = f'/german/{_m.CODE}/'; T[_m.CODE] = _m.L['trial']
+WEBURL = '{' + ','.join(f'{g}:"/german/web/{"" if g == "ko" else FILES[g][0]}"' for g in FILES) + '}'
+
 TRIAL_CSS = '''<style>
 .pglock{position:relative}
 .pglock::after{content:"";position:absolute;top:4px;right:4px;width:14px;height:14px;opacity:.75;
@@ -120,9 +128,9 @@ def main():
         hd = 'help2' if g == 'ko' else f'help2_{g}'
         shutil.copytree(f'{SRC}/{hd}', f'{OUT}/{hd}')
         s = open(f'{SRC}/{page}').read()
-        s, n = re.subn(r'WEBURL=\{[^}]*\}', 'WEBURL={ko:"/german/web/",en:"/german/web/index_en.html",ja:"/german/web/index_ja.html"}', s)
+        s, n = re.subn(r'WEBURL=\{[^}]*\}', lambda m: 'WEBURL=' + WEBURL, s)
         assert n == 1, (g, 'WEBURL')
-        s, n = re.subn(r'if\(WEB\)\{try\{window\.open\(WEBURL\[L\],"_blank"\)\}catch\(e\)\{\}return\}', 'if(WEB){location.href=WEBURL[L];return}', s)
+        s, n = re.subn(r'if\(WEB\)\{try\{(?:if\(WEBURL\[L\]\))?window\.open\(WEBURL\[L\],"_blank"\)\}catch\(e\)\{\}return\}', 'if(WEB){location.href=WEBURL[L];return}', s)
         assert n == 1, (g, 'lang switch')
         head = (f'<meta name="robots" content="noindex"><link rel="canonical" href="https://pocketkorean.com{HOME[g]}">'
                 f'<link rel="icon" href="/german/assets/icon.svg" type="image/svg+xml">')
