@@ -8,8 +8,9 @@ date: 2026-10-21
 description: "楓葉、釜山上空的煙火、醃泡菜季和冬季燈飾。按月份帶你看2026年10月下旬到12月的韓國有什麼活動。"
 phrase: 단풍
 phrase_meaning: 楓葉、秋天的紅葉
-cover: /media/covers/korea-autumn-winter-festival-guide-v2.jpg
-thumb: /media/covers/korea-autumn-winter-festival-guide-v2-t.jpg
+cover: /media/library/travel/autumn-maple-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
+thumb: /media/library/travel/autumn-maple-pk-1.jpg
 draft: false
 ---
 

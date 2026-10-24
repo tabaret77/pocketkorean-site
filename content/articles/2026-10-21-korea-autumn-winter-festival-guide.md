@@ -7,8 +7,9 @@ date: 2026-10-21
 description: Autumn leaves, fireworks over Busan, kimchi-making season and winter lights. What's on in Korea from late October to December 2026, month by month.
 phrase: 단풍
 phrase_meaning: autumn leaves
-cover: /media/covers/korea-autumn-winter-festival-guide-v2.jpg
-thumb: /media/covers/korea-autumn-winter-festival-guide-v2-t.jpg
+cover: /media/library/travel/autumn-maple-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
+thumb: /media/library/travel/autumn-maple-pk-1.jpg
 draft: false
 ---
 

@@ -8,8 +8,9 @@ date: 2026-10-21
 description: "紅葉、釜山の花火、キムジャンの季節、冬のイルミネーション。2026年10月下旬から12月まで、韓国で楽しめるイベントを月ごとに紹介します。"
 phrase: 단풍
 phrase_meaning: 紅葉
-cover: /media/covers/korea-autumn-winter-festival-guide-v2.jpg
-thumb: /media/covers/korea-autumn-winter-festival-guide-v2-t.jpg
+cover: /media/library/travel/autumn-maple-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
+thumb: /media/library/travel/autumn-maple-pk-1.jpg
 draft: false
 ---
 

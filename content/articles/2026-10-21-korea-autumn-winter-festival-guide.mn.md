@@ -8,8 +8,9 @@ date: 2026-10-21
 description: "Намрын навч, Пусаны тэнгэрт буух салют, кимчи даршлах улирал, өвлийн гэрэлтүүлэг. 2026 оны 10-р сарын сүүлээс 12-р сар хүртэл Солонгост юу болохыг сар сараар нь."
 phrase: 단풍
 phrase_meaning: намрын навч
-cover: /media/covers/korea-autumn-winter-festival-guide-v2.jpg
-thumb: /media/covers/korea-autumn-winter-festival-guide-v2-t.jpg
+cover: /media/library/travel/autumn-maple-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
+thumb: /media/library/travel/autumn-maple-pk-1.jpg
 draft: false
 ---
 

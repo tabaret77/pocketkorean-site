@@ -8,8 +8,9 @@ date: 2026-10-21
 description: "Lá mùa thu, pháo hoa trên bầu trời Busan, mùa muối kimchi và đèn mùa đông. Hàn Quốc có gì từ cuối tháng 10 đến tháng 12/2026, theo từng tháng."
 phrase: 단풍
 phrase_meaning: lá mùa thu, lá phong đỏ
-cover: /media/covers/korea-autumn-winter-festival-guide-v2.jpg
-thumb: /media/covers/korea-autumn-winter-festival-guide-v2-t.jpg
+cover: /media/library/travel/autumn-maple-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
+thumb: /media/library/travel/autumn-maple-pk-1.jpg
 draft: false
 ---
 
