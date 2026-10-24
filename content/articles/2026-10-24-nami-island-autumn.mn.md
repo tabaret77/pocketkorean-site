@@ -6,6 +6,8 @@ section: life-travel
 category: places
 date: 2026-10-24
 description: "Нами арал 10-р сарын сүүлээр шар, улаан өнгөөр будагддаг. Сөүлээс галт тэрэг, шаттл автобус, гатлага онгоц эсвэл зиплайнаар хэрхэн очих, 2026 онд ямар үнэтэй, мөн модоор хүрээлэгдсэн аль замаар хамгийн түрүүнд алхах тухай."
+cover: /media/library/travel/nami-ginkgo-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
 phrase: 은행나무길
 phrase_meaning: "гинкго модоор хүрээлэгдсэн зам"
 draft: false

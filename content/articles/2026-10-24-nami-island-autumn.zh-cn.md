@@ -6,6 +6,8 @@ section: life-travel
 category: places
 date: 2026-10-24
 description: "10月底，南怡岛一片金黄与火红。从首尔乘火车、班车、渡船或滑索怎么去，2026年的费用是多少，以及应该先走哪几条林荫小路。"
+cover: /media/library/travel/nami-ginkgo-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
 phrase: 은행나무길
 phrase_meaning: "银杏小路"
 draft: false

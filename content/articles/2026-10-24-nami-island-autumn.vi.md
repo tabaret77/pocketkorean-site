@@ -6,6 +6,8 @@ section: life-travel
 category: places
 date: 2026-10-24
 description: "Đảo Nami nhuộm vàng và đỏ vào cuối tháng 10. Cách đi từ Seoul bằng tàu hỏa, xe buýt đưa đón, phà hoặc zipline, chi phí năm 2026, và nên dạo những con đường rợp bóng cây nào trước."
+cover: /media/library/travel/nami-ginkgo-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
 phrase: 은행나무길
 phrase_meaning: "con đường rợp bóng cây ngân hạnh"
 draft: false

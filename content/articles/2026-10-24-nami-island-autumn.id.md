@@ -6,6 +6,8 @@ section: life-travel
 category: places
 date: 2026-10-24
 description: "Pulau Nami berubah kuning dan merah di akhir Oktober. Cara ke sana dari Seoul dengan kereta, bus antar-jemput, feri, atau zipline, biayanya di 2026, dan jalan berpohon mana yang sebaiknya dijelajahi lebih dulu."
+cover: /media/library/travel/nami-ginkgo-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
 phrase: 은행나무길
 phrase_meaning: "jalan berderet pohon ginkgo"
 draft: false

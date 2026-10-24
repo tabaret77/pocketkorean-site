@@ -6,6 +6,8 @@ section: life-travel
 category: places
 date: 2026-10-24
 description: "南怡島在十月底會染成一片金黃和火紅。從首爾怎麼搭火車、接駁巴士、渡輪或高空滑索前往，2026 年的費用，以及該先走哪幾條林蔭步道。"
+cover: /media/library/travel/nami-ginkgo-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
 phrase: 은행나무길
 phrase_meaning: "銀杏林蔭步道"
 draft: false

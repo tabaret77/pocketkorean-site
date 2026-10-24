@@ -6,6 +6,8 @@ section: life-travel
 category: places
 date: 2026-10-24
 description: "La isla Nami se pinta de amarillo y rojo a finales de octubre. Cómo llegar desde Seúl en tren, autobús lanzadera, ferry o tirolesa, cuánto cuesta en 2026 y qué caminos arbolados recorrer primero."
+cover: /media/library/travel/nami-ginkgo-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
 phrase: 은행나무길
 phrase_meaning: "camino bordeado de ginkgos"
 draft: false

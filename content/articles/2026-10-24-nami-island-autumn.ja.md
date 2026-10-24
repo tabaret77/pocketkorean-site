@@ -6,6 +6,8 @@ section: life-travel
 category: places
 date: 2026-10-24
 description: "10月末、南怡島は黄色と赤に染まります。ソウルから列車、シャトルバス、フェリー、ジップラインでの行き方、2026年の料金、そして最初に歩きたい並木道を紹介します。"
+cover: /media/library/travel/nami-ginkgo-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
 phrase: 은행나무길
 phrase_meaning: "イチョウ並木の道"
 draft: false

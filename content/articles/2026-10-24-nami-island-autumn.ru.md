@@ -6,6 +6,8 @@ section: life-travel
 category: places
 date: 2026-10-24
 description: "В конце октября остров Нами становится жёлто-красным. Как добраться из Сеула на поезде, шаттле, пароме или зиплайне, сколько это стоит в 2026 году и по каким аллеям пройтись в первую очередь."
+cover: /media/library/travel/nami-ginkgo-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
 phrase: 은행나무길
 phrase_meaning: "аллея гинкго"
 draft: false
