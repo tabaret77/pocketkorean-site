@@ -112,13 +112,10 @@ def nav_cols(d):
     for slug, key, col, cats in SECTIONS:
         links = f'<a href="{L(d, slug + "/")}">{T("all_in", d)}</a>' + ''.join(f'<a href="{L(d, slug + "/" + c + "/")}">{T(k, d)}</a>' for c, k in cats)
         if slug == 'learn':
-            links += f'<a href="{L(d, "topik/")}">{T("nav_topik", d)}</a>'
+            links += (f'<a href="{L(d, "topik/")}">{T("nav_topik", d)}</a><a href="{L(d, "level-test/")}">{T("lt_nav", d)}</a>')
         cols.append((T(key, d), colour[col], links))
-    cols.append((T('sec_dict', d), '#2D4BFF',
-                 f'<a href="{L(d, "dictionary/")}">{T("dict_search", d)}</a><a href="{L(d, "topik/")}">{T("dict_bylevel", d)}</a>'
-                 f'<a href="{L(d, "grammar/")}">{T("nav_grammar", d)}</a><a class="star" href="{L(d, "name/")}">{T("name_nav", d)} ★</a>'))
     cols.append(('Pocket Korean', '#9B6CFF',
-                 f'<a href="{L(d, "level-test/")}">{T("lt_nav", d)}</a><a href="{L(d, "app/")}">{T("app_nav", d)}</a>'
+                 f'<a href="{APP}/?lang={d}">{T("try_app", d)}</a><a href="{L(d, "app/")}">{T("app_nav", d)}</a><a href="{L(d, "name/")}">{T("name_nav", d)}</a>'
                  f'<a href="{L(d, "about/")}">{T("about_nav", d)}</a><a href="/support/">{T("support", d)}</a><a href="/privacy/">{T("privacy", d)}</a>'))
     g = pg_lang(d)
     cols.append((PG_NAME[g], '#DD0000', f'<a href="{PG_BASE["ko"]}">{E(PG_NAME[g])}</a>' + pg_links(g, 'ko') + PG_LANGS))
@@ -134,7 +131,7 @@ def tabbar(d, cur):
     u = URL[d]; tl = lambda k: TABS[k].get(d) or TABS[k]['en']
     on = {'': 'home', None: 'home', 'dictionary': 'dict', 'name': 'name', 'learn': 'learn'}.get(cur, '')
     sv = lambda k: f'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">{TICON[k]}</svg>'
-    items = [('home', f'/{u}/', sv('home'), tl('home')), ('dict', f'/{u}/dictionary/', sv('dict'), tl('dict')),
+    items = [('home', f'/{u}/', sv('home'), tl('home')),
              ('name', f'/{u}/name/', '<span class="tn" lang="ko">이름</span>', tl('name')), ('learn', f'/{u}/learn/', sv('learn'), T('sec_learn', d)),
              ('app', f'{APP}/?lang={d}', sv('app'), tl('app'))]
     return '<nav class="tabbar" aria-label="' + E(T('menu', d)) + '">' + ''.join(
@@ -160,12 +157,13 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
               '}</script>')
     social = ''.join(f'<a class="sns" href="{E(v)}" aria-label="{n}" rel="noopener">{ICON[k]}</a>'
                      for k, n in (('ig', 'Instagram'), ('yt', 'YouTube'), ('tt', 'TikTok')) if (v := SOCIAL.get(k)))
-    top = [(s[0], s[1]) for s in SECTIONS] + [('dictionary', 'sec_dict'), ('name', 'name_nav'), ('level-test', 'lt_nav')]
+    top = [(s[0], s[1]) for s in SECTIONS] + [('name', 'name_nav'), (f'{APP}/?lang={d}', 'try_app')]
     cols = nav_cols(d)
     def _ni(i, p, k):
-        a = f'<a href="{L(d, p + "/")}"{" aria-current=\"page\"" if cur == p else ""}>{T(k, d)}</a>'
-        if i >= 5:
-            return f'<div class="ni" style="--c:{("#FFC21A", "#9B6CFF")[i - 5]}">{a}</div>'
+        href = p if p.startswith('http') else L(d, p + "/")
+        a = f'<a href="{href}"{" aria-current=\"page\"" if cur == p else ""}>{T(k, d)}</a>'
+        if i >= 4:
+            return f'<div class="ni" style="--c:{("#FFC21A", "#9B6CFF")[i - 4]}">{a}</div>'
         h, c, ls = cols[i]
         ls = re.sub(r'<a class="star"[^>]*>.*?</a>', '', ls)  # already a main menu item
         return f'<div class="ni has" style="--c:{c}">{a}<div class="sub"><div class="sl">{ls}</div></div></div>'
@@ -195,9 +193,7 @@ def page(d, rel, title, desc, body, alts=True, canonical=None, image=None, og_ty
 <header class="top" id="top"><div class="wrap bar">
 <a class="brand" href="/{u}/">{LOGO}<span>Pocket <em class="pkblue">Korean</em></span></a>
 <nav class="main" aria-label="Main">{navlinks}</nav>
-<div class="acts"><a class="iconbtn" href="{L(d, 'dictionary/')}" aria-label="{T('dict_search', d)}">{ICON['search']}</a>
-<button class="iconbtn" id="menubtn" aria-expanded="false" aria-controls="mega" aria-label="{T('menu', d)}">{ICON['menu']}</button>
-<a class="btn sm" href="{L(d, 'app/')}">{T('nav_app', d)}</a></div></div>
+<div class="acts"><button class="iconbtn" id="menubtn" aria-expanded="false" aria-controls="mega" aria-label="{T('menu', d)}">{ICON['menu']}</button></div></div>
 <nav class="mega" id="mega" aria-label="{T('menu', d)}"><form class="msearch" role="search" action="{L(d, 'dictionary/')}" method="get"><label for="mq"><b>{T('dict_search', d)}</b></label><div><input id="mq" name="q" type="search" placeholder="{E(T('search_ph', d))}" autocomplete="off"><button type="submit" aria-label="{E(T('search_btn', d))}">{ICON['search']}</button></div></form><div class="wrap cols">{mega}</div>
 <div class="strip"><div class="wrap"><div class="chips"><b>{T('popular', d)}</b>
 <a class="chip" href="{L(d, 'learn/topik-guide/')}">{T('cat_topik', d)}</a><a class="chip" href="{L(d, 'grammar/')}">{T('nav_grammar', d)}</a>
