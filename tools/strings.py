@@ -251,3 +251,31 @@ S['home_hero'] = {'en': '11,000 Korean words, explained in your language.', 'es'
                   'tw': '11,000 個韓文單字，用你的語言講清楚。', 'ja': '韓国語11,000語を、あなたの言葉で。',
                   'zh': '11,000 个韩语单词，用你的语言讲明白。', 'pt': '11.000 palavras em coreano, explicadas no seu idioma.',
                   'ru': '11 000 корейских слов — с объяснениями на вашем языке.', 'mn': 'Солонгос 11,000 үг — таны хэлээр тайлбартай.'}
+
+# home hero (same layout as Pocket German): kicker, pitch, web button, App Store badge, free note
+S['hk_kick'] = {'en': 'TOPIK 1–6 · 11,000 words', 'es': 'TOPIK 1–6 · 11.000 palabras', 'vi': 'TOPIK 1–6 · 11.000 từ', 'th': 'TOPIK 1–6 · 11,000 คำ',
+                'id': 'TOPIK 1–6 · 11.000 kata', 'yue': 'TOPIK 1–6 級 · 11,000 個生字', 'tw': 'TOPIK 1–6 級 · 11,000 個單字', 'ja': 'TOPIK 1〜6級 · 11,000語',
+                'zh': 'TOPIK 1–6 级 · 11,000 个单词', 'pt': 'TOPIK 1–6 · 11.000 palavras', 'ru': 'TOPIK 1–6 · 11 000 слов', 'mn': 'TOPIK 1–6 · 11,000 үг'}
+S['hk_lead'] = {'en': 'One card per word: meaning, native audio, an example and the story behind it — written for you, not machine-translated. Ten minutes a day takes you from TOPIK 1 to 6.',
+                'es': 'Una tarjeta por palabra: significado, audio nativo, un ejemplo y su historia, escritos para ti y no traducidos por máquina. Diez minutos al día te llevan del TOPIK 1 al 6.',
+                'vi': 'Mỗi từ một thẻ: nghĩa, giọng đọc bản xứ, câu ví dụ và câu chuyện đằng sau từ, viết cho bạn chứ không dịch máy. Mỗi ngày mười phút, từ TOPIK 1 đến 6.',
+                'th': 'คำละหนึ่งการ์ด: ความหมาย เสียงเจ้าของภาษา ประโยคตัวอย่าง และที่มาของคำ เขียนเพื่อคุณ ไม่ใช่แปลด้วยเครื่อง วันละสิบนาที จาก TOPIK 1 ถึง 6',
+                'id': 'Satu kartu per kata: arti, audio penutur asli, contoh kalimat, dan cerita di balik kata, ditulis untukmu, bukan terjemahan mesin. Sepuluh menit sehari dari TOPIK 1 sampai 6.',
+                'yue': '一個字一張卡：意思、母語發音、例句同埋個字背後嘅故事，專登為你寫，唔係機器翻譯。每日十分鐘，由 TOPIK 1 級學到 6 級。',
+                'tw': '一個字一張卡：意思、母語者發音、例句和單字背後的故事，專為你撰寫，不是機器翻譯。每天十分鐘，從 TOPIK 1 級走到 6 級。',
+                'ja': '1語につき1枚のカードに、意味、ネイティブ音声、例文、単語の成り立ちまで。機械翻訳ではなく、あなたの言語で書き下ろしました。1日10分でTOPIK 1級から6級へ。',
+                'zh': '一个词一张卡：意思、母语者发音、例句和单词背后的故事，专为你撰写，不是机器翻译。每天十分钟，从 TOPIK 1 级走到 6 级。',
+                'pt': 'Um cartão por palavra: significado, áudio nativo, um exemplo e a história por trás dela, escritos para você, não traduzidos por máquina. Dez minutos por dia levam você do TOPIK 1 ao 6.',
+                'ru': 'Одна карточка на слово: значение, озвучка носителем, пример и история слова — написано для вас, а не машинным переводом. Десять минут в день — от TOPIK 1 до 6.',
+                'mn': 'Үг бүрт нэг карт: утга, төрөлх хэлтний дуудлага, жишээ өгүүлбэр, үгийн гарал. Машин орчуулга биш, танд зориулж бичсэн. Өдөрт арван минутаар TOPIK 1-ээс 6 хүртэл.'}
+S['hk_try'] = {'en': 'Try it on the web', 'es': 'Pruébala en la web', 'vi': 'Dùng thử trên web', 'th': 'ลองใช้บนเว็บ', 'id': 'Coba di web', 'yue': '喺網頁試用',
+               'tw': '在網頁上試用', 'ja': 'ウェブで試す', 'zh': '在网页上试用', 'pt': 'Experimente na web', 'ru': 'Попробовать в браузере', 'mn': 'Вэбээр туршиж үзэх'}
+S['hk_soon'] = {'en': 'Coming soon to the App Store', 'es': 'Muy pronto en App Store', 'vi': 'Sắp có trên App Store', 'th': 'เร็ว ๆ นี้บน App Store',
+                'id': 'Segera hadir di App Store', 'yue': '即將登陸 App Store', 'tw': '即將登上 App Store', 'ja': 'App Store で近日公開', 'zh': '即将登陆 App Store',
+                'pt': 'Em breve na App Store', 'ru': 'Скоро в App Store', 'mn': 'Удахгүй App Store-д'}
+S['hk_free'] = {'en': 'On the web, levels 1 and 2 (about 1,600 words) are free.', 'es': 'En la web, los niveles 1 y 2 (unas 1.600 palabras) son gratis.',
+                'vi': 'Trên web, cấp 1 và 2 (khoảng 1.600 từ) được dùng miễn phí.', 'th': 'บนเว็บ ระดับ 1 และ 2 (ประมาณ 1,600 คำ) ใช้ฟรี',
+                'id': 'Di web, level 1 dan 2 (sekitar 1.600 kata) gratis.', 'yue': '網頁版第 1、2 級（約 1,600 個字）免費。', 'tw': '網頁版第 1、2 級（約 1,600 個單字）免費。',
+                'ja': 'ウェブ版ではレベル1・2（約1,600語）を無料で使えます。', 'zh': '网页版 1、2 级（约 1,600 个单词）免费。',
+                'pt': 'Na web, os níveis 1 e 2 (cerca de 1.600 palavras) são grátis.', 'ru': 'В браузере уровни 1 и 2 (около 1600 слов) бесплатны.',
+                'mn': 'Вэб хувилбарт 1, 2-р түвшин (ойролцоогоор 1,600 үг) үнэгүй.'}

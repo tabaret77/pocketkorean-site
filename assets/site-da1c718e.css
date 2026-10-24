@@ -634,3 +634,16 @@ footer.site .pglangs{border-top-color:#2E3466}footer.site .pglangs a{background:
 .lbtn.main{background:var(--blue);color:#fff;box-shadow:none}.lbtn.main small{color:#DDE3FF}.lbtn.main:hover{background:var(--blue-d)}
 @media (max-width:960px){.lbtns{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:480px){.lbtn{padding:12px 14px}.lbtn small{display:none}.lbtn b{font-size:16px}.lbtn svg{width:24px;height:24px}}
+/* home hero, same layout as Pocket German: copy left, app icon right */
+.hgrid{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,.75fr);gap:56px;align-items:center}
+.hkick{margin:0 0 12px;font-weight:700;font-size:16px;color:var(--blue)}
+.hsearch .hcopy h1{max-width:20ch}
+.hsearch .lead{margin:0 0 22px;color:var(--ink2);max-width:58ch;font-size:19px}
+.hbtns{display:flex;flex-wrap:wrap;gap:12px;margin-top:18px;align-items:center}
+.hbtns .btn{min-height:52px}
+.soon{display:inline-flex;align-items:center;gap:8px;min-height:52px;padding:0 18px;border-radius:14px;border:1.5px dashed var(--ink);color:var(--ink);font-weight:700;font-size:15px;opacity:.85}
+.hfree{margin:14px 0 0;font-size:14.5px;color:var(--muted)}
+.hart{aspect-ratio:1;border-radius:22%;background:#2446F0;display:grid;place-items:center;box-shadow:0 30px 60px rgba(36,70,240,.28);max-width:420px;justify-self:end;width:100%}
+.hart .hpk{width:78%;height:auto}
+@media (max-width:960px){.hgrid{grid-template-columns:minmax(0,1fr)}.hart{display:none}}
+@media (max-width:760px){.hsearch .lead{display:block;font-size:16px;margin-bottom:16px}.hkick{font-size:14px;margin-bottom:8px}.soon{min-height:46px;font-size:14px}.hbtns .btn{min-height:46px}}
