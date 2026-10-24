@@ -6,6 +6,8 @@ section: life-travel
 category: places
 date: 2026-10-24
 description: "เกาะนามิเปลี่ยนเป็นสีเหลืองและแดงในปลายเดือนตุลาคม วิธีเดินทางจากโซลด้วยรถไฟ รถชัตเทิล เรือข้ามฟาก หรือซิปไลน์ ค่าใช้จ่ายในปี 2026 และทางเดินต้นไม้เส้นไหนที่ควรไปเดินก่อน"
+cover: /media/library/travel/nami-ginkgo-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
 phrase: 은행나무길
 phrase_meaning: "ทางเดินที่เรียงรายด้วยต้นแปะก๊วย"
 draft: false

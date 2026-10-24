@@ -5,6 +5,8 @@ section: life-travel
 category: places
 date: 2026-10-24
 description: "Nami Island turns yellow and red at the end of October. How to get there from Seoul by train, shuttle bus, ferry or zipline, what it costs in 2026, and which tree-lined paths to walk first."
+cover: /media/library/travel/nami-ginkgo-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
 phrase: 은행나무길
 phrase_meaning: "ginkgo-lined path"
 draft: false

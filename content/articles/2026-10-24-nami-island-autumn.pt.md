@@ -6,6 +6,8 @@ section: life-travel
 category: places
 date: 2026-10-24
 description: "A Ilha Nami fica amarela e vermelha no fim de outubro. Como chegar saindo de Seul de trem, ônibus fretado, balsa ou tirolesa, quanto custa em 2026 e quais caminhos arborizados percorrer primeiro."
+cover: /media/library/travel/nami-ginkgo-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
 phrase: 은행나무길
 phrase_meaning: "caminho ladeado de ginkgos"
 draft: false

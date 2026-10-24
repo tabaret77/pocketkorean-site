@@ -6,6 +6,8 @@ section: life-travel
 category: places
 date: 2026-10-24
 description: "10 月底的南怡島一片金黃與火紅。如何由首爾乘火車、穿梭巴士、渡輪或滑索前往，2026 年的收費，以及哪幾條林蔭小徑最值得先走。"
+cover: /media/library/travel/nami-ginkgo-pk-1.jpg
+cover_credit: "Photo: Pocket Korean"
 phrase: 은행나무길
 phrase_meaning: "銀杏林蔭路"
 draft: false
