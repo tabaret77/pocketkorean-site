@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "初めての会社に問い合わせメールを書きます。担当者の名前はわかりません。どう書き始めますか？", "o": ["Sehr geehrte Damen und Herren,", "Hallo zusammen,", "Viele Grüße,"], "a": 0, "why": "宛先の人がわからない改まったメールは Sehr geehrte Damen und Herren, で始めます。"},
     "outro": "今日のメールをひとつ、ドイツ語のあいさつで始めて結んでみましょう。電話の最後には Ich gebe Ihnen Bescheid! もお忘れなく。📧"
+  },
+  "tr": {
+    "title": "Gelen kutusu Almancası: iş e-postaları ve telefonları için 10 kelime",
+    "hook": "Almanca bir iş e-postasının nasıl başlayıp bittiğini bilirseniz, yarısını zaten yazmışsınız demektir.",
+    "intro": [
+      "Pazartesi sabahı ve gelen kutunuz Almanca e-postalarla dolu. Bu mesaj bir eki kontrol etmenizi mi istiyor, yoksa birini geri aramanızı mı? Çeviri uygulaması bile emin değil. Peki cevabınız Sehr geehrte ile mi başlamalı, yoksa sadece Hallo ile mi?",
+      "Bugünkü on kelime iş e-postalarında ve telefon görüşmelerinde her gün karşınıza çıkar. Bunlarla okuyabilir, cevaplayabilir, iletebilir ve insanlara telefonla ulaşabilirsiniz. 📧"
+    ],
+    "words": {
+      "A1-463": {"pron": "İ-meyl", "tip": "Doğrudan İngilizceden alınmış 📧 ve neredeyse aynı okunur.", "warn": "Genelde die E-Mail; Güney Almanya ve Avusturya'da das da kullanılır."},
+      "A2-425": {"pron": "be-ANT-vor-ten", "tip": "be- + antworten (cevap vermek) = soru doğrudan nesne olur ↩️", "bonus": "Aynı anlam, farklı yapı: auf eine E-Mail antworten = eine E-Mail beantworten"},
+      "B2-1012": {"pron": "AN-hang", "tip": "an (-e) + hängen (asmak) = e-postanızın ucuna asılı dosya 📎", "bonus": "Klasik e-posta cümlesi: Im Anhang finden Sie den Vertrag."},
+      "B1-1801": {"pron": "VAY-ter-lay-ten", "tip": "weiter (ileri) + leiten (yönlendirmek) = bir sonraki kişiye göndermek ➡️", "warn": "Ayrılabilen: Ich leite die Mail weiter."},
+      "A2-472": {"pron": "ZEER ge-EER-te", "tip": "ehren, yani onurlandırmak fiilinden 🎩 Kelimesi kelimesine ‘çok saygıdeğer’ — Türkçedeki ‘Sayın’ gibi.", "warn": "Erkekler için bir r ekleyin: Sehr geehrter Herr Müller · Sehr geehrte Frau Weber"},
+      "A2-234": {"pron": "GRUS", "tip": "İngilizce greet ile akraba 👋 E-postalar hep Grüße ile biter.", "bonus": "Resmî: Mit freundlichen Grüßen · iş arkadaşlarına: Viele Grüße / Beste Grüße"},
+      "B1-203": {"pron": "AN-ruf", "tip": "an (-e) + Ruf (seslenme) = birine telefonla seslenmek 📞", "bonus": "cevapsız arama = der verpasste Anruf"},
+      "A2-823": {"pron": "tsu-RÜK-ru-fen", "tip": "zurück (geri) + rufen (aramak) = geri aramak 🔁", "warn": "Ayrılabilen: Ich rufe Sie gleich zurück."},
+      "B1-069": {"pron": "er-RAY-hen", "tip": "İngilizce reach'in ikizi 🙌 Birine telefonla ulaşırsanız onu erreichen etmişsinizdir.", "bonus": "Wie kann ich Sie erreichen? = Size nasıl ulaşabilirim?"},
+      "B1-506": {"pron": "be-ŞAYT GEY-ben", "tip": "Bir Bescheid (bildiri) vermek = birine haber vermek 💬 Sag mir Bescheid! = Bana haber ver!", "bonus": "Ich gebe Ihnen Bescheid. = Size haber veririm."}
+    },
+    "culture": [
+      "Tanımadığınız birine ilk e-posta genellikle Sehr geehrte Frau …, / Sehr geehrter Herr …, ile başlar ve Mit freundlichen Grüßen ile biter. Birbirini tanıyan iş arkadaşları arasında Hallo ve Viele Grüße çok yaygındır. Bu, büyük ölçüde şirkete bağlıdır.",
+      "Küçük bir ipucu: Hitaptan sonra virgül koyarsanız, sonraki satır küçük harfle başlar — isimse büyük harfini korur.",
+      "Almanlar telefonu açarken çoğu ‘alo’ yerine soyadını ya da şirket adını söyler: ‘Weber, guten Tag!’ 📞"
+    ],
+    "quiz": {"q": "Bir şirkete ilk kez yazıyorsunuz ve muhatabınızın adını bilmiyorsunuz. Nasıl başlarsınız?", "o": ["Sehr geehrte Damen und Herren,", "Hallo zusammen,", "Viele Grüße,"], "a": 0, "why": "Bilinmeyen bir alıcıya resmî bir e-postada Sehr geehrte Damen und Herren, ile başlanır."},
+    "outro": "Bugünkü e-postalarınızdan birini Almanca bir hitapla başlatıp bitirin. Bir sonraki telefon görüşmenizi de Ich gebe Ihnen Bescheid! ile kapatın. 📧"
   }
 }

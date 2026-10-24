@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "友だちに土曜のバーベキューに来るか聞かれました。「天気次第だよ」と答えるには？", "o": ["Das hängt vom Wetter ab.", "Ich warte für das Wetter.", "Ich interessiere mich in das Wetter."], "a": 0, "why": "abhängen von + 3格 = 〜次第である。ほかの2つは前置詞が間違っています（正しくは auf と für）。"},
     "outro": "今日の動詞10個を、warten auf、sich kümmern um … と前置詞とセットで、リズムよく声に出して読んでみましょう。相棒は絶対に離さないで！🎶"
+  },
+  "tr": {
+    "title": "Fiiller ve edatları: Birlikte öğrenilecek 10 çift",
+    "hook": "Ich warte für den Bus diyorsanız, bugün bunu düzeltme günü.",
+    "intro": [
+      "Kurduğunuz Almanca cümleyle gurur duyuyorsunuz ama Alman arkadaşınız sırıtarak düzeltiyor: „Nicht für den Bus, auf den Bus!“ Türkçede ‘otobüsü beklemek’ deriz, İngilizcede ‘wait for’; peki Almancada neden auf? Çünkü pek çok Almanca fiilin kendine ait bir edat ortağı vardır; tıpkı Türkçede ‘-e alışmak’, ‘-e güvenmek’ dediğimiz gibi.",
+      "Bugünkü 10 fiilin hepsinin sabit bir edatı var. Her fiili edatıyla tek bir parça olarak öğrenin; Almancanız çok daha doğal duyulacak ve sınavlarda daha az puan kaybedeceksiniz. Hadi çiftleri eşleştirelim! 🔗"
+    ],
+    "words": {
+      "BL-02-10": {"pron": "VAR-ten", "tip": "Otobüs durağında gözleriniz yolun üstündedir (auf) 🚌 warten auf + Akkusativ!", "warn": "İngilizcedeki ‘for’ gibi für değil: Ich warte auf den Bus."},
+      "A2-174": {"pron": "zih in-te-re-Sİ-ren", "tip": "Kalbiniz bir şey için (für) çarpar 🎨 sich interessieren für + Akkusativ", "warn": "İngilizcedeki gibi in değil: Ich interessiere mich für Kunst."},
+      "A2-071": {"pron": "zih KÜ-mern", "tip": "der Kummer (dert) kelimesinden: birinin etrafında (um) dertlenirsiniz 🐕", "bonus": "Ich kümmere mich darum. = Ben hallederim."},
+      "A2-075": {"pron": "zih ge-VÖ-nen", "tip": "wohnen (oturmak) ile akraba: bir yerde yeterince uzun oturursanız ona (an) yapışırsınız 🌧️ Türkçedeki ‘-e alışmak’ gibi.", "bonus": "Ich habe mich daran gewöhnt. = Buna alıştım."},
+      "A2-307": {"pron": "Bİ-ten", "tip": "Bir iyilik isterken onun etrafında (um) dönersiniz 🙏 jemanden um etwas bitten", "warn": "bitten (rica etmek), bieten (sunmak) ve beten (dua etmek) karıştırmayın!"},
+      "B1-283": {"pron": "AUF-pa-sen", "tip": "auf (üstünde) + passen (gözetmek) = gözünüzü üstünden ayırmayın 👀 Pass auf! = Dikkat et!", "warn": "Ayrılabilen fiil. Göz kulak olmak = aufpassen auf + Akkusativ: Ich passe auf die Kinder auf."},
+      "B1-326": {"pron": "zih kon-tsen-TRİ-ren", "tip": "con (birlikte) + centrum (merkez) = her şeyi tek bir noktanın üstüne (auf) toplamak 🎯", "warn": "Her zaman dönüşlü: Ich kann mich nicht konzentrieren."},
+      "B2-1743": {"pron": "HO-fen AUF", "tip": "İngilizce hope ile aynı kökten 🌈 Yağmur için gökyüzüne (auf) bakan çiftçileri düşünün.", "warn": "für değil auf + Akkusativ: Wir hoffen auf gutes Wetter."},
+      "B2-1782": {"pron": "zih fer-LA-sen AUF", "tip": "Sağlam birinin üstüne (auf) yaslanırsınız 🤝 Türkçedeki ‘-e bel bağlamak’ gibi.", "warn": "sich olmadan ‘terk etmek’ demek: Er verlässt die Stadt. ile Ich verlasse mich auf dich. karşılaştırın."},
+      "B2-1684": {"pron": "AP-hen-gen FON", "tip": "ab (-den) + hängen (asılı olmak) = bir şeye asılı olmak, ona bağlı olmak 🪢 von her zaman Dativ alır!", "bonus": "Das hängt davon ab. = Duruma göre değişir."}
+    },
+    "culture": [
+      "Bir Almana neredeyse her şeyi sorun, büyük ihtimalle „Das hängt davon ab“ ya da daha gündelik hâliyle „Kommt drauf an.“ cevabını duyarsınız. Bu, düz bir evet ya da hayır vermek yerine koşulları tartma şeklindeki bir sohbet alışkanlığını yansıtır.",
+      "İş yerinde „Ich kümmere mich darum“ duymak insanı rahatlatır. ‘Ben hallederim’ demektir ve insanlar sözünüzü tutmanızı bekler.",
+      "Arkadaşlar vedalaşırken bazen „Pass auf dich auf!“ (Kendine iyi bak!) der. Bugünkü fiiller gündelik vedalaşmalarda bile saklı! 🔗"
+    ],
+    "quiz": {"q": "Bir arkadaşınız cumartesi mangala gelip gelmeyeceğinizi soruyor. ‘Havaya bağlı’ nasıl dersiniz?", "o": ["Das hängt vom Wetter ab.", "Ich warte für das Wetter.", "Ich interessiere mich in das Wetter."], "a": 0, "why": "abhängen von + Dativ = -e bağlı olmak; diğer ikisi yanlış edat kullanıyor (auf ve für olmalıydı)."},
+    "outro": "Bugünkü 10 fiili parça hâlinde, biraz ritimle yüksek sesle okuyun: warten auf, sich kümmern um … Çiftleri asla ayırmayın! 🎶"
   }
 }

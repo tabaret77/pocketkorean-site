@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "同僚が大変なプロジェクトをやめたいと言っています。「あきらめないで！」と励ますには？", "o": ["Lieg nicht auf der faulen Haut!", "Gib dir keine Mühe!", "Wirf nicht gleich das Handtuch!"], "a": 2, "why": "das Handtuch werfen = あきらめる。Wirf nicht gleich das Handtuch! は「そんなにすぐあきらめないで！」という意味です。"},
     "outro": "今日やるべきことをひとつ、auf die lange Bank に押しやらずにすぐ片づけてみましょう。終わったら Ich bin am Ball geblieben! と自分をほめてあげてくださいね。💪"
+  },
+  "tr": {
+    "title": "İşte bir Alman gibi konuşun: 10 deyim",
+    "hook": "‘İşim başımdan aşkın’, ‘erteledim’ ve ‘pes ediyorum’u Almanların söylediği gibi söyleyin, sohbetleriniz canlansın.",
+    "intro": [
+      "Bir toplantıdan sonra iş arkadaşınız iç çekiyor: ‘Ich habe gerade so viel um die Ohren.’ Kulaklarının etrafında bir sürü şey mi? Başka bir iş arkadaşı gülüyor: ‘Nicht das Handtuch werfen!’ Peki neden havlu atmasın?",
+      "Bugünkü on deyim, insanlar iş ve okul hakkında konuşurken sürekli karşınıza çıkar. Gözünüzde canlandırın, hemen akılda kalırlar — ve bunlarla meşguliyeti, çabayı, tembelliği ve pes etmeyi tam bir Alman gibi anlatabilirsiniz. 💼"
+    ],
+    "words": {
+      "B2-1616": {"pron": "zih MÜ-e GEY-ben", "tip": "Kendinize zahmet (Mühe) verin = çaba gösterin 💪 Gib dir Mühe! = Daha çok uğraş!", "warn": "Burada sich datiftir: Ich gebe mir Mühe. · Du gibst dir Mühe."},
+      "C2-444": {"pron": "A-le HEN-de FOL tsu TUN HA-ben", "tip": "İki el (Hände) de iş dolu (voll) 🙌 Türkçedeki ‘başını kaşıyacak vakti yok’ gibi.", "bonus": "Ich habe alle Hände voll zu tun. = İşim başımdan aşkın."},
+      "C2-494": {"pron": "FİL um di O-ren HA-ben", "tip": "Kulaklarınızın (Ohren) etrafında vızıldayan işler 🐝 Türkçedeki ‘başım kalabalık’ gibi.", "bonus": "Kibarca hayır demenin yolu: Sorry, ich habe gerade viel um die Ohren."},
+      "C2-4087": {"pron": "di ER-mel HOH-krem-peln", "tip": "Kollarınızı (Ärmel) yukarı sıvayın (hochkrempeln) ve işe koyulun 💪 Türkçedeki ‘kolları sıvamak’ ile aynı!", "warn": "Ayrılabilen: Wir krempeln die Ärmel hoch."},
+      "C2-4081": {"pron": "am BAL BLAY-ben", "tip": "Futboldan: topu (Ball) ayağınızda tutun ⚽ = işin peşini bırakmayın.", "warn": "Perfekt sein ile: Ich bin am Ball geblieben."},
+      "C2-3295": {"pron": "zih ayn BAYN AUS-ray-sen", "tip": "O kadar uğraşıyorsunuz ki bacağınızı (Bein) koparacaksınız 🦵 Abartı sanatı — Türkçedeki ‘yırtınmak’ gibi.", "bonus": "Çoğu zaman olumsuz: Ich reiße mir kein Bein aus. = Bunun için kendimi paralayacak değilim."},
+      "C2-094": {"pron": "ET-vas auf di LAN-ge BANK Şİ-ben", "tip": "Dosyayı uzun sandığa (Bank) itin ve unutun 📦 Erteleme sanatı — Türkçedeki ‘rafa kaldırmak’.", "bonus": "Schieb das nicht auf die lange Bank! = Bunu sürüncemede bırakma!"},
+      "C2-3306": {"pron": "auf der FAU-len HAUT Lİ-gen", "tip": "Tembel (faul) derinizin (Haut) içinde uzanmak 🛋️ Türkçedeki ‘yan gelip yatmak’.", "bonus": "Tembelliğe başlamak sich auf die faule Haut legen'dir."},
+      "C2-3142": {"pron": "deyn İ-ne-ren ŞVAY-ne-hunt ü-ber-VİN-den", "tip": "İçinizdeki ‘domuz-köpeği’ yenin 🐷 Spor salonuna gitmeye üşendiğinizde onu düşünün!", "warn": "überwinden ayrılmaz: Ich habe meinen inneren Schweinehund überwunden."},
+      "C2-547": {"pron": "das HANT-tuh VER-fen", "tip": "Boksta antrenör maçı bitirmek için ringe havlu (Handtuch) atar 🥊 Türkçedeki ‘havlu atmak’ ile aynı.", "bonus": "Birini cesaretlendirmek için: Wirf nicht gleich das Handtuch!"}
+    },
+    "culture": [
+      "Birçok Alman iş ile boş zaman arasındaki sınırı ciddiye alır. İş sonrasındaki zamana Feierabend denir ve pek çok kişi o saatlerde iş mesajlarından uzak durur. İş arkadaşları ‘Schönen Feierabend!’ diyerek evlerine gider.",
+      "Birçok işyerinde — bazı bölgelerde diğerlerinden daha çok — iş arkadaşları öğle saatinde birbirini ‘Mahlzeit!’ diye selamlar. Kelimesi kelimesine ‘öğün’ demek ama öğle saatinin selamı olarak işler.",
+      "Yılbaşı civarında der innere Schweinehund'u sürekli duyarsınız. Herkes daha çok spor yapmaya ya da çalışmaya karar verir; asıl mesele o tembel iç sesi yenmektir. 🐷"
+    ],
+    "quiz": {"q": "Bir iş arkadaşınız zorlu bir projeyi bırakmak istiyor. ‘Pes etme!’ nasıl dersiniz?", "o": ["Lieg nicht auf der faulen Haut!", "Gib dir keine Mühe!", "Wirf nicht gleich das Handtuch!"], "a": 2, "why": "das Handtuch werfen = pes etmek; yani cümle ‘Hemen havlu atma!’ demektir."},
+    "outro": "auf die lange Bank ittiğiniz bir işi seçin ve bugün yapın. Bitince kendinize söyleyin: Ich bin am Ball geblieben! 💪"
   }
 }

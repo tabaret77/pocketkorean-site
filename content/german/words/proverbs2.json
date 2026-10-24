@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "イベントの席は予約できず、先に来た人から座れるそうです。合うことわざは？", "o": ["Kleider machen Leute.", "Wer zuerst kommt, mahlt zuerst.", "Aus den Augen, aus dem Sinn."], "a": 1, "why": "Wer zuerst kommt, mahlt zuerst. は「早い者勝ち」という意味です。"},
     "outro": "今日のことわざからひとつ選んで、今週中に一度使ってみましょう。難しい？ Rom ist auch nicht an einem Tag erbaut worden! 😉"
+  },
+  "tr": {
+    "title": "Her sohbete sıkıştırabileceğiniz 10 Almanca atasözü",
+    "hook": "Bir Alman hikâyesini bir atasözüyle bitirdiğinde siz de nihayet gülümseyip cevap verebileceksiniz.",
+    "intro": [
+      "Öğle yemeğinde bir meslektaşınız taşınmasının üzerinden bir hafta geçmeden çamaşır makinesinin de bozulduğunu söyleyip iç çekiyor. Biri „Ein Unglück kommt selten allein!“ diyor; herkes başını sallayıp gülüyor. Siz de ne anlama geldiğine dair hiçbir fikriniz olmadan gülüyorsunuz.",
+      "Bugünkü 10 atasözü Almanların gündelik hayatta gerçekten kullandıkları. Pek çoğunun Türkçede yakın bir ikizi var; bu yüzden sandığınızdan kolay öğrenilir. Almancanıza biraz tat katacaklar. 📜"
+    ],
+    "words": {
+      "C2-678": {"pron": "vo ayn Vİ-le ist, ist auh ayn VEK", "tip": "Wille ve Weg ikisi de W ile başlıyor 💪 Türkçedeki ‘isteyen dağları deler’ gibi!", "bonus": "İrade gücü = die Willenskraft"},
+      "C2-646": {"pron": "ayn UN-glük komt ZEL-ten a-LAYN", "tip": "‘Talihsizlik nadiren yalnız gelir’ ☔ Felaket tek gelmez!", "bonus": "Küçük şanssızlıklar için: Pech gehabt! (Şansına küs!)"},
+      "C2-663": {"pron": "KLAY-der MA-hen LOY-te", "tip": "Kıyafetler (Kleider) insanları (Leute) yapar 👔 Türkçedeki ‘kişiyi kılığıyla karşılar’ gibi!", "bonus": "Gottfried Keller'in bir uzun öyküsünün adı olarak da ünlüdür."},
+      "C2-665": {"pron": "ver tsu-ERST komt, MALT tsu-ERST", "tip": "Değirmene ilk gelen tahılını ilk öğütür 🌾 Kim önce gelirse!", "warn": "mahlt (öğütür) ile malt (boyar) tamamen aynı okunur. h'yi unutmayın."},
+      "C2-4166": {"pron": "ROM ist auh niht an AY-nem TAK er-BAUT VOR-den", "tip": "Türkçedeki ‘Roma bir günde kurulmadı’ ile aynı 🏛️ Almanca öğrenenler için mükemmel!", "bonus": "Benzeri: Gut Ding will Weile haben. (İyi şeyler zaman ister.)"},
+      "C2-4161": {"pron": "AN-de-re LEN-der, AN-de-re Zİ-ten", "tip": "Başka ülkeler (Länder), başka âdetler (Sitten) 🌏 Uyumlu ritmi akılda kalmasını sağlar; her memleketin âdeti başka!", "bonus": "Kültür şoku = der Kulturschock"},
+      "C2-4169": {"pron": "aus den AU-gen, aus dem ZİN", "tip": "Gözlerden (Augen) çıkan, akıldan (Sinn) çıkar 👀 Gözden ırak olan gönülden de ırak olur!", "warn": "Augen çoğul olduğu için den; Sinn tekil olduğu için dem."},
+      "C2-4164": {"pron": "ver niht VAKT, der niht ge-VİNT", "tip": "Göze almayan (wagen) kazanamaz (gewinnen) 🎲 Risk almayan kazanamaz.", "bonus": "Daha basit bir hâli: Wer nicht wagt, gewinnt nicht."},
+      "C2-664": {"pron": "Lİ-ber den ŞPATS in der HANT als di TAU-be auf dem DAH", "tip": "Damdaki güvercinden (Taube) eldeki serçe (Spatz) iyidir 🐦 Bugünün tavuğu yarının kazından iyidir!", "bonus": "Aynı ruh: auf Nummer sicher gehen (işi garantiye almak)"},
+      "C2-652": {"pron": "ven di KAT-se aus dem HAUS ist, TAN-tsen di MOY-ze auf dem TİŞ", "tip": "Kedi dışarıdayken fareler masada dans eder 🐭 Patron tatildeyken ofis! Kedi yoksa fareler cirit atar.", "bonus": "İnsanlar genellikle sadece ilk yarısını söyler: Wenn die Katze aus dem Haus ist …"}
+    },
+    "culture": [
+      "Almanlar atasözlerini sohbete oldukça doğal bir şekilde katar. Bir arkadaşınız kötü geçen bir haftasını anlattığında Ein Unglück kommt selten allein. gibi bir atasözü, anlayış göstermenin yaygın bir yoludur.",
+      "Uzun atasözlerinde insanlar çoğu zaman sadece ilk yarısını söyleyip cümleyi havada bırakır. Wenn die Katze aus dem Haus ist … yeterlidir; gerisini herkes bilir. Bu yüzden tamamını öğrenmeye değer.",
+      "Almanya'ya yeni gelenler sık sık Andere Länder, andere Sitten. sözünü duyar. Kültürle ilgili bir şey sizi şaşırttığında bunu aklınızda tutun. 🌍"
+    ],
+    "quiz": {"q": "Etkinlikte yer ayırtılamıyor: ilk gelen yeri kapıyor. Hangi atasözü uyar?", "o": ["Kleider machen Leute.", "Wer zuerst kommt, mahlt zuerst.", "Aus den Augen, aus dem Sinn."], "a": 1, "why": "Wer zuerst kommt, mahlt zuerst. ‘ilk gelen alır’ demektir."},
+    "outro": "Bugünkü atasözlerinden birini seçin ve bu hafta en az bir kez kullanın. Zor mu geliyor? Rom ist auch nicht an einem Tag erbaut worden! 😉"
   }
 }

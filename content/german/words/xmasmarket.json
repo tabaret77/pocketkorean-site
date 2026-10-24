@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "Glühwein を飲み終えて、カップを屋台に返しました。何が戻ってきますか？", "o": ["das Pfand", "die Mütze", "das Gedränge"], "a": 0, "why": "das Pfand = デポジット。カップを返すと、最初に払ったデポジットが戻ってきます。"},
     "outro": "温かい飲み物を片手に「Die Stimmung ist toll!」と声に出してみましょう。気分はもうクリスマスマーケットです！✨"
+  },
+  "tr": {
+    "title": "Elinizde Glühwein: Noel pazarı için 10 Almanca kelime",
+    "hook": "Alman kışları uzun ve karanlıktır — insanların yine de aralığı dört gözle beklemesinin sebebi Noel pazarıdır.",
+    "intro": [
+      "Alman kışında hava öğleden sonra dörtte kararır. Ama sonra meydanda ışıklar yanar, tarçın kokusu yayılır ve her şey değişir. Elinizde sıcak Glühwein, başınızda yün bere, kalabalığın arasından tezgâhtan tezgâha süzülürsünüz.",
+      "Bugünkü on kelime tam da pazarda kullanacağınız kelimeler: atmosfer, kokular, kalabalık — ve bardağınızın depozitosu. Bunlarla bir sonraki pazar ziyaretiniz daha da güzel olacak. 🎄"
+    ],
+    "words": {
+      "A2-836": {"pron": "VAY-nahts-markt", "tip": "Weihnachten (Noel) + Markt (pazar) 🎄 Ortadaki küçük s sadece yapıştırıcı.", "warn": "Çoğulu umlautlu: die Weihnachtsmärkte"},
+      "B1-2073": {"pron": "ŞTANT", "tip": "stehen (ayakta durmak) fiilinden — tezgâh kelimenin tam anlamıyla sokakta durur 🛖 Türkçedeki ‘stant’ gibi!", "bonus": "pazar tezgâhı = der Marktstand · çoğulu: die Stände"},
+      "B1-128": {"pron": "ŞTİ-munk", "tip": "stimmen (enstrüman akort etmek) fiilinden 🎻 Ruh hali, kalbinizin nasıl akort edildiğidir.", "bonus": "Die Stimmung ist super! = Atmosfer harika!"},
+      "B1-828": {"pron": "KEL-te", "tip": "kalt + umlaut + e = soğuk(luk) 🥶 İsme dönüşmüş bir sıfat.", "bonus": "Zıttı die Hitze'dir (sıcaklık) · üşümek, titremek = frieren"},
+      "A2-1075": {"pron": "NUS", "tip": "İngilizce nut ile aynı kökten 🌰 Satılan tahta fındıkkıranlar der Nussknacker'dır.", "warn": "Çoğulu umlautlu: die Nüsse"},
+      "BL-03-10": {"pron": "PFANT", "tip": "Bardağı geri verin, paranızı geri alın ♻️ İngilizce pawn (rehin) ile akraba.", "bonus": "depozitolu şişe = die Pfandflasche"},
+      "A2-290": {"pron": "MÜT-se", "tip": "Kulaklarınıza kadar indirdiğiniz bir bere gibi sıcacık duyulur — ‘mütze!’ 🧶", "bonus": "ponponlu bere = die Bommelmütze"},
+      "B1-2171": {"pron": "DUFT", "tip": "Derin bir nefes alın — ‘duft’ 👃 Hep güzel bir koku için kullanılır.", "bonus": "Fiili duften: Es duftet nach Zimt. = Tarçın kokuyor."},
+      "B2-2143": {"pron": "BU-meln", "tip": "‘Bum, bum’ diye sallanan bir çan gibi ağır ağır salınarak yürüyün 🔔 Hiçbir yere yetişmeden gezinmek.", "warn": "Bir yerde gezinmek anlamında perfekt sein ile: Wir sind über den Markt gebummelt."},
+      "B2-2016": {"pron": "ge-DREN-ge", "tip": "drängen (itmek) + Ge-…-e (bolca) = bir sürü itiş kakış 👥", "bonus": "Aynı kalıp: das Gebirge (sıradağlar) = bir sürü dağ"}
+    },
+    "culture": [
+      "Alman Noel pazarları genellikle kasım sonu civarında açılır ve Noel'den hemen öncesine kadar sürer. Nürnberg ve Dresden'dekiler gibi bazılarının yüzyıllık bir geçmişi vardır, ama birçok semtin de kendi küçük, sıcacık pazarı vardır.",
+      "Glühwein sipariş ettiğinizde bardak için bir Pfand ödersiniz. Geri getirirseniz depozitoyu geri alırsınız — ya da hatıra olarak saklarsınız. Alkol içmiyorsanız sıcak bir Kinderpunsch isteyin.",
+      "Akşamlar ve hafta sonları tek bir büyük Gedränge olabilir. Kalabalıkta cüzdanınızı ve telefonunuzu yakınınızda tutun; huzur içinde bummeln yapmak istiyorsanız hafta içi erken gidin. 🍷"
+    ],
+    "quiz": {"q": "Glühwein'ınızı bitirdiniz ve bardağı tezgâha geri götürdünüz. Ne geri alırsınız?", "o": ["das Pfand", "die Mütze", "das Gedränge"], "a": 0, "why": "das Pfand = depozito — bardağı iade edince geri alırsınız."},
+    "outro": "Sıcak bir içecek alın ve yüksek sesle ‘Die Stimmung ist toll!’ deyin. Kalbiniz şimdiden Noel pazarında! ✨"
   }
 }

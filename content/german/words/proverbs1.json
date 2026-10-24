@@ -80,5 +80,32 @@
     ],
     "quiz": {"q": "運転免許の試験に2回落ちた友だちが、3回目の試験に向かいます。応援のひとことは？", "o": ["Lügen haben kurze Beine.", "Viele Köche verderben den Brei.", "Aller guten Dinge sind drei!"], "a": 2, "why": "Aller guten Dinge sind drei = 三度目の正直！今度こそうまくいくよ、という応援です。"},
     "outro": "今日のことわざからお気に入りをひとつ選んで、使うチャンスを探してみましょう。声に出して3回言えば、Aller guten Dinge sind drei! 😉"
+  },
+  "tr": {
+    "title": "Yerli gibi konuşun: 10 Almanca atasözü",
+    "hook": "Alman bir arkadaşınız sohbetin ortasında bir atasözü patlatıyor ve siz ne demek olduğunu tam olarak biliyorsunuz; hayal edin.",
+    "intro": [
+      "Bir meslektaşınızın kızı tıpkı annesi gibi avukat olmuş. Biri gülümseyip „Na ja, der Apfel fällt nicht weit vom Stamm.“ diyor. Elma gövdeden uzağa düşmez mi? Ha, tabii: armut dibine düşer!",
+      "Bugünkü 10 atasözü Almanların gündelik hayatta gerçekten kullandıkları. Pek çoğunun Türkçede çok yakın bir ikizi var; bu yüzden sandığınızdan kolay öğrenilir. Sohbete bir tane sıkıştırın, Almancanız anında daha akıcı duyulsun! 📜"
+    ],
+    "words": {
+      "C2-627": {"pron": "MOR-gen-ştunt hat GOLT im MUNT", "tip": "Stund ile Mund kafiyeli: sabah saatinin ağzında altın var 🌅", "warn": "Morgenstund, Morgenstunde'nin eski bir kısa hâlidir ve sadece bu atasözünde kullanılır.", "bonus": "Türkçede: Erken kalkan yol alır."},
+      "C2-630": {"pron": "LÜ-gen HA-ben KUR-tse BAY-ne", "tip": "Yalanların bacakları kısadır, uzağa koşamazlar 🦵 Tıpkı yalancının mumunun yatsıya kadar yanması gibi, yakalanırsınız!", "bonus": "yalan = die Lüge · yalan söylemek = lügen"},
+      "C2-631": {"pron": "der AP-fel FELT niht VAYT fom ŞTAM", "tip": "Elmalar gövdenin (Stamm) hemen dibine düşer 🍎 Türkçedeki armut gibi, aynı resim!", "bonus": "‘Babasının oğlu’ anlamında da kullanılır."},
+      "C2-633": {"pron": "RE-den ist ZİL-ber, ŞVAY-gen ist GOLT", "tip": "Konuşmak (Reden) gümüş, susmak (Schweigen) altın alır 🥇 Türkçedeki ‘söz gümüşse sükût altındır’ ile birebir!", "bonus": "İsim olarak kullanılan fiiller das alır: das Reden, das Schweigen"},
+      "C2-628": {"pron": "ver tsu-LETST laht, laht am BES-ten", "tip": "En son (zuletzt) gülen en iyi (am besten) güler 😏 Türkçede de aynı!", "warn": "wer ile başlayan yan cümlede fiil sona gider: Wer zuletzt lacht, …"},
+      "C2-634": {"pron": "Fİ-le KÖ-he fer-DER-ben den BRAY", "tip": "Fazla aşçı lapayı (Brei) bozar 🍲 Türkçedeki ‘aşçı çoğalınca çorba bozulur’ gibi.", "warn": "der Koch çoğulda umlaut alır: die Köche."},
+      "C2-643": {"pron": "es ist niht A-les GOLT, vas GLENTST", "tip": "glänzen (parlamak), İngilizce glint ve glance ile kuzen ✨ Her parlayan altın değildir!", "bonus": "Çoğu zaman kısaltılır: Nicht alles Gold, was glänzt."},
+      "C2-4160": {"pron": "O-ne FLAYS kayn PRAYS", "tip": "Fleiß (emek) ile Preis (ödül) kafiyeli 🏆 Tıpkı Türkçedeki ‘emek olmadan yemek olmaz’ gibi!", "bonus": "fleißig = çalışkan · Du bist so fleißig!"},
+      "C2-4176": {"pron": "A-ler GU-ten Dİ-nge zint DRAY", "tip": "Bütün güzel şeyler üçtür 3️⃣ Türkçedeki ‘üç, Allah'ın sayısıdır’ gibi!", "warn": "aller, alle değildir; eski bir Genitiv çoğul hâlidir. Olduğu gibi ezberleyin."},
+      "C2-632": {"pron": "ver A zakt, mus auh BE ZA-gen", "tip": "A diyen B'yi de demeli 🔤 Başladığın işi bitir!", "bonus": "Almanca harfler: A ‘a’, B ‘be’ diye okunur; Türkçedeki gibi!"}
+    },
+    "culture": [
+      "Pek çok Almanca atasözü kafiyelidir (Stund ile Mund, Fleiß ile Preis) ve bu da onları kolay akılda tutulur kılar. Pek çok kişi bunları büyükanne ve büyükbabalarından, öğretmenlerinden tekrar tekrar duyarak büyür.",
+      "Sohbette insanlar çoğu zaman bir atasözünün sadece ilk yarısını söyler. „Na ja, wer zuletzt lacht …“ deyip durun, dinleyen gerisini kafasında tamamlar.",
+      "Bir teoriye göre Aller guten Dinge sind drei'deki Ding, eski Cermen mahkeme meclislerine işaret eder. Küçük bir kelime bile biraz tarih taşıyabilir. 📜"
+    ],
+    "quiz": {"q": "Arkadaşınız ehliyet sınavından iki kez kaldı ve üçüncü kez denemeye gidiyor. Onu yüreklendirmek için ne dersiniz?", "o": ["Lügen haben kurze Beine.", "Viele Köche verderben den Brei.", "Aller guten Dinge sind drei!"], "a": 2, "why": "Aller guten Dinge sind drei = üçüncüsünde olur; yani bu sefer başarılar diliyorsunuz."},
+    "outro": "Bugünkü en sevdiğiniz atasözünü seçin ve kullanmak için bir fırsat kollayın. Üç kez yüksek sesle söyleyin; aller guten Dinge sind drei! 😉"
   }
 }
